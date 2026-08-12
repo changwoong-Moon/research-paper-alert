@@ -681,6 +681,7 @@ def main():
         kci_status = "미등록"
     enrich_abstracts(state)
     prune_state(state)
+    os.makedirs(DATA_DIR, exist_ok=True)
     with open(STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=1)
     out = build_outputs(state, kci_status)
