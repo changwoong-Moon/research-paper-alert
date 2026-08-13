@@ -253,8 +253,9 @@ def fetch_kci(topic):
     records = []
     if not KCI_API_KEY:
         return records, "미등록"
-    date_from = (TODAY - timedelta(days=FETCH_DAYS)).strftime("%Y%m%d")
-    date_to = TODAY.strftime("%Y%m%d")
+    # KCI dateFrom/dateTo는 발행년월 YYYYMM 6자리 형식
+    date_from = (TODAY - timedelta(days=FETCH_DAYS)).strftime("%Y%m")
+    date_to = TODAY.strftime("%Y%m")
     errors = []
     for journal in topic["kci_journals"]:
         params = urllib.parse.urlencode({
@@ -307,7 +308,10 @@ def fetch_kci(topic):
             auths = []
             for a in node.iter():
                 if a.tag.split("}")[-1].lower() == "author" and (a.text or "").strip():
-                    auths.append(a.text.strip())
+                    # "이영규(건국대학교 시민정치연구소)" → "이영규"
+                    name = re.sub(r"\([^)]*\)", "", a.text).strip()
+                    if name:
+                        auths.append(name)
             abstract = _findtext_any(base, {"abstract", "abstract-kor", "abstractkor"})
             url = _findtext_any(base, {"url"})
             doi = _findtext_any(base, {"doi"})
