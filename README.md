@@ -15,14 +15,19 @@
 | Crossref / Semantic Scholar | 누락 초록 보충 | ✅ 자동 |
 | Springer Meta API | Springer(Quality & Quantity 등) 초록 보충 | 🔑 선택 |
 
-## 국내(KCI) 논문 수집 켜는 법
+## 국내(KCI) 수집 구조 — PC 경유
 
-1. [KCI 오픈API](https://open.kci.go.kr) 접속 → 회원가입/로그인 → **오픈API 신청** 메뉴에서 키 발급 신청
-2. 키가 나오면 이 저장소의 **Settings → Secrets and variables → Actions → New repository secret**
-   - Name: `KCI_API_KEY`, Secret: 발급받은 키
-3. 다음 자동 실행부터 국내 논문이 합류합니다. (Actions 탭에서 `update-papers` → `Run workflow`로 즉시 실행 가능)
+KCI 오픈API는 **신청 시 등록한 IP에서만** 키를 인정하므로(GitHub Actions의 유동 IP에서는
+"등록되지 않은 key" 응답), 국내 수집은 등록된 PC가 담당합니다:
 
-> 참고: KCI 응답 규격은 키 발급 후 첫 실행에서 확인됩니다. 첫 실행 로그에 `[KCI] ... 0건`이 찍히면 파싱 조정이 필요할 수 있습니다.
+1. PC의 [kci_fetch.ps1](kci_fetch.ps1)이 매일 **07:00**에 KCI를 조회해 `data/kci.json`을 커밋·푸시
+   (작업 스케줄러 작업 이름: `ResearchPaperAlert-KCI`, 키 파일: `%USERPROFILE%\.kci_api_key`)
+2. **07:30** GitHub Actions(papers.py)가 `data/kci.json`을 해외분과 병합해 대시보드 갱신
+3. PC가 꺼져 있던 날에도 이미 병합된 국내 논문은 대시보드에 그대로 유지됩니다
+   (놓친 실행은 다음 로그인 시 자동 보충 실행)
+
+> 인터넷 회선이 바뀌어 공인 IP가 달라지면 [KCI 오픈API](https://open.kci.go.kr)에서 IP 변경을
+> 신청해야 합니다. 수동 실행: 저장소 폴더에서 `powershell -File kci_fetch.ps1`
 
 ### (선택) Springer 초록 보충
 

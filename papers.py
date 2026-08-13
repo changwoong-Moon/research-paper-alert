@@ -335,8 +335,16 @@ def fetch_kci(topic):
             })
             found += 1
         if found == 0:
-            m = re.search(r"<outputData>.*?</outputData>", raw, re.S)
-            snippet = re.sub(r"\s+", " ", m.group(0) if m else raw)[:400]
+            m = re.search(r"<resultMsg>([^<]*)</resultMsg>", raw)
+            msg = m.group(1).strip() if m else ""
+            if "등록되지 않은" in msg:
+                # KCI는 등록 IP에서만 키를 인정 → 이 환경에서는 호출 불가.
+                # 국내 수집은 PC의 kci_fetch.ps1이 data/kci.json으로 공급한다.
+                errors.append("IP 제한")
+                print("  [KCI] %s → 이 환경에서 직접 호출 불가, 나머지 생략" % msg)
+                break
+            mo = re.search(r"<outputData>.*?</outputData>", raw, re.S)
+            snippet = re.sub(r"\s+", " ", mo.group(0) if mo else raw)[:400]
             print("  [KCI] %s: 0건 (outputData: %s)" % (journal, snippet))
     status = "정상" if not errors else "일부 오류(" + "; ".join(errors[:3]) + ")"
     n = len(records)
@@ -401,6 +409,29 @@ def enrich_abstracts(state):
         time.sleep(1.5)
     if done:
         print("[초록 보충] %d건 조회" % done)
+
+
+def load_kci_file():
+    """PC(등록 IP)에서 수집해 커밋한 data/kci.json — KCI IP 제한 우회 경로."""
+    path = os.path.join(DATA_DIR, "kci.json")
+    if not os.path.exists(path):
+        return [], None
+    try:
+        with open(path, encoding="utf-8-sig") as f:
+            data = json.load(f)
+        recs = [r for r in data.get("records", []) if r.get("id") and r.get("title")]
+        return recs, data.get("fetched_at")
+    except Exception as e:
+        print("kci.json 읽기 실패: %s" % e)
+        return [], None
+
+
+def write_kci_config():
+    """PC 수집 스크립트(kci_fetch.ps1)가 읽는 학술지 목록 — TOPICS와 자동 동기화."""
+    cfg = [{"topic": t["key"], "name": t["name"], "journals": t["kci_journals"]}
+           for t in TOPICS]
+    with open(os.path.join(DATA_DIR, "kci_config.json"), "w", encoding="utf-8") as f:
+        json.dump(cfg, f, ensure_ascii=False, indent=1)
 
 
 # ---------------------------------------------------------------- 상태 관리
@@ -669,24 +700,31 @@ def main():
     bootstrap = not state["papers"]
     if bootstrap:
         print("첫 실행: NEW 배지 없이 초기 목록만 구축합니다.")
-    kci_statuses = []
     total_added = 0
+    kci_live_total = 0
     for topic in TOPICS:
         recs = fetch_openalex(topic)
         total_added += merge_records(state, recs, bootstrap)
         time.sleep(1.5)
-        kci_recs, kci_status = fetch_kci(topic)
-        kci_statuses.append(kci_status)
+        kci_recs, _ = fetch_kci(topic)
+        kci_live_total += len(kci_recs)
         total_added += merge_records(state, kci_recs, bootstrap)
-    if any(s.startswith("일부 오류") for s in kci_statuses):
-        kci_status = [s for s in kci_statuses if s.startswith("일부 오류")][0]
-    elif "정상" in kci_statuses:
-        kci_status = "정상"
+    kci_file_recs, kci_fetched_at = load_kci_file()
+    if kci_file_recs:
+        total_added += merge_records(state, kci_file_recs, bootstrap)
+    if kci_live_total:
+        kci_status = "정상(직접 호출)"
+    elif kci_file_recs:
+        stamp = (kci_fetched_at or "")[:16].replace("T", " ")
+        kci_status = "정상 — PC 수집 %d건 (%s)" % (len(kci_file_recs), stamp)
+    elif KCI_API_KEY:
+        kci_status = "키 등록됨 · PC 수집 대기 중"
     else:
         kci_status = "미등록"
     enrich_abstracts(state)
     prune_state(state)
     os.makedirs(DATA_DIR, exist_ok=True)
+    write_kci_config()
     with open(STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=1)
     out = build_outputs(state, kci_status)
