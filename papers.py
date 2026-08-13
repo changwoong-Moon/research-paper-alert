@@ -31,6 +31,7 @@ FETCH_DAYS = 90      # 최근 N일 발행분 수집
 NEW_DAYS = 3         # 처음 발견 후 N일 동안 NEW 배지
 PRUNE_DAYS = 220     # 상태 파일에서 오래된 항목 제거
 ABS_LOOKUP_CAP = 40  # 실행당 초록 보충 조회 상한
+TRANSLATE_CAP = 120  # 실행당 해외 초록 한국어 번역 상한
 MAILTO = "dkaskdlry@gmail.com"
 
 KCI_API_KEY = os.environ.get("KCI_API_KEY", "").strip()
@@ -411,6 +412,50 @@ def enrich_abstracts(state):
         print("[초록 보충] %d건 조회" % done)
 
 
+def google_translate_ko(text):
+    """무키 Google 번역 엔드포인트. 실패 시 예외 발생."""
+    base = ("https://translate.googleapis.com/translate_a/single"
+            "?client=gtx&sl=auto&tl=ko&dt=t")
+    body = urllib.parse.urlencode({"q": text}).encode("utf-8")
+    req = urllib.request.Request(base, data=body, headers={
+        "User-Agent": "Mozilla/5.0 (research-paper-alert)",
+        "Content-Type": "application/x-www-form-urlencoded",
+    })
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        data = json.loads(resp.read().decode("utf-8", errors="replace"))
+    segs = data[0] if data and isinstance(data, list) else []
+    return "".join(s[0] for s in segs if s and s[0]).strip()
+
+
+def translate_abstracts(state):
+    """해외(영문) 초록에 한국어 자동 번역을 붙인다 — 최신 논문 우선, 실행당 상한."""
+    todo = [r for r in state["papers"].values()
+            if r.get("origin") == "OpenAlex" and r.get("abstract")
+            and not r.get("abstract_ko") and r.get("ko_tries", 0) < 3]
+    todo.sort(key=lambda r: r.get("first_seen", ""), reverse=True)
+    done = ok = fails = 0
+    for rec in todo:
+        if done >= TRANSLATE_CAP or fails >= 3:
+            break
+        done += 1
+        try:
+            ko = google_translate_ko(rec["abstract"][:1500])
+            if len(ko) > 20:
+                rec["abstract_ko"] = ko
+                ok += 1
+                fails = 0
+            else:
+                rec["ko_tries"] = rec.get("ko_tries", 0) + 1
+        except Exception as e:
+            fails += 1
+            rec["ko_tries"] = rec.get("ko_tries", 0) + 1
+            print("  번역 실패(연속 %d): %s" % (fails, e))
+        time.sleep(1.0)
+    if done:
+        print("[번역] %d건 시도, %d건 성공 (남은 대기 %d건)"
+              % (done, ok, max(0, len(todo) - done)))
+
+
 def load_kci_file():
     """PC(등록 IP)에서 수집해 커밋한 data/kci.json — KCI IP 제한 우회 경로."""
     path = os.path.join(DATA_DIR, "kci.json")
@@ -460,6 +505,8 @@ def merge_records(state, records, bootstrap):
             abs_tries = old.get("abs_tries", 0)
             old_abs = old.get("abstract", "")
             old_abs_src = old.get("abs_src", "")
+            old_ko = old.get("abstract_ko", "")
+            ko_tries = old.get("ko_tries", 0)
             old.update(rec)
             old["first_seen"] = first_seen
             old["abs_tries"] = abs_tries
@@ -467,6 +514,13 @@ def merge_records(state, records, bootstrap):
                 old["abstract"] = old_abs
                 if old_abs_src:
                     old["abs_src"] = old_abs_src
+            # 초록이 그대로면 기존 번역 유지, 내용이 바뀌었으면 재번역 대상
+            if old.get("abstract", "") == old_abs:
+                if old_ko:
+                    old["abstract_ko"] = old_ko
+                old["ko_tries"] = ko_tries
+            else:
+                old["ko_tries"] = 0
     return added
 
 
@@ -502,6 +556,7 @@ def build_outputs(state, kci_status):
             item = dict(rec)
             item["is_new"] = rec.get("first_seen", "") >= new_cut
             item.pop("abs_tries", None)
+            item.pop("ko_tries", None)
             papers.append(item)
         papers.sort(key=paper_sort_key, reverse=True)
         topics_out.append({
@@ -541,7 +596,15 @@ def render_card(p):
     abstract = (p.get("abstract") or "").strip()
     if len(abstract) > 1800:
         abstract = abstract[:1800].rsplit(" ", 1)[0] + " …"
-    if abstract:
+    ko = (p.get("abstract_ko") or "").strip()
+    if len(ko) > 1800:
+        ko = ko[:1800].rsplit(" ", 1)[0] + " …"
+    if abstract and ko:
+        abs_html = ('<details><summary>초록 보기</summary>'
+                    '<p class="abslabel">한국어 자동 번역</p><p class="abstract">%s</p>'
+                    '<p class="abslabel">원문</p><p class="abstract orig">%s</p>'
+                    '</details>' % (esc(ko), esc(abstract)))
+    elif abstract:
         abs_html = ('<details><summary>초록 보기</summary>'
                     '<p class="abstract">%s</p></details>' % esc(abstract))
     else:
@@ -550,7 +613,7 @@ def render_card(p):
     if p.get("pdf"):
         links.append('<a href="%s" target="_blank" rel="noopener">무료 전문(PDF) 🔓</a>' % esc(p["pdf"]))
     return (
-        '<article class="card%s">'
+        '<article class="card%s" data-j="%s">'
         '<div class="badges">%s</div>'
         '<h3><a href="%s" target="_blank" rel="noopener">%s</a></h3>'
         '<p class="meta">%s</p>'
@@ -559,6 +622,7 @@ def render_card(p):
         '</article>'
     ) % (
         " isnew" if p["is_new"] else "",
+        esc(p.get("journal")),
         "".join(badges),
         esc(p.get("url")), esc(p.get("title")),
         " · ".join(meta_bits),
@@ -606,8 +670,14 @@ header .sub { color:var(--sub); font-size:.85rem; margin:0 0 14px; }
 .badge { font-size:.7rem; padding:2px 8px; border-radius:99px; background:var(--chip); color:var(--sub); }
 .badge.new { background:var(--new); color:#fff; font-weight:700; }
 .meta { color:var(--sub); font-size:.83rem; margin:0 0 6px; }
+.chips { display:flex; flex-wrap:wrap; gap:6px; margin:0 0 12px; }
+.chip { font-size:.78rem; padding:5px 10px; border-radius:99px; border:1px solid var(--line);
+        background:var(--card); color:var(--sub); cursor:pointer; }
+.chip.active { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:700; }
 details summary { cursor:pointer; color:var(--accent); font-size:.87rem; margin:4px 0; }
+.abslabel { font-size:.72rem; color:var(--sub); font-weight:700; margin:8px 0 0; }
 .abstract { font-size:.88rem; line-height:1.6; color:var(--ink); margin:6px 0; }
+.abstract.orig { color:var(--sub); }
 .noabs { color:var(--sub); font-size:.83rem; margin:6px 0; }
 .links { font-size:.85rem; margin:8px 0 0; }
 .links a { color:var(--accent); text-decoration:none; }
@@ -630,6 +700,7 @@ __SECTIONS__
   데이터: OpenAlex(해외 학술지) · KCI 오픈API(국내 학술지 — 상태: __KCI__)<br>
   __KCI_HINT__
   초록이 없는 논문은 출판사가 공개 API에 초록을 제공하지 않는 경우입니다(원문 페이지에서 확인 가능).<br>
+  해외 논문 초록의 한국어 번역은 자동 번역 결과이므로 참고용으로만 이용하세요.<br>
   <a href="__REPO__" target="_blank" rel="noopener">GitHub 저장소</a> ·
   <a href="data/papers.json" target="_blank" rel="noopener">papers.json</a> ·
   학술지 목록 조정: papers.py 상단 TOPICS
@@ -649,17 +720,27 @@ function filter() {
   var t = q.value.trim().toLowerCase();
   secs.forEach(function(s){
     if (s.style.display === "none") return;
+    var chip = s.querySelector(".chip.active");
+    var j = chip ? chip.dataset.j : "";
     var n = 0;
     s.querySelectorAll("article.card").forEach(function(c){
-      var hit = !t || c.textContent.toLowerCase().indexOf(t) !== -1;
+      var hit = (!t || c.textContent.toLowerCase().indexOf(t) !== -1) &&
+                (!j || c.dataset.j === j);
       c.style.display = hit ? "" : "none";
       if (hit) n++;
     });
-    var e = s.querySelector(".empty");
+    var e = s.querySelector("p.empty:last-of-type");
     if (e) e.style.display = n ? "none" : "";
   });
 }
 q.addEventListener("input", filter);
+document.querySelectorAll(".chips .chip").forEach(function(ch){
+  ch.addEventListener("click", function(){
+    ch.closest(".chips").querySelectorAll(".chip").forEach(function(x){ x.classList.remove("active"); });
+    ch.classList.add("active");
+    filter();
+  });
+});
 if (tabs.length) show(tabs[0].dataset.key);
 </script>
 </body>
@@ -674,10 +755,20 @@ def write_html(out):
         newtxt = ' <span class="newcnt">+%d</span>' % t["new_count"] if t["new_count"] else ""
         tabs.append('<button data-key="%s">%s <span class="cnt">%d편</span>%s</button>'
                     % (esc(t["key"]), esc(t["name"]), t["count"], newtxt))
+        jcounts = {}
+        for p in t["papers"]:
+            j = p.get("journal") or "기타"
+            jcounts[j] = jcounts.get(j, 0) + 1
+        chips = ['<button class="chip active" data-j="">전체 %d</button>' % t["count"]]
+        for j, n in sorted(jcounts.items(), key=lambda x: (-x[1], x[0])):
+            chips.append('<button class="chip" data-j="%s">%s %d</button>'
+                         % (esc(j), esc(j), n))
         cards = "".join(render_card(p) for p in t["papers"])
-        sections.append('<section class="topic" data-key="%s">%s'
-                        '<p class="empty" style="display:none">검색 결과가 없습니다.</p></section>'
-                        % (esc(t["key"]), cards or '<p class="empty">표시할 논문이 없습니다.</p>'))
+        sections.append('<section class="topic" data-key="%s">'
+                        '<div class="chips">%s</div>%s'
+                        '<p class="empty" style="display:none">조건에 맞는 논문이 없습니다.</p></section>'
+                        % (esc(t["key"]), "".join(chips),
+                           cards or '<p class="empty">표시할 논문이 없습니다.</p>'))
     kci_hint = ""
     if out["kci_status"] == "미등록":
         kci_hint = ("국내 학술지 수집은 KCI API 키 등록 후 자동 시작됩니다 "
@@ -722,6 +813,7 @@ def main():
     else:
         kci_status = "미등록"
     enrich_abstracts(state)
+    translate_abstracts(state)
     prune_state(state)
     os.makedirs(DATA_DIR, exist_ok=True)
     write_kci_config()
