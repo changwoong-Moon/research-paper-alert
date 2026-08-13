@@ -335,8 +335,9 @@ def fetch_kci(topic):
             })
             found += 1
         if found == 0:
-            snippet = re.sub(r"\s+", " ", raw)[:200]
-            print("  [KCI] %s: 0건 (응답 앞부분: %s)" % (journal, snippet))
+            m = re.search(r"<outputData>.*?</outputData>", raw, re.S)
+            snippet = re.sub(r"\s+", " ", m.group(0) if m else raw)[:400]
+            print("  [KCI] %s: 0건 (outputData: %s)" % (journal, snippet))
     status = "정상" if not errors else "일부 오류(" + "; ".join(errors[:3]) + ")"
     n = len(records)
     print("[KCI] %s: %d건 (%s)" % (topic["name"], n, status))
