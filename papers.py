@@ -531,10 +531,18 @@ def translate_abstracts(state):
             if r.get("origin") == "OpenAlex" and r.get("abstract")
             and not r.get("abstract_ko") and r.get("ko_tries", 0) < 3]
     todo.sort(key=lambda r: r.get("first_seen", ""), reverse=True)
-    done = ok = fails = 0
+    done = ok = fails = cooldowns = 0
     for rec in todo:
-        if done >= TRANSLATE_CAP or fails >= 3:
+        if done >= TRANSLATE_CAP:
             break
+        if fails >= 3:
+            # 연속 실패 = 일시적 속도 제한일 가능성 → 쿨다운 후 재개
+            if cooldowns >= 6:
+                break
+            cooldowns += 1
+            print("  번역 연속 실패 — 60초 쿨다운 후 재개 (%d/6)" % cooldowns)
+            time.sleep(60)
+            fails = 0
         done += 1
         try:
             ko = google_translate_ko(rec["abstract"][:1500])
