@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "30 22 * * *"   # 매일 07:30 KST
   workflow_dispatch:
+    inputs:
+      translate_cap:
+        description: "이번 실행 번역 상한 (기본 150)"
+        required: false
+        default: ""
+      backdate:
+        description: "1이면 이번 실행 신규 논문의 NEW 배지 억제"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -22,6 +31,8 @@ jobs:
         env:
           KCI_API_KEY: ${{ secrets.KCI_API_KEY }}
           SPRINGER_API_KEY: ${{ secrets.SPRINGER_API_KEY }}
+          TRANSLATE_CAP: ${{ inputs.translate_cap }}
+          BACKDATE_NEW: ${{ inputs.backdate }}
         run: python3 papers.py
 
       - name: 변경사항 커밋

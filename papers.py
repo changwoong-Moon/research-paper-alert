@@ -31,7 +31,10 @@ FETCH_DAYS = 90      # 최근 N일 발행분 수집
 NEW_DAYS = 3         # 처음 발견 후 N일 동안 NEW 배지
 PRUNE_DAYS = 220     # 상태 파일에서 오래된 항목 제거
 ABS_LOOKUP_CAP = 40  # 실행당 초록 보충 조회 상한
-TRANSLATE_CAP = 120  # 실행당 해외 초록 한국어 번역 상한
+# 실행당 해외 초록 한국어 번역 상한 (workflow_dispatch 입력으로 일시 상향 가능)
+TRANSLATE_CAP = int(os.environ.get("TRANSLATE_CAP") or "150")
+# 1이면 이번 실행에서 새로 발견된 논문을 NEW로 표시하지 않음 (저널 대량 추가 시 배지 폭주 방지)
+BACKDATE_NEW = bool(os.environ.get("BACKDATE_NEW", "").strip())
 MAILTO = "dkaskdlry@gmail.com"
 
 KCI_API_KEY = os.environ.get("KCI_API_KEY", "").strip()
@@ -52,6 +55,7 @@ TOPICS = [
         "key": "public-admin",
         "name": "행정학 연구동향",
         # OpenAlex source ID: 학술지 이름 (ID는 https://api.openalex.org/sources?search=학술지명 으로 확인)
+        # SSCI Public Administration 카테고리 전체 + 지역학(Area Studies) 행정·정책지
         "openalex_sources": {
             "S169433491": "J. of Public Administration Research and Theory",
             "S76877748": "Public Administration Review",
@@ -65,6 +69,54 @@ TOPICS = [
             "S119514724": "Policy Studies Journal",
             "S136809933": "Public Performance & Management Review",
             "S16140064": "International Review of Administrative Sciences",
+            "S2735938357": "Perspectives on Public Management and Governance",
+            "S108218269": "Regulation & Governance",
+            "S197895017": "Policy Sciences",
+            "S17167983": "Policy & Politics",
+            "S76906069": "Journal of Public Policy",
+            "S17185278": "Public Policy and Administration",
+            "S114598798": "Policy Studies",
+            "S77082647": "J. of Comparative Policy Analysis",
+            "S87681011": "Public Money & Management",
+            "S171234518": "Local Government Studies",
+            "S51277951": "Review of Public Personnel Administration",
+            "S38942948": "Public Personnel Management",
+            "S71588376": "Canadian Public Administration",
+            "S128357121": "Australian J. of Public Administration",
+            "S31120751": "Social Policy & Administration",
+            "S178021067": "Journal of Social Policy",
+            "S187013691": "J. of European Social Policy",
+            "S136009100": "International J. of Social Welfare",
+            "S26544713": "Social Service Review",
+            "S168572994": "Nonprofit and Voluntary Sector Quarterly",
+            "S80347152": "VOLUNTAS",
+            "S70709366": "Nonprofit Management and Leadership",
+            "S1650206": "Milbank Quarterly",
+            "S192655146": "J. of Health Politics, Policy and Law",
+            "S78689143": "Health Economics, Policy and Law",
+            "S4210168539": "Science and Public Policy",
+            "S129664799": "Policy and Society",
+            "S2170549": "Policy & Internet",
+            "S4210205184": "Behavioural Public Policy",
+            "S4210206727": "J. of Behavioral Public Administration",
+            "S39541053": "International J. of Public Administration",
+            "S20798355": "J. of Environmental Policy & Planning",
+            "S2764352865": "Transylvanian Review of Administrative Sciences",
+            "S22371039": "J. of European Public Policy",
+            "S4210228320": "European Policy Analysis",
+            "S13135386": "NISPAcee J. of Public Administration and Policy",
+            "S189395249": "Public Administration and Development",
+            "S143207802": "J. of Asian Public Policy",
+            "S4210170541": "Asia Pacific J. of Public Administration",
+            "S4210183829": "J. of Chinese Governance",
+            "S2764770023": "International Review of Public Administration",
+            "S122892125": "Asian Politics & Policy",
+            "S2738535301": "Asia & the Pacific Policy Studies",
+            "S4210231999": "Chinese Public Administration Review",
+            "S4387279324": "J. of Policy Studies",
+            "S4210225381": "Public Administration and Policy",
+            "S167828324": "Latin American Policy",
+            "S2764645683": "Indian J. of Public Administration",
         },
         # KCI 학술지명 (부분일치 검색)
         "kci_journals": [
@@ -93,10 +145,56 @@ TOPICS = [
             "S102399824": "Quality & Quantity",
             "S125130336": "International J. of Social Research Methodology",
             "S181883320": "Sociological Methodology",
+            "S186480540": "Psychometrika",
+            "S78020522": "Structural Equation Modeling",
+            "S64250036": "Multivariate Behavioral Research",
+            "S53135262": "J. of Educational and Behavioral Statistics",
+            "S190099528": "British J. of Mathematical and Statistical Psychology",
+            "S137478622": "Behavior Research Methods",
+            "S94663699": "Applied Psychological Measurement",
+            "S176831015": "Educational and Psychological Measurement",
+            "S135539873": "Public Opinion Quarterly",
+            "S18835586": "Evaluation Review",
+            "S25376279": "American J. of Evaluation",
+            "S4210204360": "J. of Survey Statistics and Methodology",
+            "S79505318": "J. of Official Statistics",
         },
         "kci_journals": [
             "조사연구",
         ],
+    },
+    {
+        "key": "econ-stats",
+        "name": "계량경제·통계",
+        "openalex_sources": {
+            "S95464858": "Econometrica",
+            "S127742747": "Journal of Econometrics",
+            "S49389958": "Econometric Theory",
+            "S85739584": "J. of Applied Econometrics",
+            "S18095783": "J. of Business & Economic Statistics",
+            "S134988049": "Econometric Reviews",
+            "S33519306": "The Econometrics Journal",
+            "S156003414": "Quantitative Economics",
+            "S4210169353": "Journal of Causal Inference",
+            "S180061323": "Review of Economics and Statistics",
+            "S207154782": "J. of Financial Econometrics",
+            "S2898363556": "Econometrics and Statistics",
+            "S4394736638": "J. of the American Statistical Association",
+            "S185328345": "J. Royal Statistical Society A",
+            "S145009937": "J. Royal Statistical Society B",
+            "S2764642956": "J. Royal Statistical Society C",
+            "S119757635": "Annals of Statistics",
+            "S112778392": "Annals of Applied Statistics",
+            "S12967704": "Statistical Science",
+            "S4179095": "The American Statistician",
+            "S172180718": "Biometrika",
+            "S8265502": "Biometrics",
+            "S127898559": "Bayesian Analysis",
+            "S5437875": "Statistics and Computing",
+            "S167961193": "Journal of Statistical Software",
+            "S76159266": "J. of Computational and Graphical Statistics",
+        },
+        "kci_journals": [],
     },
 ]
 
@@ -170,7 +268,7 @@ def fetch_openalex(topic):
               "primary_location,open_access,abstract_inverted_index,type")
     records = []
     page = 1
-    while page <= 5:
+    while page <= 8:
         params = urllib.parse.urlencode({
             "filter": "primary_location.source.id:%s,from_publication_date:%s" % (ids, date_from),
             "select": select,
@@ -791,18 +889,21 @@ def main():
     bootstrap = not state["papers"]
     if bootstrap:
         print("첫 실행: NEW 배지 없이 초기 목록만 구축합니다.")
+    backdate = bootstrap or BACKDATE_NEW
+    if BACKDATE_NEW:
+        print("BACKDATE_NEW: 이번 실행의 신규 논문은 NEW로 표시하지 않습니다.")
     total_added = 0
     kci_live_total = 0
     for topic in TOPICS:
         recs = fetch_openalex(topic)
-        total_added += merge_records(state, recs, bootstrap)
+        total_added += merge_records(state, recs, backdate)
         time.sleep(1.5)
         kci_recs, _ = fetch_kci(topic)
         kci_live_total += len(kci_recs)
-        total_added += merge_records(state, kci_recs, bootstrap)
+        total_added += merge_records(state, kci_recs, backdate)
     kci_file_recs, kci_fetched_at = load_kci_file()
     if kci_file_recs:
-        total_added += merge_records(state, kci_file_recs, bootstrap)
+        total_added += merge_records(state, kci_file_recs, backdate)
     if kci_live_total:
         kci_status = "정상(직접 호출)"
     elif kci_file_recs:
