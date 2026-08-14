@@ -53,6 +53,28 @@ Quality & Quantity 등 Springer 학술지는 무료 API에 초록을 제공하�
 - **국내 학술지 추가**: `kci_journals` 목록에 학술지명 추가
 - 주제 자체를 추가하려면 `TOPICS`에 항목을 하나 더 만들면 됩니다
 
+## 다른 컴퓨터에서 이어받기
+
+대시보드·이메일·브리핑은 클라우드에서 돌므로 PC와 무관하게 계속 작동합니다.
+새 컴퓨터에서 개발을 이어가거나 **국내(KCI) 수집 담당 PC를 옮길 때**만 아래가 필요합니다:
+
+```bash
+gh auth login
+```
+```bash
+gh repo clone changwoong-Moon/research-paper-alert
+```
+
+KCI 수집 PC를 옮기는 경우 추가로:
+1. 키 파일 만들기: `%USERPROFILE%\.kci_api_key` (내용은 KCI 키 한 줄)
+2. 새 PC의 공인 IP를 [KCI 오픈API](https://open.kci.go.kr)에 추가/변경 신청 (같은 집 와이파이면 불필요)
+3. 작업 스케줄러 등록 (PowerShell, 저장소 폴더 경로만 맞게 수정):
+```powershell
+Register-ScheduledTask -TaskName "ResearchPaperAlert-KCI" -Action (New-ScheduledTaskAction -Execute "powershell.exe" -Argument '-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File "C:\경로\research-paper-alert\kci_fetch.ps1"') -Trigger (New-ScheduledTaskTrigger -Daily -At "07:00") -Settings (New-ScheduledTaskSettingsSet -StartWhenAvailable) -Force
+```
+
+Claude Code로 작업할 때는 저장소 폴더에서 열면 [CLAUDE.md](CLAUDE.md)가 맥락을 자동으로 제공합니다.
+
 ## 구조
 
 ```
