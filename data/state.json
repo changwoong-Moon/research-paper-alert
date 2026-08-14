@@ -64,7 +64,7 @@
    "origin": "OpenAlex",
    "title": "Navigating Ambiguity: Street-Level Managers Discretion in the Implementation of Religious Policy in Divided Societies",
    "authors": [
-    "Niva Golan-Nadir"
+    "Niva Golan‐Nadir"
    ],
    "journal": "The American Review of Public Administration",
    "date": "2026-08-10",
@@ -2619,13 +2619,14 @@
    ],
    "journal": "Public Management Review",
    "date": "2026-06-28",
-   "abstract": "",
+   "abstract": "While ethics reforms have become integral to contemporary public management, their consequences for organizational behavior remain insufficiently theorized. Bringing together organizational control theory and ethical climate theory-two perspectives developed largely in isolation-this study examines how ethics reform shapes discretion and moral reasoning in public organizations. Leveraging South Korea&apos;s 2022 Conflict of Interest Act, we apply coarsened exact matching with a difference-in-differences design to survey data from 4,138 civil servants. Following the reform, civil servants in patronage-prone organizations exhibit lower perceived discretion and higher moral reasoning than the control group. These findings point to a dual mechanism: control-based mechanisms reshape discretion, while climate-based mechanisms strengthen ethical competence.",
    "url": "https://doi.org/10.1080/14719037.2026.2693266",
    "doi": "10.1080/14719037.2026.2693266",
    "pdf": "",
    "first_seen": "2026-08-09T01:35:52+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "윤리 개혁은 현대 공공 관리에 필수적인 요소가 되었지만 조직 행동에 대한 결과는 여전히 충분히 이론화되어 있지 않습니다. 조직 통제 이론과 윤리 풍토 이론(대부분 분리되어 개발된 두 가지 관점)을 결합한 이 연구에서는 윤리 개혁이 공공 조직에서 어떻게 재량권과 도덕적 추론을 형성하는지 조사합니다. 대한민국의 2022년 이해상충법을 활용하여 공무원 4,138명을 대상으로 설문조사 데이터에 차이차 설계를 사용한 대략적 완전 매칭을 적용합니다. 개혁 이후, 후원을 받기 쉬운 조직의 공무원은 통제 집단보다 더 낮은 재량권과 더 높은 도덕적 추론을 보였습니다. 이러한 발견은 이중 메커니즘을 지적합니다. 제어 기반 메커니즘은 재량권을 재형성하는 반면, 기후 기반 메커니즘은 윤리적 역량을 강화합니다."
   },
   "oa:W7166468453": {
    "id": "oa:W7166468453",
@@ -12954,7 +12955,7 @@
    "abstract": "",
    "url": "https://doi.org/10.1111/puar.70170",
    "doi": "10.1111/puar.70170",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/puar.70170",
    "first_seen": "2026-08-14T08:11:07+09:00",
    "abs_tries": 3,
    "ko_tries": 0
@@ -12995,7 +12996,7 @@
    "abstract": "Public and political debate increasingly problematizes the relationship between second-generation migrants and public authorities, yet little is known about how they evaluate local government. This study examines behavioural intentions towards municipalities – exit, voice, loyalty and neglect – and assesses how trust, local identification and discrimination shape these responses. Using survey data from second-generation migrants in Dutch municipalities, we find loyalty predominates, while trust, local identification and discrimination shape these orientations towards local government. These findings highlight the central role of trust and inclusion in shaping citizen–state relations and demonstrate the value of integrating migrant-centred perspectives into public administration research.",
    "url": "https://doi.org/10.1080/14719037.2026.2715612",
    "doi": "10.1080/14719037.2026.2715612",
-   "pdf": "https://doi.org/10.1080/14719037.2026.2715612",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14719037.2026.2715612?needAccess=true",
    "first_seen": "2026-08-14T08:11:07+09:00",
    "abstract_ko": "공공 및 정치적 논쟁은 2세대 이민자와 공공 당국 간의 관계에 대한 문제를 점점 더 문제화하고 있지만, 그들이 지방 정부를 어떻게 평가하는지에 대해서는 알려진 바가 거의 없습니다. 본 연구는 지방자치단체에 대한 행동 의도(퇴출, 발언권, 충성도 및 방치)를 조사하고 신뢰, 지역적 정체성 및 차별이 이러한 반응을 어떻게 형성하는지 평가합니다. 네덜란드 지방자치단체의 2세대 이민자들의 설문 조사 데이터를 사용하여 우리는 충성도가 우세한 반면, 신뢰, 지역 식별 및 차별이 지방 정부에 대한 이러한 방향을 형성한다는 것을 발견했습니다. 이러한 연구 결과는 시민-국가 관계 형성에 있어서 신뢰와 포용의 중심 역할을 강조하고, 이주민 중심 관점을 공공 행정 연구에 통합하는 것의 가치를 보여줍니다.",
    "abs_tries": 0,
@@ -13041,7 +13042,7 @@
    "abstract": "ABSTRACT Policy process research has expanded rapidly, yet many frameworks still develop in silos, limiting dialogue and leaving complementary mechanisms underused. In an effort to bridge these silos, we bring together two influential frameworks that have largely developed in parallel: the Narrative Policy Framework (NPF) and the Ecology of Games Framework (EGF). We integrate them across three levels of analysis: actors at the micro level, forums at the meso level, and interconnected systems of forums at the macro level. At the actor level, we connect the EGF and NPF through learning, showing how narrative learning clarifies the mechanisms behind EGF learning processes, while the EGF helps the NPF specify the conditions under which learning is more or less likely. At the forum level, we develop concepts of narrative convergence and divergence to explain cooperation and conflict within collective‐choice venues. At the system level, we show how both frameworks help explain policy spillovers and ultimately, system performance. In doing so, we aim to begin a conversation between two seemingly disparate frameworks, offering preliminary but intentionally non‐exhaustive set of propositions and ideas about where the frameworks align, diverge, and where their integration is most theoretically and empirically productive.",
    "url": "https://doi.org/10.1111/psj.70154",
    "doi": "10.1111/psj.70154",
-   "pdf": "https://doi.org/10.1111/psj.70154",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psj.70154",
    "first_seen": "2026-08-14T08:11:07+09:00",
    "abstract_ko": "개요 정책 프로세스 연구는 급속히 확대되었지만 여전히 많은 프레임워크가 사일로에서 개발되어 대화가 제한되고 보완적인 메커니즘이 충분히 활용되지 않고 있습니다. 이러한 사일로를 연결하기 위한 노력의 일환으로 우리는 NPF(Narrative Policy Framework)와 EGF(Ecology of Games Framework)라는 두 가지 영향력 있는 프레임워크를 함께 통합했습니다. 우리는 미시적 수준의 행위자, 중간 수준의 포럼, 거시적 수준의 상호 연결된 포럼 시스템이라는 세 가지 분석 수준에 걸쳐 이를 통합합니다. 행위자 수준에서는 학습을 통해 EGF와 NPF를 연결하여 내러티브 학습이 EGF 학습 프로세스의 메커니즘을 어떻게 명확하게 하는지 보여주고, EGF는 NPF가 학습 가능성이 어느 정도인지 조건을 지정하는 데 도움을 줍니다. 포럼 수준에서 우리는 집단 선택 장소 내 협력과 갈등을 설명하기 위해 내러티브 수렴 및 발산의 개념을 개발합니다. 시스템 수준에서는 두 프레임워크가 정책 파급효과와 궁극적으로 시스템 성능을 설명하는 데 어떻게 도움이 되는지 보여줍니다. 그렇게 함으로써 우리는 프레임워크가 정렬되고 분기되는 위치와 프레임워크의 통합이 이론적, 경험적으로 가장 생산적인 위치에 대한 예비적이지만 의도적으로 비완전한 제안 및 아이디어 세트를 제공하는 겉보기에 서로 다른 두 프레임워크 사이의 대화를 시작하는 것을 목표로 합니다.",
    "abs_tries": 0,
@@ -13103,7 +13104,7 @@
    "abstract": "Abstract Company names constitute one of the earliest and most enduring forms of corporate communication. Before organisations engage in formal messaging or stakeholder interaction, their legal names function as symbolic signals of identity and differentiation. Prior research has treated naming mainly as an individual strategic or branding decision, paying limited attention to system-level communicative patterns across industries. This study examines corporate naming as a system-level communicative phenomenon and examines symbolic differentiation in Spain’s advertising, public relations, and communication sectors. The analysis covers 26,432 firms founded between 1975 and 2023. Names are analysed using Zipf’s Law, with lexical concentration indicating communicative saturation or differentiation. Temporal regimes are identified through structural break analysis, and Zipfian coefficients are estimated across periods and regions. Results show consistently low lexical concentration, consistent with a relatively differentiated naming repertoire. Regional variation is observed in the estimated coefficients. Equal-sized Monte Carlo subsampling shows that unequal sample sizes account for part of the original regional dispersion, but pooled interaction models and pairwise comparisons indicate that residual regional heterogeneity remains after controlling for sample size. Lexical concentration also follows a non-linear temporal trajectory, increasing during the expansion years preceding the 2008 financial crisis and declining thereafter. The regional evidence is therefore interpreted as statistically supported but moderate heterogeneity rather than as an invariant ranking of regional naming systems, whereas the temporal patterns remain descriptive.",
    "url": "https://doi.org/10.1007/s11135-026-03038-9",
    "doi": "10.1007/s11135-026-03038-9",
-   "pdf": "https://doi.org/10.1007/s11135-026-03038-9",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-03038-9.pdf",
    "first_seen": "2026-08-14T08:11:07+09:00",
    "abstract_ko": "Abstract 회사 이름은 기업 커뮤니케이션의 가장 초기이자 가장 지속적인 형태 중 하나입니다. 조직이 공식적인 메시징이나 이해관계자 상호 작용에 참여하기 전에 법적 이름은 정체성과 차별화를 나타내는 상징적 신호로 작용합니다. 이전 연구에서는 이름 지정을 주로 개인의 전략 또는 브랜드 결정으로 다루었으며 산업 전반의 시스템 수준 의사소통 패턴에는 제한적인 관심을 기울였습니다. 본 연구는 기업 네이밍을 시스템 차원의 의사소통 현상으로 살펴보고, 스페인의 광고, 홍보, 커뮤니케이션 분야에서 상징적 차별화를 살펴보았다. 분석에는 1975년부터 2023년 사이에 설립된 26,432개의 회사가 포함됩니다. 이름은 Zipf의 법칙을 사용하여 분석되며 어휘 집중도는 의사소통 포화도 또는 차별화를 나타냅니다. 구조적 구분 분석을 통해 시간적 체제를 식별하고 기간 및 지역에 걸쳐 Zipfian 계수를 추정합니다. 결과는 상대적으로 차별화된 명명 레퍼토리와 일치하여 지속적으로 낮은 어휘 집중도를 보여줍니다. 추정된 계수에는 지역적 변화가 관찰됩니다. 동일한 크기의 몬테 카를로 서브샘플링은 동일하지 않은 표본 크기가 원래 지역적 분산의 일부를 설명한다는 것을 보여 주지만, 풀링된 상호 작용 모델과 쌍별 비교는 표본 크기를 제어한 후에도 잔여 지역적 이질성이 남아 있음을 나타냅니다. 어휘 집중은 또한 비선형 시간 궤적을 따르며 이전 확장 기간 동안 증가합니다.",
    "abs_tries": 0,
@@ -25829,7 +25830,7 @@
    "abstract": "Abstract Embodied theories of language emphasize the role of sensorimotor experience in linguistic knowledge. Central to testing these theories is the creation of large datasets of linguistic norms , which contain judgments about a word’s sensorimotor associations and can be used to predict human behavioral or brain data – sometimes in contrast to competing variables, such as those derived from distributional language models. Yet many of these datasets contain judgments about words in isolation, despite the fact that most words are ambiguous, making it difficult to determine which meaning of a word is characterized by its rating (e.g., “wooden table” vs. “data table”). In the current work, we introduce a new lexical resource (directly inspired by the Lancaster sensorimotor for 112 English words, each rated in four different contexts (448 sentences total). We demonstrate: first, that these ratings encode overlapping but distinct information from the Lancaster sensorimotor norms; second, that decontextualized ratings likely reflect the more dominant meaning of ambiguous words; third, that homonyms have more distinct sensorimotor profiles than polysemes; fourth, that the contextualized sensorimotor distance between two uses of an ambiguous word predicts human judgments about semantic relatedness; and fifth, that ratings derived from GPT-4 align reasonably well with human judgments. We conclude by suggesting that contextualized ratings like these can be used both to inform competing theories of semantic representations and also to evaluate or “probe” the ability of LMs to recover sensorimotor information.",
    "url": "https://doi.org/10.3758/s13428-026-03134-6",
    "doi": "10.3758/s13428-026-03134-6",
-   "pdf": "https://doi.org/10.3758/s13428-026-03134-6",
+   "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03134-6.pdf",
    "first_seen": "2026-08-10T09:49:36+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -25849,7 +25850,7 @@
    "abstract": "Abstract The 20-item prosopagnosia index (PI20) is a highly practical tool for assessing lifelong difficulties in face processing across individuals (developmental prosopagnosia). Recent research suggests that the quality of the PI20 may vary depending on the item; however, the quantitative quality of each item has not been sufficiently examined. In this study, the item properties of the PI20 were investigated using classical test theory and item response theory. The analyses confirmed that the one-factor structure of the PI20 showed high reliability and validity. Item response theory further revealed that the items differed in measurement power, discrimination, and difficulty under the unidimensional graded response model. Items reflecting the additional psychological load and social consequences associated with face processing difficulty demonstrated high measurement precision. In contrast, items related to the recognition of distinctive or self-faces contributed to the construct to a lesser degree. These results indicate that while most items adequately capture the characteristics of developmental prosopagnosia, certain items may not be suitable for screening for developmental prosopagnosia. The present study provides open materials to facilitate further psychometric evaluation of the PI20 and offers insights for refining self-report assessment of developmental prosopagnosia.",
    "url": "https://doi.org/10.3758/s13428-026-03145-3",
    "doi": "10.3758/s13428-026-03145-3",
-   "pdf": "https://doi.org/10.3758/s13428-026-03145-3",
+   "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03145-3.pdf",
    "first_seen": "2026-08-10T09:49:36+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -25869,7 +25870,7 @@
    "abstract": "Abstract Three comprehensive sets of naturalistic stimuli, each with pairwise similarity ratings and multidimensional scaling (MDS)-based feature representations are presented, freely available on the corresponding OSF repository of this project under a CC-BY-SA-NC-4.0 license. The primary contribution of this work is the provision of these well-curated naturalistic stimulus sets and their associated high-quality similarity data as a resource for the research community. The sets include 80 representative items from three domains – foods, mammals, and countries – that can be used across cognitive research areas such as categorization, multiple-cue probability learning, judgment, decision-making, memory, and metamemory. Based on over 280,000 similarity judgments from $$N = 1798$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>N</mml:mi> <mml:mo>=</mml:mo> <mml:mn>1798</mml:mn> </mml:mrow> </mml:math> participants, we derived 14 dimensions for foods, ten for mammals, and ten for countries, which reconstructed the similarity spaces with high accuracy ( $$r \\ge .93$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>r</mml:mi> <mml:mo>≥</mml:mo> <mml:mo>.</mml:mo> <mml:mn>93</mml:mn> </mml:mrow> </mml:math> ). In a proof-of-concept study, these dimensions also explained substantial variance in participants’ numerical judgments of domain-specific criteria, underscoring their functional relevance beyond similarity tasks. By making these stimuli, similarity data, and derived feature spaces freely available, we provide researchers with tools for testing computational cognitive models in relevant real-world domains, each of which allows for examining a multitude of judgment or classification criteria.",
    "url": "https://doi.org/10.3758/s13428-026-03114-w",
    "doi": "10.3758/s13428-026-03114-w",
-   "pdf": "https://doi.org/10.3758/s13428-026-03114-w",
+   "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03114-w.pdf",
    "first_seen": "2026-08-10T09:49:36+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -34257,7 +34258,7 @@
    "id": "oa:W7168455931",
    "topic": "econ-stats",
    "origin": "OpenAlex",
-   "title": "Simultaneous Feature- and Sample-Splitting ADMM for Penalized Rank Regression*",
+   "title": "Simultaneous Feature- and Sample-Splitting ADMM for Penalized Rank Regression",
    "authors": [
     "Yifan Jiang",
     "Songshan Yang",
@@ -34925,7 +34926,7 @@
    "doi": "10.1080/00031305.2026.2688548",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167894563": {
@@ -35177,7 +35178,7 @@
    "doi": "10.1016/j.jeconom.2026.106297",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4407802952": {
@@ -35554,7 +35555,7 @@
    "doi": "10.1016/j.jeconom.2026.106275",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167477537": {
@@ -35617,7 +35618,7 @@
    "doi": "10.1007/s11222-026-10920-x",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167502854": {
@@ -35637,7 +35638,7 @@
    "doi": "10.1080/07474938.2026.2690437",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7169621938": {
@@ -36199,7 +36200,7 @@
    "doi": "10.1016/j.ecosta.2026.07.004",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7170596116": {
@@ -36279,7 +36280,7 @@
    "doi": "10.1007/s11222-026-10922-9",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4408152863": {
@@ -36299,7 +36300,7 @@
    "doi": "10.1016/j.jeconom.2026.106299",
    "pdf": "https://doi.org/10.2139/ssrn.5164645",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7169595627": {
@@ -36361,7 +36362,7 @@
    "doi": "10.1016/j.ecosta.2026.07.006",
    "pdf": "https://doi.org/10.1016/j.ecosta.2026.07.006",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167457562": {
@@ -36380,7 +36381,7 @@
    "doi": "10.1016/j.ecosta.2026.07.001",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4416507451": {
@@ -36466,7 +36467,7 @@
    "doi": "10.1016/j.ecosta.2026.07.003",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7169755813": {
@@ -36842,7 +36843,7 @@
    "doi": "10.1016/j.jeconom.2026.106274",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4414634070": {
@@ -36944,7 +36945,7 @@
    "doi": "10.1016/j.jeconom.2026.106273",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7171983421": {
@@ -37029,7 +37030,7 @@
    "doi": "10.1007/s11222-026-10926-5",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7165787828": {
@@ -37335,7 +37336,7 @@
    "doi": "10.1016/j.jeconom.2026.106271",
    "pdf": "https://ink.library.smu.edu.sg/soe_research/2880",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7165575004": {
@@ -37373,7 +37374,7 @@
    "doi": "10.1093/jrsssb/qkag109",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4226542069": {
@@ -37437,7 +37438,7 @@
    "doi": "10.1007/s11222-026-10918-5",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7165199630": {
@@ -37478,7 +37479,7 @@
    "doi": "10.1093/jrsssb/qkag087",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7165131090": {
@@ -37601,7 +37602,7 @@
    "doi": "10.1016/j.jeconom.2026.106272",
    "pdf": "https://doi.org/10.2139/ssrn.5049409",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7167074551": {
@@ -37619,7 +37620,7 @@
    "doi": "10.1093/jrsssa/qnag085",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W4404347161": {
@@ -37846,7 +37847,7 @@
    "doi": "10.1080/01621459.2026.2688612",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W4417409175": {
@@ -37884,7 +37885,7 @@
    "doi": "10.1093/jrsssb/qkag102",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7165457742": {
@@ -37902,7 +37903,7 @@
    "doi": "10.1093/jrsssb/qkag105",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7166883307": {
@@ -37920,7 +37921,7 @@
    "doi": "10.1093/jrsssa/qnag081",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7165034926": {
@@ -38103,7 +38104,7 @@
    "doi": "10.1093/jrsssb/qkag100",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7165665151": {
@@ -38121,7 +38122,7 @@
    "doi": "10.1093/jrsssa/qnag078",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7165448248": {
@@ -38139,7 +38140,7 @@
    "doi": "10.1093/jrsssb/qkag107",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164891641": {
@@ -38177,7 +38178,7 @@
    "doi": "10.1093/jrsssb/qkag091",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4403573646": {
@@ -38367,7 +38368,7 @@
    "doi": "10.1016/j.jeconom.2026.106269",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164838315": {
@@ -38463,13 +38464,15 @@
    ],
    "journal": "Journal of Econometrics",
    "date": "2026-06-13",
-   "abstract": "",
+   "abstract": "This paper considers identification and estimation of distributional effect parameters that depend on the joint distribution of an outcome and another variable of interest (\"treatment\") in a setting with\"two-sided\"measurement error -- that is, where both variables are possibly measured with error. Examples of these parameters in the context of intergenerational income mobility include transition matrices, rank-rank correlations, and the poverty rate of children as a function of their parents'income, among others. Building on recent work on quantile regression (QR) with measurement error in the outcome (particularly, Hausman, Liu, Luo, and Palmer (2021)), we show that, given (i) two linear QR models separately for the outcome and treatment conditional on other observed covariates and (ii) assumptions about the measurement error for each variable, one can recover the joint distribution of the outcome and the treatment. Besides these conditions, our approach does not require an instrument, repeated measurements, or distributional assumptions about the measurement error. Using recent data from the 1997 National Longitudinal Study of Youth, we find that accounting for measurement error notably reduces several estimates of intergenerational mobility parameters.",
    "url": "https://doi.org/10.1016/j.jeconom.2026.106268",
    "doi": "10.1016/j.jeconom.2026.106268",
    "pdf": "https://doi.org/10.1016/j.jeconom.2026.106268",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충",
+   "abstract_ko": "이 문서에서는 \"양측\" 측정 오류가 있는 설정에서 결과와 다른 관심 변수(\"치료\")의 공동 분포에 의존하는 분포 효과 매개변수의 식별 및 추정을 고려합니다. 즉, 두 변수가 모두 오류로 측정될 수 있습니다. 세대간 소득 이동의 맥락에서 이러한 매개변수의 예로는 전환 행렬, 순위 상관관계, 부모 소득에 따른 아동 빈곤율 등이 있습니다. 결과의 측정 오류가 있는 분위수 회귀(QR)에 대한 최근 연구(특히 Hausman, Liu, Luo 및 Palmer(2021))를 기반으로, (i) 다른 관찰된 공변량에 대한 조건부 결과 및 치료에 대해 별도로 두 개의 선형 QR 모델과 (ii) 각 변수에 대한 측정 오류에 대한 가정이 주어지면 결과와 치료의 결합 분포를 복구할 수 있음을 보여줍니다. 이러한 조건 외에도 우리의 접근 방식에는 계측기, 반복 측정 또는 측정 오류에 대한 분포 가정이 필요하지 않습니다. 1997년 전국 청소년 종단 연구의 최근 데이터를 사용하여 측정 오류를 설명하면 세대 간 이동성 매개 변수의 여러 추정치가 현저히 감소한다는 사실을 발견했습니다."
   },
   "oa:W7164749681": {
    "id": "oa:W7164749681",
@@ -38588,7 +38591,7 @@
    "doi": "10.1016/j.jeconom.2026.106270",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164586775": {
@@ -38692,7 +38695,7 @@
    "doi": "10.1093/jrsssb/qkag095",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164345904": {
@@ -38729,7 +38732,7 @@
    "doi": "10.1093/jrsssb/qkag098",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4416389333": {
@@ -39210,7 +39213,7 @@
    "doi": "10.1080/00031305.2026.2684948",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163996913": {
@@ -39412,13 +39415,15 @@
    ],
    "journal": "Statistics and Computing",
    "date": "2026-06-06",
-   "abstract": "",
+   "abstract": "We propose the Entropic-regularized Robust Optimal Transport (E-ROBOT) framework, a novel method that combines the robustness of ROBOT with the computational and statistical benefits of entropic regularization. We show that, rooted in the Schrödinger bridge problem theory, E-ROBOT defines the robust Sinkhorn divergence W¯ε,λ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\overline{W}_{\\varepsilon ,\\lambda }$$\\end{document}, where the parameter λ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\lambda $$\\end{document} controls robustness and ε\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\varepsilon $$\\end{document} governs the regularization strength. Letting n∈N\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$n\\in \\mathbb {N}$$\\end{document} denote the sample size, a central theoretical contribution is establishing that the sample complexity of W¯ε,λ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\overline{W}_{\\varepsilon ,\\lambda }$$\\end{document} is O(n-1/2)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathcal {O}(n^{-1/2})$$\\end{document}, thereby avoiding the curse of dimensionality that plagues standard ROBOT. This dimension-free property unlocks the use of W¯ε,λ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\overline{W}_{\\varepsilon ,\\lambda }$$\\end{document} as a loss function in large-dimensional statistical and machine learning tasks. With this regard, we demonstrate its utility through four applications: goodness-of-fit testing; computation of barycenters for corrupted 2D and 3D shapes; definition of gradient flows; and image colour transfer. From the computation standpoint, a perk of our novel method is that it can be easily implemented by modifying existing (Python) routines. From the theoretical standpoint, our work opens the door to many research directions in statistics and machine learning: we discuss some of them.",
    "url": "https://doi.org/10.1007/s11222-026-10914-9",
    "doi": "10.1007/s11222-026-10914-9",
    "pdf": "https://arxiv.org/pdf/2509.11532",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충",
+   "abstract_ko": "우리는 ROBOT의 견고성과 엔트로피 정규화의 계산 및 통계적 이점을 결합한 새로운 방법인 E-ROBOT(Entropic-regularized Robust Optimal Transport) 프레임워크를 제안합니다. 우리는 Schrödinger 브리지 문제 이론에 기초하여 E-ROBOT이 강력한 Sinkhorn 발산 W̅ε,λ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek}를 정의한다는 것을 보여줍니다. \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\overline{W}_{\\varepsilon ,\\lambda }$$\\end{document}, 여기서 매개변수는 λ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\lambda $$\\end{document}는 견고성을 제어하고 ε\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\varepsilon $$\\end{document}는 정규화 강도를 결정합니다. n∈N\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$n\\in \\mathbb {N}$$\\end{document}는 샘플을 나타냅니다."
   },
   "oa:W7164034253": {
    "id": "oa:W7164034253",
@@ -39491,13 +39496,15 @@
    ],
    "journal": "Econometric Reviews",
    "date": "2026-06-05",
-   "abstract": "",
+   "abstract": "ABSTRACT A number of economic models produce testable implications in the form of inequalities involving conditional functionals of the distribution of an outcome variable Y conditional on X, a vector of observable covariates. In applications where X includes a large collection of predictors, researchers may wish to pursue dimension reduction and aggregate X into a lower-dimensional, parameterized function g(X,θ), indexed by a finite-dimensional parameter θ, and proceed to test the functional inequalities conditional on g(X,θ̂) instead of X, where θ̂ is a first-step estimator. Motivated by this, we introduce tests for functional inequalities conditional on estimated, aggregate functions of X. Our tests are based on one-sided Cramér–von Mises (CvM) statistics where violations to the inequalities are measured through a tuning parameter converging to zero. Our proposed test-statistics adapt to the properties of the contact sets (the set of values of conditioning variables where the inequalities are binding) and have asymptotically pivotal properties. In Monte Carlo experiments, our procedure displays good power properties, capable of detecting violations to the inequalities that occur with very small probability.",
    "url": "https://doi.org/10.1080/07474938.2026.2670366",
    "doi": "10.1080/07474938.2026.2670366",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충",
+   "abstract_ko": "개요 다수의 경제 모델은 관찰 가능한 공변량의 벡터인 X에 대한 조건부 결과 변수 Y 분포의 조건부 함수를 포함하는 불평등의 형태로 테스트 가능한 의미를 생성합니다. X에 대규모 예측 변수 모음이 포함된 응용 프로그램에서 연구자는 차원 축소를 추구하고 X를 유한 차원 매개변수 θ로 색인된 저차원 매개변수화된 함수 g(X,θ)로 집계하고 X 대신 g(X,θ̂)에 따라 조건부 함수 불평등 테스트를 진행할 수 있습니다. 여기서 θ̂는 첫 번째 추정량입니다. 이에 동기를 부여하여 우리는 X의 추정된 집계 함수를 조건으로 하는 기능적 불평등에 대한 테스트를 소개합니다. 우리의 테스트는 불평등에 대한 위반이 0으로 수렴되는 조정 매개변수를 통해 측정되는 일방적인 CvM(Cramér-von Mises) 통계를 기반으로 합니다. 우리가 제안한 테스트 통계는 접촉 세트(부등식이 바인딩되는 조건 변수 값 세트)의 속성에 적응하고 점근적으로 중추적인 속성을 갖습니다. 몬테카를로 실험에서 우리의 절차는 매우 작은 확률로 발생하는 불평등에 대한 위반을 감지할 수 있는 우수한 검정력 특성을 표시합니다."
   },
   "oa:W7163668691": {
    "id": "oa:W7163668691",
@@ -39536,7 +39543,7 @@
    "doi": "10.1007/s11222-026-10905-w",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164814723": {
@@ -39704,7 +39711,7 @@
    "doi": "10.1007/s11222-026-10912-x",
    "pdf": "",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163178692": {
@@ -39804,13 +39811,15 @@
    ],
    "journal": "Journal of Computational and Graphical Statistics",
    "date": "2026-06-02",
-   "abstract": "",
+   "abstract": "Defining a distance in a mixed setting requires the quantification of observed differences of variables of different types and of variables that are measured on different scales. There exist several proposals for mixed variable distances, however, such distances tend to be biased towards specific variable types and measurement units. That is, the variable types and scales influence the contribution of individual variables to the overall distance. In this paper, we define unbiased mixed variable distances for which the contributions of individual variables to the overall distance are not influenced by measurement types or scales. We define the relevant concepts to quantify such biases and we provide a general formulation that can be used to construct unbiased mixed variable distances.",
    "url": "https://doi.org/10.1080/10618600.2026.2680181",
    "doi": "10.1080/10618600.2026.2680181",
    "pdf": "https://doi.org/10.1080/10618600.2026.2680181",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충",
+   "abstract_ko": "혼합 환경에서 거리를 정의하려면 다양한 유형의 변수와 다양한 규모로 측정된 변수의 관찰된 차이를 정량화해야 합니다. 혼합 변수 거리에 대한 몇 가지 제안이 있지만 이러한 거리는 특정 변수 유형 및 측정 단위로 편향되는 경향이 있습니다. 즉, 변수 유형과 규모는 전체 거리에 대한 개별 변수의 기여도에 영향을 미칩니다. 본 논문에서는 전체 거리에 대한 개별 변수의 기여도가 측정 유형이나 규모에 영향을 받지 않는 편향되지 않은 혼합 변수 거리를 정의합니다. 우리는 그러한 편향을 정량화하기 위해 관련 개념을 정의하고 편향되지 않은 혼합 변수 거리를 구성하는 데 사용할 수 있는 일반적인 공식을 제공합니다."
   },
   "oa:W7163161907": {
    "id": "oa:W7163161907",
@@ -39824,13 +39833,15 @@
    ],
    "journal": "Journal of Econometrics",
    "date": "2026-06-02",
-   "abstract": "",
+   "abstract": "Boundary discontinuity designs are used to learn about causal treatment effects along a continuous assignment boundary that splits units into control and treatment groups according to a bivariate location score. We analyze location-based local polynomial treatment effect estimators that directly employ the bivariate score of each unit. We develop pointwise and uniform estimation and inference methods for the \\textit{Boundary Average Treatment Effect Curve} (BATEC), as well as for two aggregated causal parameters: the \\textit{Weighted Boundary Average Treatment Effect} (WBATE) and the \\textit{Largest Boundary Average Treatment Effect} (LBATE). Our results cover both sharp and fuzzy (imperfect compliance) designs. We illustrate the methods with an empirical application, and provide companion general-purpose software. The supplemental appendix includes additional substantive theoretical results, methodological details, and simulation evidence.",
    "url": "https://doi.org/10.1016/j.jeconom.2026.106266",
    "doi": "10.1016/j.jeconom.2026.106266",
    "pdf": "https://doi.org/10.1016/j.jeconom.2026.106266",
    "first_seen": "2026-08-10T09:49:36+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충",
+   "abstract_ko": "경계 불연속 설계는 이변량 위치 점수에 따라 단위를 제어 그룹과 치료 그룹으로 분할하는 연속 할당 경계를 따라 인과 치료 효과에 대해 학습하는 데 사용됩니다. 각 단위의 이변량 점수를 직접적으로 활용하는 위치 기반 국소 다항식 처리 효과 추정기를 분석합니다. 우리는 \\textit{경계 평균 치료 효과 곡선}(BATEC)뿐만 아니라 두 개의 집계된 인과 매개변수인 \\textit{가중 경계 평균 치료 효과}(WBATE) 및 \\textit{최대 경계 평균 치료 효과}(LBATE)에 대한 점별 및 균일 추정 및 추론 방법을 개발합니다. 우리의 결과는 선명하고 모호한(불완전한 규정 준수) 설계를 모두 다루고 있습니다. 우리는 경험적 적용을 통해 방법을 설명하고 동반 범용 소프트웨어를 제공합니다. 보충 부록에는 추가적인 실질적인 이론적 결과, 방법론적 세부 사항 및 시뮬레이션 증거가 포함되어 있습니다."
   },
   "oa:W4398192435": {
    "id": "oa:W4398192435",
@@ -43011,6 +43022,396 @@
    "abs_tries": 0,
    "ko_tries": 0,
    "abstract_ko": "비례 위험 모델, 비례 평균, 비례 승률 모델(승률) 및 다중 상태 모델과 같은 복합 생존 종점을 분석하는 전통적인 방법은 이벤트 순위의 주관적 특성 또는 여러 이벤트를 통합 측정에 통합할 수 없다는 점으로 인해 제한됩니다. 우리는 치명적이지 않은 사건을 사망 척도에 따라 재조정하고(생존 분석의 표준으로 사망을 고려), 관찰된 데이터를 바탕으로 조건부 사망 확률을 나타내는 척도 인자를 생성함으로써 임상 관찰을 '의사 사망'으로 변환하는 통계적 방법을 제안합니다. 그런 다음 의사 사망을 활용하여 단일 시점에서 치료 효능을 평가하기 위한 Z 테스트 및 순열 테스트를 수행하고 여러 시점에 대한 Wald 테스트를 수행합니다. 우리는 진행성 위암에서 시스플라틴 및 플루오로우라실 단독 요법과 비교하여 시스플라틴 및 플루오로우라실 요법에 도세탁셀을 추가하는 것을 평가하는 V325 시험의 데이터에 의사 사망 분석을 적용합니다. 유사 사망 프레임워크는 기존 방법에서 놓친 중요한 치료 효과를 감지합니다. 또한, 시뮬레이션 연구에 따르면 제안된 의사 죽음 접근 방식은 다양한 시나리오에서 기존 복합 종료점 방법보다 성능이 뛰어납니다. 단순성, 해석 가능성 및 효율성으로 인해 의사 죽음 접근 방식은 복합 끝점을 분석하기 위한 강력한 도구 역할을 합니다."
+  },
+  "oa:W7202359890": {
+   "id": "oa:W7202359890",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Cost Savings in Inter-Organizational Cooperation: A Meta-Analytic Review and Extension",
+   "authors": [
+    "David Lee",
+    "ChiaKo Hung"
+   ],
+   "journal": "Public Performance & Management Review",
+   "date": "2026-08-13",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/15309576.2026.2713526",
+   "doi": "10.1080/15309576.2026.2713526",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00"
+  },
+  "oa:W7202349278": {
+   "id": "oa:W7202349278",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Configuring the Geography of Social Service Provision: Neighborhood Characteristics, Nonprofit Spatial Strategies, and Public Funding",
+   "authors": [
+    "Nicole P. Marwell",
+    "Kevin Credit",
+    "Sunggeun Park"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-08-13",
+   "abstract": "Social services in the United States are delivered jointly by government and nonprofits. Prior research examines either the location or the resources of nonprofits; it rarely examines how these factors jointly influence social service availability or access. We leverage a unique dataset linking nonprofit headquarters and service site locations, along with organizational and neighborhood data. We find most nonprofits demonstrate neighborhood homophily, locating headquarters and service sites in demographically similar neighborhoods. However, we also find a distinctive set of nonprofits headquartered in affluent neighborhoods providing services in disadvantaged communities. Organizations serving neighborhoods with predominantly Black and Asian/immigrant populations are exposed to heightened fiscal vulnerability. Our study demonstrates how inequalities in access to nonprofit social services are shaped by the combination of where nonprofits provide services, the manner in which nonprofits spatially organize services across various sites, and the overall capacity of these organizations.",
+   "url": "https://doi.org/10.1177/08997640261472467",
+   "doi": "10.1177/08997640261472467",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "미국의 사회 서비스는 정부와 비영리 단체가 공동으로 제공합니다. 사전 연구에서는 비영리 단체의 위치나 자원을 조사합니다. 이러한 요인들이 사회 서비스 가용성이나 접근성에 공동으로 어떻게 영향을 미치는지 거의 조사하지 않습니다. 우리는 조직 및 지역 데이터와 함께 비영리 본부와 서비스 사이트 위치를 연결하는 고유한 데이터 세트를 활용합니다. 우리는 대부분의 비영리 단체가 인구학적으로 유사한 지역에 본사와 서비스 장소를 배치하여 지역 동성애를 보여주고 있음을 발견했습니다. 그러나 우리는 또한 부유한 지역에 본부를 두고 소외된 지역사회에 서비스를 제공하는 독특한 비영리 단체도 발견했습니다. 주로 흑인과 아시아인/이민 인구가 있는 지역에 서비스를 제공하는 조직은 높은 재정 취약성에 노출되어 있습니다. 우리의 연구는 비영리 사회 서비스에 대한 접근성의 불평등이 비영리가 서비스를 제공하는 위치, 비영리가 다양한 사이트에서 서비스를 공간적으로 구성하는 방식, 이러한 조직의 전반적인 역량의 조합에 의해 어떻게 형성되는지 보여줍니다."
+  },
+  "oa:W7202395058": {
+   "id": "oa:W7202395058",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Cutting Through the State: Examining Voter Alignment With Milei's Agenda and His Chainsaw Plan",
+   "authors": [
+    "Giada Pasquettaz",
+    "Franco Bastias"
+   ],
+   "journal": "Latin American Policy",
+   "date": "2026-08-13",
+   "abstract": "ABSTRACT Argentina's political landscape experienced a major shift with the unexpected election of Javier Milei as President. Known for his radical right‐wing stance, Milei has pledged to drastically minimize the state's role, proposing a public spending cut of 14% of the gross domestic product. While his lack of a legislative majority poses a challenge to implementing his ambitious agenda, Milei has signaled his intent to use referenda to bypass Congress in a strategic maneuver. Do his supporters genuinely back his policy positions? In which areas and sectors of the state might Milei's voters endorse the application of his so‐called “chainsaw plan” and other proposed reforms? Using survey data ( n = 1181), this article will examine whether Milei's voters support his views and policies, signaling a shift to the right in public opinion after decades of strong support for left‐wing parties. Regression analysis on voting intentions reveals that, among various areas (health, environment, economy, immigration, international relations, and the role of the state), economic visions and preferences emerge as the strongest predictors of support for Milei, highlighting the economic dimension as central to the motivations of his voter base.",
+   "url": "https://doi.org/10.1111/lamp.70066",
+   "doi": "10.1111/lamp.70066",
+   "pdf": "https://doi.org/10.1111/lamp.70066",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "개요 아르헨티나의 정치 지형은 하비에르 밀레이(Javier Milei)가 대통령으로 당선되면서 큰 변화를 겪었습니다. 급진적인 우익 성향으로 유명한 마일레이는 국가의 역할을 대폭 최소화하여 국내총생산(GDP)의 14%에 달하는 공공 지출 삭감을 제안했습니다. 입법상 과반수가 부족하여 야심찬 의제를 실행하는 데 어려움을 겪고 있는 반면, Milei는 전략적인 방법으로 의회를 우회하기 위해 국민투표를 사용하겠다는 의도를 밝혔습니다. 그의 지지자들은 그의 정책 입장을 진심으로 지지하는가? Milei의 유권자들은 주의 어느 지역과 분야에서 그의 소위 \"전기톱 계획\"과 기타 제안된 개혁의 적용을 지지할 수 있습니까? 설문 조사 데이터(n = 1181)를 사용하여 이 기사에서는 Milei의 유권자가 그의 견해와 정책을 지지하는지 여부를 조사하여 수십 년간 좌파 정당에 대한 강력한 지지를 받은 후 여론이 오른쪽으로 이동했음을 알립니다. 투표 의향에 대한 회귀 분석에 따르면 다양한 영역(건강, 환경, 경제, 이민, 국제 관계 및 국가의 역할) 중에서 경제적 비전과 선호도가 Milei에 대한 지지를 가장 강력하게 예측하는 변수로 나타나고 있으며, 경제적 측면이 그의 유권자 기반 동기의 핵심임을 강조합니다."
+  },
+  "oa:W7202395689": {
+   "id": "oa:W7202395689",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Does Corruption Increase Inequality? Evidence From a European Fact‐Based Assessment",
+   "authors": [
+    "Iva Parvanova",
+    "Alina Mungiu‐Pippidi"
+   ],
+   "journal": "Regulation & Governance",
+   "date": "2026-08-13",
+   "abstract": "ABSTRACT This paper examines whether government favoritism in public procurement generates negative social costs, even within redistributive institutional frameworks such as the European Union. Rather than relying on perception‐based corruption indicators, we employ an objective proxy of corruption risk—the share of awarded public contracts which received only one bid. This measure captures non‐competitive allocation and mitigates reverse causality concerns. Using static and dynamic fixed effects panel models, we find that procurement favoritism is systematically associated with adverse social outcomes across EU member states. Specifically, we document robust, statistically significant negative effects on educational attainment, income inequality, and poverty. Our results suggest that governance quality—and not merely the volume of public expenditure—is a critical determinant of social development, and that distortions in procurement processes can undermine the effectiveness of public spending even where formal cohesion commitments exist.",
+   "url": "https://doi.org/10.1111/rego.70196",
+   "doi": "10.1111/rego.70196",
+   "pdf": "https://doi.org/10.1111/rego.70196",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "개요 본 논문은 공공조달에 대한 정부의 편애가 유럽연합과 같은 재분배 제도적 틀 내에서도 부정적인 사회적 비용을 발생시키는지 여부를 조사합니다. 인식 기반 부패 지표에 의존하는 대신, 우리는 단 한 번의 입찰만 받은 낙찰된 공공 계약의 비율인 부패 위험의 객관적인 대용치를 사용합니다. 이 조치는 비경쟁적인 할당을 포착하고 역인과관계에 대한 우려를 완화합니다. 정적 및 동적 고정 효과 패널 모델을 사용하여 조달 편애가 EU 회원국 전반에 걸쳐 부정적인 사회적 결과와 체계적으로 연관되어 있음을 발견했습니다. 특히 우리는 교육 수준, 소득 불평등 및 빈곤에 대한 강력하고 통계적으로 유의미한 부정적인 영향을 문서화합니다. 우리의 결과는 단지 공공 지출의 규모뿐만 아니라 거버넌스의 질이 사회 발전의 중요한 결정 요인이며, 조달 과정의 왜곡은 공식적인 결속 약속이 존재하는 경우에도 공공 지출의 효율성을 약화시킬 수 있음을 시사합니다."
+  },
+  "oa:W7202395681": {
+   "id": "oa:W7202395681",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Public Policies in Historical Context and the Association Between Education and US Older Adults’ Health",
+   "authors": [
+    "Mark D. Hayward",
+    "Mateo Farina"
+   ],
+   "journal": "Milbank Quarterly",
+   "date": "2026-08-13",
+   "abstract": "Policy Points Improving population health while reducing inequality is possible, but it depends on broad institutional investments whose benefits extend across the socioeconomic distribution rather than accruing primarily to the advantaged. The education–health gradient is sensitive to the race between technology and education. Recent advances have disproportionately benefitted college‐educated persons, and differential automation risk and unequal access to therapeutics, such as GLP‐1 agonists, may widen these gaps further and further entrench this inequalities without policy intervention to improve the health of the whole population. To the extent that technological displacement accelerates job loss and compounds the economic and social precarity already driving the stagnation in life expectancy among less‐educated persons, the educational divide in health is poised to widen further unless policies decouple access to health insurance from employment status or otherwise shore up the labor market position of the most vulnerable workers. Context In this perspective, we have reviewed the historical evidence on the association between education and health in the United States, arguing that attention to public policies related to both education and technology are fundamentally important in understanding historical changes in the educational divide in life expectancy. Methods Our assessment of the literature suggests that the relatively narrow educational gap in life expectancy throughout much of the 20th century until 1970 reflected a rapid expansion of education in the population combined with the deployment of technologies that benefitted the majority of Americans. In the latter part of the 20th century and into the 21st century, however, life expectancy for Americans with less than a college degree stalled, whereas the life spans of college‐educated Americans grew at a rapid pace. Findings We argue that the faster pace of technological change compared to educational changes in the population fueled the rise in life expectancy of college‐educated persons, with life expectancy among less‐educated persons being increasingly contingent on state policies focused on employment and health opportunities. Conclusions The implications of these findings suggest that the educational divide in adult health is likely to grow even greater in the decades ahead with continued rapid technological advances.",
+   "url": "https://doi.org/10.1111/1468-0009.70115",
+   "doi": "10.1111/1468-0009.70115",
+   "pdf": "https://doi.org/10.1111/1468-0009.70115",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "정책 포인트 불평등을 줄이면서 인구 건강을 개선하는 것은 가능하지만, 이는 혜택이 주로 수혜자에게 발생하기보다는 사회경제적 분포 전반에 걸쳐 혜택이 확대되는 광범위한 제도적 투자에 달려 있습니다. 교육-건강 변화도는 기술과 교육 간의 경쟁에 민감합니다. 최근의 발전은 대학 교육을 받은 사람들에게 불균형적으로 혜택을 주었으며, 차별적인 자동화 위험과 GLP-1 작용제와 같은 치료법에 대한 불평등한 접근으로 인해 전체 인구의 건강을 개선하기 위한 정책 개입 없이 이러한 격차가 더욱 확대되고 이러한 불평등이 더욱 강화될 수 있습니다. 기술적 대체가 실직을 가속화하고 교육 수준이 낮은 사람들의 기대 수명 정체를 이미 초래하고 있는 경제적, 사회적 불안정을 가중시키는 만큼, 정책이 고용 상태에서 건강 보험에 대한 접근을 분리하거나 가장 취약한 근로자의 노동 시장 지위를 강화하지 않는 한 건강에 대한 교육 격차는 더욱 확대될 준비가 되어 있습니다. 맥락 이러한 관점에서 우리는 미국의 교육과 건강 사이의 연관성에 대한 역사적 증거를 검토했으며, 교육과 기술 모두와 관련된 공공 정책에 대한 관심이 기대 수명의 교육 격차의 역사적 변화를 이해하는 데 근본적으로 중요하다고 주장했습니다. 방법 문헌에 대한 우리의 평가는 기대 수명의 교육 격차가 상대적으로 좁다는 것을 시사합니다."
+  },
+  "oa:W7202412973": {
+   "id": "oa:W7202412973",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Gendered Path of Least Resistance: First Entry and Exit Behaviors of Public and Nonprofit Employees",
+   "authors": [
+    "Tiana Marrese",
+    "Ying Liu",
+    "Femida Handy"
+   ],
+   "journal": "Public Administration Review",
+   "date": "2026-08-13",
+   "abstract": "ABSTRACT Public and nonprofit organizations exhibit high rates of female employment often attributed to sector structures and social roles. To better understand how individual behaviors dynamically contribute to these distinctive ratios, we deconstruct public and nonprofit employment into gendered patterns of attraction and attachment. Using duration analysis and following a cohort from the National Longitudinal Survey of Youth 1997, this research finds that women demonstrate a higher attraction to their first public and nonprofit job compared to men, evidenced through a faster rate of entry into this employment. There are no significant gender differences when considering the duration of an individual's first stint in these sectors. Additional investigation finds that these sector‐level patterns, when decomposed to account for gender‐dominant professions, are driven by stronger female attraction to female‐dominated professions while masking higher female turnover from male‐dominated professions. Results inform recruitment and retention strategies for public and nonprofit organizations.",
+   "url": "https://doi.org/10.1111/puar.70181",
+   "doi": "10.1111/puar.70181",
+   "pdf": "https://doi.org/10.1111/puar.70181",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "개요 공공 및 비영리 조직은 종종 부문 구조 및 사회적 역할에 기인하는 높은 여성 고용률을 나타냅니다. 개인의 행동이 이러한 독특한 비율에 어떻게 역동적으로 기여하는지 더 잘 이해하기 위해 우리는 공공 및 비영리 고용을 매력과 애착의 성별 패턴으로 분해합니다. 기간 분석을 사용하고 1997년 전국 청소년 종단 조사의 코호트에 따른 이 연구에서는 여성이 남성에 비해 첫 번째 공공 및 비영리 직업에 더 높은 매력을 나타내는 것으로 나타났으며 이는 이 직업에 더 빠른 진입 속도를 통해 입증되었습니다. 개인이 이 분야에서 처음 근무한 기간을 고려할 때 성별에 따른 큰 차이는 없습니다. 추가 조사에 따르면 이러한 부문별 패턴을 성별이 지배적인 직업을 설명하기 위해 분해하면 남성이 지배하는 직업에서 더 높은 여성 이직률을 은폐하면서 여성이 지배하는 직업에 더 강한 매력을 느끼기 때문에 발생하는 것으로 나타났습니다. 결과는 공공 및 비영리 조직의 채용 및 유지 전략을 알려줍니다."
+  },
+  "oa:W7202388521": {
+   "id": "oa:W7202388521",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Selection at the Frontline: Experimental Evidence on the Effect of Clients' Attributes on Assignment of Active Labour Market Programmes",
+   "authors": [
+    "Vegar Bjørnshagen",
+    "Therese Dokken"
+   ],
+   "journal": "Social Policy and Administration",
+   "date": "2026-08-13",
+   "abstract": "ABSTRACT Research on active labour market programmes (ALMPs) suggests the existence of selection and access biases. This article addresses one potential source of such biases: frontline caseworkers' allocation decisions. To investigate how client attributes affect allocation of ALMPs to young clients with reduced work capability, we conducted a pre‐registered factorial survey experiment among Norwegian caseworkers in the public employment service. We test hypotheses derived from the notion of positive and negative selection into ALMPs based on clients' perceived employment prospects and ability to successfully complete programmes. We find that caseworkers' selection of clients into ALMPs occurs primarily based on personal characteristics (i.e., competence, motivation and reliability) and that perceived employability substantially explains these effects. By contrast, clients' immigrant background and health‐related characteristics had limited impact on caseworkers' allocation of ALMPs.",
+   "url": "https://doi.org/10.1111/spol.70101",
+   "doi": "10.1111/spol.70101",
+   "pdf": "https://doi.org/10.1111/spol.70101",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "ABSTRACT 적극적 노동시장 프로그램(ALMP)에 대한 연구는 선택 및 접근 편향의 존재를 시사합니다. 이 기사에서는 그러한 편향의 잠재적 원인 중 하나인 일선 사회복지사의 할당 결정을 다룹니다. 클라이언트 속성이 작업 능력이 저하된 젊은 클라이언트에 대한 ALMP 할당에 어떤 영향을 미치는지 조사하기 위해 우리는 공공 고용 서비스의 노르웨이 사회 복지사를 대상으로 사전 등록된 요인 조사 실험을 수행했습니다. 우리는 고객이 인식한 고용 전망과 프로그램을 성공적으로 완료할 수 있는 능력을 기반으로 ALMP에 대한 긍정적 선택과 부정적 선택 개념에서 파생된 가설을 테스트합니다. 우리는 사회복지사가 클라이언트를 ALMP로 선택하는 것은 주로 개인적인 특성(즉, 역량, 동기 및 신뢰성)을 기반으로 이루어지며 인지된 고용 가능성이 이러한 효과를 실질적으로 설명한다는 것을 발견했습니다. 대조적으로, 클라이언트의 이민자 배경과 건강 관련 특성은 사회복지사의 ALMP 할당에 제한적인 영향을 미쳤습니다."
+  },
+  "oa:W7166277511": {
+   "id": "oa:W7166277511",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Resources, Culture, and Immigrant Participation in Formal and Informal Volunteering",
+   "authors": [
+    "Hans-Peter Y. Qvist"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-08-12",
+   "abstract": "This study examines formal and informal volunteering among immigrants and natives in Denmark. Drawing on resource-based and culture-based perspectives, it develops and tests the theory that non-Western immigrants participate less in formal volunteering because of socioeconomic disadvantages and weak-tie deficits, but more in informal volunteering because of stronger reliance on close-knit networks and cultural orientations toward collectivism. Using pooled data from the Danish Volunteer Survey (2012, 2020, 2024) and zero-inflated negative binomial models of monthly hours spent on each activity, the results suggest that non-Western immigrants are less involved in formal volunteering than natives, owing primarily to resource and network disparities. However, the analysis finds no evidence that non-Western immigrants engage more in informal volunteering than natives, nor that cultural orientations explain differences in informal volunteering. These findings challenge cultural explanations of immigrant volunteering and underscore the importance of structural inequalities and network access in shaping participation in civil society.",
+   "url": "https://doi.org/10.1177/08997640261471162",
+   "doi": "10.1177/08997640261471162",
+   "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/08997640261471162?download=true",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "이 연구는 덴마크 이민자와 원주민의 공식 및 비공식 자원봉사를 조사합니다. 자원 기반 및 문화 기반 관점을 바탕으로 비서구 이민자들은 사회경제적 불이익과 취약한 결점으로 인해 공식 자원 봉사에 덜 참여하고, 긴밀한 네트워크에 대한 의존도가 높으며 집단주의에 대한 문화적 지향이 강하기 때문에 비공식 자원 봉사에 더 많이 참여한다는 이론을 개발하고 테스트합니다. 덴마크 자원봉사 설문조사(2012, 2020, 2024)의 통합 데이터와 각 활동에 소비한 월별 시간에 대한 제로 팽창 음이항 모델을 사용한 결과는 주로 자원 및 네트워크 불균형으로 인해 비서구 이민자가 원주민보다 공식적인 자원 봉사에 덜 관여한다는 것을 시사합니다. 그러나 분석에서는 비서구 이민자들이 원주민보다 비공식 자원봉사에 더 많이 참여한다는 증거도 발견하지 못했으며, 문화적 지향이 비공식 자원봉사의 차이를 설명한다는 증거도 찾지 못했습니다. 이러한 발견은 이민자 자원봉사에 대한 문화적 설명에 도전하고 시민사회 참여를 형성하는 데 있어서 구조적 불평등과 네트워크 접근의 중요성을 강조합니다."
+  },
+  "oa:W7202358529": {
+   "id": "oa:W7202358529",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "From Values to Commitment: How Faith Shapes Sustained Humanitarian Donations",
+   "authors": [
+    "M. Shabri Abd. Majid",
+    "A. Sakir",
+    "Maulidar Agustina",
+    "Y. Yahya",
+    "Muhammad Nasir",
+    "H. Hafasnuddin"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-08-12",
+   "abstract": "Indonesia, ranked the world’s most generous nation from 2017 to 2024, provides a distinctive setting to examine how values are associated with sustained humanitarian giving. This study investigates donations to Palestine in Aceh, Indonesia’s most charitable province and the only one under Sharia governance, using a mediated–moderated values–resources framework. Survey data from 508 respondents were analyzed using PLS-SEM (Partial Least Squares Structural Equation Modeling). Results show that altruistic, social, emotional, and organizational values are significantly associated with sustained donor engagement. Perceived socio-economic adequacy is not significantly associated with humanitarian donation intention but has a modest association with sustained engagement, suggesting that economic capacity is more relevant to continuity than intention formation. Humanitarian donation intention serves as a statistical mediating pathway, while religiosity is linked to sustained engagement directly and through moderation. The study highlights faith-informed, trust-based governance as relevant to long-term donor engagement.",
+   "url": "https://doi.org/10.1177/08997640261471167",
+   "doi": "10.1177/08997640261471167",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "2017년부터 2024년까지 세계에서 가장 관대한 국가로 선정된 인도네시아는 가치가 지속적인 인도주의적 기부와 어떻게 연관되어 있는지 조사할 수 있는 독특한 환경을 제공합니다. 이 연구는 매개-조정된 가치-자원 프레임워크를 사용하여 인도네시아에서 가장 자선 활동이 많은 지역이자 샤리아 통치를 받는 유일한 지역인 아체의 팔레스타인에 대한 기부를 조사합니다. 508명의 응답자로부터 얻은 설문조사 데이터는 PLS-SEM(Partial Least Square Structural Equation Modeling)을 사용하여 분석되었습니다. 결과는 이타적, 사회적, 정서적, 조직적 가치가 지속적인 기부 참여와 유의미한 연관이 있음을 보여줍니다. 인지된 사회경제적 적절성은 인도주의적 기부 의도와 큰 관련이 없지만 지속적인 참여와 약간의 연관성이 있으며, 이는 경제적 능력이 의도 형성보다 연속성과 더 관련이 있음을 시사합니다. 인도주의적 기부 의도는 통계적 중재 경로 역할을 하는 반면, 종교성은 중재를 통해 지속적인 참여와 직접적으로 연결됩니다. 이 연구는 장기적인 기부자 참여와 관련하여 신앙에 입각한 신뢰 기반 거버넌스를 강조합니다."
+  },
+  "oa:W7202373589": {
+   "id": "oa:W7202373589",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Mobilizing the State Without Crushing Local Knowledge: Evidence From China's Poverty‐Alleviation Campaign",
+   "authors": [
+    "Leizhen Zang",
+    "Yifei Zhu",
+    "Antoine Roth"
+   ],
+   "journal": "Public Administration and Development",
+   "date": "2026-08-12",
+   "abstract": "ABSTRACT This study examines how the state apparatus can be mobilized by central governments for the purpose of poverty alleviation without undermining local knowledge and initiative, engaging directly with James Scott's critique of top‐down modernization schemes. Using county‐level panel data from 706 nationally designated poor counties (NPCs) in China between 2012 and 2018, we identify the separate and combined effects of two key mobilization tools deployed during China's recent poverty‐alleviation campaign: quantitative poverty‐reduction targets and changes to cadre performance evaluations that prioritized poverty outcomes over GDP growth. A difference‐in‐differences design shows that both policies boosted rural per capita incomes, with effects conditioned by target difficulty, cadre career horizons, and local tenure. From these results, we identify three features that enhanced effectiveness: (1) granular identification systems enabling precise, monitorable goals; (2) incentive realignment toward redistribution; and (3) stability in local leadership to accumulate and apply local knowledge. These findings highlight a governance model that combines central coordination with locally attuned implementation, offering practical lessons for other developing countries seeking to design centrally driven, target‐oriented mobilization strategies while mitigating the risks of overreach.",
+   "url": "https://doi.org/10.1002/pad.70112",
+   "doi": "10.1002/pad.70112",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "개요 이 연구는 하향식 현대화 계획에 대한 James Scott의 비판을 직접적으로 다루면서 지역 지식과 주도권을 훼손하지 않고 빈곤 완화를 목적으로 중앙 정부가 국가 기구를 동원할 수 있는 방법을 조사합니다. 2012년부터 2018년 사이에 중국 내 706개 국가 지정 빈곤 현(NPC)의 현 수준 패널 데이터를 사용하여 우리는 중국의 최근 빈곤 완화 캠페인 중에 배포된 두 가지 주요 동원 도구, 즉 정량적 빈곤 감소 목표와 GDP 성장보다 빈곤 결과를 우선시하는 간부 성과 평가 변경의 개별 및 결합 효과를 식별합니다. 차이의 차이 설계는 두 정책 모두 목표 난이도, 간부 경력 범위 및 지역 재직 기간에 따라 영향을 미치면서 농촌의 1인당 소득을 향상시켰음을 보여줍니다. 이러한 결과에서 우리는 효율성을 향상시키는 세 가지 기능을 식별합니다. (1) 정확하고 모니터링 가능한 목표를 가능하게 하는 세분화된 식별 시스템; (2) 재분배를 향한 인센티브 재조정; (3) 지역 지식을 축적하고 적용하기 위한 지역 리더십의 안정성. 이러한 연구 결과는 중앙 조정과 지역별 구현을 결합한 거버넌스 모델을 강조하며, 과잉 접근의 위험을 완화하면서 중앙 집중식, 목표 지향적 동원 전략을 설계하려는 다른 개발도상국에 실용적인 교훈을 제공합니다."
+  },
+  "oa:W7202395935": {
+   "id": "oa:W7202395935",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Time's Sentimental Tale: Operationalizing Plot Within the Narrative Policy Framework",
+   "authors": [
+    "Rachel McGovern",
+    "Crystal Soderman",
+    "Alex Osei‐Kojo",
+    "Michael D. Jones",
+    "Kristin Olofsson"
+   ],
+   "journal": "Policy Studies Journal",
+   "date": "2026-08-01",
+   "abstract": "ABSTRACT The Narrative Policy Framework (NPF) has proven to be a successful analytical tool for examining the role of narratives within the policy process; however, the analysis of plot is still understudied. This gap persists due to difficulty in developing valid and reliable measures of plot and a lack of plot operationalizations using longitudinal data. Inspired by Kurt Vonnegut's thesis on the shape of stories, this study explores the extent to which policy narratives assume a generalizable shape and how that shape can contribute to our understanding of the policy process. Using 2014–2020 news media coverage of Ghana's energy crisis, we reconceptualize plot as a temporal story arc captured through the media's affective evaluations of policy events, reflecting how the policy problem is framed across time. To achieve this, we apply sentiment analysis to news media coverage of policy events and aggregate them into a sentiment score. This score is then plotted over time to visually depict the shape of Ghana's energy crisis story. Our results reveal that this shape closely mirrors Vonnegut's Man in Hole story, suggesting that policy narratives may adhere to generalizable story arcs. Theoretically, these results contribute to our understanding of time and sentiment within the NPF, opening avenues for future research. Methodologically, this paper provides an empirical blueprint for capturing and coding plot variables in a reliable and replicable manner.",
+   "url": "https://doi.org/10.1111/psj.70152",
+   "doi": "10.1111/psj.70152",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "개요 NPF(내러티브 정책 프레임워크)는 정책 프로세스 내에서 내러티브의 역할을 조사하기 위한 성공적인 분석 도구임이 입증되었습니다. 그러나 플롯 분석은 여전히 ​​​​과소 연구되고 있습니다. 이러한 격차는 타당하고 신뢰할 수 있는 플롯 측정값을 개발하는 데 어려움이 있고 종단적 데이터를 사용하여 플롯 운영화가 부족하기 때문에 지속됩니다. 이야기의 형태에 관한 Kurt Vonnegut의 논문에서 영감을 받은 이 연구는 정책 내러티브가 일반화 가능한 형태를 취하는 정도와 그 형태가 정책 과정에 대한 우리의 이해에 어떻게 기여할 수 있는지 탐구합니다. 가나의 에너지 위기에 대한 2014~2020년 뉴스 미디어 보도를 사용하여 우리는 정책 문제에 대한 미디어의 정서적 평가를 통해 포착된 시간적 스토리 아크로 플롯을 재개념화하고 정책 문제가 시간에 따라 어떻게 구성되는지를 반영합니다. 이를 달성하기 위해 우리는 정책 이벤트에 대한 뉴스 미디어 보도에 감정 분석을 적용하고 이를 감정 점수로 집계합니다. 그런 다음 이 점수는 시간에 따라 표시되어 가나의 에너지 위기 이야기의 형태를 시각적으로 묘사합니다. 우리의 결과는 이 형태가 Vonnegut의 Man in Hole 스토리를 밀접하게 반영한다는 것을 보여 주며, 정책 내러티브가 일반화 가능한 스토리 아크를 고수할 수 있음을 시사합니다. 이론적으로 이러한 결과는 NPF 내의 시간과 정서를 이해하는 데 도움이 되며 향후 연구를 위한 길을 열어줍니다. 방법론적으로 이 논문은 신뢰할 수 있고 복제 가능한 방식으로 플롯 변수를 캡처하고 코딩하기 위한 경험적 청사진을 제공합니다."
+  },
+  "oa:W7167577981": {
+   "id": "oa:W7167577981",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Columnwise neural imputation for incomplete ordinal psychometric data.",
+   "authors": [
+    "Longfei Zhang",
+    "Minjeong Jeon",
+    "Ping Chen"
+   ],
+   "journal": "Psychological Methods",
+   "date": "2026-08-13",
+   "abstract": "COLNI (pronounced “col-knee”) is an ANN-based framework for imputing missing values in tabular data, with a particular focus on ordinal response scales frequently encountered in education, psychology, behavioral science, and related domains. Extensive simulation studies and real-world evaluations---summarized in our paper, Columnwise Neural Imputation for Incomplete Ordinal Psychometric Data---validate COLNI’s effectiveness across diverse conditions",
+   "url": "https://doi.org/10.1037/met0000867",
+   "doi": "10.1037/met0000867",
+   "pdf": "https://doi.org/10.17605/osf.io/c6rxa",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "COLNI(\"col-knee\"로 발음)는 표 형식 데이터의 누락된 값을 대치하기 위한 ANN 기반 프레임워크로, 특히 교육, 심리학, 행동 과학 및 관련 영역에서 자주 접하는 순서형 응답 척도에 중점을 둡니다. 광범위한 시뮬레이션 연구 및 실제 평가---불완전한 서수 심리 측정 데이터에 대한 열별 신경 대치 논문에 요약되어 있음---다양한 조건에서 COLNI의 효과를 검증합니다."
+  },
+  "oa:W7202349964": {
+   "id": "oa:W7202349964",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "A General Approach for Estimating Projective IRT Models",
+   "authors": [
+    "R. Philip Chalmers",
+    "Carl F. Falk",
+    "Steve P. Reise"
+   ],
+   "journal": "Applied Psychological Measurement",
+   "date": "2026-08-13",
+   "abstract": "Projective Item Response Theory (PIRT) modeling is a measurement framework in which multidimensional item response models are expressed in terms of lower-dimensional (e.g., unidimensional) proxy IRT models. Existing PIRT methods and their associated estimators currently rely on logistic function approximations that are limited to a narrow class of ordered, monotonic response functions. Though unexplored to date, these methods also require computationally intensive procedures to obtain sampling variability estimates for their resulting PIRT estimates. These and other limitations restrict the practical utility and broad application of PIRT models, particularly in empirical settings where only moderate sample sizes are available. To address these challenges, we introduce a general maximum marginal likelihood PIRT (MML-PIRT) approach that leverages components of the expectation–maximization (EM) algorithm commonly used in MML estimation. The proposed method uses expected count information generated during the EM-MML to fit proxy response functions for any focal trait of interest, and for a much broader class of multidimensional IRT models. In addition, MML-PIRT provides accurate and efficient large-sample variability estimates of the resulting PIRT model, thereby enhancing both the flexibility and statistical efficacy of PIRT model applications.",
+   "url": "https://doi.org/10.1177/01466216261474955",
+   "doi": "10.1177/01466216261474955",
+   "pdf": "https://doi.org/10.1177/01466216261474955",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "PIRT(투영 항목 응답 이론) 모델링은 다차원 항목 응답 모델이 저차원(예: 1차원) 프록시 IRT 모델로 표현되는 측정 프레임워크입니다. 기존 PIRT 방법 및 관련 추정량은 현재 좁은 클래스의 정렬된 단조로운 응답 함수로 제한되는 로지스틱 함수 근사에 의존합니다. 현재까지 탐구되지 않았지만 이러한 방법에는 결과 PIRT 추정치에 대한 샘플링 변동성 추정치를 얻기 위해 계산 집약적인 절차도 필요합니다. 이러한 제한 사항과 기타 제한 사항은 특히 적당한 표본 크기만 사용할 수 있는 경험적 설정에서 PIRT 모델의 실제 유용성과 광범위한 적용을 제한합니다. 이러한 문제를 해결하기 위해 MML 추정에 일반적으로 사용되는 EM(기대값 최대화) 알고리즘의 구성 요소를 활용하는 일반 최대 주변 우도 PIRT(MML-PIRT) 접근 방식을 소개합니다. 제안된 방법은 EM-MML 동안 생성된 예상 개수 정보를 사용하여 관심 있는 모든 초점 특성과 훨씬 더 광범위한 클래스의 다차원 IRT 모델에 대한 프록시 응답 함수를 맞춥니다. 또한 MML-PIRT는 결과 PIRT 모델의 정확하고 효율적인 대규모 표본 변동성 추정을 제공하여 PIRT 모델 응용 프로그램의 유연성과 통계적 효율성을 모두 향상시킵니다."
+  },
+  "oa:W7202373841": {
+   "id": "oa:W7202373841",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Evaluating LLM-generated questions across zero-shot, one-shot, and few-shot prompting strategies and different parameter sizes",
+   "authors": [
+    "Figen Eğin",
+    "Aykut Durak",
+    "Aytuğ Onan"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-13",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11135-026-03053-w",
+   "doi": "10.1007/s11135-026-03053-w",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00"
+  },
+  "oa:W7202348113": {
+   "id": "oa:W7202348113",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Measuring higher education: comparing Danish survey and register data in the study of values",
+   "authors": [
+    "Trond Beldo Klausen",
+    "Ole Riis"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-13",
+   "abstract": "Abstract This paper addresses both methodological and substantive issues. The methodological issue relates to the measurement of education, particularly tertiary education, in social science research, while the substantive issue concerns the relationship between higher education and social values. These issues are closely linked: if the measurement of tertiary education is biased, does this affect empirical findings regarding social values? Linking Danish data from the European Values Study 2017 with administrative registers enables a comparison of self-reported education with official records and an assessment of whether inconsistencies affect observed correlations between tertiary education and value orientations. The analysis reveals substantial divergence. The overall agreement between the two data sources is approximately 70%. Discrepancies are most pronounced for short-cycle tertiary education, where only 32% of cases align. Reporting a higher level of education than that recorded in the registers accounts for most inconsistencies, with 25% of respondents claiming tertiary education not found in the registers, whereas only 2.5% report a lower educational level than that recorded. The analysis identifies age, gender, income, age at immigration, and survey mode as significant predictors of discrepant reporting, suggesting influences such as social desirability and the non-recognition of foreign degrees. Despite these discrepancies, comparisons of value orientations across tertiary educational levels show striking consistency between register- and survey-based measures, with only one statistically significant difference in value orientations (out of 18 possible comparisons) between self-reported and registered measures of educational level. Despite the methodological challenges associated with survey data, these discrepancies do not appear to distort the main findings.",
+   "url": "https://doi.org/10.1007/s11135-026-03042-z",
+   "doi": "10.1007/s11135-026-03042-z",
+   "pdf": "https://doi.org/10.1007/s11135-026-03042-z",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "Abstract 이 논문은 방법론적 문제와 실질적인 문제를 모두 다루고 있습니다. 방법론적 문제는 사회과학 연구에서 교육, 특히 고등교육의 측정과 관련된 반면, 실질적인 문제는 고등교육과 사회적 가치 사이의 관계에 관한 것입니다. 이러한 문제는 밀접하게 연결되어 있습니다. 고등 교육 측정이 편향된 경우 이것이 사회적 가치에 관한 실증적 결과에 영향을 줍니까? 2017년 유럽 가치 연구의 덴마크 데이터를 행정 등록부와 연결하면 자체 보고된 교육을 공식 기록과 비교하고 불일치가 고등 교육과 가치 지향 사이에서 관찰된 상관 관계에 영향을 미치는지 여부를 평가할 수 있습니다. 분석 결과 상당한 차이가 드러났습니다. 두 데이터 소스 간의 전체 일치율은 약 70%입니다. 불일치는 주기가 짧은 고등교육에서 가장 뚜렷하며, 사례의 32%만이 일치합니다. 대부분의 불일치는 등록부에 기록된 것보다 높은 교육 수준을 보고하는 것인데, 응답자의 25%가 등록부에 고등 교육이 없다고 주장한 반면, 단지 2.5%만이 기록된 것보다 낮은 교육 수준을 보고했습니다. 분석에서는 연령, 성별, 소득, 이민 연령, 설문 조사 모드를 불일치 보고의 중요한 예측 변수로 식별하여 사회적 바람직성 및 외국 학위 비인정과 같은 영향을 제시합니다. 이러한 불일치에도 불구하고, 가치 지향의 비교는"
+  },
+  "oa:W7202377286": {
+   "id": "oa:W7202377286",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "An enhanced honey badger optimization algorithm for fuzzy availability maximization of a sugar manufacturing system",
+   "authors": [
+    "Purva Jangir",
+    "Pawan Kumar"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-13",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11135-026-03051-y",
+   "doi": "10.1007/s11135-026-03051-y",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00"
+  },
+  "oa:W7202411837": {
+   "id": "oa:W7202411837",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Are we really willing to consume alternative protein foods? a comparative analysis of insects, cultured and plant-based meat in Southern Italy",
+   "authors": [
+    "Debora Scarpato",
+    "Gennaro Punzo"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-13",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11135-026-03048-7",
+   "doi": "10.1007/s11135-026-03048-7",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00"
+  },
+  "oa:W7171922100": {
+   "id": "oa:W7171922100",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Q-methodology with pre-school-aged children: practical challenges and emerging opportunities",
+   "authors": [
+    "Merja Hietanen",
+    "Maksims Kornevs",
+    "Catarina Nahlén Bose",
+    "Jayanth Raghothama",
+    "Sebastiaan Meijer"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-07-31",
+   "abstract": "Abstract Research involving pre-school children continues to present ethical, methodological and practical challenges. Children in this age group are often excluded from studies or represented through proxy reporting by their parents. If they are not permitted to participate directly in research studies, the results may reflect adult perspectives rather than the genuine needs and experiences of children. This can result in the provision of services and interventions that do not align with children’s best interests. To explore preschool-aged children’s participation in healthcare situations from the child perspective and the child’s perspective this article presents a Q-methodology study, a mixed-methods research technique that examines subjective viewpoints. To our knowledge, this method has not previously been used with children aged three to five. The article addresses the following research questions: Which characteristics of Q methodology support or limit the expression and representation of children’s voices and perspectives in research involving them? What are the benefits and challenges of using Q-methodology in research involving young children aged 3–5 years, their parents, and health professionals? The children participated enthusiastically in ranking the statements but provided few reasons for their preferences. Parents were able to explain some of their children’s choices based on their experience of previous healthcare encounters. Adult participants sometimes adopted an ‘adult perspective’, ranking statements on how children should behave instead of answering on the children’s behalf. Q-methodology has been found to be child-friendly, age-appropriate and child-centered when working with pre-school children.",
+   "url": "https://doi.org/10.1007/s11135-026-03025-0",
+   "doi": "10.1007/s11135-026-03025-0",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-03025-0.pdf",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "Abstract 미취학 아동을 대상으로 한 연구는 계속해서 윤리적, 방법론적, 실무적 과제를 제시하고 있습니다. 이 연령대의 어린이는 종종 연구에서 제외되거나 부모의 대리 보고를 통해 대표됩니다. 연구에 직접 참여하는 것이 허용되지 않는 경우, 결과는 아동의 진정한 필요와 경험보다는 성인의 관점을 반영할 수 있습니다. 이로 인해 아동의 최선의 이익에 부합하지 않는 서비스 및 개입이 제공될 수 있습니다. 미취학 아동의 의료 상황 참여를 아동의 관점과 아동의 관점에서 탐색하기 위해 이 기사에서는 주관적인 관점을 조사하는 혼합 방법 연구 기법인 Q-방법론 연구를 제시합니다. 우리가 아는 바로는 이 방법은 이전에 3~5세 어린이에게 사용된 적이 없습니다. 이 기사는 다음과 같은 연구 질문을 다룹니다. Q 방법론의 어떤 특성이 어린이와 관련된 연구에서 어린이의 목소리와 관점의 표현과 표현을 지원하거나 제한합니까? 3~5세 어린이, 부모, 의료 전문가를 대상으로 한 연구에서 Q-방법론을 사용하면 어떤 이점과 어려움이 있습니까? 아이들은 진술 순위를 매기는 데 열정적으로 참여했지만 선호하는 이유는 거의 제시하지 않았습니다. 부모는 이전 의료 서비스 경험을 바탕으로 자녀의 선택 중 일부를 설명할 수 있었습니다. 성인 참가자들은 때때로 야유를 합니다."
+  },
+  "oa:W7166167605": {
+   "id": "oa:W7166167605",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Inequality matters: contrasting effects of income and wealth inequality on India’s economic growth (1990–2023)",
+   "authors": [
+    "Tasleem Araf Cash",
+    "Md. Izhar Alam",
+    "Sanna Feroz",
+    "Jainendra Kumar Verma"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-06-26",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11135-026-02931-7",
+   "doi": "10.1007/s11135-026-02931-7",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00"
+  },
+  "oa:W7202382732": {
+   "id": "oa:W7202382732",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Generative conformal prediction under multiple covariate shifts",
+   "authors": [
+    "Meifang Lan",
+    "Tong Wang",
+    "Siming Zheng",
+    "Yuanyuan Lin"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-08-13",
+   "abstract": "Abstract In this paper, we consider the problem of prediction inference for multiple target datasets under varying covariate shifts, a challenging scenario encountered in various economic and biomedical applications. We propose a two-step generative conformal prediction (GCP) method, which is efficient in handling imbalanced datasets. General results on the coverage validity of the proposed method are established, which elucidates the influence of the conditional generative learning procedure on the coverage validity. Furthermore, we prove the robustness of the proposed GCP intervals and provide theoretical evidence to demonstrate the advantages of our method over density ratio-based methods. Numerical studies, including simulation and real data examples, are conducted to compare the proposed method with existing density ratio-based approaches, to empirically illustrate the effectiveness of our method.",
+   "url": "https://doi.org/10.1007/s11222-026-10936-3",
+   "doi": "10.1007/s11222-026-10936-3",
+   "pdf": "https://doi.org/10.1007/s11222-026-10936-3",
+   "first_seen": "2026-08-15T07:48:07+09:00",
+   "abstract_ko": "Abstract 이 논문에서 우리는 다양한 경제 및 생물 의학 응용 분야에서 직면하는 어려운 시나리오인 다양한 공변량 변화 하에서 여러 대상 데이터 세트에 대한 예측 추론 문제를 고려합니다. 우리는 불균형 데이터 세트를 처리하는 데 효율적인 2단계 생성적 등각 예측(GCP) 방법을 제안합니다. 제안된 방법의 커버리지 타당성에 대한 일반적인 결과가 확립되었으며, 이는 조건부 생성 학습 절차가 커버리지 타당성에 미치는 영향을 설명합니다. 또한 제안된 GCP 간격의 견고성을 입증하고 밀도 비율 기반 방법에 비해 우리 방법의 장점을 입증하는 이론적 증거를 제공합니다. 제안된 방법을 기존 밀도비 기반 접근 방식과 비교하고 우리 방법의 효율성을 경험적으로 설명하기 위해 시뮬레이션 및 실제 데이터 예제를 포함한 수치 연구를 수행합니다."
+  },
+  "oa:W7202392541": {
+   "id": "oa:W7202392541",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Proposer of the vote of thanks to Farewell et al. and contribution to the Discussion of ‘Regression by composition’",
+   "authors": [
+    "Stijn Vansteelandt"
+   ],
+   "journal": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+   "date": "2026-08-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1093/jrsssb/qkag108",
+   "doi": "10.1093/jrsssb/qkag108",
+   "pdf": "",
+   "first_seen": "2026-08-15T07:48:07+09:00"
   }
  }
 }
