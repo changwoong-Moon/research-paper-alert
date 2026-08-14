@@ -45,7 +45,8 @@ def build_items(news):
 
 
 def main():
-    pw = os.environ.get("GMAIL_APP_PASSWORD", "").strip()
+    # 앱 비밀번호는 "xxxx xxxx xxxx xxxx" 형태로 복사되는 경우가 많아 공백 전부 제거
+    pw = "".join(os.environ.get("GMAIL_APP_PASSWORD", "").split())
     if not pw:
         print("GMAIL_APP_PASSWORD 미설정 — 이메일 발송 건너뜀")
         return
