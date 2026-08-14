@@ -42,3 +42,8 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "data: 논문 목록 자동 갱신"
           git push
+
+      - name: 이메일 다이제스트 발송 (GMAIL_APP_PASSWORD 등록 시)
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python3 send_email.py

@@ -29,6 +29,17 @@ KCI 오픈API는 **신청 시 등록한 IP에서만** 키를 인정하므로(Git
 > 인터넷 회선이 바뀌어 공인 IP가 달라지면 [KCI 오픈API](https://open.kci.go.kr)에서 IP 변경을
 > 신청해야 합니다. 수동 실행: 저장소 폴더에서 `powershell -File kci_fetch.ps1`
 
+## 이메일 다이제스트 켜는 법
+
+매일 07:30 갱신 직후, 지난 하루 새 논문 요약 + 대시보드 링크를 dkaskdlry@gmail.com 으로 발송합니다
+([send_email.py](send_email.py), 새 논문이 없는 날은 발송 안 함).
+
+1. Google 계정에 2단계 인증이 켜져 있어야 함
+2. https://myaccount.google.com/apppasswords 에서 **앱 비밀번호** 생성 (16자리)
+3. 저장소 **Settings → Secrets and variables → Actions → New repository secret**
+   - Name: `GMAIL_APP_PASSWORD`, Secret: 생성한 16자리 (띄어쓰기 제거)
+4. 등록 즉시 다음 실행부터 발송. 끄려면 시크릿 삭제.
+
 ### (선택) Springer 초록 보충
 
 Quality & Quantity 등 Springer 학술지는 무료 API에 초록을 제공하지 않는 경우가 많습니다.
