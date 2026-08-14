@@ -536,11 +536,12 @@ def translate_abstracts(state):
         if done >= TRANSLATE_CAP:
             break
         if fails >= 3:
-            # 연속 실패 = 일시적 속도 제한일 가능성 → 쿨다운 후 재개
-            if cooldowns >= 6:
+            # 연속 실패 = IP 단위 속도 제한. 러너 IP는 실행마다 바뀌므로
+            # 한 번만 재시도해보고 안 되면 다음 실행으로 넘긴다.
+            if cooldowns >= 1:
                 break
             cooldowns += 1
-            print("  번역 연속 실패 — 60초 쿨다운 후 재개 (%d/6)" % cooldowns)
+            print("  번역 연속 실패 — 60초 쿨다운 후 재개 (%d/1)" % cooldowns)
             time.sleep(60)
             fails = 0
         done += 1
