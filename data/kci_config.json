@@ -20,5 +20,10 @@
   "journals": [
    "조사연구"
   ]
+ },
+ {
+  "topic": "econ-stats",
+  "name": "계량경제·통계",
+  "journals": []
  }
 ]
