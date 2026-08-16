@@ -1,15 +1,70 @@
 {
- "generated_at": "2026-08-16T07:45:38+09:00",
- "generated_at_display": "2026-08-16 07:45 KST",
+ "generated_at": "2026-08-17T07:44:37+09:00",
+ "generated_at_display": "2026-08-17 07:44 KST",
  "dashboard": "https://changwoong-moon.github.io/research-paper-alert/",
- "kci_status": "정상 — PC 수집 138건 (2026-08-15 10:16)",
+ "kci_status": "정상 — PC 수집 138건 (2026-08-16 09:58)",
  "topics": [
   {
    "key": "public-admin",
    "name": "행정학 연구동향",
-   "count": 998,
-   "new_count": 139,
+   "count": 1001,
+   "new_count": 26,
    "papers": [
+    {
+     "id": "oa:W7203533437",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Public-Service Motivation and Proactive Administrative Behavior: Organizational Commitment and Servant-Like Supervisory Behavior in the Korean Civil Service",
+     "authors": [
+      "Byungyun Choi"
+     ],
+     "journal": "Public Personnel Management",
+     "date": "2026-08-15",
+     "abstract": "This study examines how public-service motivation (PSM) is associated with proactive administrative behavior among Korean civil servants and identifies organizational and supervisory conditions that help translate public-service motives into work behavior. Building on a motivation-attitude-behavior framework, organizational commitment is modeled as an attitudinal conversion mechanism, while servant-like supervisory behavior is examined as a contextual condition that may enable committed employees to express their commitment through proactive administrative behavior. Using the 2021 Survey on Civil Servants’ Work and Life ( N = 4,133), the study estimates the proposed model using partial least squares structural equation modeling with bootstrapped tests of mediation and interaction effects. PSM is positively associated with proactive administrative behavior both directly and indirectly through organizational commitment. Servant-like supervisory behavior strengthens the organizational commitment–proactive administrative behavior relationship, whereas its interaction with PSM is not statistically significant. The findings suggest that supervisory context may matter most at the attitude-to-behavior translation stage rather than as a general amplifier of public-service motives. The analysis distinguishes the measured behavioral construct from broader claims about risk-taking and accountability pressure, and treats the single-source cross-sectional design as a substantive limitation rather than as a concern that statistical diagnostics can fully eliminate.",
+     "url": "https://doi.org/10.1177/00910260261476886",
+     "doi": "10.1177/00910260261476886",
+     "pdf": "",
+     "first_seen": "2026-08-17T07:44:37+09:00",
+     "abstract_ko": "본 연구는 공직동기(PSM)가 한국 공무원의 능동적인 행정행동과 어떻게 연관되어 있는지 살펴보고, 공직동기를 업무행동으로 전환하는 데 도움이 되는 조직 및 감독 조건을 확인합니다. 동기-태도-행동 프레임워크를 바탕으로 조직의 헌신은 태도 전환 메커니즘으로 모델화되는 반면, 하인과 같은 감독 행동은 헌신적인 직원이 적극적인 관리 행동을 통해 자신의 헌신을 표현할 수 있도록 하는 상황적 조건으로 조사됩니다. 본 연구에서는 2021년 공무원 업무 및 생활 조사(N = 4,133)를 사용하여 매개 및 상호 작용 효과에 대한 부트스트랩 테스트를 갖춘 부분 최소 제곱 구조 방정식 모델링을 사용하여 제안된 모델을 추정합니다. PSM은 조직의 헌신을 통해 직간접적으로 적극적인 관리 활동과 긍정적으로 연관되어 있습니다. 하인과 같은 감독 행동은 조직 헌신-선제적 행정 행동 관계를 강화하는 반면 PSM과의 상호 작용은 통계적으로 유의하지 않습니다. 연구 결과는 감독적 맥락이 공공 서비스 동기의 일반적인 증폭보다는 태도-행동 전환 단계에서 가장 중요할 수 있음을 시사합니다. 분석에서는 측정된 행동 구성을 위험 감수 및 책임 압력에 대한 광범위한 주장과 구별하고 단일 소스 단면 설계를 실질적인 제한으로 처리합니다.",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7203550918",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Path creation in the governance of shrinking cities and regions: regional collaboration and circular economy in Parkstad Limburg",
+     "authors": [
+      "Marjan Marjanović",
+      "Raoul Beunen"
+     ],
+     "journal": "Journal of Environmental Policy & Planning",
+     "date": "2026-08-15",
+     "abstract": "",
+     "url": "https://doi.org/10.1080/1523908x.2026.2712323",
+     "doi": "10.1080/1523908x.2026.2712323",
+     "pdf": "https://doi.org/10.1080/1523908x.2026.2712323",
+     "first_seen": "2026-08-17T07:44:37+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7203549715",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The Policy of Foreign Bank Entry and Export Upgrading: Evidence From Chinaʼs WTO Accession",
+     "authors": [
+      "Yan Zhang",
+      "Wenyi Zhou"
+     ],
+     "journal": "Asia & the Pacific Policy Studies",
+     "date": "2026-08-14",
+     "abstract": "ABSTRACT This paper examines the impact of the staggered rollout of deregulation policies on foreign banksʼ access to domestic firms following Chinaʼs entry into the WTO in 2001. We find that the policy raises the probability of export entry among non‐exporting firms by approximately 50 percentage points, and the probability of upgrading from processing to ordinary trade among processing‐only firms by approximately 15–17 percentage points. We evaluate two mechanisms: improved credit access and reduced information frictions. The balance‐sheet evidence indicates meaningful increases in borrowing, leverage, production, and sales after deregulation, with modest and suggestive evidence on heterogeneity patterns related to ex ante financial constraints. By contrast, the evidence for an information channel is sharper: firms become more likely to export to the home countries of locally present foreign banks, especially when informational frictions with those destinations are larger. These findings suggest that foreign banking liberalisation can promote export upgrading not only by easing financing margins, but also by helping firms enter more information‐intensive trade relationships.",
+     "url": "https://doi.org/10.1002/app5.70093",
+     "doi": "10.1002/app5.70093",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/app5.70093",
+     "first_seen": "2026-08-17T07:44:37+09:00",
+     "abstract_ko": "요약 이 논문은 2001년 중국의 WTO 가입 이후 단계적으로 시행된 규제 완화 정책이 외국 은행의 국내 기업 접근에 미치는 영향을 조사합니다. 우리는 이 정책이 비수출 기업의 수출 진입 확률을 약 50% 포인트 높이고, 가공 전용 기업의 가공 무역에서 일반 무역으로의 업그레이드 가능성을 약 15~17% 포인트 높이는 것으로 나타났습니다. 우리는 신용 접근성 향상과 정보 마찰 감소라는 두 가지 메커니즘을 평가합니다. 대차대조표 증거는 사전 금융 제약과 관련된 이질성 패턴에 대한 적당하고 암시적인 증거와 함께 규제 완화 후 차입, 레버리지, 생산 및 판매의 의미 있는 증가를 나타냅니다. 대조적으로, 정보 채널에 대한 증거는 더 선명합니다. 기업은 현지에 존재하는 외국 은행의 본국으로 수출할 가능성이 더 높아지며, 특히 해당 목적지와의 정보 마찰이 클 때 더욱 그렇습니다. 이러한 연구 결과는 외국 은행 자유화가 자금 조달 마진을 완화할 뿐만 아니라 기업이 보다 정보 집약적인 무역 관계에 진입하도록 도움으로써 수출 업그레이드를 촉진할 수 있음을 시사합니다.",
+     "is_new": true
+    },
     {
      "id": "oa:W7203453977",
      "topic": "public-admin",
@@ -22,11 +77,12 @@
      ],
      "journal": "Milbank Quarterly",
      "date": "2026-08-14",
-     "abstract": "",
+     "abstract": "e appreciate the thoughtful response to our article and strongly agree that improving diet quality should remain a central public health goal.Diets rich in minimally processed, fiber-containing, and diverse foods are associated with better health outcomes and may support healthier gut microbial ecosystems. 1 Public health should continue promoting nourishing dietary patterns and improving access to real food.However, we are concerned that the response frames these goals as somehow separate from, or even incompatible with, addressing the addictive engineering of ultraprocessed foods (UPFs).In our view, this creates a false dichotomy.For decades, public health messaging has encouraged people to \"eat healthier.\"Yet during this same period, the food environment has become increasingly saturated with industrially formulated products engineered to maximize reward, convenience, and excessive consumption.These products are designed to be rapidly consumed, intensely palatable, heavily marketed, and difficult to resist under conditions of stress, time scarcity, and repeated cue exposure.Increasingly, they are also wrapped in health-oriented marketing related to \"plant-based,\" \"gut health,\" \"high protein,\" or \"functional\" nutrition, further blurring distinctions between genuinely nourishing foods and products optimized primarily for overconsumption.This is precisely why discussions of addictive design and corporate engineering remain important.Public health would never have addressed smoking-related disease solely by encouraging people to breathe clean air while ignoring that the air itself was saturated with cigarette smoke from industrially engineered products designed and marketed to sustain compulsive use.Similarly, people attempting to follow healthier dietary guidance today must navigate food environments saturated with intentionally tempting UPFs in order to access and sustain minimally processed dietary patterns",
      "url": "https://doi.org/10.1111/1468-0009.70119",
      "doi": "10.1111/1468-0009.70119",
-     "pdf": "https://doi.org/10.1111/1468-0009.70119",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70119",
      "first_seen": "2026-08-16T07:45:38+09:00",
+     "abstract_ko": "나는 우리 기사에 대한 사려 깊은 답변에 감사하며, 식단의 질을 개선하는 것이 공중 보건의 핵심 목표로 남아 있어야 한다는 점에 강력히 동의합니다. 최소한으로 가공되고 섬유질이 함유된 다양한 식품이 풍부한 식단은 더 나은 건강 결과와 관련이 있으며 더 건강한 장내 미생물 생태계를 지원할 수 있습니다. 1 공중 보건은 계속해서 영양가 있는 식이 패턴을 장려하고 실제 식품에 대한 접근성을 향상시켜야 합니다. 그러나 우리는 이러한 목표가 초가공식품(UPF)의 중독성 공학을 다루는 것과 어떻게든 분리되거나 심지어 양립할 수 없는 것으로 프레임화하는 것을 우려합니다. 우리의 견해로는 이는 잘못된 이분법을 만듭니다. 수십 년 동안 공중 보건 메시지는 사람들에게 \"더 건강한 식사\"를 장려해 왔습니다. 그러나 같은 기간 동안 식품 환경은 보상, 편의성 및 과잉을 극대화하도록 설계된 산업적으로 제조된 제품으로 점점 포화 상태가 되었습니다. 이러한 제품은 빠르게 소비되고 맛이 강하며 많이 판매되고 스트레스, 시간 부족 및 반복적인 신호 노출 조건에서 저항하기 어렵도록 설계되었습니다. 또한 점점 더 \"식물성\", \"장 건강\", \"고단백\" 또는 \"기능성\" 영양과 관련된 건강 지향 마케팅으로 포장되어 진정한 영양 식품과 주로 과소비에 최적화된 제품 간의 구분이 더욱 모호해집니다. 이것이 바로 중독성 디자인과 기업 엔지니어링에 대한 논의가 중요한 이유입니다. 건강은 결코 sm을 언급하지 않았을 것입니다",
      "is_new": true
     },
     {
@@ -44,7 +100,7 @@
      "abstract": "Intermunicipal collaboration is commonly viewed as a way for small municipalities to obtain economies of scale. Empirical research, however, indicates that large municipalities participate in such arrangements just as often as small ones. This is puzzling, as large municipalities probably have exhausted existing scale benefits and may even incur extra costs associated with collaboration. Using a panel dataset on collaboration on child protection services in Norway covering 13 years (2003–2019), we study whether costs and benefits associated with intermunicipal collaboration are asymmetrically distributed among municipalities of different sizes. Results indicate that smaller municipalities increase their capacity through collaboration but also experience cost increases. The largest municipalities experience no significant change in costs, but as they share existing resources with member municipalities, they also dilute their capacity to deliver services to citizens in their own jurisdiction.",
      "url": "https://doi.org/10.1080/03003930.2026.2717092",
      "doi": "10.1080/03003930.2026.2717092",
-     "pdf": "https://doi.org/10.1080/03003930.2026.2717092",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/03003930.2026.2717092?needAccess=true",
      "first_seen": "2026-08-16T07:45:38+09:00",
      "abstract_ko": "지방자치단체 간 협력은 일반적으로 소규모 지방자치단체가 규모의 경제를 달성하는 방법으로 간주됩니다. 그러나 실증적 연구에 따르면 대규모 지방자치단체도 소규모 지방자치단체와 마찬가지로 그러한 조치에 자주 참여하는 것으로 나타났습니다. 대규모 지방자치단체에서는 기존 규모의 이점을 모두 소진하고 협업과 관련된 추가 비용이 발생할 수도 있기 때문에 이는 혼란스러운 일입니다. 13년(2003~2019) 동안 노르웨이 아동 보호 서비스에 대한 협력에 관한 패널 데이터 세트를 사용하여 지방자치단체 간 협력과 관련된 비용과 혜택이 다양한 규모의 지방자치단체에 비대칭적으로 분포되어 있는지 여부를 연구합니다. 결과에 따르면 소규모 지방자치단체는 협력을 통해 용량을 늘리지만 비용도 증가하는 것으로 나타났습니다. 가장 큰 지방자치단체는 비용에 큰 변화가 없지만 기존 자원을 회원 지방자치단체와 공유하기 때문에 관할권 내 시민에게 서비스를 제공할 수 있는 역량도 희석됩니다.",
      "is_new": true
@@ -61,11 +117,12 @@
      ],
      "journal": "Journal of Asian Public Policy",
      "date": "2026-08-14",
-     "abstract": "",
+     "abstract": "Hybrid political systems often possess the capacity to impose order during crises without the institutional arrangements needed to legitimate and learn from those responses. This article develops the concept of asymmetric policy capacity to explain the pattern. Building on policy capacity theory, it argues that operational, political, and analytical capacities in hybrid regimes are not necessarily complementary attributes of a unified state but are distributed across rival authority centres with misaligned accountability. The framework distinguishes structural asymmetry as the background distribution, asymmetrization as the crisis-activated use of operational dominance that bypasses institutions carrying electoral legitimacy and plural information, and capacity divergence as the resulting post-crisis configuration. Using process tracing of Thailand’s 2006 military coup, 2008 judicial-political deadlock, and 2010 street confrontations, the article shows how crisis responses repeatedly achieved operational settlement without political resolution, fragmenting elected political capacity and weakening civilian analytical autonomy. The findings challenge complementarity assumptions in policy capacity theory: in hybrid regimes, governance failure may arise less from aggregate capacity scarcity than from how capacities are distributed across rival centres of authority.",
      "url": "https://doi.org/10.1080/17516234.2026.2718417",
      "doi": "10.1080/17516234.2026.2718417",
      "pdf": "",
      "first_seen": "2026-08-16T07:45:38+09:00",
+     "abstract_ko": "혼합형 정치 시스템은 위기 상황에서 그러한 대응을 정당화하고 배우는 데 필요한 제도적 장치 없이도 질서를 부여할 수 있는 능력을 보유하는 경우가 많습니다. 이 글은 패턴을 설명하기 위해 비대칭 정책 역량의 개념을 전개합니다. 정책 역량 이론을 바탕으로 하이브리드 체제의 운영, 정치, 분석 역량이 반드시 통일된 국가의 보완적인 속성은 아니지만 책임이 잘못 조정된 경쟁 권위 센터에 분산되어 있다고 주장합니다. 프레임워크는 구조적 비대칭성을 배경 분포로, 비대칭성을 선거 적법성과 복수 정보를 전달하는 기관을 우회하는 운영 지배력의 위기 활성화 사용으로, 그리고 결과적인 위기 이후 구성으로 역량 차이를 구별합니다. 이 기사는 2006년 태국 군사 쿠데타, 2008년 사법-정치적 교착 상태, 2010년 거리 대결의 과정 추적을 사용하여 어떻게 위기 대응이 정치적 해결 없이 작전적 해결을 반복적으로 달성하고, 선출된 정치적 역량을 분열시키고, 민간 분석 자율성을 약화시키는지 보여줍니다. 연구 결과는 정책 역량 이론의 상보성 가정에 도전합니다. 하이브리드 체제에서 거버넌스 실패는 총 역량 부족보다는 경쟁 권한 센터에 역량이 분배되는 방식에서 발생할 수 있습니다.",
      "is_new": true
     },
     {
@@ -2404,7 +2461,7 @@
      "abstract": "ABSTRACT Disruptive innovations often diffuse faster than inherited policy institutions can classify, assign jurisdiction, and govern them. In these early phases, the central struggle is often not yet about the stringency of substantive standards, but about prior questions of what the innovation is (its legal and administrative classification), who is competent to decide (allocation of jurisdiction and decision authority), and where authoritative decisions should be made (designation of legitimate governance venues). This article develops Contested Rule Formation (CRF), a meso‐level, four‐stage framework for analyzing early‐phase governance under institutional mismatch in institutionally dense settings. CRF reconceptualizes institutional voids as localized misfit along five co‐evolving dimensions: recognition, authority, enforcement capacity, venue clarity, and interpretive frames. It then specifies a staged mechanism (incipient recognition, exploratory tactics, rule crystallization, and consolidation/backlash) in which classification and jurisdictional settlements function as rate‐limiting gates for durable rulemaking and for procedural learning, understood as a contingent trajectory rather than an automatic result of contestation. A proof‐of‐concept comparison of ride‐hailing governance in California and Austin/Texas shows how different category‐and‐venue pathways shaped early outcomes. The article closes with a diagnostic and comparative research agenda for studying upstream governance across AI, fintech, energy, and other domains of disruptive innovation and socio‐technical change.",
      "url": "https://doi.org/10.1111/psj.70155",
      "doi": "10.1111/psj.70155",
-     "pdf": "https://doi.org/10.1111/psj.70155",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psj.70155",
      "first_seen": "2026-08-16T07:45:38+09:00",
      "abstract_ko": "개요 파괴적 혁신은 계승된 정책 기관이 이를 분류하고, 관할권을 할당하고, 관리할 수 있는 것보다 더 빠르게 확산되는 경우가 많습니다. 이러한 초기 단계에서 핵심적인 투쟁은 아직 실질적인 표준의 엄격함에 관한 것이 아니라 혁신이 무엇인지(법적 및 행정적 분류), 누가 결정할 자격이 있는지(관할권 및 결정 권한 할당), 권위 있는 결정이 어디서 이루어져야 하는지(합법적인 거버넌스 장소 지정)에 대한 사전 질문에 관한 것입니다. 이 기사는 제도적으로 밀집된 환경에서 제도적 불일치 하에서 초기 단계 거버넌스를 분석하기 위한 중간 수준의 4단계 프레임워크인 경쟁 규칙 형성(CRF)을 개발합니다. CRF는 인식, 권위, 집행 능력, 장소 명확성 및 해석 프레임이라는 5가지 공동 진화 차원에 따라 제도적 공백을 국부적인 부적합으로 재개념화합니다. 그런 다음 분류 및 관할권 합의가 논쟁의 자동 결과가 아닌 조건부 궤적으로 이해되는 내구성 있는 규칙 제정 및 절차적 학습을 위한 속도 제한 관문 역할을 하는 단계적 메커니즘(초기 인식, 탐구 전술, 규칙 결정화 및 통합/백래시)을 지정합니다. 캘리포니아와 오스틴/텍사스의 차량 공유 거버넌스에 대한 개념 증명 비교는 다양한 카테고리 및 장소 경로가 초기 결과에 어떻게 영향을 미치는지 보여줍니다. 이 기사는 대학 진학을 위한 진단 및 비교 연구 주제로 마무리됩니다.",
      "is_new": true
@@ -14376,7 +14433,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347195",
@@ -14393,7 +14450,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347197",
@@ -14410,7 +14467,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347198",
@@ -14428,7 +14485,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347201",
@@ -14446,7 +14503,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347207",
@@ -14463,7 +14520,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347188",
@@ -14480,7 +14537,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347192",
@@ -14498,7 +14555,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347199",
@@ -14516,7 +14573,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347200",
@@ -14533,7 +14590,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347202",
@@ -14551,7 +14608,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347204",
@@ -14568,7 +14625,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347205",
@@ -14585,7 +14642,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347209",
@@ -14603,7 +14660,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003347210",
@@ -14620,7 +14677,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003351904",
@@ -14638,7 +14695,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.31",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003351942",
@@ -14655,7 +14712,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.53",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003352006",
@@ -14673,7 +14730,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.77",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003352250",
@@ -14692,7 +14749,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.187",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003353110",
@@ -14710,7 +14767,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.297",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003353139",
@@ -14728,7 +14785,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.319",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003352971",
@@ -14745,7 +14802,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.203",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003352990",
@@ -14763,7 +14820,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.227",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003353007",
@@ -14780,7 +14837,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.259",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003351880",
@@ -14798,7 +14855,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.1",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003352052",
@@ -14816,7 +14873,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.109",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003352086",
@@ -14833,7 +14890,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.139",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003352212",
@@ -14850,7 +14907,7 @@
      "doi": "http://dx.doi.org/10.18398/kjlgas.2026.40.2.157",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350677",
@@ -14867,7 +14924,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.3",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350679",
@@ -14885,7 +14942,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.5",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350682",
@@ -14903,7 +14960,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.8",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350686",
@@ -14922,7 +14979,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.12",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350688",
@@ -14939,7 +14996,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350689",
@@ -14956,7 +15013,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.15",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350692",
@@ -14975,7 +15032,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.18",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350691",
@@ -14993,7 +15050,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.17",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350694",
@@ -15011,7 +15068,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.20",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350699",
@@ -15029,7 +15086,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.25",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350703",
@@ -15046,7 +15103,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.29",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350675",
@@ -15063,7 +15120,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.1",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350676",
@@ -15085,7 +15142,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.2",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350678",
@@ -15102,7 +15159,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.4",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350680",
@@ -15121,7 +15178,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.6",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350681",
@@ -15140,7 +15197,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.7",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350683",
@@ -15158,7 +15215,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.9",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350685",
@@ -15176,7 +15233,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.11",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350684",
@@ -15193,7 +15250,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.10",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350687",
@@ -15211,7 +15268,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.13",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350690",
@@ -15228,7 +15285,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.16",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350693",
@@ -15245,7 +15302,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.19",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350695",
@@ -15263,7 +15320,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.21",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350696",
@@ -15281,7 +15338,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.22",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350697",
@@ -15299,7 +15356,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.23",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350698",
@@ -15317,7 +15374,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.24",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350700",
@@ -15336,7 +15393,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.26",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350701",
@@ -15353,7 +15410,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.27",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350702",
@@ -15371,7 +15428,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.28",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003350704",
@@ -15389,7 +15446,7 @@
      "doi": "http://dx.doi.org/10.33900/KAPS.2026.35.2.30",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003357448",
@@ -15407,7 +15464,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003357452",
@@ -15425,7 +15482,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003357453",
@@ -15443,7 +15500,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003357444",
@@ -15462,7 +15519,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003357446",
@@ -15480,7 +15537,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003357450",
@@ -15497,7 +15554,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003356236",
@@ -15514,7 +15571,7 @@
      "doi": "http://dx.doi.org/10.24145/KJPA.64.2.3",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003356211",
@@ -15534,7 +15591,7 @@
      "doi": "http://dx.doi.org/10.24145/KJPA.64.2.1",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003356214",
@@ -15552,7 +15609,7 @@
      "doi": "http://dx.doi.org/10.24145/KJPA.64.2.2",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003356239",
@@ -15569,7 +15626,7 @@
      "doi": "http://dx.doi.org/10.24145/KJPA.64.2.4",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361022",
@@ -15586,7 +15643,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361025",
@@ -15604,7 +15661,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361028",
@@ -15622,7 +15679,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361029",
@@ -15640,7 +15697,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361020",
@@ -15658,7 +15715,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361021",
@@ -15675,7 +15732,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361023",
@@ -15692,7 +15749,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361024",
@@ -15710,7 +15767,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361026",
@@ -15727,7 +15784,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003361027",
@@ -15746,7 +15803,7 @@
      "doi": "",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355297",
@@ -15763,7 +15820,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.002",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355406",
@@ -15781,7 +15838,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.006",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355508",
@@ -15798,7 +15855,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.007",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355292",
@@ -15815,7 +15872,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.001",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355339",
@@ -15833,7 +15890,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.003",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355348",
@@ -15850,7 +15907,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.004",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355391",
@@ -15870,7 +15927,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.005",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003355516",
@@ -15887,7 +15944,7 @@
      "doi": "http://dx.doi.org/10.22897/kipajn.2026.35.2.008",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7162995070",
@@ -18650,7 +18707,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.29",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338930",
@@ -18668,7 +18725,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.93",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338989",
@@ -18685,7 +18742,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.215",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338992",
@@ -18703,7 +18760,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.241",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338999",
@@ -18722,7 +18779,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.309",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338957",
@@ -18740,7 +18797,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.153",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338476",
@@ -18760,7 +18817,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.1",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338908",
@@ -18778,7 +18835,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.63",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338934",
@@ -18795,7 +18852,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.127",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338984",
@@ -18813,7 +18870,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.183",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003338996",
@@ -18832,7 +18889,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.275",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003339002",
@@ -18850,7 +18907,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.339",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003339004",
@@ -18868,7 +18925,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.377",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003339006",
@@ -18885,7 +18942,7 @@
      "doi": "http://dx.doi.org/10.53865/KSPA.2026.5.37.1.415",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340228",
@@ -18903,7 +18960,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.2",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340244",
@@ -18920,7 +18977,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.6",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340260",
@@ -18938,7 +18995,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.10",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340224",
@@ -18955,7 +19012,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.1",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340231",
@@ -18972,7 +19029,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.3",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340237",
@@ -18991,7 +19048,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.4",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340240",
@@ -19009,7 +19066,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.5",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340249",
@@ -19026,7 +19083,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.7",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340250",
@@ -19043,7 +19100,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.8",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340256",
@@ -19061,7 +19118,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.9",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340262",
@@ -19078,7 +19135,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.11",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340266",
@@ -19096,7 +19153,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.13",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340265",
@@ -19113,7 +19170,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.12",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340268",
@@ -19130,7 +19187,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.14",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340269",
@@ -19148,7 +19205,7 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.15",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340271",
@@ -19165,16 +19222,34 @@
      "doi": "http://dx.doi.org/10.20484/klog.30.1.16",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
   {
    "key": "methodology",
    "name": "사회과학방법론",
-   "count": 575,
-   "new_count": 29,
+   "count": 576,
+   "new_count": 22,
    "papers": [
+    {
+     "id": "oa:W7203552859",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "A structured framework for autoethnographic inquiry",
+     "authors": [
+      "Leanne M. Kelly",
+      "Amanuel Elias"
+     ],
+     "journal": "International Journal of Social Research Methodology",
+     "date": "2026-08-15",
+     "abstract": "",
+     "url": "https://doi.org/10.1080/13645579.2026.2716878",
+     "doi": "10.1080/13645579.2026.2716878",
+     "pdf": "",
+     "first_seen": "2026-08-17T07:44:37+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7203480137",
      "topic": "methodology",
@@ -19211,7 +19286,7 @@
      "abstract": "Abstract We conducted a methodological study of hybrid coding using qualitative data analysis (QDA) software. Manual coding of a corpus of 164 qualitative interviews (752,388 words) on meaningful media experiences was compared with AI coding in two prompting conditions: AI prompting with manual coding instructions vs. collaborative prompt engineering in dialogue with AI. Reliability and validity were assessed with a mixed methods design involving quantitative and qualitative analyses. Quantitative inter-coder agreement was low. However, qualitative analyses revealed that most relevant segments were correctly identified by AI with collaborative prompt engineering, but substantial overcoding occurred, concerning both the number of coded segments and segment length. AI coding also identified relevant segments that were overlooked during manual coding. Based on these findings, we cannot recommend AI coding as a replacement for manual coding. Rather, we propose a hybrid intelligence approach to QDA which involves prompt engineering in collaboration with AI, quantitative and qualitative validation analyses. Such hybrid coding can meaningfully complement manual analysis and augment its reliability and validity.",
      "url": "https://doi.org/10.1007/s11135-026-03036-x",
      "doi": "10.1007/s11135-026-03036-x",
-     "pdf": "https://doi.org/10.1007/s11135-026-03036-x",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-03036-x.pdf",
      "first_seen": "2026-08-16T07:45:38+09:00",
      "abstract_ko": "Abstract 우리는 질적 데이터 분석(QDA) 소프트웨어를 사용하여 하이브리드 코딩에 대한 방법론적 연구를 수행했습니다. 의미 있는 미디어 경험에 대한 164개의 질적 인터뷰(752,388 단어) 모음을 수동으로 코딩하는 것을 두 가지 프롬프트 조건에서 AI 코딩과 비교했습니다. 수동 코딩 지침을 사용한 AI 프롬프트와 AI와의 대화에서 협업 프롬프트 엔지니어링. 정량적 분석과 정성적 분석을 포함하는 혼합 방법 설계를 통해 신뢰성과 타당성을 평가했습니다. 정량적 인터코더 일치도가 낮았습니다. 그러나 정성적 분석에 따르면 협업 프롬프트 엔지니어링을 통해 AI가 대부분의 관련 세그먼트를 올바르게 식별했지만 코딩된 세그먼트 수와 세그먼트 길이와 관련하여 상당한 오버코딩이 발생했습니다. AI 코딩은 수동 코딩 중에 간과되었던 관련 세그먼트도 식별했습니다. 이러한 결과를 바탕으로 우리는 AI 코딩을 수동 코딩의 대체품으로 권장할 수 없습니다. 오히려 우리는 AI와 협력하여 신속한 엔지니어링, 정량적 및 정성적 검증 분석을 포함하는 QDA에 대한 하이브리드 지능 접근 방식을 제안합니다. 이러한 하이브리드 코딩은 수동 분석을 의미 있게 보완하고 신뢰성과 타당성을 높일 수 있습니다.",
      "is_new": true
@@ -19227,7 +19302,7 @@
      ],
      "journal": "Behavior Research Methods",
      "date": "2026-08-14",
-     "abstract": "The representation of word meanings by positions in a vector space is now widely used across a range of psychological models and technological applications. There exist many different approaches for creating such vectors, with Distributional Semantic Vectors (DSVs) often produced directly or indirectly from word co-occurrence statistics derived from large corpora of natural language. One of the most widely used methods for testing and comparing their performance is the Vocabulary Multiple-Choice Question (VMCQ) test in which the best synonym of each tested word has to be identified from among a set of distractor words. By manipulating the details of the questions, they can also be used to explore finer-grained aspects of performance, in particular the effect of word frequency. Many such tests have already been created for testing human linguistic ability, and they are easily applied to DSVs by basing the choice on simple vector distances. This paper demonstrates that, while the general VMCQ approach is useful for testing DSVs, designing VMCQs specifically for DSVs provides better results than using existing tests created for humans. To do that, an improved VMCQ scoring method is first developed that provides considerably more statistically reliable results, and that allows a series of new evaluation methods to be introduced that enable improved explorations of the effect of word frequency on DSVs and VMCQs. These eventually lead to the identification of an improved general VMCQ approach for exploring frequency effects in DSVs, which is tested successfully on a representative set of nine previously published DSVs.",
+     "abstract": "The representation of word meanings by positions in a vector space is now widely used across a range of psychological models and technological applications. There exist many different approaches for creating such vectors, with distributional semantic vectors (DSVs) often produced directly or indirectly from word co-occurrence statistics derived from large corpora of natural language. One of the most widely used methods for testing and comparing their performance is the vocabulary multiple-choice question (VMCQ) test, in which the best synonym of each tested word has to be identified from among a set of distractor words. By manipulating the details of the questions, they can also be used to explore finer-grained aspects of performance, in particular the effect of word frequency. Many such tests have already been created for testing human linguistic ability, and they are easily applied to DSVs by basing the choice on simple vector distances. This paper demonstrates that, while the general VMCQ approach is useful for testing DSVs, designing VMCQs specifically for DSVs provides better results than using existing tests created for humans. To do that, an improved VMCQ scoring method is first developed that provides considerably more statistically reliable results, and that allows a series of new evaluation methods to be introduced that enable improved explorations of the effect of word frequency on DSVs and VMCQs. These eventually lead to the identification of an improved general VMCQ approach for exploring frequency effects in DSVs, which is successfully tested on a representative set of nine previously published DSVs.",
      "url": "https://doi.org/10.3758/s13428-026-03143-5",
      "doi": "10.3758/s13428-026-03143-5",
      "pdf": "https://doi.org/10.31234/osf.io/98d4n_v1",
@@ -19245,10 +19320,10 @@
      ],
      "journal": "Behavior Research Methods",
      "date": "2026-08-14",
-     "abstract": "Abstract Despite the widespread use of mixture models in psychology, education, and the behavioral sciences, there is little consolidated guidance on how distal outcome differences should be tested, corrected for multiplicity, and reported once a latent class or profile solution has been selected. In practice, applied researchers often report omnibus tests without follow-up comparisons, conduct uncorrected pairwise tests, or omit effect sizes and confidence intervals altogether, limiting the interpretability and reproducibility of findin gs. Consistent with this concern, a targeted reporting-practice audit of recent applied person-centered studies showed that multiplicity adjustment, global distal outcome effect sizes, pairwise effect sizes, and confidence intervals for pairwise effects were rarely reported. The present paper synthesizes recommendations from the general statistical literature and adapts them to the context of mixture modeling, focusing primarily on continuous distal outcomes and comparisons of class-specific means. We propose a principled framework for (a) defining appropriate families of pairwise comparisons for distal outcomes, (b) selecting and implementing multiplicity corrections with Benjamini–Hochberg recommended as the default procedure for applied distal outcome comparisons, and (c) computing and reporting global and pairwise effect sizes and confidence intervals using quantities readily available from standard mixture modeling software (e.g., Mplus). Through worked examples and a software-agnostic Quarto/R supplement, we demonstrate how these practices can be implemented transparently and consistently across common auxiliary-variable approaches, including maximum likelihood (ML) three-step and Bolck–Croon–Hagenaars (BCH) methods.",
+     "abstract": "Despite the widespread use of mixture models in psychology, education, and the behavioral sciences, there is little consolidated guidance on how distal outcome differences should be tested, corrected for multiplicity, and reported once a latent class or profile solution has been selected. In practice, applied researchers often report omnibus tests without follow-up comparisons, conduct uncorrected pairwise tests, or omit effect sizes and confidence intervals altogether, limiting the interpretability and reproducibility of findings. Consistent with this concern, a targeted reporting-practice audit of recent applied person-centered studies showed that multiplicity adjustment, global distal outcome effect sizes, pairwise effect sizes, and confidence intervals for pairwise effects were rarely reported. The present paper synthesizes recommendations from the general statistical literature and adapts them to the context of mixture modeling, focusing primarily on continuous distal outcomes and comparisons of class-specific means. We propose a principled framework for (a) defining appropriate families of pairwise comparisons for distal outcomes, (b) selecting and implementing multiplicity corrections with Benjamini-Hochberg recommended as the default procedure for applied distal outcome comparisons, and (c) computing and reporting global and pairwise effect sizes and confidence intervals using quantities readily available from standard mixture modeling software (e.g., Mplus). Through worked examples and a software-agnostic Quarto/R supplement, we demonstrate how these practices can be implemented transparently and consistently across common auxiliary-variable approaches, including maximum likelihood (ML) three-step and Bolck-Croon-Hagenaars (BCH) methods.",
      "url": "https://doi.org/10.3758/s13428-026-03144-4",
      "doi": "10.3758/s13428-026-03144-4",
-     "pdf": "https://doi.org/10.3758/s13428-026-03144-4",
+     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03144-4.pdf",
      "first_seen": "2026-08-16T07:45:38+09:00",
      "abstract_ko": "Abstract 심리학, 교육 및 행동 과학에서 혼합 모델이 널리 사용됨에도 불구하고 말단 결과 차이를 테스트하고, 다중성을 수정하고, 잠재 클래스 또는 프로필 솔루션이 선택된 후 보고해야 하는 방법에 대한 통합 지침은 거의 없습니다. 실제로 응용 연구자들은 후속 비교 없이 옴니버스 테스트를 보고하거나, 수정되지 않은 쌍 테스트를 수행하거나, 효과 크기와 신뢰 구간을 모두 생략하여 결과의 ​​해석 가능성과 재현성을 제한하는 경우가 많습니다. 이러한 우려와 일관되게, 최근 적용된 사람 중심 연구에 대한 표적 보고 실무 감사에서는 다중성 조정, 글로벌 원위 결과 효과 크기, 쌍별 효과 크기 및 쌍별 효과에 대한 신뢰 구간이 거의 보고되지 않은 것으로 나타났습니다. 본 논문은 일반 통계 문헌의 권장 사항을 종합하고 이를 혼합 모델링의 맥락에 적용하며 주로 연속적인 말단 결과와 클래스별 수단의 비교에 중점을 둡니다. 우리는 (a) 원위 결과에 대한 적절한 쌍별 비교 계열을 정의하고, (b) 적용된 원위 결과 비교를 위한 기본 절차로 권장되는 Benjamini-Hochberg를 사용하여 다중성 수정을 선택 및 구현하고, (c) 표준 혼합 모델링 소프트웨어(예: Mplus)에서 쉽게 사용할 수 있는 수량을 사용하여 전체 및 쌍별 효과 크기와 신뢰 구간을 계산하고 보고하기 위한 원칙적인 프레임워크를 제안합니다.",
      "is_new": true
@@ -19291,7 +19366,7 @@
      ],
      "journal": "Psychological Methods",
      "date": "2026-08-13",
-     "abstract": "COLNI (pronounced “col-knee”) is an ANN-based framework for imputing missing values in tabular data, with a particular focus on ordinal response scales frequently encountered in education, psychology, behavioral science, and related domains. Extensive simulation studies and real-world evaluations---summarized in our paper, Columnwise Neural Imputation for Incomplete Ordinal Psychometric Data---validate COLNI’s effectiveness across diverse conditions",
+     "abstract": "Missing data are pervasive in psychological and educational assessments. Naive remedies, including listwise deletion and item-mean imputation, often degrade research validity and misinform subsequent decisions. Recent advances in artificial neural networks have demonstrated their efficacy in prediction-related tasks by using observed features to infer unknown values. Building on this potential, we propose the columnwise neural imputation (COLNI) algorithm to impute missing ordinal responses in psychometric data. Simulation studies demonstrated that, when benchmarked against conventional methods, COLNI more accurately recovered item means, inter-item correlations, and person and item parameters under the multidimensional graded response model. We further evaluated COLNI using data from the Short Dark Triad test, confirming its effectiveness in a multidimensional empirical setting. We conclude with implementation guidelines and avenues for refining and extending this artificial neural network-based imputation approach in future research. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
      "url": "https://doi.org/10.1037/met0000867",
      "doi": "10.1037/met0000867",
      "pdf": "https://doi.org/10.17605/osf.io/c6rxa",
@@ -19311,7 +19386,7 @@
      ],
      "journal": "Applied Psychological Measurement",
      "date": "2026-08-13",
-     "abstract": "Projective Item Response Theory (PIRT) modeling is a measurement framework in which multidimensional item response models are expressed in terms of lower-dimensional (e.g., unidimensional) proxy IRT models. Existing PIRT methods and their associated estimators currently rely on logistic function approximations that are limited to a narrow class of ordered, monotonic response functions. Though unexplored to date, these methods also require computationally intensive procedures to obtain sampling variability estimates for their resulting PIRT estimates. These and other limitations restrict the practical utility and broad application of PIRT models, particularly in empirical settings where only moderate sample sizes are available. To address these challenges, we introduce a general maximum marginal likelihood PIRT (MML-PIRT) approach that leverages components of the expectation–maximization (EM) algorithm commonly used in MML estimation. The proposed method uses expected count information generated during the EM-MML to fit proxy response functions for any focal trait of interest, and for a much broader class of multidimensional IRT models. In addition, MML-PIRT provides accurate and efficient large-sample variability estimates of the resulting PIRT model, thereby enhancing both the flexibility and statistical efficacy of PIRT model applications.",
+     "abstract": "Projective Item Response Theory (PIRT) modeling is a measurement framework in which multidimensional item response models are expressed in terms of lower-dimensional (e.g., unidimensional) proxy IRT models. Existing PIRT methods and their associated estimators currently rely on logistic function approximations that are limited to a narrow class of ordered, monotonic response functions. Though unexplored to date, these methods also require computationally intensive procedures to obtain sampling variability estimates for their resulting PIRT estimates. These and other limitations restrict the practical utility and broad application of PIRT models, particularly in empirical settings where only moderate sample sizes are available. To address these challenges, we introduce a general maximum marginal likelihood PIRT (MML-PIRT) approach that leverages components of the expectation-maximization (EM) algorithm commonly used in MML estimation. The proposed method uses expected count information generated during the EM-MML to fit proxy response functions for any focal trait of interest, and for a much broader class of multidimensional IRT models. In addition, MML-PIRT provides accurate and efficient large-sample variability estimates of the resulting PIRT model, thereby enhancing both the flexibility and statistical efficacy of PIRT model applications.",
      "url": "https://doi.org/10.1177/01466216261474955",
      "doi": "10.1177/01466216261474955",
      "pdf": "https://doi.org/10.1177/01466216261474955",
@@ -30388,7 +30463,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.1",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340286",
@@ -30406,7 +30481,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.7",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340282",
@@ -30424,7 +30499,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.3",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340281",
@@ -30441,7 +30516,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.2",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340283",
@@ -30460,7 +30535,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.4",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340285",
@@ -30477,7 +30552,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.6",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340287",
@@ -30498,7 +30573,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.8",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "kci:ART003340284",
@@ -30515,7 +30590,7 @@
      "doi": "http://dx.doi.org/10.20997/SR.27.2.5",
      "pdf": "",
      "first_seen": "2026-08-13T19:43:40+09:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -30537,10 +30612,10 @@
      ],
      "journal": "Journal of Computational and Graphical Statistics",
      "date": "2026-08-14",
-     "abstract": "Composite likelihood provides approximate inference when the full likelihood is intractable and sub-likelihood functions of marginal events can be evaluated relatively easily. It has been successfully applied for many complex models. However, its wider application is limited by two issues. First, weight selection of marginal likelihood can have a significant impact on the information efficiency and is currently an open question. Second, calibrated Bayesian inference with composite likelihood requires curvature adjustment which is difficult for dependent data. This work shows that approximate Bayesian computation (ABC) can properly address these two issues by using multiple composite score functions as summary statistics. First, the summary-based posterior distribution gives the optimal Godambe information among a wide class of estimators defined by linear combinations of estimating functions. Second, to make ABC computationally feasible for models where marginal likelihoods have no closed form, a novel approach is proposed to estimate all simulated marginal scores using a Monte Carlo sample with size N. Sufficient conditions are given for the additional noise to be negligible with N fixed as the data size n goes to infinity, and the computational cost is O(n). Third, asymptotic properties of ABC with summary statistics having heterogeneous convergence rates is derived, and an adaptive scheme to choose the component composite scores is proposed. Numerical studies show that the new method significantly outperforms the existing Bayesian composite likelihood methods, and the efficiency of adaptively combined composite scores well approximates the efficiency of particle MCMC using the full likelihood.",
+     "abstract": "Composite likelihood (CL) combines tractable low-dimensional marginal or conditional likelihoods, but its use is hindered by arbitrary sub-likelihood weights and lack of calibration of CL-based posterior uncertainty. For identifiable, low to moderate-dimensional parametric models, this work addresses both issues using approximate Bayesian computation (ABC) with multiple composite score summaries. First, identically distributed sub-scores are batched to control summary dimension, and equal weighting within a batch is supported by an asymptotic optimality result. The summary-based posterior distribution gives optimal Godambe information among a wide class of estimators defined by estimating functions. Second, when marginal likelihoods have no closed form, ABC is computationally feasible using a novel approach to estimate marginal scores of all pseudo datasets using a Monte Carlo sample with size N. Theoretical results show that the additional noise can be negligible with fixed N, therefore the computational cost is linear in the data size. Third, an adaptive scheme is proposed to choose the component composite scores, supported by results on asymptotic behaviour of ABC with summary statistics having heterogeneous convergence rates. Numerical studies show that the new method substantially improves on existing Bayesian composite-likelihood methods and can approach full-likelihood efficiency when the selected components capture the dominant dependence structure.",
      "url": "https://doi.org/10.1080/10618600.2026.2718766",
      "doi": "10.1080/10618600.2026.2718766",
-     "pdf": "https://arxiv.org/pdf/2404.02313",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10618600.2026.2718766?needAccess=true",
      "first_seen": "2026-08-16T07:45:38+09:00",
      "abstract_ko": "복합 우도는 전체 우도를 다루기 어렵고 주변 사건의 하위 우도 함수를 상대적으로 쉽게 평가할 수 있는 경우 대략적인 추론을 제공합니다. 이는 많은 복잡한 모델에 성공적으로 적용되었습니다. 그러나 더 넓은 적용에는 두 가지 문제로 인해 제한됩니다. 첫째, 한계 가능성의 가중치 선택은 정보 효율성에 중요한 영향을 미칠 수 있으며 현재 공개 질문입니다. 둘째, 복합 우도를 사용하여 보정된 베이지안 추론에는 종속 데이터에 어려운 곡률 조정이 필요합니다. 이 작업은 ABC(근사치 베이지안 계산)가 여러 종합 점수 함수를 요약 통계로 사용하여 이 두 가지 문제를 적절하게 해결할 수 있음을 보여줍니다. 첫째, 요약 기반 사후 분포는 추정 함수의 선형 조합으로 정의된 다양한 추정기 중에서 최적의 고담베 정보를 제공합니다. 둘째, 주변 가능성이 닫힌 형식이 없는 모델에 대해 ABC를 계산적으로 실행 가능하게 만들기 위해 크기 N의 몬테 카를로 표본을 사용하여 모든 시뮬레이션된 주변 점수를 추정하는 새로운 접근 방식이 제안됩니다. 데이터 크기 n이 무한대가 될 때 N을 고정하여 추가 노이즈를 무시할 수 있는 충분한 조건이 제공되며 계산 비용은 O(n)입니다. 셋째, 이질적인 수렴률을 갖는 요약통계를 갖는 ABC의 점근적 특성을 도출하고, 구성요소 종합점수를 선택하기 위한 적응적 기법을 제안한다. 수치 연구에 따르면",
      "is_new": true
