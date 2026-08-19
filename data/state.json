@@ -2835,7 +2835,7 @@
    "id": "oa:W7165630935",
    "topic": "public-admin",
    "origin": "OpenAlex",
-   "title": "Running With Scissors? Integrating <scp>GPT</scp> Models Into Public Policy Research",
+   "title": "Running With Scissors? Integrating GPT Models Into Public Policy Research",
    "authors": [
     "Giulia Mariani",
     "Allegra H. Fullerton"
@@ -16742,13 +16742,14 @@
    ],
    "journal": "Journal of European Public Policy",
    "date": "2026-07-17",
-   "abstract": "",
+   "abstract": "Stakeholder consultations have become increasingly common. By allowing societal interests to provide input on regulatory proposals, stakeholder consultations are meant to bolster the input legitimacy of regulatory decisions. Yet, despite a wealth of scholarship on stakeholder participation in EU regulatory processes, it is still unclear how stakeholder consultations affect the traditional democratic oversight of regulatory agencies. Following seminal principal-agent arguments, stakeholder consultations could serve as 'fire alarms', alerting political principals to undertake oversight actions. Conversely, more recent arguments regarding bureaucratic reputation-building and 'procedural politicking' suggest that consultations may serve to build stakeholder coalitions and discourage oversight. We test these two competing theories, alongside a novel argument that the effect of stakeholder consultations on democratic oversight is conditional on the actual opinions and reactions of concerned stakeholders. We do so by looking at consultations by the European Supervisory Authorities as well as hearings of these agencies by the European Parliament's Committee on Economic and Monetary Affairs. Our analysis unpacks how stakeholder consultations affect the accountability relationships between regulatory agencies and their political principals. Do stakeholder consultations function as fire alarms for legislative oversight or on the contrary, serve to insulate agencies against it?",
    "url": "https://doi.org/10.1080/13501763.2026.2697935",
    "doi": "10.1080/13501763.2026.2697935",
    "pdf": "https://doi.org/10.1080/13501763.2026.2697935",
    "first_seen": "2026-08-10T09:49:36+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "이해관계자 협의가 점점 보편화되고 있습니다. 사회적 이해관계가 규제 제안에 대한 의견을 제공할 수 있도록 함으로써 이해관계자 협의는 규제 결정의 입력 정당성을 강화하는 것을 의미합니다. 그러나 EU 규제 과정에 대한 이해관계자 참여에 대한 풍부한 연구에도 불구하고 이해관계자 협의가 규제 기관에 대한 전통적인 민주적 감독에 어떤 영향을 미치는지는 여전히 불분명합니다. 중요한 본인-대리인 주장에 이어 이해관계자 협의는 '화재 경보' 역할을 하여 정치 주체에게 감독 조치를 취하도록 경고할 수 있습니다. 반대로, 관료적 평판 구축 및 '절차적 정치'에 관한 보다 최근의 주장에서는 협의가 이해관계자 연합을 구축하고 감독을 억제하는 데 도움이 될 수 있음을 시사합니다. 우리는 민주적 감독에 대한 이해관계자 협의의 효과가 관련 이해관계자의 실제 의견과 반응에 따라 결정된다는 새로운 주장과 함께 이 두 가지 경쟁 이론을 테스트합니다. 우리는 유럽 감독 당국의 협의와 유럽 의회 경제 통화 문제 위원회의 이들 기관 청문회를 검토하여 이를 수행합니다. 우리의 분석은 이해관계자 협의가 규제 기관과 정치 주체 간의 책임 관계에 어떻게 영향을 미치는지 설명합니다. 이해관계자 협의는 입법 감독을 위한 화재 경보기 역할을 합니까, 아니면 반대로 기관을 보호하는 역할을 합니까?"
   },
   "oa:W7171840836": {
    "id": "oa:W7171840836",
@@ -28846,7 +28847,7 @@
    ],
    "journal": "Behavior Research Methods",
    "date": "2026-07-01",
-   "abstract": "Abstract The rapid advancement of artificial intelligence (AI), particularly large language models (LLMs), has introduced powerful tools for various research domains, including psychological scale development. This study presents a methodology for efficiently generating and selecting high-quality, non-redundant items for psychological assessments using LLMs and network psychometrics. Our approach, termed Automatic Item Generation and Validation with Network-Integrated Evaluation (AI-GENIE), reduces reliance on expert intervention by integrating generative AI with the latest network psychometric techniques. The efficacy of AI-GENIE was evaluated through Monte Carlo simulations using the Mixtral, Gemma 2, Llama 3, GPT-3.5, and GPT-4o models to generate item pools that mimic Big Five personality assessments. Additionally, items from AI-GENIE were empirically tested with five nationally representative U.S. samples ( $$N = 4{,}964$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>N</mml:mi> <mml:mo>=</mml:mo> <mml:mn>4</mml:mn> <mml:mo>,</mml:mo> <mml:mn>964</mml:mn> </mml:mrow> </mml:math> total), demonstrating that AI-GENIE-generated scales achieve structural validity—that is, evidence based on internal structure (dimensionality and item stability)—comparable to traditional expert-developed measures. The results demonstrated improvements in item selection efficiency, with overall average increases of 8.68–20.03 in normalized mutual information in the final item pool across all models. We also present a simulation study on the emerging construct of AI anxiety to demonstrate AI-GENIE’s utility for underrepresented constructs. Results from newly released models (DeepSeek, GPT-OSS 20B, GPT-OSS 120B) are presented in the Appendix. The findings suggest that AI-GENIE can streamline the scale development and structural validation process.",
+   "abstract": "Abstract The rapid advancement of artificial intelligence (AI), particularly large language models (LLMs), has introduced powerful tools for various research domains, including psychological scale development. This study presents a methodology for efficiently generating and selecting high-quality, non-redundant items for psychological assessments using LLMs and network psychometrics. Our approach, termed Automatic Item Generation and Validation with Network-Integrated Evaluation (AI-GENIE), reduces reliance on expert intervention by integrating generative AI with the latest network psychometric techniques. The efficacy of AI-GENIE was evaluated through Monte Carlo simulations using the Mixtral, Gemma 2, Llama 3, GPT-3.5, and GPT-4o models to generate item pools that mimic Big Five personality assessments. Additionally, items from AI-GENIE were empirically tested with five nationally representative U.S. samples ( $$N = 4{,}964$$ N = 4 , 964 total), demonstrating that AI-GENIE-generated scales achieve structural validity—that is, evidence based on internal structure (dimensionality and item stability)—comparable to traditional expert-developed measures. The results demonstrated improvements in item selection efficiency, with overall average increases of 8.68–20.03 in normalized mutual information in the final item pool across all models. We also present a simulation study on the emerging construct of AI anxiety to demonstrate AI-GENIE’s utility for underrepresented constructs. Results from newly released models (DeepSeek, GPT-OSS 20B, GPT-OSS 120B) are presented in the Appendix. The findings suggest that AI-GENIE can streamline the scale development and structural validation process.",
    "url": "https://doi.org/10.3758/s13428-026-03082-1",
    "doi": "10.3758/s13428-026-03082-1",
    "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03082-1.pdf",
@@ -43983,7 +43984,9 @@
    "doi": "10.1111/padm.70082",
    "pdf": "https://doi.org/10.1111/padm.70082",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요 본 논문은 네덜란드의 준대형 지방자치단체와 벨기에의 플랑드르 지방정부 부서의 사례 연구를 중심으로 민첩한 디지털 혁신과 공공 부문 내 법치 간의 상호 작용을 조사합니다. 전문가 인터뷰를 바탕으로 이 문서에서는 유연성을 옹호하는 민첩한 방법이 기존 관리 루틴과 상호 작용하고 일관성을 우선시하는 법치 원칙에 어떻게 영향을 미치는지 살펴봅니다. 이론적으로 이 논문은 행정 절차 및 법치에 관한 공공 행정 학문을 기반으로 합니다. 경험적으로, 이 논문은 민첩한 방법이 분산된 리더십과 협업을 우선시하는 관리 루틴과 잘 일치한다는 것을 보여줍니다. 더욱이 이는 애자일 접근 방식이 법치를 위협하기보다는 촉진할 수 있음을 보여줍니다. 많은 법적 불확실성은 애자일 관행 자체에서 발생하는 것이 아니라 법률 및 정책의 기존 복잡성에서 발생하며 디지털 구현에서 입법 및 행정 인식의 보다 강력한 기술적 정확성이 필요하다는 점을 강조합니다."
+   "abstract_ko": "개요 본 논문은 네덜란드의 준대형 지방자치단체와 벨기에의 플랑드르 지방정부 부서의 사례 연구를 중심으로 민첩한 디지털 혁신과 공공 부문 내 법치 간의 상호 작용을 조사합니다. 전문가 인터뷰를 바탕으로 이 문서에서는 유연성을 옹호하는 민첩한 방법이 기존 관리 루틴과 상호 작용하고 일관성을 우선시하는 법치 원칙에 어떻게 영향을 미치는지 살펴봅니다. 이론적으로 이 논문은 행정 절차 및 법치에 관한 공공 행정 학문을 기반으로 합니다. 경험적으로, 이 논문은 민첩한 방법이 분산된 리더십과 협업을 우선시하는 관리 루틴과 잘 일치한다는 것을 보여줍니다. 더욱이 이는 애자일 접근 방식이 법치를 위협하기보다는 촉진할 수 있음을 보여줍니다. 많은 법적 불확실성은 애자일 관행 자체에서 발생하는 것이 아니라 법률 및 정책의 기존 복잡성에서 발생하며 디지털 구현에서 입법 및 행정 인식의 보다 강력한 기술적 정확성이 필요하다는 점을 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203597074": {
    "id": "oa:W7203597074",
@@ -44005,7 +44008,8 @@
    "doi": "10.1007/s11077-026-09623-x",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7203644048": {
    "id": "oa:W7203644048",
@@ -44024,7 +44028,9 @@
    "doi": "10.1080/23276665.2026.2720455",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "업무 환경의 불확실성은 공공 행정의 지속적인 특징이지만 관료적 행동에 대한 불확실성이 미치는 영향은 여전히 ​​충분히 이해되지 않고 있습니다. 이 연구는 거리 수준 관료제의 재량권 차원을 활용하여 불확실성이 관료적 대응과 공공 서비스 성과를 형성하는 메커니즘으로서 관료적 재량권을 조사합니다. 해석적 질적 접근 방식을 사용하여 이 연구는 인도네시아 남동부 술라웨시 지역의 지방, 지역 및 지방 자치 단체에서 수행된 26개의 반구조적 인터뷰, 관찰 및 문서 분석을 바탕으로 합니다. 연구 결과는 규제 모호성, 재정적 불안정, 정치적 개입으로 인해 발생하는 불확실성이 관료적 재량권을 확대한다는 것을 보여줍니다. 이렇게 확장된 재량 공간 내에서 관료들은 두 가지 경쟁적인 행동 적응 형태를 통해 대응합니다. 무결성 기반 적응은 서비스 연속성, 책임성 및 전문 표준을 지원하는 반면, 기회주의 기반 적응은 행정적 편차, 절차 조작 및 성능 게임을 장려합니다. 연구 결과는 조직의 리더십, 책임 제도, 관료적 구조 및 문화가 적응 형태에 영향을 미친다는 것을 보여줍니다. 본 연구는 업무환경의 불확실성이 관료적 재량과 경쟁행위를 통해 간접적으로 성과에 영향을 미치는 설명틀을 제시함으로써 행정연구에 기여한다."
+   "abstract_ko": "업무 환경의 불확실성은 공공 행정의 지속적인 특징이지만 관료적 행동에 대한 불확실성이 미치는 영향은 여전히 ​​충분히 이해되지 않고 있습니다. 이 연구는 거리 수준 관료제의 재량권 차원을 활용하여 불확실성이 관료적 대응과 공공 서비스 성과를 형성하는 메커니즘으로서 관료적 재량권을 조사합니다. 해석적 질적 접근 방식을 사용하여 이 연구는 인도네시아 남동부 술라웨시 지역의 지방, 지역 및 지방 자치 단체에서 수행된 26개의 반구조적 인터뷰, 관찰 및 문서 분석을 바탕으로 합니다. 연구 결과는 규제 모호성, 재정적 불안정, 정치적 개입으로 인해 발생하는 불확실성이 관료적 재량권을 확대한다는 것을 보여줍니다. 이렇게 확장된 재량 공간 내에서 관료들은 두 가지 경쟁적인 행동 적응 형태를 통해 대응합니다. 무결성 기반 적응은 서비스 연속성, 책임성 및 전문 표준을 지원하는 반면, 기회주의 기반 적응은 행정적 편차, 절차 조작 및 성능 게임을 장려합니다. 연구 결과는 조직의 리더십, 책임 제도, 관료적 구조 및 문화가 적응 형태에 영향을 미친다는 것을 보여줍니다. 본 연구는 업무환경의 불확실성이 관료적 재량과 경쟁행위를 통해 간접적으로 성과에 영향을 미치는 설명틀을 제시함으로써 행정연구에 기여한다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203616309": {
    "id": "oa:W7203616309",
@@ -44036,12 +44042,14 @@
    ],
    "journal": "Milbank Quarterly",
    "date": "2026-08-17",
-   "abstract": "Policy Points America's long‐term care system is largely poverty‐based, requiring most older adults to spend down their assets to qualify for limited, Medicaid‐funded support, which is biased toward institutional care and plagued by bureaucratic complexity and enrollment hurdles. There are now, however, some promising changes. First, though access to home care still is more difficult than access to institutional care, the use of Medicaid home care services has grown significantly since the 1980s. Most promising is Washington State's innovative new universal social long‐term care insurance program. Broad‐based, compulsory social insurance has proved effective in other countries—lessening poverty‐induced eligibility hurdles, increasing access to care (especially in communities), and mitigating political vulnerabilities associated with targeted policies. Context America's long‐term care policy approach is poverty‐based, requiring most older adults to spend down their assets to qualify for limited, Medicaid‐funded support, which is biased toward institutional care and plagued by bureaucratic complexity and enrollment hurdles. Methods I conduct a review of long‐term care policy developments since the 1980s, as well as related research on the impacts of these varying policy approaches on access to services. Findings While Medicaid‐funding long‐term care remains plagued by complexity and access issues, there have been promising changes. Use of home and community‐based services has increased substantially for Medicaid beneficiaries since the early 1980s due in large part to activism on the part of disability rights movement. Though new and still relatively limited in scope, the most promising change has been the recent adoption of a universal long‐term care policy in Washington State. Conclusions As the population ages and care needs grow more urgent, the United States faces a critical choice—cling to a piecemeal, confusing, and impoverishing long‐term care system or embrace universalism to ensure meaningful access to needed community‐based long‐term care supports.",
+   "abstract": "Policy Points America's long-term care system is largely poverty-based, requiring most older adults to spend down their assets to qualify for limited, Medicaid-funded support, which is biased toward institutional care and plagued by bureaucratic complexity and enrollment hurdles. There are now, however, some promising changes. First, though access to home care still is more difficult than access to institutional care, the use of Medicaid home care services has grown significantly since the 1980s. Most promising is Washington State's innovative new universal social long-term care insurance program. Broad-based, compulsory social insurance has proved effective in other countries-lessening poverty-induced eligibility hurdles, increasing access to care (especially in communities), and mitigating political vulnerabilities associated with targeted policies. CONTEXT: America's long-term care policy approach is poverty-based, requiring most older adults to spend down their assets to qualify for limited, Medicaid-funded support, which is biased toward institutional care and plagued by bureaucratic complexity and enrollment hurdles. METHODS: I conduct a review of long-term care policy developments since the 1980s, as well as related research on the impacts of these varying policy approaches on access to services. FINDINGS: While Medicaid-funding long-term care remains plagued by complexity and access issues, there have been promising changes. Use of home and community-based services has increased substantially for Medicaid beneficiaries since the early 1980s due in large part to activism on the part of disability rights movement. Though new and still relatively limited in scope, the most promising change has been the recent adoption of a universal long-term care policy in Washington State. CONCLUSIONS: As the population ages and care needs grow more urgent, the United States faces a critical choice-cling to a piecemeal, confusing, and impoverishing long-term care system or embrace universalism to ensure meaningful access to needed community-based long-term care supports.",
    "url": "https://doi.org/10.1111/1468-0009.70096",
    "doi": "10.1111/1468-0009.70096",
    "pdf": "https://doi.org/10.1111/1468-0009.70096",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "정책 포인트 미국의 장기 요양 시스템은 주로 빈곤 기반이므로 대부분의 노인이 제한적인 Medicaid 지원 지원을 받기 위해 자산을 지출해야 합니다. 이는 기관 요양에 편향되어 있고 관료적 복잡성과 등록 장애로 인해 어려움을 겪고 있습니다. 그러나 이제 몇 가지 유망한 변화가 있습니다. 첫째, 홈 케어에 대한 접근은 여전히 ​​기관 보호에 대한 접근보다 어렵지만 1980년대 이후 메디케이드 홈 케어 서비스의 이용이 크게 증가했습니다. 가장 유망한 것은 워싱턴 주의 혁신적이고 새로운 보편적 사회 장기 요양 보험 프로그램입니다. 광범위한 기반의 의무적 사회보험은 빈곤으로 인한 적격성 장애물을 완화하고, 치료에 대한 접근성을 높이고(특히 지역사회에서), 목표 정책과 관련된 정치적 취약성을 완화하는 등 다른 국가에서도 효과적인 것으로 입증되었습니다. 맥락 미국의 장기 요양 정책 접근 방식은 빈곤 기반이므로 대부분의 노인이 제한적인 Medicaid 지원 지원을 받기 위해 자산을 지출해야 하며, 이는 시설 요양에 편향되어 있으며 관료적 복잡성과 등록 장애로 인해 어려움을 겪고 있습니다. 방법 나는 1980년대 이후 장기 요양 정책 개발에 대한 검토와 이러한 다양한 정책 접근 방식이 서비스 접근에 미치는 영향에 대한 관련 연구를 수행합니다. 조사 결과 Medicaid 자금 조달 장기 요양은 여전히 ​​복잡성과 접근성 문제로 어려움을 겪고 있지만 유망한 변화가 있었습니다. 가정 및 지역사회 기반 서비스를 이용하려면"
+   "abstract_ko": "정책 포인트 미국의 장기 요양 시스템은 주로 빈곤 기반이므로 대부분의 노인이 제한적인 Medicaid 지원 지원을 받기 위해 자산을 지출해야 합니다. 이는 기관 요양에 편향되어 있고 관료적 복잡성과 등록 장애로 인해 어려움을 겪고 있습니다. 그러나 이제 몇 가지 유망한 변화가 있습니다. 첫째, 홈 케어에 대한 접근은 여전히 ​​기관 보호에 대한 접근보다 어렵지만 1980년대 이후 메디케이드 홈 케어 서비스의 이용이 크게 증가했습니다. 가장 유망한 것은 워싱턴 주의 혁신적이고 새로운 보편적 사회 장기 요양 보험 프로그램입니다. 광범위한 기반의 의무적 사회보험은 빈곤으로 인한 적격성 장애물을 완화하고, 치료에 대한 접근성을 높이고(특히 지역사회에서), 목표 정책과 관련된 정치적 취약성을 완화하는 등 다른 국가에서도 효과적인 것으로 입증되었습니다. 맥락 미국의 장기 요양 정책 접근 방식은 빈곤 기반이므로 대부분의 노인이 제한적인 Medicaid 지원 지원을 받기 위해 자산을 지출해야 하며, 이는 시설 요양에 편향되어 있으며 관료적 복잡성과 등록 장애로 인해 어려움을 겪고 있습니다. 방법 나는 1980년대 이후 장기 요양 정책 개발에 대한 검토와 이러한 다양한 정책 접근 방식이 서비스 접근에 미치는 영향에 대한 관련 연구를 수행합니다. 조사 결과 Medicaid 자금 조달 장기 요양은 여전히 ​​복잡성과 접근성 문제로 어려움을 겪고 있지만 유망한 변화가 있었습니다. 가정 및 지역사회 기반 서비스를 이용하려면",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203647044": {
    "id": "oa:W7203647044",
@@ -44058,7 +44066,9 @@
    "doi": "10.1080/09540962.2026.2706097",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "뉴질랜드의 2001년 공공감사법 제18조는 감사원장이 '요청에 따라 또는 감사원 자신의 주도로 공공 업무에 관한 모든 문제를 조사할 수 있다'고 규정하고 있습니다."
+   "abstract_ko": "뉴질랜드의 2001년 공공감사법 제18조는 감사원장이 '요청에 따라 또는 감사원 자신의 주도로 공공 업무에 관한 모든 문제를 조사할 수 있다'고 규정하고 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203630977": {
    "id": "oa:W7203630977",
@@ -44075,9 +44085,11 @@
    "abstract": "This study examines nonprofit sector capacity by integrating economic concepts of supply and demand with practitioner perspectives. Focusing on health and human services nonprofits in a midsize southeastern U.S. city, it combines community indicators with survey and interview data. Findings suggest that sector capacity depends not only on resource availability and organizational density but also on the strength of local networks and community context. Well-established nonprofits embedded in local networks differ from more loosely connected organizations, demonstrating how network position shapes perceptions of capacity and the ability to meet community needs. These findings advance research on nonprofit carrying capacity.",
    "url": "https://doi.org/10.1177/00953997261467698",
    "doi": "10.1177/00953997261467698",
-   "pdf": "",
+   "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/00953997261467698?download=true",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "본 연구는 수요와 공급의 경제적 개념을 실무자의 관점과 통합하여 비영리 부문의 역량을 조사합니다. 미국 남동부의 중간 규모 도시에 있는 의료 및 복지 서비스 비영리 단체에 초점을 맞춰 지역사회 지표와 설문조사 및 인터뷰 데이터를 결합합니다. 연구 결과에 따르면 부문 역량은 자원 가용성과 조직 밀도뿐 아니라 지역 네트워크와 지역사회 맥락의 강도에 따라 결정되는 것으로 나타났습니다. 지역 네트워크에 기반을 둔 탄탄한 비영리 조직은 느슨하게 연결된 조직과 다르며 네트워크 위치가 역량에 대한 인식과 지역 사회 요구 사항을 충족하는 능력을 어떻게 형성하는지 보여줍니다. 이러한 발견은 비영리 수용 능력에 대한 연구를 발전시킵니다."
+   "abstract_ko": "본 연구는 수요와 공급의 경제적 개념을 실무자의 관점과 통합하여 비영리 부문의 역량을 조사합니다. 미국 남동부의 중간 규모 도시에 있는 의료 및 복지 서비스 비영리 단체에 초점을 맞춰 지역사회 지표와 설문조사 및 인터뷰 데이터를 결합합니다. 연구 결과에 따르면 부문 역량은 자원 가용성과 조직 밀도뿐 아니라 지역 네트워크와 지역사회 맥락의 강도에 따라 결정되는 것으로 나타났습니다. 지역 네트워크에 기반을 둔 탄탄한 비영리 조직은 느슨하게 연결된 조직과 다르며 네트워크 위치가 역량에 대한 인식과 지역 사회 요구 사항을 충족하는 능력을 어떻게 형성하는지 보여줍니다. 이러한 발견은 비영리 수용 능력에 대한 연구를 발전시킵니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203613957": {
    "id": "oa:W7203613957",
@@ -44094,7 +44106,9 @@
    "doi": "10.1080/03003930.2026.2717117",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "지난 30년 동안 지방자치단체는 비영리단체(NPO) 강화를 위해 벤처자선사업(VP)을 시작했다. 그러나 VP 입문의 역학에 대한 학문적 분석은 거의 없습니다. 이러한 격차를 해소하기 위해 본 연구는 상황이론과 신제도이론을 바탕으로 대상 인구 특성, 강제적 압력, 모방적 압력이라는 세 가지 요소를 지방정부의 VP 발의에 연결합니다. 이 연구는 2011년부터 2023년까지 중국 79개 도시에 대한 데이터의 일련의 회귀 분석을 사용하여 이 주장을 조사합니다. 현존하는 문헌에서는 VP의 개시가 NPO의 약점을 해결하기 위한 의도로 이루어졌음을 보여주지만(즉, 효율성 중심 모델), 이 연구는 VP의 개시가 모방적 압력(즉, 합법성 중심 모델)에 대응하여 지방 정부가 내린 정치적 결정일 수 있음을 나타냅니다. 이 연구는 VP, 정책 도구 및 정부-비영리 관계에 대한 학문적 지식을 발전시킵니다."
+   "abstract_ko": "지난 30년 동안 지방자치단체는 비영리단체(NPO) 강화를 위해 벤처자선사업(VP)을 시작했다. 그러나 VP 입문의 역학에 대한 학문적 분석은 거의 없습니다. 이러한 격차를 해소하기 위해 본 연구는 상황이론과 신제도이론을 바탕으로 대상 인구 특성, 강제적 압력, 모방적 압력이라는 세 가지 요소를 지방정부의 VP 발의에 연결합니다. 이 연구는 2011년부터 2023년까지 중국 79개 도시에 대한 데이터의 일련의 회귀 분석을 사용하여 이 주장을 조사합니다. 현존하는 문헌에서는 VP의 개시가 NPO의 약점을 해결하기 위한 의도로 이루어졌음을 보여주지만(즉, 효율성 중심 모델), 이 연구는 VP의 개시가 모방적 압력(즉, 합법성 중심 모델)에 대응하여 지방 정부가 내린 정치적 결정일 수 있음을 나타냅니다. 이 연구는 VP, 정책 도구 및 정부-비영리 관계에 대한 학문적 지식을 발전시킵니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203576100": {
    "id": "oa:W7203576100",
@@ -44114,7 +44128,9 @@
    "doi": "10.1111/padm.70083",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요 사회적 형평성 예산은 점점 더 많은 관심을 받고 있지만, 연구는 수익 형평성을 무시한 채 지출에만 초점을 맞춰 왔습니다. 본 연구는 소수민족의 인구 규모와 지방정부의 착취적 수입에 대한 의존도 사이의 관계, 그리고 소수자의 정치적 대표성이 이러한 관계를 조절하는지 여부를 조사함으로써 문헌에 기여합니다. 인종적 위협과 정치적 대표성 이론을 바탕으로 우리는 2011년부터 2019년까지 플로리다 66개 카운티의 데이터를 분석합니다. 결과에 따르면 소수 인구가 많은 카운티는 착취 수익에 더 크게 의존하지만 소수의 정치적 대표성이 증가하면 이러한 관계가 감소합니다. 이러한 연구 결과는 소수 리더십이 소수 커뮤니티에 불균형적으로 부담을 주는 재정 관행을 어떻게 완화할 수 있는지를 강조합니다. 보다 광범위하게, 이 연구는 지출 배분에서 수익 창출로 초점을 전환함으로써 사회적 형평성 예산 체계를 발전시킵니다."
+   "abstract_ko": "개요 사회적 형평성 예산은 점점 더 많은 관심을 받고 있지만, 연구는 수익 형평성을 무시한 채 지출에만 초점을 맞춰 왔습니다. 본 연구는 소수민족의 인구 규모와 지방정부의 착취적 수입에 대한 의존도 사이의 관계, 그리고 소수자의 정치적 대표성이 이러한 관계를 조절하는지 여부를 조사함으로써 문헌에 기여합니다. 인종적 위협과 정치적 대표성 이론을 바탕으로 우리는 2011년부터 2019년까지 플로리다 66개 카운티의 데이터를 분석합니다. 결과에 따르면 소수 인구가 많은 카운티는 착취 수익에 더 크게 의존하지만 소수의 정치적 대표성이 증가하면 이러한 관계가 감소합니다. 이러한 연구 결과는 소수 리더십이 소수 커뮤니티에 불균형적으로 부담을 주는 재정 관행을 어떻게 완화할 수 있는지를 강조합니다. 보다 광범위하게, 이 연구는 지출 배분에서 수익 창출로 초점을 전환함으로써 사회적 형평성 예산 체계를 발전시킵니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203581965": {
    "id": "oa:W7203581965",
@@ -44134,7 +44150,9 @@
    "doi": "10.1111/padm.70084",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요 비상 관리 전문직과 규율은 점점 더 사회적 형평성을 핵심 가치로 수용하고 있지만, 지역 비상 관리 조직이 형평 중심 관행을 구현할 역량을 보유하고 있는지 여부에 대해서는 제한적인 관심이 기울여졌습니다. 역량 구축 프레임워크를 바탕으로 이 탐색적 연구는 미국 비상 관리자를 대상으로 한 전국 패널 설문 조사의 데이터를 분석하여 적응 역량이라는 렌즈를 통해 사회적 형평성을 향상시키는 조직 역량을 조사합니다. 연구 결과에 따르면 정치적, 기술적, 재정적, 관리적 역량도 중요하지만 재정적 역량이 가장 중요한 제약 요소인 것으로 나타났습니다. 응답자들은 인력, 지역사회 지원 및 교육, 접근 가능한 공공 자원 개발을 위한 추가 자금 조달을 우선시했습니다. 결과는 자원 부족이 지역 수준에서 형평성 추구를 어떻게 형성하는지 강조하고 형평성 목표를 조직 역량에 대한 투자와 일치시켜야 할 필요성을 강조합니다. 이 연구는 형평성 약속을 행동으로 전환하는 데 있어 비상 관리자가 직면하는 실질적인 과제에 대한 통찰력을 제공합니다."
+   "abstract_ko": "개요 비상 관리 전문직과 규율은 점점 더 사회적 형평성을 핵심 가치로 수용하고 있지만, 지역 비상 관리 조직이 형평 중심 관행을 구현할 역량을 보유하고 있는지 여부에 대해서는 제한적인 관심이 기울여졌습니다. 역량 구축 프레임워크를 바탕으로 이 탐색적 연구는 미국 비상 관리자를 대상으로 한 전국 패널 설문 조사의 데이터를 분석하여 적응 역량이라는 렌즈를 통해 사회적 형평성을 향상시키는 조직 역량을 조사합니다. 연구 결과에 따르면 정치적, 기술적, 재정적, 관리적 역량도 중요하지만 재정적 역량이 가장 중요한 제약 요소인 것으로 나타났습니다. 응답자들은 인력, 지역사회 지원 및 교육, 접근 가능한 공공 자원 개발을 위한 추가 자금 조달을 우선시했습니다. 결과는 자원 부족이 지역 수준에서 형평성 추구를 어떻게 형성하는지 강조하고 형평성 목표를 조직 역량에 대한 투자와 일치시켜야 할 필요성을 강조합니다. 이 연구는 형평성 약속을 행동으로 전환하는 데 있어 비상 관리자가 직면하는 실질적인 과제에 대한 통찰력을 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203574532": {
    "id": "oa:W7203574532",
@@ -44158,7 +44176,9 @@
    "doi": "10.1111/1468-0009.70117",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70117",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "정책 포인트 원격 의료는 농촌 및 소외된 지역사회를 포함한 환자의 의료 서비스에 대한 접근성을 높이고, 원격 의료 정책에 대한 50개 주 조사를 통해 원격 의료가 환자 결과에 미치는 영향에 대한 연구를 더욱 심화할 수 있습니다. 이 법적 매핑 연구는 주 Medicaid 프로그램의 원격 의료 정책을 추적했으며 특히 오디오 전용 원격 의료(2018년부터 2023년까지 0~43개 주에서 채택)에 대한 환급에서 광범위한 채택을 발견했습니다. 주정부의 원격 의료 정책 채택은 농촌성, 의료 전문가 부족, 메디케이드 확장, 광대역 인터넷 가용성 및 테스트된 모든 주 요인(예: 인구 통계, 실업, 코로나19 사례)과 무관한 것으로 나타났습니다. 맥락: 원격 의료는 농촌 및 자원이 부족한 지역 사회의 의료 및 정신 건강 관리에 대한 접근성을 향상시킬 수 있습니다. 미국 주에서는 농촌성과 같은 특정 주 요인으로 인해 코로나19 팬데믹 기간 동안 원격 의료 서비스 제공을 가능하게 하는 정책을 급속히 확대했습니다. 등록 기준 미국 최대 건강 보험 프로그램인 Medicaid에 관한 주 정책의 변화를 통해 원격 의료 확장 및 서비스가 부족한 개인의 건강 결과에 대한 자연스러운 연구가 가능해졌습니다. 이 연구는 Medicaid 원격 의료 서비스 제공을 다루는 주 정책을 식별하고 원격 의료 채택과 관련된 설명적인 주 요인을 조사하는 것을 목표로 했습니다. 방법: 법적 매핑(50개 주 설문조사) 방법을 사용하여 Medicaid 인구에 대한 원격 의료를 다루는 미국 주 법률 및 정책을 효율적으로 식별했습니다."
+   "abstract_ko": "정책 포인트 원격 의료는 농촌 및 소외된 지역사회를 포함한 환자의 의료 서비스에 대한 접근성을 높이고, 원격 의료 정책에 대한 50개 주 조사를 통해 원격 의료가 환자 결과에 미치는 영향에 대한 연구를 더욱 심화할 수 있습니다. 이 법적 매핑 연구는 주 Medicaid 프로그램의 원격 의료 정책을 추적했으며 특히 오디오 전용 원격 의료(2018년부터 2023년까지 0~43개 주에서 채택)에 대한 환급에서 광범위한 채택을 발견했습니다. 주정부의 원격 의료 정책 채택은 농촌성, 의료 전문가 부족, 메디케이드 확장, 광대역 인터넷 가용성 및 테스트된 모든 주 요인(예: 인구 통계, 실업, 코로나19 사례)과 무관한 것으로 나타났습니다. 맥락: 원격 의료는 농촌 및 자원이 부족한 지역 사회의 의료 및 정신 건강 관리에 대한 접근성을 향상시킬 수 있습니다. 미국 주에서는 농촌성과 같은 특정 주 요인으로 인해 코로나19 팬데믹 기간 동안 원격 의료 서비스 제공을 가능하게 하는 정책을 급속히 확대했습니다. 등록 기준 미국 최대 건강 보험 프로그램인 Medicaid에 관한 주 정책의 변화를 통해 원격 의료 확장 및 서비스가 부족한 개인의 건강 결과에 대한 자연스러운 연구가 가능해졌습니다. 이 연구는 Medicaid 원격 의료 서비스 제공을 다루는 주 정책을 식별하고 원격 의료 채택과 관련된 설명적인 주 요인을 조사하는 것을 목표로 했습니다. 방법: 법적 매핑(50개 주 설문조사) 방법을 사용하여 Medicaid 인구에 대한 원격 의료를 다루는 미국 주 법률 및 정책을 효율적으로 식별했습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203575497": {
    "id": "oa:W7203575497",
@@ -44177,7 +44197,9 @@
    "doi": "10.1080/13501763.2026.2708116",
    "pdf": "https://doi.org/10.1080/13501763.2026.2708116",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "정치화가 유럽연합 집행위원회의 정책 제안 방식에 영향을 미치나요? 대규모 연구에서는 대응 각도에서 이 문제를 다루면서 EU의 정책 결과가 여론과 일치하는 정도를 평가했습니다. 우리는 정치화가 위원회 정책 수립의 입력, 처리량 및 출력 단계에 어떻게 영향을 미치는지 평가하는 절차적 접근 방식으로 이를 보완합니다. 우리는 대응(사회적 압력에 맞춰 프로세스를 조정)과 대응(여론에 대응하여 제안을 실질적으로 조정하는 것)을 구별합니다. 경험적으로 우리는 전산 텍스트 분석 방법을 결합하여 농업 정책 영역(2014년에서 2024년 사이)에서 위원회 제안에 대한 질적, 심층적 사례 분석과 함께 새로운 미디어 기반 정치화 측정을 개발합니다. 우리는 이러한 세 가지 제안(각각 낮음, 중간, 높음)을 분석하여 정책 결정 단계 전반에 걸쳐 대중의 의견을 추적합니다. 우리의 연구 결과에 따르면 대응과 대응성은 독립적으로 다양합니다. 낮은 정치화는 좁은 응답을 생성하고, 중간 정치화는 선택적 응답을 포함한 광범위한 응답을 생성하며, 높은 정치화는 높은 응답성과 함께 좁은 응답을 생성합니다. 우리의 논문은 절차적 대응과 대응의 다양한 기록에 의존하여 위원회가 정치화를 탐색하는 방법에 대한 이론 개발에 기여합니다."
+   "abstract_ko": "정치화가 유럽연합 집행위원회의 정책 제안 방식에 영향을 미치나요? 대규모 연구에서는 대응 각도에서 이 문제를 다루면서 EU의 정책 결과가 여론과 일치하는 정도를 평가했습니다. 우리는 정치화가 위원회 정책 수립의 입력, 처리량 및 출력 단계에 어떻게 영향을 미치는지 평가하는 절차적 접근 방식으로 이를 보완합니다. 우리는 대응(사회적 압력에 맞춰 프로세스를 조정)과 대응(여론에 대응하여 제안을 실질적으로 조정하는 것)을 구별합니다. 경험적으로 우리는 전산 텍스트 분석 방법을 결합하여 농업 정책 영역(2014년에서 2024년 사이)에서 위원회 제안에 대한 질적, 심층적 사례 분석과 함께 새로운 미디어 기반 정치화 측정을 개발합니다. 우리는 이러한 세 가지 제안(각각 낮음, 중간, 높음)을 분석하여 정책 결정 단계 전반에 걸쳐 대중의 의견을 추적합니다. 우리의 연구 결과에 따르면 대응과 대응성은 독립적으로 다양합니다. 낮은 정치화는 좁은 응답을 생성하고, 중간 정치화는 선택적 응답을 포함한 광범위한 응답을 생성하며, 높은 정치화는 높은 응답성과 함께 좁은 응답을 생성합니다. 우리의 논문은 절차적 대응과 대응의 다양한 기록에 의존하여 위원회가 정치화를 탐색하는 방법에 대한 이론 개발에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203578013": {
    "id": "oa:W7203578013",
@@ -44196,7 +44218,9 @@
    "doi": "10.1111/puar.70172",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요 2024년 이후 미국은 지방선거 공무원(LEO) 감원이 가속화되는 심각한 노동 위기에 직면해 있습니다. 본 연구에서는 특히 불안정한 \"스윙\" 및 \"피벗\" 카운티 내 불균형한 이직률에 초점을 맞춰 이러한 탈출의 원인을 조사합니다. 초당적 정책 센터, 미국 인구 조사국, 선거 유권자 설문 조사, MIT 선거 데이터 및 과학 연구소(MEDSL), Reed LEO 설문 조사의 종단적 데이터와 74개 경쟁 카운티 및 25개 \"슈퍼 산사태\" 카운티에서 수집한 원본 데이터 세트를 사용하는 혼합 방법 설계를 활용합니다. 지리 정보 시스템을 사용하여 우리는 상세한 카운티 프로필을 2016년, 2020년, 2024년 선거 전반에 걸쳐 법적, 정치적 환경의 공간 매핑에 연결합니다. 경쟁이 치열한 관할 구역의 LEO는 제도적 신뢰가 침식되어 이탈의 주요 촉매제 역할을 합니다. 이러한 불안정한 관할 구역은 민주적 장치가 취약한 곳을 강조하여 전례 없는 극극화 속에서 공공 행정 인력을 안정화하기 위해 고안된 국가 차원의 정책 개입에 대한 증거 기반 통찰력을 제공합니다."
+   "abstract_ko": "개요 2024년 이후 미국은 지방선거 공무원(LEO) 감원이 가속화되는 심각한 노동 위기에 직면해 있습니다. 본 연구에서는 특히 불안정한 \"스윙\" 및 \"피벗\" 카운티 내 불균형한 이직률에 초점을 맞춰 이러한 탈출의 원인을 조사합니다. 초당적 정책 센터, 미국 인구 조사국, 선거 유권자 설문 조사, MIT 선거 데이터 및 과학 연구소(MEDSL), Reed LEO 설문 조사의 종단적 데이터와 74개 경쟁 카운티 및 25개 \"슈퍼 산사태\" 카운티에서 수집한 원본 데이터 세트를 사용하는 혼합 방법 설계를 활용합니다. 지리 정보 시스템을 사용하여 우리는 상세한 카운티 프로필을 2016년, 2020년, 2024년 선거 전반에 걸쳐 법적, 정치적 환경의 공간 매핑에 연결합니다. 경쟁이 치열한 관할 구역의 LEO는 제도적 신뢰가 침식되어 이탈의 주요 촉매제 역할을 합니다. 이러한 불안정한 관할 구역은 민주적 장치가 취약한 곳을 강조하여 전례 없는 극극화 속에서 공공 행정 인력을 안정화하기 위해 고안된 국가 차원의 정책 개입에 대한 증거 기반 통찰력을 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203642830": {
    "id": "oa:W7203642830",
@@ -44216,7 +44240,9 @@
    "doi": "10.1080/13876988.2026.2702325",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "도시화는 거버넌스의 규모, 복잡성 및 이해관계를 재구성하여 도시를 국가-사회 상호 작용 및 정책 전달의 중심에 두었습니다. 반응적인 도시 거버넌스와 포용적인 정책 수립: 비교 관점이라는 특별호는 도시 정부가 반응성, 형평성, 참여 및 조정이라는 상호 연관된 문제에 어떻게 직면하는지 검토함으로써 이러한 변화에 참여합니다. 다양한 제도적 맥락에 걸친 비교 증거를 바탕으로 기고문은 디지털 지능 기술을 변화의 자율적 동인이 아니라 권한, 인센티브 및 책임의 특정 구성 내에 포함되는지에 따라 효과가 달라지는 조건부 가능 요인으로 개념화합니다. 연구 결과는 거버넌스 결과가 정보 역량과 제도적 설계에 의해 공동으로 형성되는 기술-제도 연계를 강조합니다. 비교적이고 메커니즘 지향적인 관점을 발전시킴으로써 이 특별호는 기술 중심의 설명을 넘어 효과적이고 포괄적인 도시 거버넌스의 정치적, 제도적 기반을 이해하기 위한 보다 일반화 가능한 프레임워크에 기여합니다."
+   "abstract_ko": "도시화는 거버넌스의 규모, 복잡성 및 이해관계를 재구성하여 도시를 국가-사회 상호 작용 및 정책 전달의 중심에 두었습니다. 반응적인 도시 거버넌스와 포용적인 정책 수립: 비교 관점이라는 특별호는 도시 정부가 반응성, 형평성, 참여 및 조정이라는 상호 연관된 문제에 어떻게 직면하는지 검토함으로써 이러한 변화에 참여합니다. 다양한 제도적 맥락에 걸친 비교 증거를 바탕으로 기고문은 디지털 지능 기술을 변화의 자율적 동인이 아니라 권한, 인센티브 및 책임의 특정 구성 내에 포함되는지에 따라 효과가 달라지는 조건부 가능 요인으로 개념화합니다. 연구 결과는 거버넌스 결과가 정보 역량과 제도적 설계에 의해 공동으로 형성되는 기술-제도 연계를 강조합니다. 비교적이고 메커니즘 지향적인 관점을 발전시킴으로써 이 특별호는 기술 중심의 설명을 넘어 효과적이고 포괄적인 도시 거버넌스의 정치적, 제도적 기반을 이해하기 위한 보다 일반화 가능한 프레임워크에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4410694905": {
    "id": "oa:W4410694905",
@@ -44255,7 +44281,9 @@
    "doi": "10.1111/bmsp.70071",
    "pdf": "https://doi.org/10.1111/bmsp.70071",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "표준화된 평균 차이(SMD)는 널리 사용되는 효과 크기 측정법으로, 특히 지속적인 결과를 포함하는 심리학, 임상 시험 및 메타 분석에서 흔히 사용됩니다. 전통적으로 등분산 가정 하에서 SMD는 평균 차이를 공통 표준 편차로 나눈 값으로 정의됩니다. 이 접근법은 메타 분석에서 널리 사용되지만 임상 실습에서는 지나치게 제한적일 수 있습니다. 동일하지 않은 분산을 수용하기 위해 기존 방법은 두 분산을 산술적으로 평균화하므로 SMD의 편견 없는 추정이 허용되지 않습니다. 이에 영감을 받아 우리는 분산을 평균화하는 기하학적 접근 방식을 제안하여 불평등 분산으로 평균 차이를 표준화하기 위한 새로운 측정 방법을 제시합니다. 우리는 새로운 SMD에 대한 Cohen 유형 및 Hedges 유형 추정기를 제안하고 신뢰 구간을 포함한 통계적 특성을 도출합니다. 시뮬레이션 결과는 헤지스 유형 추정기가 다양한 시나리오에서 최적으로 수행되어 더 낮은 편향, 더 낮은 평균 제곱 오차 및 향상된 적용 범위 확률을 보여줍니다. 실제 메타 분석은 또한 새로운 SMD와 추정기가 기존 문헌에 대한 귀중한 통찰력을 제공하고 실제 사용에 적극 권장될 수 있음을 보여줍니다."
+   "abstract_ko": "표준화된 평균 차이(SMD)는 널리 사용되는 효과 크기 측정법으로, 특히 지속적인 결과를 포함하는 심리학, 임상 시험 및 메타 분석에서 흔히 사용됩니다. 전통적으로 등분산 가정 하에서 SMD는 평균 차이를 공통 표준 편차로 나눈 값으로 정의됩니다. 이 접근법은 메타 분석에서 널리 사용되지만 임상 실습에서는 지나치게 제한적일 수 있습니다. 동일하지 않은 분산을 수용하기 위해 기존 방법은 두 분산을 산술적으로 평균화하므로 SMD의 편견 없는 추정이 허용되지 않습니다. 이에 영감을 받아 우리는 분산을 평균화하는 기하학적 접근 방식을 제안하여 불평등 분산으로 평균 차이를 표준화하기 위한 새로운 측정 방법을 제시합니다. 우리는 새로운 SMD에 대한 Cohen 유형 및 Hedges 유형 추정기를 제안하고 신뢰 구간을 포함한 통계적 특성을 도출합니다. 시뮬레이션 결과는 헤지스 유형 추정기가 다양한 시나리오에서 최적으로 수행되어 더 낮은 편향, 더 낮은 평균 제곱 오차 및 향상된 적용 범위 확률을 보여줍니다. 실제 메타 분석은 또한 새로운 SMD와 추정기가 기존 문헌에 대한 귀중한 통찰력을 제공하고 실제 사용에 적극 권장될 수 있음을 보여줍니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7202080516": {
    "id": "oa:W7202080516",
@@ -44273,7 +44301,9 @@
    "doi": "10.1080/13645579.2026.2716060",
    "pdf": "https://doi.org/10.1080/13645579.2026.2716060",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "연구에서 윤리적 딜레마는 흔하며 기관 검토 과정을 통해 종종 예상되지만, 일부 문제는 현장 조사 중에만 표면화됩니다. 이러한 예상치 못한 딜레마는 부분적으로 수치심, 낙인 또는 성찰을 위한 지원 공간의 부재로 인해 여성 연구자들에 의해 훨씬 덜 자주 논의됩니다. 인터뷰가 본질적으로 불편한 것은 아니지만, 연구자와 참가자 상호 작용의 친밀함은 성별, 성적 취향, 인종, 이주 상태 및 정치적 차이의 교차 역학에 의해 형성되는 불안감을 유발할 수 있습니다. 이러한 순간에 주의를 기울이는 것이 페미니스트 연구와 돌봄 윤리의 핵심입니다. 영국과 아일랜드에서 남성 이주민을 대상으로 작업하는 여성 이주 연구자가 수행한 두 가지 연구를 바탕으로 이 논문은 연구 주제와 데이터 수집 방법이 윤리적으로 문제가 있는 만남에 어떻게 기여할 수 있는지 조사합니다. 경계 관리 문제를 더 잘 탐색하고 불안한 상황이 발생할 가능성을 줄이기 위해 참여 방법에 대한 광범위한 대화와 지속적인 비판적 성찰로 시작하는 단계적 접근 방식을 제안합니다."
+   "abstract_ko": "연구에서 윤리적 딜레마는 흔하며 기관 검토 과정을 통해 종종 예상되지만, 일부 문제는 현장 조사 중에만 표면화됩니다. 이러한 예상치 못한 딜레마는 부분적으로 수치심, 낙인 또는 성찰을 위한 지원 공간의 부재로 인해 여성 연구자들에 의해 훨씬 덜 자주 논의됩니다. 인터뷰가 본질적으로 불편한 것은 아니지만, 연구자와 참가자 상호 작용의 친밀함은 성별, 성적 취향, 인종, 이주 상태 및 정치적 차이의 교차 역학에 의해 형성되는 불안감을 유발할 수 있습니다. 이러한 순간에 주의를 기울이는 것이 페미니스트 연구와 돌봄 윤리의 핵심입니다. 영국과 아일랜드에서 남성 이주민을 대상으로 작업하는 여성 이주 연구자가 수행한 두 가지 연구를 바탕으로 이 논문은 연구 주제와 데이터 수집 방법이 윤리적으로 문제가 있는 만남에 어떻게 기여할 수 있는지 조사합니다. 경계 관리 문제를 더 잘 탐색하고 불안한 상황이 발생할 가능성을 줄이기 위해 참여 방법에 대한 광범위한 대화와 지속적인 비판적 성찰로 시작하는 단계적 접근 방식을 제안합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203605276": {
    "id": "oa:W7203605276",
@@ -44293,7 +44323,8 @@
    "doi": "10.3758/s13428-026-03149-z",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7203611604": {
    "id": "oa:W7203611604",
@@ -44316,7 +44347,9 @@
    "doi": "10.1080/13645579.2026.2716062",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "질적 인터뷰는 사회 연구의 핵심이지만, 관계, 힘, 연구자 성찰의 역학은 여전히 ​​복잡하고 충분히 탐구되지 않은 상태입니다. 이 논문에서는 연구자들이 원격수유 지원에 관한 임상 시험에 참여하는 라틴계 및 흑인 부모와의 인터뷰에서 자신의 정체성과 배경의 측면을 공유하는 의도적인 연구자 자기 공개 접근 방식의 구현을 조사합니다. 형평성 중심 모델을 바탕으로 우리는 신뢰와 더욱 풍부한 대화를 조성하기 위해 인터뷰 가이드를 조정했습니다. 이러한 적응 이전과 이후에 실시된 인터뷰를 비교 분석한 결과, 특히 모유수유에 대한 문화적, 지역사회 및 가족의 영향에 관해 참가자 응답의 깊이와 폭이 증가한 것으로 나타났습니다. 우리의 연구 결과는 연구자 자기 공개의 잠재력과 과제를 강조하여 보다 환자 중심적이고 효과적인 질적 연구에 대한 통찰력을 제공합니다. 우리는 배운 교훈을 공유하고 이러한 접근 방식을 인터뷰 실습에 통합하려는 연구자에게 모범 사례를 제공합니다."
+   "abstract_ko": "질적 인터뷰는 사회 연구의 핵심이지만, 관계, 힘, 연구자 성찰의 역학은 여전히 ​​복잡하고 충분히 탐구되지 않은 상태입니다. 이 논문에서는 연구자들이 원격수유 지원에 관한 임상 시험에 참여하는 라틴계 및 흑인 부모와의 인터뷰에서 자신의 정체성과 배경의 측면을 공유하는 의도적인 연구자 자기 공개 접근 방식의 구현을 조사합니다. 형평성 중심 모델을 바탕으로 우리는 신뢰와 더욱 풍부한 대화를 조성하기 위해 인터뷰 가이드를 조정했습니다. 이러한 적응 이전과 이후에 실시된 인터뷰를 비교 분석한 결과, 특히 모유수유에 대한 문화적, 지역사회 및 가족의 영향에 관해 참가자 응답의 깊이와 폭이 증가한 것으로 나타났습니다. 우리의 연구 결과는 연구자 자기 공개의 잠재력과 과제를 강조하여 보다 환자 중심적이고 효과적인 질적 연구에 대한 통찰력을 제공합니다. 우리는 배운 교훈을 공유하고 이러한 접근 방식을 인터뷰 실습에 통합하려는 연구자에게 모범 사례를 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203640893": {
    "id": "oa:W7203640893",
@@ -44334,7 +44367,8 @@
    "doi": "10.3758/s13428-026-03148-0",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7203624521": {
    "id": "oa:W7203624521",
@@ -44355,7 +44389,9 @@
    "doi": "10.1177/0282423x261460497",
    "pdf": "https://doi.org/10.1177/0282423x261460497",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "모바일 네트워크 사업자(MNO)가 제공하는 데이터의 잠재력에도 불구하고 원칙적으로 모든 국가에서 액세스할 수 있는 집계되고 익명화된 휴대전화 신호 데이터에서 생성된 공식적인 통계는 현재 없습니다. MNO 데이터가 부족하여 통계 레지스터와 샘플 조사 데이터를 사용하여 노르웨이와 이탈리아에서 개념 증명 실험을 개발하고 수행합니다. 실행 가능한 방법과 잠재적인 문제를 탐색하고 분석하여 이제 생산 솔루션 구축을 위해 MNO 데이터에 대한 액세스를 협상할 준비가 되었습니다. 비설문조사 빅데이터에 대한 추정 방법론과 우리의 실험적 접근 방식은 데이터가 휴대폰, 거래 또는 기타 소스에서 발생하는지 여부에 관계없이 유사한 통계적 관심을 가진 다른 사람들에게 유용할 수 있습니다."
+   "abstract_ko": "모바일 네트워크 사업자(MNO)가 제공하는 데이터의 잠재력에도 불구하고 원칙적으로 모든 국가에서 액세스할 수 있는 집계되고 익명화된 휴대전화 신호 데이터에서 생성된 공식적인 통계는 현재 없습니다. MNO 데이터가 부족하여 통계 레지스터와 샘플 조사 데이터를 사용하여 노르웨이와 이탈리아에서 개념 증명 실험을 개발하고 수행합니다. 실행 가능한 방법과 잠재적인 문제를 탐색하고 분석하여 이제 생산 솔루션 구축을 위해 MNO 데이터에 대한 액세스를 협상할 준비가 되었습니다. 비설문조사 빅데이터에 대한 추정 방법론과 우리의 실험적 접근 방식은 데이터가 휴대폰, 거래 또는 기타 소스에서 발생하는지 여부에 관계없이 유사한 통계적 관심을 가진 다른 사람들에게 유용할 수 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203653970": {
    "id": "oa:W7203653970",
@@ -44380,7 +44416,9 @@
    "doi": "10.1177/01466216261478224",
    "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/01466216261478224?download=true",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "projectCAT은 완전한 코드 프리 컴퓨터 적응형 테스트(CAT) 시뮬레이션 환경을 제공하는 오픈 소스 R Shiny 애플리케이션입니다. 이는 IRT 교정(한계 최대 우도를 통한 1PL, 2PL, 3PL), 세 가지 적응형 항목 선택 방법, 즉 최대 피셔 정보(MFI), 평균 예상 정보(MEI) 및 최소 예상 사후 분산(MEPV), 세 가지 능력 추정 방법(EAP, ML 및 MAP), 심슨-헤터(SH) 노출 제어 및 여러 도메인에 걸쳐 사용자가 지정한 목표 비율을 사용한 콘텐츠 밸런싱을 통합합니다. SH와 콘텐츠 밸런싱은 모두 단일 수험자 시뮬레이션과 전체 다중 수험자 시뮬레이션에서 동일하게 작동합니다. 내장된 300개 항목 2PL 데모 뱅크에 적용됨( <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mi>n</mml:mi> <mml:mo>=</mml:mo> <mml:mn>500</mml:mn> </mml:math> , 20 항목, MFI + EAP), RMSE <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mo>=</mml:mo> <mml:mo>.</mml:mo> <mml:mn>36</mml:mn> </mml:math> , 상관관계 <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mo>=</mml:mo> <mml:mo>.</mml:mo> <mml:mn>94</mml:mn> </mml:math> 및 SH <mml:math에서 항목 과다 노출이 11.3%로 감소했습니다. xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mrow> <mml:mo Stretchy=\"false\">(</mml:mo> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>r</mml:mi> </mml:mrow> <mml:mrow> <mml:mi>최대</mml:mi> </mml:mrow> </mml:msub> <mml:m"
+   "abstract_ko": "projectCAT은 완전한 코드 프리 컴퓨터 적응형 테스트(CAT) 시뮬레이션 환경을 제공하는 오픈 소스 R Shiny 애플리케이션입니다. 이는 IRT 교정(한계 최대 우도를 통한 1PL, 2PL, 3PL), 세 가지 적응형 항목 선택 방법, 즉 최대 피셔 정보(MFI), 평균 예상 정보(MEI) 및 최소 예상 사후 분산(MEPV), 세 가지 능력 추정 방법(EAP, ML 및 MAP), 심슨-헤터(SH) 노출 제어 및 여러 도메인에 걸쳐 사용자가 지정한 목표 비율을 사용한 콘텐츠 밸런싱을 통합합니다. SH와 콘텐츠 밸런싱은 모두 단일 수험자 시뮬레이션과 전체 다중 수험자 시뮬레이션에서 동일하게 작동합니다. 내장된 300개 항목 2PL 데모 뱅크에 적용됨( <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mi>n</mml:mi> <mml:mo>=</mml:mo> <mml:mn>500</mml:mn> </mml:math> , 20 항목, MFI + EAP), RMSE <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mo>=</mml:mo> <mml:mo>.</mml:mo> <mml:mn>36</mml:mn> </mml:math> , 상관관계 <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mo>=</mml:mo> <mml:mo>.</mml:mo> <mml:mn>94</mml:mn> </mml:math> 및 SH <mml:math에서 항목 과다 노출이 11.3%로 감소했습니다. xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" Overflow=\"scroll\"> <mml:mrow> <mml:mo Stretchy=\"false\">(</mml:mo> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>r</mml:mi> </mml:mrow> <mml:mrow> <mml:mi>최대</mml:mi> </mml:mrow> </mml:msub> <mml:m",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171773639": {
    "id": "oa:W7171773639",
@@ -44400,7 +44438,9 @@
    "doi": "10.5281/zenodo.21701145",
    "pdf": "https://doi.org/10.5281/zenodo.21701145",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "서론: FBC(전혈구 수치) 분석에서 분석 전 오류에 대한 현재 검토는 여러 가지 이유로 중요합니다. FBC는 전 세계적으로 가장 자주 주문되는 테스트 중 하나이며 쉽게 오류가 발생하기 쉽습니다. 따라서 작은 오류율이라도 대부분 사전 분석인 많은 검체에 영향을 미치고, 이러한 분석 전 오류는 예방 가능합니다. 실험실 품질 지표의 최근 증거에 따르면 분석 전 오류는 수년간의 인식에도 불구하고 지속적인 문제로 남아 있는 것으로 나타났습니다. 이는 특히 개발도상국의 자원이 제한된 실험실 환경에서 지속적인 교육과 체계적인 개선의 필요성을 강조합니다. 훈련된 의료 인력이 부족하고, 모델 전자 건강 기록 장비가 부족하고, 시료 수집 지원 장치를 사용할 수 없으며, 자동화된 시료 운반 시설이 부족하고, 콜드 체인이 부적절하며, 유효 전력이 부족한 나이지리아. 목표: 환자 준비, 검체 수집, 라벨링, 운송 및 보관을 포함하여 검사 주문과 실험실로의 검체 전달 사이의 모든 단계에서 발생하는 전혈구 검사 분석의 분석 전 오류에 대한 포괄적인 검토를 제공합니다. 혈액학적 매개변수는 검체 취급 시 사소한 편차에도 매우 민감하기 때문에 이러한 오류는 결과적입니다. 방법: 분석자에게 도달하기 전에 발생하는 분석 전 오류를 연구하면서 동료 검토 문헌에 대한 심층적인 평가를 수행했습니다. 데이터베이스"
+   "abstract_ko": "서론: FBC(전혈구 수치) 분석에서 분석 전 오류에 대한 현재 검토는 여러 가지 이유로 중요합니다. FBC는 전 세계적으로 가장 자주 주문되는 테스트 중 하나이며 쉽게 오류가 발생하기 쉽습니다. 따라서 작은 오류율이라도 대부분 사전 분석인 많은 검체에 영향을 미치고, 이러한 분석 전 오류는 예방 가능합니다. 실험실 품질 지표의 최근 증거에 따르면 분석 전 오류는 수년간의 인식에도 불구하고 지속적인 문제로 남아 있는 것으로 나타났습니다. 이는 특히 개발도상국의 자원이 제한된 실험실 환경에서 지속적인 교육과 체계적인 개선의 필요성을 강조합니다. 훈련된 의료 인력이 부족하고, 모델 전자 건강 기록 장비가 부족하고, 시료 수집 지원 장치를 사용할 수 없으며, 자동화된 시료 운반 시설이 부족하고, 콜드 체인이 부적절하며, 유효 전력이 부족한 나이지리아. 목표: 환자 준비, 검체 수집, 라벨링, 운송 및 보관을 포함하여 검사 주문과 실험실로의 검체 전달 사이의 모든 단계에서 발생하는 전혈구 검사 분석의 분석 전 오류에 대한 포괄적인 검토를 제공합니다. 혈액학적 매개변수는 검체 취급 시 사소한 편차에도 매우 민감하기 때문에 이러한 오류는 결과적입니다. 방법: 분석자에게 도달하기 전에 발생하는 분석 전 오류를 연구하면서 동료 검토 문헌에 대한 심층적인 평가를 수행했습니다. 데이터베이스",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7172536302": {
    "id": "oa:W7172536302",
@@ -44420,7 +44460,9 @@
    "doi": "10.5281/zenodo.21802546",
    "pdf": "https://doi.org/10.5281/zenodo.21802546",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "서론: FBC(전혈구 수치) 분석에서 분석 전 오류에 대한 현재 검토는 여러 가지 이유로 중요합니다. FBC는 전 세계적으로 가장 자주 주문되는 테스트 중 하나이며 쉽게 오류가 발생하기 쉽습니다. 따라서 작은 오류율이라도 대부분 사전 분석인 많은 검체에 영향을 미치고, 이러한 분석 전 오류는 예방 가능합니다. 실험실 품질 지표의 최근 증거에 따르면 분석 전 오류는 수년간의 인식에도 불구하고 지속적인 문제로 남아 있는 것으로 나타났습니다. 이는 특히 개발도상국의 자원이 제한된 실험실 환경에서 지속적인 교육과 체계적인 개선의 필요성을 강조합니다. 훈련된 의료 인력이 부족하고, 모델 전자 건강 기록 장비가 부족하고, 시료 수집 지원 장치를 사용할 수 없으며, 자동화된 시료 운반 시설이 부족하고, 콜드 체인이 부적절하며, 유효 전력이 부족한 나이지리아. 목표: 환자 준비, 검체 수집, 라벨링, 운송 및 보관을 포함하여 검사 주문과 실험실로의 검체 전달 사이의 모든 단계에서 발생하는 전혈구 검사 분석의 분석 전 오류에 대한 포괄적인 검토를 제공합니다. 혈액학적 매개변수는 검체 취급 시 사소한 편차에도 매우 민감하기 때문에 이러한 오류는 결과적입니다. 방법: 분석자에게 도달하기 전에 발생하는 분석 전 오류를 연구하면서 동료 검토 문헌에 대한 심층적인 평가를 수행했습니다. 데이터베이스"
+   "abstract_ko": "서론: FBC(전혈구 수치) 분석에서 분석 전 오류에 대한 현재 검토는 여러 가지 이유로 중요합니다. FBC는 전 세계적으로 가장 자주 주문되는 테스트 중 하나이며 쉽게 오류가 발생하기 쉽습니다. 따라서 작은 오류율이라도 대부분 사전 분석인 많은 검체에 영향을 미치고, 이러한 분석 전 오류는 예방 가능합니다. 실험실 품질 지표의 최근 증거에 따르면 분석 전 오류는 수년간의 인식에도 불구하고 지속적인 문제로 남아 있는 것으로 나타났습니다. 이는 특히 개발도상국의 자원이 제한된 실험실 환경에서 지속적인 교육과 체계적인 개선의 필요성을 강조합니다. 훈련된 의료 인력이 부족하고, 모델 전자 건강 기록 장비가 부족하고, 시료 수집 지원 장치를 사용할 수 없으며, 자동화된 시료 운반 시설이 부족하고, 콜드 체인이 부적절하며, 유효 전력이 부족한 나이지리아. 목표: 환자 준비, 검체 수집, 라벨링, 운송 및 보관을 포함하여 검사 주문과 실험실로의 검체 전달 사이의 모든 단계에서 발생하는 전혈구 검사 분석의 분석 전 오류에 대한 포괄적인 검토를 제공합니다. 혈액학적 매개변수는 검체 취급 시 사소한 편차에도 매우 민감하기 때문에 이러한 오류는 결과적입니다. 방법: 분석자에게 도달하기 전에 발생하는 분석 전 오류를 연구하면서 동료 검토 문헌에 대한 심층적인 평가를 수행했습니다. 데이터베이스",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171818316": {
    "id": "oa:W7171818316",
@@ -44440,7 +44482,9 @@
    "doi": "10.5281/zenodo.21701146",
    "pdf": "https://doi.org/10.5281/zenodo.21701146",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "서론: FBC(전혈구 수치) 분석에서 분석 전 오류에 대한 현재 검토는 여러 가지 이유로 중요합니다. FBC는 전 세계적으로 가장 자주 주문되는 테스트 중 하나이며 쉽게 오류가 발생하기 쉽습니다. 따라서 작은 오류율이라도 대부분 사전 분석인 많은 검체에 영향을 미치고, 이러한 분석 전 오류는 예방 가능합니다. 실험실 품질 지표의 최근 증거에 따르면 분석 전 오류는 수년간의 인식에도 불구하고 지속적인 문제로 남아 있는 것으로 나타났습니다. 이는 특히 개발도상국의 자원이 제한된 실험실 환경에서 지속적인 교육과 체계적인 개선의 필요성을 강조합니다. 훈련된 의료 인력이 부족하고, 모델 전자 건강 기록 장비가 부족하고, 시료 수집 지원 장치를 사용할 수 없으며, 자동화된 시료 운반 시설이 부족하고, 콜드 체인이 부적절하며, 유효 전력이 부족한 나이지리아. 목표: 환자 준비, 검체 수집, 라벨링, 운송 및 보관을 포함하여 검사 주문과 실험실로의 검체 전달 사이의 모든 단계에서 발생하는 전혈구 검사 분석의 분석 전 오류에 대한 포괄적인 검토를 제공합니다. 혈액학적 매개변수는 검체 취급 시 사소한 편차에도 매우 민감하기 때문에 이러한 오류는 결과적입니다. 방법: 분석자에게 도달하기 전에 발생하는 분석 전 오류를 연구하면서 동료 검토 문헌에 대한 심층적인 평가를 수행했습니다. 데이터베이스"
+   "abstract_ko": "서론: FBC(전혈구 수치) 분석에서 분석 전 오류에 대한 현재 검토는 여러 가지 이유로 중요합니다. FBC는 전 세계적으로 가장 자주 주문되는 테스트 중 하나이며 쉽게 오류가 발생하기 쉽습니다. 따라서 작은 오류율이라도 대부분 사전 분석인 많은 검체에 영향을 미치고, 이러한 분석 전 오류는 예방 가능합니다. 실험실 품질 지표의 최근 증거에 따르면 분석 전 오류는 수년간의 인식에도 불구하고 지속적인 문제로 남아 있는 것으로 나타났습니다. 이는 특히 개발도상국의 자원이 제한된 실험실 환경에서 지속적인 교육과 체계적인 개선의 필요성을 강조합니다. 훈련된 의료 인력이 부족하고, 모델 전자 건강 기록 장비가 부족하고, 시료 수집 지원 장치를 사용할 수 없으며, 자동화된 시료 운반 시설이 부족하고, 콜드 체인이 부적절하며, 유효 전력이 부족한 나이지리아. 목표: 환자 준비, 검체 수집, 라벨링, 운송 및 보관을 포함하여 검사 주문과 실험실로의 검체 전달 사이의 모든 단계에서 발생하는 전혈구 검사 분석의 분석 전 오류에 대한 포괄적인 검토를 제공합니다. 혈액학적 매개변수는 검체 취급 시 사소한 편차에도 매우 민감하기 때문에 이러한 오류는 결과적입니다. 방법: 분석자에게 도달하기 전에 발생하는 분석 전 오류를 연구하면서 동료 검토 문헌에 대한 심층적인 평가를 수행했습니다. 데이터베이스",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7170049101": {
    "id": "oa:W7170049101",
@@ -44463,7 +44507,9 @@
    "doi": "10.5281/zenodo.21487085",
    "pdf": "https://doi.org/10.5281/zenodo.21487085",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요: 연구 목적은 빠른 볼러의 폭발력과 심박수 회복에 있어 플라이오메트릭 운동과 햄스트링 컬 운동의 기여도를 조사하는 것이었습니다. 사전 및 사후 테스트를 통한 실험적 연구 설계가 활용되었습니다. n=24 표본 크기는 실험 그룹과 전통적 훈련 그룹의 두 그룹으로 할당되었으며 각 그룹에는 12명의 참가자가 있었습니다. Jawad Cricket Club 및 MS Cricket Academy의 16~26세 남성 프로 클럽 크리켓 선수들이 서면 동의를 받은 후 포함되었습니다. 폭발력은 두 그룹 모두 30m 달리기 테스트, 50m 달리기 테스트, 서서 멀리 뛰기 테스트를 통해 측정됐다. 오버 시작 전, 오버 후, 1분 후 심박수 회복 후 실험군 심박수 반응만을 수집하였다. 실험군은 12주 동안 플라이오메트릭 운동과 햄스트링 컬 운동을 병행하였고, 대조군은 일상적인 훈련을 실시하였습니다. 두 그룹의 그룹 내 변화를 분석하기 위해 쌍표본 t-테스트를 ​​사용했고, 두 그룹의 훈련 프로그램 효과를 비교하기 위해 독립 t-테스트를 ​​사용했습니다. 수준 유의성은 p<0.05였습니다. 빠른 볼러의 평균 연령은 실험군(19.33±2.87)과 대조군(19.66±3.02)으로 나타났다. 두 그룹의 놀이 경험은 각각 4.83±1.90과 4.75±2.01로 나타났다. 두 그룹을 비교한 결과, 실험그룹에서는 중재 후 폭발력이 유의하게 향상되었습니다(p<0.05). 그룹 내 분석에서는 실험 그룹이"
+   "abstract_ko": "개요: 연구 목적은 빠른 볼러의 폭발력과 심박수 회복에 있어 플라이오메트릭 운동과 햄스트링 컬 운동의 기여도를 조사하는 것이었습니다. 사전 및 사후 테스트를 통한 실험적 연구 설계가 활용되었습니다. n=24 표본 크기는 실험 그룹과 전통적 훈련 그룹의 두 그룹으로 할당되었으며 각 그룹에는 12명의 참가자가 있었습니다. Jawad Cricket Club 및 MS Cricket Academy의 16~26세 남성 프로 클럽 크리켓 선수들이 서면 동의를 받은 후 포함되었습니다. 폭발력은 두 그룹 모두 30m 달리기 테스트, 50m 달리기 테스트, 서서 멀리 뛰기 테스트를 통해 측정됐다. 오버 시작 전, 오버 후, 1분 후 심박수 회복 후 실험군 심박수 반응만을 수집하였다. 실험군은 12주 동안 플라이오메트릭 운동과 햄스트링 컬 운동을 병행하였고, 대조군은 일상적인 훈련을 실시하였습니다. 두 그룹의 그룹 내 변화를 분석하기 위해 쌍표본 t-테스트를 ​​사용했고, 두 그룹의 훈련 프로그램 효과를 비교하기 위해 독립 t-테스트를 ​​사용했습니다. 수준 유의성은 p<0.05였습니다. 빠른 볼러의 평균 연령은 실험군(19.33±2.87)과 대조군(19.66±3.02)으로 나타났다. 두 그룹의 놀이 경험은 각각 4.83±1.90과 4.75±2.01로 나타났다. 두 그룹을 비교한 결과, 실험그룹에서는 중재 후 폭발력이 유의하게 향상되었습니다(p<0.05). 그룹 내 분석에서는 실험 그룹이",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171510286": {
    "id": "oa:W7171510286",
@@ -44482,7 +44528,9 @@
    "doi": "10.5281/zenodo.21641287",
    "pdf": "https://doi.org/10.5281/zenodo.21641287",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "이 기사는 가족 기업의 제도적 통합을 유지하는 것이 상속인의 실질적인 상속권을 손상시키지 않으면서 부 보존이라는 마카시드 목표(ḥifẓ al-māl)에 따라 규범적으로 정당화될 수 있다고 주장합니다. 이러한 기반을 바탕으로 경제적 권리와 조직 연속성을 구별하여 이슬람 상속법과 제도적 연속성을 조화시키는 통합 법적 프레임워크인 걸프 스마트 승계 모델(GSSM)을 도입하고, 스마트 규정 준수가 어떻게 GCC 전반에 걸쳐 예방적 승계 거버넌스를 운용할 수 있는지 보여줍니다. 제안된 프레임워크는 예방적 승계 거버넌스를 위한 일관된 규범 기반을 제공하고, 법적 확실성을 강화하고, 비즈니스 연속성을 강화하고, 경제적 회복력을 촉진하고, GCC 전반에 걸쳐 지속 가능한 경제 발전을 지원합니다."
+   "abstract_ko": "이 기사는 가족 기업의 제도적 통합을 유지하는 것이 상속인의 실질적인 상속권을 손상시키지 않으면서 부 보존이라는 마카시드 목표(ḥifẓ al-māl)에 따라 규범적으로 정당화될 수 있다고 주장합니다. 이러한 기반을 바탕으로 경제적 권리와 조직 연속성을 구별하여 이슬람 상속법과 제도적 연속성을 조화시키는 통합 법적 프레임워크인 걸프 스마트 승계 모델(GSSM)을 도입하고, 스마트 규정 준수가 어떻게 GCC 전반에 걸쳐 예방적 승계 거버넌스를 운용할 수 있는지 보여줍니다. 제안된 프레임워크는 예방적 승계 거버넌스를 위한 일관된 규범 기반을 제공하고, 법적 확실성을 강화하고, 비즈니스 연속성을 강화하고, 경제적 회복력을 촉진하고, GCC 전반에 걸쳐 지속 가능한 경제 발전을 지원합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171502299": {
    "id": "oa:W7171502299",
@@ -44501,7 +44549,9 @@
    "doi": "10.5281/zenodo.21641288",
    "pdf": "https://doi.org/10.5281/zenodo.21641288",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "이 기사는 가족 기업의 제도적 통합을 유지하는 것이 상속인의 실질적인 상속권을 손상시키지 않으면서 부 보존이라는 마카시드 목표(ḥifẓ al-māl)에 따라 규범적으로 정당화될 수 있다고 주장합니다. 이러한 기반을 바탕으로 경제적 권리와 조직 연속성을 구별하여 이슬람 상속법과 제도적 연속성을 조화시키는 통합 법적 프레임워크인 걸프 스마트 승계 모델(GSSM)을 도입하고, 스마트 규정 준수가 어떻게 GCC 전반에 걸쳐 예방적 승계 거버넌스를 운용할 수 있는지 보여줍니다. 제안된 프레임워크는 예방적 승계 거버넌스를 위한 일관된 규범 기반을 제공하고, 법적 확실성을 강화하고, 비즈니스 연속성을 강화하고, 경제적 회복력을 촉진하고, GCC 전반에 걸쳐 지속 가능한 경제 발전을 지원합니다."
+   "abstract_ko": "이 기사는 가족 기업의 제도적 통합을 유지하는 것이 상속인의 실질적인 상속권을 손상시키지 않으면서 부 보존이라는 마카시드 목표(ḥifẓ al-māl)에 따라 규범적으로 정당화될 수 있다고 주장합니다. 이러한 기반을 바탕으로 경제적 권리와 조직 연속성을 구별하여 이슬람 상속법과 제도적 연속성을 조화시키는 통합 법적 프레임워크인 걸프 스마트 승계 모델(GSSM)을 도입하고, 스마트 규정 준수가 어떻게 GCC 전반에 걸쳐 예방적 승계 거버넌스를 운용할 수 있는지 보여줍니다. 제안된 프레임워크는 예방적 승계 거버넌스를 위한 일관된 규범 기반을 제공하고, 법적 확실성을 강화하고, 비즈니스 연속성을 강화하고, 경제적 회복력을 촉진하고, GCC 전반에 걸쳐 지속 가능한 경제 발전을 지원합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171554052": {
    "id": "oa:W7171554052",
@@ -44524,7 +44574,9 @@
    "doi": "10.5281/zenodo.21638671",
    "pdf": "https://doi.org/10.5281/zenodo.21638671",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요: 연구 목적은 빠른 볼러의 폭발력과 심박수 회복에 있어 플라이오메트릭 운동과 햄스트링 컬 운동의 기여도를 조사하는 것이었습니다. 사전 및 사후 테스트를 통한 실험적 연구 설계가 활용되었습니다. n=24 표본 크기는 실험 그룹과 전통적 훈련 그룹의 두 그룹으로 할당되었으며 각 그룹에는 12명의 참가자가 있었습니다. Jawad Cricket Club 및 MS Cricket Academy의 16~26세 남성 프로 클럽 크리켓 선수들이 서면 동의를 받은 후 포함되었습니다. 폭발력은 두 그룹 모두 30m 달리기 테스트, 50m 달리기 테스트, 서서 멀리 뛰기 테스트를 통해 측정됐다. 오버 시작 전, 오버 후, 1분 후 심박수 회복 후 실험군 심박수 반응만을 수집하였다. 실험군은 12주 동안 플라이오메트릭 운동과 햄스트링 컬 운동을 병행하였고, 대조군은 일상적인 훈련을 실시하였습니다. 두 그룹의 그룹 내 변화를 분석하기 위해 쌍표본 t-테스트를 ​​사용했고, 두 그룹의 훈련 프로그램 효과를 비교하기 위해 독립 t-테스트를 ​​사용했습니다. 수준 유의성은 p<0.05였습니다. 빠른 볼러의 평균 연령은 실험군(19.33±2.87)과 대조군(19.66±3.02)으로 나타났다. 두 그룹의 놀이 경험은 각각 4.83±1.90과 4.75±2.01로 나타났다. 두 그룹을 비교한 결과, 실험그룹에서는 중재 후 폭발력이 유의하게 향상되었습니다(p<0.05). 그룹 내 분석에서는 실험 그룹이"
+   "abstract_ko": "개요: 연구 목적은 빠른 볼러의 폭발력과 심박수 회복에 있어 플라이오메트릭 운동과 햄스트링 컬 운동의 기여도를 조사하는 것이었습니다. 사전 및 사후 테스트를 통한 실험적 연구 설계가 활용되었습니다. n=24 표본 크기는 실험 그룹과 전통적 훈련 그룹의 두 그룹으로 할당되었으며 각 그룹에는 12명의 참가자가 있었습니다. Jawad Cricket Club 및 MS Cricket Academy의 16~26세 남성 프로 클럽 크리켓 선수들이 서면 동의를 받은 후 포함되었습니다. 폭발력은 두 그룹 모두 30m 달리기 테스트, 50m 달리기 테스트, 서서 멀리 뛰기 테스트를 통해 측정됐다. 오버 시작 전, 오버 후, 1분 후 심박수 회복 후 실험군 심박수 반응만을 수집하였다. 실험군은 12주 동안 플라이오메트릭 운동과 햄스트링 컬 운동을 병행하였고, 대조군은 일상적인 훈련을 실시하였습니다. 두 그룹의 그룹 내 변화를 분석하기 위해 쌍표본 t-테스트를 ​​사용했고, 두 그룹의 훈련 프로그램 효과를 비교하기 위해 독립 t-테스트를 ​​사용했습니다. 수준 유의성은 p<0.05였습니다. 빠른 볼러의 평균 연령은 실험군(19.33±2.87)과 대조군(19.66±3.02)으로 나타났다. 두 그룹의 놀이 경험은 각각 4.83±1.90과 4.75±2.01로 나타났다. 두 그룹을 비교한 결과, 실험그룹에서는 중재 후 폭발력이 유의하게 향상되었습니다(p<0.05). 그룹 내 분석에서는 실험 그룹이",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7170068819": {
    "id": "oa:W7170068819",
@@ -44547,7 +44599,9 @@
    "doi": "10.5281/zenodo.21487086",
    "pdf": "https://doi.org/10.5281/zenodo.21487086",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요: 연구 목적은 빠른 볼러의 폭발력과 심박수 회복에 있어 플라이오메트릭 운동과 햄스트링 컬 운동의 기여도를 조사하는 것이었습니다. 사전 및 사후 테스트를 통한 실험적 연구 설계가 활용되었습니다. n=24 표본 크기는 실험 그룹과 전통적 훈련 그룹의 두 그룹으로 할당되었으며 각 그룹에는 12명의 참가자가 있었습니다. Jawad Cricket Club 및 MS Cricket Academy의 16~26세 남성 프로 클럽 크리켓 선수들이 서면 동의를 받은 후 포함되었습니다. 폭발력은 두 그룹 모두 30m 달리기 테스트, 50m 달리기 테스트, 서서 멀리 뛰기 테스트를 통해 측정됐다. 오버 시작 전, 오버 후, 1분 후 심박수 회복 후 실험군 심박수 반응만을 수집하였다. 실험군은 12주 동안 플라이오메트릭 운동과 햄스트링 컬 운동을 병행하였고, 대조군은 일상적인 훈련을 실시하였습니다. 두 그룹의 그룹 내 변화를 분석하기 위해 쌍표본 t-테스트를 ​​사용했고, 두 그룹의 훈련 프로그램 효과를 비교하기 위해 독립 t-테스트를 ​​사용했습니다. 수준 유의성은 p<0.05였습니다. 빠른 볼러의 평균 연령은 실험군(19.33±2.87)과 대조군(19.66±3.02)으로 나타났다. 두 그룹의 놀이 경험은 각각 4.83±1.90과 4.75±2.01로 나타났다. 두 그룹을 비교한 결과, 실험그룹에서는 중재 후 폭발력이 유의하게 향상되었습니다(p<0.05). 그룹 내 분석에서는 실험 그룹이"
+   "abstract_ko": "개요: 연구 목적은 빠른 볼러의 폭발력과 심박수 회복에 있어 플라이오메트릭 운동과 햄스트링 컬 운동의 기여도를 조사하는 것이었습니다. 사전 및 사후 테스트를 통한 실험적 연구 설계가 활용되었습니다. n=24 표본 크기는 실험 그룹과 전통적 훈련 그룹의 두 그룹으로 할당되었으며 각 그룹에는 12명의 참가자가 있었습니다. Jawad Cricket Club 및 MS Cricket Academy의 16~26세 남성 프로 클럽 크리켓 선수들이 서면 동의를 받은 후 포함되었습니다. 폭발력은 두 그룹 모두 30m 달리기 테스트, 50m 달리기 테스트, 서서 멀리 뛰기 테스트를 통해 측정됐다. 오버 시작 전, 오버 후, 1분 후 심박수 회복 후 실험군 심박수 반응만을 수집하였다. 실험군은 12주 동안 플라이오메트릭 운동과 햄스트링 컬 운동을 병행하였고, 대조군은 일상적인 훈련을 실시하였습니다. 두 그룹의 그룹 내 변화를 분석하기 위해 쌍표본 t-테스트를 ​​사용했고, 두 그룹의 훈련 프로그램 효과를 비교하기 위해 독립 t-테스트를 ​​사용했습니다. 수준 유의성은 p<0.05였습니다. 빠른 볼러의 평균 연령은 실험군(19.33±2.87)과 대조군(19.66±3.02)으로 나타났다. 두 그룹의 놀이 경험은 각각 4.83±1.90과 4.75±2.01로 나타났다. 두 그룹을 비교한 결과, 실험그룹에서는 중재 후 폭발력이 유의하게 향상되었습니다(p<0.05). 그룹 내 분석에서는 실험 그룹이",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203601860": {
    "id": "oa:W7203601860",
@@ -44569,7 +44623,9 @@
    "doi": "10.1093/poq/nfag063",
    "pdf": "https://doi.org/10.1093/poq/nfag063",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "Abstract 인공 지능(AI) 인터뷰는 설문 조사 연구의 깊이와 품질을 향상시킬 수 있는 잠재력을 제공하지만 정치적 태도 측정에 응답자의 피로와 의도하지 않은 결과를 초래할 수도 있습니다. 응답자의 관점에서 볼 때, 더 광범위한 인터뷰는 더 큰 인지적, 시간적 부담을 부과하여 참여도를 감소시키거나 만족도를 높일 수 있습니다. 정치적 행동 연구자의 관점에서 볼 때, 심층 조사는 응답자가 의견을 형성할 때 접근하는 신념이나 주장의 하위 집합을 이동시켜 측정된 태도의 분포와 겉보기 안정성을 변화시킬 수 있습니다. 이러한 역학을 조사하기 위해 대규모의 완전 무작위 실험을 수행합니다. 우리는 AI 중재 인터뷰가 응답자의 명확한 근거의 양과 구체성을 모두 크게 증가시키지만 참가자 만족도의 감소는 미미하며 참가자 롤오프의 증가도 감지하지 못했습니다. 그러나 AI 인터뷰는 후속 응답을 형성하는 것으로 보입니다. AI 상호 작용을 통해 정당성을 제시한 후 응답자는 후속 항목에서 더 큰 양극화를 나타냅니다. 이 결과는 AI 인터뷰가 의견 형성의 인지적 구조를 변경할 수 있음을 시사합니다. 이러한 발견은 AI 인터뷰의 잠재력을 강조하고 AI 인터뷰가 어떻게 태도 변화의 원천이 될 수 있는지에 대한 연구의 필요성을 강조합니다."
+   "abstract_ko": "Abstract 인공 지능(AI) 인터뷰는 설문 조사 연구의 깊이와 품질을 향상시킬 수 있는 잠재력을 제공하지만 정치적 태도 측정에 응답자의 피로와 의도하지 않은 결과를 초래할 수도 있습니다. 응답자의 관점에서 볼 때, 더 광범위한 인터뷰는 더 큰 인지적, 시간적 부담을 부과하여 참여도를 감소시키거나 만족도를 높일 수 있습니다. 정치적 행동 연구자의 관점에서 볼 때, 심층 조사는 응답자가 의견을 형성할 때 접근하는 신념이나 주장의 하위 집합을 이동시켜 측정된 태도의 분포와 겉보기 안정성을 변화시킬 수 있습니다. 이러한 역학을 조사하기 위해 대규모의 완전 무작위 실험을 수행합니다. 우리는 AI 중재 인터뷰가 응답자의 명확한 근거의 양과 구체성을 모두 크게 증가시키지만 참가자 만족도의 감소는 미미하며 참가자 롤오프의 증가도 감지하지 못했습니다. 그러나 AI 인터뷰는 후속 응답을 형성하는 것으로 보입니다. AI 상호 작용을 통해 정당성을 제시한 후 응답자는 후속 항목에서 더 큰 양극화를 나타냅니다. 이 결과는 AI 인터뷰가 의견 형성의 인지적 구조를 변경할 수 있음을 시사합니다. 이러한 발견은 AI 인터뷰의 잠재력을 강조하고 AI 인터뷰가 어떻게 태도 변화의 원천이 될 수 있는지에 대한 연구의 필요성을 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171536905": {
    "id": "oa:W7171536905",
@@ -44586,7 +44642,9 @@
    "doi": "10.5281/zenodo.21640540",
    "pdf": "https://doi.org/10.5281/zenodo.21640540",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "본 연구는 매장의 수직적 전문화를 통해 이르비드 도심의 상업적 이용 패턴을 파악하고, 매장의 현재 형태에서 규칙성을 부여하는 요인을 밝히고자 하였다. 다음 질문에 답하여 이러한 공간에 대한 수요 규모를 결정하는 것 외에도1. Irbed City에서 상업 활동은 공간적으로 어떻게 분포되어 있습니까?2. 활동 유형과 층수는 어떤 관계가 있나요?3. 임대 가격과 매장 높이 사이에는 어떤 관계가 있나요?"
+   "abstract_ko": "본 연구는 매장의 수직적 전문화를 통해 이르비드 도심의 상업적 이용 패턴을 파악하고, 매장의 현재 형태에서 규칙성을 부여하는 요인을 밝히고자 하였다. 다음 질문에 답하여 이러한 공간에 대한 수요 규모를 결정하는 것 외에도1. Irbed City에서 상업 활동은 공간적으로 어떻게 분포되어 있습니까?2. 활동 유형과 층수는 어떤 관계가 있나요?3. 임대 가격과 매장 높이 사이에는 어떤 관계가 있나요?",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171541113": {
    "id": "oa:W7171541113",
@@ -44603,7 +44661,9 @@
    "doi": "10.5281/zenodo.21640539",
    "pdf": "https://doi.org/10.5281/zenodo.21640539",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "본 연구는 매장의 수직적 전문화를 통해 이르비드 도심의 상업적 이용 패턴을 파악하고, 매장의 현재 형태에서 규칙성을 부여하는 요인을 밝히고자 하였다. 다음 질문에 답하여 이러한 공간에 대한 수요 규모를 결정하는 것 외에도1. Irbed City에서 상업 활동은 공간적으로 어떻게 분포되어 있습니까?2. 활동 유형과 층수는 어떤 관계가 있나요?3. 임대 가격과 매장 높이 사이에는 어떤 관계가 있나요?"
+   "abstract_ko": "본 연구는 매장의 수직적 전문화를 통해 이르비드 도심의 상업적 이용 패턴을 파악하고, 매장의 현재 형태에서 규칙성을 부여하는 요인을 밝히고자 하였다. 다음 질문에 답하여 이러한 공간에 대한 수요 규모를 결정하는 것 외에도1. Irbed City에서 상업 활동은 공간적으로 어떻게 분포되어 있습니까?2. 활동 유형과 층수는 어떤 관계가 있나요?3. 임대 가격과 매장 높이 사이에는 어떤 관계가 있나요?",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7164648989": {
    "id": "oa:W7164648989",
@@ -44620,7 +44680,9 @@
    "doi": "10.5281/zenodo.20677186",
    "pdf": "https://doi.org/10.5281/zenodo.20677186",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요: 국가는 국유 기업 내에서 기업 지배구조를 형성하는 데 중요한 역할을 합니다. 짐바브웨에서는 국영 기업이 국가의 사회 경제적 발전에 여전히 중요한 역할을 하고 있습니다. 그러나 부패, 잘못된 관리, 책임 부족과 관련된 거버넌스 실패로 인해 이러한 국영 기업의 국가 성장에 대한 성과와 기여가 약화되었습니다. 본 연구는 입법 체계, 제도적 감독 메커니즘, 거버넌스 개혁 시행에 중점을 두고 짐바브웨 준정부 국가에서 우수한 기업 거버넌스를 추진하는 데 있어 국가의 역할을 조사합니다. 이해관계자 이론을 바탕으로 이 보고서는 소유자이자 규제자로서 국가의 이중 역할을 강조하고 이로 인해 발생하는 내재된 긴장을 탐구합니다. 본 연구는 이사회 구성원, 임원, 라인 관리자, 일반 직원을 대상으로 설문 조사와 인터뷰를 사용하는 서술적 연구 설계를 채택했습니다. 보고서는 짐바브웨 준정부 국가에서 국가 주도의 기업 거버넌스 개혁의 효율성이 정책 프레임워크의 견고성뿐만 아니라 집행의 일관성, 정치적 영향력으로부터의 격리, 감독 기관의 강화에 달려 있다는 결론을 내렸습니다. 일부 연구 권장 사항에는 성과 관리 및 책임 시스템 강화가 포함됩니다. 투명성, 공개 및 재무 보고 개선; 법률 및 규제 집행 프레임워크 강화; 그리고 이사회 임명을 비정치화하는 것"
+   "abstract_ko": "개요: 국가는 국유 기업 내에서 기업 지배구조를 형성하는 데 중요한 역할을 합니다. 짐바브웨에서는 국영 기업이 국가의 사회 경제적 발전에 여전히 중요한 역할을 하고 있습니다. 그러나 부패, 잘못된 관리, 책임 부족과 관련된 거버넌스 실패로 인해 이러한 국영 기업의 국가 성장에 대한 성과와 기여가 약화되었습니다. 본 연구는 입법 체계, 제도적 감독 메커니즘, 거버넌스 개혁 시행에 중점을 두고 짐바브웨 준정부 국가에서 우수한 기업 거버넌스를 추진하는 데 있어 국가의 역할을 조사합니다. 이해관계자 이론을 바탕으로 이 보고서는 소유자이자 규제자로서 국가의 이중 역할을 강조하고 이로 인해 발생하는 내재된 긴장을 탐구합니다. 본 연구는 이사회 구성원, 임원, 라인 관리자, 일반 직원을 대상으로 설문 조사와 인터뷰를 사용하는 서술적 연구 설계를 채택했습니다. 보고서는 짐바브웨 준정부 국가에서 국가 주도의 기업 거버넌스 개혁의 효율성이 정책 프레임워크의 견고성뿐만 아니라 집행의 일관성, 정치적 영향력으로부터의 격리, 감독 기관의 강화에 달려 있다는 결론을 내렸습니다. 일부 연구 권장 사항에는 성과 관리 및 책임 시스템 강화가 포함됩니다. 투명성, 공개 및 재무 보고 개선; 법률 및 규제 집행 프레임워크 강화; 그리고 이사회 임명을 비정치화하는 것",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7164680904": {
    "id": "oa:W7164680904",
@@ -44637,7 +44699,9 @@
    "doi": "10.5281/zenodo.20677187",
    "pdf": "https://doi.org/10.5281/zenodo.20677187",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요: 국가는 국유 기업 내에서 기업 지배구조를 형성하는 데 중요한 역할을 합니다. 짐바브웨에서는 국영 기업이 국가의 사회 경제적 발전에 여전히 중요한 역할을 하고 있습니다. 그러나 부패, 잘못된 관리, 책임 부족과 관련된 거버넌스 실패로 인해 이러한 국영 기업의 국가 성장에 대한 성과와 기여가 약화되었습니다. 본 연구는 입법 체계, 제도적 감독 메커니즘, 거버넌스 개혁 시행에 중점을 두고 짐바브웨 준정부 국가에서 우수한 기업 거버넌스를 추진하는 데 있어 국가의 역할을 조사합니다. 이해관계자 이론을 바탕으로 이 보고서는 소유자이자 규제자로서 국가의 이중 역할을 강조하고 이로 인해 발생하는 내재된 긴장을 탐구합니다. 본 연구는 이사회 구성원, 임원, 라인 관리자, 일반 직원을 대상으로 설문 조사와 인터뷰를 사용하는 서술적 연구 설계를 채택했습니다. 보고서는 짐바브웨 준정부 국가에서 국가 주도의 기업 거버넌스 개혁의 효율성이 정책 프레임워크의 견고성뿐만 아니라 집행의 일관성, 정치적 영향력으로부터의 격리, 감독 기관의 강화에 달려 있다는 결론을 내렸습니다. 일부 연구 권장 사항에는 성과 관리 및 책임 시스템 강화가 포함됩니다. 투명성, 공개 및 재무 보고 개선; 법률 및 규제 집행 프레임워크 강화; 그리고 이사회 임명을 비정치화하는 것"
+   "abstract_ko": "개요: 국가는 국유 기업 내에서 기업 지배구조를 형성하는 데 중요한 역할을 합니다. 짐바브웨에서는 국영 기업이 국가의 사회 경제적 발전에 여전히 중요한 역할을 하고 있습니다. 그러나 부패, 잘못된 관리, 책임 부족과 관련된 거버넌스 실패로 인해 이러한 국영 기업의 국가 성장에 대한 성과와 기여가 약화되었습니다. 본 연구는 입법 체계, 제도적 감독 메커니즘, 거버넌스 개혁 시행에 중점을 두고 짐바브웨 준정부 국가에서 우수한 기업 거버넌스를 추진하는 데 있어 국가의 역할을 조사합니다. 이해관계자 이론을 바탕으로 이 보고서는 소유자이자 규제자로서 국가의 이중 역할을 강조하고 이로 인해 발생하는 내재된 긴장을 탐구합니다. 본 연구는 이사회 구성원, 임원, 라인 관리자, 일반 직원을 대상으로 설문 조사와 인터뷰를 사용하는 서술적 연구 설계를 채택했습니다. 보고서는 짐바브웨 준정부 국가에서 국가 주도의 기업 거버넌스 개혁의 효율성이 정책 프레임워크의 견고성뿐만 아니라 집행의 일관성, 정치적 영향력으로부터의 격리, 감독 기관의 강화에 달려 있다는 결론을 내렸습니다. 일부 연구 권장 사항에는 성과 관리 및 책임 시스템 강화가 포함됩니다. 투명성, 공개 및 재무 보고 개선; 법률 및 규제 집행 프레임워크 강화; 그리고 이사회 임명을 비정치화하는 것",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7163755402": {
    "id": "oa:W7163755402",
@@ -44661,7 +44725,9 @@
    "doi": "10.5281/zenodo.20568901",
    "pdf": "https://doi.org/10.5281/zenodo.20568901",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요: 주요 목표는 전체적인 운동 발달에 대한 기능적 저항 훈련과 전통적인 저항 훈련의 비교 효능을 평가하는 것이었습니다. 현재 연구에서는 젊은 대학 운동선수의 스포츠 성능, 부상 위험 및 운동 효율성에 대한 기존 및 기능적 훈련의 효과를 비교했습니다. 전반적인 운동 발달을 향상시키기 위한 최고의 훈련 기술을 찾는 것이 주요 목표였습니다. 정량적 실험 연구 설계에는 사전 테스트와 사후 테스트가 사용되었습니다. 18세에서 25세 사이의 대학 운동선수 60명을 선택하기 위해 목적적 샘플링이 사용되었습니다. 그들은 무작위로 두 그룹, 즉 기능적 훈련 그룹(n = 30)과 전통적인 훈련 그룹(n = 30)으로 나뉘었습니다. 8주간의 개입 기간 동안 매주 세 번의 훈련 세션이 열렸습니다. 전통적인 훈련 그룹은 기계 기반 저항과 고립된 근육 운동을 하는 반면, 기능적 훈련 그룹은 다관절, 균형, 안정성 및 민첩성 활동에 참여했습니다. 표준화된 성능 테스트(속도, 민첩성, 힘 및 지구력), 부상 위험 평가 척도 및 기능적 움직임 화면(FMS)을 사용하여 움직임 효율성에 대한 데이터를 수집했습니다. 데이터 분석에는 IBM SPSS Statistics(버전 28)가 사용되었습니다. 결과는 기술통계, 대응표본 t-검정, 독립표본 t-검정, 피어슨 상관분석을 이용하여 평가하였다. 두 훈련 접근 방식 모두 성능이 크게 향상되었습니다."
+   "abstract_ko": "개요: 주요 목표는 전체적인 운동 발달에 대한 기능적 저항 훈련과 전통적인 저항 훈련의 비교 효능을 평가하는 것이었습니다. 현재 연구에서는 젊은 대학 운동선수의 스포츠 성능, 부상 위험 및 운동 효율성에 대한 기존 및 기능적 훈련의 효과를 비교했습니다. 전반적인 운동 발달을 향상시키기 위한 최고의 훈련 기술을 찾는 것이 주요 목표였습니다. 정량적 실험 연구 설계에는 사전 테스트와 사후 테스트가 사용되었습니다. 18세에서 25세 사이의 대학 운동선수 60명을 선택하기 위해 목적적 샘플링이 사용되었습니다. 그들은 무작위로 두 그룹, 즉 기능적 훈련 그룹(n = 30)과 전통적인 훈련 그룹(n = 30)으로 나뉘었습니다. 8주간의 개입 기간 동안 매주 세 번의 훈련 세션이 열렸습니다. 전통적인 훈련 그룹은 기계 기반 저항과 고립된 근육 운동을 하는 반면, 기능적 훈련 그룹은 다관절, 균형, 안정성 및 민첩성 활동에 참여했습니다. 표준화된 성능 테스트(속도, 민첩성, 힘 및 지구력), 부상 위험 평가 척도 및 기능적 움직임 화면(FMS)을 사용하여 움직임 효율성에 대한 데이터를 수집했습니다. 데이터 분석에는 IBM SPSS Statistics(버전 28)가 사용되었습니다. 결과는 기술통계, 대응표본 t-검정, 독립표본 t-검정, 피어슨 상관분석을 이용하여 평가하였다. 두 훈련 접근 방식 모두 성능이 크게 향상되었습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7163762656": {
    "id": "oa:W7163762656",
@@ -44685,7 +44751,9 @@
    "doi": "10.5281/zenodo.20568900",
    "pdf": "https://doi.org/10.5281/zenodo.20568900",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요: 주요 목표는 전체적인 운동 발달에 대한 기능적 저항 훈련과 전통적인 저항 훈련의 비교 효능을 평가하는 것이었습니다. 현재 연구에서는 젊은 대학 운동선수의 스포츠 성능, 부상 위험 및 운동 효율성에 대한 기존 및 기능적 훈련의 효과를 비교했습니다. 전반적인 운동 발달을 향상시키기 위한 최고의 훈련 기술을 찾는 것이 주요 목표였습니다. 정량적 실험 연구 설계에는 사전 테스트와 사후 테스트가 사용되었습니다. 18세에서 25세 사이의 대학 운동선수 60명을 선택하기 위해 목적적 샘플링이 사용되었습니다. 그들은 무작위로 두 그룹, 즉 기능적 훈련 그룹(n = 30)과 전통적인 훈련 그룹(n = 30)으로 나뉘었습니다. 8주간의 개입 기간 동안 매주 세 번의 훈련 세션이 열렸습니다. 전통적인 훈련 그룹은 기계 기반 저항과 고립된 근육 운동을 하는 반면, 기능적 훈련 그룹은 다관절, 균형, 안정성 및 민첩성 활동에 참여했습니다. 표준화된 성능 테스트(속도, 민첩성, 힘 및 지구력), 부상 위험 평가 척도 및 기능적 움직임 화면(FMS)을 사용하여 움직임 효율성에 대한 데이터를 수집했습니다. 데이터 분석에는 IBM SPSS Statistics(버전 28)가 사용되었습니다. 결과는 기술통계, 대응표본 t-검정, 독립표본 t-검정, 피어슨 상관분석을 이용하여 평가하였다. 두 훈련 접근 방식 모두 성능이 크게 향상되었습니다."
+   "abstract_ko": "개요: 주요 목표는 전체적인 운동 발달에 대한 기능적 저항 훈련과 전통적인 저항 훈련의 비교 효능을 평가하는 것이었습니다. 현재 연구에서는 젊은 대학 운동선수의 스포츠 성능, 부상 위험 및 운동 효율성에 대한 기존 및 기능적 훈련의 효과를 비교했습니다. 전반적인 운동 발달을 향상시키기 위한 최고의 훈련 기술을 찾는 것이 주요 목표였습니다. 정량적 실험 연구 설계에는 사전 테스트와 사후 테스트가 사용되었습니다. 18세에서 25세 사이의 대학 운동선수 60명을 선택하기 위해 목적적 샘플링이 사용되었습니다. 그들은 무작위로 두 그룹, 즉 기능적 훈련 그룹(n = 30)과 전통적인 훈련 그룹(n = 30)으로 나뉘었습니다. 8주간의 개입 기간 동안 매주 세 번의 훈련 세션이 열렸습니다. 전통적인 훈련 그룹은 기계 기반 저항과 고립된 근육 운동을 하는 반면, 기능적 훈련 그룹은 다관절, 균형, 안정성 및 민첩성 활동에 참여했습니다. 표준화된 성능 테스트(속도, 민첩성, 힘 및 지구력), 부상 위험 평가 척도 및 기능적 움직임 화면(FMS)을 사용하여 움직임 효율성에 대한 데이터를 수집했습니다. 데이터 분석에는 IBM SPSS Statistics(버전 28)가 사용되었습니다. 결과는 기술통계, 대응표본 t-검정, 독립표본 t-검정, 피어슨 상관분석을 이용하여 평가하였다. 두 훈련 접근 방식 모두 성능이 크게 향상되었습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7164848784": {
    "id": "oa:W7164848784",
@@ -44705,7 +44773,9 @@
    "doi": "10.5281/zenodo.20698666",
    "pdf": "https://doi.org/10.5281/zenodo.20698666",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "절차적 개별화란 객관적 또는 개인적 고려에 따른 정당화에 대한 일반적인 규칙에서 벗어나 특정 사건에 적용되는 기소, 수사, 재판 및 항소 방법에 대한 일련의 구체적인 절차 규칙입니다. 이러한 개인화는 형사소송의 일반적인 규칙에서 벗어나는 것이지만, 달성하고자 하는 목표에서는 다르지 않습니다. 절차적 개인화는 징벌적 개인화와 분리될 수 없습니다. 그것은 그것의 연장이며, 그것이 없으면 징벌적인 개인화는 쓸모가 없을 것입니다. 이러한 두 가지 유형의 개별화 사이의 긴밀한 연결은 실체적 형벌규칙과 절차적 형벌규칙의 관계에서 비롯되는데, 이는 실체적 규칙을 관성상태에서 운동 및 적용 상태로 이동시키는 역할을 한다. 더욱이 절차적 개별화는 일반규칙에서 벗어났지만 그 이론적 기반은 형사소송에서 일반규칙의 기초와 거의 동일하다. 이는 공적 권리와 이익, 사적 권리와 이익 사이의 균형 원칙에 기초합니다. 또한 모든 절차적 규칙을 규율하며 절차적 제재가 절차적 규칙을 위반한 정도에 비례하도록 요구하는 일반적인 개념의 비례성의 원칙에 의거하며, 구체적 개념의 비례성은 행위의 중대성 사이의 관계로서 절차적 개별화의 범위 내에서 이루어진다."
+   "abstract_ko": "절차적 개별화란 객관적 또는 개인적 고려에 따른 정당화에 대한 일반적인 규칙에서 벗어나 특정 사건에 적용되는 기소, 수사, 재판 및 항소 방법에 대한 일련의 구체적인 절차 규칙입니다. 이러한 개인화는 형사소송의 일반적인 규칙에서 벗어나는 것이지만, 달성하고자 하는 목표에서는 다르지 않습니다. 절차적 개인화는 징벌적 개인화와 분리될 수 없습니다. 그것은 그것의 연장이며, 그것이 없으면 징벌적인 개인화는 쓸모가 없을 것입니다. 이러한 두 가지 유형의 개별화 사이의 긴밀한 연결은 실체적 형벌규칙과 절차적 형벌규칙의 관계에서 비롯되는데, 이는 실체적 규칙을 관성상태에서 운동 및 적용 상태로 이동시키는 역할을 한다. 더욱이 절차적 개별화는 일반규칙에서 벗어났지만 그 이론적 기반은 형사소송에서 일반규칙의 기초와 거의 동일하다. 이는 공적 권리와 이익, 사적 권리와 이익 사이의 균형 원칙에 기초합니다. 또한 모든 절차적 규칙을 규율하며 절차적 제재가 절차적 규칙을 위반한 정도에 비례하도록 요구하는 일반적인 개념의 비례성의 원칙에 의거하며, 구체적 개념의 비례성은 행위의 중대성 사이의 관계로서 절차적 개별화의 범위 내에서 이루어진다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7164816255": {
    "id": "oa:W7164816255",
@@ -44725,7 +44795,9 @@
    "doi": "10.5281/zenodo.20698667",
    "pdf": "https://doi.org/10.5281/zenodo.20698667",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "절차적 개별화란 객관적 또는 개인적 고려에 따른 정당화에 대한 일반적인 규칙에서 벗어나 특정 사건에 적용되는 기소, 수사, 재판 및 항소 방법에 대한 일련의 구체적인 절차 규칙입니다. 이러한 개인화는 형사소송의 일반적인 규칙에서 벗어나는 것이지만, 달성하고자 하는 목표에서는 다르지 않습니다. 절차적 개인화는 징벌적 개인화와 분리될 수 없습니다. 그것은 그것의 연장이며, 그것이 없으면 징벌적인 개인화는 쓸모가 없을 것입니다. 이러한 두 가지 유형의 개별화 사이의 긴밀한 연결은 실체적 형벌규칙과 절차적 형벌규칙의 관계에서 비롯되는데, 이는 실체적 규칙을 관성상태에서 운동 및 적용 상태로 이동시키는 역할을 한다. 더욱이 절차적 개별화는 일반규칙에서 벗어났지만 그 이론적 기반은 형사소송에서 일반규칙의 기초와 거의 동일하다. 이는 공적 권리와 이익, 사적 권리와 이익 사이의 균형 원칙에 기초합니다. 또한 모든 절차적 규칙을 규율하며 절차적 제재가 절차적 규칙을 위반한 정도에 비례하도록 요구하는 일반적인 개념의 비례성의 원칙에 의거하며, 구체적 개념의 비례성은 행위의 중대성 사이의 관계로서 절차적 개별화의 범위 내에서 이루어진다."
+   "abstract_ko": "절차적 개별화란 객관적 또는 개인적 고려에 따른 정당화에 대한 일반적인 규칙에서 벗어나 특정 사건에 적용되는 기소, 수사, 재판 및 항소 방법에 대한 일련의 구체적인 절차 규칙입니다. 이러한 개인화는 형사소송의 일반적인 규칙에서 벗어나는 것이지만, 달성하고자 하는 목표에서는 다르지 않습니다. 절차적 개인화는 징벌적 개인화와 분리될 수 없습니다. 그것은 그것의 연장이며, 그것이 없으면 징벌적인 개인화는 쓸모가 없을 것입니다. 이러한 두 가지 유형의 개별화 사이의 긴밀한 연결은 실체적 형벌규칙과 절차적 형벌규칙의 관계에서 비롯되는데, 이는 실체적 규칙을 관성상태에서 운동 및 적용 상태로 이동시키는 역할을 한다. 더욱이 절차적 개별화는 일반규칙에서 벗어났지만 그 이론적 기반은 형사소송에서 일반규칙의 기초와 거의 동일하다. 이는 공적 권리와 이익, 사적 권리와 이익 사이의 균형 원칙에 기초합니다. 또한 모든 절차적 규칙을 규율하며 절차적 제재가 절차적 규칙을 위반한 정도에 비례하도록 요구하는 일반적인 개념의 비례성의 원칙에 의거하며, 구체적 개념의 비례성은 행위의 중대성 사이의 관계로서 절차적 개별화의 범위 내에서 이루어진다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7162208971": {
    "id": "oa:W7162208971",
@@ -44742,7 +44814,9 @@
    "doi": "10.5281/zenodo.20352245",
    "pdf": "https://doi.org/10.5281/zenodo.20352245",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요 본 연구는 전자상거래 맥락에서 사용자 인식이 관계를 중재하면서 사용자 인터페이스 디자인과 사용자 경험이 온라인 구매 행동에 어떻게 영향을 미치는지 조사하기 위해 구조 방정식 모델을 개발하고 실증적으로 테스트합니다. 자극 – 유기체 – 반응 패러다임, 계획된 행동 이론, 기술 수용 및 사용의 통합 이론 2를 결합한 통합 이론적 프레임워크를 기반으로 시각적 호소력, 상호 작용, 인지된 사용 용이성, 인지된 유용성 및 인지된 보안을 포함한 사용자 인터페이스 사용자 경험 관련 속성은 중재된 구조 시스템 내의 외생적 잠재 구성으로 개념화됩니다. 베트남 소비자 523명의 데이터는 공분산 기반 구조 방정식 모델링을 사용하여 분석되었습니다. 측정 모델은 만족스러운 신뢰성과 수렴 및 판별 타당성을 보여주는 반면, 구조 모델은 허용 가능한 적합 지수를 나타냅니다. 결과는 상호작용성과 인지된 유용성이 사용자 인식의 가장 강력한 예측 변수로 떠오르면서 모든 가정된 관계를 뒷받침합니다. 또한, 사용자 인식은 디자인 관련 속성을 온라인 구매 행동과 연결하는 중요한 중재자로 확인되었습니다. 방법론적 관점에서 본 연구는 측정 검증 및 간접 효과에 특히 중점을 두고 중재된 잠재 변수 모델의 사양 및 검증을 설명함으로써 구조 방정식 모델링 문헌에 기여합니다."
+   "abstract_ko": "개요 본 연구는 전자상거래 맥락에서 사용자 인식이 관계를 중재하면서 사용자 인터페이스 디자인과 사용자 경험이 온라인 구매 행동에 어떻게 영향을 미치는지 조사하기 위해 구조 방정식 모델을 개발하고 실증적으로 테스트합니다. 자극 – 유기체 – 반응 패러다임, 계획된 행동 이론, 기술 수용 및 사용의 통합 이론 2를 결합한 통합 이론적 프레임워크를 기반으로 시각적 호소력, 상호 작용, 인지된 사용 용이성, 인지된 유용성 및 인지된 보안을 포함한 사용자 인터페이스 사용자 경험 관련 속성은 중재된 구조 시스템 내의 외생적 잠재 구성으로 개념화됩니다. 베트남 소비자 523명의 데이터는 공분산 기반 구조 방정식 모델링을 사용하여 분석되었습니다. 측정 모델은 만족스러운 신뢰성과 수렴 및 판별 타당성을 보여주는 반면, 구조 모델은 허용 가능한 적합 지수를 나타냅니다. 결과는 상호작용성과 인지된 유용성이 사용자 인식의 가장 강력한 예측 변수로 떠오르면서 모든 가정된 관계를 뒷받침합니다. 또한, 사용자 인식은 디자인 관련 속성을 온라인 구매 행동과 연결하는 중요한 중재자로 확인되었습니다. 방법론적 관점에서 본 연구는 측정 검증 및 간접 효과에 특히 중점을 두고 중재된 잠재 변수 모델의 사양 및 검증을 설명함으로써 구조 방정식 모델링 문헌에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7162216225": {
    "id": "oa:W7162216225",
@@ -44759,7 +44833,9 @@
    "doi": "10.5281/zenodo.20352246",
    "pdf": "https://doi.org/10.5281/zenodo.20352246",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "개요 본 연구는 전자상거래 맥락에서 사용자 인식이 관계를 중재하면서 사용자 인터페이스 디자인과 사용자 경험이 온라인 구매 행동에 어떻게 영향을 미치는지 조사하기 위해 구조 방정식 모델을 개발하고 실증적으로 테스트합니다. 자극 – 유기체 – 반응 패러다임, 계획된 행동 이론, 기술 수용 및 사용의 통합 이론 2를 결합한 통합 이론적 프레임워크를 기반으로 시각적 호소력, 상호 작용, 인지된 사용 용이성, 인지된 유용성 및 인지된 보안을 포함한 사용자 인터페이스 사용자 경험 관련 속성은 중재된 구조 시스템 내의 외생적 잠재 구성으로 개념화됩니다. 베트남 소비자 523명의 데이터는 공분산 기반 구조 방정식 모델링을 사용하여 분석되었습니다. 측정 모델은 만족스러운 신뢰성과 수렴 및 판별 타당성을 보여주는 반면, 구조 모델은 허용 가능한 적합 지수를 나타냅니다. 결과는 상호작용성과 인지된 유용성이 사용자 인식의 가장 강력한 예측 변수로 떠오르면서 모든 가정된 관계를 뒷받침합니다. 또한, 사용자 인식은 디자인 관련 속성을 온라인 구매 행동과 연결하는 중요한 중재자로 확인되었습니다. 방법론적 관점에서 본 연구는 측정 검증 및 간접 효과에 특히 중점을 두고 중재된 잠재 변수 모델의 사양 및 검증을 설명함으로써 구조 방정식 모델링 문헌에 기여합니다."
+   "abstract_ko": "개요 본 연구는 전자상거래 맥락에서 사용자 인식이 관계를 중재하면서 사용자 인터페이스 디자인과 사용자 경험이 온라인 구매 행동에 어떻게 영향을 미치는지 조사하기 위해 구조 방정식 모델을 개발하고 실증적으로 테스트합니다. 자극 – 유기체 – 반응 패러다임, 계획된 행동 이론, 기술 수용 및 사용의 통합 이론 2를 결합한 통합 이론적 프레임워크를 기반으로 시각적 호소력, 상호 작용, 인지된 사용 용이성, 인지된 유용성 및 인지된 보안을 포함한 사용자 인터페이스 사용자 경험 관련 속성은 중재된 구조 시스템 내의 외생적 잠재 구성으로 개념화됩니다. 베트남 소비자 523명의 데이터는 공분산 기반 구조 방정식 모델링을 사용하여 분석되었습니다. 측정 모델은 만족스러운 신뢰성과 수렴 및 판별 타당성을 보여주는 반면, 구조 모델은 허용 가능한 적합 지수를 나타냅니다. 결과는 상호작용성과 인지된 유용성이 사용자 인식의 가장 강력한 예측 변수로 떠오르면서 모든 가정된 관계를 뒷받침합니다. 또한, 사용자 인식은 디자인 관련 속성을 온라인 구매 행동과 연결하는 중요한 중재자로 확인되었습니다. 방법론적 관점에서 본 연구는 측정 검증 및 간접 효과에 특히 중점을 두고 중재된 잠재 변수 모델의 사양 및 검증을 설명함으로써 구조 방정식 모델링 문헌에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7131438811": {
    "id": "oa:W7131438811",
@@ -44778,7 +44854,9 @@
    "doi": "10.1080/10618600.2026.2719812",
    "pdf": "https://doi.org/10.48550/arxiv.2602.21130",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "이 문서에서는 투영 추적 트리 분류기의 향상된 기능과 고차원에서의 영향을 평가하기 위한 시각적 진단 방법을 제시합니다. 원래 알고리즘은 깊이가 클래스 수보다 작게 제한되는 트리 구조의 변수 선형 조합을 사용합니다. 이는 복잡한 분류 문제에 대해 너무 엄격한 제한 사항입니다. 우리의 확장은 투영 추구 계산에서 더 많은 분할과 더 유연한 클래스 그룹화를 허용함으로써 불평등 분산-공분산 구조와 비선형 클래스 분리를 ​​사용하여 다중 클래스 설정에서 성능을 향상시킵니다. 알고리즘 개선을 제안하는 것은 간단합니다. 실제 유용성을 입증하는 것은 아닙니다. 따라서 우리는 향상된 기능이 의도한 대로 작동하는지 확인하기 위해 두 가지 시각적 진단 접근 방식을 개발합니다. 고차원 시각화 기술을 사용하여 벤치마크 데이터 세트에 대한 모델 적합성을 검사하여 알고리즘이 이론대로 작동하는지 평가합니다. 대화형 웹 애플리케이션을 통해 사용자는 통제된 시나리오에서 원본 분류자와 향상된 분류자의 동작을 모두 탐색할 수 있습니다. 향상된 기능은 CRAN에서 사용할 수 있는 R 패키지 PPtreeExt에서 구현됩니다."
+   "abstract_ko": "이 문서에서는 투영 추적 트리 분류기의 향상된 기능과 고차원에서의 영향을 평가하기 위한 시각적 진단 방법을 제시합니다. 원래 알고리즘은 깊이가 클래스 수보다 작게 제한되는 트리 구조의 변수 선형 조합을 사용합니다. 이는 복잡한 분류 문제에 대해 너무 엄격한 제한 사항입니다. 우리의 확장은 투영 추구 계산에서 더 많은 분할과 더 유연한 클래스 그룹화를 허용함으로써 불평등 분산-공분산 구조와 비선형 클래스 분리를 ​​사용하여 다중 클래스 설정에서 성능을 향상시킵니다. 알고리즘 개선을 제안하는 것은 간단합니다. 실제 유용성을 입증하는 것은 아닙니다. 따라서 우리는 향상된 기능이 의도한 대로 작동하는지 확인하기 위해 두 가지 시각적 진단 접근 방식을 개발합니다. 고차원 시각화 기술을 사용하여 벤치마크 데이터 세트에 대한 모델 적합성을 검사하여 알고리즘이 이론대로 작동하는지 평가합니다. 대화형 웹 애플리케이션을 통해 사용자는 통제된 시나리오에서 원본 분류자와 향상된 분류자의 동작을 모두 탐색할 수 있습니다. 향상된 기능은 CRAN에서 사용할 수 있는 R 패키지 PPtreeExt에서 구현됩니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4330339463": {
    "id": "oa:W4330339463",
@@ -44797,7 +44875,9 @@
    "doi": "10.1080/10618600.2026.2652933",
    "pdf": "https://arxiv.org/pdf/2303.10690",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "우리는 잠재 위치가 일반적으로 무작위 그래프에서 관찰할 수 없기 때문에 어려운 문제인 두 개의 잠재 위치 무작위 그래프 간의 상관 관계를 평가하는 문제를 연구합니다. 우리는 재생 커널 힐베르트 공간에서 정의되고 단지 인접 행렬의 스펙트럼 분해를 사용하는 상관 계수를 도입합니다. 우리는 커널 함수가 지정되지 않은 경우에도 샘플 그래프 공분산이 모집단 버전에 확률적으로 수렴한다는 것을 보여줍니다. 우리는 두 개의 무작위 그래프 사이의 독립성을 테스트하기 위해 순열 절차를 추가로 설계합니다. 우리는 시뮬레이션과 실제 데이터 분석을 통해 제안의 성능을 평가하고 정규화된 라플라시안 행렬과 불균일한 무작위 그래프의 스펙트럼 분해로 제안을 확장합니다."
+   "abstract_ko": "우리는 잠재 위치가 일반적으로 무작위 그래프에서 관찰할 수 없기 때문에 어려운 문제인 두 개의 잠재 위치 무작위 그래프 간의 상관 관계를 평가하는 문제를 연구합니다. 우리는 재생 커널 힐베르트 공간에서 정의되고 단지 인접 행렬의 스펙트럼 분해를 사용하는 상관 계수를 도입합니다. 우리는 커널 함수가 지정되지 않은 경우에도 샘플 그래프 공분산이 모집단 버전에 확률적으로 수렴한다는 것을 보여줍니다. 우리는 두 개의 무작위 그래프 사이의 독립성을 테스트하기 위해 순열 절차를 추가로 설계합니다. 우리는 시뮬레이션과 실제 데이터 분석을 통해 제안의 성능을 평가하고 정규화된 라플라시안 행렬과 불균일한 무작위 그래프의 스펙트럼 분해로 제안을 확장합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4416540558": {
    "id": "oa:W4416540558",
@@ -44814,9 +44894,11 @@
    "abstract": "Abstract Motivated by distinct walking patterns in real-world free-living gait data, this paper proposes an innovative curve-based sampling scheme for the analysis of functional data characterized by a mixture of covariance structures. Traditional approaches often fail to adequately capture inherent complexities arising from heterogeneous covariance patterns across distinct subsets of the data. We introduce a unified Bayesian framework that integrates a nonlinear regression function with a continuous-time hidden Markov model, enabling the identification and utilization of varying covariance structures. One of the key contributions is the development of a computationally efficient curve-based sampling scheme for hidden state estimation, addressing the sampling complexities associated with high-dimensional, conditionally dependent data. This paper details the Bayesian inference procedure, examines the asymptotic properties to ensure the structural consistency of the model, and demonstrates its effectiveness through simulated and real-world examples.",
    "url": "https://doi.org/10.1007/s11222-026-10954-1",
    "doi": "10.1007/s11222-026-10954-1",
-   "pdf": "https://doi.org/10.1007/s11222-026-10954-1",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-10954-1.pdf",
    "first_seen": "2026-08-19T07:48:41+09:00",
-   "abstract_ko": "Abstract 실제 자유로운 생활 보행 데이터의 뚜렷한 걷기 패턴을 기반으로 본 논문에서는 공분산 구조의 혼합을 특징으로 하는 기능 데이터 분석을 위한 혁신적인 곡선 기반 샘플링 방식을 제안합니다. 기존 접근 방식은 데이터의 개별 하위 집합에 걸친 이질적인 공분산 패턴으로 인해 발생하는 고유한 복잡성을 적절하게 포착하지 못하는 경우가 많습니다. 비선형 회귀 함수와 연속 시간 은닉 마르코프 모델을 통합하여 다양한 공분산 구조를 식별하고 활용할 수 있는 통합 베이지안 프레임워크를 소개합니다. 주요 기여 중 하나는 숨겨진 상태 추정을 위한 계산적으로 효율적인 곡선 기반 샘플링 방식을 개발하여 고차원 조건부 종속 데이터와 관련된 샘플링 복잡성을 해결하는 것입니다. 이 문서에서는 베이지안 추론 절차를 자세히 설명하고, 모델의 구조적 일관성을 보장하기 위해 점근적 특성을 검사하며, 시뮬레이션 및 실제 사례를 통해 모델의 효율성을 보여줍니다."
+   "abstract_ko": "Abstract 실제 자유로운 생활 보행 데이터의 뚜렷한 걷기 패턴을 기반으로 본 논문에서는 공분산 구조의 혼합을 특징으로 하는 기능 데이터 분석을 위한 혁신적인 곡선 기반 샘플링 방식을 제안합니다. 기존 접근 방식은 데이터의 개별 하위 집합에 걸친 이질적인 공분산 패턴으로 인해 발생하는 고유한 복잡성을 적절하게 포착하지 못하는 경우가 많습니다. 비선형 회귀 함수와 연속 시간 은닉 마르코프 모델을 통합하여 다양한 공분산 구조를 식별하고 활용할 수 있는 통합 베이지안 프레임워크를 소개합니다. 주요 기여 중 하나는 숨겨진 상태 추정을 위한 계산적으로 효율적인 곡선 기반 샘플링 방식을 개발하여 고차원 조건부 종속 데이터와 관련된 샘플링 복잡성을 해결하는 것입니다. 이 문서에서는 베이지안 추론 절차를 자세히 설명하고, 모델의 구조적 일관성을 보장하기 위해 점근적 특성을 검사하며, 시뮬레이션 및 실제 사례를 통해 모델의 효율성을 보여줍니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7203578841": {
    "id": "oa:W7203578841",
@@ -44835,7 +44917,762 @@
    "doi": "10.1080/07474938.2026.2708307",
    "pdf": "",
    "first_seen": "2026-08-19T07:48:41+09:00",
+   "abs_tries": 2,
+   "ko_tries": 0
+  },
+  "oa:W7203702692": {
+   "id": "oa:W7203702692",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Paradox of Digital Citizen Engagement: Understanding the Silent Majority",
+   "authors": [
+    "Deepanshi Singharia",
+    "Shekhar Upadhyay",
+    "Vibhooti Narayan"
+   ],
+   "journal": "Indian Journal of Public Administration",
+   "date": "2026-08-18",
+   "abstract": "Despite the proliferation of internet access and ongoing governmental initiatives, the engagement of citizens with digital governance platforms continues to be markedly constrained. Situated within the framework of the e-participation paradigm, this research investigates digital participation as a catalyst for service responsiveness, institutional trust and the perceived quality of life. A systematic review adhering to PRISMA guidelines (2010–2023), coupled with a qualitative case study of India’s MyGov platform, delineates seven obstacles to e-participation, which are classified into technical (digital illiteracy, connectivity deficiencies and accessibility limitations) and non-technical (distrust, political disengagement, insufficient awareness and agenda misalignment) categories. Exploratory interviews conducted with university/college students unveil a paradox: Digital competence does not guarantee engagement when the perceived relevance and policy responsiveness are inadequate. The results indicate that the enhancement of digital governance necessitates not only infrastructural development but also a persistent commitment to institutional responsiveness in order to fortify legitimacy and citizens’ trust.",
+   "url": "https://doi.org/10.1177/00195561261476650",
+   "doi": "10.1177/00195561261476650",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "인터넷 접속의 확산과 지속적인 정부 이니셔티브에도 불구하고 디지털 거버넌스 플랫폼에 대한 시민의 참여는 계속해서 현저하게 제한되고 있습니다. e-참여 패러다임의 틀 내에 위치한 이 연구는 서비스 응답성, 제도적 신뢰 및 인지된 삶의 질을 위한 촉매제로서 디지털 참여를 조사합니다. PRISMA 지침(2010-2023)을 준수하는 체계적 검토는 인도 MyGov 플랫폼에 대한 질적 사례 연구와 결합되어 전자 참여에 대한 7가지 장애물을 설명합니다. 이는 기술적(디지털 문맹, 연결성 결함 및 접근성 제한) 및 비기술적(불신, 정치적 분리, 인식 부족 및 의제 불일치) 범주로 분류됩니다. 대학생을 대상으로 실시한 탐색적 인터뷰는 역설을 드러냈습니다. 디지털 역량은 인식된 관련성과 정책 대응성이 부적절할 때 참여를 보장하지 않습니다. 결과는 디지털 거버넌스의 강화에는 합법성과 시민의 신뢰를 강화하기 위해 인프라 개발뿐만 아니라 제도적 대응에 대한 지속적인 노력이 필요하다는 것을 나타냅니다."
+  },
+  "oa:W7203675348": {
+   "id": "oa:W7203675348",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Classifying Arts and Culture Organizations for Effective Comparative Research",
+   "authors": [
+    "Trevor Meagher",
+    "Karabi Bezboruah"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-08-18",
+   "abstract": "Overlapping and competing taxonomical systems are persistent barriers to comparative research in the cultural sector. Cross-discipline studies typically navigate this challenge by relying on a single taxonomical datapoint. However, data quality issues and the inconsistent application of each system amplify the validity risks inherent in this practice. In this study, we demonstrate a systematic-yet-flexible protocol that groups organizations by reconciling taxonomical discrepancies and incorporating mission sensitivity. Drawing from a dataset of 2,044 cultural-sector organizations provided by SMU DataArts, we use this technique to combine NTEE data with arts-focused National Information Systems Project (NISP) codes and map 11 aggregated organizational categories. We validate this process through an audit against National Center for Charitable Statistics data. By focusing on firm-level coding accuracy and datapoint triangulation, this protocol addresses a common challenge for arts-sector studies. We also discuss this technique’s transferability to other nonprofit sectors and its potential for facilitating cross-sector research.",
+   "url": "https://doi.org/10.1177/08997640261476629",
+   "doi": "10.1177/08997640261476629",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "중복되고 경쟁하는 분류 체계는 문화 부문의 비교 연구에 지속적인 장벽이 됩니다. 교차 분야 연구는 일반적으로 단일 분류학적 데이터 포인트에 의존하여 이 문제를 해결합니다. 그러나 데이터 품질 문제와 각 시스템의 일관되지 않은 적용은 이 관행에 내재된 타당성 위험을 증폭시킵니다. 본 연구에서는 분류학적 불일치를 조정하고 임무 민감도를 통합하여 조직을 그룹화하는 체계적이면서도 유연한 프로토콜을 보여줍니다. SMU DataArts에서 제공한 2,044개 문화 부문 조직의 데이터 세트에서 이 기술을 사용하여 NTEE 데이터를 예술 중심 NISP(국가 정보 시스템 프로젝트) 코드와 결합하고 11개의 집계된 조직 범주를 매핑합니다. 우리는 국립 자선 통계 센터 데이터에 대한 감사를 통해 이 프로세스를 검증합니다. 회사 수준의 코딩 정확성과 데이터포인트 삼각 측량에 중점을 두어 이 프로토콜은 예술 부문 연구의 일반적인 과제를 해결합니다. 또한 이 기술의 다른 비영리 부문으로의 이전 가능성과 부문 간 연구를 촉진할 수 있는 잠재력에 대해서도 논의합니다."
+  },
+  "oa:W7203662729": {
+   "id": "oa:W7203662729",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Beyond Burnout: Determinants and Consequences of Sustainable Nonprofit Leadership",
+   "authors": [
+    "Jeffrey D. Frey",
+    "Gordon Wightman",
+    "James Gaskin"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-08-18",
+   "abstract": "Much of the scholarship on leadership wellbeing and effectiveness has focused on ways to avoid burnout, rather than explaining how leaders actively sustain wellbeing and effectiveness over time. This paper integrates multiple theoretical frames using an exploratory, sequential mixed-methods design to identify both the determinants and downstream consequences of sustainable leadership in nonprofit organizations. In Phase 1, qualitative interviews with nonprofit CEOs and their spouses reveal that mission focus, relationship mastery, and regular self-care consistently differentiated sustainable from unsustainable CEOs. In Phase 2, structural equation and autoregressive modeling using two-wave data from leaders, their spouses, and direct reports show that leadership style, wellbeing practices, and relationship mastery shape leadership wellbeing, which in turn supports leadership effectiveness. IRS Form 990 data further indicate that higher leadership effectiveness is associated with stronger nonprofit organizational performance. Finally, this study offers theoretically grounded and practical recommendations to support nonprofit leaders and strengthen long-term leadership sustainability.",
+   "url": "https://doi.org/10.1177/08997640261467020",
+   "doi": "10.1177/08997640261467020",
+   "pdf": "https://doi.org/10.1177/08997640261467020",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "리더십 웰빙과 효율성에 관한 연구의 대부분은 리더가 시간이 지남에 따라 웰빙과 효율성을 적극적으로 유지하는 방법을 설명하기보다는 탈진을 방지하는 방법에 초점을 맞춰 왔습니다. 이 문서는 비영리 조직에서 지속 가능한 리더십의 결정 요인과 다운스트림 결과를 모두 식별하기 위해 탐구적이고 순차적인 혼합 방법 설계를 사용하여 여러 이론적 프레임을 통합합니다. 1단계에서는 비영리 CEO 및 그 배우자와의 정성적 인터뷰를 통해 사명 집중, 관계 숙달, 정기적인 자기 관리가 지속 가능한 CEO와 지속 불가능한 CEO를 일관되게 차별화한다는 사실이 밝혀졌습니다. 2단계에서는 리더, 배우자, 부하 직원의 2파 데이터를 사용한 구조 방정식 및 자동회귀 모델링을 통해 리더십 스타일, 웰빙 실천, 관계 숙달이 리더십 웰빙을 형성하고, 이는 결국 리더십 효율성을 지원한다는 사실을 보여줍니다. IRS 양식 990 데이터는 더 높은 리더십 효율성이 더 강력한 비영리 조직 성과와 연관되어 있음을 추가로 나타냅니다. 마지막으로, 이 연구는 비영리 리더를 지원하고 장기적인 리더십 지속 가능성을 강화하기 위한 이론적으로 근거 있고 실용적인 권장 사항을 제공합니다."
+  },
+  "oa:W7203711039": {
+   "id": "oa:W7203711039",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Insider’s Dilemma: Government Ties, Performance, and Public Trust in Environmental NGOs",
+   "authors": [
+    "Can Meng",
+    "Carlos Wing‐Hung Lo",
+    "Ning Liu"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-08-18",
+   "abstract": "Environmental nongovernmental organizations (ENGOs) are key players in environmental governance, yet their connections with governments can shape public trust in complex ways. Challenging the assumption that closer nongovernmental organization (NGO)–government ties enhance legitimacy, this study examines how such ties affect trust, particularly under varying perceptions of governmental environmental performance. Through an online survey experiment in China, we find that government ties in the form of formal officials serving as board members generally weaken public trust in ENGOs, despite small effect sizes, with stronger effects when citizens perceive poor government environmental performance. The findings reveal a paradox: while citizens value ENGO independence, they also expect ENGOs to collaborate with capable governments. Overall, the study highlights the importance of state–NGO interactions in shaping public trust and underscores the need for ENGOs to balance access to state resources with organizational autonomy.",
+   "url": "https://doi.org/10.1177/08997640261462946",
+   "doi": "10.1177/08997640261462946",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "ENGO(환경 비정부 기구)는 환경 거버넌스의 주요 주체이지만 정부와의 관계는 복잡한 방식으로 대중의 신뢰를 형성할 수 있습니다. 본 연구는 비정부기구(NGO)와 정부의 긴밀한 유대 관계가 합법성을 향상시킨다는 가정에 도전하면서, 특히 정부의 환경 성과에 대한 다양한 인식 하에서 이러한 관계가 신뢰에 어떤 영향을 미치는지 조사합니다. 중국의 온라인 조사 실험을 통해 우리는 이사회 구성원으로 활동하는 공식 공무원 형태의 정부 관계가 작은 효과 크기에도 불구하고 일반적으로 ENGO에 대한 대중의 신뢰를 약화시키고 시민들이 정부의 환경 성과가 좋지 않다고 인식할 때 더 큰 영향을 미친다는 사실을 발견했습니다. 연구 결과는 역설을 드러냈습니다. 시민들은 ENGO 독립성을 중요시하면서도 ENGO가 유능한 정부와 협력하기를 기대하기도 했습니다. 전반적으로, 이 연구는 대중의 신뢰를 형성하는 데 있어 국가-NGO 상호 작용의 중요성을 강조하고 ENGO가 국가 자원에 대한 접근과 조직 자율성의 균형을 맞출 필요성을 강조합니다."
+  },
+  "oa:W7203691277": {
+   "id": "oa:W7203691277",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Debate: The British racial state",
+   "authors": [
+    "Temidayo Eseonu"
+   ],
+   "journal": "Public Money & Management",
+   "date": "2026-08-18",
+   "abstract": "Historical reality is completely obfuscated in the myth of an all-inclusive contract creating a sociopolitical order presided over by a neutral state equally responsive to all its colourless citize...",
+   "url": "https://doi.org/10.1080/09540962.2026.2711938",
+   "doi": "10.1080/09540962.2026.2711938",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "역사적 현실은 모든 것을 포괄하는 계약이 모든 무색의 시민에게 동등하게 반응하는 중립 국가가 주재하는 사회정치적 질서를 창출한다는 신화 속에서 완전히 모호해집니다."
+  },
+  "oa:W4414870233": {
+   "id": "oa:W4414870233",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Gender and urban fiscal governance: evidence from female leadership in Indian municipal corporations",
+   "authors": [
+    "Avik W. Ghosh"
+   ],
+   "journal": "Local Government Studies",
+   "date": "2026-08-18",
+   "abstract": "This study examines how female leadership shapes fiscal outcomes in India's Municipal Corporations, which, despite comprising only 5.5% of Urban Local Bodies, control 60-65% of aggregate municipal revenues. Integrating representative bureaucracy and fiscal federalism theories, we analyze a novel panel dataset of 201 corporations over 2018-2024-hand-curated leadership records and detailed budgets-supplemented by state-level aggregates from RBI reports (2022, 2024). Employing two-way fixed effects, instrumental variables, and Callaway-Sant'Anna staggered difference-indifferences , we find that female-led corporations expand total budgets by 15-20%, strengthen own-source revenue through enhanced tax and user-charge collection, and reallocate expenditures toward service delivery. Dynamic analysis reveals pronounced fiscal shifts within the first year of tenure. The findings provide the first evidence of gendered fiscal dynamics in Indian cities and carry direct implications for gender-responsive reforms in urban public finance. Findings also inform policy prescriptions, namely, strengthening mayoral authority, synchronizing tenures with budget cycles, and embedding gender-responsive performance metrics in intergovernmental transfers.",
+   "url": "https://doi.org/10.1080/03003930.2026.2720822",
+   "doi": "10.1080/03003930.2026.2720822",
+   "pdf": "https://doi.org/10.2139/ssrn.5527099",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "본 연구에서는 도시 지방 기관의 5.5%만 구성되어 있음에도 불구하고 총 지방 자치 단체 수입의 60-65%를 통제하는 인도 지방 자치 단체의 재정 결과에 여성 리더십이 어떻게 영향을 미치는지 조사합니다. 대표적인 관료주의와 재정 연방주의 이론을 통합하여 우리는 RBI 보고서(2022, 2024)의 주 차원 집계로 보충된 2018~2024년 직접 관리한 리더십 기록과 세부 예산에 대한 201개 기업의 새로운 패널 데이터세트를 분석합니다. 양방향 고정 효과, 도구 변수 및 Callaway-Sant'Anna 시차차이무차별을 사용하여 여성이 주도하는 기업이 총 예산을 15-20% 확장하고 향상된 세금 및 사용자 요금 징수를 통해 자체 소스 수익을 강화하며 지출을 서비스 제공에 재분배하는 것으로 나타났습니다. 동적 분석을 통해 임기 첫 해에 뚜렷한 재정 변화가 나타났습니다. 이번 연구 결과는 인도 도시의 성별에 따른 재정 역학에 대한 최초의 증거를 제공하며 도시 공공 재정의 성별에 따른 개혁에 직접적인 영향을 미칩니다. 조사 결과는 또한 시장 권한 강화, 재직 기간을 예산 주기와 동기화, 정부 간 이전에 성별에 따른 성과 지표 삽입 등 정책 처방에 대한 정보를 제공합니다."
+  },
+  "oa:W7203685451": {
+   "id": "oa:W7203685451",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Debate: Why NATO’s 5% cash spending target needs accrual transparency",
+   "authors": [
+    "F.D.J. van Schaik"
+   ],
+   "journal": "Public Money & Management",
+   "date": "2026-08-18",
+   "abstract": "NATO’s new defence commitment states that, by 2035, allies should spend 5% of GDP on defence, comprising at least 3.5% for core defence requirements and up to 1.5% for broader defence- and security...",
+   "url": "https://doi.org/10.1080/09540962.2026.2717353",
+   "doi": "10.1080/09540962.2026.2717353",
+   "pdf": "https://doi.org/10.1080/09540962.2026.2717353",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "NATO의 새로운 국방 공약에는 동맹국이 2035년까지 GDP의 5%를 국방에 지출해야 한다고 명시되어 있습니다. 이는 핵심 국방 요구 사항에 최소 3.5%, 보다 광범위한 국방 및 안보에 최대 1.5%를 포함합니다."
+  },
+  "oa:W7203669053": {
+   "id": "oa:W7203669053",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Governing Before the State: Indigenous Javanese Administrative Theory",
+   "authors": [
+    "Dede Puji Setiono"
+   ],
+   "journal": "Public Administration Review",
+   "date": "2026-08-18",
+   "abstract": "ABSTRACT Public administration scholarship often treats the Weberian ideal type as a universal model of bureaucracy, making governance arrangements that differ from it appear deficient rather than different. A decolonizing approach instead asks whether non‐Western historical records can offer alternative ways of theorizing governance. This study explores that possibility through the Nagarakretagama, a 14th‐century Javanese court eulogy composed by Mpu Prapanca in 1365, which predates Machiavelli's The Prince by 148 years. Qualitative content analysis of all 98 cantos identifies five governance domains: bureaucratic hierarchy, mandala‐based territorial administration, conditional fiscal exemptions, a legal order combining written law and custom, and ceremonial practices integrated with administration. These dimensions show how the Javanese empire organized authority, territory, revenue, law, and legitimacy through institutional arrangements that differ from the Weberian model. Reading this governance system as theory reveals an alternative conceptualization of administration and advances a decolonizing, pluriversal approach to public administration.",
+   "url": "https://doi.org/10.1111/puar.70184",
+   "doi": "10.1111/puar.70184",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "개요 공공행정학에서는 종종 베버의 이상형을 관료주의의 보편적 모델로 취급하여, 이와 다른 거버넌스 방식을 다르지 않고 결함이 있는 것으로 보이게 만듭니다. 대신에 탈식민지화 접근 방식은 비서구 역사 기록이 거버넌스를 이론화하는 대안적 방법을 제공할 수 있는지 묻습니다. 본 연구는 마키아벨리의 『왕자』보다 148년 앞선 1365년 음푸 프라판차(Mpu Prapanca)가 작곡한 14세기 자바 궁중 추도문인 나가라크레타가마(Nagarakretagama)를 통해 그 가능성을 탐구합니다. 98개 칸토 전체에 대한 질적 내용 분석을 통해 관료적 계층 구조, 만다라 기반 영토 행정, 조건부 재정 면제, 성문법과 관습을 결합한 법적 질서, 행정과 통합된 의식 관행 등 5가지 거버넌스 영역이 식별됩니다. 이러한 차원은 자바 제국이 베버 모델과 다른 제도적 장치를 통해 권위, 영토, 수입, 법률 및 정당성을 어떻게 조직했는지 보여줍니다. 이 거버넌스 시스템을 이론으로 읽는 것은 행정에 대한 대안적인 개념을 드러내고 공공 행정에 대한 탈식민지화, 다원적 접근 방식을 발전시킵니다."
+  },
+  "oa:W7203685671": {
+   "id": "oa:W7203685671",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Reform Begets Reform: Reform Memory and the Dynamics of Pension Policy Change",
+   "authors": [
+    "Kennedy K. Abrokwa",
+    "Christopher Boadi‐Mensah"
+   ],
+   "journal": "Social Policy and Administration",
+   "date": "2026-08-18",
+   "abstract": "ABSTRACT Building on theories of path dependence and policy feedback, this paper examines whether pension reform exhibits Reform Memory, the tendency for recent reform history to influence the probability of subsequent policy change. While existing research highlights the importance of historical legacies in shaping public policy, little systematic evidence exists on whether pension reforms themselves exhibit a measurable and predictable temporal structure. Using a newly constructed global database of 790 pension reform events across 183 countries from 2000 to 2024, we analyse the dynamics of major structural and parametric pension reforms. Employing rare‐events logit models and a range of robustness exercises, we find strong evidence of a highly non‐linear form of reform memory in pension policymaking. Countries that experienced a major reform within the previous 2 years exhibit a major reform probability of 10.1%, compared with only 1.0% among countries whose previous reform occurred more than a decade earlier. This reform‐memory effect remains robust across alternative reform definitions, reform‐intensity measures and regional subsamples. By contrast, conventional determinants, including population ageing, public debt, inflation and economic growth, display weak or inconsistent explanatory power. The findings indicate that pension reforms do not occur as isolated responses to contemporary pressures. Instead, reform activity exhibits strong temporal dependence, clustering within short‐lived periods of elevated policy activity before reverting to longer periods of institutional stability. More broadly, the paper provides systematic cross‐national evidence that pension systems evolve through reform cycles rather than a sequence of independent legislative events.",
+   "url": "https://doi.org/10.1111/spol.70102",
+   "doi": "10.1111/spol.70102",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "개요 경로 의존성 및 정책 피드백 이론을 바탕으로 이 논문은 연금 개혁이 개혁 기억, 즉 최근 개혁 이력이 후속 정책 변화 가능성에 영향을 미치는 경향을 나타내는지 여부를 조사합니다. 기존 연구는 공공 정책 형성에 있어서 역사적 유산의 중요성을 강조하지만, 연금 개혁 자체가 측정 가능하고 예측 가능한 시간적 구조를 나타내는지에 대한 체계적인 증거는 거의 없습니다. 2000년부터 2024년까지 183개국에 걸쳐 790건의 연금 개혁 사건에 대해 새로 구축된 글로벌 데이터베이스를 사용하여 우리는 주요 구조적 및 매개변수적 연금 개혁의 역학을 분석합니다. 희귀 사건 로짓 모델과 다양한 견고성 연습을 사용하여 우리는 연금 정책 결정에서 매우 비선형적인 형태의 개혁 기억에 대한 강력한 증거를 발견했습니다. 지난 2년 이내에 주요 개혁을 경험한 국가는 10.1%의 주요 개혁 확률을 보인 반면, 10년 이상 전에 이전 개혁을 수행한 국가는 1.0%에 불과했습니다. 이러한 개혁 기억 효과는 대안적 개혁 정의, 개혁 강도 측정 및 지역 하위 표본 전반에 걸쳐 여전히 강력합니다. 이와 대조적으로, 인구 고령화, 공공부채, 인플레이션, 경제성장 등 기존 결정요인은 설명력이 약하거나 일관되지 않습니다. 연구 결과에 따르면 연금 개혁은 현대의 압력에 대한 고립된 대응으로 발생하지 않습니다. 대신, 개혁 활동은 강한 시간적 의존성을 나타내며,"
+  },
+  "oa:W7203709402": {
+   "id": "oa:W7203709402",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "The Spatial Similarity Task: A cross-species approach to spatial memory",
+   "authors": [
+    "Mia Borzello",
+    "William Supian",
+    "Andrea A. Chiba"
+   ],
+   "journal": "Behavior Research Methods",
+   "date": "2026-08-18",
+   "abstract": "Abstract Memory serves as the cornerstone of cognitive function and specifically enables the critical ability to disambiguate and encode similar experiences as distinct memories. Mnemonic discrimination of near spaces and places is a process crucially underpinned by a computational feature of the hippocampus, pattern separation. Whereas this refined aspect of spatial memory has been addressed in abundance in the rodent literature, fewer spatial tasks are designed to specifically query memory for spatial similarities in human subjects. To address this, we introduce an open-source virtual maze suite developed on the Unity platform, freely available for researchers to use, modify, and extend. The suite is designed to bridge the behavioral translation gap by assessing mnemonic discrimination in humans through a spatial delayed match-to-sample task, carefully modeled after rodent spatial memory tasks. Rather than relying on fully immersive systems, the suite leverages desktop-based virtual navigation to combine parametric control of experimental conditions with the ability to collect each participant’s exploratory data. The pilot experiments are presented to validate the final suite design, alongside providing representative results from a subset of participants. Mnemonic discrimination was measured by parametric manipulation of spatial distances, resulting in a spatial distance memory function in which participants made more errors in remembering the correct location amongst similar or adjacent locations relative to distant locations. Given the prevalence of spatial memory deficits in age-related cognitive decline and neurological and psychiatric conditions, and the widespread use of spatial tasks in rodent models of these disorders, the Spatial Similarity Task (SST) suite offers a translationally grounded tool with direct potential for customization towards clinical application.",
+   "url": "https://doi.org/10.3758/s13428-026-03127-5",
+   "doi": "10.3758/s13428-026-03127-5",
+   "pdf": "https://doi.org/10.3758/s13428-026-03127-5",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "추상 기억은 인지 기능의 초석 역할을 하며 특히 유사한 경험을 구별된 기억으로 구분하고 인코딩하는 중요한 능력을 가능하게 합니다. 가까운 공간과 장소에 대한 니모닉 식별은 해마의 계산 기능인 패턴 분리에 의해 결정적으로 뒷받침되는 과정입니다. 공간 기억의 이러한 세련된 측면은 설치류 문헌에서 풍부하게 다루어진 반면, 인간 피험자의 공간 유사성에 대해 기억을 구체적으로 쿼리하도록 설계된 공간 작업은 거의 없습니다. 이 문제를 해결하기 위해 우리는 연구자가 무료로 사용, 수정, 확장할 수 있는 Unity 플랫폼에서 개발된 오픈 소스 가상 미로 제품군을 소개합니다. 이 제품군은 설치류 공간 기억 작업을 따라 신중하게 모델링된 공간 지연 일치 대 샘플 작업을 통해 인간의 니모닉 차별을 평가하여 행동 번역 격차를 해소하도록 설계되었습니다. 완전히 몰입형 시스템에 의존하는 대신 이 제품군은 데스크톱 기반 가상 탐색을 활용하여 실험 조건의 매개변수 제어와 각 참가자의 탐색 데이터를 수집하는 기능을 결합합니다. 파일럿 실험은 참가자 하위 집합의 대표적인 결과를 제공하는 동시에 최종 제품군 설계를 검증하기 위해 제공됩니다. 니모닉 식별은 공간 거리의 매개변수 조작을 통해 측정되었으며, 그 결과 참가자가 유사 사이의 올바른 위치를 기억하는 데 더 많은 오류를 범하는 공간 거리 기억 기능이 생성되었습니다."
+  },
+  "oa:W7203721947": {
+   "id": "oa:W7203721947",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Social connectedness, loneliness and preventive healthcare utilisation: a multilevel study of cancer screening in Europe using SHARE data",
+   "authors": [
+    "Elisa Cisotto",
+    "Annalisa Donno",
+    "Giulia Cavrini",
+    "Giovanna Boccuzzo"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-18",
+   "abstract": "Abstract Population ageing has increased the importance of preventive healthcare utilisation, while highlighting persistent social differences in preventive services participation. This study examines whether structural and subjective dimensions of social frailty, captured respectively by limited social connectedness and loneliness, are associated with preventive healthcare utilisation among older adults in Europe. Using harmonised data from Wave 9 of the Survey of Health, Ageing and Retirement in Europe (SHARE), the analysis covers individuals aged 50 and over in 22 European countries. Multilevel logistic regression models are estimated to assess the association between the two selected dimensions and participation in mammography and colorectal cancer screening, while accounting for individual-level demographic, socioeconomic and health-related characteristics, as well as cross-national heterogeneity. The results show that limited social connectedness is consistently associated with higher risks of colorectal cancer screening and mammography non-attendance, whereas loneliness displays a weaker and more outcome-specific association, being related to mammography but not to colorectal cancer screening on average. Moreover, the strength of the association between social connectedness and preventive healthcare utilisation varies across countries, indicating the relevance of national contexts. Overall, the findings highlight the importance of distinguishing between structural and subjective dimensions of social frailty in quantitative analyses of preventive healthcare utilisation and underscore the value of multilevel approaches in assessing cross-national variation in preventive care participation.",
+   "url": "https://doi.org/10.1007/s11135-026-03001-8",
+   "doi": "10.1007/s11135-026-03001-8",
+   "pdf": "https://doi.org/10.1007/s11135-026-03001-8",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "Abstract 인구 고령화로 인해 예방의료 활용의 중요성이 높아지는 동시에 예방 서비스 참여에 있어 지속적인 사회적 차이가 부각되고 있습니다. 이 연구는 제한된 사회적 연결성과 외로움으로 인해 각각 포착된 사회적 취약성의 구조적 측면과 주관적 측면이 유럽 노인의 예방적 의료 활용과 관련이 있는지 여부를 조사합니다. 유럽의 건강, 노령화 및 은퇴 조사(SHARE)의 9차년도 조화 데이터를 사용하여 분석은 유럽 22개국의 50세 이상 개인을 대상으로 합니다. 다단계 로지스틱 회귀 모델은 선택된 두 차원과 유방조영술 및 대장암 검진 참여 사이의 연관성을 평가하는 동시에 개인 수준의 인구통계학적, 사회경제적, 건강 관련 특성과 국가 간 이질성을 고려하는 것으로 추정됩니다. 결과는 제한된 사회적 연결성이 대장암 검진 및 유방 조영술 불출석 위험과 지속적으로 연관되어 있는 반면, 외로움은 평균적으로 유방 조영술과 관련이 있지만 대장암 검진과는 관련이 없는 약하고 결과별 연관성을 표시한다는 것을 보여줍니다. 더욱이, 사회적 연결성과 예방적 의료 활용 간의 연관성 강도는 국가마다 다르며, 이는 국가적 맥락의 관련성을 나타냅니다. 전반적으로, 이번 연구 결과는 구조적 측면과 구조적 측면을 구별하는 것이 중요하다는 점을 강조합니다."
+  },
+  "oa:W7203672180": {
+   "id": "oa:W7203672180",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Situated ethics as methodological innovation in sexuality research governance with adolescents",
+   "authors": [
+    "Jane Rossouw",
+    "Anthony Brown"
+   ],
+   "journal": "International Journal of Social Research Methodology",
+   "date": "2026-08-18",
+   "abstract": "This article examines situated ethics as a methodological innovation for addressing tensions between institutional research governance and responsive ethical practice in adolescent sexuality research. Through reflexive analysis of a qualitative study exploring sexuality conversations between adolescents and their LGBTQ+ parents in South Africa, we identify critical gaps between procedural ethics and ethics-in-practice. Our research reveals how institutional frameworks, while designed to protect young participants, often constrain meaningful participation and marginalise youth perspectives in sexuality knowledge production. Key findings demonstrate contradictions between South African legal frameworks recognising adolescent sexual decision-making capacity from age 12 and research governance requiring parental consent until 18. We propose four methodological innovations: youth-centred ethical assessment, adaptive confidentiality protocols, capacity-responsive governance structures, and culturally responsive ethics frameworks integrating indigenous knowledge systems. Implementation strategies address institutional transformation through systematic change management approaches. These findings advance research methodology by offering evidence-based approaches to situated ethics that address unique challenges in sexuality research while providing transferable frameworks for diverse cultural contexts involving young participants and sensitive topics.",
+   "url": "https://doi.org/10.1080/13645579.2026.2716886",
+   "doi": "10.1080/13645579.2026.2716886",
+   "pdf": "https://doi.org/10.1080/13645579.2026.2716886",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "이 기사에서는 청소년 성생활 연구에서 제도적 연구 거버넌스와 이에 대응하는 윤리적 실천 사이의 긴장을 해결하기 위한 방법론적 혁신으로서 상황 윤리를 검토합니다. 남아프리카의 청소년과 LGBTQ+ 부모 사이의 성적 대화를 탐구하는 질적 연구의 성찰적 분석을 통해 우리는 절차 윤리와 실천 윤리 사이의 중요한 격차를 식별합니다. 우리의 연구는 젊은 참가자를 보호하기 위해 설계된 제도적 틀이 어떻게 의미 있는 참여를 제한하고 성 지식 생산에 있어 청소년의 관점을 소외시키는지를 보여줍니다. 주요 연구 결과는 12세부터 청소년의 성적 의사 결정 능력을 인정하는 남아프리카의 법적 프레임워크와 18세까지 부모의 동의를 요구하는 연구 거버넌스 사이의 모순을 보여줍니다. 우리는 청소년 중심 윤리 평가, 적응형 기밀 프로토콜, 용량 대응 거버넌스 구조, 토착 지식 시스템을 통합하는 문화적으로 대응하는 윤리 프레임워크라는 네 가지 방법론적 혁신을 제안합니다. 구현 전략은 체계적인 변화 관리 접근 방식을 통해 제도적 변화를 다루고 있습니다. 이러한 연구 결과는 젊은 참여자와 민감한 주제가 관련된 다양한 문화적 맥락에 대한 전환 가능한 프레임워크를 제공하는 동시에 성 연구의 고유한 과제를 해결하는 상황 윤리에 대한 증거 기반 접근 방식을 제공함으로써 연구 방법론을 발전시킵니다."
+  },
+  "oa:W7203711167": {
+   "id": "oa:W7203711167",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Two meta-methodological tensions to orient historical analysis in the social sciences",
+   "authors": [
+    "Richard York",
+    "Jordan Fox",
+    "Patrick Trent Greiner"
+   ],
+   "journal": "International Journal of Social Research Methodology",
+   "date": "2026-08-18",
+   "abstract": "The historical tradition has produced many insights about research, methods, and data. Here, we offer four meta-methodological propositions in two dialectical pairs to distill some of these key insights so as to encourage and refine historical thinking among social scientists.",
+   "url": "https://doi.org/10.1080/13645579.2026.2720738",
+   "doi": "10.1080/13645579.2026.2720738",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "역사적 전통은 연구, 방법 및 데이터에 대한 많은 통찰력을 제공해 왔습니다. 여기에서 우리는 사회과학자들의 역사적 사고를 장려하고 개선하기 위해 이러한 주요 통찰력 중 일부를 추출하기 위해 두 변증법적 쌍으로 네 가지 메타 방법론적 명제를 제공합니다."
+  },
+  "oa:W7112463088": {
+   "id": "oa:W7112463088",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Linking signal integrity to probabilistic models of behavioral dynamics",
+   "authors": [
+    "Reza Sayfoori",
+    "Hung Cao"
+   ],
+   "journal": "Behavior Research Methods",
+   "date": "2026-08-18",
+   "abstract": "Abstract Quantitative analysis of rodent behavior in naturalistic settings is crucial for neuroscience, yet traditional methods often lack precision or scalability. While ultra-wideband (UWB) sensor tracking provides centimeter-level localization, standard metrics like root mean square error (RMSE) fail to capture the probabilistic and sequential nature of behavior. We introduce a probabilistic, information-theoretic framework that leverages high-resolution UWB sensor trajectories to address this gap. By integrating Shannon entropy to quantify uncertainty, Bernoulli modeling to assess accuracy thresholds, and first-order Markov chains to characterize state dynamics, our approach derives interpretable behavioral markers directly linked to signal quality. Empirical evaluation in an open-field arena demonstrated robust tracking under line-of-sight (LoS; RMSE: 20 mm) and non-line-of-sight (NLoS; RMSE: 35 mm) conditions. Crucially, we show that physical-layer impairments propagate to behavioral metrics: NLoS conditions increased entropy from 1.15 to 1.78 bits, reduced the probability of achieving sub-20 mm accuracy from 63.2% to 27.7%, and decreased state persistence, indicating greater behavioral fragmentation. By treating UWB signals as a probabilistic information source, our computationally efficient framework establishes a methodological bridge between engineering performance and neuroscience, enabling scalable, reproducible, and low-bias behavioral quantification suitable for preclinical research in complex environments.",
+   "url": "https://doi.org/10.3758/s13428-026-03132-8",
+   "doi": "10.3758/s13428-026-03132-8",
+   "pdf": "https://doi.org/10.3758/s13428-026-03132-8",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "Abstract 자연 환경에서 설치류 행동에 대한 정량 분석은 신경 과학에 매우 중요하지만 전통적인 방법에는 정밀도나 확장성이 부족한 경우가 많습니다. UWB(초광대역) 센서 추적은 센티미터 수준의 위치 파악을 제공하지만 RMSE(제곱평균제곱근 오차)와 같은 표준 측정항목은 동작의 확률적이고 순차적인 특성을 포착하지 못합니다. 우리는 이러한 격차를 해결하기 위해 고해상도 UWB 센서 궤적을 활용하는 확률론적 정보 이론 프레임워크를 소개합니다. 불확실성을 정량화하기 위한 Shannon 엔트로피, 정확도 임계값을 평가하기 위한 Bernoulli 모델링, 상태 역학을 특성화하기 위한 1차 Markov 체인을 통합함으로써 우리의 접근 방식은 신호 품질과 직접 연결된 해석 가능한 행동 마커를 도출합니다. 개방형 경기장에서의 실증적 평가는 가시선(LoS, RMSE: 20mm) 및 비가시선(NLoS, RMSE: 35mm) 조건에서 강력한 추적을 보여주었습니다. 결정적으로 우리는 물리 계층 손상이 행동 지표로 전파된다는 것을 보여줍니다. NLoS 조건은 엔트로피를 1.15에서 1.78비트로 증가시키고, 20mm 미만 정확도를 달성할 확률을 63.2%에서 27.7%로 감소시키며, 상태 지속성을 감소시켜 행동 단편화가 더 커짐을 나타냅니다. UWB 신호를 확률적 정보 소스로 처리함으로써 계산적으로 효율적인 프레임워크는 엔지니어링 성능과 신경 과학 사이에 방법론적 연결을 구축하여 다음과 같은 용도에 적합한 확장 가능하고 재현 가능하며 편향이 낮은 행동 정량화를 가능하게 합니다."
+  },
+  "oa:W7203710814": {
+   "id": "oa:W7203710814",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "The Unity Playback System: A tool for visualizing behavioral data in 3D Unity virtual environments",
+   "authors": [
+    "Xavier J. Marshall",
+    "Nathaniel Powell",
+    "Brett R. Fajen"
+   ],
+   "journal": "Behavior Research Methods",
+   "date": "2026-08-18",
+   "abstract": "",
+   "url": "https://doi.org/10.3758/s13428-026-03136-4",
+   "doi": "10.3758/s13428-026-03136-4",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
    "abs_tries": 1
+  },
+  "oa:W7203664011": {
+   "id": "oa:W7203664011",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Evaluating Bayesian Variable Selection Approaches for Nonlinear Random Effects Models",
+   "authors": [
+    "Yue Zhao",
+    "Nidhi Kohli",
+    "Eric F. Lock"
+   ],
+   "journal": "Multivariate Behavioral Research",
+   "date": "2026-08-18",
+   "abstract": "Longitudinal data modeling attracts special interest from researchers and practitioners because of its capacity to help understand individual and mean trends of growth and development over time. One feature of longitudinal design is the collection of extensive information on participants to help explain the underlying growth process. However, selecting which covariates or independent variables (i.e., predictors) to include in a statistical model is challenging especially with the goals of avoiding both overfitting and underfitting. The present study demonstrates and compares multiple Bayesian variable selection methods for the selection of covariates to explain longitudinal growth processes, including both shrinkage methods (e.g., horseshoe) and stochastic variable search method (e.g., spike-and-slab priors and their extension to a Normal Mixture of Inverse Gammas), via an extensive Monte Carlo simulation study using a piecewise random effects model with unknown change point as an example. Our goal is to provide recommendations for researchers and practitioners about the advantages and limitations of Bayesian variable selection methods for variable selection in longitudinal studies, including model convergence and parameter estimation precision and accuracy.",
+   "url": "https://doi.org/10.1080/00273171.2026.2716743",
+   "doi": "10.1080/00273171.2026.2716743",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "종단적 데이터 모델링은 시간이 지남에 따라 개인 및 평균 성장 추세를 이해하는 데 도움이 되는 능력 때문에 연구자와 실무자의 특별한 관심을 끌고 있습니다. 종단적 설계의 한 가지 특징은 참가자에 대한 광범위한 정보를 수집하여 기본 성장 과정을 설명하는 데 도움이 된다는 것입니다. 그러나 통계 모델에 포함할 공변량 또는 독립 변수(예: 예측 변수)를 선택하는 것은 특히 과대적합과 과소적합을 모두 방지하려는 목표에 있어서 어려운 일입니다. 본 연구는 수축 방법(예: 말굽)과 확률론적 변수 검색 방법(예: 스파이크 및 슬래브 사전 및 역 감마의 정규 혼합으로의 확장)을 포함하여 세로 성장 과정을 설명하기 위해 공변량 선택을 위한 여러 베이지안 변수 선택 방법을 예시로 알 수 없는 변화 지점이 있는 조각별 무작위 효과 모델을 사용하는 광범위한 몬테카를로 시뮬레이션 연구를 통해 시연하고 비교합니다. 우리의 목표는 모델 수렴과 매개변수 추정 정밀도 및 정확성을 포함하여 종단 연구에서 변수 선택을 위한 베이지안 변수 선택 방법의 장점과 한계에 대해 연구자와 실무자에게 권장 사항을 제공하는 것입니다."
+  },
+  "oa:W4409122558": {
+   "id": "oa:W4409122558",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Graph-based multisample comparison with application to feature selection for multi-category responses",
+   "authors": [
+    "Dan Pu",
+    "Haoming Shi",
+    "Wei Lan",
+    "Chih‐Ling Tsai"
+   ],
+   "journal": "Journal of Econometrics",
+   "date": "2026-08-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.jeconom.2026.106313",
+   "doi": "10.1016/j.jeconom.2026.106313",
+   "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/012d46fb-a697-40d0-85eb-9817f73e373f-MECA.pdf?abstractid=5204210&mirid=1",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7203720134": {
+   "id": "oa:W7203720134",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Post-pretrained lasso statistical inference",
+   "authors": [
+    "Cao Huyen My",
+    "Nguyen Vu Khai Tam",
+    "Vo Nguyen Le Duy"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-08-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11222-026-10962-1",
+   "doi": "10.1007/s11222-026-10962-1",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abs_tries": 1
+  },
+  "oa:W4416105352": {
+   "id": "oa:W4416105352",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Conformal network link prediction with false discovery rate control under unstructured missingness",
+   "authors": [
+    "Wenqin Du",
+    "Wanteng Ma",
+    "Xia Dong",
+    "Yuan Zhang",
+    "Wen Li Zhou"
+   ],
+   "journal": "Journal of Computational and Graphical Statistics",
+   "date": "2026-08-18",
+   "abstract": "We propose a new method for predicting multiple missing links in partially observed networks while controlling the false discovery rate (FDR), a largely unresolved challenge in network analysis. The main difficulty lies in handling complex dependencies and unknown missing patterns. We introduce conformal link prediction, a distribution-free procedure grounded in the exchangeability structure of weighted graphon models. Our approach constructs conformal p-values via a novel multi-splitting strategy that restores exchangeability within local test sets, thereby ensuring valid row-wise FDR control, even under unknown missing mechanisms. To achieve FDR control across all missing links, we further develop a new aggregation scheme based on e-values, which accommodates arbitrary dependence across network predictions. Our method requires no assumptions on the missing rates, applies to weighted, unweighted, undirected, and bipartite networks, and enjoys finite-sample theoretical guarantees. Extensive simulations and a real-world data study confirm the effectiveness and robustness of the proposed approach.",
+   "url": "https://doi.org/10.1080/10618600.2026.2719794",
+   "doi": "10.1080/10618600.2026.2719794",
+   "pdf": "https://doi.org/10.1080/10618600.2026.2719794",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 네트워크 분석에서 대부분 해결되지 않은 과제인 FDR(false discovery rate)을 제어하면서 부분적으로 관찰된 네트워크에서 여러 누락 링크를 예측하는 새로운 방법을 제안합니다. 가장 큰 어려움은 복잡한 종속성과 알 수 없는 누락 패턴을 처리하는 데 있습니다. 가중치 그래폰 모델의 교환성 구조에 기반을 둔 무분포 절차인 등각 링크 예측을 소개합니다. 우리의 접근 방식은 로컬 테스트 세트 내에서 교환성을 복원하는 새로운 다중 분할 전략을 통해 등각 p-값을 구성함으로써 알려지지 않은 누락 메커니즘에서도 유효한 행별 FDR 제어를 보장합니다. 모든 누락된 링크에 대해 FDR 제어를 달성하기 위해 우리는 네트워크 예측 전반에 걸쳐 임의의 종속성을 수용하는 e-값을 기반으로 하는 새로운 집계 체계를 추가로 개발합니다. 우리의 방법은 누락된 비율에 대한 가정이 필요하지 않으며 가중, 비가중, 무방향 및 이분 네트워크에 적용되며 유한 표본 이론적 보장을 누리고 있습니다. 광범위한 시뮬레이션과 실제 데이터 연구를 통해 제안된 접근 방식의 효율성과 견고성이 확인되었습니다."
+  },
+  "oa:W4415029196": {
+   "id": "oa:W4415029196",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Association and independence test for random objects",
+   "authors": [
+    "Hang Zhou",
+    "Hans‐Georg Müller"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We develop a unified framework for testing independence and quantifying association between random objects that are located in general metric spaces. Special cases include functional and high-dimensional data as well as networks, covariance matrices and data on Riemannian manifolds, among other metric space-valued data. A key concept is the profile association, a measure based on distance profiles that intrinsically characterize the distributions of random objects in metric spaces. We establish a connection between Hoeffding’s D statistic and the profile association and derive a permutation test with theoretical guarantees for consistency and power under alternatives to the null hypothesis of independence (equivalently, no association). We extend this framework to the conditional setting, where the independence between random objects given a Euclidean predictor is of interest. In simulations across various metric spaces, the proposed profile independence test is found to outperform existing approaches. The practical utility of this framework is demonstrated with applications to brain connectivity networks derived from magnetic resonance imaging and age-at-death distributions for males and females obtained from human mortality data.",
+   "url": "https://doi.org/10.1214/26-aos2632",
+   "doi": "10.1214/26-aos2632",
+   "pdf": "https://arxiv.org/pdf/2505.01983",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 일반 미터법 공간에 위치한 임의 개체 간의 독립성을 테스트하고 연관성을 정량화하기 위한 통합 프레임워크를 개발합니다. 특별한 경우에는 함수형 및 고차원 데이터뿐만 아니라 네트워크, 공분산 행렬, 리만 다양체의 데이터, 기타 미터법 공간 값 데이터가 포함됩니다. 핵심 개념은 미터법 공간에서 무작위 개체의 분포를 본질적으로 특성화하는 거리 프로파일을 기반으로 하는 측정값인 프로파일 연관입니다. 우리는 Hoeffding의 D 통계와 프로파일 연관 사이의 연결을 설정하고 독립 귀무 가설(동일하게 연관 없음)에 대한 대안 하에서 일관성과 검정력에 대한 이론적 보장을 갖춘 순열 테스트를 유도합니다. 우리는 이 프레임워크를 조건부 설정으로 확장합니다. 여기서 유클리드 예측 변수가 주어진 무작위 개체 간의 독립성이 중요합니다. 다양한 메트릭 공간에 대한 시뮬레이션에서 제안된 프로파일 독립성 테스트는 기존 접근 방식보다 성능이 뛰어난 것으로 나타났습니다. 이 프레임워크의 실질적인 유용성은 인간 사망률 데이터에서 얻은 남성과 여성의 자기 공명 영상 및 사망 연령 분포에서 파생된 뇌 연결 네트워크에 대한 응용 프로그램을 통해 입증됩니다."
+  },
+  "oa:W7128756868": {
+   "id": "oa:W7128756868",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Measuring evidence against exchangeability and group invariance with E-values",
+   "authors": [
+    "Nick W. Koning"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We study e-values for quantifying evidence against exchangeability and general invariance of a random variable under a compact group. We start by characterizing such e-values, and explaining how they nest traditional group invariance tests as a special case. We show they can be easily designed for an arbitrary test statistic, and computed through Monte Carlo sampling. We prove a result that characterizes optimal e-values for group invariance against optimality targets that satisfy a mild orbit-wise decomposition property. We apply this to design expected-utility-optimal e-values for group invariance, which include both Neyman–Pearson-optimal tests and log-optimal e-values. Moreover, we generalize the notion of rank- and sign-based testing to compact groups, by using a representative inversion kernel. In addition, we characterize e-processes for group invariance for arbitrary filtrations, and provide tools to construct them. We also describe test martingales under a natural filtration, which are simpler to construct. Peeking beyond compact groups, we encounter e-values and e-processes based on ergodic theorems. These nest e-processes based on de Finetti’s theorem for testing exchangeability.",
+   "url": "https://doi.org/10.1214/26-aos2627",
+   "doi": "10.1214/26-aos2627",
+   "pdf": "https://www.e-publications.org/ims/submission/AOS/user/submissionFile/64072?confirm=b7534693",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 컴팩트 그룹 하에서 무작위 변수의 교환성과 일반 불변성에 대한 증거를 정량화하기 위한 e-값을 연구합니다. 먼저 이러한 e-값을 특성화하고 전통적인 그룹 불변성 테스트를 특수 사례로 중첩하는 방법을 설명합니다. 우리는 임의의 검정 통계량에 대해 쉽게 설계할 수 있고 몬테카를로 샘플링을 통해 계산할 수 있음을 보여줍니다. 우리는 가벼운 궤도별 분해 특성을 만족하는 최적성 목표에 대한 그룹 불변성에 대한 최적의 e-값을 특성화하는 결과를 증명합니다. 우리는 이것을 Neyman-Pearson 최적 테스트와 로그 최적 e-값을 모두 포함하는 그룹 불변에 대한 기대 효용-최적 e-값을 설계하는 데 적용합니다. 또한, 대표적인 반전 커널을 사용하여 순위 및 부호 기반 테스트 개념을 압축 그룹으로 일반화합니다. 또한 임의 필터링에 대한 그룹 불변성에 대한 e-프로세스를 특성화하고 이를 구성하는 도구를 제공합니다. 우리는 또한 구성하기가 더 간단한 자연 여과 하에서 테스트 마틴게일을 설명합니다. 컴팩트 그룹을 넘어 우리는 에르고딕 정리에 기반한 e-값과 e-프로세스를 접하게 됩니다. 이러한 네스트 전자 프로세스는 교환성 테스트를 위한 de Finetti의 정리를 기반으로 합니다."
+  },
+  "oa:W7130490247": {
+   "id": "oa:W7130490247",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Sample size and power calculations for causal inference in observational studies",
+   "authors": [
+    "Bo Liu",
+    "Chengxin Yang",
+    "Fan Li"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "This paper investigates the theoretical foundation and develops analytical formulas for sample size and power calculations for causal inference with observational data. By analyzing the variance of an inverse probability weighting estimator of the average treatment effect, we decompose the power calculation into three components: propensity score distribution, potential outcome distribution and their correlation. We show that to determine the minimal sample size of an observational study, in addition to the standard inputs in the power calculation of randomized trials, it is sufficient to have two parameters: an overlap coefficient and a confounding coefficient, which quantify the strength of the confounder-treatment and the confounder-outcome association, respectively. For the overlap coefficient, we propose using the Bhattacharyya coefficient, which measures the covariate overlap and, together with the treatment proportion, leads to a uniquely identifiable and easily computable propensity score distribution. For the confounding coefficient, we propose a sensitivity parameter bounded by the R-squared statistic of the regression of the outcome on covariates. Our procedure relies on a parametric propensity score model and a semiparametric restricted mean outcome model, but does not require distributional assumptions on the multivariate covariates. We develop an associated R package PSpower and an online calculator.",
+   "url": "https://doi.org/10.1214/26-aos2649",
+   "doi": "10.1214/26-aos2649",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "본 논문은 이론적 기초를 조사하고 관측 데이터를 이용한 인과 추론을 위한 표본 크기 및 검정력 계산을 위한 분석 공식을 개발합니다. 평균 치료 효과의 역 확률 가중 추정기의 분산을 분석하여 검정력 계산을 성향 점수 분포, 잠재적 결과 분포 및 상관 관계의 세 가지 구성 요소로 분해합니다. 우리는 관찰 연구의 최소 표본 크기를 결정하기 위해 무작위 시험의 검정력 계산에 대한 표준 입력 외에도 혼란 요인 처리 및 혼란 요인 결과 연관성의 강도를 각각 정량화하는 중첩 계수와 혼란 계수라는 두 가지 매개변수를 갖는 것으로 충분하다는 것을 보여줍니다. 중복 계수의 경우 공변량 중복을 측정하고 치료 비율과 함께 고유하게 식별 가능하고 쉽게 계산할 수 있는 성향 점수 분포를 생성하는 Bhattacharyya 계수를 사용할 것을 제안합니다. 교란 계수에 대해 우리는 공변량에 대한 결과 회귀의 R-제곱 통계로 제한되는 민감도 매개 변수를 제안합니다. 우리의 절차는 매개변수 성향 점수 모델과 반모수 제한된 평균 결과 모델에 의존하지만 다변량 공변량에 대한 분포 가정은 필요하지 않습니다. 우리는 관련 R 패키지 PSpower와 온라인 계산기를 개발합니다."
+  },
+  "oa:W4395097972": {
+   "id": "oa:W4395097972",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Higher-order graphon theory: Fluctuations, degeneracies and inference",
+   "authors": [
+    "Anirban Chatterjee",
+    "Soham Dan",
+    "Bhaswar B. Bhattacharya"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "Exchangeable random graphs, which include some of the most widely studied network models, have emerged as the mainstay of statistical network analysis in recent years. Graphons, which are the central objects in graph limit theory, provide a natural way to sample exchangeable random graphs. It is well known that network moments (motif/subgraph counts) identify a graphon (up to an isomorphism); hence, understanding the sampling distribution of subgraph counts in random graphs sampled from a graphon is pivotal for nonparametric network inference. Although there are a few results regarding the asymptotic normality of subgraph counts in graphon models, for many commonly appearing graphons this distribution is degenerate. This degeneracy phenomenon was overlooked until very recently and its consequences in network inference have remained unexplored. Toward this, we obtain the following results: We derive the joint asymptotic distribution of any finite collection of network moments in random graphs sampled from a graphon, which includes both the nondegenerate case (where the distribution is Gaussian) as well as the degenerate case (where the distribution has both Gaussian or non-Gaussian components). This provides the higher-order fluctuation theory for subgraph counts in the graphon model. Furthermore, we develop a novel multiplier bootstrap for graphons that consistently approximates the limiting distribution of the network moments (both in the Gaussian and non-Gaussian regimes). Using this and a procedure for testing degeneracy, we construct joint confidence sets for any finite collection of motif densities. This provides a general framework for statistical inference based on network moments in the graphon model. Examples and simulations are provided to validate the general theory. To illustrate the broad scope of our results, we also consider the problem of detecting global structure (i.e., testing whether the graphon is a constant function) based on small subgraphs. We propose a consistent test for this problem, invoking celebrated results on quasirandom graphs, and derive its limiting distribution both under the null and the alternative.",
+   "url": "https://doi.org/10.1214/26-aos2644",
+   "doi": "10.1214/26-aos2644",
+   "pdf": "https://arxiv.org/pdf/2404.13822",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "가장 널리 연구된 네트워크 모델 중 일부를 포함하는 교환 가능한 무작위 그래프는 최근 몇 년 동안 통계 네트워크 분석의 주류로 등장했습니다. 그래프 한계 이론의 중심 개체인 그래폰은 교환 가능한 무작위 그래프를 샘플링하는 자연스러운 방법을 제공합니다. 네트워크 모멘트(모티프/하위 그래프 수)가 그래폰(최대 동형)을 식별한다는 것은 잘 알려져 있습니다. 따라서 그래폰에서 샘플링된 무작위 그래프의 하위 그래프 수의 샘플링 분포를 이해하는 것은 비모수적 네트워크 추론에 매우 중요합니다. 그래폰 모델의 하위 그래프 개수의 점근적 정규성에 관한 몇 가지 결과가 있지만 일반적으로 나타나는 많은 그래폰의 경우 이 분포는 퇴화됩니다. 이 퇴화 현상은 아주 최근까지 간과되었으며 네트워크 추론의 결과는 아직 밝혀지지 않았습니다. 이를 위해 우리는 다음과 같은 결과를 얻습니다. 그래프폰에서 샘플링된 무작위 그래프에서 네트워크 모멘트의 유한 집합의 공동 점근 분포를 도출합니다. 여기에는 퇴화되지 않은 경우(분포가 가우스인 경우)와 퇴화된 경우(분포에 가우시안 또는 비가우시안 구성 요소가 모두 있는 경우)가 모두 포함됩니다. 이는 그래폰 모델의 하위 그래프 수에 대한 고차 변동 이론을 제공합니다. 또한, 우리는 (가우시안 및 비가우시안 체제 모두에서) 네트워크 모멘트의 제한 분포를 일관되게 근사화하는 그래폰에 대한 새로운 승수 부트스트랩을 개발합니다."
+  },
+  "oa:W4385436404": {
+   "id": "oa:W4385436404",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "On the efficiency of highly stratified experiments",
+   "authors": [
+    "Yuehao Bai",
+    "Jizhou Liu",
+    "Azeem M. Shaikh",
+    "Max Tabord‐Meehan"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "This paper studies the use of highly stratified designs for the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments. By a “highly stratified” design, we mean experiments in which units are divided into blocks of a fixed size and a proportion within each block is assigned to a binary treatment uniformly at random. The class of parameters considered are those that can be expressed as the solution to a set of moment conditions constructed using a known function of the observed data. They include, among other things, average treatment effects, quantile treatment effects and local average treatment effects as well as the counterparts to these quantities in experiments in which the unit is itself a cluster. In this setting, we establish three results. First, we show that under a highly stratified design, the naïve method of moments estimator achieves the same asymptotic variance as what could typically be attained under alternative treatment assignment mechanisms only through ex post covariate adjustment. Second, we argue that the naïve method of moments estimator under a highly stratified design is asymptotically efficient by deriving a lower bound on the asymptotic variance of regular estimators of the parameter of interest in the form of a convolution theorem. In this sense, highly stratified experiments are attractive because they lead to efficient estimators of treatment effect parameters “by design.” Finally, we strengthen this conclusion by establishing conditions under which a “fast-balancing” property of highly stratified designs is in fact necessary for the naïve method of moments estimator to attain the efficiency bound.",
+   "url": "https://doi.org/10.1214/26-aos2636",
+   "doi": "10.1214/26-aos2636",
+   "pdf": "https://arxiv.org/pdf/2307.15181",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "이 논문은 실험 분석에서 발생하는 다양한 종류의 치료 효과 매개변수를 효율적으로 추정하기 위해 고도로 계층화된 설계를 사용하는 방법을 연구합니다. \"고도로 계층화된\" 설계란 단위를 고정된 크기의 블록으로 나누고 각 블록 내의 비율을 이진 처리에 무작위로 균일하게 할당하는 실험을 의미합니다. 고려되는 매개변수 클래스는 관찰된 데이터의 알려진 함수를 사용하여 구성된 일련의 모멘트 조건에 대한 솔루션으로 표현될 수 있는 매개변수 클래스입니다. 여기에는 무엇보다도 평균 처리 효과, 분위수 처리 효과, 국지적 평균 처리 효과뿐만 아니라 단위 자체가 클러스터인 실험에서 이러한 양에 대응하는 효과도 포함됩니다. 이 설정에서 우리는 세 가지 결과를 설정합니다. 첫째, 우리는 고도로 계층화된 설계에서 순진한 적률 추정 방법이 사후 공변량 조정을 통해서만 대체 처리 할당 메커니즘에서 일반적으로 얻을 수 있는 것과 동일한 점근적 분산을 달성한다는 것을 보여줍니다. 둘째, 우리는 고도로 계층화된 설계 하에서 순진한 모멘트 추정기 방법이 컨볼루션 정리의 형태로 관심 매개변수의 정규 추정기의 점근 분산에 대한 하한을 도출함으로써 점근적으로 효율적이라고 주장합니다. 이러한 의미에서 고도로 계층화된 실험은 \"설계에 따라\" 치료 효과 매개변수를 효율적으로 추정할 수 있기 때문에 매력적입니다. 마지막으로 우리는 힘을 낸다"
+  },
+  "oa:W4415085303": {
+   "id": "oa:W4415085303",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Pseudo-maximum likelihood theory for high-dimensional rank one inference",
+   "authors": [
+    "C. Grant",
+    "Aukosh Jagannath",
+    "J.M. Ko"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We develop a pseudo-likelihood theory for rank one matrix estimation problems in the high-dimensional limit. We prove a variational principle for the limiting pseudo-maximum likelihood, which also characterizes the performance of the corresponding pseudo-maximum likelihood estimator. We show that this variational principle is universal and depends only on four parameters determined by the corresponding null model. Through this universality, we introduce a notion of equivalence for estimation problems of this type and, in particular, show that a broad class of estimation tasks, including community detection, sparse submatrix detection and nonlinear spiked matrix models, are equivalent to spiked matrix models. As an application, we obtain a complete description of the performance of the least-squares (or “best rank one”) estimator for any rank one matrix estimation problem.",
+   "url": "https://doi.org/10.1214/26-aos2639",
+   "doi": "10.1214/26-aos2639",
+   "pdf": "https://arxiv.org/pdf/2503.01708",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 고차원 한계에서 랭크 1 행렬 추정 문제에 대한 의사 가능성 이론을 개발합니다. 우리는 대응하는 의사 최대 우도 추정기의 성능을 특징으로 하는 제한된 의사 최대 우도에 대한 변형 원리를 증명합니다. 우리는 이 변형 원리가 보편적이며 해당 널 모델에 의해 결정된 4개의 매개변수에만 의존한다는 것을 보여줍니다. 이러한 보편성을 통해 우리는 이러한 유형의 추정 문제에 대한 등가 개념을 소개하고 특히 커뮤니티 탐지, 희소 하위 행렬 탐지 및 비선형 스파이크 행렬 모델을 포함한 광범위한 종류의 추정 작업이 스파이크 행렬 모델과 동일하다는 것을 보여줍니다. 응용 프로그램으로서 우리는 모든 랭크 1 행렬 추정 문제에 대한 최소 제곱(또는 \"최고 순위 1\") 추정기의 성능에 대한 완전한 설명을 얻습니다."
+  },
+  "oa:W4409475788": {
+   "id": "oa:W4409475788",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Statistical impossibility and possibility of aligning LLMs with human preferences: From Condorcet paradox to Nash equilibrium",
+   "authors": [
+    "Kaizhao Liu",
+    "Long Qi",
+    "Zhekun Shi",
+    "Weijie Su",
+    "Jiancong Xiao"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "Aligning large language models (LLMs) with diverse human preferences is critical for ensuring fairness and informed outcomes when deploying these models for decision-making. In this paper, we seek to uncover fundamental statistical limits concerning aligning LLMs with human preferences, with a focus on the probabilistic representation of human preferences and the preservation of diverse preferences in aligned LLMs. We first show that human preferences can be represented by a reward model if and only if the preference among LLM-generated responses is free of any Condorcet cycle. Moreover, we prove that Condorcet cycles exist with probability converging to one exponentially fast under a probabilistic preference model, thereby demonstrating the impossibility of fully aligning human preferences using reward-based approaches such as reinforcement learning from human feedback. Next, we explore the conditions under which LLMs would employ mixed strategies-meaning they do not collapse to a single response-when aligned in the limit using a non-reward-based approach, such as Nash learning from human feedback (NLHF). We identify a necessary and sufficient condition for mixed strategies: the absence of a response that is preferred over all others by a majority. As a blessing, we prove that this condition holds with high probability under the probabilistic preference model, thereby highlighting the statistical possibility of preserving minority preferences without explicit regularization in aligning LLMs. Finally, we leverage insights from our statistical results to design a novel, computationally efficient algorithm for finding Nash equilibria in aligning LLMs with NLHF. Our experiments show that Llama-3.2-1B, aligned with our algorithm, achieves a win rate of 60.55% against the base model.",
+   "url": "https://doi.org/10.1214/26-aos2643",
+   "doi": "10.1214/26-aos2643",
+   "pdf": "https://doi.org/10.2139/ssrn.5185523",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "의사 결정을 위해 이러한 모델을 배포할 때 공정성과 정보에 입각한 결과를 보장하려면 대규모 언어 모델(LLM)을 다양한 인간 선호도에 맞추는 것이 중요합니다. 본 논문에서는 인간 선호도의 확률적 표현과 정렬된 LLM의 다양한 선호도 보존에 중점을 두고 LLM을 인간 선호도와 정렬하는 것과 관련된 근본적인 통계적 한계를 밝히려고 합니다. 우리는 먼저 LLM 생성 응답 간의 선호도가 Condorcet 주기에서 자유로운 경우에만 인간 선호도가 보상 모델로 표현될 수 있음을 보여줍니다. 또한, 우리는 확률적 선호 모델 하에서 확률이 기하급수적으로 빠르게 수렴되는 확률로 Condorcet 주기가 존재함을 증명함으로써 인간 피드백으로부터의 강화 학습과 같은 보상 기반 접근 방식을 사용하여 인간 선호도를 완전히 정렬하는 것이 불가능함을 보여줍니다. 다음으로, 우리는 LLM이 혼합 전략을 사용하는 조건을 탐색합니다. 즉, 인간 피드백을 통한 Nash 학습(NLHF)과 같은 비보상 기반 접근 방식을 사용하여 한계에 정렬될 때 단일 응답으로 붕괴되지 않음을 의미합니다. 우리는 혼합 전략의 필요충분조건을 식별합니다. 즉, 다수가 다른 모든 전략보다 선호하는 응답이 없다는 것입니다. 다행스럽게도 우리는 이 조건이 확률적 선호 모델 하에서 높은 확률로 유지됨을 증명하여 명시적인 정규화 없이 소수 선호도를 보존할 수 있는 통계적 가능성을 강조합니다."
+  },
+  "oa:W4403571198": {
+   "id": "oa:W4403571198",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Estimation beyond missing (completely) at random",
+   "authors": [
+    "Tianyi Ma",
+    "Kabir A. Verchand",
+    "Thomas B. Berrett",
+    "Tengyao Wang",
+    "Richard J. Samworth"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We study the effects of missingness on the estimation of population parameters. Moving beyond restrictive missing completely at random (MCAR) assumptions, we first formulate a missing data analogue of Huber’s arbitrary ϵ-contamination model. For mean estimation with respect to squared Euclidean error loss, we show that the minimax quantiles decompose as a sum of the corresponding minimax quantiles under a heterogeneous, MCAR assumption and a robust error term, depending on ϵ, that reflects the additional error incurred by departure from MCAR. We next introduce natural classes of realisable ϵ-contamination models, where an MCAR version of a base distribution P is contaminated by an arbitrary missing not at random (MNAR) version of P. These classes are rich enough to capture various notions of biased sampling and sensitivity conditions, yet we show that they enjoy improved minimax performance relative to our earlier arbitrary contamination classes for both parametric and nonparametric classes of base distributions. For instance, with a univariate Gaussian base distribution, consistent mean estimation over realisable ϵ-contamination classes is possible even when ϵ and the proportion of missingness converge (slowly) to 1. We extend our results to the setting of departures from missing at random (MAR) in normal linear regression with a realisable missing response, and also demonstrate that our methods can be made adaptive to the case of unknown ϵ.",
+   "url": "https://doi.org/10.1214/26-aos2640",
+   "doi": "10.1214/26-aos2640",
+   "pdf": "https://doi.org/10.1214/26-aos2640",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 인구 모수 추정에 대한 누락의 영향을 연구합니다. 제한적 완전 무작위 누락(MCAR) 가정을 넘어 먼저 Huber의 임의 ϵ-오염 모델의 누락 데이터 아날로그를 공식화합니다. 제곱된 유클리드 오류 손실에 대한 평균 추정을 위해, 우리는 최소최대 분위수가 MCAR에서 벗어나면서 발생하는 추가 오류를 반영하는 ϵ에 따라 이질적인 MCAR 가정과 강력한 오류 항 하에서 해당 최소최대 분위수의 합으로 분해된다는 것을 보여줍니다. 다음으로 기본 분포 P의 MCAR 버전이 P의 임의 누락(MNAR) 버전에 의해 오염되는 실현 가능한 ϵ-오염 모델의 자연 클래스를 소개합니다. 이러한 클래스는 편향된 샘플링 및 민감도 조건에 대한 다양한 개념을 포착할 수 있을 만큼 풍부하지만 기본 분포의 매개변수 및 비모수 클래스 모두에 대해 이전 임의 오염 클래스에 비해 향상된 최소 최대 성능을 즐긴다는 것을 보여줍니다. 예를 들어, 일변량 가우스 기본 분포를 사용하면 ϵ와 누락 비율이 (천천히) 1로 수렴하는 경우에도 실현 가능한 ϵ 오염 클래스에 대한 일관된 평균 추정이 가능합니다. 우리는 결과를 실현 가능한 누락 응답을 사용하는 정규 선형 회귀에서 무작위 누락으로부터의 이탈 설정(MAR)으로 확장하고 또한 우리의 방법이 알려지지 않은 ϵ의 경우에 적응할 수 있음을 보여줍니다."
+  },
+  "oa:W4403618868": {
+   "id": "oa:W4403618868",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Uniform estimation and inference for nonparametric partitioning-based M-estimators",
+   "authors": [
+    "Matias D. Cattaneo",
+    "Yingjie Feng",
+    "Boris Shigida"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "This paper presents uniform estimation and inference theory for a large class of nonparametric partitioning-based M-estimators. The main theoretical results include: (i) uniform consistency for convex and nonconvex objective functions; (ii) rate-optimal uniform Bahadur representations; (iii) rate-optimal uniform (and mean square) convergence rates; (iv) valid strong approximations and feasible uniform inference methods; and (v) extensions to functional transformations of underlying estimators. Uniformity is established over both the evaluation point of the nonparametric functional parameter and a Euclidean parameter indexing the class of loss functions. The results also account explicitly for the smoothness degree of the loss function (if any), and allow for a possibly nonidentity (inverse) link function. We illustrate the theoretical and methodological results in four examples: quantile regression, distribution regression, Lp regression, and logistic regression. Many other possibly nonsmooth, nonlinear, generalized, robust M-estimation settings are covered by our results. We provide detailed comparisons with the existing literature and demonstrate substantive improvements: we achieve the best (in some cases optimal) known results under improved (in some cases minimal) requirements in terms of regularity conditions and side rate restrictions. The Supplementary Material reports complementary technical results that may be of independent interest, including a novel uniform strong approximation result based on Yurinskii’s coupling.",
+   "url": "https://doi.org/10.1214/26-aos2623",
+   "doi": "10.1214/26-aos2623",
+   "pdf": "https://arxiv.org/pdf/2409.05715",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "이 논문은 대규모 비모수적 분할 기반 M-추정량에 대한 균일한 추정 및 추론 이론을 제시합니다. 주요 이론적 결과는 다음과 같습니다: (i) 볼록 및 비볼록 목적 함수에 대한 균일한 일관성; (ii) 속도 최적의 균일한 Bahadur 표현; (iii) 속도 최적 균일(및 평균 제곱) 수렴 속도; (iv) 유효한 강력한 근사치 및 실현 가능한 균일한 추론 방법; (v) 기본 추정기의 기능적 변환에 대한 확장. 비모수적 기능 매개변수의 평가 지점과 손실 함수 클래스를 인덱싱하는 유클리드 매개변수 모두에 대해 균일성이 설정됩니다. 결과는 또한 손실 함수(있는 경우)의 평활도를 명시적으로 설명하고 비동일성(역) 링크 함수를 허용합니다. 우리는 분위수 회귀, 분포 회귀, Lp 회귀 및 로지스틱 회귀의 네 가지 예를 통해 이론적 및 방법론적 결과를 설명합니다. 그 외 비매끄럽고, 비선형적이며, 일반화되고, 강력한 M-추정 설정이 우리 결과에 포함됩니다. 우리는 기존 문헌과의 상세한 비교를 제공하고 실질적인 개선을 보여줍니다. 규칙성 조건 및 측면 요율 제한 측면에서 개선된(경우에 따라 최소) 요구 사항에 따라 알려진 최상의(경우에 따라 최적) 결과를 달성합니다. 보충 자료는 새로운 균일한 스트론을 포함하여 독립적으로 관심을 가질 수 있는 보완적인 기술 결과를 보고합니다."
+  },
+  "oa:W4402502816": {
+   "id": "oa:W4402502816",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Estimating the false discovery rate of variable selection",
+   "authors": [
+    "Yixiang Luo",
+    "William Fithian",
+    "Lihua Lei"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We introduce a generic estimator for the false discovery rate of any model selection procedure, in common statistical modeling settings including the Gaussian linear model, Gaussian graphical model, and model-X setting. We prove that our method has a conservative (nonnegative) bias in finite samples under standard statistical assumptions, and provide a bootstrap method for assessing its standard error. For methods like the Lasso, forward-stepwise regression, and the graphical Lasso, our estimator serves as a valuable companion to cross-validation, illuminating the tradeoff between prediction error and variable selection accuracy as a function of the model complexity parameter.",
+   "url": "https://doi.org/10.1214/26-aos2625",
+   "doi": "10.1214/26-aos2625",
+   "pdf": "https://arxiv.org/pdf/2408.07231",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "가우스 선형 모델, 가우스 그래픽 모델 및 모델-X 설정을 포함한 일반적인 통계 모델링 설정에서 모든 모델 선택 절차의 잘못된 발견 비율에 대한 일반 추정기를 소개합니다. 우리는 우리의 방법이 표준 통계 가정 하에서 유한 표본에서 보수적인(음이 아닌) 편향을 가지고 있음을 증명하고 표준 오류를 평가하기 위한 부트스트랩 방법을 제공합니다. Lasso, 전단계 회귀 및 그래픽 Lasso와 같은 방법의 경우 추정기는 교차 검증의 귀중한 동반자 역할을 하며 모델 복잡성 매개변수의 함수로서 예측 오류와 변수 선택 정확도 간의 균형을 조명합니다."
+  },
+  "oa:W4405767507": {
+   "id": "oa:W4405767507",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Gaussian and bootstrap approximation for matching-based average treatment effect estimators",
+   "authors": [
+    "Zhaoyang Shi",
+    "Chinmoy Bhattacharjee",
+    "Krishnakumar Balasubramanian",
+    "Wolfgang Polonik"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We establish Gaussian approximation bounds for covariate and rank-matching-based Average Treatment Effect (ATE) estimators. By analyzing these estimators through the lens of stabilization theory, we employ the Malliavin–Stein method to derive our results. Our bounds precisely quantify the impact of key problem parameters, including the number of matches and treatment balance, on the accuracy of the Gaussian approximation. Additionally, we develop multiplier bootstrap procedures to estimate the limiting distribution in a fully data-driven manner, and we leverage the derived Gaussian approximation results to further obtain bootstrap approximation bounds. Our work not only introduces a novel theoretical framework for commonly used ATE estimators, but also provides data-driven methods for constructing nonasymptotically valid confidence intervals.",
+   "url": "https://doi.org/10.1214/26-aos2647",
+   "doi": "10.1214/26-aos2647",
+   "pdf": "https://arxiv.org/pdf/2412.17181",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "공변량 및 순위 매칭 기반 평균 치료 효과(ATE) 추정기에 대한 가우스 근사 경계를 설정합니다. 안정화 이론의 렌즈를 통해 이러한 추정치를 분석함으로써 우리는 Malliavin-Stein 방법을 사용하여 결과를 도출합니다. 우리의 경계는 일치 수 및 처리 균형을 포함한 주요 문제 매개변수가 가우스 근사의 정확도에 미치는 영향을 정확하게 정량화합니다. 또한 우리는 완전한 데이터 기반 방식으로 제한 분포를 추정하기 위해 승수 부트스트랩 절차를 개발하고 파생된 가우스 근사 결과를 활용하여 부트스트랩 근사 경계를 추가로 얻습니다. 우리의 작업은 일반적으로 사용되는 ATE 추정기에 대한 새로운 이론적 프레임워크를 소개할 뿐만 아니라 비점근적으로 유효한 신뢰 구간을 구성하기 위한 데이터 기반 방법도 제공합니다."
+  },
+  "oa:W4405031560": {
+   "id": "oa:W4405031560",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Linear methods for nonlinear inverse problems",
+   "authors": [
+    "Geerten Koers",
+    "Botond Szabó",
+    "Aad van der Vaart"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We consider the recovery of an unknown function f from a noisy observation of the solution uf to a partial differential equation that can be written in the form Luf=c(f,uf), for a differential operator L that is rich enough to recover f from Luf. Examples include the time-independent Schrödinger equation Δuf=2uff, the heat equation with absorption term (∂t−Δx/2)uf=fuf and the Darcy problem ∇·(f∇uf)=h. We transform this problem into the linear inverse problem of recovering Luf under the Dirichlet boundary condition, and show that Bayesian methods with priors placed either on uf or Luf for this problem yield optimal recovery rates not only for uf, but also for f. We also derive frequentist coverage guarantees for the corresponding Bayesian credible sets. Adaptive priors are shown to yield adaptive contraction rates for f, thus eliminating the need to know the smoothness of this function. The results are illustrated by numerical experiments on synthetic data sets.",
+   "url": "https://doi.org/10.1214/26-aos2634",
+   "doi": "10.1214/26-aos2634",
+   "pdf": "https://arxiv.org/pdf/2411.19797",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 Luf에서 f를 복구할 수 있을 만큼 풍부한 미분 연산자 L에 대해 해 uf의 잡음 관찰에서 Luf=c(f,uf) 형식으로 작성될 수 있는 편미분 방정식으로 미지의 함수 f를 복구하는 것을 고려합니다. 예에는 시간 독립적인 슈뢰딩거 방정식 Δuf=2uff, 흡수 항이 있는 열 방정식(∂t−Δx/2)uf=fuf 및 Darcy 문제 ∇·(f∇uf)=h가 포함됩니다. 우리는 이 문제를 Dirichlet 경계 조건 하에서 Luf를 복구하는 선형 역 문제로 변환하고, 이 문제에 대해 uf 또는 Luf에 사전을 배치한 베이지안 방법이 uf뿐만 아니라 f에 대해서도 최적의 복구율을 산출한다는 것을 보여줍니다. 우리는 또한 해당 베이지안 신뢰할 수 있는 집합에 대한 빈도주의 적용 범위 보장을 도출합니다. 적응형 사전확률은 f에 대한 적응형 수축률을 산출하는 것으로 나타났으므로 이 함수의 매끄러움을 알 필요가 없습니다. 결과는 합성 데이터 세트에 대한 수치 실험을 통해 설명됩니다."
+  },
+  "oa:W4405300997": {
+   "id": "oa:W4405300997",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Fast mixing of data augmentation algorithms: Bayesian probit, logit and lasso regression",
+   "authors": [
+    "Holden Lee",
+    "Kexin Zhang"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We propose using a modified conductance-based method to study the mixing time of an important class of two-block Gibbs samplers, the data augmentation (DA) algorithm. Using this method, we prove the first non-asymptotic polynomial upper bounds on mixing times of three important DA algorithms: DA algorithms for Bayesian Probit regression (ProbitDA) and Bayesian Logit regression (LogitDA), and Bayesian Lasso Regression (LassoDA). Concretely, for ProbitDA and LogitDA, we demonstrate a tight bound that explicitly depends on the design matrix and prior covariance matrix. Under the assumption that data are independently generated from either a sub-Gaussian or log-concave distribution and properly scaled, the bound implies that with η-warm start, parameter dimension d, and sample size n, with high probability over data, the two algorithms require O(nlog( logη ϵ)) steps to obtain samples with at most ϵ error in TV, KL or χ2 distance. Meanwhile, we show that under minimal data assumptions, LassoDA requires O(d2(dlogd+nlogn)2log(η ϵ)) steps to achieve ϵ-accuracy in TV distance. The results are generally applicable to settings with large n and large d, including settings with highly imbalanced response data in Probit and Logit regression. We compare them with the best known guarantees of Langevin Monte Carlo and Metropolis Adjusted Langevin Algorithm. We evaluate our theoretical results using numerical examples, and discuss the mixing times of the three algorithms under feasible initialization.",
+   "url": "https://doi.org/10.1214/26-aos2641",
+   "doi": "10.1214/26-aos2641",
+   "pdf": "https://arxiv.org/pdf/2412.07999",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 2블록 Gibbs 샘플러의 중요한 클래스인 데이터 증대(DA) 알고리즘의 혼합 시간을 연구하기 위해 수정된 컨덕턴스 기반 방법을 사용할 것을 제안합니다. 이 방법을 사용하여 세 가지 중요한 DA 알고리즘, 즉 베이지안 프로빗 회귀(ProbitDA) 및 베이지안 로짓 회귀(LogitDA) 및 베이지안 올가미 회귀(LassoDA)에 대한 DA 알고리즘의 혼합 시간에 대한 최초의 비점근 다항식 상한을 증명합니다. 구체적으로 ProbitDA와 LogitDA의 경우 설계 행렬과 사전 공분산 행렬에 명시적으로 의존하는 긴밀한 경계를 보여줍니다. 데이터가 하위 가우스 분포 또는 로그 오목 분포에서 독립적으로 생성되고 적절하게 크기가 조정된다는 가정 하에 경계는 데이터에 대한 높은 확률로 θ-warm start, 매개변수 차원 d 및 샘플 크기 n을 사용하여 두 알고리즘이 TV, KL 또는 χ2 거리에서 최대 ϵ 오류가 있는 샘플을 얻기 위해 O(nlog( logθ ϵ)) 단계가 필요함을 의미합니다. 한편, 우리는 최소한의 데이터 가정 하에서 LassoDA가 TV 거리에서 ϵ-정확도를 달성하기 위해 O(d2(dlogd+nlogn)2log(eta ϵ)) 단계가 필요하다는 것을 보여줍니다. 결과는 일반적으로 Probit 및 Logit 회귀 분석에서 매우 불균형한 반응 데이터가 있는 설정을 포함하여 큰 n 및 큰 d가 있는 설정에 적용 가능합니다. 우리는 이를 Langevin Monte Carlo 및 Metropolis 조정된 Langevin 알고리즘의 가장 잘 알려진 보증과 비교합니다. 우리는 수치적 예를 사용하여 이론적 결과를 평가하고, 실현 가능한 초기 조건에서 세 가지 알고리즘의 혼합 시간을 논의합니다."
+  },
+  "oa:W4392781355": {
+   "id": "oa:W4392781355",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Privacy guarantees in posterior sampling under contamination",
+   "authors": [
+    "Shenggang Hu",
+    "Louis J. M. Aslett",
+    "Hongsheng Dai",
+    "Murray Pollock",
+    "Gareth O. Roberts"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "In recent years, differential privacy has been adopted by tech-companies and governmental agencies as the standard for measuring privacy in algorithms. In this article, we study differential privacy in Bayesian posterior sampling settings. We begin by considering differential privacy in the most common privatisation setting in which Laplace or Gaussian noise is injected into the output. In an effort to achieve better differential privacy, we consider adopting Huber’s contamination model for use within privacy settings, and replace at random data points with samples from a heavy-tailed distribution (instead of injecting noise into the output). We derive bounds for the differential privacy level (ϵ,δ) of our approach, without requiring bounded observation and parameter spaces, a restriction commonly imposed in the literature. We further consider for our approach the effect of sample size on the privacy level and the rate at which (ϵ,δ) converges to zero. Asymptotically, our contamination approach is fully private with no information loss. We also provide examples of inference models for which our approach applies, with theoretical convergence rate analysis and simulation studies.",
+   "url": "https://doi.org/10.1214/26-aos2628",
+   "doi": "10.1214/26-aos2628",
+   "pdf": "https://doi.org/10.1214/26-aos2628",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "최근 몇 년 동안 기술 회사와 정부 기관에서는 알고리즘의 개인 정보 보호를 측정하기 위한 표준으로 차등 개인 정보 보호를 채택했습니다. 이 기사에서는 베이지안 사후 샘플링 설정의 차등 개인정보 보호에 대해 연구합니다. 우리는 Laplace 또는 Gaussian 잡음이 출력에 주입되는 가장 일반적인 사유화 설정에서 차등 프라이버시를 고려하는 것부터 시작합니다. 더 나은 차등 개인 정보 보호를 달성하기 위해 우리는 개인 정보 보호 설정 내에서 사용할 Huber의 오염 모델을 채택하고 (출력에 노이즈를 주입하는 대신) 두꺼운 꼬리 분포의 샘플로 무작위 데이터 포인트를 대체하는 것을 고려합니다. 우리는 문헌에서 일반적으로 부과되는 제한 사항인 제한된 관찰 및 매개변수 공간을 요구하지 않고 우리 접근 방식의 차등 프라이버시 수준(ϵ,δ)에 대한 경계를 도출합니다. 우리는 접근 방식을 위해 샘플 크기가 개인 정보 보호 수준에 미치는 영향과 (ϵ,δ)가 0으로 수렴되는 속도를 더 고려합니다. 점근적으로 우리의 오염 접근 방식은 정보 손실 없이 완전히 비공개입니다. 또한 이론적 수렴 속도 분석 및 시뮬레이션 연구를 통해 우리의 접근 방식이 적용되는 추론 모델의 예를 제공합니다."
+  },
+  "oa:W7203679902": {
+   "id": "oa:W7203679902",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Generalized multivariate threshold autoregressive models with linearly partitioned threshold space",
+   "authors": [
+    "Gan Yuan",
+    "Chun Yip Yau"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We consider a k-dimensional multiple-regime vector threshold autoregressive model, in which the regime-switching mechanism is governed by a bivariate threshold variable. Specifically, the regimes are induced by a partition of the threshold space by an unknown number of threshold lines. Within each regime, the process follows a specific vector autoregressive (VAR) model. We formulate the model selection and parameter estimation into a minimization problem based on the Minimum Description Length (MDL) principle and estimate the number of threshold lines, parametric forms of threshold lines and VAR model parameters in each regime simultaneously. Theoretically, we show that the MDL estimators of threshold lines are n-consistent and characterize their limiting distribution. This requires novel proving techniques of introducing a new functional space G for the local MDL difference functions and establishing weak convergence results therein. Finally, we conduct some empirical studies with simulated datasets and perform real data analyses on U.S. interest rates and U.S. GNP Data.",
+   "url": "https://doi.org/10.1214/26-aos2638",
+   "doi": "10.1214/26-aos2638",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 정권 전환 메커니즘이 이변량 임계값 변수에 의해 제어되는 k차원 다중 정권 벡터 임계값 자기회귀 모델을 고려합니다. 구체적으로, 정권은 알려지지 않은 수의 임계선에 의한 임계값 공간의 분할에 의해 유도됩니다. 각 체제 내에서 프로세스는 특정 벡터 자기회귀(VAR) 모델을 따릅니다. 우리는 최소 설명 길이(MDL) 원칙을 기반으로 모델 선택 및 매개변수 추정을 최소화 문제로 공식화하고 각 영역의 임계선 수, 임계선의 매개변수 형태 및 VAR 모델 매개변수를 동시에 추정합니다. 이론적으로 우리는 임계선의 MDL 추정자가 n-일관적이며 제한 분포를 특성화한다는 것을 보여줍니다. 이를 위해서는 로컬 MDL 차분 함수에 대한 새로운 기능 공간 G를 도입하고 그 안에서 약한 수렴 결과를 확립하는 새로운 증명 기술이 필요합니다. 마지막으로, 시뮬레이션된 데이터 세트를 사용하여 몇 가지 실증적 연구를 수행하고 미국 금리와 미국 GNP 데이터에 대한 실제 데이터 분석을 수행합니다."
+  },
+  "oa:W4388584668": {
+   "id": "oa:W4388584668",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Unbiased kinetic Langevin Monte Carlo with inexact gradients",
+   "authors": [
+    "Neil K. Chada",
+    "Benedict Leimkuhler",
+    "Daniel Paulin",
+    "Peter A. Whalley"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We present an unbiased method for Bayesian posterior means based on kinetic Langevin dynamics that combines advanced splitting methods with enhanced gradient approximations. Our approach avoids Metropolis correction by coupling Markov chains at different discretization levels in a multilevel Monte Carlo approach. Theoretical analysis demonstrates that our proposed estimator is unbiased, attains finite variance, and satisfies a central limit theorem. It can achieve accuracy ϵ&gt;0 for estimating expectations of Lipschitz functions in d dimensions with O(d1/4ϵ−2) expected gradient evaluations, without assuming warm start. We exhibit similar bounds using both approximate and stochastic gradients, and our method’s computational cost is shown to scale independently of the size of the dataset. The proposed method is tested using a multinomial regression problem on the MNIST dataset and a Poisson regression model for soccer scores. Experiments indicate that the number of gradient evaluations per effective sample is independent of dimension, even when using inexact gradients. For product distributions, we give dimension-independent variance bounds. Our results demonstrate that in large-scale applications, the unbiased algorithm we present can be 2–3 orders of magnitude more efficient than the “gold-standard” randomized Hamiltonian Monte Carlo.",
+   "url": "https://doi.org/10.1214/26-aos2630",
+   "doi": "10.1214/26-aos2630",
+   "pdf": "https://arxiv.org/pdf/2311.05025",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 고급 분할 방법과 향상된 그라데이션 근사를 결합한 운동 Langevin 역학을 기반으로 하는 베이지안 사후 평균에 대한 편향되지 않은 방법을 제시합니다. 우리의 접근 방식은 다단계 Monte Carlo 접근 방식에서 서로 다른 이산화 수준에서 Markov 체인을 결합하여 Metropolis 수정을 방지합니다. 이론적 분석은 우리가 제안한 추정기가 편향되지 않고 유한 분산을 달성하며 중심 극한 정리를 만족한다는 것을 보여줍니다. 웜 스타트를 가정하지 않고 O(d1/4ϵ−2) 예상 기울기 평가를 사용하여 d 차원에서 Lipschitz 함수의 기대치를 추정하기 위해 정확도 ϵ>0을 달성할 수 있습니다. 우리는 대략적인 기울기와 확률적 기울기를 모두 사용하여 유사한 경계를 나타내며, 우리 방법의 계산 비용은 데이터 세트의 크기와 독립적으로 확장되는 것으로 나타났습니다. 제안된 방법은 MNIST 데이터셋의 다항 회귀 문제와 축구 점수에 대한 포아송 회귀 모델을 사용하여 테스트되었습니다. 실험에 따르면 유효 샘플당 기울기 평가 횟수는 부정확한 기울기를 사용하는 경우에도 차원과 무관합니다. 제품 분포의 경우 차원에 독립적인 분산 한계를 제공합니다. 우리의 결과는 대규모 애플리케이션에서 우리가 제시하는 편견 없는 알고리즘이 \"최적 표준\" 무작위 해밀턴 몬테 카를로보다 2~3배 더 효율적일 수 있음을 보여줍니다."
+  },
+  "oa:W7203706921": {
+   "id": "oa:W7203706921",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Robust composite expectile regression in high dimensions",
+   "authors": [
+    "Yang Peng",
+    "Shanshan Wang",
+    "Xiaoxue Hu"
+   ],
+   "journal": "Econometrics and Statistics",
+   "date": "2026-08-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.ecosta.2026.08.001",
+   "doi": "10.1016/j.ecosta.2026.08.001",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abs_tries": 1
+  },
+  "oa:W4417092181": {
+   "id": "oa:W4417092181",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Local geometry of high-dimensional mixture models: Effective spectral theory and dynamical transitions",
+   "authors": [
+    "Gérard Ben Arous",
+    "Reza Gheissari",
+    "Jiaoyang Huang",
+    "Aukosh Jagannath"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "We study the local geometry of empirical risks in high dimensions via the spectral theory of their Hessian and information matrices. We focus on settings where the data, (Yℓ)ℓ=1n∈Rd, are i.i.d. draws of a k-Gaussian mixture model, and the loss depends on the projection of the data into a fixed number of vectors, namely x⊤Y, where x∈Rd×C are the parameters, and C need not equal k. This setting captures a broad class of problems such as classification by one and two-layer networks and regression on multi-index models. We provide exact formulas for the limits of the empirical spectral distribution and outlier eigenvalues and eigenvectors of such matrices in the proportional asymptotics limit, where the number of samples and dimension n,d→∞ and n/d=ϕ∈(0,∞). These limits depend on the parameters x only through the summary statistic of the (C+k)×(C+k) Gram matrix of the parameters and class means, G=(x,μ)⊤(x,μ). It is known that under general conditions, when x is trained by online stochastic gradient descent, the evolution of these same summary statistics along training converges to the solution of an autonomous system of ODEs, called the effective dynamics. This enables us to connect the training dynamics to the spectral theory of these matrices generated with test data. We demonstrate our general results by analyzing the effective spectrum along the effective dynamics in the case of multiclass logistic regression. In this setting, the empirical Hessian and information matrices have substantially different spectra, each with their own static and dynamical spectral transitions.",
+   "url": "https://doi.org/10.1214/26-aos2621",
+   "doi": "10.1214/26-aos2621",
+   "pdf": "https://arxiv.org/pdf/2502.15655",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "우리는 헤시안 및 정보 행렬의 스펙트럼 이론을 통해 고차원에서 경험적 위험의 국지적 기하학을 연구합니다. 우리는 데이터 (Yℓ)ℓ=1n∈Rd가 i.i.d인 설정에 중점을 둡니다. k-가우스 혼합 모델을 그리고 손실은 고정된 수의 벡터, 즉 x⊤Y로의 데이터 투영에 따라 달라집니다. 여기서 x∈Rd×C는 매개변수이고 C는 k와 같을 필요가 없습니다. 이 설정은 1계층 및 2계층 네트워크에 의한 분류와 다중 인덱스 모델의 회귀와 같은 광범위한 종류의 문제를 포착합니다. 우리는 경험적 스펙트럼 분포의 한계와 비례점근법에서 이러한 행렬의 이상치 고유값과 고유벡터에 대한 정확한 공식을 제공합니다. 여기서 샘플 수와 차원은 n,d→무엇이고 n/d=ψ∈(0,무한대)입니까? 이러한 한계는 매개변수 및 클래스 평균 G=(x,μ)⊤(x,μ)의 (C+k)×(C+k) 그람 행렬의 요약 통계를 통해서만 매개변수 x에 따라 달라집니다. 일반적인 조건에서 x가 온라인 확률적 경사하강법으로 훈련될 때 훈련에 따른 이러한 동일한 요약 통계의 진화는 유효 동역학이라고 불리는 자율 ODE 시스템의 해법으로 수렴되는 것으로 알려져 있습니다. 이를 통해 훈련 역학을 테스트 데이터로 생성된 이러한 행렬의 스펙트럼 이론에 연결할 수 있습니다. 다중 클래스 로지스틱 회귀 분석의 경우 유효 역학을 따라 유효 스펙트럼을 분석하여 일반적인 결과를 보여줍니다. 이 설정에서 경험적 헤세 행렬과 정보 행렬 h"
+  },
+  "oa:W7203722253": {
+   "id": "oa:W7203722253",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "DiPMInd: Distance profile based mutual independence testing for random objects",
+   "authors": [
+    "Yaqing Chen",
+    "Paromita Dubey"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "This paper develops a novel unified framework for testing mutual independence among random objects residing in possibly different metric spaces. The framework generalizes existing methodologies and introduces new measures of mutual independence, and proposes associated tests that achieve minimax rate optimality and exhibit strong empirical power. The foundation of the proposed tests is the new concept of joint distance profiles, which uniquely characterize the joint law of random objects under a mild condition on either the joint law or the metric spaces. Our test statistics quantify the difference of the joint distance profiles of each data point with respect to the joint law and the product of marginal laws of the vector of random objects. To enhance power, we consider integrating this difference with respect to different measures and incorporate flexible data-adaptive weight profiles in the test statistics. We derive the limiting distribution of the test statistics under the null hypothesis of mutual independence and show that the proposed tests with certain weight profiles are asymptotically distribution-free if the marginal distance profiles are continuous. Furthermore, we establish the consistency of the tests under sequences of alternative hypotheses converging to the null. For practical implementations, we employ a permutation scheme to approximate the p-values and provide theoretical guarantees that the permutation-based tests maintain type I error control under the null and achieve consistency under alternatives. We demonstrate the power of the proposed tests across various types of data objects through simulations and real data applications, where the new tests exhibit better performance compared with popular existing approaches.",
+   "url": "https://doi.org/10.1214/26-aos2624",
+   "doi": "10.1214/26-aos2624",
+   "pdf": "",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "본 논문에서는 서로 다른 미터법 공간에 있는 임의의 개체 간의 상호 독립성을 테스트하기 위한 새로운 통합 프레임워크를 개발합니다. 프레임워크는 기존 방법론을 일반화하고 상호 독립성에 대한 새로운 측정값을 도입하며, 최소 최대 비율 최적성을 달성하고 강력한 경험적 힘을 나타내는 관련 테스트를 제안합니다. 제안된 테스트의 기초는 결합 법칙 또는 미터법 공간의 온화한 조건에서 임의 개체의 결합 법칙을 고유하게 특성화하는 새로운 개념의 결합 거리 프로파일입니다. 우리의 테스트 통계는 결합 법칙 및 무작위 객체 벡터의 한계 법칙의 곱과 관련하여 각 데이터 포인트의 결합 거리 프로파일의 차이를 정량화합니다. 검정력을 향상시키기 위해 다양한 측정값에 대한 이러한 차이를 통합하고 테스트 통계에 유연한 데이터 적응형 가중치 프로필을 통합하는 것을 고려합니다. 우리는 상호 독립의 귀무 가설 하에서 테스트 통계의 제한 분포를 도출하고 한계 거리 프로파일이 연속적이라면 특정 가중치 프로파일을 사용하여 제안된 테스트가 점근적으로 분포가 없음을 보여줍니다. 또한, 우리는 null로 수렴하는 일련의 대안 가설 하에서 테스트의 일관성을 확립합니다. 실제 구현을 위해 우리는 순열 방식을 사용하여 p-값을 근사화하고 순열 기반 테스트가 다음 조건 하에서 제1종 오류 제어를 유지한다는 이론적 보장을 제공합니다."
+  },
+  "oa:W4405425641": {
+   "id": "oa:W4405425641",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Improved thresholds for e-values",
+   "authors": [
+    "Christopher Blier-Wong",
+    "Ruodu Wang"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "The rejection threshold used for e-values and e-processes is by default set to 1/α for a guaranteed type-I error control at α, based on Markov’s and Ville’s inequalities. This threshold can be wasteful in practical applications. We discuss how this threshold can be improved under additional distributional assumptions on the e-values; some of these assumptions are naturally plausible and empirically observable, without knowing explicitly the form or model of the e-values. For small values of α, the threshold can roughly be improved (divided) by a factor of 2 for decreasing or unimodal densities, and by a factor of e for decreasing or unimodal-symmetric densities of log-transformed e-values. Moreover, we propose to use the supremum of comonotonic e-values, which is shown to preserve the type-I error guarantee. We also propose some preliminary methods to boost e-values in the e-BH procedure under some distributional assumptions while controlling the false discovery rate. Through a series of simulation studies, we demonstrate the effectiveness of our proposed methods in various testing scenarios, showing enhanced power.",
+   "url": "https://doi.org/10.1214/26-aos2626",
+   "doi": "10.1214/26-aos2626",
+   "pdf": "https://arxiv.org/pdf/2408.11307",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "e-값 및 e-프로세스에 사용되는 거부 임계값은 Markov와 Ville의 부등식을 기반으로 α에서 보장된 제1종 오류 제어를 위해 기본적으로 1/α로 설정됩니다. 이 임계값은 실제 응용 프로그램에서는 낭비일 수 있습니다. 우리는 e-value에 대한 추가적인 분포 가정 하에서 이 임계값을 어떻게 개선할 수 있는지 논의합니다. 이러한 가정 중 일부는 e-값의 형식이나 모델을 명시적으로 알지 못해도 자연적으로 그럴듯하고 경험적으로 관찰 가능합니다. 작은 α 값의 경우 임계값은 감소 또는 단봉 밀도의 경우 2배로, 로그 변환된 e-값의 감소 또는 단봉 대칭 밀도의 경우 e의 계수로 대략적으로 개선(나누)될 수 있습니다. 더욱이, 우리는 제1종 오류 보장을 보존하는 것으로 나타난 공조적 e-값의 상한을 사용할 것을 제안합니다. 우리는 또한 잘못된 발견율을 제어하면서 일부 분포 가정 하에서 e-BH 절차에서 e-값을 높이는 몇 가지 예비 방법을 제안합니다. 일련의 시뮬레이션 연구를 통해 다양한 테스트 시나리오에서 제안된 방법의 효율성을 입증하고 향상된 성능을 보여줍니다."
+  },
+  "oa:W4390723626": {
+   "id": "oa:W4390723626",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "A nonasymptotic distributional theory of approximate message passing for sparse and robust regression",
+   "authors": [
+    "Gen Li",
+    "Yuting Wei"
+   ],
+   "journal": "The Annals of Statistics",
+   "date": "2026-08-01",
+   "abstract": "Characterizing the distribution of high-dimensional statistical estimators is a challenging task, due to the breakdown of classical asymptotic theory in high dimension. This paper makes progress towards this by developing non-asymptotic distributional characterizations for approximate message passing (AMP)—a family of iterative algorithms that prove effective as both fast estimators and powerful theoretical machinery—for both sparse and robust regression. Prior AMP theory, which focused on high-dimensional asymptotics for the most part, failed to describe the behavior of AMP when the number of iterations exceeds o(logn/loglogn) (with n the sample size). Our AMP theory is further leveraged to derive a refined rate for the Lasso estimator, built upon a nonasymptotic convergence of AMP to Lasso. To the best of our knowledge, this is the first result of its kind, breaking the rate barrier resulting from the widely adopted Gaussian min-max theorem. Our results establish approximate accuracy of Gaussian approximation of the AMP iterates, which improves upon prior results and implies enhanced distributional characterizations for both optimally tuned Lasso and robust M-estimator.",
+   "url": "https://doi.org/10.1214/25-aos2612",
+   "doi": "10.1214/25-aos2612",
+   "pdf": "https://arxiv.org/pdf/2401.03923",
+   "first_seen": "2026-08-20T07:49:26+09:00",
+   "abstract_ko": "고차원 통계적 추정량의 분포를 특성화하는 것은 고전적 점근 이론이 고차원에서 붕괴되었기 때문에 어려운 작업입니다. 본 논문에서는 희소 회귀와 강건 회귀 모두에 대해 빠른 추정기이자 강력한 이론적 기계로서 효과적인 것으로 입증된 반복 알고리즘 계열인 근사 메시지 전달(AMP)을 위한 비점근 분포 특성화를 개발하여 이를 향한 진전을 이루었습니다. 대부분 고차원 점근법에 초점을 맞춘 이전 AMP 이론은 반복 횟수가 o(logn/loglogn)(샘플 크기 n)을 초과할 때 AMP의 동작을 설명하지 못했습니다. 우리의 AMP 이론은 Lasso에 대한 AMP의 비점근적 수렴을 기반으로 구축된 Lasso 추정기에 대한 세련된 비율을 도출하기 위해 더욱 활용됩니다. 우리가 아는 한, 이는 널리 채택된 가우스 최소-최대 정리로 인한 속도 장벽을 깨뜨린 최초의 결과입니다. 우리의 결과는 AMP 반복의 가우스 근사치의 대략적인 정확도를 설정하며, 이는 이전 결과를 개선하고 최적으로 조정된 Lasso와 강력한 M-추정기에 대한 향상된 분포 특성을 의미합니다."
   }
  }
 }
