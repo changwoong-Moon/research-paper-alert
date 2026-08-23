@@ -13,7 +13,9 @@
 | Claude 아침 브리핑 (claude.ai 루틴 trig_01SFLtfbKbG6SZW92kjVp42b) | Anthropic 클라우드 | 매일 08:30 KST |
 
 - 대시보드: https://changwoong-moon.github.io/research-paper-alert/
-- 주제 3개: 행정학 연구동향(SSCI PA 전체+지역학+국내), 사회과학방법론, 계량경제·통계 — papers.py 상단 `TOPICS`에서 조정
+- 주제 4개: 행정학 연구동향(SSCI PA 전체+지역학+국내), 사회과학방법론, 계량경제·통계,
+  AI·머신러닝(2026-08-23 신설: AI 거버넌스·정책 14종 + 계산사회과학 8종 + 핵심 ML 7종 + 국내 6종)
+  — papers.py 상단 `TOPICS`에서 조정
 
 ## 꼭 알아야 할 제약 (하드코딩된 이유들)
 
@@ -25,7 +27,14 @@
 3. **번역은 무키 Google 엔드포인트** (translate_a/single?client=gtx, POST). IP당 ~130건에서 장시간 제한이
    걸리므로 실행당 그 이상은 불가 — 대량 백필은 워크플로를 여러 번 실행(실행마다 러너 IP가 바뀜).
    상한은 workflow_dispatch 입력 `translate_cap`으로 조절.
-4. **저널 대량 추가 시** workflow_dispatch 입력 `backdate=1`로 실행해 NEW 배지 폭주를 막을 것.
+4. **주제를 새로 추가할 때는 조치 불필요** — state.json에 기록이 없는 주제는 첫 수집이 자동
+   소급 처리되어 NEW 배지·이메일·브리핑에서 빠진다(`fresh_topics`). 반면 **기존 주제에 저널만
+   대량 추가할 때는** 여전히 workflow_dispatch 입력 `backdate=1`이 필요하다.
+   또한 **주제당 수집 상한은 1,600편**(200편 x 8페이지)이다. 저널을 추가하기 전에 90일 물량을
+   `https://api.openalex.org/works?filter=primary_location.source.id:<ID>,from_publication_date:<날짜>,type:article|review&per-page=1`
+   의 `meta.count`로 실측할 것. 종합지(PNAS Nexus 등)는 주제와 무관한 논문이 대량 유입되므로 피한다.
+   OpenAlex는 IP당 일일 쿼터가 있어 대량 조회 후 429가 뜰 수 있다(Retry-After 수 시간) — 이때는
+   PC에서 돌리지 말고 GitHub Actions(러너 IP가 매번 다름)에 맡길 것.
 5. Wiley/Springer 일부는 공개 API에 초록 미제공. Crossref→SemanticScholar 보충 후에도 없으면
    "초록 미제공" 표시가 정상. Springer는 SPRINGER_API_KEY 시크릿(선택) 등록 시 보충 가능.
 6. state.json의 `first_seen`이 NEW 배지(3일)·이메일(26시간)·브리핑(26시간)의 기준.

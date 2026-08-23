@@ -196,6 +196,64 @@ TOPICS = [
         },
         "kci_journals": [],
     },
+    {
+        "key": "ai-ml",
+        "name": "AI·머신러닝",
+        # 2026-08-23 신설. 학술지별 90일 물량을 OpenAlex로 실측해 선별함(주석의 편수는 실측 당시 기준).
+        # 선별 기준: (1) AI/ML이 주력인 학술지만 — 종합지(PNAS Nexus·Nature Human Behaviour)는
+        # AI 아닌 논문이 대량 유입되어 제외 (2) 공학 중심 고물량지 제외 — Neural Networks(385),
+        # Information Fusion(214), Applied Intelligence(122), MLST(113), AI Review(95),
+        # ACM Computing Surveys(85), IEEE TKDE(73), J. of Big Data(74) (3) 학회 프로시딩
+        # (NeurIPS·ICML·ICLR·AAAI·ACL)·arXiv는 색인되면 물량 폭주 위험이라 제외.
+        # 주제당 수집 상한은 1,600편(200편 x 8페이지)이므로 합계가 이에 근접하면 오래된 논문부터 잘림.
+        "openalex_sources": {
+            # --- AI 거버넌스·정책·윤리 (행정학 적합도 최상) 약 588편
+            "S4210190517": "AI & Society",                        # 191
+            "S4210170699": "AI and Ethics",                       # 167
+            "S23735784": "Philosophy & Technology",               # 54
+            "S120991925": "Telecommunications Policy",            # 46
+            "S2736409588": "Big Data & Society",                  # 41
+            "S160466889": "Minds and Machines",                   # 15
+            "S201710173": "Government Information Quarterly",     # 15
+            "S13096939": "Ethics and Information Technology",     # 13
+            "S4210186663": "J. of Responsible Technology",        # 12
+            "S2181421": "Science, Technology & Human Values",     # 11
+            "S2764374723": "Information Polity",                  # 10
+            "S4210232200": "Digital Government: Research and Practice",  # 7
+            "S4210177192": "Internet Policy Review",              # 4
+            "S4210198237": "Data & Policy",                       # 2
+            # --- 계산사회과학·데이터과학 (방법론 적용) 약 239편
+            "S2492086750": "ACM Trans. on Intelligent Systems and Technology",  # 58
+            "S98984247": "Computational Economics",               # 46
+            "S4210198061": "Patterns",                            # 39
+            "S121920818": "Data Mining and Knowledge Discovery",  # 32
+            "S2504380752": "EPJ Data Science",                    # 27
+            "S127118166": "Social Science Computer Review",       # 13
+            "S4306511929": "Harvard Data Science Review",         # 13
+            "S4210196583": "J. of Computational Social Science",  # 11
+            # --- 핵심 AI/ML 저널 (연구동향 파악) 약 207편
+            "S62148650": "Machine Learning",                      # 70
+            "S2912241403": "Nature Machine Intelligence",         # 52
+            "S139930977": "J. of Artificial Intelligence Research",  # 49
+            "S196139623": "Artificial Intelligence",              # 21
+            "S163019073": "AI Magazine",                          # 약 10
+            # IEEE 2종은 OpenAlex 색인 지연으로 실제 유입이 거의 없음(TPAMI 2편·TNNLS 3편) —
+            # 넣어둬도 부담은 없으나 "커버된다"고 기대하면 안 됨
+            "S199944782": "IEEE Trans. on Pattern Analysis and Machine Intelligence",
+            "S4210175523": "IEEE Trans. on Neural Networks and Learning Systems",
+        },
+        # KCI 부분일치 실측(2026-08-23, 최근 90일): 정보화정책 10편(정보통신정책연구 포함),
+        # 지능정보연구 17편, 과학기술학연구 13편, 한국지역정보화학회지 6편,
+        # 한국빅데이터 15편, 인공지능 34편(인공지능윤리연구·AI와 인간사회 등 5종) — 합계 약 95편
+        "kci_journals": [
+            "정보화정책",
+            "지능정보연구",
+            "과학기술학연구",
+            "한국지역정보화학회지",
+            "한국빅데이터",
+            "인공지능",
+        ],
+    },
 ]
 
 SKIP_TITLE_PREFIXES = (
@@ -597,14 +655,17 @@ def load_state():
     return {"papers": {}}
 
 
-def merge_records(state, records, bootstrap):
+def merge_records(state, records, backdate, fresh_topics=()):
+    """backdate가 참이거나 레코드의 주제가 fresh_topics(이번에 새로 추가된 주제)에 속하면
+    first_seen을 소급 기록해 NEW 배지·이메일·브리핑에서 제외한다."""
     now_iso = NOW.isoformat(timespec="seconds")
     backdated = (NOW - timedelta(days=NEW_DAYS + 1)).isoformat(timespec="seconds")
     added = 0
     for rec in records:
         old = state["papers"].get(rec["id"])
         if old is None:
-            rec["first_seen"] = backdated if bootstrap else now_iso
+            back = backdate or rec.get("topic") in fresh_topics
+            rec["first_seen"] = backdated if back else now_iso
             state["papers"][rec["id"]] = rec
             added += 1
         else:
@@ -901,18 +962,25 @@ def main():
     backdate = bootstrap or BACKDATE_NEW
     if BACKDATE_NEW:
         print("BACKDATE_NEW: 이번 실행의 신규 논문은 NEW로 표시하지 않습니다.")
+    # TOPICS에 주제를 새로 추가하면 첫 수집에서 수백 편이 한꺼번에 NEW로 잡혀
+    # 배지·이메일·브리핑이 폭주한다. 상태 파일에 기록이 없는 주제는 자동으로 소급 처리한다.
+    known_topics = set(r.get("topic") for r in state["papers"].values())
+    fresh_topics = set(t["key"] for t in TOPICS if t["key"] not in known_topics)
+    if fresh_topics and not backdate:
+        print("새 주제 %s: 첫 수집이므로 NEW로 표시하지 않습니다."
+              % ", ".join(sorted(fresh_topics)))
     total_added = 0
     kci_live_total = 0
     for topic in TOPICS:
         recs = fetch_openalex(topic)
-        total_added += merge_records(state, recs, backdate)
+        total_added += merge_records(state, recs, backdate, fresh_topics)
         time.sleep(1.5)
         kci_recs, _ = fetch_kci(topic)
         kci_live_total += len(kci_recs)
-        total_added += merge_records(state, kci_recs, backdate)
+        total_added += merge_records(state, kci_recs, backdate, fresh_topics)
     kci_file_recs, kci_fetched_at = load_kci_file()
     if kci_file_recs:
-        total_added += merge_records(state, kci_file_recs, backdate)
+        total_added += merge_records(state, kci_file_recs, backdate, fresh_topics)
     if kci_live_total:
         kci_status = "정상(직접 호출)"
     elif kci_file_recs:
