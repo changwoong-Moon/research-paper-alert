@@ -1,5 +1,5 @@
 {
-    "fetched_at":  "2026-08-25T21:01:16+09:00",
+    "fetched_at":  "2026-08-26T08:25:55+09:00",
     "records":  [
                     {
                         "id":  "kci:ART003347187",
@@ -2636,6 +2636,126 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003366321",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "지탱(支撑)하는 것들을 다채롭게 바라보기: 과학기술학에서 인프라스트럭처 연구에 대한 나의 사유",
+                        "authors":  [
+                                        "한도연"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366321",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003366319",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "“STS란 무엇인가?”라는 질문 이후에",
+                        "authors":  [
+                                        "홍성욱"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366319",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003366313",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "기계에 저항할 권리를 선언하다",
+                        "authors":  [
+                                        "김지연"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366313",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003366300",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "자연의 부활 신화를 해체하기: 보철을 단 밤섬과 일원론적 자연문화",
+                        "authors":  [
+                                        "권무순"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "1968년 여의도 개발을 위해 폭파되어 사라졌던 한강 밤섬은 모래 퇴적 과정을 통해 전보다 더 큰 크기로 되살아났다. 부활한 밤섬은 서울시 생태경관보전지역(1999), 람사르 습지(2012) 등으로 지정되며, 자연의 강력한 자생력을 보여주는 극적인 사례로 손꼽힌다. 그러나 밤섬 부활은 단순한 자연적 과정이 아닌 비/인간 행위자들이 함께 얽힌 혼종적 과정이었다. 아무리 파괴된 자연이라도 인간이 손대지 않으면 되살아날 수 있다는 이 같은 ‘자연의 부활 신화’는 자연/문화 이분법을 가정할 뿐 아니라 다시금 강화하고 그 역사적 과정을 은폐하는 역할을 한다. 따라서 부활 신화를 극복하기 위해서는 그 근간에 있는 자연/문화 이분법을 먼저 극복해야 한다. 본 연구는 해러웨이가 제안한 자연문화 관점을 바탕으로 밤섬 부활의 역사적 과정을 밝혀냄으로써 그 같은 신화를 해체한다. 파괴 전 밤섬은 순수한 자연 공간이 아닌 주민들이 살던 자연문화 공간이었다. 밤섬 폭파는 섬뿐만 아니라 이들이 오랫동안 직조해온 자연문화도 함께 단절시켰다. 폭사한 밤섬은 이후 한강종합개발을 통해 기술적 보철을 달고 되살아났으며, 서강대교 건설을 둘러싼 논쟁을 겪은 이후에 그 생존을 제도적으로 보장받게 된다. 결론적으로 본 연구는 복원된/부활한 밤섬이 그 신화와 달리 비/인간이 함께 얽혀 끊임없이 직조되는 새로운 자연문화 공간이라고 주장한다. 이는 복원된/부활한 밤섬이 기술 혹은 자연의 일방적 작용의 결과가 아니라, 다종적 행위자들의 정치적 협상을 통해 계속해서 직조되는 관계적 공간임을 의미한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366300",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003366309",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "STS 하기로서의 실험실 민족지: 실험실 연구를 다시 읽기",
+                        "authors":  [
+                                        "김연화"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "본 논문은 과학기술학(STS)의 형성과 발전에 중요한 역할을 해 온 실험실 연구(laboratory studies)를 실험실 민족지(laboratory ethnography)라는 분석 개념을 통해 다시 읽는다. 실험실 연구는 초기 STS의 대표적인 연구 전통으로 과학지식이 자연을 반영한 결과가 아니라, 실험 장비, 물질, 데이터, 연구자들의 실천과 상호작용 속에서 구성된다는 점을 보여주었다. 이후 실험실 민족지는 과학자의 몸과 감각, 실험을 유지하는 노동, 비서구 과학의 실천 등을 탐구하며 과학지식의 구성에 참여하는 존재와 관계의 범위를 새롭게 드러내었다. 본 논문은 이러한 변화를 단순한 연구 주제의 확장으로 이해하기보다, 실험실 민족지가 연구 대상, 연구 방법, 글쓰기가 서로 분리될 수 없음을 지속적으로 탐구해 온 연구 전통이었으며, STS의 핵심 문제들이 형성되고 재구성되어 온 실천의 장이었다고 주장한다. 초기의 구성성 논의와 성찰성 논쟁에서 출발한 실험실 민족지는 점차 연구자의 위치성, 개입, 돌봄을 함께 사유하는 방향으로 나아갔으며, 이를 통해 STS가 과학을 연구하는 방식뿐 아니라 자기 자신의 연구를 수행하는 방식을 함께 재구성해 왔다. 이러한 의미에서 본 논문은 실험실 민족지를 STS의 한 하위 분야가 아니라, 오늘날에도 여전히 \"어떻게 STS를 할 것인가(doing STS)\"를 가장 집약적으로 탐구하는 연구 실천으로 위치 짓는다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366309",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003366322",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "생성의 의미를 찾아서: 학회에서 다시 배운 연구자의 자세",
+                        "authors":  [
+                                        "이효재"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366322",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003366316",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "몸은 어떻게 성이 되는가: 『섹싱 더 바디』가 생물학과젠더 사이에 던진 질문",
+                        "authors":  [
+                                        "정우현"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366316",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003366317",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "에너지 전환의 얽히고설킨 역사: “탄소스러운 삶”의 오래된 모습 발견하기",
+                        "authors":  [
+                                        "조승희"
+                                    ],
+                        "journal":  "과학기술학연구",
+                        "date":  "2026-07",
+                        "abstract":  "",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366317",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003366308",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -2696,21 +2816,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003366317",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "에너지 전환의 얽히고설킨 역사: “탄소스러운 삶”의 오래된 모습 발견하기",
-                        "authors":  [
-                                        "조승희"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366317",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003366304",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -2723,111 +2828,6 @@
                         "date":  "2026-07",
                         "abstract":  "디지털 기술의 발전과 함께 소셜미디어는 21세기 정치 참여의 핵심 공간으로 부상하며, 플랫폼의 기술적 특수성은 정치 참여의 양상에 중요한 차이를 만들어내고 있다. 기존 연구가 주로 디지털 기술이 이용자의 정보 접근, 정치적 태도, 참여 양상에 미치는 영향을 주목해온 반면, 본 연구는 플랫폼의 디지털 인공물이 단순히 정치 참여에 영향을 주는 것을 넘어, 참여자와 상호작용하며 실제 정치 참여가 번역·우회·재해석되는 장면을 미시적으로 포착하는 것을 목표로 한다. 이를 위해 인스타그램, 트위터(X), 에브리타임을 대상으로, 각 플랫폼의 핵심 디지털 인공물의 기능을 분석하고 플랫폼별 이용자 심층 인터뷰를 병행하는 질적 연구를 수행한다. 본 연구는 디지털 인공물이 실제 참여 과정에서 행위자와 어떠한 네트워크를 형성하는지, 그리고 이 네트워크가 각 플랫폼의 고유한 장소성을 수행하며 결과적으로 어떻게 다른 형태의 정치적 실천을 가능하게 하는지 심층 분석하고자 한다. 궁극적으로 본 연구는 기술과 인간 행위자가 얽힌 복잡한 네트워크를 설득력 있게 제시함으로써 플랫폼 정치 연구에 새로운 분석적 관점을 제공하고자 한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366304",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003366321",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "지탱(支撑)하는 것들을 다채롭게 바라보기: 과학기술학에서 인프라스트럭처 연구에 대한 나의 사유",
-                        "authors":  [
-                                        "한도연"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366321",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003366300",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "자연의 부활 신화를 해체하기: 보철을 단 밤섬과 일원론적 자연문화",
-                        "authors":  [
-                                        "권무순"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "1968년 여의도 개발을 위해 폭파되어 사라졌던 한강 밤섬은 모래 퇴적 과정을 통해 전보다 더 큰 크기로 되살아났다. 부활한 밤섬은 서울시 생태경관보전지역(1999), 람사르 습지(2012) 등으로 지정되며, 자연의 강력한 자생력을 보여주는 극적인 사례로 손꼽힌다. 그러나 밤섬 부활은 단순한 자연적 과정이 아닌 비/인간 행위자들이 함께 얽힌 혼종적 과정이었다. 아무리 파괴된 자연이라도 인간이 손대지 않으면 되살아날 수 있다는 이 같은 ‘자연의 부활 신화’는 자연/문화 이분법을 가정할 뿐 아니라 다시금 강화하고 그 역사적 과정을 은폐하는 역할을 한다. 따라서 부활 신화를 극복하기 위해서는 그 근간에 있는 자연/문화 이분법을 먼저 극복해야 한다. 본 연구는 해러웨이가 제안한 자연문화 관점을 바탕으로 밤섬 부활의 역사적 과정을 밝혀냄으로써 그 같은 신화를 해체한다. 파괴 전 밤섬은 순수한 자연 공간이 아닌 주민들이 살던 자연문화 공간이었다. 밤섬 폭파는 섬뿐만 아니라 이들이 오랫동안 직조해온 자연문화도 함께 단절시켰다. 폭사한 밤섬은 이후 한강종합개발을 통해 기술적 보철을 달고 되살아났으며, 서강대교 건설을 둘러싼 논쟁을 겪은 이후에 그 생존을 제도적으로 보장받게 된다. 결론적으로 본 연구는 복원된/부활한 밤섬이 그 신화와 달리 비/인간이 함께 얽혀 끊임없이 직조되는 새로운 자연문화 공간이라고 주장한다. 이는 복원된/부활한 밤섬이 기술 혹은 자연의 일방적 작용의 결과가 아니라, 다종적 행위자들의 정치적 협상을 통해 계속해서 직조되는 관계적 공간임을 의미한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366300",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003366319",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "“STS란 무엇인가?”라는 질문 이후에",
-                        "authors":  [
-                                        "홍성욱"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366319",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003366309",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "STS 하기로서의 실험실 민족지: 실험실 연구를 다시 읽기",
-                        "authors":  [
-                                        "김연화"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "본 논문은 과학기술학(STS)의 형성과 발전에 중요한 역할을 해 온 실험실 연구(laboratory studies)를 실험실 민족지(laboratory ethnography)라는 분석 개념을 통해 다시 읽는다. 실험실 연구는 초기 STS의 대표적인 연구 전통으로 과학지식이 자연을 반영한 결과가 아니라, 실험 장비, 물질, 데이터, 연구자들의 실천과 상호작용 속에서 구성된다는 점을 보여주었다. 이후 실험실 민족지는 과학자의 몸과 감각, 실험을 유지하는 노동, 비서구 과학의 실천 등을 탐구하며 과학지식의 구성에 참여하는 존재와 관계의 범위를 새롭게 드러내었다. 본 논문은 이러한 변화를 단순한 연구 주제의 확장으로 이해하기보다, 실험실 민족지가 연구 대상, 연구 방법, 글쓰기가 서로 분리될 수 없음을 지속적으로 탐구해 온 연구 전통이었으며, STS의 핵심 문제들이 형성되고 재구성되어 온 실천의 장이었다고 주장한다. 초기의 구성성 논의와 성찰성 논쟁에서 출발한 실험실 민족지는 점차 연구자의 위치성, 개입, 돌봄을 함께 사유하는 방향으로 나아갔으며, 이를 통해 STS가 과학을 연구하는 방식뿐 아니라 자기 자신의 연구를 수행하는 방식을 함께 재구성해 왔다. 이러한 의미에서 본 논문은 실험실 민족지를 STS의 한 하위 분야가 아니라, 오늘날에도 여전히 \"어떻게 STS를 할 것인가(doing STS)\"를 가장 집약적으로 탐구하는 연구 실천으로 위치 짓는다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366309",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003366313",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "기계에 저항할 권리를 선언하다",
-                        "authors":  [
-                                        "김지연"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366313",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003366322",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "생성의 의미를 찾아서: 학회에서 다시 배운 연구자의 자세",
-                        "authors":  [
-                                        "이효재"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366322",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003366316",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "몸은 어떻게 성이 되는가: 『섹싱 더 바디』가 생물학과젠더 사이에 던진 질문",
-                        "authors":  [
-                                        "정우현"
-                                    ],
-                        "journal":  "과학기술학연구",
-                        "date":  "2026-07",
-                        "abstract":  "",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366316",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3414,6 +3414,21 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003362121",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "AI·SW 교육에서 생성형 AI 도구 활용 역량과 산출물 검증 역량의 교육 요소 탐색: 코드 생성 사례를 중심으로",
+                        "authors":  [
+                                        "양근석"
+                                    ],
+                        "journal":  "인공지능연구 논문지",
+                        "date":  "2026-06",
+                        "abstract":  "생성형 AI 도구의 확산으로 AI·SW 교육에서 학습자의 활동은 단순한 코드 작성에서 AI 산출물의 이해, 실행, 검증, 수정, 설명으로 확장되고 있다. 본 연구는 생성형 AI 기반 코드 생성 활동에서 요구되는 AI 도구 활용 역량과 AI 산출물 검증 역량의 교육 요소를 탐색하는 데 목적이 있다. 이를 위해 UNESCO AI 역량 프레임워크, 생성형 AI 교육 지침, AI 리터러시 및 프로그래밍 교육 관련 연구를 검토하고, 초급·중급 프로그래밍 수업에서 활용 가능한 교육용 코드 생성 사례를 분석하였다. 연구 결과, 코드 생성 활동은 문제 이해, 프롬프트 구성, 코드 생성, 코드 해석, 실행 확인, 테스트 검증, 오류 수정, 윤리·보안 검토, 자기 설명의 단계로 구조화될 수 있었다. 또한 AI 도구 활용 역량, 코드 이해 역량, 실행·테스트 검증 역량, 오류 수정 역량, 근거 제시 역량, 책임 있는 활용 역량으로 구성된 AI·SW 코드 생성 검증 역량 프레임워크를 제안하였다. 본 연구는 코드 생성 사례와 검증 행동을 수업 활동 및 평가 루브릭으로 연결함으로써, 생성형 AI 활용 교육이 도구 사용 중심을 넘어 AI 산출물을 비판적으로 검토하고 책임 있게 활용하는 교육으로 확장될 수 있는 구체적 경로를 제시한다. 제안된 9단계 학습 과정, 6개 역량 범주, 5수준 루브릭은 프로그래밍 수업, AI 기초 수업, SW 융합 수업에서 생성형 AI 활용 과제를 설계할 때 참고할 수 있는 실행 가능한 틀을 제공한다. 본 연구는 생성형 AI 활용 교육을 프롬프트 작성과 코드 생성 중심에서 실행 검증, 테스트 설계, 오류 수정, 근거 제시, 책임 있는 활용을 포함하는 검증 중심 학습으로 확장하기 위한 교육 설계 기준을 제공한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362121",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003359798",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3441,21 +3456,6 @@
                         "date":  "2026-06",
                         "abstract":  "본 연구는 2026년 3월까지 발표된 인간-AI 협력 관련 경험연구를 체계적으로 수집·선별하여, 그 시기별 분포와 상호작용 구조, 교육적 함의를 분석하는 데 목적이 있다. 특히 인간-AI 협력이라는 표현이 연구와 실천 맥락에서 언제부터 본격적으로 사용되기 시작했는지, 그리고 교육 맥락에서 그러한 협력이 어떠한 신뢰, 상호작용 주도권, 인식적 주체성의 조건 위에서 성립하는지를 검토하였다. 본 연구는 PRISMA 2020 보고 지침에 따라 문헌 검색, 중복 제거, 제목·초록 검토, 전문 적격성 검토의 절차를 거쳐 최종 분석 대상을 확정하였다. 최종 코퍼스는 162편의 경험연구로 구성되었으며, 코드북은 아키텍처 유형, AI 역할, 상호작용 주도권, 교육 수준, 결과지표를 중심으로 설계하였다. 분석 결과, 최종 포함 문헌의 67.9%가 2023년 이후에 집중되었고, 생성형 LLM 기반 연구가 59편(36.4%)으로 가장 큰 비중을 차지하였다. 상호작용 주도권은 Human-Driven 78편(48.1%), AI-Driven 51편(31.5%), Shared-Initiative 33편(20.4%)으로 나타나, 최근의 협력 담론이 곧바로 대칭적 공동주도 구조로 이어지는 것은 아님을 시사하였다. 또한 고등교육 연구가 98편(60.5%)으로 가장 높은 비중을 보였고, K-12 연구는 13편(8.0%)에 그쳐 상대적으로 제한적이었다. 결과지표 측면에서는 성과 관련 지표가 가장 빈번하게 관찰되었으나, 에이전시, 신뢰, 인지적 외주화와 관련된 항목도 최근 문헌에서 함께 부상하고 있었다. 이상의 결과는 인간-AI 협력 관련 경험연구가 생성형 인공지능 서비스의 확산 이후 빠르게 증가하였으나, 교육 맥락에서의 협력은 여전히 신뢰 보정, 역할 협상, 최종 판단권 유지의 조건 아래 제한적으로 구성되고 있음을 시사한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003359800",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003362121",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "AI·SW 교육에서 생성형 AI 도구 활용 역량과 산출물 검증 역량의 교육 요소 탐색: 코드 생성 사례를 중심으로",
-                        "authors":  [
-                                        "양근석"
-                                    ],
-                        "journal":  "인공지능연구 논문지",
-                        "date":  "2026-06",
-                        "abstract":  "생성형 AI 도구의 확산으로 AI·SW 교육에서 학습자의 활동은 단순한 코드 작성에서 AI 산출물의 이해, 실행, 검증, 수정, 설명으로 확장되고 있다. 본 연구는 생성형 AI 기반 코드 생성 활동에서 요구되는 AI 도구 활용 역량과 AI 산출물 검증 역량의 교육 요소를 탐색하는 데 목적이 있다. 이를 위해 UNESCO AI 역량 프레임워크, 생성형 AI 교육 지침, AI 리터러시 및 프로그래밍 교육 관련 연구를 검토하고, 초급·중급 프로그래밍 수업에서 활용 가능한 교육용 코드 생성 사례를 분석하였다. 연구 결과, 코드 생성 활동은 문제 이해, 프롬프트 구성, 코드 생성, 코드 해석, 실행 확인, 테스트 검증, 오류 수정, 윤리·보안 검토, 자기 설명의 단계로 구조화될 수 있었다. 또한 AI 도구 활용 역량, 코드 이해 역량, 실행·테스트 검증 역량, 오류 수정 역량, 근거 제시 역량, 책임 있는 활용 역량으로 구성된 AI·SW 코드 생성 검증 역량 프레임워크를 제안하였다. 본 연구는 코드 생성 사례와 검증 행동을 수업 활동 및 평가 루브릭으로 연결함으로써, 생성형 AI 활용 교육이 도구 사용 중심을 넘어 AI 산출물을 비판적으로 검토하고 책임 있게 활용하는 교육으로 확장될 수 있는 구체적 경로를 제시한다. 제안된 9단계 학습 과정, 6개 역량 범주, 5수준 루브릭은 프로그래밍 수업, AI 기초 수업, SW 융합 수업에서 생성형 AI 활용 과제를 설계할 때 참고할 수 있는 실행 가능한 틀을 제공한다. 본 연구는 생성형 AI 활용 교육을 프롬프트 작성과 코드 생성 중심에서 실행 검증, 테스트 설계, 오류 수정, 근거 제시, 책임 있는 활용을 포함하는 검증 중심 학습으로 확장하기 위한 교육 설계 기준을 제공한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362121",
                         "doi":  "",
                         "pdf":  ""
                     },
