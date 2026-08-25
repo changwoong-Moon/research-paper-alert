@@ -45924,7 +45924,7 @@
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
    "abs_tries": 1,
-   "ko_tries": 1
+   "ko_tries": 2
   },
   "oa:W7203989303": {
    "id": "oa:W7203989303",
@@ -45943,7 +45943,7 @@
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
    "abs_tries": 1,
-   "ko_tries": 1
+   "ko_tries": 2
   },
   "oa:W7203968328": {
    "id": "oa:W7203968328",
@@ -45962,7 +45962,7 @@
    "doi": "10.1111/puar.70187",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/puar.70187",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "ko_tries": 2,
+   "ko_tries": 3,
    "abs_tries": 0
   },
   "oa:W7203887572": {
@@ -46178,7 +46178,7 @@
    "doi": "10.1007/s11077-026-09625-9",
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203779050": {
@@ -46759,7 +46759,7 @@
    "doi": "10.1007/s11135-026-03012-5",
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203840710": {
@@ -46799,7 +46799,7 @@
    "doi": "10.1007/s11135-026-03067-4",
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203741548": {
@@ -46908,7 +46908,7 @@
    "doi": "10.1007/s11135-026-02782-2",
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203732853": {
@@ -46971,7 +46971,7 @@
    "doi": "10.1007/s11222-026-10964-z",
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4407696141": {
@@ -47116,7 +47116,7 @@
    "doi": "10.1080/01621459.2026.2721714",
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203882644": {
@@ -47175,7 +47175,7 @@
    "doi": "10.1080/01621459.2026.2719795",
    "pdf": "",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4403679074": {
@@ -47314,7 +47314,7 @@
    "doi": "10.1016/j.ecosta.2026.08.002",
    "pdf": "https://doi.org/10.1016/j.ecosta.2026.08.002",
    "first_seen": "2026-08-24T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4405715461": {
@@ -47502,7 +47502,7 @@
    "doi": "10.1007/s00146-026-03314-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203983821": {
@@ -47523,7 +47523,7 @@
    "doi": "10.1007/s10994-026-07144-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203778626": {
@@ -47661,7 +47661,7 @@
    "doi": "10.1007/s00146-026-03324-y",
    "pdf": "https://doi.org/10.5281/zenodo.20320109",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7202103770": {
@@ -47699,7 +47699,7 @@
    "doi": "10.1016/j.telpol.2026.103302",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203856901": {
@@ -47717,7 +47717,7 @@
    "doi": "10.1007/s13347-026-01151-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203923786": {
@@ -47780,7 +47780,7 @@
    "doi": "10.1007/s43681-026-01329-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203809908": {
@@ -47800,7 +47800,7 @@
    "doi": "10.1007/s43681-026-01328-4",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203831405": {
@@ -47818,7 +47818,7 @@
    "doi": "10.1007/s13347-026-01173-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203825034": {
@@ -47837,7 +47837,7 @@
    "doi": "10.1007/s10994-026-07135-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203826164": {
@@ -47873,7 +47873,7 @@
    "doi": "10.1007/s00146-026-03302-4",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203770008": {
@@ -47893,7 +47893,7 @@
    "doi": "10.1007/s00146-026-03322-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203793682": {
@@ -48033,7 +48033,7 @@
    "doi": "10.1007/s00146-026-03332-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203785573": {
@@ -48053,7 +48053,7 @@
    "doi": "10.1007/s00146-026-03249-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203781836": {
@@ -48076,7 +48076,7 @@
    "doi": "10.1038/s42256-026-01291-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7172361475": {
@@ -48160,7 +48160,7 @@
    "doi": "10.1007/s00146-026-03241-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203751497": {
@@ -48179,7 +48179,7 @@
    "doi": "10.1007/s10618-026-01254-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203774716": {
@@ -48197,7 +48197,7 @@
    "doi": "10.1007/s00146-026-03255-8",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03255-8.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203775529": {
@@ -48234,7 +48234,7 @@
    "doi": "10.1038/s42256-026-01301-0",
    "pdf": "https://www.nature.com/articles/s42256-026-01301-0.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203669874": {
@@ -48255,7 +48255,7 @@
    "doi": "10.1038/s42256-026-01285-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7170174436": {
@@ -48371,7 +48371,7 @@
    "doi": "10.1007/s43681-026-01317-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203699937": {
@@ -48411,7 +48411,7 @@
    "doi": "10.1007/s43681-026-01320-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203652607": {
@@ -48431,7 +48431,7 @@
    "doi": "10.1007/s00146-026-03330-0",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03330-0.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203652536": {
@@ -48467,7 +48467,7 @@
    "doi": "10.1007/s43681-026-01311-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203612010": {
@@ -48488,7 +48488,7 @@
    "doi": "10.1007/s10614-026-11410-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203660385": {
@@ -48544,7 +48544,7 @@
    "doi": "10.1007/s43681-026-01316-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203604590": {
@@ -48771,7 +48771,7 @@
    "doi": "10.1038/s42256-026-01281-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203452710": {
@@ -48829,7 +48829,7 @@
    "doi": "10.1007/s43681-026-01315-9",
    "pdf": "https://doi.org/10.2139/ssrn.6527360",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203500662": {
@@ -48848,7 +48848,7 @@
    "doi": "10.1007/s10676-026-09906-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7203483512": {
@@ -48931,7 +48931,7 @@
    "doi": "10.1038/s42256-026-01276-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7202351448": {
@@ -48970,7 +48970,7 @@
    "doi": "10.1007/s00146-026-03216-1",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03216-1.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7202350403": {
@@ -49085,7 +49085,7 @@
    "doi": "10.1007/s10676-026-09914-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7202409317": {
@@ -49103,7 +49103,7 @@
    "doi": "10.1007/s00146-026-03295-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7202382947": {
@@ -66078,7 +66078,7 @@
    "doi": "10.1111/padm.70087",
    "pdf": "",
    "first_seen": "2026-08-25T07:51:39+09:00",
-   "ko_tries": 1
+   "ko_tries": 2
   },
   "oa:W7204052582": {
    "id": "oa:W7204052582",
@@ -66135,7 +66135,7 @@
    "doi": "10.1093/polsoc/puag022",
    "pdf": "https://doi.org/10.1093/polsoc/puag022",
    "first_seen": "2026-08-25T07:51:39+09:00",
-   "ko_tries": 1
+   "ko_tries": 2
   },
   "oa:W7163134215": {
    "id": "oa:W7163134215",
@@ -66153,7 +66153,7 @@
    "doi": "10.1007/s10994-026-07071-5",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s10994-026-07071-5.pdf",
    "first_seen": "2026-08-25T07:51:39+09:00",
-   "ko_tries": 1
+   "ko_tries": 2
   },
   "kci:ART003351557": {
    "id": "kci:ART003351557",
@@ -66169,7 +66169,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003351557",
    "doi": "http://dx.doi.org/10.22693/NIAIP.2026.33.2.003",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003351613": {
    "id": "kci:ART003351613",
@@ -66186,7 +66188,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003351613",
    "doi": "http://dx.doi.org/10.22693/NIAIP.2026.33.2.067",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003351638": {
    "id": "kci:ART003351638",
@@ -66204,7 +66208,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003351638",
    "doi": "http://dx.doi.org/10.22693/NIAIP.2026.33.2.087",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003351569": {
    "id": "kci:ART003351569",
@@ -66220,7 +66226,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003351569",
    "doi": "http://dx.doi.org/10.22693/NIAIP.2026.33.2.029",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003351601": {
    "id": "kci:ART003351601",
@@ -66237,7 +66245,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003351601",
    "doi": "http://dx.doi.org/10.22693/NIAIP.2026.33.2.045",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349206": {
    "id": "kci:ART003349206",
@@ -66253,7 +66263,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349206",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349208": {
    "id": "kci:ART003349208",
@@ -66269,7 +66281,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349208",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349210": {
    "id": "kci:ART003349210",
@@ -66285,7 +66299,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349210",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349213": {
    "id": "kci:ART003349213",
@@ -66301,7 +66317,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349213",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349207": {
    "id": "kci:ART003349207",
@@ -66318,7 +66336,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349207",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353531": {
    "id": "kci:ART003353531",
@@ -66337,7 +66357,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353531",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.035",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353532": {
    "id": "kci:ART003353532",
@@ -66355,7 +66377,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353532",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.061",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353533": {
    "id": "kci:ART003353533",
@@ -66375,7 +66399,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353533",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.081",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353535": {
    "id": "kci:ART003353535",
@@ -66394,7 +66420,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353535",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.125",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353536": {
    "id": "kci:ART003353536",
@@ -66410,7 +66438,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353536",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.139",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353537": {
    "id": "kci:ART003353537",
@@ -66431,7 +66461,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353537",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.165",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353538": {
    "id": "kci:ART003353538",
@@ -66449,7 +66481,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353538",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.187",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353540": {
    "id": "kci:ART003353540",
@@ -66468,7 +66502,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353540",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.229",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353545": {
    "id": "kci:ART003353545",
@@ -66486,7 +66522,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353545",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.341",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353529": {
    "id": "kci:ART003353529",
@@ -66504,7 +66542,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353529",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.001",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353530": {
    "id": "kci:ART003353530",
@@ -66522,7 +66562,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353530",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.015",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353534": {
    "id": "kci:ART003353534",
@@ -66544,7 +66586,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353534",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.095",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353539": {
    "id": "kci:ART003353539",
@@ -66561,7 +66605,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353539",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.209",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353541": {
    "id": "kci:ART003353541",
@@ -66579,7 +66625,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353541",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.253",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353542": {
    "id": "kci:ART003353542",
@@ -66596,7 +66644,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353542",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.273",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353543": {
    "id": "kci:ART003353543",
@@ -66613,7 +66663,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353543",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.289",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003353544": {
    "id": "kci:ART003353544",
@@ -66632,7 +66684,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003353544",
    "doi": "http://dx.doi.org/10.13088/jiis.2026.32.2.317",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366308": {
    "id": "kci:ART003366308",
@@ -66648,7 +66702,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366308",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366297": {
    "id": "kci:ART003366297",
@@ -66664,7 +66720,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366297",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366318": {
    "id": "kci:ART003366318",
@@ -66680,7 +66738,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366318",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366325": {
    "id": "kci:ART003366325",
@@ -66696,7 +66756,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366325",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366317": {
    "id": "kci:ART003366317",
@@ -66712,7 +66774,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366317",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366304": {
    "id": "kci:ART003366304",
@@ -66729,7 +66793,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366304",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366321": {
    "id": "kci:ART003366321",
@@ -66745,7 +66811,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366321",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366319": {
    "id": "kci:ART003366319",
@@ -66761,7 +66829,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366319",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366313": {
    "id": "kci:ART003366313",
@@ -66777,7 +66847,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366313",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366300": {
    "id": "kci:ART003366300",
@@ -66793,7 +66865,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366300",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366309": {
    "id": "kci:ART003366309",
@@ -66809,7 +66883,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366309",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366322": {
    "id": "kci:ART003366322",
@@ -66825,7 +66901,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366322",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003366316": {
    "id": "kci:ART003366316",
@@ -66841,7 +66919,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366316",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362361": {
    "id": "kci:ART003362361",
@@ -66858,7 +66938,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362361",
    "doi": "http://dx.doi.org/10.22896/karis.2026.29.2.001",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362370": {
    "id": "kci:ART003362370",
@@ -66875,7 +66957,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362370",
    "doi": "http://dx.doi.org/10.22896/karis.2026.29.2.003",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362374": {
    "id": "kci:ART003362374",
@@ -66891,7 +66975,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362374",
    "doi": "http://dx.doi.org/10.22896/karis.2026.29.2.004",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362396": {
    "id": "kci:ART003362396",
@@ -66908,7 +66994,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362396",
    "doi": "http://dx.doi.org/10.22896/karis.2026.29.2.006",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362367": {
    "id": "kci:ART003362367",
@@ -66924,7 +67012,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362367",
    "doi": "http://dx.doi.org/10.22896/karis.2026.29.2.002",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362381": {
    "id": "kci:ART003362381",
@@ -66940,7 +67030,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362381",
    "doi": "http://dx.doi.org/10.22896/karis.2026.29.2.005",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357322": {
    "id": "kci:ART003357322",
@@ -66960,7 +67052,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357322",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.45",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357325": {
    "id": "kci:ART003357325",
@@ -66976,7 +67070,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357325",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.63",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357337": {
    "id": "kci:ART003357337",
@@ -66994,7 +67090,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357337",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.133",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357340": {
    "id": "kci:ART003357340",
@@ -67014,7 +67112,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357340",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.157",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357353": {
    "id": "kci:ART003357353",
@@ -67032,7 +67132,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357353",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.211",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357359": {
    "id": "kci:ART003357359",
@@ -67049,7 +67151,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357359",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.237",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357361": {
    "id": "kci:ART003357361",
@@ -67066,7 +67170,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357361",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.261",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357310": {
    "id": "kci:ART003357310",
@@ -67084,7 +67190,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357310",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.1",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357314": {
    "id": "kci:ART003357314",
@@ -67103,7 +67211,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357314",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.23",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357328": {
    "id": "kci:ART003357328",
@@ -67121,7 +67231,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357328",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.89",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357333": {
    "id": "kci:ART003357333",
@@ -67140,7 +67252,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357333",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.113",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357346": {
    "id": "kci:ART003357346",
@@ -67159,7 +67273,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357346",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.173",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357349": {
    "id": "kci:ART003357349",
@@ -67176,7 +67292,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357349",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.199",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357356": {
    "id": "kci:ART003357356",
@@ -67194,7 +67312,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357356",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.221",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003357363": {
    "id": "kci:ART003357363",
@@ -67211,7 +67331,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357363",
    "doi": "http://dx.doi.org/10.36498/kbigdt.2026.11.1.285",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003347977": {
    "id": "kci:ART003347977",
@@ -67225,7 +67347,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003347977",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003347979": {
    "id": "kci:ART003347979",
@@ -67239,7 +67363,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003347979",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003347978": {
    "id": "kci:ART003347978",
@@ -67253,7 +67379,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003347978",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003347980": {
    "id": "kci:ART003347980",
@@ -67267,7 +67395,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003347980",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003350381": {
    "id": "kci:ART003350381",
@@ -67284,7 +67414,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003350381",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003350401": {
    "id": "kci:ART003350401",
@@ -67300,7 +67432,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003350401",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003350435": {
    "id": "kci:ART003350435",
@@ -67317,7 +67451,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003350435",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003350457": {
    "id": "kci:ART003350457",
@@ -67333,7 +67469,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003350457",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349001": {
    "id": "kci:ART003349001",
@@ -67350,7 +67488,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349001",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.001",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349002": {
    "id": "kci:ART003349002",
@@ -67368,7 +67508,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349002",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.002",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349004": {
    "id": "kci:ART003349004",
@@ -67385,7 +67527,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349004",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.004",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349005": {
    "id": "kci:ART003349005",
@@ -67401,7 +67545,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349005",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.005",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349006": {
    "id": "kci:ART003349006",
@@ -67417,7 +67563,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349006",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.006",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349009": {
    "id": "kci:ART003349009",
@@ -67433,7 +67581,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349009",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.009",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349010": {
    "id": "kci:ART003349010",
@@ -67451,7 +67601,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349010",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.010",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362121": {
    "id": "kci:ART003362121",
@@ -67467,7 +67619,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362121",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003359798": {
    "id": "kci:ART003359798",
@@ -67483,7 +67637,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003359798",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003359800": {
    "id": "kci:ART003359800",
@@ -67500,7 +67656,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003359800",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349003": {
    "id": "kci:ART003349003",
@@ -67518,7 +67676,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349003",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.003",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349007": {
    "id": "kci:ART003349007",
@@ -67534,7 +67694,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349007",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.007",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003349008": {
    "id": "kci:ART003349008",
@@ -67553,7 +67715,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003349008",
    "doi": "http://dx.doi.org/10.23374/jaict.2026.6.2.008",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003359799": {
    "id": "kci:ART003359799",
@@ -67569,7 +67733,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003359799",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003359801": {
    "id": "kci:ART003359801",
@@ -67586,7 +67752,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003359801",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003359803": {
    "id": "kci:ART003359803",
@@ -67603,7 +67771,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003359803",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003359804": {
    "id": "kci:ART003359804",
@@ -67620,7 +67790,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003359804",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003362120": {
    "id": "kci:ART003362120",
@@ -67636,7 +67808,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003362120",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364290": {
    "id": "kci:ART003364290",
@@ -67653,7 +67827,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364290",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364288": {
    "id": "kci:ART003364288",
@@ -67670,7 +67846,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364288",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364339": {
    "id": "kci:ART003364339",
@@ -67686,7 +67864,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364339",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364292": {
    "id": "kci:ART003364292",
@@ -67703,7 +67883,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364292",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364318": {
    "id": "kci:ART003364318",
@@ -67720,7 +67902,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364318",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364315": {
    "id": "kci:ART003364315",
@@ -67736,7 +67920,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364315",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364331": {
    "id": "kci:ART003364331",
@@ -67756,7 +67942,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364331",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "kci:ART003364287": {
    "id": "kci:ART003364287",
@@ -67773,7 +67961,9 @@
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364287",
    "doi": "",
    "pdf": "",
-   "first_seen": "2026-08-25T07:51:39+09:00"
+   "first_seen": "2026-08-25T07:51:39+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   }
  }
 }
