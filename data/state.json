@@ -1827,7 +1827,7 @@
    "abstract": "ABSTRACT Understanding how institutions shape collective action requires analytical tools that capture the complexity of governance arrangements. Ostrom's typology of rules provides a foundational framework for examining institutional configurations, yet limited specificity in rule types reduces its effectiveness in comparative analysis. To address this, we present a detailed classification of the seven rule types into subtypes, enhancing the study of institutional diversity and structure. Based on the initial description of the seven rule types, a systematic review of scientific articles, an analysis of written regulations, and an internal mutual exclusivity check, we propose a taxonomy that expands the seven types into subtypes. Utilizing these detailed subtypes enables a more comprehensive characterization of institutional configurations, thereby strengthening comparisons of governance systems.",
    "url": "https://doi.org/10.1111/psj.70143",
    "doi": "10.1111/psj.70143",
-   "pdf": "",
+   "pdf": "http://zaguan.unizar.es/record/177243",
    "first_seen": "2026-08-09T01:35:52+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -3503,7 +3503,7 @@
    "id": "oa:W7163699874",
    "topic": "public-admin",
    "origin": "OpenAlex",
-   "title": "Awareness, Costs, and Take-up of Social Benefits: Evidence from a Field Experiment in China",
+   "title": "Awareness, costs, and take-up of social benefits: evidence from a field experiment in China",
    "authors": [
     "Wenchi Wei",
     "Xin Chen",
@@ -20984,7 +20984,7 @@
    "abstract": "ABSTRACT With the development of generative Artificial Intelligence, the question of the nature of authorship in the copyright system has returned. Disillusioned with traditional answers based on the concept of copyright, we turn the tables and consider why we ask about authorship in the first place. In the following paper, we show that the real problem of machine creativity concerning copyright law is of epistemic origin (the attribution problem), why neither granting nor not granting copyright would solve this problem, and why it has actually been replaced within the academic discourse by a pseudo‐problem. Finally, we propose an outline of a solution that goes beyond the scope of the current dispute: to reject the dogma that the author is inseparable from the copyright; to attribute works for epistemic, not only economic reasons; to (re)define machine authorship in copyright law through duties; and—going forward—to reconsider the role of the author as a legal concept.",
    "url": "https://doi.org/10.1111/rego.70176",
    "doi": "10.1111/rego.70176",
-   "pdf": "",
+   "pdf": "https://ruj.uj.edu.pl/handle/item/575223",
    "first_seen": "2026-08-10T09:49:36+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -46118,7 +46118,7 @@
    "abstract": "Improvements in computational power and artificial intelligence technology are transforming science, including public administration research. Techniques from the computer sciences, such as web crawling, can improve data collection and analysis. However, they remain underutilized, and the literature exploring their potential in public administration research is limited. This paper aims to fill this gap by analyzing the opportunities and limitations of web crawling for data collection by answering two research questions: what opportunities and limitations does web crawling offer compared to manual web data collection, and under what conditions is web crawling an effective data collection method in public administration research? We draw on theoretical considerations from existing literature, prior empirical evidence, and insights from our own research. Based on our analysis, we highlight the benefits of the immense scalability, efficiency, and consistency that a web crawler can provide for creating large datasets, while cautioning against their use in smaller-scale research, where high setup costs, expertise requirements, and limited flexibility may outweigh potential advantages. Additionally, we provide guidelines on when and how to use web crawlers usefully in public administration research. Points for practitioners The paper evaluates the opportunities and limitations of using web crawling as a data collection technique in public administration research. The evaluation is based on existing empirical evidence, as well as experience from a research project. Web crawling can be a highly useful tool that complements traditional qualitative and quantitative methods in various contexts. When comparing web crawling to the manual collection of web data, two points stand out as particularly relevant, both within and beyond research contexts: first, web crawling generally comes with significant setup costs but is highly efficient in execution. This makes it highly scalable and particularly suitable for collecting large amounts of data. Second, proper implementation of a web crawler requires significant information technology expertise. Close collaboration between those who want to use the data and the information technology experts implementing the data collection is recommended to ensure that relevant, high-quality data can be obtained.",
    "url": "https://doi.org/10.1177/00208523261473520",
    "doi": "10.1177/00208523261473520",
-   "pdf": "https://hdl.handle.net/11475/37426",
+   "pdf": "https://digitalcollection.zhaw.ch/bitstreams/1246676a-f4ff-4bcd-a011-7b6b74ed060e/download",
    "first_seen": "2026-08-24T07:46:21+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -46376,7 +46376,7 @@
    "abstract": "Liberal democracies face mounting pressures from systemic transformations and emerging illiberal political forces, placing public administrations at a critical juncture. This introduction to the Special Issue “Mapping bureaucratic transformation in polarized polities: Comparative perspectives on democratic reform, robustness and regression” conceptualizes bureaucratic transformation along a continuum from democratic anchorage to democratic backsliding in public administration, capturing how administrative reforms can either reinforce or erode liberal-democratic governance. Drawing on normative theory and comparative empirical analysis, the contributions to the Special Issue examine how bureaucracies are reshaped by populist strategies and institutional vulnerabilities. This introductory article presents a heuristic framework that locates bureaucratic change along three relational dimensions—bureaucracy-society, bureaucracy-politics, and internal governance—and four opposing pairs of transformation, offering analytical tools to assess the democratic anchorage, resilience, and reform potential of public administration under conditions of polarization. Points for practitioners (a) Safeguard bureaucratic integrity: ensure ethical standards and professional autonomy within public administration to maintain democratic resilience, especially in polarized political contexts. (b) Balance accountability and autonomy: strive for a balance between political responsiveness and procedural integrity, fostering participatory mechanisms while protecting bureaucratic autonomy from politicization. (c) Strengthen civic embeddedness: institutionalize participatory mechanisms and sustained engagement with civil society and professional associations to sustain public trust and institutional legitimacy, particularly in polarized environments. (d) Adapt to evolving democratic needs: as representative democracies evolve, focus on reforms that strengthen connections between citizens and the executive, enhancing democratic legitimacy through inclusive governance practices.",
    "url": "https://doi.org/10.1177/00208523261475280",
    "doi": "10.1177/00208523261475280",
-   "pdf": "",
+   "pdf": "https://hdl.handle.net/1814/95746",
    "first_seen": "2026-08-24T07:46:21+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -50432,7 +50432,7 @@
    "doi": "10.1007/s00146-026-03220-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7196962408": {
@@ -50490,7 +50490,7 @@
    "doi": "10.1007/s13347-026-01160-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7196951171": {
@@ -50529,7 +50529,7 @@
    "doi": "10.1007/s10614-026-11408-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7196988368": {
@@ -50549,7 +50549,7 @@
    "doi": "10.1007/s10614-026-11400-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7197014934": {
@@ -50653,7 +50653,7 @@
    "doi": "10.1007/s10614-026-11398-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7197037946": {
@@ -50710,7 +50710,7 @@
    "doi": "10.1038/s42256-026-01275-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172538895": {
@@ -50792,7 +50792,7 @@
    "doi": "10.1007/s00146-026-03195-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172488530": {
@@ -50904,13 +50904,14 @@
    ],
    "journal": "Data Mining and Knowledge Discovery",
    "date": "2026-08-04",
-   "abstract": "",
+   "abstract": "Graph-based methods are becoming increasingly popular in machine learning due to their ability to model complex data and relations. Insurance fraud is a prime use case, since fraudulent claims are often the result of organised criminals that stage accidents or the same persons filing erroneous claims on multiple policies. One challenge is that graph-based approaches struggle to find meaningful representations of the data because of the high class imbalance present in fraud data. In addition, insurance graphs are heterogeneous and dynamic, given the changing relations among people, companies and policies. As a result, gradient-boosted tree approaches on tabular data still dominate the field. Therefore, we present a novel inductive graph gradient boosting machine (G-GBM) for supervised learning on heterogeneous and dynamic graphs. G-GBM combines the class-imbalance robustness of gradient boosting with heterogeneous graph information encoded through interpretable path-level feature concatenations, while preserving access to the original tabular feature space. In addition, the explicit representation of neighbourhood information enables transparent SHAP-based explanations at the metapath and feature level. We demonstrate G-GBM for insurance fraud detection on an open-source and a real-world, proprietary dataset, and find that G-GBM performs on par or better than the state-of-the-art. The associated insurance fraud dataset is publicly released to facilitate reproducibility.",
    "url": "https://doi.org/10.1007/s10618-026-01249-0",
    "doi": "10.1007/s10618-026-01249-0",
    "pdf": "http://dx.doi.org/10.2139/ssrn.4887265",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7172383101": {
    "id": "oa:W7172383101",
@@ -50948,7 +50949,7 @@
    "doi": "10.1007/s00146-026-03293-2",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03293-2.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172449460": {
@@ -50966,7 +50967,7 @@
    "doi": "10.1007/s00146-026-03185-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172440126": {
@@ -50985,7 +50986,7 @@
    "doi": "10.1007/s00146-026-03227-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172434438": {
@@ -51004,7 +51005,7 @@
    "doi": "10.1007/s00146-026-03240-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172445666": {
@@ -51042,7 +51043,7 @@
    "doi": "10.1007/s00146-026-03173-9",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172452844": {
@@ -51137,7 +51138,7 @@
    "doi": "10.1007/s00146-026-03248-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172389927": {
@@ -51175,7 +51176,7 @@
    "doi": "10.1007/s10614-026-11403-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172415904": {
@@ -51197,7 +51198,7 @@
    "doi": "10.1007/s10614-026-11406-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172431404": {
@@ -51236,7 +51237,7 @@
    "doi": "10.1007/s00146-026-03262-9",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172413574": {
@@ -51337,7 +51338,7 @@
    "doi": "10.1016/j.telpol.2026.103299",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172264264": {
@@ -51356,7 +51357,7 @@
    "doi": "10.1016/j.telpol.2026.103297",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172258416": {
@@ -51371,13 +51372,14 @@
    ],
    "journal": "Nature Machine Intelligence",
    "date": "2026-08-03",
-   "abstract": "",
+   "abstract": "The correspondence between large language models (LLMs) and the neural mechanisms underlying human higher-order cognition remains insufficiently characterized. Given that language and reasoning in the human brain appear dissociable, an open question is whether LLMs align with neural signals from reasoning-related regions and whether such signals can improve them. Here, focusing on deductive reasoning, we show that LLM internal representations are not only partially aligned with task-based functional magnetic resonance imaging activity but can also be directly enhanced by these signals. Using a neural predictivity metric, we find that LLMs explain a substantial fraction of the explainable variance in reasoning-related regions at the aggregate level, whereas predictivity within specific reasoning types is lower, indicating both alignment and divergence. Building on this, we propose a brain-guided framework: we steer model representations along directions induced by the joint structure of model and brain representations, applying intervention at inference and fine tuning during training. We demonstrate that task-evoked brain signals can directly enhance LLM reasoning, yielding gains orthogonal to language-only supervision across ten LLMs (1.5B–72B parameters), with transfer across reasoning types and up to 13% absolute accuracy gain. Our results advance LLM–brain correspondences from correlation to guidance, establishing a brain-signal-driven pathway towards more robust and cognitively aligned artificial intelligence. Xiao et al. show that large language models partially align with human brain activity during deductive reasoning. They further show that brain signals can directly guide and improve model performance, with transfer across reasoning types.",
    "url": "https://doi.org/10.1038/s42256-026-01278-w",
    "doi": "10.1038/s42256-026-01278-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7172259145": {
    "id": "oa:W7172259145",
@@ -51395,7 +51397,7 @@
    "doi": "10.1038/s42256-026-01282-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4414588296": {
@@ -51443,7 +51445,7 @@
    "doi": "10.1016/j.patter.2026.101641",
    "pdf": "https://doi.org/10.1016/j.patter.2026.101641",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172449023": {
@@ -51462,7 +51464,7 @@
    "doi": "10.1007/s43681-026-01263-4",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172411384": {
@@ -51485,7 +51487,7 @@
    "doi": "10.1007/s43681-026-01264-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172413057": {
@@ -51543,7 +51545,7 @@
    "doi": "10.1007/s43681-026-01303-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7203459412": {
@@ -51582,7 +51584,7 @@
    "doi": "10.1007/s43681-026-01300-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7202300855": {
@@ -51607,7 +51609,7 @@
    "doi": "10.1016/j.patter.2026.101635",
    "pdf": "https://doi.org/10.1016/j.patter.2026.101635",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172388410": {
@@ -51696,7 +51698,7 @@
    "doi": "10.1007/s43681-026-01304-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172091469": {
@@ -51715,7 +51717,7 @@
    "doi": "10.1016/j.telpol.2026.103298",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172428118": {
@@ -51753,7 +51755,7 @@
    "doi": "10.1007/s43681-026-01302-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172290048": {
@@ -51771,7 +51773,7 @@
    "doi": "10.1007/s00146-026-03274-5",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03274-5.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172435507": {
@@ -51856,7 +51858,7 @@
    "doi": "10.1007/s43681-026-01297-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7196959692": {
@@ -51895,7 +51897,7 @@
    "doi": "10.1016/j.artint.2026.104604",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4417408864": {
@@ -51933,7 +51935,7 @@
    "doi": "10.1007/s43681-026-01289-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172377859": {
@@ -52035,7 +52037,7 @@
    "doi": "10.1016/j.telpol.2026.103288",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172528382": {
@@ -52072,7 +52074,7 @@
    "doi": "10.1109/tnnls.2026.3712788",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7203651184": {
@@ -52139,7 +52141,7 @@
    "doi": "10.1007/s43681-026-01301-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171777359": {
@@ -52161,7 +52163,7 @@
    "doi": "10.1007/s10614-026-11396-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171765751": {
@@ -52181,7 +52183,7 @@
    "doi": "10.1007/s10614-026-11397-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171920050": {
@@ -52202,7 +52204,7 @@
    "doi": "10.1007/s10614-026-11404-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172012492": {
@@ -70528,9 +70530,10 @@
    "abstract": "Abstract Political efforts to weaken democratic institutions place civil servants in a dilemma between political responsiveness and protecting democratic values. As civil servants are embedded in the political-administrative hierarchy, we argue that signals from their direct hierarchical superiors are critical to understand how civil servants address this dilemma. Using a randomized survey experiment among Norwegian national-level civil servants (N = 1,446) and ordered logistic regression models, we find that democratic backsliding increases opposition to government wishes, internal and external voice, and consideration of exit from the organization. Managerial signals moderate these effects: civil servants are more inclined to voice concerns or consider exit when managers signal responsiveness to government wishes. In a conceptual replication and extension among US federal, state and local civil servants (N = 504) using ordered logistic regression models, we likewise find a greater inclination to exit if the manager signals responsiveness to government wishes, but also that respondents are less inclined to voice concerns to the manager. Overall, our findings imply that managerial signals within the political-administrative hierarchy are shaping civil servants’ immediate reactions to democratic backsliding.",
    "url": "https://doi.org/10.1093/jopart/muag027",
    "doi": "10.1093/jopart/muag027",
-   "pdf": "https://doi.org/10.1093/jopart/muag027",
+   "pdf": "https://academic.oup.com/jpart/advance-article-pdf/doi/10.1093/jopart/muag027/70818999/muag027.pdf",
    "first_seen": "2026-08-29T12:47:08+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204437134": {
    "id": "oa:W7204437134",
@@ -70550,9 +70553,10 @@
    "abstract": "Abstract Despite artificial intelligence's (AI) established use in healthcare, its application in social work remains nascent. Therefore, this scoping review examines AI's applications, outcomes or perceived effects, and challenges in social work practice for children and youth, especially regarding human–AI collaboration. Searches across eight databases yielded 17 studies spanning four tiers of evidence, ranging from empirical findings to theoretical discussions. AI's applications centered on identifying service users in the five empirically evaluated studies but varied widely in theoretical accounts. Regarding outcomes, only those five studies provided rigorous evaluations, with mixed results. Across all tiers, AI played a supporting role, while social workers retained professional judgment and final decision‐making authority. Last, AI's challenges ranged from technical limitations to ethical and structural concerns, including algorithmic bias, privacy risks, contextual complexity, and unclear accountability. Such limited, uneven evidence suggests priorities for future research and AI's responsible integration in social work for children and youth.",
    "url": "https://doi.org/10.1111/ijsw.70094",
    "doi": "10.1111/ijsw.70094",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ijsw.70094",
    "first_seen": "2026-08-29T12:47:08+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204438121": {
    "id": "oa:W7204438121",
@@ -70569,7 +70573,8 @@
    "doi": "10.1017/s0957876526000689",
    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AE93154AA6DF4336EA24BBFED6171551/S0957876526000689a.pdf/div-class-title-constructing-resistance-socially-engaged-architecture-and-civic-activism-in-croatia-div.pdf",
    "first_seen": "2026-08-29T12:47:08+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204449329": {
    "id": "oa:W7204449329",
@@ -70586,7 +70591,8 @@
    "doi": "10.1080/09540962.2026.2714406",
    "pdf": "",
    "first_seen": "2026-08-29T12:47:08+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204460507": {
    "id": "oa:W7204460507",
@@ -70598,11 +70604,13 @@
    ],
    "journal": "Policy Studies",
    "date": "2026-08-27",
-   "abstract": "",
+   "abstract": "Trust is an important component of information-seeking, particularly as related to the policy-making process. For policy-relevant information to be utilized by decision-makers and, in turn, impact policy, the information source must be viewed as trustworthy. Thus, understanding the origins of trust in sources of information regarding a particular policy issue is necessary in understanding the policy process associated with that issue. In this paper, I examine the origins of trust in information regarding hydraulic fracturing (“fracking”). Specifically, this paper examines the role of cultural value predispositions in shaping trust in information from various sources (e.g. energy industry, environmental groups, and government) regarding fracking. Further, the moderating role of perceived value congruence is examined. This study utilizes a survey of local policy elites in Arkansas (a state with fracking operations) and Oregon (a state without fracking operations). Findings indicate that, for local policy elites (1) trust in sources of information is largely derived from culturally held values, (2) the perceived compatibility of values between local policy elites’ and those within their community impacts these relationships, and (3) the triadic relationships between cultural values, perceived value congruence, and trust in information sources are distinct between contexts.",
    "url": "https://doi.org/10.1080/01442872.2026.2721505",
    "doi": "10.1080/01442872.2026.2721505",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204463721": {
    "id": "oa:W7204463721",
@@ -70617,9 +70625,10 @@
    "abstract": "Should those who study public administration seek to influence those who practice it? Given the long and strong tradition of engaged scholarship in British public administration (Elliott et al., 20...",
    "url": "https://doi.org/10.1080/09540962.2026.2715123",
    "doi": "10.1080/09540962.2026.2715123",
-   "pdf": "",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/09540962.2026.2715123?needAccess=true",
    "first_seen": "2026-08-29T12:47:08+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204478119": {
    "id": "oa:W7204478119",
@@ -70637,7 +70646,8 @@
    "doi": "10.1111/rego.70203",
    "pdf": "https://doi.org/10.1111/rego.70203",
    "first_seen": "2026-08-29T12:47:08+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204478270": {
    "id": "oa:W7204478270",
@@ -70654,7 +70664,9 @@
    "url": "https://doi.org/10.1080/09540962.2026.2710248",
    "doi": "10.1080/09540962.2026.2710248",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204481908": {
    "id": "oa:W7204481908",
@@ -70671,7 +70683,9 @@
    "url": "https://doi.org/10.1017/s0957876526000525",
    "doi": "10.1017/s0957876526000525",
    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F0237539D3DE4B57872AE2CCDFE7062B/S0957876526000525a.pdf/div-class-title-not-just-words-political-rhetorics-and-the-shrinking-space-for-climate-activism-div.pdf",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204488283": {
    "id": "oa:W7204488283",
@@ -70688,8 +70702,10 @@
    "abstract": "The governance turn in public administration suggests that collaboration with private and third-sector actors can improve services and results. However, evidence remains fragmented at the practice-field level, where such benefits are expected to materialize. To assess the evidence base, we synthesized 71 studies of voluntary cross-sectoral collaborations for work inclusion, that is, initiatives aimed at enhancing employment for vulnerable jobseekers. The literature is predominantly process oriented, emphasizing how these tension-prone collaborations can be organized and sustained. It further suggests that collaboration is often layered onto, rather than challenging, established administrative approaches. While studies report jobseeker empowerment and employment gains, the governance assumption that collaboration improves results remains weakly substantiated. Governance scholarship would benefit from stronger field-based evidence on when, how, and at what cost cross-sectoral collaboration improves results relative to what can be achieved through established approaches.",
    "url": "https://doi.org/10.1080/01900692.2026.2705352",
    "doi": "10.1080/01900692.2026.2705352",
-   "pdf": "https://doi.org/10.1080/01900692.2026.2705352",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/01900692.2026.2705352?needAccess=true",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204470856": {
    "id": "oa:W7204470856",
@@ -70704,11 +70720,13 @@
    ],
    "journal": "Behavior Research Methods",
    "date": "2026-08-27",
-   "abstract": "Abstract Systematic observation is a valuable method for studying interactive phenomena in dyads, as it captures sequences of behavior, potentially enhancing validity. However, observational studies remain underutilized compared with other tools, such as self-report questionnaires, because they require time and resources. This work aims to facilitate observational research by providing a step-by-step guide for preprocessing and exploring data from systematic observations, enabling flexible data handling beyond traditional sequential analyses. To illustrate the guide’s application, we used a dataset of 154 psychotherapy sessions collected longitudinally across different treatment phases from 32 patient–therapist dyads. We coded sessions using the Therapeutic Relationship Coding System (TRCS), which captures moment-by-moment verbal interactions relevant to the therapeutic alliance. Post-session questionnaire data were collected using the Working Alliance Inventory (WAI). An R script and a set of functions were developed to assist researchers with data preprocessing and to generate descriptive visualizations addressing the following questions: (1) What behaviors (and sequences of interacting behaviors) are more frequent? ; (2) How do behaviors evolve over time ; (3) Do behavioral changes differ across groups? After applying our proposed analytical tools, we interpret our results in light of the dominant theoretical framework on the therapeutic alliance.",
+   "abstract": "Systematic observation is a valuable method for studying interactive phenomena in dyads, as it captures sequences of behavior, potentially enhancing validity. However, observational studies remain underutilized compared with other tools, such as self-report questionnaires, because they require time and resources. This work aims to facilitate observational research by providing a step-by-step guide for preprocessing and exploring data from systematic observations, enabling flexible data handling beyond traditional sequential analyses. To illustrate the guide's application, we used a dataset of 154 psychotherapy sessions collected longitudinally across different treatment phases from 32 patient-therapist dyads. We coded sessions using the Therapeutic Relationship Coding System (TRCS), which captures moment-by-moment verbal interactions relevant to the therapeutic alliance. Post-session questionnaire data were collected using the Working Alliance Inventory (WAI). An R script and a set of functions were developed to assist researchers with data preprocessing and to generate descriptive visualizations addressing the following questions: (1) What behaviors (and sequences of interacting behaviors) are more frequent?; (2) How do behaviors evolve over time; (3) Do behavioral changes differ across groups? After applying our proposed analytical tools, we interpret our results in light of the dominant theoretical framework on the therapeutic alliance.",
    "url": "https://doi.org/10.3758/s13428-026-03162-2",
    "doi": "10.3758/s13428-026-03162-2",
-   "pdf": "https://doi.org/10.3758/s13428-026-03162-2",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03162-2.pdf",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204440210": {
    "id": "oa:W7204440210",
@@ -70726,7 +70744,9 @@
    "url": "https://doi.org/10.5281/zenodo.22122745",
    "doi": "10.5281/zenodo.22122745",
    "pdf": "https://doi.org/10.5281/zenodo.22122745",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204490628": {
    "id": "oa:W7204490628",
@@ -70744,7 +70764,9 @@
    "url": "https://doi.org/10.5281/zenodo.22122746",
    "doi": "10.5281/zenodo.22122746",
    "pdf": "https://doi.org/10.5281/zenodo.22122746",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204474443": {
    "id": "oa:W7204474443",
@@ -70764,7 +70786,9 @@
    "url": "https://doi.org/10.5281/zenodo.22122577",
    "doi": "10.5281/zenodo.22122577",
    "pdf": "https://doi.org/10.5281/zenodo.22122577",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204481813": {
    "id": "oa:W7204481813",
@@ -70784,7 +70808,9 @@
    "url": "https://doi.org/10.5281/zenodo.22122576",
    "doi": "10.5281/zenodo.22122576",
    "pdf": "https://doi.org/10.5281/zenodo.22122576",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204466487": {
    "id": "oa:W7204466487",
@@ -70800,7 +70826,9 @@
    "url": "https://doi.org/10.1093/poq/nfag065",
    "doi": "10.1093/poq/nfag065",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4280649288": {
    "id": "oa:W4280649288",
@@ -70819,7 +70847,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2724031",
    "doi": "10.1080/01621459.2026.2724031",
    "pdf": "https://arxiv.org/pdf/2205.06812",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4395687365": {
    "id": "oa:W4395687365",
@@ -70836,7 +70866,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2721735",
    "doi": "10.1080/01621459.2026.2721735",
    "pdf": "https://arxiv.org/pdf/2404.16746",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4403577642": {
    "id": "oa:W4403577642",
@@ -70854,7 +70886,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2724030",
    "doi": "10.1080/01621459.2026.2724030",
    "pdf": "https://arxiv.org/pdf/2410.12108",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4414581918": {
    "id": "oa:W4414581918",
@@ -70876,8 +70910,10 @@
    "abstract": "Offline reinforcement learning aims to learn an optimal policy from pre-collected data. However, it faces challenges of distributional shift, where the learned policy may encounter unseen scenarios not covered in the offline data. Additionally, numerous applications suffer from a scarcity of labeled reward data. Relying on labeled data alone often leads to a narrow state-action distribution, further amplifying the distributional shift, and resulting in suboptimal policy learning. To address these issues, we first recognize that the volume of unlabeled data is typically substantially larger than that of labeled data. We then propose a semi-pessimistic reinforcement learning method to effectively leverage abundant unlabeled data. This approach offers several advantages. It considerably simplifies the learning process, as it seeks a lower bound of the reward function, rather than that of the Q-function or state transition function. It is highly flexible, and can be integrated with a range of model-free and model-based reinforcement learning algorithms. It enjoys the guaranteed improvement when utilizing vast unlabeled data, but requires less restrictive conditions. We compare the method with a number of alternative solutions, both analytically and numerically, and demonstrate its clear competitiveness. We further illustrate with an application to adaptive deep brain stimulation for Parkinson’s disease.",
    "url": "https://doi.org/10.1080/01621459.2026.2719860",
    "doi": "10.1080/01621459.2026.2719860",
-   "pdf": "https://doi.org/10.1080/01621459.2026.2719860",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.2026.2719860?needAccess=true",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4416775595": {
    "id": "oa:W4416775595",
@@ -70895,7 +70931,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2721401",
    "doi": "10.1080/01621459.2026.2721401",
    "pdf": "https://arxiv.org/pdf/2504.00856",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204439382": {
    "id": "oa:W7204439382",
@@ -70911,8 +70949,10 @@
    "abstract": "In the analysis of sample surveys, accounting for informative sampling design is critical to ensure estimates of model parameters such as regression coefficients are not systematically biased. One popular solution is maximum pseudo-likelihood estimation, which incorporates weights given by functions of the selection probabilities. In this article, we propose an alternative method for analytical estimation and inference in sample surveys known as complete sample likelihood or CSL. This approach jointly postulates a population regression model for the responses, and a model for the selection probabilities conditional on the response and measured covariates. CSL can offer potentially substantial reductions in bias and standard errors compared to maximum pseudo-likelihood estimation, while also avoiding a major drawback of existing “plug-in\" sample likelihood techniques which require burdensome resampling techniques to perform inference. We develop general forms for CSL and theoretically justify their usage in both single- and multi-stage sample surveys, before deriving several tractable cases involving generalized linear (mixed) models commonly seen in practice with sample surveys. Simulation studies and an application to a two-stage sample survey of smoking status in New Zealand demonstrate the superior finite sample performance of CSL, and its ability to facilitate deployment of likelihood-based techniques and diagnostic tools.",
    "url": "https://doi.org/10.1080/01621459.2026.2723404",
    "doi": "10.1080/01621459.2026.2723404",
-   "pdf": "https://doi.org/10.1080/01621459.2026.2723404",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.2026.2723404?needAccess=true",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204444485": {
    "id": "oa:W7204444485",
@@ -70927,8 +70967,10 @@
    "abstract": "Jixian Wang. Boca Raton, FL: Chapman & Hall/CRC Press, 2026, xvi + 345 pp., $ 166.99(H), ISBN: 978-1-032-59625-9.This is the second edition of Jixian Wang’s book on exposure-response modeling, now ...",
    "url": "https://doi.org/10.1080/01621459.2026.2725126",
    "doi": "10.1080/01621459.2026.2725126",
-   "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.2026.2725126?needAccess=true",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204457155": {
    "id": "oa:W7204457155",
@@ -70946,7 +70988,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2721737",
    "doi": "10.1080/01621459.2026.2721737",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204480815": {
    "id": "oa:W7204480815",
@@ -70964,7 +71008,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2723402",
    "doi": "10.1080/01621459.2026.2723402",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204484071": {
    "id": "oa:W7204484071",
@@ -70982,7 +71028,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2723310",
    "doi": "10.1080/01621459.2026.2723310",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7116938030": {
    "id": "oa:W7116938030",
@@ -70998,7 +71046,9 @@
    "url": "https://doi.org/10.1093/ectj/utag027",
    "doi": "10.1093/ectj/utag027",
    "pdf": "https://doi.org/10.48550/arxiv.2512.17576",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399911853": {
    "id": "oa:W4399911853",
@@ -71016,8 +71066,10 @@
    "abstract": "In the landscape of generative artificial intelligence, diffusion-based models have emerged as a promising method for generating synthetic images. However, the application of diffusion models poses numerous challenges, particularly concerning data availability, computational requirements, and privacy. Traditional approaches to address these shortcomings, like federated learning, often impose significant computational burdens on individual clients, especially those with constrained resources. In response to these challenges, we introduce the novel approach CollaFuse for distributed collaborative diffusion models inspired by split learning. Our approach facilitates collaborative training of diffusion models while alleviating client computational burdens during image synthesis. This reduced computational burden is achieved by retaining data and computationally inexpensive processes locally at each client while outsourcing the computationally expensive processes to shared, more efficient server resources. Through experiments on the common datasets CelebA, CIFAR-10, and Animals-withAttributes2, our approach demonstrates enhanced performance while decreasing information disclosure as it reduces the necessity for sharing raw data. These capabilities hold significant potential across various application areas, including the design of edge computing solutions. Thus, our work advances distributed machine learning by contributing to the evolution of collaborative diffusion models.",
    "url": "https://doi.org/10.1613/jair.1.20934",
    "doi": "10.1613/jair.1.20934",
-   "pdf": "https://doi.org/10.1613/jair.1.20934",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://www.jair.org/index.php/jair/article/download/20934/27361",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4405104230": {
    "id": "oa:W4405104230",
@@ -71033,7 +71085,9 @@
    "url": "https://doi.org/10.1177/20539517261473357",
    "doi": "10.1177/20539517261473357",
    "pdf": "https://doi.org/10.1177/20539517261473357",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4406730270": {
    "id": "oa:W4406730270",
@@ -71050,8 +71104,10 @@
    "abstract": "Multi-agent path finding (MAPF) in large networks is computationally challenging. An approach for MAPF is prioritized planning (PP), in which agents plan sequentially according to their priority. Albeit a computationally efficient approach for MAPF, the solution quality strongly depends on the prioritization. Most prioritizations rely either on heuristics, which do not generalize well, or iterate to find adequate priorities, which costs computational effort. In this work, we show how agents can compute with multiple prioritizations simultaneously. Our approach is general as it does not rely on domain-specific knowledge. The context of this work is multi-agent motion planning (MAMP) with a receding horizon subject to computation time constraints. MAMP considers the system dynamics in more detail compared to MAPF. In numerical experiments on MAMP, we demonstrate that our approach achieves near-optimal prioritization and outperforms state-of-the-art methods with only a minor increase in computation time. We show real-time capability in an experiment on a road network with ten vehicles in our Cyber-Physical Mobility Lab.",
    "url": "https://doi.org/10.1613/jair.1.20870",
    "doi": "10.1613/jair.1.20870",
-   "pdf": "https://doi.org/10.1613/jair.1.20870",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://www.jair.org/index.php/jair/article/download/20870/27362",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7202337864": {
    "id": "oa:W7202337864",
@@ -71067,7 +71123,9 @@
    "url": "https://doi.org/10.1177/20539517261473367",
    "doi": "10.1177/20539517261473367",
    "pdf": "https://doi.org/10.1177/20539517261473367",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204434784": {
    "id": "oa:W7204434784",
@@ -71083,8 +71141,10 @@
    "abstract": "Abstract One of the main ethical reasons why autonomous vehicles (AVs) have been portrayed as the future of transportation is their potential to enhance road safety by eliminating human error. However, while AVs may mitigate known hazards, their successful deployment in the near future hinges on their performance in a mixed-traffic environment, where they must coexist and interact with human drivers. This paper adopts a broad Aristotelian virtue ethics framework to introduce the concept of driving phronesis as a normative framework for resolving nuanced, everyday coordination problems in traffic. Thus, our paper argues that a promising future for AVs is one in which they will function as digital duplicates of drivers in specific contexts, endowed with functional driving phronesis.",
    "url": "https://doi.org/10.1007/s00146-026-03250-z",
    "doi": "10.1007/s00146-026-03250-z",
-   "pdf": "https://doi.org/10.1007/s00146-026-03250-z",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03250-z.pdf",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204436119": {
    "id": "oa:W7204436119",
@@ -71102,8 +71162,10 @@
    "abstract": "Abstract This paper empirically investigates the directional predictability of geopolitical risks (distinguishing between geopolitical acts and threats) on the returns of fossil fuels (crude oil, coal, and natural gas) over the last four decades, from January 1984 to February 2023. The study uses the cross-quantilogram framework, which measures quantile dependence during normal states and extreme events. The main results show that geopolitical risks significantly impact fossil fuel returns, with the largest impact on the crude oil market. Crude oil and coal returns have a strong positive short-run response to geopolitical threats, whereas the effect of geopolitical acts is moderate or insignificant. These results remain consistent even when we consider the impact of economic policy uncertainty in our analysis. A recursive (time-varying) predictability analysis shows a significant positive impact of both geopolitical acts and threats on crude oil returns in the post-Global Financial Crisis era. Notably, this relationship remains robust across major geopolitical disruptions, including the shocks associated with the Russia-Ukraine war.",
    "url": "https://doi.org/10.1007/s10614-026-11395-8",
    "doi": "10.1007/s10614-026-11395-8",
-   "pdf": "https://doi.org/10.1007/s10614-026-11395-8",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s10614-026-11395-8.pdf",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204440169": {
    "id": "oa:W7204440169",
@@ -71119,7 +71181,9 @@
    "url": "https://doi.org/10.1007/s00146-026-03225-0",
    "doi": "10.1007/s00146-026-03225-0",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204445811": {
    "id": "oa:W7204445811",
@@ -71135,7 +71199,9 @@
    "url": "https://doi.org/10.1007/s00146-026-03307-z",
    "doi": "10.1007/s00146-026-03307-z",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204453671": {
    "id": "oa:W7204453671",
@@ -71153,7 +71219,9 @@
    "url": "https://doi.org/10.1007/s10618-026-01252-5",
    "doi": "10.1007/s10618-026-01252-5",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204454287": {
    "id": "oa:W7204454287",
@@ -71169,8 +71237,10 @@
    "abstract": "Abstract This paper discusses the perspective that managing the configuration of a network of human and software agents is a form of distributed work that should be explicitly considered when designing human‐agent systems. We describe a configuration of human and software agents as the organization of their roles and relationships that shape and constrain their joint activity while responding to a dynamic flow of events. The paper argues that design for safe and effective teamwork must consider how human and software roles together manage, change, and coordinate their collective configuration over time to respond to changing work demands. We illustrate this form of distributed work at multiple layers of abstraction of a human‐agent system, describing how maintaining goal alignment, tracking and managing interdependencies, synchronizing multi‐threaded activities, and managing the structural topology all involve deliberate and continuous effort. In the second half of the paper, we connect these ideas to modeling approaches for supporting conceptual design of human‐agent systems. The paper discusses how functional modeling of work can help designers first envision the coordinative structures necessary for adaptation before specifying the technical details of how individual tasks are executed (a whole‐to‐parts and coordination‐first approach). We illustrate a specific modeling framework, currently under development, that aims to facilitate the envisioning of the work of configuration management and help designers identify competencies and coordinative structures to support it. We provide an initial discussion of a three‐phase “bootstrapping” approach for using this framework in human‐agent system design. This paper contributes a new direction for explicitly modeling and designing for reconfiguration in human‐agent systems. Future work is needed to further develop the tooling and techniques, evaluate and validate their ability to inform human‐agent system design, and ultimately create more resilient human‐agent systems.",
    "url": "https://doi.org/10.1002/aaai.70085",
    "doi": "10.1002/aaai.70085",
-   "pdf": "https://doi.org/10.1002/aaai.70085",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70085",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204457045": {
    "id": "oa:W7204457045",
@@ -71186,8 +71256,10 @@
    "abstract": "Abstract This paper argues that most responsible AI (RAI) governance frameworks do not meaningfully address AI’s environmental and social costs. Rather, they merely create the impression of managing these problems. With the example of “sustainable AI”, we show that, in its most extreme form, current RAI governance not only results in weak regulation but in a regulatory vacuum . Against this, we propose the concept of critical AI governance . With this, we reframe the governing question from “how do we make AI responsible?” to “do we need AI at all?” This approach rests on three overarching principles: (1) critically questioning dominant ideologies and economic imperatives; (2) prioritizing social and political solutions over technological fixes; (3) investing in public digital infrastructure and independent research. Together, these contributions point toward a different style of AI governance altogether.",
    "url": "https://doi.org/10.1007/s00146-026-03337-7",
    "doi": "10.1007/s00146-026-03337-7",
-   "pdf": "https://doi.org/10.1007/s00146-026-03337-7",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03337-7.pdf",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204457368": {
    "id": "oa:W7204457368",
@@ -71205,8 +71277,10 @@
    "abstract": "As autonomous vehicles increasingly perceive and navigate the world through AI-based sensing systems, understanding what people pay attention to and how they interpret these same environments has become equally important for socially accepted autonomous mobility. Public acceptance depends not only on how safely autonomous systems operate, but also on how people interpret the environments in which these systems act. While increasing the visible representation of diverse social groups is widely assumed to promote inclusion, safety, and trust, empirical evidence remains limited. We address this question using a novel combination of large-scale online eye-tracking ( n = 1272; ~ 4000 AOI-level gaze indicators) and survey data collected across 22 cities on 5 continents. We examine how people visually attend to social diversity in autonomous mobility environments and how these attention patterns relate to perceived safety and security. The findings reveal that gaze patterns towards social groups were structured and remarkably stable across AV and non-AV mobility scenarios. Yet this stable pattern of visual attention was only weakly associated with perceived safety and security. Instead, perceptions of safety and security were more strongly associated with trust in automation, minority status, and broader socio-cultural context. Our findings therefore show that visual attention and safety evaluations represent distinct dimensions of public responses to AI-mediated mobility, challenging the assumption that visible representation alone is sufficient to foster inclusion, trust, and safety. The study demonstrates the value of eye tracking for AV ethics, provides the first cross-cultural evidence supporting the distinction between functional safety and perceived safety in autonomous mobility. It suggests that socially legitimate autonomous mobility depends not only on technical performance, but also on the socio-psychological and institutional conditions through which trust and safety are constructed.",
    "url": "https://doi.org/10.1007/s00146-026-03278-1",
    "doi": "10.1007/s00146-026-03278-1",
-   "pdf": "https://doi.org/10.1007/s00146-026-03278-1",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03278-1.pdf",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204457801": {
    "id": "oa:W7204457801",
@@ -71225,7 +71299,9 @@
    "url": "https://doi.org/10.1140/epjds/s13688-026-00692-9",
    "doi": "10.1140/epjds/s13688-026-00692-9",
    "pdf": "https://doi.org/10.1140/epjds/s13688-026-00692-9",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204463123": {
    "id": "oa:W7204463123",
@@ -71244,7 +71320,9 @@
    "url": "https://doi.org/10.1007/s43681-026-01340-8",
    "doi": "10.1007/s43681-026-01340-8",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204467662": {
    "id": "oa:W7204467662",
@@ -71259,8 +71337,10 @@
    "abstract": "Abstract Our world has recently become infested with AI hype, powerful rhetoric about the too-good-to-be-true potential of “artificial intelligence” technologies to transform our existence, and librarianship is no exception. In the United States, AI has emerged in a context where librarians are handling several interrelated crises that make their work both more necessary and difficult, including the increased reliance on public librarians to fill welfare gaps, censorship campaigns leveraged against librarians who provide children with diverse reading material, rising operating costs, and rapid rates of burnout among staff. Nowhere in Big Tech’s declarations of AI’s transformative potential have these material challenges been meaningfully addressed. Instead, we see what Benjamin [22] calls “Faux Fables deciding our collective fate,” (p. 21) where the illusion of seamless technological integration is sold as a utopic vision over which we have no control. As one of our last-standing democratic institutions, where anyone can access vital social services, reliable information sources, and trained, friendly staff, many librarians are already engaged in a practice of refusal, which requires grappling with the ways library discourse both sustains and resists the oppressive systems that enable technofascism through rapid AI deployment. The power of librarians to model an ethics of refusal is rooted in their close relationships to their community and demonstrated commitment to serving their needs. An ethics of refusal has the potential to reaffirm librarians’ vital role in cultivating a world where we all have the agency to participate in creating the future.",
    "url": "https://doi.org/10.1007/s43681-026-01314-w",
    "doi": "10.1007/s43681-026-01314-w",
-   "pdf": "https://doi.org/10.1007/s43681-026-01314-w",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01314-w.pdf",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204476521": {
    "id": "oa:W7204476521",
@@ -71280,7 +71360,9 @@
    "url": "https://doi.org/10.1177/20539517261467358",
    "doi": "10.1177/20539517261467358",
    "pdf": "https://doi.org/10.1177/20539517261467358",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204481767": {
    "id": "oa:W7204481767",
@@ -71298,7 +71380,9 @@
    "url": "https://doi.org/10.1007/s00146-026-03303-3",
    "doi": "10.1007/s00146-026-03303-3",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204482118": {
    "id": "oa:W7204482118",
@@ -71314,7 +71398,9 @@
    "url": "https://doi.org/10.1007/s00146-026-03291-4",
    "doi": "10.1007/s00146-026-03291-4",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204483236": {
    "id": "oa:W7204483236",
@@ -71355,7 +71441,9 @@
    "url": "https://doi.org/10.1145/3841471",
    "doi": "10.1145/3841471",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204487691": {
    "id": "oa:W7204487691",
@@ -71394,7 +71482,9 @@
    "url": "https://doi.org/10.1007/s10994-026-07087-x",
    "doi": "10.1007/s10994-026-07087-x",
    "pdf": "",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204028835": {
    "id": "oa:W7204028835",
@@ -71411,7 +71501,9 @@
    "url": "https://doi.org/10.14763/2026.3.2111",
    "doi": "10.14763/2026.3.2111",
    "pdf": "https://policyreview.info/pdf/policyreview-2026-3-2111.pdf",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204437636": {
    "id": "oa:W7204437636",
@@ -71425,11 +71517,13 @@
    ],
    "journal": "Patterns",
    "date": "2026-08-01",
-   "abstract": "",
+   "abstract": "Insufficiently documented publications can make independent reproduction an unnecessarily laborious task. We define the cost of reproducibility as the resources required to reproduce the findings of a study and we propose five dimensions of cost, using objective characteristics such as code and data. We review 918 publications between 2022 and 2024 at top AI venues to evaluate the variation in reproducibility costs, with the hypothesis that publications at venues with stricter standards are less costly. Papers published at machine learning conferences are less costly to reproduce than publication from other venues, 12.91% less costly compared with journals, and 16.52% less costly compared with general AI conferences. Award-winning papers, however, are not less costly to reproduce than regular papers, and 6.72% of implementation repository links were broken. These findings suggest that reproducibility costs can be significantly reduced through compliance-based mechanisms—provided they receive community support. We recommend that venues require the inclusion of reproducibility checklists in their publications, permit appendices for comprehensive documentation, and adopt low reproducibility cost as a key criterion for awards.",
    "url": "https://doi.org/10.1016/j.patter.2026.101640",
    "doi": "10.1016/j.patter.2026.101640",
-   "pdf": "https://doi.org/10.1016/j.patter.2026.101640",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "pdf": "https://www.cell.com/patterns/pdf/S2666-3899(26)00149-2.pdf",
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204480648": {
    "id": "oa:W7204480648",
@@ -71442,11 +71536,678 @@
    ],
    "journal": "Journal of Responsible Technology",
    "date": "2026-08-01",
-   "abstract": "",
+   "abstract": "This study examines the growing privacy risks posed by Large Language Models (LLMs) through a structured, General Data Protection Regulation (GDPR)-oriented comparative analysis. As LLMs increasingly process personal data across sectors, understanding their alignment with the proposed GDPR-based evaluation dimensions is essential for responsible adoption and risk mitigation. Using a multi-criteria evaluation framework informed by the literature, six leading LLMs (GPT-4/5, Claude 3, Gemini, Llama 3, Mistral, and Falcon) were assessed across six GDPR-based evaluation dimensions. Weighted scoring enabled a transparent comparison of privacy governance maturity across the evaluated models. Findings indicate strong performance in security and risk-based controls, particularly among proprietary models, while notable gaps remain in Purpose Limitation, Data Minimization, and documentation of lawful bases. Proprietary models generally demonstrated higher privacy governance maturity, whereas open-weight models benefited from community scrutiny but lacked structured documentation and enterprise accountability. Data Subject Rights exhibited mixed support across all evaluated models, reflecting technical challenges in implementing access, rectification, and erasure within machine learning contexts. This study contributes an actionable framework for organizations, policymakers, and researchers seeking to align Artificial Intelligence (AI) deployment with GDPR requirements. Future research should focus on longitudinal assessments of evolving LLM policies, the development of AI-specific regulatory guidance to address ambiguities in the GDPR, and the creation of standardized benchmarks for evaluating privacy governance in foundation models.",
    "url": "https://doi.org/10.1016/j.jrt.2026.100187",
    "doi": "10.1016/j.jrt.2026.100187",
    "pdf": "https://doi.org/10.1016/j.jrt.2026.100187",
-   "first_seen": "2026-08-29T12:47:08+09:00"
+   "first_seen": "2026-08-29T12:47:08+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
+  },
+  "oa:W4414656551": {
+   "id": "oa:W4414656551",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "When and how do governments succeed in introducing electronic voting (e-voting)? A qualitative comparative analysis (QCA) of 35 OECD countries",
+   "authors": [
+    "Jieqiong Wu",
+    "Julius Felix Gmeinwieser"
+   ],
+   "journal": "Policy Sciences",
+   "date": "2026-08-28",
+   "abstract": "Abstract Electronic voting (e-voting) is pivotal for modern democratic institutions in the digital age. Despite nearly six decades of e-voting technology development, significant disparities exist in its global introduction. Existing studies primarily focus on country-specific experiences, leading to limited generalizable insights into what defines successful e-voting introduction and its enablers. This study bridges this gap by proposing a comprehensive definition of successful e-voting introduction. We then explore on what grounds e-voting introduction succeeds or fails by applying fuzzy-set qualitative comparative analysis (fsQCA) to data from 35 OECD countries. Results reveal that the broader policy environments, digital readiness and citizens’ trust and ability to use technology significantly shape e-voting policies. Government commitment and policy alignment are identified as plausible complementary explanations for both success and failure. The study underscores the interplay of institutional and societal factors, rather than isolated influences, is the key driver of e-voting success.",
+   "url": "https://doi.org/10.1007/s11077-026-09622-y",
+   "doi": "10.1007/s11077-026-09622-y",
+   "pdf": "https://doi.org/10.1007/s11077-026-09622-y",
+   "first_seen": "2026-08-30T09:30:21+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204517695": {
+   "id": "oa:W7204517695",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Coordination Costs and Homelessness Housing Form Choice",
+   "authors": [
+    "Edmund Poku Adu",
+    "Julius A. Nukpezah"
+   ],
+   "journal": "Public Administration Review",
+   "date": "2026-08-28",
+   "abstract": "ABSTRACT Local implementers have discretion in selecting forms of housing for the homeless, yet the determinants of these choices remain poorly understood. Using the institutional collective action (ICA) framework, this study examines California's Homekey program to assess how coordination demands shape decisions among hotel conversions, multifamily acquisitions, and modular or new construction. Drawing on binary logistic, generalized estimating equation (GEE), and multinomial logistic models, we find that larger projects and those designated as permanent housing are significantly more likely to pursue hotel conversions. Housing authorities—owing to their specialized missions and lower form‐specific coordination costs—are over six times more likely than cities to select multifamily acquisition. Local vacancy constraints further steer implementers away from modular or new construction and toward hotel conversions. These results demonstrate that implementation form is not a neutral technical decision but an institutional response to coordination challenges embedded in intergovernmental and interorganizational contexts.",
+   "url": "https://doi.org/10.1111/puar.70191",
+   "doi": "10.1111/puar.70191",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204525772": {
+   "id": "oa:W7204525772",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Anti-corruption, market segmentation and regional innovation: evidence from China",
+   "authors": [
+    "Jiaheng Ling",
+    "Leying Yi",
+    "Hongyi Gao"
+   ],
+   "journal": "Journal of Chinese Governance",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/23812346.2026.2721774",
+   "doi": "10.1080/23812346.2026.2721774",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204550600": {
+   "id": "oa:W7204550600",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Now We Are Here: Family Migration, Children’s Education, and Dreams for a Better Life",
+   "authors": [
+    "Benjamin Roth"
+   ],
+   "journal": "Social Service Review",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1086/742042",
+   "doi": "10.1086/742042",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204551976": {
+   "id": "oa:W7204551976",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Toward a Gender Sensitive and Locally Rooted co‐Production Approach: Insights From Implementing Child Stunting Eradication Program in Indonesia",
+   "authors": [
+    "Sulikah Asmorowati",
+    "Violeta Schubert",
+    "Mary S. Mangai",
+    "Jusuf Irianto",
+    "Tri Yuniningsih",
+    "Saskia Intandivanty Kamalia Anggika",
+    "Wilujeng Dwi Windhiari"
+   ],
+   "journal": "Public Administration Review",
+   "date": "2026-08-28",
+   "abstract": "ABSTRACT Co‐production is a complex and nuanced field of social action that operates at multiple levels of the policy cycle, closely interconnecting the roles, motivations, and outcomes of different social actors. But how co‐production practices are shaped by gender is often overlooked. This article highlights the complexity of co‐production practices within Indonesia's ambitious national strategy to reduce child stunting. Based on qualitative research of three local government areas implementing stunting intervention programs, we draw on the ‘Four Co(s)’ framework to explore variations across co‐commissioning, co‐design, co‐delivery, and co‐assessment. Ongoing challenges to the eradication of stunting in some areas highlight the tense intersections between early marriage, poverty and rural and technological disadvantage. But as we argue, it is also dependent on social actors, especially women, who serve as catalysts. Future research that pays closer attention to the inherently gendered expressions of co‐production is both theoretically and practically necessary.",
+   "url": "https://doi.org/10.1111/puar.70175",
+   "doi": "10.1111/puar.70175",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204559260": {
+   "id": "oa:W7204559260",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Fiscal Transparency for Sustainable Development: The Global Evidence",
+   "authors": [
+    "Jingyuan Xu",
+    "Xiaohu Wang",
+    "Hanyu Xiao",
+    "Zhihang Yuan"
+   ],
+   "journal": "Public Administration and Development",
+   "date": "2026-08-28",
+   "abstract": "ABSTRACT Sustainable development (SD) has been a primary policy effort in government globally to address various key challenges in development and the environment. Transparency, as an accountability tool, is critical for stakeholders holding government administrations accountable for SD policy outcomes. Given the very limited literature on the role of administrative transparency in SD, this study creates a comprehensive global panel database covering the period from 2006 to 2022 to examine the effect of fiscal transparency on sustainability policy performance. The results indicate a significant role of developing transparency institutions in promoting SD goals, and distinctive effect of such development in countries of different development stages. The findings point to different paths for achieving accountability goals under different institutional conditions, which is significant for establishing and strengthening accountability enhancement strategies for policy outcomes.",
+   "url": "https://doi.org/10.1002/pad.70117",
+   "doi": "10.1002/pad.70117",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204573660": {
+   "id": "oa:W7204573660",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Brief Notices",
+   "authors": [],
+   "journal": "Social Service Review",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1086/742117",
+   "doi": "10.1086/742117",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204587849": {
+   "id": "oa:W7204587849",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "‘As a woman, you’re in a different position’: violence and mayoral authority in German local executive office",
+   "authors": [
+    "Rebecca Klöckner"
+   ],
+   "journal": "Local Government Studies",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/03003930.2026.2723976",
+   "doi": "10.1080/03003930.2026.2723976",
+   "pdf": "https://doi.org/10.1080/03003930.2026.2723976",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204592896": {
+   "id": "oa:W7204592896",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia",
+   "authors": [
+    "Michal Plaček",
+    "Juraj Nemec",
+    "David Špaček",
+    "Eduard Bakoš"
+   ],
+   "journal": "Public Management Review",
+   "date": "2026-08-28",
+   "abstract": "The goal of this article is to explore whether municipal and regional cooperation can provide robust governance solutions during a polycrisis. The methodology of the article is based on a single-country case study from Czechia. The case study focuses on coping with the COVID-19 pandemic and the refugee crisis resulting from the war in Ukraine. We demonstrate how cooperation between a city and a region contributed to robust solutions and improved the lives of local communities. Although municipal and regional cooperation can potentially create significant positive effects that align with the definition of robust governance, this potential is not fully realized in Czechia. The main reasons for this untapped potential are failures of the central government, a lack of leadership and strategic focus, and the absence of formalized learning.",
+   "url": "https://doi.org/10.1080/14719037.2026.2724517",
+   "doi": "10.1080/14719037.2026.2724517",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204495969": {
+   "id": "oa:W7204495969",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Dependent contractors in South Korea’s incomplete multi-pillar pension system",
+   "authors": [
+    "Jaewook Nahm"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-08-27",
+   "abstract": "Drawing on a survey of 1,053 dependent contractors (DCs) in ten occupations, conducted by the Korea Platform and Freelancer Worker Mutual Aid(KPFWMA), this study examines how DCs are positioned within South Korea’s ‘incomplete’ multi-pillar pension system (MPPS), conceptualized along three dimensions: statutory, administrative, and functional incompleteness. The results show precarious integration: about 40% of respondents lack any pension coverage, while only one in ten attains full multi-pillar protection. Coverage is stratified primarily by age and income, occupational differences are comparatively muted, and second-pillar coverage obtained through DC work itself is nearly absent. Latent demand for a collective retirement mutual-aid scheme is nonetheless substantial within the sample, including 43.8% of KPFWMA non-members. The findings indicate that an incomplete MPPS converts labour-market precarity into old-age insecurity from the point of enrolment onward, and support mandatory contributions by business owners, contribution subsidies for low-income participants, and transitional collective arrangements.",
+   "url": "https://doi.org/10.1080/17516234.2026.2723285",
+   "doi": "10.1080/17516234.2026.2723285",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204496146": {
+   "id": "oa:W7204496146",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "How Medicaid Accountable Care Organizations Advance Maternal Health Care Quality: Drivers of Change and Challenges From the Perspective of ACO Leaders, Clinicians, and Care Coordinators",
+   "authors": [
+    "Shannon N. Ogden",
+    "Stephanie Loo",
+    "Megan B. Cole",
+    "Kathryn D. Thompson",
+    "Kenneth Lim",
+    "Sarah H. Gordon",
+    "Collette N. Ncube",
+    "Elizabeth W. Patton",
+    "Karen E. Lasser",
+    "Lois McCloskey"
+   ],
+   "journal": "Milbank Quarterly",
+   "date": "2026-08-27",
+   "abstract": "Policy Points Medicaid Accountable Care Organization contracts that include maternal health metrics can act as an important lever to prioritize and improve maternal health care quality and equity within health care systems. Medicaid Accountable Care Organizations should implement specialized maternal health programs to support metric achievement and provide dedicated resources to meaningfully affect maternal health care quality and equity. CONTEXT: In the wake of a US maternal health crisis, Accountable Care Organizations (ACOs) may be a key opportunity to improve maternal health care. In 2018, Massachusetts Medicaid launched its ACO program through an 1115 waiver, which renewed and expanded in 2023. During the second waiver period, the ACOs expanded their emphasis on maternal health. However, there is limited understanding of how maternal health fits into Medicaid ACO strategic priorities, how ACOs implement maternal health initiatives, and the challenges they face. This study uses qualitative interviews with ACO leaders, clinicians, and care coordinators to explore how ACOs addressed maternal health care quality, while identifying key drivers of and challenges for change in maternal health care delivery across Massachusetts' two waiver periods. METHODS: We conducted 23 semistructed interviews with 26 ACO leaders, clinicians, and care coordinators representing six of 17 Massachusetts Medicaid ACOs between September 2023 and December 2024. We analyzed professionally transcribed interviews using thematic analysis. FINDINGS: We identified three major themes: (1) Mandated ACO metrics drive maternal health priorities and practices, yet meeting metrics is challenging; (2) Shifts in Medicaid ACO priorities prompt the adaptation of existing programs or development of new initiatives to address maternal health; and (3) Health-related social needs initiatives within the ACO are viewed as critical to maternal health care. The themes emphasized how Medicaid ACOs and health care systems adapted their programming in response to state-level mandates to improve maternal health care quality. CONCLUSIONS: Findings highlight the importance of aligning the design of Medicaid ACO programs with robust infrastructure and resources to support sustainable improvements in maternal health. Massachusetts' Medicaid program achieved success in improving maternal care quality when it intentionally and strategically incorporated maternal health-specific provisions into Medicaid ACO contracts.",
+   "url": "https://doi.org/10.1111/1468-0009.70121",
+   "doi": "10.1111/1468-0009.70121",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70121",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204497522": {
+   "id": "oa:W7204497522",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Stigma as a Social Determinant of Health: A Policy Classification Framework and Call to Action",
+   "authors": [
+    "Lisa Carter‐Harris"
+   ],
+   "journal": "Milbank Quarterly",
+   "date": "2026-08-27",
+   "abstract": "Policy Points Stigma functions as a social determinant of health (SDOH), producing population health inequities through resource deprivation, social exclusion, constrained health care, physiological stress, and diminished agency-yet it lacks formal SDOH classification. Because stigma operates as a fundamental cause of health inequalities, policy responses must extend beyond health care systems to encompass housing, employment, education, and social participation. Discrimination is already classified as an SDOH; formal stigma classification would address the broader ecosystem that enables discrimination and the anticipated, internalized, and structural forms that produce harm even in its absence. CONTEXT: Despite substantial evidence that stigma produces measurable health inequities across conditions and populations, stigma remains absent from major social determinants of health (SDOH) frameworks. This absence persists even though discrimination-one manifestation of the broader stigma ecosystem-is already classified as an SDOH. METHODS: Drawing on fundamental cause theory, we derive five criteria for SDOH classification and systematically evaluate stigma against each. We synthesize evidence from systematic reviews and meta-analyses across HIV, mental illness, lung cancer, obesity, and structural stigma research. Lung cancer serves as a running exemplar throughout. FINDINGS: Stigma meets all five criteria for SDOH classification: structural embedding in policies and institutions, health impact through multiple pathways extending well beyond health care systems, contribution to systematic health inequities, modifiability through multilevel intervention, and measurement feasibility through validated instruments. We identify five pathways through which stigma produces population health harm: resource deprivation, social exclusion, constrained health care access and quality, physiological stress and weathering, and diminished agency and identity. CONCLUSIONS: We propose the stigma-as-social-determinant (SSD) classification framework as a policy translation tool that specifies the infrastructure needed to operationalize formal recognition. Critically, because stigma operates as a fundamental cause whose health effects extend far beyond clinical encounters, policy translation must not flow primarily through health care systems. Anti-stigma policy must engage housing, employment, education, and social policy alongside-not subordinate to-health care reform.",
+   "url": "https://doi.org/10.1111/1468-0009.70120",
+   "doi": "10.1111/1468-0009.70120",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70120",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204498681": {
+   "id": "oa:W7204498681",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Newest Federalism and Population Health",
+   "authors": [
+    "Jennifer Karas Montez",
+    "Jacob M. Grumbach"
+   ],
+   "journal": "Milbank Quarterly",
+   "date": "2026-08-27",
+   "abstract": "Policy Points In the United States, social policies at the federal, state, and local levels affect population health. The country is undergoing major changes in its social policies and intergovernmental relations. As both state and local governments have taken different approaches to social policies, where one resides and the socioeconomic resources one has increasingly have life and death consequences. The following three contemporary changes in intergovernmental relations may have profound consequences for population health: erosion of the federal floor, formation of cross-state alliances, and circumvention of congressional policymaking. CONTEXT: American federalism involves decentralized policymaking across federal, state, and local governments. Since the 1980s, changes in those intergovernmental relations, termed \"New Federalism,\" combined with polarization in policies across state and local governments, resulted in some places being conducive to health while others are not. This Perspective proposes that the country has entered \"Newest Federalism\" with contemporary changes in intergovernmental relations that carry profound, and largely unstudied, implications for population health. METHOD: Drawing on the federalism, health policy, and population health literatures, this Perspective links New Federalism and state policy polarization to the troubling trends and growing disparities in population health since the 1980s. It then identifies three features of the current context, coined the Newest Federalism, that will adversely impact population health. FINDINGS: Three characteristics of the Newest Federalism are particularly important. These include the erosion of the federal floor, evident in the declining real minimum wage, repeal of federal abortion protections, cuts to SNAP and Medicaid, threats to the Department of Education, and more; formation of cross-state alliances that fill federal policy vacuums in areas such as public health, data privacy, and reproductive rights, but that may themselves widen disparities between states; and growing use of executive orders, agency actions, and waivers to circumvent congressional policymaking. These changes may harm population health overall and disproportionately affect people with limited socioeconomic resources and those living in states that cannot or will not offset federal retrenchment. CONCLUSIONS: Understanding and mitigating the health consequences of the Newest Federalism will require research that examines the combined effects of federal, state, and local policy change, attends to the distributive consequences of cross-state alliances, and informs policymakers and the public about the stakes for population health.",
+   "url": "https://doi.org/10.1111/1468-0009.70124",
+   "doi": "10.1111/1468-0009.70124",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70124",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204499017": {
+   "id": "oa:W7204499017",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "American Society for Public Administration Code of Ethics",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "date": "2026-08-27",
+   "abstract": "",
+   "url": "https://doi.org/10.1111/puar.70182",
+   "doi": "10.1111/puar.70182",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204499584": {
+   "id": "oa:W7204499584",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Celebrating 85 Years",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "date": "2026-08-27",
+   "abstract": "",
+   "url": "https://doi.org/10.1111/puar.70183",
+   "doi": "10.1111/puar.70183",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204522462": {
+   "id": "oa:W7204522462",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Conditional Autonomy, Discursive Gatekeeping, and Patterns of Action: How Experts Influence Policy in China's One‐Party System",
+   "authors": [
+    "Giliberto Capano",
+    "Yuchen Guo"
+   ],
+   "journal": "Policy Studies Journal",
+   "date": "2026-08-01",
+   "abstract": "ABSTRACT This paper examines how experts exert influence within China's one‐party system, where policymaking is ideologically disciplined and knowledge‐intensive. It combines the Functional Theory of Agency, which identifies patterns of action including accumulation of knowledge, brokerage, entrepreneurship, and leadership, with a typology of four expert configurations—near‐power, academic, market‐oriented, and Societal experts—to explain differences in institutional embeddedness and resource base. The paper argues that these configurations operate under conditions of conditional autonomy; expert influence becomes possible through alignment with the dominant discursive, temporal and institutional order of the Party‐state. Discursive gatekeeping determines which forms of expert agency become feasible and consequential under specific political conditions. This argument is illustrated using Caoyang New Village renewal project in Shanghai, a high‐salience planning case where discursive framing, safety and stability boundaries, and political timing activate and constrain expert roles. Near‐power experts perform leadership and intra‐bureau brokerage, while academic experts broker and selectively pursue entrepreneurship. Market‐oriented experts advance entrepreneurship and project‐level leadership, while Societal experts engage in brokerage and collective leadership, pursuing micro‐entrepreneurship within tacitly tolerated boundaries. The paper's contribution is to demonstrate that political control does not merely suppress expertise but differentiates and organizes expert agency into distinct, policy‐relevant forms.",
+   "url": "https://doi.org/10.1111/psj.70151",
+   "doi": "10.1111/psj.70151",
+   "pdf": "https://doi.org/10.1111/psj.70151",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7165812477": {
+   "id": "oa:W7165812477",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Creating Human Value as Public Management Theory",
+   "authors": [
+    "Seohyeon Ko"
+   ],
+   "journal": "International Public Management Journal",
+   "date": "2026-06-24",
+   "abstract": "Joseph Drew’s Creating Human Value as Public Management Theory departs from the critical observation that contemporary public management theory has systematically marginalized the very subject at t...",
+   "url": "https://doi.org/10.1080/10967494.2026.2685266",
+   "doi": "10.1080/10967494.2026.2685266",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7163035683": {
+   "id": "oa:W7163035683",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Powerless: The People’s Struggle for Energy",
+   "authors": [
+    "Smitha Rao"
+   ],
+   "journal": "Social Service Review",
+   "date": "2026-06-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1086/740868",
+   "doi": "10.1086/740868",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7172419884": {
+   "id": "oa:W7172419884",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Do I Even Need a Multilevel Model? Negligible Effect Significance Testing for Intraclass Correlation Coefficients",
+   "authors": [
+    "Dayeon Lee",
+    "Gregory R. Hancock"
+   ],
+   "journal": "Journal of Educational and Behavioral Statistics",
+   "date": "2026-08-28",
+   "abstract": "In applied research, the decision to utilize multilevel modeling (MLM) is commonly guided by comparing a point estimate of the unconditional intraclass correlation coefficient (ICC) against some recommended threshold (e.g., 0.05). This naïve approach, however, fails to account for sampling uncertainty and provides no formal inferential justification for a decision. The current work introduces negligible effect significance testing (or equivalence testing) for the ICC, proposing a framework that performs this test using a pivotal quantity of the ICC based on the F statistic. Furthermore, we offer guidance to help researchers define “negligible” that utilizes the design effect to characterize a tolerable level of variance inflation. R code illustrating the proposed procedure is provided.",
+   "url": "https://doi.org/10.3102/10769986261478956",
+   "doi": "10.3102/10769986261478956",
+   "pdf": "https://doi.org/10.48550/arxiv.2608.02535",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204495864": {
+   "id": "oa:W7204495864",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Who drops out, and when? Insights from a fully online Italian university",
+   "authors": [
+    "Giorgio Cecchi",
+    "Allegra Freschi"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11135-026-03063-8",
+   "doi": "10.1007/s11135-026-03063-8",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204499787": {
+   "id": "oa:W7204499787",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "The impact of circular economy practices on tourist loyalty in can Gio, Ho Chi Minh City: the mediating roles Of perceived environmental sustainability and behavioral intention within a Tpb-Vbn framewor",
+   "authors": [
+    "Nguyen Thi Kieu",
+    "Trong Tien Bao Bui",
+    "Minh Phạm",
+    "Nghi Nguyen",
+    "Dao Le"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11135-026-03078-1",
+   "doi": "10.1007/s11135-026-03078-1",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204529418": {
+   "id": "oa:W7204529418",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Fraudulent participation in online surveys in the age of AI: a case-based warning for researchers",
+   "authors": [
+    "Milad Malekzadeh",
+    "Riku Reunamäki",
+    "Olle Järv"
+   ],
+   "journal": "International Journal of Social Research Methodology",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/13645579.2026.2726836",
+   "doi": "10.1080/13645579.2026.2726836",
+   "pdf": "https://doi.org/10.1080/13645579.2026.2726836",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204606007": {
+   "id": "oa:W7204606007",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "A structured guide to research methods: integrating frameworks, tools, and applications for researchers",
+   "authors": [
+    "Luiz Fernando Fogaça Vieira",
+    "Gilberto Perez",
+    "Sílvio Popadiuk"
+   ],
+   "journal": "Quality & Quantity",
+   "date": "2026-08-28",
+   "abstract": "Abstract This comprehensive guide addresses a gap in methodological literature by synthesizing quantitative, qualitative, and mixed research approaches within a structured framework. It bridges theoretical foundations, practical applications, and tool selection—a resource often lacking in traditional texts. The article presents comparative tables and a decision-support tree outlining core objectives, analytical strategies, and compatible software tools. Implementation is illustrated through methodological case studies focused on administrative and organizational contexts. Designed as both an accessible roadmap for novice researchers and a consolidated reference for advanced users, this guide supports rigorous and informed methodological decisions across research settings. While comprehensive in scope, it serves as a starting point rather than an exhaustive manual, encouraging readers to adapt and expand the framework to their specific research needs.",
+   "url": "https://doi.org/10.1007/s11135-026-03076-3",
+   "doi": "10.1007/s11135-026-03076-3",
+   "pdf": "https://doi.org/10.1007/s11135-026-03076-3",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204560455": {
+   "id": "oa:W7204560455",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "“Rebuilding” Statistics in the Age of AI: Culture, Infrastructure, and Training",
+   "authors": [
+    "David L. Donoho",
+    "Jian Kang",
+    "Xihong Lin",
+    "Bhramar Mukherjee",
+    "Dan Nettleton",
+    "Rebecca Nugent",
+    "Abel Rodríguez",
+    "Eric P. Xing",
+    "Tian Zheng",
+    "Hongtu Zhu"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-08-28",
+   "abstract": "This perspective article distills themes from the 2024 JSM town hall, Statistics in the Age of AI, where panelists discussed how the field should evolve as foundation models, large-scale empirical modeling, and data-intensive infrastructures reshape science and society. Rather than a transcript or comprehensive survey, the article offers a forward-looking perspective grounded in the town hall discussion and the authors’ reflections. We organize the discussion around five recurring questions: (i) disciplinary culture and incentives, (ii) the role of data curation and annotation, (iii) engagement with modern empirical modeling, (iv) training for large-scale AI applications, and (v) partnerships with key AI stakeholders. We emphasize that statistics already leads in areas such as uncertainty quantification, study design, evaluation, and inference, while arguing that some parts of the field could engage more deeply with data engineering, cloud-scale computation, and end-to-end AI systems. We conclude with pragmatic recommendations for training, incentives, and collaboration so that statisticians can help shape the data-centric future.",
+   "url": "https://doi.org/10.1080/01621459.2026.2680161",
+   "doi": "10.1080/01621459.2026.2680161",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204563186": {
+   "id": "oa:W7204563186",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Transfer Learning for Covariance Matrix Estimation: Optimality and Adaptivity",
+   "authors": [
+    "Tommaso Cai",
+    "Dongwoo Kim",
+    "Yicheng Li",
+    "Dongdong Xiang"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-08-28",
+   "abstract": "Transfer learning, which leverages auxiliary data to improve inference in a target domain, has become a powerful tool in machine learning. In this work, we study minimax and adaptive estimation of large bandable covariance matrices under a transfer learning framework.We first establish the minimax rate of convergence under squared spectral norm loss and propose a rate-optimal estimator. Our analysis reveals phase transitions determined by the source-target disparity, the source sample size, the dimension, and the two smoothness indices. We then develop an adaptive estimator, a fully data-driven procedure that does not require the unknown smoothness and disparity parameters. In most regimes, it directly attains the minimax optimal rate without additional cost of adaptation.Simulation studies support our theoretical results and demonstrate the practical effectiveness of the proposed adaptive procedure. We further illustrate its utility in a phoneme classification task, where incorporating related phonemes as auxiliary data significantly improves classification performance.",
+   "url": "https://doi.org/10.1080/01621459.2026.2725280",
+   "doi": "10.1080/01621459.2026.2725280",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204537575": {
+   "id": "oa:W7204537575",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Recovering event-time distributions under multiresolution time rounding: the case of crime data",
+   "authors": [
+    "Charles Taylor",
+    "Marco Di Marzio",
+    "Stefania Fensore",
+    "Chiara Passamonti"
+   ],
+   "journal": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+   "date": "2026-08-18",
+   "abstract": "Abstract Reported time-of-day data are often affected by measurement error due to rounding and digit preference, producing artificial temporal spikes and distorted diurnal patterns. These artefacts arise from heterogeneous reporting practices, with incidents recorded at varying resolutions depending on context and event type. We address the problem of recovering the underlying distribution of event times when only multiresolution rounded observations are available. Our approach estimates rounding probabilities through a constrained least-squares decomposition of the empirical distribution of “minutes past the hour,” using these estimates as an intermediate step for penalized inversion over the 24-hour cycle. Because clock-time is circular, we explicitly ensure circular coherence both within-hour and across-hour scales. Motivated by Boston crime data, the method reveals substantial heterogeneity in reporting precision across offense types: aggravated assaults are mostly recorded at the minute level, whereas auto thefts show extensive coarse rounding. The method is broadly applicable to settings where reported times undergo multi-resolution rounding, including medical, survey, and administrative data.",
+   "url": "https://doi.org/10.1093/jrsssc/qlag051",
+   "doi": "10.1093/jrsssc/qlag051",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204596196": {
+   "id": "oa:W7204596196",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Refined trial sequential analysis for meta-analyses with few studies",
+   "authors": [
+    "Yipeng Wang",
+    "Lifeng Lin"
+   ],
+   "journal": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+   "date": "2026-08-11",
+   "abstract": "Abstract Evidence syntheses are often updated as new trials become available. A cumulative meta-analysis repeats a meta-analysis in chronological order, and trial sequential analysis applies group-sequential principles to cumulative meta-analysis to control the risk of spurious findings due to repeated testing. Despite the growing popularity of trial sequential analysis, existing methods rely heavily on normal approximations derived from interim analyses of randomized controlled trials, where participants are typically more homogeneous than in meta-analyses. In random-effects meta-analyses, the conventional assumption that the synthesized effect estimate follows a normal distribution can perform poorly when the number of studies is small. In such settings, the Hartung–Knapp–Sidik–Jonkman method, which is based on a t distribution, has been recommended for more reliable inference. This article introduces refined trial sequential procedures based on cumulative meta-analytic t statistics. The proposed methods are designed to reduce the risk of premature or spurious conclusions in updating evidence syntheses, particularly when between-study heterogeneity is present. Numerical studies demonstrate that the proposed methods provide improved control of type I error compared with existing methods, although the degree of improvement depends on the magnitude of heterogeneity and the true effect size.",
+   "url": "https://doi.org/10.1093/jrsssc/qlag050",
+   "doi": "10.1093/jrsssc/qlag050",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204499543": {
+   "id": "oa:W7204499543",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Predicting Carbon Prices with Explainable Time-Varying Feature Selection: Evidence from the EU ETS",
+   "authors": [
+    "He Jiang",
+    "Rongyu Cao"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11412-w",
+   "doi": "10.1007/s10614-026-11412-w",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204522771": {
+   "id": "oa:W7204522771",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Morphing-Based Sensitivity Analysis: A Comparative Study of Linear and Non-linear Temporal Transformations in TSC Robustness",
+   "authors": [
+    "Antónia Brito",
+    "Duarte Folgado",
+    "Carlos Soares",
+    "Moisés Santos"
+   ],
+   "journal": "Machine Learning",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10994-026-07132-9",
+   "doi": "10.1007/s10994-026-07132-9",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204528415": {
+   "id": "oa:W7204528415",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Where Mechanism Meets Normativity: Predictive Processing in Search of Explanatory Constraints",
+   "authors": [
+    "Michał Piekarski"
+   ],
+   "journal": "Minds and Machines",
+   "date": "2026-08-28",
+   "abstract": "Abstract Predictive Processing (PP) is commonly described as a mechanism sketch—an incomplete, primarily mechanistic representation of cognitive processes. While this characterization rightly emphasizes PP’s structural and causal explanatory aspects, I argue that it tends to overlook important functional and normative dimensions that are essential for a comprehensive account of cognitive processes. In response, I claim that PP, while providing mechanism sketches in the standard sense, simultaneously performs a second, normative-functional epistemic role. This expanded view on PP preserves the value of its mechanistic explanation while clarifying the essential role of functional constraints in shaping predictive models. Specifically, I show how PP models postulate explanatory constraints—formal, structural, and functional—that are inherently normative, as they specify the conditions viable mechanisms must satisfy to be biologically plausible and adaptive. Drawing on Levenstein et al. (2023), I situate this account within a pragmatic framework that recognizes the legitimacy of mechanistic, normative, and descriptive theories without reducing one to another. This pluralistic approach enables genuine integration across explanatory levels and points toward more adequate future models in cognitive neuroscience.",
+   "url": "https://doi.org/10.1007/s11023-026-09799-4",
+   "doi": "10.1007/s11023-026-09799-4",
+   "pdf": "https://doi.org/10.1007/s11023-026-09799-4",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204531203": {
+   "id": "oa:W7204531203",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From mobile-money account ownership to formal financial-system access in sub-Saharan Africa: The moderating roles of financial literacy, regulatory quality and infrastructure",
+   "authors": [
+    "Julian J. Jackson",
+    "Tafirenyika Sunde"
+   ],
+   "journal": "Telecommunications Policy",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.telpol.2026.103316",
+   "doi": "10.1016/j.telpol.2026.103316",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204536459": {
+   "id": "oa:W7204536459",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Who benefits? Australian public perceptions of safety and justice in connected and automated vehicles (CAVs)",
+   "authors": [
+    "Laura Martinez-Buelvas",
+    "Andry Rakotonirainy",
+    "Deanna Grant-Smith",
+    "Óscar Oviedo-Trespalacios"
+   ],
+   "journal": "AI & Society",
+   "date": "2026-08-28",
+   "abstract": "Abstract The integration of connected and automated vehicles (CAVs) into everyday mobility systems raises profound ethical and societal challenges, particularly concerning safety, justice, and the treatment of vulnerable road users (VRUs). This study examines Australian public perceptions of the fairness, safety, and legitimacy of CAV deployment, investigating how exposure to information related to ethics and justice influences acceptance and evaluative perceptions related to trust (including perceived safety, fairness, and institutional confidence). An online survey of 384 respondents (aged 18–82) employed a before-and-after design, in which respondents evaluated CAVs before and after engaging with an infographic outlining key justice and safety dilemmas. Awareness of CAVs was widespread (95.3%), primarily shaped by media narratives rather than direct experience. Whilst over half of respondents expressed optimism about the potential of CAVs to improve safety and fairness, substantial proportions raised concerns about equity, transparency, and procedural justice. Following exposure to the infographic, positive perceptions declined slightly but not significantly, suggesting that attitudes are shaped by deeper moral and institutional expectations rather than informational effects. Open-ended responses revealed recurring anxieties about affordability, infrastructure readiness, technological reliability, and governance accountability, alongside ethical concerns related to VRU prioritisation, liability, privacy, and algorithmic decision-making in critical situations. These findings highlight a cautious public stance towards automation, one that accepts its promise but questions its fairness, underscoring the need for reflexive, transparent, and participatory governance frameworks to ensure that AI-driven mobility evolves in alignment with societal values and distributive justice.",
+   "url": "https://doi.org/10.1007/s00146-026-03289-y",
+   "doi": "10.1007/s00146-026-03289-y",
+   "pdf": "https://doi.org/10.1007/s00146-026-03289-y",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204543939": {
+   "id": "oa:W7204543939",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Value conflicts in natural language processing: A systematic literature review",
+   "authors": [
+    "Robin Forsberg",
+    "Matti Nelimarkka"
+   ],
+   "journal": "Big Data & Society",
+   "date": "2026-08-28",
+   "abstract": "Despite broad consensus among social scientists that technology embodies values, scholarship is conspicuously lacking in reflexive analysis of the value-based implications of natural language processing (NLP) technologies. To explore embedded values and potential harms in the NLP domain, a systematic literature review grounded in established value frameworks focused on how uninformed design decisions can perpetuate algorithmic biases and lead to discriminatory outcomes. Analysis applying Schwartz's theory of basic values to a sample of 60 articles indexed by the Association for Computing Machinery and Institute of Electrical and Electronics Engineers, published between 2010 and 2023, identified underrepresented values such as stimulation and tradition, and it detected the complete absence of attention to hedonism and benevolence. The omission of scholarly attention to hedonism is particularly surprising, in light of its relevance for social media services; this points to a potential oversight in enhancing personal enjoyment and quality of life. Benevolence's absence indicates unexplored areas of communal application. The study highlights a need for more comprehensive value-based analysis in NLP research, to ensure ethical and inclusive technological development. Highlighting this gap should contribute to cross-discipline dialogue among researchers, technologists, and policymakers, for NLP technologies better aligned with diverse human values.",
+   "url": "https://doi.org/10.1177/20539517261481724",
+   "doi": "10.1177/20539517261481724",
+   "pdf": "https://doi.org/10.1177/20539517261481724",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204554535": {
+   "id": "oa:W7204554535",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Enhancing reproducibility in hybrid Earth system models",
+   "authors": [
+    "Min Chen",
+    "Zhiyi Zhu",
+    "Thorsten Wagener",
+    "Niklas Boers",
+    "R. Dietmar Müller",
+    "Josef Strobl",
+    "Gustau Camps-Valls",
+    "Michael Batty",
+    "Anthony J. Jakeman",
+    "Olaf Kolditz"
+   ],
+   "journal": "Nature Machine Intelligence",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s42256-026-01299-5",
+   "doi": "10.1038/s42256-026-01299-5",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204578783": {
+   "id": "oa:W7204578783",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Dynamic Derived Intentionality in Large Language Models: From Implicit Beliefs to Semantic Parasitism",
+   "authors": [
+    "Andrea Tortoreto"
+   ],
+   "journal": "Minds and Machines",
+   "date": "2026-08-28",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11023-026-09800-0",
+   "doi": "10.1007/s11023-026-09800-0",
+   "pdf": "",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7204599126": {
+   "id": "oa:W7204599126",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Imagining Trajectories for Anomaly Detection in Reinforcement Learning from Images",
+   "authors": [
+    "Tom Haider",
+    "Karsten Roscher",
+    "Stephan Günnemann"
+   ],
+   "journal": "Machine Learning",
+   "date": "2026-08-28",
+   "abstract": "Abstract Detecting anomalous inputs is a critical prerequisite for the safe deployment of reinforcement learning (RL) agents in real-world environments. Although anomaly detection (AD) has been extensively studied in other domains, its application to reinforcement learning remains challenging due to high-dimensional sensory observations and complex temporal dependencies. Existing approaches in this setting are limited and often rely on access to internal representations of trained agents, creating an undesirable coupling between policy and safety mechanisms. In this work, we propose ITRM, a novel approach to anomaly detection in visual reinforcement learning that is fully agent-agnostic and does not require access to policy internals. Our method is based on the observation that deviations from nominal environment dynamics can be identified through discrepancies in the latent representations of a learned world model. Specifically, we leverage predictive components of a recurrent state-space model to generate deterministic latent embeddings that serve as normative references for anomaly detection. Anomalies are detected by comparing predicted latent features against a reference set of nominal embeddings using a similarity-based criterion. Operating in the world model’s latent space allows the detector to capture semantically meaningful deviations. Extensive empirical evaluations and ablation studies demonstrate that the proposed approach achieves strong detection performance. On the Anomaly-Gym benchmark, our method outperforms existing baselines, achieving an average AUROC of 0.853 and an FPR95 of 0.279.",
+   "url": "https://doi.org/10.1007/s10994-026-07126-7",
+   "doi": "10.1007/s10994-026-07126-7",
+   "pdf": "https://doi.org/10.1007/s10994-026-07126-7",
+   "first_seen": "2026-08-30T09:30:21+09:00"
+  },
+  "oa:W7171398567": {
+   "id": "oa:W7171398567",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Moral contact tracing: Proximity, risk and epidemic reasoning in digital public judgement",
+   "authors": [
+    "Javier García-Martínez"
+   ],
+   "journal": "Big Data & Society",
+   "date": "2026-07-27",
+   "abstract": "Digital publics increasingly evaluate scandal through practices that resemble epidemiological contact tracing: users reconstruct networks from digital documents, images, logs and archived traces to infer graded moral risk from proximity to an alleged wrongdoer. I conceptualise this as moral contact tracing, a mode of moral inference that shifts judgement from action and intention toward adjacency, degrees of separation, and documented co-presence. Situating the phenomenon in scholarship on contamination, stigma and epidemic rationalities, I argue that contemporary digital infrastructures enable large-scale, participatory ‘network forensics’ in which adjacency functions as quasi-evidence. This framework illuminates how suspicion becomes scalar, boundaries of moral relevance destabilise and reputational stigma persists through durable digital traces. This article contributes to debates on how digital traces, archives and records shape moral evaluation in datafied societies.",
+   "url": "https://doi.org/10.1177/20539517261473376",
+   "doi": "10.1177/20539517261473376",
+   "pdf": "https://doi.org/10.1177/20539517261473376",
+   "first_seen": "2026-08-30T09:30:21+09:00"
   }
  }
 }
