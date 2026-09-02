@@ -19388,7 +19388,7 @@
    "abstract": "This article reconstructs the ethical architecture of Islamic philanthropy through qualitative thematic content analysis of Qur’anic and Prophetic sources. While existing scholarship documents important elements of Islamic giving, the ethical foundations of zakat, sadaqa, infaq, and waqf remain conceptually fragmented. Inductive analysis identifies four interrelated ethical dimensions – trusteeship (amanah), self-purification (tazkiyah), circularity (dawr), and reciprocity (mukāfa’ah) – that together form a coherent moral framework grounded in spiritual accountability and distributive justice, constituting a normatively structured moral economy of philanthropic obligation. The study shows that Islamic philanthropy conceptualizes giving not as discretionary benevolence but as a structured domain of obligation and social responsibility. By systematically reconstructing this ethical architecture, the article contributes to nonprofit and voluntary sector scholarship by clarifying how moral frameworks shape philanthropic governance, accountability, and institutional diversity. The findings advance debates on ethical pluralism and provide a conceptual foundation for comparative research on faith-based philanthropy.",
    "url": "https://doi.org/10.1177/08997640261457388",
    "doi": "10.1177/08997640261457388",
-   "pdf": "",
+   "pdf": "https://researchportal.bath.ac.uk/en/publications/f598e80b-85be-4716-b2e1-e4f83acc060f",
    "first_seen": "2026-08-10T09:49:36+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -35585,7 +35585,7 @@
    "id": "oa:W4405031576",
    "topic": "econ-stats",
    "origin": "OpenAlex",
-   "title": "Adjusting auxiliary variables under approximate neighborhood interference",
+   "title": "Adjusting Auxiliary Variables under Approximate Neighborhood Interference",
    "authors": [
     "Xin Lü",
     "Yuhao Wang",
@@ -52223,7 +52223,7 @@
    "doi": "10.1007/s13347-026-01150-0",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01150-0.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7172149172": {
@@ -52266,7 +52266,7 @@
    "doi": "10.1016/j.telpol.2026.103291",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7171795545": {
@@ -52284,7 +52284,7 @@
    "doi": "10.1162/99608f92.a0170b2a",
    "pdf": "https://hdsr.mitpress.mit.edu/pub/jbqroy8g/download/pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7171878399": {
@@ -52366,7 +52366,7 @@
    "doi": "10.1162/99608f92.f437c1b2",
    "pdf": "https://doi.org/10.1162/99608f92.f437c1b2",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7171833141": {
@@ -52393,7 +52393,7 @@
    "doi": "10.1038/s42256-026-01277-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4403663441": {
@@ -52434,7 +52434,7 @@
    "doi": "10.1162/99608f92.8bed4b20",
    "pdf": "https://doi.org/10.1162/99608f92.8bed4b20",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7171777717": {
@@ -52472,7 +52472,7 @@
    "doi": "10.1007/s10614-026-11401-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171842372": {
@@ -52510,7 +52510,7 @@
    "doi": "10.1162/99608f92.63b65052",
    "pdf": "https://doi.org/10.1162/99608f92.63b65052",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171823754": {
@@ -52550,7 +52550,7 @@
    "doi": "10.1162/99608f92.995aeed6",
    "pdf": "https://doi.org/10.1162/99608f92.995aeed6",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171644740": {
@@ -52566,13 +52566,14 @@
    ],
    "journal": "Data Mining and Knowledge Discovery",
    "date": "2026-07-29",
-   "abstract": "",
+   "abstract": "Unsupervised anomaly detection stands as an important problem in machine learning. Existing unsupervised anomaly detection algorithms rarely perform well across different anomaly types, often excelling only under specific structural assumptions. This lack of robustness also becomes particularly evident under noisy settings. We propose Mean Shift Density Enhancement (MSDE), a fully unsupervised framework that detects anomalies through their geometric response to density-driven manifold evolution. MSDE is designed as a general purpose anomaly detection framework, based on the principle that normal samples, being well supported by local density, remain stable under iterative density enhancement, whereas anomalous samples undergo large cumulative displacements as they are attracted toward nearby density modes. To operationalize this idea, MSDE employs a weighted mean-shift procedure with adaptive, sample-specific density weights derived from a manifold learning-based fuzzy neighborhood graph. We evaluate MSDE on an anomaly detection benchmark comprising 46 real-world tabular datasets, four realistic anomaly generation mechanisms, and six noise levels. Compared to 13 established unsupervised baselines, MSDE achieves consistently strong, balanced and robust performance for several standard classification metrics, at several noise levels and on average over several types of anomalies. These results demonstrate that displacement-based scoring provides a robust alternative to the existing state-of-the-art for unsupervised anomaly detection.",
    "url": "https://doi.org/10.1007/s10618-026-01244-5",
    "doi": "10.1007/s10618-026-01244-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W4391591658": {
    "id": "oa:W4391591658",
@@ -52639,7 +52640,7 @@
    "doi": "10.1007/s13347-026-01152-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171732231": {
@@ -52743,7 +52744,7 @@
    "doi": "10.1016/j.telpol.2026.103284",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4387635420": {
@@ -52805,7 +52806,7 @@
    "doi": "10.1007/s10614-026-11375-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4416703651": {
@@ -52848,7 +52849,7 @@
    "doi": "10.1007/s10614-026-11393-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171496824": {
@@ -52905,7 +52906,7 @@
    "doi": "10.1007/s43681-026-01267-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171488670": {
@@ -53050,7 +53051,7 @@
    "doi": "10.1007/s10994-026-07109-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171459281": {
@@ -53071,7 +53072,7 @@
    "doi": "10.1007/s10994-026-07130-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171416877": {
@@ -53089,7 +53090,7 @@
    "doi": "10.1007/s43681-026-01262-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171424630": {
@@ -53108,7 +53109,7 @@
    "doi": "10.1007/s10618-026-01246-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171361808": {
@@ -53148,7 +53149,7 @@
    "doi": "10.1007/s10994-026-07124-9",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171458641": {
@@ -53168,7 +53169,7 @@
    "doi": "10.1007/s43681-026-01292-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171391229": {
@@ -53205,7 +53206,7 @@
    "doi": "10.1007/s43681-026-01287-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171470562": {
@@ -53278,7 +53279,7 @@
    "doi": "10.1007/s43681-026-01295-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171458680": {
@@ -53296,7 +53297,7 @@
    "doi": "10.1007/s43681-026-01296-9",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7171291676": {
@@ -53374,7 +53375,7 @@
    "doi": "10.1007/s00146-026-03208-1",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03208-1.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4318238964": {
@@ -53579,7 +53580,7 @@
    "doi": "10.1007/s00146-026-03256-7",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03256-7.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7170385706": {
@@ -53595,7 +53596,7 @@
    "doi": "10.1038/s42256-026-01288-8",
    "pdf": "https://www.nature.com/articles/s42256-026-01288-8.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4405956487": {
@@ -53678,7 +53679,7 @@
    "doi": "10.1007/s43681-026-01285-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7170951765": {
@@ -53697,7 +53698,7 @@
    "doi": "10.1016/j.telpol.2026.103290",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7170433784": {
@@ -53736,7 +53737,7 @@
    "doi": "10.1007/s00146-026-03198-0",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03198-0.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4391946625": {
@@ -53899,7 +53900,7 @@
    "doi": "10.1007/s43681-026-01216-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7170085082": {
@@ -53936,7 +53937,7 @@
    "doi": "10.1016/j.telpol.2026.103292",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4417490943": {
@@ -54003,7 +54004,7 @@
    "doi": "10.1007/s43681-026-01248-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4416071100": {
@@ -54041,7 +54042,7 @@
    "doi": "10.1007/s43681-026-01258-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7170043460": {
@@ -54163,7 +54164,7 @@
    "doi": "10.1016/j.telpol.2026.103289",
    "pdf": "https://doi.org/10.1016/j.telpol.2026.103289",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7169843674": {
@@ -54280,7 +54281,7 @@
    "doi": "10.1007/s43681-026-01272-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7169781359": {
@@ -54322,7 +54323,7 @@
    "doi": "10.1016/j.artint.2026.104589",
    "pdf": "https://doi.org/10.1016/j.artint.2026.104589",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4417102370": {
@@ -54339,13 +54340,14 @@
    ],
    "journal": "Machine Learning",
    "date": "2026-07-20",
-   "abstract": "",
+   "abstract": "Graph-based learning is a cornerstone for analyzing structured data, with node classification as a central task. However, in many real-world graphs, nodes lack informative feature vectors, leaving only neighborhood connectivity and class labels as available signals. In such cases, effective classification hinges on learning node embeddings that capture structural roles and topological context. We introduce a fast semi-supervised embedding framework that jointly optimizes three complementary objectives: (i) unsupervised structure preservation via scalable modularity approximation, (ii) supervised regularization to minimize intra-class variance among labeled nodes, and (iii) semi-supervised propagation that refines unlabeled nodes through random-walk-based label spreading with attention-weighted similarity. These components are unified into a single iterative optimization scheme, yielding high-quality node embeddings. On standard benchmarks, our method consistently achieves classification accuracy at par with or superior to state-of-the-art approaches, while requiring significantly less computational cost.",
    "url": "https://doi.org/10.1007/s10994-026-07111-0",
    "doi": "10.1007/s10994-026-07111-0",
    "pdf": "https://arxiv.org/pdf/2510.11250",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W4415069155": {
    "id": "oa:W4415069155",
@@ -54381,7 +54383,7 @@
    "doi": "10.1007/s43681-026-01284-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7169754361": {
@@ -54422,7 +54424,7 @@
    "doi": "10.1007/s10994-026-07110-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7169770003": {
@@ -72070,7 +72072,7 @@
    "abstract": "Abstract Evidence syntheses are often updated as new trials become available. A cumulative meta-analysis repeats a meta-analysis in chronological order, and trial sequential analysis applies group-sequential principles to cumulative meta-analysis to control the risk of spurious findings due to repeated testing. Despite the growing popularity of trial sequential analysis, existing methods rely heavily on normal approximations derived from interim analyses of randomized controlled trials, where participants are typically more homogeneous than in meta-analyses. In random-effects meta-analyses, the conventional assumption that the synthesized effect estimate follows a normal distribution can perform poorly when the number of studies is small. In such settings, the Hartung–Knapp–Sidik–Jonkman method, which is based on a t distribution, has been recommended for more reliable inference. This article introduces refined trial sequential procedures based on cumulative meta-analytic t statistics. The proposed methods are designed to reduce the risk of premature or spurious conclusions in updating evidence syntheses, particularly when between-study heterogeneity is present. Numerical studies demonstrate that the proposed methods provide improved control of type I error compared with existing methods, although the degree of improvement depends on the magnitude of heterogeneity and the true effect size.",
    "url": "https://doi.org/10.1093/jrsssc/qlag050",
    "doi": "10.1093/jrsssc/qlag050",
-   "pdf": "",
+   "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13524431/",
    "first_seen": "2026-08-30T09:30:21+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -72855,7 +72857,8 @@
    "doi": "10.1111/capa.70072",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/capa.70072",
    "first_seen": "2026-09-01T10:20:44+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204702024": {
    "id": "oa:W7204702024",
@@ -72873,7 +72876,8 @@
    "doi": "10.1111/capa.70071",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/capa.70071",
    "first_seen": "2026-09-01T10:20:44+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204730273": {
    "id": "oa:W7204730273",
@@ -72890,7 +72894,8 @@
    "doi": "10.1111/capa.70069",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/capa.70069",
    "first_seen": "2026-09-01T10:20:44+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204683838": {
    "id": "oa:W7204683838",
@@ -72907,7 +72912,9 @@
    "url": "https://doi.org/10.1007/s11135-026-03083-4",
    "doi": "10.1007/s11135-026-03083-4",
    "pdf": "",
-   "first_seen": "2026-09-01T10:20:44+09:00"
+   "first_seen": "2026-09-01T10:20:44+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204702135": {
    "id": "oa:W7204702135",
@@ -72924,9 +72931,10 @@
    "abstract": "A common goal of longitudinal research in psychology and related disciplines is the study of causal effects over time. An often overlooked assumption in this context is temporal alignment, referring to a match between the timescale at which a longitudinal process operates, the timescale at which data were collected, and the time frame in measurements. We present multiple scenarios, representing both the analysis of intensive longitudinal data and panel data, in which this assumption is violated due to time aggregation (i.e., aggregating scores over multiple occasions) and/or systematic undersampling (i.e., measurement intervals that are too long in relation to the longitudinal process). Our simulations demonstrate the large biases that can occur in estimates of lag-0 and lag-1 effects using various modeling approaches, even when there is no effect in the data. We discuss implications of these results and briefly consider future lines of methodological research to address this problem.",
    "url": "https://doi.org/10.1080/00273171.2026.2720347",
    "doi": "10.1080/00273171.2026.2720347",
-   "pdf": "https://doi.org/10.1080/00273171.2026.2720347",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00273171.2026.2720347?needAccess=true",
    "first_seen": "2026-09-01T10:20:44+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7204715086": {
    "id": "oa:W7204715086",
@@ -72943,7 +72951,1401 @@
    "doi": "10.1093/jssam/smag025",
    "pdf": "",
    "first_seen": "2026-09-01T10:20:44+09:00",
+   "ko_tries": 1,
+   "abs_tries": 0
+  },
+  "oa:W7204766863": {
+   "id": "oa:W7204766863",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "From development performance to institutional trust in Vietnam: implications for policy legitimacy and citizen engagement",
+   "authors": [
+    "Lưu Văn Quảng",
+    "Nguyễn Anh Cường",
+    "Nguyen Duy Quynh",
+    "Dang Anh Dung"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-08-31",
+   "abstract": "This article examines how Vietnamese respondents’ lived experiences of development are associated with institutional trust and citizen engagement, and what these associations imply for policy legitimacy. Drawing on a 2026 survey and a 2024–2025 comparison survey, the study treats development not as a macroeconomic outcome alone but as a lived policy experience examined alongside respondents’ evaluations of governance and public services. Because the 2026 survey is a large, geographically concentrated non-probability survey collected through student-linked acquaintance networks, the findings are interpreted as theoretically informed associational patterns rather than nationally representative estimates, confirmed mechanisms or causal effects. The findings show that perceived development has a two-sided structure. Public service experience is positively associated with legitimacy-related trust, especially through evaluations of transparent fees, fair treatment, clear guidance and processing time. Development benefits do not retain a stable direct association with participation once political efficacy, governance quality and development strain are included. Item-level analysis further shows that the negative strain-participation association is concentrated in perceived widening inequality rather than cost-of-living pressure. The article contributes by showing that, within this sample, positive evaluations of development are more strongly linked with institutional trust when governance is experienced as inclusive, responsive, fair and reliable.",
+   "url": "https://doi.org/10.1080/17516234.2026.2724371",
+   "doi": "10.1080/17516234.2026.2724371",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00",
    "ko_tries": 1
+  },
+  "oa:W7204774218": {
+   "id": "oa:W7204774218",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Innovating public service delivery in Germany: What drives digital transformation at the local level?",
+   "authors": [
+    "Liz Marla Wehmeier",
+    "Philipp Gräfe"
+   ],
+   "journal": "International Review of Administrative Sciences",
+   "date": "2026-08-31",
+   "abstract": "Digital transformation is widely seen as a key dimension of public sector innovation, expected to reshape and improve service delivery. Yet, empirical developments often fall short of these expectations, particularly in local and decentralised public administrations. We employ a mixed methods design to investigate the state of digitalisation and implementation dynamics in selected areas of German public administration and to identify key drivers shaping substantive digital transformation. Specifically, we employ qualitative interview data ( n = 64) and quantitative survey data ( n = 1751) from three digitally mature administrative domains: vehicle registration; building permitting; and tax administration. The findings show that despite high ambitions, digital transformation remains fragmented, with persistent deficits such as the parallelism of paper-based and digital procedures and limited back-office digitalisation. Internal drivers, such as leadership, dedicated personnel and employee involvement, prove crucial for achieving substantive digital transformation. Points to practitioners This study highlights the central role of internal drivers in shaping meaningful public sector digitalisation. Local administrators should: ‐ prioritise back-office digitalisation; ‐ establish dedicated organisational structures for digitalisation within departments, such as a digitalisation unit; and ‐ actively involve staff through training and change management initiatives.",
+   "url": "https://doi.org/10.1177/00208523261483171",
+   "doi": "10.1177/00208523261483171",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204785614": {
+   "id": "oa:W7204785614",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Serving the Public as Civil Servants or Citizens? Public Employees’ Exposure to Public Participation, Job Satisfaction, and Volunteering",
+   "authors": [
+    "Tipeng Chen"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "date": "2026-08-31",
+   "abstract": "Public employees serve the public interest through their work and extend this commitment through volunteerism. However, it remains unclear what motivates them to volunteer when professional roles already fulfill intrinsic prosocial motivations. Drawing on theories from multiple life domains and public service motivation, this study examines how public sector workplace experiences, specifically exposure to public participation and job satisfaction, are associated with volunteering behavior. Using cross-sectional, nationally representative survey data from U.S. local government managers, this study finds that the relationships vary by individuals’ prior volunteering status. Among non-volunteers, higher levels of public participation exposure and job satisfaction are both associated with a greater probability of initiating volunteering. Among current volunteers, lower levels are associated with greater time devoted to volunteering, whereas higher levels are linked to volunteering across a wider range of domains. Job satisfaction negatively moderates the relationship between public participation exposure and volunteering intensity. This study extends conventional understanding of public employee volunteering beyond public service motivation and sector differences by demonstrating a contingent work–volunteerism association, offering practical insights into managing workplace experiences to sustain public service both within and beyond organizational boundaries.",
+   "url": "https://doi.org/10.1177/0734371x261481363",
+   "doi": "10.1177/0734371x261481363",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204786603": {
+   "id": "oa:W7204786603",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Implementation strategy of local government in Party-State governance: a case study of E-government in Vietnam",
+   "authors": [
+    "Hung Dao"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-08-31",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/17516234.2026.2726887",
+   "doi": "10.1080/17516234.2026.2726887",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204796686": {
+   "id": "oa:W7204796686",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Corruption and Uneven Development: Why Anti‐Corruption Fails in the EU 's Most Vulnerable Regions",
+   "authors": [
+    "Ina Kubbe",
+    "Stoyan Panov",
+    "Wisnu Setiadi Nugroho",
+    "Fatih Kırşanlı"
+   ],
+   "journal": "Regulation & Governance",
+   "date": "2026-08-31",
+   "abstract": "ABSTRACT This article challenges the assumption that legal harmonization within the European Union ensures effective anti‐corruption governance. Despite EU‐compliant frameworks, institutional integrity remains highly uneven across subnational territories. We introduce the Regional Integrity Framework (RIF), a diagnostic approach that integrates citizen perceptions, procurement indicators, and enforcement activation measures to capture regional integrity performance. The analysis suggests that formal convergence can conceal functional divergence, as peripheral regions often exhibit weaker administrative capacity, limited oversight, and uneven institutional activation. A mixed‐methods application that combines panel analysis with an illustrative comparison of Sofia and Vidin, Bulgaria, demonstrates how the RIF can diagnose territorial integrity gaps within a shared legal framework. Conceptually, the study reframes anti‐corruption as a territorially embedded problem of institutional activation; methodologically, it offers a transferable framework for identifying enforcement asymmetries and governance disparities in multi‐level systems.",
+   "url": "https://doi.org/10.1111/rego.70199",
+   "doi": "10.1111/rego.70199",
+   "pdf": "https://doi.org/10.1111/rego.70199",
+   "first_seen": "2026-09-02T09:22:53+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204797071": {
+   "id": "oa:W7204797071",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Advancing the Sustainability Development Goals Through Workforce Professionalization in Public Procurement: The Case of Lebanon",
+   "authors": [
+    "Imane Hijal-Moghrabi"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "date": "2026-08-31",
+   "abstract": "A capable public sector workforce is essential for sustainable development. In public procurement, the ability of procurement reform to support Sustainable Development Goals depends on a workforce with the competencies and professional standing needed to translate reform into administrative practice. Drawing on Institutional Theory and strategic PHRM, this study examines how workforce professionalization in public procurement is being constructed and institutionalized in Lebanon under Public Procurement Law No. 244 of 2021. Using a document-based qualitative case study, the study analyzes legal documents, technical reports, competency frameworks, and training materials produced between 2020 and 2025. The findings show that workforce professionalization in public procurement advanced through competency frameworks, certification initiatives, and professional training systems. However, workforce professionalization remains unevenly embedded across the civil service system. The study contributes to strategic public HRM and procurement governance scholarship and offers insight into workforce professionalization in governance-constrained settings in the Global South.",
+   "url": "https://doi.org/10.1177/0734371x261478777",
+   "doi": "10.1177/0734371x261478777",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204824075": {
+   "id": "oa:W7204824075",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Getting Bullied in the Nonprofit Sector: The Dark Side of Public Service Motivation and Political Behavior",
+   "authors": [
+    "Geoff Plimmer",
+    "Alina Haider",
+    "Kamal Badar",
+    "Alyssa Zhou"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-08-31",
+   "abstract": "Bullying is harmful and prominent in nonprofit organizations (NPOs), yet it remains understudied. This article investigates how public service motivation (PSM), which is trait-like, prosocial and vital to NPOs, may counterintuitively expose NPO workers to being bullied. Notwithstanding PSM’s many benefits, recent studies have identified a dark side of PSM that potentially may attract bullying from coworkers. This survey-based study in the New Zealand nonprofit sector ( N = 880) draws on social exchange theory and conservation of resources theory to examine the relationship between PSM and being bullied, the role of political behavior as a mediator, and constructive leadership as a moderator. Findings support all hypothesized relationships, except one. The article concludes with theoretical implications and practical recommendations to address challenges stemming from the dark side of PSM as well as to curb bullying in NPOs.",
+   "url": "https://doi.org/10.1177/08997640261477647",
+   "doi": "10.1177/08997640261477647",
+   "pdf": "https://doi.org/10.1177/08997640261477647",
+   "first_seen": "2026-09-02T09:22:53+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7204851191": {
+   "id": "oa:W7204851191",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Research funding and academic careers: stage-contingent effects of the National Natural Science Foundation of China",
+   "authors": [
+    "Xiaojie Fan",
+    "Hanyu Qin"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-08-31",
+   "abstract": "Public research funding is a central policy instrument shaping academic performance, evaluation, and career progression, yet evidence on how it affects careers across career stages remains limited, particularly in higher education systems shaped by policy priorities. Using longitudinal grant-level data from a Chinese “Double First-Class” university (2005–2019), this study examines stage-contingent effects of National Natural Science Foundation of China (NSFC) funding. Career stages are operationalized via policy-relevant age thresholds at grant acquisition: early, developmental, and mature career. Instrumental-variable estimates show that funding effects vary across the functional, mobility, and inclusion dimensions of academic careers. In the early career stage, funding primarily builds capacity and accelerates entry into the academic system. In the developmental stage, it increasingly reallocates resources and structures differentiation among academics. In the mature stage, its role increasingly shifts from productivity gains toward symbolic recognition. By identifying these heterogeneous effects, the study shows that public research funding functions as a career-stage-contingent governance instrument. The findings carry implications for designing stage-sensitive funding policies in research-intensive universities where grant success, evaluation, and career advancement are tightly coupled.",
+   "url": "https://doi.org/10.1080/17516234.2026.2723283",
+   "doi": "10.1080/17516234.2026.2723283",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204856466": {
+   "id": "oa:W7204856466",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Affective Practices and Poverty in Family Life: An Analysis of Parental Narratives in Times of Austerity",
+   "authors": [
+    "Ella Sihvonen",
+    "Katja Repo",
+    "Mia Tammelin"
+   ],
+   "journal": "Social Policy and Administration",
+   "date": "2026-08-31",
+   "abstract": "ABSTRACT This article examines how parents living in poverty in Finland describe their daily family life. Drawing on affect theory and Wetherell's concept of affective practices, the study explores how emotions are enacted, circulated and embedded in daily routines of care, survival and encounters with welfare institutions. The data consist of 38 written narratives provided by parents experiencing financial hardship. The article asks: What kinds of affective practices do parents develop, and how do these affects connect to their agency under conditions of structural constraint? Reflexive thematic analysis identifies three interrelated affective formations: embodied endurance , affective resistance and the temporal horizon of hope and despair . Endurance manifests as a bodily and relational effort to sustain life in conditions of scarcity, wherein exhaustion intertwines with care and responsibility. Resistance emerges through emotions such as anger and moral justification, revealing friction with institutional power and policy control. Finally, hope and despair form an ambivalent temporal field in which parents imagine the future amid ongoing uncertainty. By tracing these affective practices, the article shows how poverty is lived not only as material deprivation but also as an affective labour that both constrains and sustains agency. The analysis demonstrates that austerity reshapes affective conditions as well as material resources, illustrating why social policy must attend to the emotional and relational consequences of welfare state restructuring.",
+   "url": "https://doi.org/10.1111/spol.70105",
+   "doi": "10.1111/spol.70105",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204757401": {
+   "id": "oa:W7204757401",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Social Norms, State Punishment, and Motivation Crowding in Anti‐Corruption Messaging: Experimental Evidence From China",
+   "authors": [
+    "Feng Yang",
+    "Lin Zhu"
+   ],
+   "journal": "Governance",
+   "date": "2026-08-30",
+   "abstract": "ABSTRACT A growing body of scholarship views corruption not merely as a failure of monitoring and enforcement but as a resilient informal institution sustained by social perceptions—and misperceptions. When citizens believe others tolerate or engage in corruption, resisting it becomes a collective action problem, allowing corruption to perpetuate itself. Using a large‐scale survey experiment in China, this study tests whether correcting exaggerated perceptions of social tolerance for corruption can help break this cycle. We find that providing information about the actual (low) level of tolerance significantly strengthens anti‐corruption attitudes and intentions, especially among those who mistakenly believed a majority tolerated corruption. However, this effect is weakened when paired with punishment cues, suggesting that enforcement information can crowd out the motivational force of norm‐based messages. Our findings demonstrate both the potential and the limits of norm‐based informational interventions and offer implications for anti‐corruption messaging in comparable contexts.",
+   "url": "https://doi.org/10.1111/gove.70151",
+   "doi": "10.1111/gove.70151",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gove.70151",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204773174": {
+   "id": "oa:W7204773174",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Process Reforms for a People-centred City: Ease of Living in Dibrugarh, Assam",
+   "authors": [
+    "Sudarshan Ozah",
+    "Partha Pratim Borah"
+   ],
+   "journal": "Indian Journal of Public Administration",
+   "date": "2026-08-30",
+   "abstract": "This article examines issues of the ease of living emanating from the current urban scenario of Dibrugarh in Assam. Based on primary data collected through fieldwork, this study contextualises local lived experiences within the national framework. This research argues that Dibrugarh city’s urbanisation has outpaced institutional capacity and development due to administrative advancement, economic growth and population migration, generating drastic insufficiency of infrastructural development, social sustainability, efficient governance mechanisms and social assistance. The research highlights some major empirical results, including persistent shortcomings in municipal solid waste management and handling of waste collection systems, along with issues like intensified environmental concerns from river erosion, poor air quality owing to pollution, uneven access to basic services in slum areas and disintegrated governance with low citizen participation. The major argument of the work is that a multi-stakeholder approach is crucial for transforming infrastructure investments for long-term improvements in quality of life and ease of living in Dibrugarh city. To establish Dibrugarh city’s environment as more sustainable, resilient and inclusive, the government stakeholders and citizens must work collaboratively to find practical solutions, including integrated planning, improved solid waste management, sanitation, proper water supply systems, community engagement and targeted social and health initiatives, which will contribute to the ease of living in Dibrugarh.",
+   "url": "https://doi.org/10.1177/00195561261476654",
+   "doi": "10.1177/00195561261476654",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204775829": {
+   "id": "oa:W7204775829",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Credit Attribution for Public Service Providers and Their Employees: Implications from Contracting Out",
+   "authors": [
+    "Suzanne Leland",
+    "Jaclyn Piatak",
+    "Zachary Mohr"
+   ],
+   "journal": "The American Review of Public Administration",
+   "date": "2026-08-30",
+   "abstract": "Both government and government employees alike face negativity bias, but could conveying the exemplary work of public service help address declining public trust and engagement? While scholarly research has examined how the public assigns blame when the government or a contractor falls short, far less attention has been paid to the positive side. How is credit assigned to employees and agencies when they go above and beyond what is required in their jobs? This research addresses this gap through a vignette survey experiment, which is used to determine how contracting influences credit given to the service provider and the individual employee across levels of government –federal, state, and local. The results reveal that credit is more likely to be given to third-party providers than the government directly providing the service. However, at the individual employee level, the public prefers to give credit to public employees, especially at the federal government level, when outstanding work occurs. Findings have implications for contracting, performance, and accountability, where perhaps sharing more positive stories of public service can foster more positive public views.",
+   "url": "https://doi.org/10.1177/02750740261477408",
+   "doi": "10.1177/02750740261477408",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204854264": {
+   "id": "oa:W7204854264",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Digital Emergency Response, Process Reforms and Social Well-being in India: An Empirical Evaluation of ERSS/Dial 112 Under the Ease-of-living Framework",
+   "authors": [
+    "Alok Kumar Gaurav",
+    "Sunil Gupta",
+    "Utkarsh Mishra",
+    "Saurabh Yadav"
+   ],
+   "journal": "Indian Journal of Public Administration",
+   "date": "2026-08-30",
+   "abstract": "Social well-being and democratic governance have safety and security as a fundamental dimension. Traditionally, policing responsiveness and emergency service shortages in India have negatively affected people’s safety, their confidence in various governmental institutions and the overall standard of living. Recognising this, the Government of India has progressively focused on process reforms and digital governance to improve service delivery and the citizen experience. In this article, the author discusses the Emergency Response Support System (ERSS), also known as Dial 112, as an approach to enhancing safety and security, a pillar of the ease-of-living (EoL) index. The author focuses on how ERSS operationalises incremental, nut-and-bolt administrative reforms based on standardisation and technological integration, as well as data-driven monitoring. The research is based on empirical methods within a mixed-methods approach, primary citizen opinion surveys and a particular case study of Uttar Pradesh, one of the most extensive implementations of Dial 112 in India. Across all key dimensions of service quality, the empirical results reveal generally high levels of citizen satisfaction. The mean scores were highest for responsiveness ( M = 4.30), followed by assurance ( M = 4.24), awareness ( M = 4.23) and overall reliability ( M = 4.22). A total of 85.9% of respondents agreed that emergency calls were answered promptly. In addition, regression analysis revealed that responsiveness (β = 0.31, R 2 = 0.69, p < .001), assurance (β = 0.26, R 2 = 0.69, p < .001) and reliability (β = 0.18, R 2 = 0.69, p < .001) were significant predictors of perceived EoL. The results show the potential of technology-based emergency response systems to foster institutional trust, create a sense of security and drive citizen-centric governance and public administration reforms in India.",
+   "url": "https://doi.org/10.1177/00195561261472535",
+   "doi": "10.1177/00195561261472535",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7160535494": {
+   "id": "oa:W7160535494",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Fitting two-level structural equation models to summary statistics: Leveling up meta-analytic structural equation modeling.",
+   "authors": [
+    "Suzanne Jak",
+    "Mike W.‐L. Cheung"
+   ],
+   "journal": "Psychological Methods",
+   "date": "2026-08-31",
+   "abstract": "Standard two-level SEM models require access to raw data. In this study we propose a method for fitting two-level SEMs using meta-analytic structural equation modelling (MASEM) on sum-mary statistics. Although our focus is on the meta-analytic case of individuals nested in studies, the approach could be applied to any two-level structure. An illustration using PISA data showed that fitting a two-level model on individual data versus fitting a two-level model using summary statistics produces essentially identical results. One advantage of the MASEM approach is that it is straightforward to model heterogeneity in the within-cluster covariances. Using simulated da-ta, we demonstrated that the MASEM method performed well in such heterogeneous conditions. In contrast, two-level SEM analyses resulted in inflated Type I errors based on the test statistic and a significant underestimation of the parameters' standard errors. Through an empirical ex-ample, we show how two-level SEM through the MASEM method can be employed to evaluate measurement invariance across all studies and how the model can be expanded to incorporate study-level variables that explain some of the variation in parameters across studies. Implications and limitations of the proposed method are discussed, and directions for future research are pro-vided.",
+   "url": "https://doi.org/10.1037/met0000864",
+   "doi": "10.1037/met0000864",
+   "pdf": "https://doi.org/10.1037/met0000864",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204756303": {
+   "id": "oa:W7204756303",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Latent Variable Selection in Multidimensional Item Response Theory Models With Nonignorable Missingness",
+   "authors": [
+    "Qian‐Zhen Zheng",
+    "Ping‐Feng Xu",
+    "Laixu Shang",
+    "Furong Liu"
+   ],
+   "journal": "Journal of Educational and Behavioral Statistics",
+   "date": "2026-08-31",
+   "abstract": "Nonignorable item nonresponses commonly occur in educational and psychological measurement and pose challenges for statistical inference in item response theory (IRT) models. In multidimensional IRT (MIRT), a key issue is identifying the relationships between multiple latent abilities and test items, known as latent variable selection. However, the latent variable selection in MIRT models with nonresponses remains largely unexplored. A common strategy for modeling omissions introduces a latent propensity variable to capture individuals’ tendency to omit items, leading to a joint MIRT model that combines a Rasch model for missingness and a multidimensional two-parameter logistic model for responses. Existing latent variable selection methods are developed mainly for fully observed response data and are not directly applicable when omissions are incorporated through this joint MIRT model. In this article, we develop an efficient expectation model selection (EMS) algorithm for MIRT models with omitted items, termed EMS-OI. Simulation studies show that EMS-OI performs competitively in both latent variable selection and parameter estimation, compared with existing EMS- and expectation maximization-based alternatives. An application to the PISA 2012 dataset further illustrates the proposed EMS-OI algorithm.",
+   "url": "https://doi.org/10.3102/10769986261480063",
+   "doi": "10.3102/10769986261480063",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204852170": {
+   "id": "oa:W7204852170",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Subjective age of acquisition norms for 30,849 Russian words",
+   "authors": [
+    "Andrei Grigoriev",
+    "K.V. Sugonyaev",
+    "Svetlana A. Pashneva",
+    "Ekaterina Valueva",
+    "Nikolai A. Grigorev"
+   ],
+   "journal": "Behavior Research Methods",
+   "date": "2026-08-31",
+   "abstract": "Abstract Age of acquisition (AoA) is a key psycholinguistic variable known to influence lexical and conceptual processing across a broad range of tasks. However, existing Russian datasets are small and mainly limited to picturable nouns and verbs. In this study, we collected AoA ratings for 30,849 Russian words that represent a broad vocabulary range. Ratings were collected from 2,201 adult respondents in both in-person and online sessions. Reliability assessed via bootstrap split-half correlations was high (mean r = 0.895, 95% CI [.893, .897]). To validate the subjective AoA estimates, we administered vocabulary tests to school students from grades 2, 4, 6, 8, and 10. Two validation procedures were used: grade-level validation and within-grade validation. The former related the grade level at which an item was reliably known with the adult ratings, the latter related adult AoA to students’ accuracy. Subjective AoA strongly predicted objective AoA measures ( r = 0.805) and showed consistent negative relations with student accuracy across grades. Correlations with existing Russian AoA datasets ( r = 0.68–0.91) further supported the reliability of the norms. The new ratings also showed expected correlations with word frequency, length, concreteness, imageability, and familiarity. The resulting norms provide the largest and most comprehensive AoA resource for the Russian language and can support future research in psycholinguistics, lexical processing, and language development. All norms are publicly available on OSF.",
+   "url": "https://doi.org/10.3758/s13428-026-03138-2",
+   "doi": "10.3758/s13428-026-03138-2",
+   "pdf": "https://doi.org/10.3758/s13428-026-03138-2",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204798858": {
+   "id": "oa:W7204798858",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Detecting differential item functioning with unknown subgroups and anchor items in cognitive diagnostic assessment",
+   "authors": [
+    "Zhilin Song",
+    "Zeng Qing",
+    "Ping Chen"
+   ],
+   "journal": "British Journal of Mathematical and Statistical Psychology",
+   "date": "2026-08-30",
+   "abstract": "Abstract Differential item functioning (DIF) analysis is essential for evaluating measurement invariance in educational and psychological assessments. In cognitive diagnostic assessment, however, most existing methods require prespecified comparison subgroups and anchor items. When subgroup membership and anchor items are unavailable or mis‐specified, DIF detection and parameter estimation may be biased. To overcome these limitations, this study puts forward a DIF detection method that incorporates an extended modelling framework and a two‐stage estimation algorithm. The proposed modelling framework directly integrates DIF parameters into the measurement model and uses a structural model to characterize subgroup differences in attribute mastery distributions. A two‐stage expectation maximization algorithm with an adaptive lasso penalty is developed to identify anchor items, classify respondents into latent subgroups and estimate model parameters. The performance of the proposed method was evaluated through a simulation study and an empirical data analysis. Simulation results indicated generally satisfactory DIF detection and parameter recovery, although subgroup‐classification accuracy varied across conditions. When applied to the empirical data, the proposed method identified 10 of the 28 items as exhibiting DIF.",
+   "url": "https://doi.org/10.1111/bmsp.70073",
+   "doi": "10.1111/bmsp.70073",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204784755": {
+   "id": "oa:W7204784755",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Two Two‐Tier Stochastic Frontier Replications",
+   "authors": [
+    "Alecos Papadopoulos",
+    "Christopher Parmeter"
+   ],
+   "journal": "Journal of Applied Econometrics",
+   "date": "2026-08-31",
+   "abstract": "ABSTRACT We replicate the two foundational studies which proposed the two‐tier stochastic frontier model, first in the cross‐sectional setting and then for the fixed effects panel data model. We explore matters of software then and now, different mathematical formulations of the likelihood, and alternative current software tools. We also highlight several data issues that arose in both replications.",
+   "url": "https://doi.org/10.1002/jae.70090",
+   "doi": "10.1002/jae.70090",
+   "pdf": "https://doi.org/10.1002/jae.70090",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204751589": {
+   "id": "oa:W7204751589",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Fusion analysis of separately observed poverty factors",
+   "authors": [
+    "Li‐Chun Zhang",
+    "Jeroen Pannekoek",
+    "Nino Mushkudiani"
+   ],
+   "journal": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+   "date": "2026-08-19",
+   "abstract": "Abstract Poverty factors are of great interest to policy makers, social scientists and many others. However, standard analysis is impossible if poverty status and relevant factors are not jointly observed. We propose new methods of fusion analysis and apply them to the Dutch data, where the potential poverty factors are observed separately in two sample surveys. The results demonstrate that it is possible to obtain statistically significant conclusions, despite the lack of individual-level joint observations. Our methods are applicable to other problems with the same data structure. This is particularly useful for analysts, who do not have access to the joint data (whether or not such data exist in the first place), provided one is able to obtain separate data or statistics as public users.",
+   "url": "https://doi.org/10.1093/jrsssc/qlag052",
+   "doi": "10.1093/jrsssc/qlag052",
+   "pdf": "https://doi.org/10.1093/jrsssc/qlag052",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204782128": {
+   "id": "oa:W7204782128",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "A historically structured survey of panel data econometrics",
+   "authors": [
+    "Badi H. Baltagi"
+   ],
+   "journal": "Econometrics and Statistics",
+   "date": "2026-08-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.ecosta.2026.08.004",
+   "doi": "10.1016/j.ecosta.2026.08.004",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204780837": {
+   "id": "oa:W7204780837",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "DAG trend filtering for genomic denoising via higher-order Bayesian networks and DAG shrinkage processes",
+   "authors": [
+    "Weixuan Zhu",
+    "Fan Liao",
+    "Yang Ni"
+   ],
+   "journal": "Biometrics",
+   "date": "2026-07-01",
+   "abstract": "Abstract Graph-based denoising is a critical preprocessing step for analyzing noisy data, particularly in genomic applications where gene regulatory networks exhibit inherent directional dependencies. This paper introduces a directed acyclic graph trend filtering (GTF) framework that leverages novel higher-order Bayesian networks and graphical shrinkage processes to enhance local adaptivity in signal smoothing along the directed edges of a graph. Unlike traditional GTF, which is based on undirected graphs, the proposed method explicitly respects the directional structure of graphs, improving interpretability and accuracy in capturing dependencies. We employ a Hamiltonian Monte Carlo algorithm for efficient posterior inference. Through simulations and genomic applications, the proposed method outperforms a state-of-the-art GTF algorithm in terms of mean squared error reduction and signal-to-noise ratio improvement, demonstrating its utility in recovering true signals while accounting for meaningful structural information.",
+   "url": "https://doi.org/10.1093/biomtc/ujag150",
+   "doi": "10.1093/biomtc/ujag150",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204851081": {
+   "id": "oa:W7204851081",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Bayesian network meta-regression models for multivariate aggregate responses with partially observed or completely missing within-treatment sample covariance matrices",
+   "authors": [
+    "Simiao Gao",
+    "Sungduk Kim",
+    "Ming‐Hui Chen",
+    "Arvind K Shah",
+    "Jianxin Lin",
+    "Joseph G. Ibrahim"
+   ],
+   "journal": "Biometrics",
+   "date": "2026-07-01",
+   "abstract": "Abstract In this paper, we propose a Bayesian multivariate network meta-regression model to compare multiple treatments used to treat cardiovascular and diabetes diseases, where the multivariate aggregate outcomes include low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, and triglycerides. We assume a log-linear regression model for the standard deviation of the treatment random effects to overcome the difficulty that some treatments may present only in a single study. As the within-study sample covariance matrix $\\boldsymbol {S}$ is partially observed or completely missing and the within-study sample correlations are not observed at all, we postulate a hierarchical structure on the unknown within-study covariance matrices. We further develop a Markov chain Monte Carlo sampling algorithm to sample from the posterior distribution and a Monte Carlo procedure to rank the treatment effects for the multivariate outcomes. DIC is used for model comparison. Two variations of DIC are further developed to quantify (i) the overall improvement in the fit and (ii) the gain in the fit of each outcome due to the multivariate model versus the univariate model alone. A detailed analysis of the aggregate data from real randomized controlled trials is carried out to further demonstrate the proposed methodology.",
+   "url": "https://doi.org/10.1093/biomtc/ujag144",
+   "doi": "10.1093/biomtc/ujag144",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W4407424148": {
+   "id": "oa:W4407424148",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Generative Distribution Prediction: A Unified Approach to Multimodal Learning",
+   "authors": [
+    "Xinyu Tian",
+    "Xiaotong Shen"
+   ],
+   "journal": "Machine Learning",
+   "date": "2026-08-31",
+   "abstract": "Abstract Accurate prediction for multimodal data—including tabular, textual, and visual inputs or outputs—is essential for advancing analytics across diverse application domains. Existing methods often struggle to integrate heterogeneous data types while maintaining strong predictive performance. We introduce Generative Distribution Prediction (GDP), a model-agnostic framework that leverages high-fidelity multimodal synthetic data generated from the conditional distribution of interest, such as via conditional diffusion models, to enhance prediction across both structured and unstructured modalities. GDP is compatible with any expressive generative model and naturally supports transfer learning for domain adaptation. We provide a rigorous theoretical foundation for GDP, establishing statistical guarantees on its predictive accuracy when diffusion models serve as the generative backbone. By estimating the underlying data-generating distribution and enabling loss-adapted risk minimization, GDP delivers accurate point predictions in broad multimodal settings. We empirically validate GDP on a range of supervised learning tasks, including adaptive quantile regression, modal regression, tabular prediction, image captioning, and question answering, demonstrating its versatility and effectiveness across domains.",
+   "url": "https://doi.org/10.1007/s10994-026-07148-1",
+   "doi": "10.1007/s10994-026-07148-1",
+   "pdf": "https://doi.org/10.1007/s10994-026-07148-1",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W4417220084": {
+   "id": "oa:W4417220084",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data",
+   "authors": [
+    "Massimiliano Luca",
+    "Ciro Beneduce",
+    "Bruno Lepri",
+    "Jacopo Staiano"
+   ],
+   "journal": "ACM Transactions on Intelligent Systems and Technology",
+   "date": "2026-08-31",
+   "abstract": "With the wide and cross-domain adoption of Large Language Models, it becomes crucial to assess the extent to which the statistical correlations in training data hide subtle and potentially troubling biases. Gender bias in LLMs has been widely investigated from the perspectives of work, hobbies, and emotions typically associated with a specific gender. In this study, we introduce a novel perspective. We investigate whether LLMs can predict an individual’s gender based solely on online shopping histories and whether these predictions are influenced by gender biases and stereotypes. Using a dataset of historical online purchases from users in the United States, we evaluate the ability of | LLMs to predict the buyer’s gender, and we analyse their reasoning and product–gender co-occurrences. Results indicate that while models can infer gender with moderate accuracy, their decisions are often rooted in stereotypical associations between product categories and gender that differ from the actual behaviors of the individuals present in the dataset. Furthermore, explicit instructions to avoid bias reduce the certainty of model predictions, but do not eliminate stereotypical patterns. Our findings highlight the persistent nature of gender biases in LLMs and emphasize the need for robust bias-mitigation strategies as LLMs are currently amplifying the stereotypes analyzed.",
+   "url": "https://doi.org/10.1145/3839238",
+   "doi": "10.1145/3839238",
+   "pdf": "https://arxiv.org/pdf/2504.01951",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7125367568": {
+   "id": "oa:W7125367568",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "InstructTime++: Time Series Classification with Multimodal Language Modeling via Implicit Feature Enhancement",
+   "authors": [
+    "Mingyue Cheng",
+    "Xiaoyu Tao",
+    "Huajian Zhang",
+    "Qi Liu",
+    "Zhiding Liu",
+    "Yucong Luo",
+    "Yiheng Chen",
+    "Enhong Chen"
+   ],
+   "journal": "ACM Transactions on Intelligent Systems and Technology",
+   "date": "2026-08-31",
+   "abstract": "Most existing time series classification methods follow a discriminative modeling paradigm that directly maps input sequences to one-hot encoded class labels. Although effective, this paradigm suffers from two inherent limitations: it is difficult to effectively exploit contextual features, and one-hot label distribution fails to capture the semantic relationships among classes. In this paper, we propose a novel framework, termed InstructTime, which reformulates time series classification as a multimodal generative task. The core idea is to treat continuous numerical sequences, discrete textual features, and task-specific instructions as multimodal inputs, while representing class labels as textual outputs, with classification realized through the generative capability of tuned language models (LMs). To bridge the modality gap, we introduce a time series discretization module that converts continuous numerical sequences into discrete temporal tokens, thereby alleviating the inconsistency between numerical and textual modalities. In addition, we employ an alignment projection layer together with a generative self-supervised pre-training strategy to enhance cross-modal representation alignment. Lastly, we further fine-tune the aligned language model with task-specific instructions to strengthen its multimodal reasoning capability. While InstructTime effectively models explicit contextual features, language models are generally not well-suited to capturing implicit features that are not directly observable from raw time series or contextual features, such as latent temporal and structural patterns. Based on the above analysis, we extend InstructTime to InstructTime++ by introducing an improved multimodal generative framework that additionally captures implicit features to compensate for the limited inductive bias of current LMs-based time series classifiers. In particular, InstructTime++ leverages a collection of specialized toolkits to automatically mine informative implicit patterns from multiple views of raw time series and contextual inputs. In this work, we instantiate this framework from two complementary perspectives by designing statistical feature extraction and vision–language–based image captioning for textual grounding. The discovered implicit features are subsequently translated into textual descriptions, enabling seamless integration with the original InstructTime framework. Finally, extensive experiments on multiple benchmark datasets demonstrate the superior performance of InstructTime++. This work further paves the way for agentic time series classification 1 .",
+   "url": "https://doi.org/10.1145/3821437",
+   "doi": "10.1145/3821437",
+   "pdf": "https://doi.org/10.48550/arxiv.2601.14968",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204750321": {
+   "id": "oa:W7204750321",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Coordination‐first or coordination‐last? AI agents in joint activity with human roles",
+   "authors": [
+    "David Alderson",
+    "David D. Woods"
+   ],
+   "journal": "AI Magazine",
+   "date": "2026-08-31",
+   "abstract": "Abstract Agentic AI is the latest round of advances intended to increase what machines can do by themselves. As new technological possibilities enable a wider range of valued and critical services for human stakeholders, the usual assumption is that merely deploying more capable software/AI agents will prove sufficient for carrying out a broader range of real‐world activities. However, the real world inevitably generates surprises—in the form of anomalies, unanticipated opportunities, or as system evolution expands relationships, pressures, and interdependencies—that challenge the system and create demands beyond what any agent or set of agents can handle on their own. Thus, coordinated joint activity becomes another important layer of system function, and when agents of any type lack this competency, system performance will have surpising limits. Unfortunately, software/AI agents have not yet been designed to carry out or support the foundations for coordinated activity. This paper contrasts Coordination‐First architectures that explicitly address the competencies and constraints of coordinated joint activity across multiple roles and layers with the current Coordination‐Last paradigm that focuses primarily on deploy‐fast‐and‐fix‐later strategies. We situate this debate in the context of recent results in theories of joint activity design and organized complexity. The result is new directions for architecting coordinated activity across human and software/AI agent roles in layered networked systems.",
+   "url": "https://doi.org/10.1002/aaai.70083",
+   "doi": "10.1002/aaai.70083",
+   "pdf": "https://doi.org/10.1002/aaai.70083",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204760798": {
+   "id": "oa:W7204760798",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Comparing urban network morphologies: a new living metric and a framework for evaluating procedurally generated city layouts",
+   "authors": [
+    "Cameron Dobbie",
+    "Anders Johansson"
+   ],
+   "journal": "EPJ Data Science",
+   "date": "2026-08-31",
+   "abstract": "With the world population increasing, new living areas must be created to accommodate the increased number of people. The designs of most existing cities have a series of well-documented limitations. For example, some cities have serious traffic congestion problems, while others are unsafe. There is a lot of research on methods of improving parts of existing cities, and in many cases the improvement of a city is a constant and ongoing process. However, this research is limited by a few key factors: it is applied to the designs of current cities; it typically focuses on specific, localised issues; and it typically aims to fulfill a single objective, rather than examining the trade-off involved when analysing all aspects of a city at once. Recently, cities such as The Line (Neom) project in Saudi Arabia, and Brasilia and Canberra before it, have been designed and built from scratch. These projects often make bold claims that their designs are “optimal” in some regard. We introduce a novel “living metric” to quantify the degree of hierarchical living structure (a property associated with organically developed cities) in a city’s road network, and validate it by applying it to six real cities. As a proof of concept, we also demonstrate that this and two further metrics - population density (space efficiency) and mean circuity (travel efficiency) - can be applied to hypothetical city designs. To do this, we introduce CitySprout , a novel procedural road network generator, and generate cities of four distinct morphologies, or “grammars”. We study current examples of planned cities, and discuss the fundamental limitations of attempting to optimise cities based only on the underlying road network. We then demonstrate that different urban morphologies perform better at different metrics, highlighting that optimising a road network is inherently metric-dependent and therefore cannot converge on the “optimal” urban form. We find that a Grid structure maximises population density (under a set of clearly defined assumptions about population distribution); an Organic structure exhibits the most hierarchical “living structure”; and a Line structure minimises the required detours for cross-city travel. These differences highlight the trade-off between competing urban objectives.",
+   "url": "https://doi.org/10.1140/epjds/s13688-026-00694-7",
+   "doi": "10.1140/epjds/s13688-026-00694-7",
+   "pdf": "https://doi.org/10.1140/epjds/s13688-026-00694-7",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204769720": {
+   "id": "oa:W7204769720",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Deep Ethics Integration in Technology Research and Development: Bridging the Principles-to-Practice Gap in AI Ethics – and Elsewhere",
+   "authors": [
+    "Sabine Ammon"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-08-31",
+   "abstract": "Abstract In this paper I investigate how integrating ethics deeply into technology research and development can help developers overcome a major obstacle in the ethical alignment of innovation processes, namely, the “principles-to-practice gap”. By reference to a specific ethics intervention made by Berlin Ethics Lab featuring an AI system under development, I show that the gap is not about a failure to operationalize principles for research and development practice, but rather that it originates in divergent styles of thinking: ethical reflection and design thinking. Based on these insights, I elucidate how ethical reflection can be integrated on a foundational level into research and development processes. An essential starting point is the creation of a space for reflection to explore potential designs, a space dedicated to contextualizing and re-conceptualizing technology. This enables an ethical reframing of the design problem, systematic ethical analysis, and an assessment of potential implications. I conclude by presenting the ways in which this approach of deep ethics integration challenges other approaches to integrating ethics at an early stage (such as embedded ethics, STIR, VCIO, ethics by design, and value sensitive design) and demonstrating what additional benefits it has to offer.",
+   "url": "https://doi.org/10.1007/s13347-026-01134-0",
+   "doi": "10.1007/s13347-026-01134-0",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01134-0.pdf",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204773499": {
+   "id": "oa:W7204773499",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Dual-Stream Self-Supervised Synergistic Network for Robust RGB-T Fusion and Tracking",
+   "authors": [
+    "Jie Hu",
+    "Yuanhao Zheng",
+    "Sixian Chan"
+   ],
+   "journal": "ACM Transactions on Intelligent Systems and Technology",
+   "date": "2026-08-31",
+   "abstract": "RGB-T tracking is a challenging task due to the various obstacles, including occlusion, illumination, thermal crossover, and so on. However, existing research focuses purely on multimodal interaction or fusion design, while overlooking the effective handling of robustness in the face of challenges. Additionally, these paradigms naively fuse the two modals, without any contemplation of a collaboratively dominated fusion scheme. To address these issues, we propose DS 4 Net, a Dual-Stream Self-Supervised Synergistic Network for robust RGB-T fusion and tracking. First, unlike the traditional One-Stream paradigm, we introduce a novel Dual-Stream architecture, with two distinct versions of RGB-T modalities as input for self-supervised training to achieve balanced target representation learning and localization, thus addresses target appearance deviations caused by challenging scenarios. Then, to effectively bridge two streams, we design a Modality Reciprocal Adapter (MRA), which enhances the synergistic interaction of target-appearance cues and target-background information between streams during the training phase. Furthermore, to enhance robust fusion for tracking, we introduce Collaboratively Dominated Multimodal Fusion (CDMF), aiming at learning the fluctuating identities of modalities under challenging conditions provided by the Dual-Stream and collaboratively leveraging the dominant and auxiliary modalities to realize a more robust fusion. Finally, extensive experiments conducted on three RGB-T benchmark datasets, i.e., LasHeR, RGBT234 and RGBT210, demonstrate the excellence and superiority of our proposed method. In particular, We achieve 71.1% PR on LasHeR, 88.4% PR on RGBT234 and 87.1% on RGBT210, outperforming the popular approaches.",
+   "url": "https://doi.org/10.1145/3821537",
+   "doi": "10.1145/3821537",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204808026": {
+   "id": "oa:W7204808026",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Real-time triadic mediation: AI, epistemic symmetry, and preventive access to justice",
+   "authors": [
+    "Lior Gazit"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-08-31",
+   "abstract": "Abstract Millions navigate legal disputes without reliable knowledge of what the law establishes in their situation, and meet counterparties whose assumptions are mistaken in a different direction. This article develops real-time triadic mediation: an institutional model in which an AI system supplies simultaneous, source-grounded framework analysis to both parties in an emerging dispute, before positions harden. The model is preventive, bilateral, and framework-focused. Three premises support it, each defended and each bounded. The theoretical premise is that legal sources are constitutive, so that holdings retrieved under a doctrinally weighted scheme can support reliable framework guidance; the claim attaches to authority-weighted retrieval over a curated corpus rather than to statistical regularity across a mass of rulings, and does not survive the move to genuinely novel questions. The empirical premise is that divergent framework beliefs drive some share of escalation; legal needs research shows that this share has never been measured, and that the more prominent barrier is failure to characterise a problem as legal at all, so the premise is advanced as a hypothesis. The feasibility premise is that retrieval-augmented systems can reach the required reliability; preregistered evaluation of commercial legal research tools indicates they do not yet, which makes threshold conditions for deployment part of the model itself. Four worked examples illustrate the model, including one in which epistemic symmetry leaves the weaker party worse off. The article closes by arguing that non-deployment is itself a choice with distributive consequences, needing justification once the stated reliability conditions are met.",
+   "url": "https://doi.org/10.1007/s43681-026-01351-5",
+   "doi": "10.1007/s43681-026-01351-5",
+   "pdf": "https://doi.org/10.1007/s43681-026-01351-5",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204811621": {
+   "id": "oa:W7204811621",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From algorithmic assistance to ethical engagement: a mixed-method investigation of AI-enhanced retail technologies and consumer trust formation",
+   "authors": [
+    "Wahidur Rahman"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-08-31",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01352-4",
+   "doi": "10.1007/s43681-026-01352-4",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204818442": {
+   "id": "oa:W7204818442",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From AI readiness to accountable centaur readiness: organizational governance of human–AI decision-making in digital government",
+   "authors": [
+    "Juliano Nunes Alves",
+    "Hsien‐Lee Tseng"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-08-31",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01343-5",
+   "doi": "10.1007/s43681-026-01343-5",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "oa:W7204822260": {
+   "id": "oa:W7204822260",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Something looks fishy! A philosophical exploration of AI for marine conservation",
+   "authors": [
+    "Mark Ryan",
+    "Paulan Korenhof"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-08-31",
+   "abstract": "Abstract Increased pollution, traffic, overfishing, and climate change threaten fish populations, their habitats, and the sustainability of marine ecosystems. To develop environmental policies that support the conservation of sustainable ocean ecosystems and foster biodiversity, the use of artificial intelligence (AI) is proposed to improve knowledge production on various fish species. These fishial recognition systems (FRS) integrate machine learning, deep learning, convolutional neural networks, computer vision, drones, and robots to identify fish species, monitor endangered populations, track migration patterns, detect illegal fishing, and even track and kill invasive species. While these FRS are employed for biodiversity protection, they may change practices, shift relations, and shape the production of new knowledge and access thereto. The technical community actively adopts FRS, but the ways this technology affects fish, humans, and their shared environments remain underexplored. Therefore, this article conducts philosophically informed, exploratory research into the implications of FRS to address the central research question: how do FRS affect fish in open waters? This paper analyses the technical literature and draws on various bodies of philosophical and social science research to identify the main social and ethical considerations of FRS. It identifies potential (intentional and unintentional) biases found in the data, algorithms, or applications of FRS. It also explores the potential physical and emotional harm to fish caused by underwater FRS. FRS may further exacerbate anthropocentric, quantification, and power asymmetries between humans and fish. In response, this paper develops a fish-centric approach to the development, deployment, and use of FRS.",
+   "url": "https://doi.org/10.1007/s43681-026-01312-y",
+   "doi": "10.1007/s43681-026-01312-y",
+   "pdf": "https://doi.org/10.1007/s43681-026-01312-y",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374534": {
+   "id": "kci:ART003374534",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지방행정의 미래 이슈 도출:- 전문가 델파이 조사기법의 적용을 통해 -",
+   "authors": [
+    "유수동 한국지방행정연구원)",
+    "박현욱"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "오늘날 우리사회는 AI와 디지털 전환, 기후변화, 인구감소 및 지방소멸 등 복합적인 환경변화에 직면하고 있다. 이에 따라 미래에 대한 선제적 대응과 전략적 준비의 중요성이 더욱 커지고 있다. 특히, 지방행정은 주민 삶과 가장 밀접한 행정주체로서 다양한 사회문제에 대응해야 하는 동시에, 급변하는 미래 환경에 적응할 수 있는 역할과 기능이 요구되고 있다. 따라서 지방행정을 둘러싼 미래 환경변화를 체계적으로 분석하고, 핵심 이슈와 정책과제를 선제적으로 발굴하는 것이 필요한 상황이다. 이에 본 연구는 전문가 델파이 조사기법을 적용하여 지방행정에 영향을 미칠 환경변화를 종합적으로 조망하고 주요 미래 이슈를 탐색하고자 한다. 델파이 조사결과, 전문가들은 저출생･고령화, 인구감소와 지방소멸을 미래 지방행정의 핵심 이슈로 인식하였으며, 지역인재･일자리, 재난안전, 보건･복지, 사회안전망 강화와 함께 주민참여 및 거버넌스 기반의 자치역량 제고가 미래 지방행정의 주요 과제가 될 것으로 전망하였다. 이러한 결과는 향후 지방자치단체의 중장기 발전전략 수립 및 의사결정을 위한 미래 방향성을 제시할 수 있을 것으로 기대된다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374534",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374500": {
+   "id": "kci:ART003374500",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "시민단체 지원･관리정책의 책무성 설계*- 서울시 사례의 투명성･연속성･전문성･다양성 준거 -",
+   "authors": [
+    "정성은",
+    "김미선",
+    "장보원"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "본 연구는 지방정부 시민단체 지원･관리정책에서 ‘지원 확대 대 관리 강화’의 이분법을 넘어 긴장을 정책 책무성 설계(accountability design)의 문제로 전환한다. 투명성･연속성･전문성･다양성 4개 준거와 6개 운영 국면을 결합한 분석틀을 제시하고, 서울시 정책환경과 접점을 가진 중간지원조직 운영 담당자 7명과 시민단체 활동가 3명의 구조화 질문지 서면응답을 지시적 내용분석으로 분석하였다. 그 결과 설명가능한 기준과 피드백의 부족(투명성), 정책･예산･인사 변동에 따른 누적 학습의 단절(연속성), 교육･조정･평가 역량 및 지원 장치의 공백(전문성), 획일 기준과 정량 편향에 따른 적합성 저하(다양성)가 반복적으로 제기되었고, 복수 준거의 불균형이 중첩될 때 갈등이 증폭될 수 있는 조건부 결합 경로가 관찰되었다. 이를 바탕으로 설명가능성–예측가능성–집행역량–적합성을 함께 고려하는 책무성 설계 원리와 제도개선 방향을 제안한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374500",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374359": {
+   "id": "kci:ART003374359",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "증거기반실무와 인공지능 활용 간 관계- 역할갈등 인식의 매개효과 -",
+   "authors": [
+    "박정민",
+    "김경동",
+    "김민한"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "인공지능이 공공조직에 급속히 확산되는 가운데, 조직구성원의 인공지능 활용 메커니즘에 대한 이해는 제한적이다. 지방의회 정책지원관은 공식 소속과 실질 업무지시자가 다른 이중 지휘구조에 놓여 역할갈등이 내재된 집단으로, 인공지능 활용의 선행조건을 탐색하기에 적절한 맥락을 제공한다. 본 연구는 직무요구-자원 이론에 근거하여 증거기반실무와 개인의 인공지능(AI) 활용 간 관계에서 역할갈등 인식의 매개효과를 검증하였다. 경기도 내 정책지원관 153명에 대한 매개분석 결과, 증거기반실무는 역할갈등 인식과 부(-)의, 역할갈등 인식은 인공지능 활용의 수용적, 맞춤형, 전반적 차원과 정(+)의 관련성을 보였으며, 부트스트랩 간접효과는 모든 차원에서 유의하였다. 수용적 및 전반적 활용에서는 간접효과 중심 매개가, 맞춤형 활용에서는 직접효과와 간접효과가 서로 다른 방향으로 나타났다. 다만, 맞춤형 활용의 경우 직접효과가 통상적 유의수준에 이르지 못해 확정적으로 다루기에는 한계가 있었다. 본 연구의 결과는 정책지원관의 인공지능 활용이 역할갈등 인식 해소에 수반되어 변화하는 경향을 나타내는바, 지속가능한 인공지능 활용을 위해서는 이중 지휘구조의 제도적 개선과 활용 동기의 성장･학습지향적 재구성이 병행될 필요가 있음을 시사한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374359",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374584": {
+   "id": "kci:ART003374584",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지방정부 의료공급의 상대적 비교를 위한 공간정보 기반 머신러닝의 활용",
+   "authors": [
+    "정도효"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "지역 간 의료공급의 차이는 지방정부의 의료자원 배분과 함께 지속적으로 논의되어 왔다. 기존 연구는 의료공급의 분포와 지역 간 격차를 주로 다루어 왔으나 지역 특성을 함께 고려한 상대적 의료공급 수준에 대한 검토는 상대적으로 제한적이었다. 본 연구는 기초지방자치단체를 대상으로 공간정보를 반영한 머신러닝을 활용하여 지역별 기대 의료공급을 예측하였다. 예측된 기대 의료공급과 실제 의료공급을 비교하여 지역별 상대적 차이를 분석하였다. 또한 설명가능한 머신러닝을 활용하여 의료공급 예측에 주요하게 활용된 지역 특성과 입력값에 따른 예측 반응을 분석하였다. 분석 결과 동일한 의료공급 수준에서도 지역 특성에 따라 기대 의료공급 대비 상대적 수준에 차이가 나타났다. 입력 특성에 대한 예측 반응도 지역별로 차이를 보였다. 이를 바탕으로 공간정보를 반영한 설명가능한 머신러닝을 통한 의료공급의 지역별 상대적 차이와 주요 예측 특성을 논의한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374584",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374513": {
+   "id": "kci:ART003374513",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지방소멸대응기금에 대한 시스템다이내믹스 기반 인과순환구조분석",
+   "authors": [
+    "방호준",
+    "신유호"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "본 연구에서는 2022년부터 시작된 지방소멸대응기금 관련 요인을 인과순환구조분석을 통해 고찰하였다. 지방소멸대응기금은 총 89곳의 인구감소지역 및 18곳의 관심지역을 대상으로 기금사업이 추진되었으며, 지방소멸대응기금에 대한 학술적 평가는 주로 지역별 인구 유입률을 중심으로 실증적으로 이루어졌다. 본 연구에서는 시스템 사고의 관점에서 인과지도를 작성하였고, 인과지도에서 활용된 변수, 인과관계의 방향성, 피드백 루프 구조 등은 기존 선행연구에 대한 문헌검토를 근거로 작성되었다. 본 연구에서 확인한 인과 구조는 ‘출산율 => 생산가능 인구 수 => 인구감소지역 청년 수 => 인구감소지역 고령화 비율 => 인구감소지역 확대 가능성 => 지방소멸 => 관련 예산 필요성 => 지방소멸대응기금 배분 규모 => 인구감소지역 재정자립도 => 인구감소지역 재정지출규모 => 인구감소지역 생활인프라 수 => 인구감소지역 도시 매력도 => 인구감소지역 생활인구 유입률 => 인구감소지역 조세수입 => 출산지원사업규모 => 출산율’로 이어지는 피드백 루프로 설명하였다. 이러한 분석결과는 지방소멸대응기금의 효과를 단기적인 인구증감이나 개별 사업의 성과만으로 평가하기보다 인구･경제･재정･정주환경 간의 중장기적 상호작용을 함께 고려할 필요가 있음을 시사한다. 또한 향후 인구감소지역 재지정과 기금 운용성과 평가에서는 기존 정량지표와 함께 지역매력도, 주민 생활만족도 등 지역의 지속가능한 정주여건을 반영할 수 있는 지표를 보완할 필요가 있다. 본 연구는 지방소멸대응기금과 지방소멸 간의 관계를 개별 변수의 단선적 영향이 아닌 피드백 구조를 통해 분석하였다는 점에서 의의가 있다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374513",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374576": {
+   "id": "kci:ART003374576",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "DEA와 DEA Window모형을 통한 전시컨벤션센터 경영 효율성 분석- 지방출자출연기관을 중심으로 -",
+   "authors": [
+    "이수형",
+    "정홍상"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "본 연구는 MICE 산업의 핵심 인프라인 국내 전시컨벤션센터의 경영 효율성을 객관적으로 진단하고 최적화 방안을 모색하는데 목적이 있다. 특히 수익성보다는 공익성을 중시하는 지방자치단체 출자･출연기관 형태의 국내 전시컨벤션센터를 연구 대상으로 한정하여 2019년부터 2023년까지 총 5개년의 패널자료를 확보하여 효율성을 측정하였다. 측정 변수를 선정함에 있어 센터조직의 공공적 특성을 최대한 고려하여 비재무적 지표인 ‘임직원 수’와 ‘전시장 면적’을 투입 변수로, ‘총 전시면적’과 ‘참관객 수’를 산출 변수로 설정하였다. 단일 연도의 정태적 효율성 분석을 위해 DEA 모형을 적용하였고, 시간 흐름에 따른 효율성의 변화 추이 및 안정성을 입체적으로 규명하기 위해 동태적 분석으로 DEA Window 모형을 병행하여 분석하였다. 분석 결과 우리나라 출자･출연 전시컨벤션센터의 비효율은 내부 운영 역량 부족보다는 규모 비효율에 기인하는 바 크고, 수도권 센터는 비수도권 센터에 비해 시계열 평균 규모효율성(SE)이 상대적으로 높고 비수도권 센터는 수도권 센터에 비해 시계열 평균 순수기술효율성(PTE)이 상대적으로 높음을 확인하였다. 개별 센터별로는 특정시점에서의 높은 효율성이 경영성과의 지속성과 안정성을 의미하지는 않으며, 동태적 추이 및 변동성의 정도가 상이하여 지속적이면서도 안정적인 경영성과를 창출하기 위해서는 센터별 맞춤형 효율성 제고 방안을 마련할 필요가 있음을 알 수 있었다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374576",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374566": {
+   "id": "kci:ART003374566",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "공직 생애주기별 자산 형성 지원체계구축 방안 연구- 지방교육행정기관 및 학교 소속 공직자를 중심으로 -",
+   "authors": [
+    "양진규",
+    "이혜영",
+    "박현숙",
+    "김혜덕",
+    "서봉희",
+    "이원택",
+    "문세경",
+    "정광희",
+    "장창곡"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "본 연구는 공직 생애주기별 자산형성 지원체계가 조직몰입과 공직만족도에 미치는 영향을 분석하는 것을 목적으로 한다. 공직자를 대상으로 한 설문조사를 바탕으로 자산형성 지원체계 인식, 조직몰입, 공직만족도 간의 관계를 실증적으로 분석하였다. 분석 결과, 자산형성 지원체계에 대한 인식은 조직몰입과 공직만족도에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 또한 조직몰입은 자산형성 지원체계 인식과 공직만족도 간의 관계에서 부분 매개효과를 가지는 것으로 확인되었다. 아울러 생애주기와 직종에 따라 차이가 존재하는 것으로 나타났다. 이러한 결과를 바탕으로 공직자의 특성을 반영한 생애주기별 맞춤형 자산형성 지원체계 구축의 필요성을 제시하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374566",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374706": {
+   "id": "kci:ART003374706",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "한국사회 노동갈등의 현황과 특징에 관한 연구- 1990-2024년 DCDR 공공갈등 DB 분석을 중심으로 -",
+   "authors": [
+    "임재형"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "본 연구는 한국사회 노동갈등의 현황과 특징을 경험적으로 규명하기 위해 1990년부터 2024년까지 발생한 공공갈등 사례를 분석하였다. 기존 연구가 특정 시기의 노동운동, 개별 노사분규, 노동시장 구조 변화 등에 주로 초점을 맞추어 온 데 비해, 본 연구는 장기 시계열 자료를 활용하여 노동갈등을 한국사회 공공갈등의 한 유형으로 위치 짓고, 전체 공공갈등 1,303건 중 노동갈등 351건을 대상으로 연도별･정부별 발생 양상, 갈등 종류와 성격, 종료방식, 시민단체 참여 여부, 평균 지속일수 등을 종합적으로 검토하였다. 분석 결과, 노동갈등은 전체 공공갈등 가운데 가장 높은 비중을 차지하는 대표적 갈등 유형이며, 최근 그 상대적 비중이 다시 확대되는 경향을 보였다. 또한 노동갈등은 다른 공공갈등 유형과 달리 민간 경제주체 간 갈등 비율이 높고, 이익/이익갈등의 성격이 강하며, 협상에 의해 종료되는 비율이 높은 것으로 나타났다. 반면, 시민단체 참여 비율과 평균 지속일수는 상대적으로 낮았다. 이러한 결과는 노동갈등이 단순한 노사분규가 아니라 노동시장 구조, 고용불안, 정부 노동정책, 산업구조 변화가 결합된 핵심 공공갈등임을 보여준다. 나아가 노동갈등의 예방과 해결을 위해서는 자율교섭 역량 강화, 조기 조정 절차의 제도화, 취약노동계층 보호, 사회적 대화체계 구축이 필요함을 시사한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374706",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374761": {
+   "id": "kci:ART003374761",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "구역･계층･기능 관점에서 본 한국 지방자치 행정체제의 구조적 한계와 개편방안",
+   "authors": [
+    "김찬동",
+    "배귀희"
+   ],
+   "journal": "한국지방행정학보",
+   "date": "2026-08",
+   "abstract": "한국의 지방자치체제는 지방자치제도부활 35년을 경험하면서, 제도설계의 문제점이 드러났고, 이 문제를 해결하기 위한 구조개혁이 필요하다. 구조개혁은 기회의 창이 열렸을 때, 강력한 리더십과 협력적 파트너십을 가지고 추진되어야 할 과제이다. 한국의 지방자치행정체제의 구조적 논점으로서 구역, 계층, 기능에 대한 담론적 논의를 통하여, 지방행정체제의 설계상의 오류들를 제시해 본다. 주된 오류로서 지방자치의 기초구역이 너무 크다든지, 이층제를 단층제로 갈 것인가, 군자치는 과연 기초자치계층에 해당하는 것인가, 광역시와 도의 분리, 중앙집권적 자치구조 등을 제기한다. 인구감소위기에 직면한 한국의 지방자치행정체제는 더 이상 지속가능성을 견지하기가 어려우므로, 이에 대한 구조적 개혁이 필요하다. 이를 위해 대도시중심권을 가진 초광역권역을 형성하는 방향, 근린계층의 총회적 자치정부를 도입하는 방향, 그리고 양자를 연결하는 브릿지 정부로서의 행정구를 두는 방향을 담론적으로 제시한다. 그리고 국가와 지방정부간의 재정분권에 기반한 역할분담을 위한 방향으로서 헌법적인 개정이 필요함을 제시한다. 이미 미래지향적 지방행정체제개편 방향이 제시되어 있기에 이를 보충적으로 달리 생각해 볼 대안으로서 몇가지를 제시해 본다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374761",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374729": {
+   "id": "kci:ART003374729",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "성과평가 공정성 인식이 다차원적 직무성과 인식에 미치는 영향: 업무 자율성 인식의 조절효과와 공공･민간조직 비교를 중심으로",
+   "authors": [
+    "백지선"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "최근 급변하는 행정환경 속에서 공공조직 구성원의 적응적 성과가 중요한 성과 차원으로 주목받고 있으나, 관료제 특유의 경직성으로 인해 공공조직에서 성과가 형성되는 기제는 민간부문과 다르게 나타날 수 있다. 이에 본 연구는 성과평가에 대한 절차 공정성 및 분배 공정성 인식이 다차원적 직무성과(업무성과, 적응적 성과) 인식에 미치는 영향과 업무 자율성 인식의 조절효과를 공공부문과 민간부문을 비교하여 분석하였다. 이를 위해 ‘2024년 한국의 공･사조직 구성원 인식 비교 조사’ 자료를 활용하여 공공부문(1,012명)과 민간부문(1,008명) 종사자를 대상으로 다중회귀분석을 수행하였다. 분석 결과, 민간부문에서는 공정성 인식이 직무성과 인식에 직접적인 영향을 미치는 경향이 폭넓게 나타난 반면, 공공부문에서는 평균적인 자율성 수준에서 공정성 인식의 직접적인 효과가 대체로 유의하지 않았다. 대신 공공부문에서는 업무 자율성 인식의 조절효과가 확인되었는데, 그 양상은 자율성이 확보되었다고 인지한 경우 공정성 인식이 성과 인식으로 이어진 반면 자율성에 대한 인식이 결여된 경우 오히려 부정적으로 작용하는 형태로 나타났다. 이는 규정과 통제로 인해 재량이 제약된 공공조직에서는 평가 제도의 공정성이 성과로 전환되는 과정이 구성원의 업무 자율성에 대한 인식에 의해 조건화될 수 있음을 시사한다. 본 연구는 공공부문의 성과를 제고하기 위해서는 평가 제도의 공정성 확보와 함께 현장 실무자에 대한 실질적인 재량권의 부여가 병행될 필요가 있음을 제언한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374729",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374481": {
+   "id": "kci:ART003374481",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "공공조달의 구조적 분석 프레임에 관한 연구: 제도･시장･정책의 결합 구조와 전략적 상호작용을 중심으로",
+   "authors": [
+    "진영근",
+    "강윤호"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 공공조달을 단순한 구매 행위나 행정 절차가 아닌, 제도･시장･정책이 결합된 구조적 시스템으로 재정의하고, 이를 설명하기 위한 구조적 분석 프레임을 제시하는 것을 목적으로 한다. 기존 연구는 법, 행정현상, 경제분석의 개별 관점에서 공공조달의 특정 측면을 설명하는 데에는 기여하였으나, 법･제도, 시장경쟁 형태, 조달정책이 결합된 구조가 역동적으로 작용하여 공공조달의 성과를 초래하는 현상을 설명하는 데에는 한계를 보여왔다. 이에 본 연구는 산업조직론의 Structure-Conduct-Performance(SCP) 모형을 확장하여 Structure- Behavior-Performance(SBP) 기반의 분석 프레임을 제시한다. 특히 구조를 제도･시장･정책의 결합으로 재정의하고, 행위를 제도와 정책에 의해 형성된 경쟁 구조 속에서 나타나는 다수 행위자의 전략적 행동과 상호작용으로 확장하며, 정책을 구조 내부에서 작동하면서 경쟁 구조와 행위자의 유인 체계를 조정하는 요소로 파악함으로써 공공조달의 결과 형성 과정을 구조･행동･성과 간의 상호연계 과정으로 설명한다. 나아가 다수공급자계약(Multiple Award Schedule, MAS) 제도와 일반 경쟁입찰에 대한 비교 분석을 통해, 경쟁 구조와 정책적 개입 방식의 차이가 행위자의 전략적 행동과 성과 형성에 서로 다른 영향을 미칠 수 있음을 검토하고, SBP 기반 분석 프레임의 적용 가능성을 탐색한다. 본 연구는 공공조달의 결과가 개별 제도나 절차에 의해 일의적으로 결정되는 것이 아니라, 제도･시장･정책이 결합된 구조 속에서 행위자의 전략적 행동과 상호작용을 통해 형성된다는 점을 제시한다. 이러한 관점에서 본 연구는 공공조달을 구조･행동･성과의 상호연계 과정으로 분석하기 위한 구조적 분석 프레임의 가능성을 제시한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374481",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374493": {
+   "id": "kci:ART003374493",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "인구감소지역 지정과 청년순유출 위험의 정합성 진단:전라남도 22개 시군의 지속위험과 지방정부 정책 모니터링",
+   "authors": [
+    "윤홍준"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 전라남도 22개 시군을 대상으로 인구감소지역 지정과 19~39세 청년순유출 위험의 정합성을 진단하였다. 2025년 위험등급을 산출하고, 2021~2025년 평균, 대안적 임계값, 절대 순유출 규모, 시기별 비교 및 공간자기상관 분석을 통해 결과의 지속성과 강건성을 점검하였다. 분석 결과, 비지정 지역인 목포시와 여수시는 2025년뿐 아니라 최근 5년 평균과 모든 대안적 기준에서도 고위험으로 유지되었으며, 5년 누적 순유출도 각각 9,245명과 8,109명으로 나타났다. 반면 2025년 지정-저위험 지역 5곳 중 최근 5년 평균에서도 저위험을 유지한 곳은 신안군과 영광군이었다. 패널 고정효과 모형의 결과는 모형 설정에 민감하였고, XGBoost의 예측력 개선은 제한적이었다. 본 연구는 현행 지정체계를 대체하기보다 청년순유출의 비율･지속성･규모를 함께 점검하는 지방정부의 보완적 모니터링 체계를 제안한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374493",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374506": {
+   "id": "kci:ART003374506",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "공간통계기법을 활용한 산불 발생과국가지정유산 분포의 공간적 결합 구조 분석",
+   "authors": [
+    "장현진",
+    "엄영호"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 전국 226개 시･군･구를 대상으로 산불 발생과 국가지정유산 분포가 공간적으로 어떻게 결합되는지를 분석하고, 문화유산의 산불 노출 양상을 진단하였다. 이를 위해 2022~2025년 산불 발생 건수, 2025년 국가지정유산 분포, 산림비율, 인구밀도 자료를 구축하고, 전역 Moran’s I, LISA, BiLISA, K-means 군집분석을 적용하였다. 분석 결과 산불 발생은 특정 권역에서 뚜렷한 공간자기상관을 보였으나, 문화유산 분포 및 결합노출의 전역적 군집성은 상대적으로 약하게 나타났다. LISA 분석에서는 포항시와 함양군이 산불 발생 핫스팟과 결합노출 핫스팟이 동시에 나타난 우선관리권역으로 확인되었으며, BiLISA 분석에서는 포항시･영주시･의성군･청송군 등에서 인접 지역과의 공간적 결합 구조가 확인되었다. 또한 군집분석 결과 산불 발생, 문화유산 분포, 산림비율, 인구밀도의 조합에 따라 지역 유형이 차별화되었다. 이는 문화유산 산불방재가 산불 발생 건수나 문화유산 개수만이 아니라 결합노출과 지역 특성을 함께 고려한 권역별 관리체계로 전환되어야 함을 시사한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374506",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374516": {
+   "id": "kci:ART003374516",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지역사회 노인의 건강증진행위와 삶의 질의 관계에서 사회적 자본의 매개효과",
+   "authors": [
+    "유진"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 지역사회 노인의 건강증진행위가 삶의 질에 미치는 직접효과를 검증하고, 이들 관계에서 사회적 자본의 매개효과를 분석하는 데 목적이 있다. 이를 위해 부산광역시에 거주하는 만 60세 이상 노인 774명을 대상으로 설문조사를 실시하였으며, 수집된 자료는 SPSS 30.0과 AMOS 30.0을 활용하여 구조방정식모형으로 분석하였다. 건강증진행위는 신체건강행위, 일상생활관리, 정신건강행위로, 사회적 자본은 신뢰, 참여, 네트워크로, 삶의 질은 신체적 영역과 환경적 영역으로 세분화하였다. 분석 결과, 신체건강행위와 정신건강행위는 삶의 질의 신체적 영역과 환경적 영역에 유의한 정(+)의 영향을 미쳤으며, 일상생활관리는 신체적 영역에만 유의한 정(+)의 영향을 미쳤다. 사회적 자본의 하위요인 중 네트워크는 삶의 질의 두 영역에 모두 유의한 정(+)의 영향을 미쳤고, 신뢰는 신체적 영역에 유의한 정(+)의 영향을 미쳤다. 반면 참여는 환경적 영역에 부(-)의 영향을 미치는 것으로 나타났다. 매개효과 검증 결과, 네트워크는 건강증진행위와 삶의 질의 관계에서 주요한 매개변수임을 확인하였다. 특히 정신건강행위는 신뢰와 네트워크를 매개하여 삶의 질에 영향을 미치는 주요 건강증진행위 요인으로 나타났다. 본 연구는 건강증진행위, 사회적 자본, 삶의 질을 하위요인별로 세분화하여 지역사회 노인의 삶의 질 형성 경로를 구체적으로 검증하였다는 점에서 의의가 있다. 연구결과는 노인의 삶의 질 향상을 위해 신체적 건강관리 중심의 접근을 넘어 정신건강 증진과 사회적 관계망 강화를 통합한 지역사회 기반 건강증진 프로그램의 필요성을 실증적으로 뒷받침한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374516",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374546": {
+   "id": "kci:ART003374546",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지역 과학기술 혁신성과에서 지방정부 재정의 역할:SHAP와 ALE를 활용한 분석을 중심으로",
+   "authors": [
+    "조규철"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 지역 과학기술혁신 성과를 설명하는 데 있어 지방정부 재정의 역할에 대해 논의한다. 기존 연구가 주로 연구개발투자, 인적자본, 민간 혁신기반, 경제규모 등 지역 내 혁신자원의 축적에 주목해 온 반면, 본 연구는 지방정부 재정이 이러한 혁신자원을 성과로 전환하는 과정에서 조건적 역할을 수행할 수 있다는 문제의식에서 출발하였다. 광역지자체 패널자료를 활용하여 특허등록 성과를 분석한 결과, 지역 특허성과는 전통적인 기술혁신 요인과 더불어 지방정부 재정변수와도 관련되는 것으로 나타났다. 특히 과학기술 세출예산은 연구개발투자 및 지역경제 규모와, 재정자주도는 잠재적 지식인력 및 민간 R&D 기반과 결합할 때 비선형적, 조건부 패턴을 보였다. 이는 지역혁신 성과가 단순한 혁신자원의 양적 축적만이 아니라, 지방정부가 지역 내 자원을 어떻게 조정하고 성과로 전환하는가와도 관련됨을 시사한다. 본 연구는 지역혁신체계 논의에 지방정부 재정역량을 접합하고, 패널회귀와 설명가능 머신러닝을 결합하여 지방재정의 비선형성과 조건부 효과를 분석했다는 점에서 의의를 갖는다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374546",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374662": {
+   "id": "kci:ART003374662",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지방소멸 대응을 위한 청년인구 유입 결정요인 분석: 전입인구와 생활인구의 공간적 미스매치를 중심으로",
+   "authors": [
+    "이찬희",
+    "권기헌"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 저출산･고령화 및 수도권 집중 심화로 직면한 지방소멸 위기를 타개하고, 지역의 지속가능성을 도모하기 위한 청년인구 유입을 실증적으로 분석하는 데 목적이 있다. 이를 위해 인구 이동성 증가라는 시대적 패러다임 변화를 반영하여, 물리적 정주를 의미하는 ‘전입인구’와 동태적 체류 중심의 ‘생활인구’라는 이원적 관점을 도입하였다. 전국 기초자치단체를 대상으로 패널 데이터를 구축하여 패널회귀분석을 수행하였다. 분석의 정밀성을 높이기 위해 청년층을 연령별(20대, 30대)로 세분화하였으며, 정부 지정 지역(공공기관이전, 인구감소지역, 특구) 여부에 따른 유입 특성의 차이를 입체적으로 비교･분석하였다. 분석 결과, 일자리(사업체 수)는 20대 청년의 전입을 견인하는 핵심 요인으로 확인되었다. 흥미로운 점은 주택가격과 문화기반시설이 높은 지대로 인한 경제적 진입장벽으로 작용하여 전입인구 유입에는 부(-)의 영향을 미친 반면, 생활인구 유입에는 정(+)의 영향을 미쳤다는 점이다. 이는 청년층의 동태적 체류 거점과 실질적 정주를 위한 주거 공간이 지리적으로 분리되는 ‘공간적 미스매치(Spatial Mismatch)’ 현상을 명확히 보여준다. 생활환경 요인에서는 대학교 수와 의료기관 의사 수가 전입 유입을 촉진하는 주요 변수였으며, 연계교통망의 발달은 생활인구 유입에 긍정적인 영향을 미쳤다. 정책적 요인에서는 교육 등 보편적 행정 예산의 팽창이 1인 가구의 비중이 높은 청년층의 구체적 정책 수요와 불일치하여 유입을 견인하는 데 한계를 보였다. 나아가 강력한 거시적 정책 자극이 부재한 지역일수록 생애주기적 특성과 미관측 이질성이 동태적 이동 결정에 핵심적으로 작용함을 확인하였다. 이러한 연구결과를 바탕으로 도출한 정책적 시사점은 다음과 같다. 지방자치단체는 획일적인 보편 예산투입에서 벗어나, 유입 대상 및 세대별 특성에 맞춘 ‘투트랙(Two-Track) 맞춤형 공간 전략’을 추진해야 한다. 실질적 정주인구 확충을 위해 도보 생활권 내 필수 인프라가 융합된 ‘정주형 콤팩트 시티’를 조성하고, 당장 전입 유치가 어려운 인구감소지역은 연계교통 거점을 중심으로 ‘타겟팅 어메니티’ 고도화에 주력해야 한다. 아울러 복수주소제 법제화 및 고향사랑기부제와 월세 바우처 연계 등 체류 인구가 장기 정주로 이어질 수 있는 실천적 사후 유인책이 동반되어야 할 것이다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374662",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374672": {
+   "id": "kci:ART003374672",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "단절과 균형을 통한 정책변동: 의대정원 정책에 대한 단절적 균형이론의 적용",
+   "authors": [
+    "장현주"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "이 연구는 지역의료 및 필수의료 분야 붕괴를 해결하기 위한 의대정원 정책변동이 주요 정책행위자 간 어떠한 경쟁 과정을 거쳐 기존 정책의 유지, 급격한 변동 후 기존 정책으로 회귀, 또는 급격한 변동으로 귀결되었는지를 단절적 균형이론을 통해 분석하였다. 분석결과, 공공의대 설립 추진의 경우 의사단체의 집단행동으로 인한 의료전달체계의 마비로 여론이 바뀌어 의사단체가 지배집단으로서 정책독점에 성공하여 기존의 정책이 유지될 수 있었다. 2024년 의대정원 증원의 경우, 정부에게 우호적인 여론이 조성되어 정부가 집단행동에 나선 의사단체와의 정책 이미지 경쟁에서 앞서 나가 결국 정책독점에 성공한 정부가 의제를 거시정치제제로 끌어 올림으로써 급격한 정책변동이 가능하였다. 그러나 지배집단의 변화가 정부의 불완전한 정책독점을 초래하여 결국 단절 후 회귀로 귀결되었다. 지역의사제 도입은 정권교체라는 초점사건에 의해 정부가 국회를 정책의 장으로 선택한 후 입법절차를 통해 제도화를 먼저 추진하는 전략을 사용하였다. 의사단체의 정책 이미지 경쟁력이 높지 않아 정부에 의한 정책독점이 비교적 쉽게 달성되어 결국 단절로 귀결되었다. 이는 정책문제 원인과 처방에 대한 인식 차이를 해소하기 위해 필수의료 분야 의료수요 예측 등 객관적 사실 중심의 정책학습이 필요함을 시사한다. 아울러 규율 중심 정책수단의 수용성과 정당성을 높이기 위한 전략이 필요하고, 정책변동의 정당성이 인정될 경우 정부는 안정적인 정책독점을 유지하기 위해 지속적인 정책 이미지 강화 노력을 할 필요가 있다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374672",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374690": {
+   "id": "kci:ART003374690",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "양성평등 조직문화가 사회복지사의 조직시민행동에 미치는 영향: 심리적 안전감의 매개효과와 수퍼비전의 조절효과",
+   "authors": [
+    "정솔",
+    "박현환"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 경기도 소재 사회복지시설에 재직 중인 사회복지사 478명을 대상으로, 구성원이 지각한 양성평등 조직문화가 조직시민행동에 미치는 영향에서 심리적 안전감의 매개효과와 수퍼비전의 조절효과를 검증하였다. Hayes(2022)의 PROCESS macro Model 7을 적용하고 조직신뢰를 통제변수로 투입하였으며, 분석에 앞서 확인적 요인분석으로 측정모형의 수렴타당도와 판별타당도를 확인하고 급내상관계수와 집단 내 동의도를 산출하여 개인 수준 분석의 적합성을 검토하였다. 분석 결과, 첫째, 양성평등 조직문화는 조직시민행동과 심리적 안전감에 각각 유의한 정(+)의 영향을 미쳤다. 둘째, 심리적 안전감은 조직시민행동에 유의한 정(+)의 영향을 미쳤으며 양성평등 조직문화와 조직시민행동의 관계를 부분매개하였다. 셋째, 수퍼비전은 양성평등 조직문화가 심리적 안전감에 미치는 영향을 유의하게 조절하였다. 넷째, 조절된 매개지수가 유의하여 매개 경로가 수퍼비전 수준에 따라 조건부로 강화되는 조절된 매개효과가 확인되었다. 이러한 결과는 구성원이 조직을 양성평등하다고 지각할수록 심리적 안전감이라는 기제를 통해 조직 내부를 향한 역할 외 행동이 촉진되며, 수퍼비전이 이 과정의 경계 조건으로 기능함을 시사한다. 본 연구는 사회복지 조직문화 연구에 성별 공정성 차원을 도입하고 수퍼비전의 조절적 역할을 실증하였으며, 분석수준의 적합성을 명시적으로 검토함으로써 이론적·방법론적 함의를 제공하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374690",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374713": {
+   "id": "kci:ART003374713",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "정책집행에서 대상집단의 참여유형에 관한 연구",
+   "authors": [
+    "이창율",
+    "김성수"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 정책집행 과정에서 대상집단의 참여방식이 집행전략의 중요한 변수라는 문제의식에서 출발하였다. 기존의 하향식 집행, 상향식 집행, 거버넌스 등 집행유형에 따라 대상집단의 참여방식도 달라질 수 있다는 점에 착안하여, 대상집단의 참여를 반응적 참여, 협상적 참여, 주도적 참여의 세 유형으로 구분하고, 이를 분석하기 위한 기준으로 참여목표, 집행주도권, 정부와 대상집단 간 상호작용을 설정하였다. 코로나19 백신 예방접종(반응적), 주 52시간제 운영(협상적), 금천구 주민자치회(주도적) 사례를 선정하여 참여 유형의 특성을 분석하였다. 분석 결과, 반응적 참여는 질병관리청 주도하에 신속한 집행과 순응을 확보하는 과정에서 정보 제공 및 수용 중심의 상호작용이 두드러졌다. 협상적 참여는 고용노동부의 법 개정 과정에서 경영계와 노동계가 협상 주체로 등장하면서 대상 집단의 수용성을 확보하는 특징을 보였다. 마지막으로 주도적 참여에서는 주민자치위원의 주도성과 민관 협력 체제 활동을 통해 주민자치 역량이 강화되는 양상이 나타났다. 본 연구는 대상집단을 단순한 정책 수혜자가 아닌 정책집행의 중요한 행위자이자 분석대상으로 제시하고, 시민참여 논의를 정책집행의 맥락으로 확장하여 참여를 정책집행의 특성을 설명하는 분석적 개념으로 재해석하였다. 이를 통해 정책집행 연구의 분석 범위를 대상집단의 참여 영역으로 확장하고, 향후 정책집행 연구에서 참여를 중요한 분석단위로 활용할 수 있는 이론적 가능성을 모색하였다는 점에서 의의를 지닌다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374713",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003375229": {
+   "id": "kci:ART003375229",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지방교육재정 여유 재원의 결정요인 분석: 교부금 변동성과 학령인구 변화를 중심으로",
+   "authors": [
+    "김소망"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 시･도교육청의 여유 재원(fiscal slack) 형성 요인을 규명하고 교육재정교부금의 변동성과 학령인구 감소가 여유 재원에 미치는 영향을 실증적으로 분석하고자 한다. 이를 위해 2015년부터 2024년까지 전국 17개 시･도교육청의 패널자료를 활용하였다. 분석 결과, 교육재정교부금의 변동성은 세입 대비 순세계잉여금 비중에 유의한 정(+)의 영향을 미치는 것으로 나타났으며, 이러한 효과는 양의 초과교부보다 음의 감소 충격에서 더욱 뚜렷하게 나타났다. 반면, 학생 감소율은 1인당 순세계잉여금에 유의한 부(-)의 영향을 미치는 것으로 확인되었다. 이는 시･도교육청의 여유 재원 형성이 단순한 학령인구 감소에 따른 교육수요 축소보다는 재정적 불확실성과 지방교육재정의 구조적 특성에 의해 영향을 받을 수 있음을 보여준다. 본 연구는 일반 지방정부를 중심으로 논의되어 온 재정적 여유 재원 관점을 이전재원 의존도가 높은 지방교육재정에 적용하여 여유 재원의 형성 요인을 실증적으로 규명하였다는 점에서 의의가 있으며, 지방교육재정교부금 제도의 개선과 안정적인 지방교육재정 운용을 위한 정책적 시사점을 제시한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003375229",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374567": {
+   "id": "kci:ART003374567",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "통합돌봄 조례의 고부담 실행기제 격차와 지역 요인",
+   "authors": [
+    "이승원"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 돌봄통합지원법 시행 전후 제정된 전국 223개 기초자치단체의 통합돌봄 조례를 대상으로, 주거지원과 접근창구의 명문화 수준에 나타난 지역 간 격차와 관련 요인을 분석하였다. 다섯 영역을 합산한 제도화지수는 평균 13.2점으로 상위 구간에 집중되었지만, 주거지원 약화는 91개(40.8%), 접근창구 미구체화는 188개(84.3%)로 나타났다. OLS에서는 기초생활수급률이 높을수록 고부담 실행기제 격차가 낮았고(b=-0.109), 재정자주도는 음의 방향에서 경계적 관련을 보였다(b=-0.013). 조항별 로지스틱 회귀에서도 주거지원 약화는 재정자주도･기초생활수급률과, 접근창구 미구체화는 고령화율･수도권 여부와 각각 관련되었다. 반면 전역적 공간군집과 회귀모형의 잔차 공간의존성은 확인되지 않았다. 이러한 결과는 통합돌봄 조례의 제도화를 단순한 제정 여부나 총점만으로 파악하기보다, 조례가 구체적인 실행책임을 어디까지 규정하고 있는지를 함께 살펴볼 필요가 있음을 보여준다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374567",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374741": {
+   "id": "kci:ART003374741",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "지방자치단체 시민안전보험의 재난보장성 비교: 17개 시･도 퍼지셋 이상형 분석",
+   "authors": [
+    "권하늬",
+    "선승아",
+    "남윤재",
+    "이정민"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "시민안전보험은 지방자치단체가 재난으로부터 시민을 보호하고 피해 복구를 지원하기 위해 보험사와 계약을 맺어 운영하는 보험으로, 지방자치단체 차원의 재난보장체계라는 점과 자연･사회재난을 아우르는 유일한 보험이라는 점에서 의의가 있다. 하지만 시행 이래 지역별 보장항목과 보장수준의 격차가 꾸준히 문제로 대두되었다. 본 연구는 퍼지셋 이상형 분석을 통해 17개 시･도 시민안전보험의 재난보장성을 지역 보장 포괄성과 급여 적정성을 기준으로 유형화하고 바람직한 재난보장 보험 형태를 제시하고자 했다. 분석 결과, 포괄보장형에 인천･대구･경북･울산, 형식･기초 보장형에 서울･대전･광주･제주, 임의･적정 보장형에 충북･충남･전남, 잔여보장형에 부산･세종･경기･강원이 분류되었다. 전북은 포괄보장형과 임의･적정 보장형, 경남은 임의･적정 보장형과 잔여보장형의 경계에 위치했다. 본 연구는 보장항목과 보장수준의 표준화, 재정적 지원 등을 통해 지방자치단체 간 형평성을 확보하고 보험의 공공성을 강화해야 함을 제언하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374741",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374560": {
+   "id": "kci:ART003374560",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "형식적 제도화와 실질적 지원의 탈동조화:3대 관변단체 지원 조례의 사후 추인 기능에 관한 패널 분석",
+   "authors": [
+    "유제웅",
+    "오정하"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 지방정부의 3대 관변단체 지원이 조례 제정과 경력 의원이라는 행위자의 개입에 의해 결정되는지, 아니면 지자체 수준에서 구조화된 경로의존의 산물인지를 분석하였다. 전국 226개 기초자치단체의 2017~2025년 세부사업별 세출현황에서 관변단체 보조금 이전액을 통계목 수준으로 추출하고, 지원 조례 및 지방의원 경력과 결합한 자치단체-단체유형-연도 패널에 2원 고정효과 모형과 사건연구를 적용하였다. 조례･경력 의원과 지원의 강한 연관은 지역 간 구조적 차이에 집중되었으며, 자치단체-단체유형 고정효과를 통제하면 조례 제정의 시점적 효과는 유의하지 않았다. 지원은 조례 제정에 선행하였고 법정운영비보조를 중심으로 제도화되어 있었다. 이는 형식적 제도인 조례가 실질적 지원과 느슨하게 결합되어, 지원의 원인이라기보다 이미 존재하는 관계를 사후적으로 정당화하는 장치에 가까움을 시사한다. 지원의 투명성을 높이려면 지급 단위의 실제 배분과 지속성을 함께 공시하고 심의할 필요가 있다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374560",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374575": {
+   "id": "kci:ART003374575",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "공간정보 기반 머신러닝을 활용한 지방정부의 미충족의료율 예측과 설명",
+   "authors": [
+    "정도효"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "지역 간 미충족의료율의 차이는 건강불평등을 심화시킬 수 있는 요인으로 지방정부의 지역보건정책에서 중요하게 다뤄지는 과제 중 하나이다. 본 연구는 기초지방자치단체를 중심으로 인접 지역의 특성을 반영한 머신러닝을 활용하여 미충족의료율을 예측하였다. 예측모형은 Random Forest와 XGBoost를 이용하여 구축하였으며 연도별 검증을 통해 예측성능을 평가하였다. 예측 결과는 설명가능한 인공지능 기법을 활용하여 전체 및 지역별 주요 예측요인을 중심으로 해석하였다. 분석 결과 인접 지역의 특성을 함께 반영한 모형은 기존 모형보다 높은 예측성능을 보였다. 인접 지역의 의사 수와 1인가구 비율 등은 미충족의료율 예측에 중요한 요인이었다. 상대적으로 높은 미충족의료율이 예측된 지역 간에도 주요 예측요인의 구성과 기여 정도에 차이가 있었다. 이는 미충족의료 예측에서 개별 지역의 특성뿐 아니라 인접 지역의 특성도 함께 고려할 필요가 있음을 시사한다. 본 연구는 미충족의료율이 높을 것으로 예측되는 지역의 식별과 지역별 예측요인에 대한 설명을 함께 제공함으로써 지방정부의 지역보건의료계획 수립과 근거 기반 정책 의사결정을 지원할 수 있는 분석 틀을 논의한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374575",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374627": {
+   "id": "kci:ART003374627",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "초광역 행정체계 전환에 따른 RISE 체계의협력적 거버넌스 변화 탐색: 지방공무원의 인식을 중심으로",
+   "authors": [
+    "김성령",
+    "하유진",
+    "이경은"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 초광역 행정체계로의 전환 맥락에서 지역혁신중심 대학지원체계(RISE)의 협력적 거버넌스 개선 방향을 모색하는 데 목적이 있다. 이를 위해 RISE 관련 업무를 수행한 9개 지역 지방자치단체 공무원 18명을 대상으로 비대면 개별면담과 동일 지방자치단체 소속 공무원 2~3인이 참여한 대면 소규모 집단면담을 실시하였으며, 수집된 자료에 대해 주제분석을 실시하였다. 분석 결과, 지방공무원들이 경험하거나 예상한 초광역 RISE 추진체계의 주요 쟁점은 첫째, 다층적 의사결정 구조와 권한･책임 조정의 불명확성, 둘째, 정책전환의 불확실성과 집행과정의 부담, 셋째, 성과관리와 지역 집행역량의 연계 부족으로 나타났다. 이러한 결과는 초광역 RISE 체계가 단순한 협력 범위 확대나 조직 신설만으로 안정적으로 작동하기 어렵다는 점을 보여준다. 이에 본 연구는 권역 단위의 조정체계와 사업 단위의 실행체계를 구분하고, 중앙정부와 지방정부 및 주관지역과 참여지역 간 권한과 책임을 명확히 하며, 단계적 정책 전환과 성과관리 수행에 필요한 지역의 인력･재정 기반을 확보할 필요가 있음을 제언하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374627",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374722": {
+   "id": "kci:ART003374722",
+   "topic": "public-admin",
+   "origin": "KCI",
+   "title": "전남･광주 행정통합의 정책변동과 제도화: 정책적 관심, 정책이미지 및 정책결정의 장의 변화를 중심으로",
+   "authors": [
+    "이병현"
+   ],
+   "journal": "지방정부연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 전남･광주 행정통합 의제의 장기적 정책변동과 제도화 과정을 단절적 균형이론의 관점에서 분석하였다. 특히 동일한 행정통합 의제에서 반복적으로 나타난 정책적 관심의 급부상 이후 서로 다른 정책변동 궤적이 어떻게 형성되었는지를 정책적 관심, 정책이미지 및 정책결정의 장을 중심으로 살펴보았다. 이를 위해 2016년 7월부터 2026년 6월까지 BIGKinds 뉴스자료를 정제하여 구축한 4,546건의 기사와 국회, 지방정부의 공식 정책자료를 활용하였다. 정책적 관심은 뉴스기사 빈도의 시계열 분석과 변화점 탐색을 통해 파악하였고, 정책이미지는 NMF 토픽모형의 대표어와 대표문서를 활용하여 해석하였으며, 정책결정의 장은 행정통합과 관련된 실질적인 정책기능 수행 여부를 기준으로 분석하였다. 분석결과, 전남･광주 행정통합에 대한 정책적 관심은 2020년 9월과 2025년 12월 말을 중심으로 두 차례 급부상하였으나 이후의 정책변동 경로는 서로 다르게 나타났다. 제1차 급부상기에는 행정통합의 필요성, 상생, 주민공감대 및 공론화가 중심적인 정책이미지를 형성하였고, 지역 수준의 공식 대응이 이루어진 이후 정책적 관심은 다시 감소하였다. 반면 제2차 급부상기에는 특별법, 권한이양, 재정지원, 행정구조 및 실행가능성을 중심으로 행정통합이 구체적인 제도설계의 문제로 재구성되었다. 그리고, 정책결정의 장이 중앙정부와 국회 등 국가 수준으로 확장되고 공식적인 입법･조정 과정이 진행되었다. 이러한 결과는 정책적 관심의 급격한 증가 자체가 곧 정책적 단절이나 제도화를 의미하지 않으며, 동일한 정책의제라도 정책이미지와 권위 있는 정책결정의 장, 제도적 대응이 어떻게 결합되는가에 따라 후속 정책변동의 궤적이 달라질 수 있음을 보여준다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374722",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003371999": {
+   "id": "kci:ART003371999",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "부모와의 관계와 유배우 여성의 출산의향",
+   "authors": [
+    "계봉오"
+   ],
+   "journal": "조사연구",
+   "date": "2026-08",
+   "abstract": "이 연구는 2021년 <가족과 출산> 조사 자료를 활용하여 유배우 여성의 비동거 부모와의 관계가 추가 출산의향과 어떻게 연결되는지를 분석한다. 가족형성과 출산은 부부의 개별적 의사결정을넘어 부모 세대와의 자원‧ 돌봄‧ 정서의 교환 속에서 이루어진다. 이러한 문제의식에서 이 연구는 부모와의 관계를 부모의 생존과 경제적 상황, 연락 빈도, 비경제적‧ 경제적 도움의 교환으로 나누어 측정하고, 부모와 부부의 사회경제적 특성에 따른 관계의 차이 및 부모와의 관계에 따른 출산 의향의 차이를 로지스틱 회귀분석을 통해 검토한다. 주요 결과는 다음과 같다. 첫째, 부모와의 관계는 부모와 부부의 사회인구학적 특성에 따라 다르게 나타나는데, 사회경제적 지위가 높을수록 세대 간 연락과 비경제적‧ 경제적 교환이 활발했다. 둘째, 유배우 여성이 자신의 부모와 맺는 관계는 남편이 자신의 부모와 맺는 관계보다 대체로 강했으나, 정기적인 경제적 지원은 시가에 제공되는 비율이 더 높았다. 이는 노부모 지원에 대한 규범이 성별, 관계, 지원의 종류에 따라 이질적임을 보여주는 선행연구(Kye 2023)와 부합한다. 동시에 부부가 각자의 부모와 맺는 관계는 서로 강하게 연결되어 있어, 세대 간 관계가 젠더화되면서도 부부 단위에서 상호 조정됨을 시사한다. 셋째, 다른 변수를 통제한 후에도 부모와의 잦은 연락과 부모로부터의 비경제적 도움 수혜는 높은 추가 출산의향으로 연결되는 반면, 부부의 사회경제적 특성과 부모와의 경제적 교환에는 유의미한 관계가 나타나지 않았다. 이러한 결과는 출산 결정에서 경제적 자원 못지않게 정서적 유대와 비경제적 돌봄 자원이 중요함을 시사한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003371999",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003372034": {
+   "id": "kci:ART003372034",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "RI-CLPM을 적용한 고등학생 자아존중감과 학업무기력의 종단적 상호관계: 성별 다집단 분석 및 부모 양육태도의 영향",
+   "authors": [
+    "이명성",
+    "박성민",
+    "홍세희"
+   ],
+   "journal": "조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 고등학생 자아존중감과 학업무기력의 종단적 상호 관계가 어떠한지 개인 내 변화와 개인 간 차이 수준에서 분석하고, 두 변수 관계에 성별 간 차이가 있는지, 그리고 부모의 양육태도가 유의한 영향을 미치는지 탐색하였다. 이를 위해 한국 아동‧ 청소년 패널조사 2018의 4차년도(고1)에서 6차년도(고3)까지 3개년 자료에 대하여 무선절편 교차지연 패널모형(RI-CLPM)을 적용하여 분석하였다. 분석의 결과 첫째, 개인 내 수준에서 자아존중감과 학업무기력의 자기회귀효과는 모든 경로에서 유의하였다. 교차지연 회귀효과는 고2 학업무기력이 고3 자아존중감에 미치는효과가 부적으로 유의하였으며, 나머지 경로는 유의하지 않았다. 둘째, 개인 내 수준에서 자아존중감과 학업무기력의 종단적 관계에 대한 성별 간 차이는 유의하지 않았다. 셋째, 개인 간 수준에서 자아존중감과 학업무기력의 시간 불변적 특질에 대해 부모의 긍정적 양육태도와 부정적 양육태도는 유의한 영향을 미쳤다. 이러한 연구결과를 바탕으로 고등학교 시기 학업무기력 해소와 자아존중감 증진에 관한 실천적인 함의를 제시하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372034",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003372045": {
+   "id": "kci:ART003372045",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "이산 득표분포에서 동시 일치 확률: 6.3 지방선거 사전투표 자료를 중심으로",
+   "authors": [
+    "민인식"
+   ],
+   "journal": "조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 2026년 6.3 지방선거 사전투표 개표에서 논란이 된 읍‧ 면‧ 동 간 득표수 일치 현상을생일문제(birthday problem)의 일반화로 논의하고 사건 발생 가능성을 정량화한다. 서로 다른 두읍‧ 면‧ 동에서 민주당과 국민의힘 후보 득표수가 동시에 일치하는 사건을 이차원 이산 득표분포의 일치확률과 기대 일치수로 정의하고, 경험적 주변분포 기반 코퓰러 시뮬레이션으로 관측 일치수의 통계적 정상성을 판정한다. 인천광역시장 선거(N=158)와 전남광주통합특별시장 선거(N=393)의 관내사전투표 자료에 적용한 결과, 단독 후보의 득표 일치는 두 선거 모두 통계적으로기대되는 수준으로 나타났다. 두 후보 동시 일치의 관측값(인천 1쌍, 전남광주 5쌍)도 실제 득표분포를 보존한 모의선거 분포의 중심부에 위치하였다(모의 평균 각각 2.4쌍, 5.2쌍). 또한 특정정치권이 제기한 '5억 9천만분의 1'이라는 확률 진술은 득표의 유효 지지집합을 고려하지 않은 균등·독립 가정과 비교쌍의 다중성 누락이라는 두 오류로 인해 실제보다 과장되었음을 보인다. 득표수 일치는 부정선거의 징후가 아니라 이산 득표분포에서 통계적으로 기대되는 우연일치라고 판단할 수 있다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372045",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003372011": {
+   "id": "kci:ART003372011",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "냉정과 열정 사이? 온라인 미디어가 정당에 대한 정서적 양극화에 미치는 영향에 대한 연구",
+   "authors": [
+    "공지현",
+    "서찬석"
+   ],
+   "journal": "조사연구",
+   "date": "2026-08",
+   "abstract": "한국 사회의 정치적 양극화는 2024년 12월 윤석열 대통령의 비상계엄을 거치면서 한층 가속화되었다. 특히 양극화가 심화되는 과정에서 유튜브, 소셜 미디어, 온라인 커뮤니티 등 온라인 미디어의 역할이 크다고 보고되고 있다. 본 연구는 계엄과 탄핵 정국을 거쳐 2025년 5월에 치러진 21대대선을 전후하여 온라인 미디어가 정치적 양극화의 심화에 미친 영향을 조명한다. 특히 온라인매체 이용이 개별 정치인에 대한 호불호를 넘어 주요 정당에 대한 대중들의 정서적 양극화의 심화에 미치는 영향력을 분석했다. 대선 직전과 직후에 시행된 유권자 패널조사 자료에 대한 분수로짓 분석 결과, 온라인 미디어, 특히 대선 전에 유튜브 및 팟캐스트를 통해 관련 정보를 습득하는 것이 대선 직후 주요 정당에 대한 강한 감정적 호불호로 이어지는 것을 확인할 수 있었으며, 양대 정당인 민주당과 국민의힘 사이의 양극화된 감정 역시 유튜브를 비롯한 온라인 미디어의 이용과 관련성이 크다는 것을 확인할 수 있었다. 대선 직후에 나타난 정서적 양극화는 대선 직전의양극화를 통제한 이후에도 뚜렷이 나타났다. 본 연구는 정치에 대한 대중들의 정서적 양극화를이해하는 데 중요한 단초를 제공한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372011",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003372023": {
+   "id": "kci:ART003372023",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "고등학생의 진로성숙도에 대한 종단적 변화와 영향요인 분석",
+   "authors": [
+    "이민혜",
+    "정혜원"
+   ],
+   "journal": "조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 고등학생의 진로성숙도 변화양상을 살펴보고, 이에 영향을 미치는 개인, 가정, 학교 요인을 탐색하는 데 그 목적이 있다. 이를 위해 한국교육개발원에서 조사한 한국교육종단연구2013 (Korea Education Longitudinal Study 2013: KELS 2013)의 초등학교 5학년 패널의 자료 중 고등학교 1학년부터 고등학교 3학년까지 3년간 모두 응답한 4,436명의 자료를 활용하였으며, 다층성장모형을 적용하여 분석하였다. 주요 연구결과는 다음과 같다. 고등학생의 진로성숙도는 시간의 흐름에 따라 전반적으로 감소하는 양상을 보였다. 진로성숙도의 초기치에는 개인요인의 성별, 아르바이트 경험, 자아개념이 유의한 정적 영향을 미쳤으며, 가정요인의 부모-자녀 상호작용, 부모의 학업적‧ 정서적 지원, 부모애착이 유의한 정적 영향을 미치는 것으로 나타났다. 또한 학교요인의 수업방식, 교사특성, 교사 및 교우 관계, 진로프로그램 경험 역시 진로성숙도 초기치에 유의한 정적 영향을 미치는 것으로 확인되었다. 이러한 결과는 고등학생의 진로성숙도 변화에 영향을미치는 요인을 종단적으로 확인하였다는 점에서 의의가 있으며, 진로성숙도 향상을 위한 교육적‧ 실천적 시사점을 제공하였다는 점에서 의미가 있다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372023",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003372027": {
+   "id": "kci:ART003372027",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "지방자치단체 통합돌봄 조례의 텍스트 유사도 분석: 조례 복제 현상의 실태와 정책 확산 패턴",
+   "authors": [
+    "오세훈",
+    "신창환"
+   ],
+   "journal": "조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 전국 85개 지방자치단체가 제정한 통합돌봄 관련 조례 전문을 대상으로, 텍스트 기반다차원 유사도 분석과 계층적 군집 분석을 적용하여 조례 복제 현상의 실태와 정책 확산 패턴을경험적으로 규명하였다. 분석방법으로는 단어 기반 TF-IDF 코사인 유사도(내용 유사성), Jaccard 유사도(조문 구성의 구조적 유사성), LCS(Longest Common Subsequence) 유사도(조문 배열순서의 유사성)를 결합하여 조례 유사성의 내용‧ 구조‧ 표현 세 차원을 입체적으로 측정하였다. 분석 결과, 코사인 유사도 상위 10개 조례 쌍은 0.918~0.941의 범위를 보였으며, Jaccard 유사도에서는 서울특별시 관악구와 금천구 조례가 완전 일치(1.000)를 기록하였다. 계층적 군집 분석에서는 서울특별시 자치구 블록이 세 가지 유사도 지표 모두에서 강하게 군집화되었으며, 지리적으로 원거리에 위치한 지자체들 간에도 높은 유사도 쌍이 다수 관찰되어 중앙정부 지침 또는 표준 조례 템플릿을 매개로 한 정책 확산 메커니즘의 작동 가능성이 확인되었다. 또한 2023년 이후공포된 조례들에서 과거 조례와의 최대 유사도가 뚜렷하게 증가하는 시계열 패턴이 관찰되어, 통합돌봄 조례의 확산이 Rogers(2003)의 ‘재발명 없는 채택’ , 즉 조례 복제(ordinance replication) 메커니즘에 기반할 가능성을 시사하였다. 이러한 결과는 DiMaggio & Powell(1983)의 제도적 동형화 이론 및 Dolowitz & Marsh(2000)의 정책 이전 스펙트럼과 정합하며, 지방자치단체의 실질적 자치 입법 역량 강화와 표준 조례 모델 제공 방식의 재설계 필요성을 정책적으로 시사한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372027",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003372020": {
+   "id": "kci:ART003372020",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "인공지능 기술에 대한 태도와 제로섬 마인드셋",
+   "authors": [
+    "구혜란"
+   ],
+   "journal": "조사연구",
+   "date": "2026-08",
+   "abstract": "이 글의 목적은 AI 기술에 대한 일반인의 태도의 구조적 특징을 파악하고 제로섬 마인드셋과의관계를 탐색적으로 규명하는 것이다. AI 기술 발전에 대한 태도를 분석한 기존 연구는 태도의 현상을 기술하고 기술수용성에서의 기술적, 기능적 요소에 초점이 맞추어져 있어 태도를 형성하는심리적 신념 체계에 대한 관심은 상대적으로 적었다. 이 연구는 한 집단의 이득은 다른 집단의 손실을 초래한다는 일반화된 신념으로서의 제로섬 마인드셋이 AI 기술에 대한 태도를 구조화하는심리적 기제로 작동할 수 있다는 가설을 탐색한다. 분석에 사용된 자료는 2025년에 한국학중앙연구원이 수집한 ｢한국인의 사회문화적 의식과 실천에 대한 조사｣이며, 태도 시스템의 연결 구조와 제로섬 마인드셋과의 관계를 파악하기 위해 응답반응모델과 네트워크 분석을 결합한 응답반응 네트워크(Response Item Network, ResIN) 모델을 이용하였다. 분석 결과 AI 기술에 대한 태도는 찬성과 반대의 이분화된 구조라기보다는 우호적, 미온적, 비판적, 배타적 태도 등 네 개의 군집으로 분화되는 구조를 보였다. 또한 응답자의 절반 가까이가 비판적 태도 군집에 속하여 AI 기술의 무조건적 수용이나 반대보다 적절한 정책적 관리와 제도적보완을 요구하는 태도가 지배적으로 나타났다. 나아가 우호적 군집 내 AI 산업에 대한 집중 투자를 지지하는 응답과 비판적 군집 내 AI의 파괴적 효과에 대응하는 집단행동을 지지하는 응답이두 태도 군집을 연결하는 핵심 고리로 작동하는 등 태도 공간에서의 구조는 보다 복잡한 양상을띠었다. 제로섬 마인드셋과의 관계는 노드 수준과 개인 수준에서 AI에 대한 태도와 유의미한 정적 관계를 보였으며, 제로섬 마인드셋이 강할수록 AI 기술에 비판적인 응답 범주를 선택하는 경향이 일관되게 나타났다. 이러한 결과를 토대로 AI 기술 확산 정책과 위험 소통 전략 설계에 있어태도의 복잡한 구조와 심리적 요인을 고려할 필요성을 제기하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372020",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374262": {
+   "id": "kci:ART003374262",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "공공후견인의 활동 경험에 대한 질적 메타요약",
+   "authors": [
+    "이병주",
+    "이지하"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 공공후견인의 활동 경험을 다룬 국내 질적 연구 15편을 대상으로 질적 메타요약을 수행하여, 공공후견 실천에서 반복적으로 나타나는 경험과 제도적 함의를 확인하고자 하였다. Sandelowski와 Barroso(2006)의 절차에 따라 결과 진술을 추출⋅통합하고 빈도효과 크기를 산출하였다. 분석 결과, 공공후견인의 활동 경험은 권리 존중과 보호 사이의 관계적 긴장, 제도적 환경 속 조정과 협력적 연대, 역할 모호성과 실천가로서의 성장, 지속 가능한 공공후견을 위한 제도 개선 요구의 네 범주로 통합되었다. 공공후견인은 피후견인의 자기결정권과 최선의 이익 사이에서 지속적인 윤리적 갈등을 경험하였으며, 다양한 기관 및 관계망 속에서 역할을 조정하고 협력하는 실천을 수행하고 있었다. 또한 공공후견인의 부담과 소진은 개인적 취약성보다 제도적⋅구조적 조건과 밀접하게 연결되어 있는 것으로 나타났다. 본 연구는 대상군별로 분절되어 온 공공후견인의 경험을 통합하고, 공공후견 실천에서 반복적으로 나타나는 경험과 지원 요구를 제시하였다는 점에서 의의를 지닌다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374262",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374497": {
+   "id": "kci:ART003374497",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "Perceived Social Isolation and Subjective Quality of Life: The Moderating Role of Participation in the Senior Employment and Social Activity Support Program (SESAP)",
+   "authors": [
+    "정혜주",
+    "김민선",
+    "박희진"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "This study examined whether participation in Korea's Senior Employment and Social Activity Support Program (SESAP) moderates the association between perceived social isolation and subjective quality of life (QOL) among older adults. As social isolation emerges as a policy concern in super-aged societies, whether large-scale employment programs can serve socially isolated older adults remains an open question. Data from the first wave of the Korean Seniors' Work and Life (KSWL) panel, comprising 6,000 adults aged 60 74, were analyzed using weighted hierarchical multiple regression, followed by simple-slope and design-based sensitivity analyses, controlling for demographic characteristics, subjective health, household financial satisfaction, and general social participation. Perceived social isolation was negatively associated with subjective QOL. SESAP participation moderated this association: the negative association was approximately 32% weaker among participants (B = −.192) than among nonparticipants (B = −.282), and the positive association between SESAP participation and subjective QOL was evident primarily among older adults with average or high levels of perceived social isolation. Although modest in magnitude, the buffering association was robust to a design-based sensitivity analysis incorporating the stratified sampling design. These findings suggest that SESAP may function not only as an employment intervention but also as a protective social resource, and that program evaluation should consider its capacity to protect vulnerable groups rather than average effects alone. Incorporating perceived social isolation into participant assessment and strengthening linkages with community-based support services may enhance the program's potential protective role for socially isolated older adults.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374497",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374362": {
+   "id": "kci:ART003374362",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "사회복지사의 감정노동 및 직장 내 괴롭힘과 정신건강 및 프리젠티즘의 관계",
+   "authors": [
+    "최권호",
+    "선우숙",
+    "공선영",
+    "황은정",
+    "이정훈",
+    "김유경",
+    "유진선"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "사회복지사는 서비스 이용자의 어려움에 지속적으로 관여해야 하는 높은 감정노동 맥락 안에서 일하는 동시에, 위계적인 조직구조와 소규모 시설 중심의 노동환경으로 인해 직장 내 괴롭힘의 위험이 높은 직군에 해당한다. 그간 사회복지사에 대한 연구는 소진이나 이직의도 등과 같은 인적자원 관리 차원에서 주로 논의되었고, 이들의 건강권 관점의 논의로서 정신건강과 아파도 출근하는 프리젠티즘에 주목한 연구는 적었다. 이에 본 연구는 서울지역 사회복지사 감정노동과 직장 내 괴롭힘이 정신건강과 프리젠티즘에 미치는 영향을 분석하고, 이를 토대로 사회복지사의 건강권 증진을 위한 함의를 도출하는 것을 목적으로 한다. 이를 위해 2024년 6월 25일부터 7월 4일까지 서울시 사회복지사협회의 협조를 통해 온라인 설문조사를 실시하였고, 631명의 응답자료를 분석하였다. 분석 결과, 직장 내 괴롭힘 피해율은 엄격한 기준 적용 시 9.8%, 관대한 기준 적용 시 18.1%였고, 우울 위험군(PHQ-9≥10)은 18.4%, 프리젠티즘은 연 평균 4.52일이었다. 인구사회적 변인을 통제한 상태에서, 회귀분석 결과 감정노동 중 감정규제, 직장 내 괴롭힘 중에서는 개인관련 괴롭힘이 우울과 프리젠티즘을 일관되게 높이는 공통 요인으로 확인되었고, 감정노동 보호체계는 우울을낮추는 보호요인으로 확인되었다. 이를 토대로 보수 중심의 처우개선을 넘어 사회복지사의 노동권과 건강권 신장을 위한 종합적 대책 마련, 산업안전보건법과 근로기준법에 근거한 예방 및 대응체계 강화 등을 제언하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374362",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374387": {
+   "id": "kci:ART003374387",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "상호부조의 보험 기능 분석: 경조사비를 중심으로",
+   "authors": [
+    "연윤영",
+    "한동우"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 한국의 대표적 상호부조 관행인 경조사비가 비공식 보험으로 기능하는지, 그리고 그 보험적 환류 효과가 가구 간에 어떻게 분배되는지를 분석했다. 경조사비는 결혼⋅장례 등 생애사건에서 발생하는 경제적 부담에 대응하는 비공식 위험분산 기제로 기능할 수 있으나, 이러한 보호 효과가 모든 가구에 균등하게 작동하는지는 충분히 검토되지 않았다. 이에 본 연구는 재정패널 1~17차년도 자료를 활용하여 극단값 민감도 분석과 분위회귀분석을 실시했다. 분석 결과, 평균 수준의 OLS에서는 완전보험 가설이 기각되지 않았으나, 극단값 제거 이후에는 회귀계수가 유의하게 감소하며 완전보험 가설이 기각되었다. 또한 분위회귀 결과에서는 경조사 수입 하위 분위 가구일수록 경조사비 지출이 충분한 환류로 연결되지 못하지만, 상위 분위에서는 높은 환류 효과가 나타났다. 이는 경조사비의 보험적 환류 구조가 모든 가구에 균등하게 분배되지 않으며, 사회경제적 조건에 따라 차별적으로 나타날 가능성을 시사한다. 본 연구는 비공식 보험을 평균효과만으로 평가할 경우 분포 내부의 불균등성을 간과할 수 있음을 시사하며, 경조사비의 상호부조 기능이 일부 취약 가구에 대해서는 충분한 보호 효과와 연관되지 않을 가능성을 제시한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374387",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374284": {
+   "id": "kci:ART003374284",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "비동거 자녀와의 교류가 중장년층의 우울에 미치는 영향: 자아존중감의 매개효과와 주관적 건강상태의 조절효과",
+   "authors": [
+    "이은진",
+    "염동문"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 중장년층을 대상으로 비동거 자녀와의 교류가 우울에 미치는 영향을 분석하고, 이 과정에서 자아존중감의 매개효과와 주관적 건강상태의 조절효과를 검증하였다. 연구자료는 고령화고용패널(KLoEE) 3차 기본조사(2024년)를 활용하였으며, SPSS PROCESS macro의 Model 4와 Model 14를 적용하여 분석을 수행하였다. 통계분석에는 SPSS 25.0을 사용하였고, 조절된 매개효과의 시각화는 Mplus 8.2를 활용하였다. 주요 연구 결과는 다음과 같다. 첫째, 인구사회학적 특성을 통제한 이후 비동거 자녀와의 교류는 중장년층의 우울과 통계적으로 유의한 부적 관련성을 보였으나, 그 효과의 절대적 크기는 작았다. 둘째, 자아존중감을 통한 간접효과는 통계적으로 유의하였으며, 자아존중감을 모형에 포함한 이후 비동거 자녀 교류의 직접효과는 통계적으로 유의하지 않았다. 셋째, 주관적 건강상태는 자아존중감과 우울 간의 관계를 유의하게 조절하였으며, 이에 따라 자아존중감을 통한 조건부 간접효과도 주관적 건강상태 수준에 따라 달라졌다. 구체적으로 자아존중감과 우울 간의 부적 관련성은 주관적 건강상태가 취약한 집단에서 상대적으로 더 강하게 나타났다. 이러한 결과를 바탕으로 중장년층의 정신건강 증진을 위해 관계적 자원 및 심리적 요인과 함께 신체적 건강을 통합적으로 고려한 실천적⋅정책적 함의를 논의하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374284",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374414": {
+   "id": "kci:ART003374414",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "청년 수급자의 자활사업 재참여 경험에 관한 연구: 청년자립도전사업단 참여자를 중심으로",
+   "authors": [
+    "강금안",
+    "강준혁"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "본 연구의 목적은 청년 수급자의 목소리를 통해 자활사업 종료 이후 재참여 과정과 이유를 파악하는 데 있다. 이를 위해 자활사업에 재참여한 청년 수급자 4명을 사례자로 선정하고 1:1 심층 면담을 통해 자료를 수집했다. 수집된 자료는 Creswell과 Poth(2025)가 제안한 질적 사례연구 방법을 활용하여 분석하였다. 분석 결과 사례자들은 사업단과의 상호 간 목적 불일치로 자활사업 참여를 중단했으며 종료 이후 일반노동시장의 취⋅창업을 시도했으나 높은 현실의 벽으로 좌절을 경험하였다. 사례자들은 생계유지와 미래 준비의 양립, 안전망 없이 홀로서기의 두려움, 사회적 관계에 대한 욕구로 인해 자활사업에 재참여하게 되었다. 이와 같은 연구 결과를 바탕으로 연구자들은 청년 수급자의 자활사업 재참여 원인을 해소하고 이들이 지속적이고 안정적으로 자립할 수 있는 정책지원 방안을 제시하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374414",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374446": {
+   "id": "kci:ART003374446",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "Is more welfare always better? Employee welfare satisfaction and job stress among workers in SMEs: The moderating effect  of the additional use of similar public cultural and leisure services",
+   "authors": [
+    "조영림",
+    "오승진",
+    "고범준",
+    "유경진휴먼스페이스)"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "The Korean government provides various cultural and leisure welfare services for workers in SMEs who receive relatively limited employer-provided benefits, yet little is known about whether the quantitative expansion of similar services consistently enhances worker-level outcomes. This study examined the association between employee welfare satisfaction and job stress among workers in SMEs and tested whether this relationship differed according to additional use of public cultural and leisure services similar to employer-provided benefits. Data from the Worker Welfare Card Introduction Study (n = 379) were analyzed using SPSS 29.0 and PROCESS Macro v4.2 to assess moderating effects. Higher employee welfare satisfaction was associated with lower job stress, but this negative relationship was attenuated among workers who additionally used similar public services. These findings shift the focus of SME welfare policy from fiscal efficiency to worker-perceived effectiveness and highlight the need to move beyond quantitative expansion toward coordination, integration, and differentiation among similar welfare services.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374446",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374518": {
+   "id": "kci:ART003374518",
+   "topic": "methodology",
+   "origin": "KCI",
+   "title": "The reciprocal relationship between perceived discrimination and self-esteem among non-disabled siblings of individuals with disabilities: Application of an autoregressive cross-lagged model",
+   "authors": [
+    "나유재",
+    "한은비",
+    "허현"
+   ],
+   "journal": "한국사회복지조사연구",
+   "date": "2026-08",
+   "abstract": "This study aimed to examine the reciprocal longitudinal relationship between perceived discrimination and self-esteem among non-disabled siblings of individuals with disabilities. Using household member data from Waves 4 to 6 (2021 2023) of the Disability and Life Dynamics Panel conducted by the Korea Disabled People’s Development Institute, an autoregressive cross-lagged model was applied to a sample of 282 non-disabled siblings. The results indicated that both perceived discrimination and self-esteem demonstrated statistically significant autoregressive effects across time points. Cross-lagged analysis revealed that higher perceived discrimination at a prior time point predicted lower self-esteem at a later time point, while lower self-esteem at a prior time point predicted higher perceived discrimination at a later time point. This study longitudinally examined the reciprocal relationship between perceived discrimination and self-esteem among non-disabled siblings. Based on these findings, the study offers policy and practice implications to support non-disabled siblings.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374518",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374366": {
+   "id": "kci:ART003374366",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "기계로 읽는 ‘미래파’ 논쟁-생성형 AI를 활용한 코퍼스 기반 담화분석",
+   "authors": [
+    "김가연",
+    "이병주"
+   ],
+   "journal": "인공지능인문학연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 2000년대 한국 시단의 ‘미래파’ 논쟁을 대상으로 생성형 AI와의 협업을 통한 반자동 TEI 인코딩과 코퍼스 기반 담화분석(CADS)을 결합하여 하나의 문학 논쟁을 통시적으로 재구성한다. 이를 위해 생성형 AI(LLM)는 개체 식별과 의미 판단만 수행하고 문서 구조의 생성⋅검증은 결정론적 코드가 통제하는 ‘추출 후 조립 아키텍처’를 제안하고, 코퍼스 외부의 정답 자료와 대조하여 그 정확도를 예비적으로 점검하였다. 이 기반 위에서 2005∼2011년 비평 61편(내용어 약 15만 6천 토큰)을 세 시기로 나누어 공기어⋅키워드성⋅명명 분산⋅담화 운율⋅진영별 대조를 측정하고 각 수치를 실제 용례의 정독으로 검증하였다. 분석 결과 ‘미래파’는 시풍을 가리키는 술어가 아니라 명명⋅논쟁의 메타담화어로 기능하였고, 담론의 무게중심은 ‘근대⋅서정’에서 ‘시와 정치’로 이동하였으며, ‘미래파’라는 말 자체가 옹호가 아닌 비판 진영의 어휘였음이 드러났다. 본 연구의 기여는 우선 이러한 해석에 있으며, 이를 가능하게 한 재현 가능한 구축 절차의 제안이 뒤따른다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374366",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374367": {
+   "id": "kci:ART003374367",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "딥러닝 기반 감성 분석을 통한 영화 <미나리 >의 디아스포라 정서 구조 분석",
+   "authors": [
+    "백승주"
+   ],
+   "journal": "인공지능인문학연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 영화 <미나리>의 한국어 발화 300개를 코퍼스로 구축하고 KcELECTRA 기반 KOTE 모델과 24개 감정 범주 한국어 감정 어휘 사전을 병행 적용하여 이 영화의 디아스포라 정서 구조를 인물별⋅세대별로 검토하였다. 분석 결과 첫째, 동일한 갈등 상황에서도 제이콥의 분노, 모니카의 실망과 불안, 순자의 돌봄, 자녀 세대의 곤혹 등 인물별로 구별되는 감정 양상이 확인되었다. 둘째, 한국어로 감정을 표출하는 정도는 조부모 세대에서 자녀 세대로 갈수록 약화되었으며 독립적으로 산출된 두 지표가 동일한 세대 간 경향을 가리켰다. 셋째, 사전 기반 분석이 발화의 80% 이상에서 감정 표지를 확인하지 못한 반면 딥러닝 기반 분석은 그 침묵 구간의 대부분에서 뚜렷한 정서를 예측하였는데, 이는 <미나리>의 감정이 명시적 어휘가 아니라 어조와 맥락을 통해 전달됨을 시사한다. 본 연구는 계산적 도구의 산출값을 장면 맥락과 결합하여 해석하는 컴퓨터 보조 정밀 독해의 관점에서 감성 분석과 인문학적 해석이 결합하는 하나의 작업 모형을 제시하였다는 점에서 의의가 있다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374367",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374371": {
+   "id": "kci:ART003374371",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "What Agentic AI Products Must Avoid-Zombie Tasks, Fake Work, and the Collapse of Trust",
+   "authors": [
+    "안광섭"
+   ],
+   "journal": "인공지능인문학연구",
+   "date": "2026-08",
+   "abstract": "Collaborative software has traditionally been thought to require single-player value: one user must benefit before others arrive. This study argues that in agentic artificial intelligence (AI) products, the thesis is necessary but insufficient. Because the user delegates work to a non-human counterpart and must decide what can be entrusted to it, the individual-use phase is a relational loop rather than an isolated utility loop. The study proposes the single-player-but-not-solitary loop and specifies credible presence: the quality by which an agent’s activity can be verified as work rather than merely appearing to be so. Drawing on Luhmann’s account of trust as complexity reduction and distinguishing trust from calibrated reliance, it defines the zombie task, a delegated task whose resource consumption outlives the intention that justified it, and analyzes its two subtypes and three strata of loss. Four design principles emerge from this analysis: responsible stopping, transparent state-sharing, ownable artifacts, and auditability.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374371",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374370": {
+   "id": "kci:ART003374370",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "테이 사건의 이질위상학적 재독-자크 블라스⋅제미마 와이언의 <나는 여기에 배우러 왔어:))))))>를 중심으로",
+   "authors": [
+    "서지수"
+   ],
+   "journal": "인공지능인문학연구",
+   "date": "2026-08",
+   "abstract": "본고는 자크 블라스와 제미마 와이먼의 <나는 여기에 배우러 왔어 I'm Here to Learn So :))))))>(2017)를 대상으로 마이크로소프트의 인공지능 챗봇 ‘테이(Tay)’ 사건을 신극우의 문화정치 전략이라는 맥락에서 분석함으로써, 인공지능의 혐오 발언을 둘러싼 기존의 책임 귀속 중심 논의를 기술과 문화, 정치가 교차하는 관계적 구성의 문제로 전환하고자 한다. 기존의 테이 관련 연구는 테이의 혐오 발언에 대한 책임을 인공지능에 귀속할 것인지, 인간과 기계의 관계망으로 확장할 것인지, 혹은 개발 기업의 책임으로 볼 것인지에 따라 논의를 전개해왔으나, 이러한 접근은 테이의 발화를 특정한 정치적 방향으로 이끈 신극우적 개입의 경로와 인터넷의 밈과 놀이 문화가 정치적 자원으로 전유되는 과정을 충분히 설명하지 못한다. 이에 본고는 AI 어셈블리지 개념을 경유하여 인간 행위자와 기술 시스템, 플랫폼, 밈과 놀이 문화 등 이질적인 요소들이 결합하고 서로의 행위 가능성을 변형시키는 과정 속에서 신극우의 문화정치적 전략이 어떻게 작동하는지를 살펴보고, 이를 통해 테이 사건을 신극우의 정치적 목적에 맞게 전유된 문화정치적 효과로 재해석한다. 나아가 블라스와 와이먼의 아카이브적 실천을 통해, 문화정치의 전략과 기술적 조건이 상호침투하며 테이라는 정치적 인공물을 구성하는 과정을 드러내고 있음을 논증한다. 이를 통해 본고는 테이 사건을 2016년에 종결된 일회적 기술 사건으로 한정하지 않고, 인간 행위자와 기술적 시스템, 플랫폼과 대중문화가 서로를 매개하고 변형하는 과정을 보여주는 역사적 이미지로 바라봄으로써, 기술 환경에서의 정치적 개입과 동시대 문화적 조건을 사유하기 위한 방법론을 제시한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374370",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374369": {
+   "id": "kci:ART003374369",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "생성형 AI 창작물의 설명 가능성-XAI와 미디어고고학적 비평 방법론의 교차",
+   "authors": [
+    "박종현"
+   ],
+   "journal": "인공지능인문학연구",
+   "date": "2026-08",
+   "abstract": "본 연구는 생성형 AI 창작물의 설명 가능성을 기술적 XAI에 한정하지 않고 미디어고고학적 비평의 관점에서 재구성한다. 생성형 AI 창작물은 데이터셋, 모델, 입력 조건, 플랫폼 인터페이스, 아카이브, 인간의 선택과 큐레이션이 결합한 블랙박스적 산물이므로 모델 내부의 수학적 투명성만으로 충분히 설명되기 어렵다. 이에 본 연구는 XAI의 설명 요구를 비평적으로 전유한 ‘미디어고고학적 XAI’를 제안하고, 에른스트의 작동성, 키틀러의 매체 조건, 춘의 인터페이스 논의를 연산적⋅매체적⋅인터페이스적 설명 가능성의 세 층위로 재구성한다. 이를 바탕으로 생성 조건, 작동성, 아카이브 계보, 인터페이스, 비평적 설명으로 구성된 ‘생성형 AI 창작물의 비평적 설명을 위한 5단계 분석 틀’을 제안한다. 또한 작품 유형별 적용 범위와 생성 기록 수집, 복수 비평가의 독립 분석, 범주 비교와 수정으로 이어지는 후속 검증 절차를 제시한다. 본 연구는 이 분석 틀을 완결된 보편 방법론이 아니라 후속 사례연구를 조직하기 위한 이론적 비평 틀로 규정한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374369",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
+  },
+  "kci:ART003374368": {
+   "id": "kci:ART003374368",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "생성형 AI의 기술적 우발성과 인간의 창의적 개입-프롬프트 노동 사례를 중심으로",
+   "authors": [
+    "황남웅"
+   ],
+   "journal": "인공지능인문학연구",
+   "date": "2026-08",
+   "abstract": "생성형 AI의 급격한 확산은 예술 창작의 지형을 재편하며 창의성의 본질에 대한 새로운 질문을 제기하고 있다. 이와 관련해 본 연구는 AI가 산출하는 ‘기술적 우발성’에 주목한다. 이는 그 자체로 예술적 가치를 담보하는 것이 아니라, 인간 창작자의 감각적 안목에 기반한 반복적 개입을 통해 창의적 결과물로 전환된다. 이러한 인식 위에서 본고는 기존의 공학적 접근과 차별화되는 ‘프롬프트 노동(prompt labor)’의 개념을 정립한다. 개념이 과잉 포괄되는 것을 방지하고자, 그 정의를 알고리즘적 제약과 마찰하는 ‘협상’과 무수한 산출물 중 가치를 가려내는 ‘비평적 선별’의 실천으로 압축하였다. 본 연구는 이 재귀적 실천을 소외되지 않은 창조적 노동의 층위에서 탐색한다. 분석의 투명성을 확보하고자 ‘MNT2B 프로젝트’를 사례로 선정하였다. 이는 15개월간 5,000여 장의 원천 생성 이미지 모집단에서 330개의 최종 발표작을 도출해 낸 프로젝트이다. 연구 방법으로는 ‘프롬프트-산출 이미지-성찰 노트’의 삼항쌍을 분석 단위로 삼아, 보존된 창작 기록에 대한 주제 분석에 기반한 자문화기술지적 연구를 수행하였다. 음악 데이터를 시각 이미지로 번역하는 창작 과정을 심층 분석한 결과, 디퓨전 모델의 노이즈, 확률적 샘플링, 추론 기능 등 AI의 기술적 특성은 인간의 해석적⋅큐레이션⋅교육적⋅맥락화⋅협상적 노동과 유기적으로 결합되었다. 그리고 이 결합을 통해 ‘협업적 창의성’이 구성됨을 확인하였다. 이 과정에서 AI는 단순한 도구를 넘어, 인간의 의도를 확장하고 새로운 가능성을 모색하는 협력적 파트너로서 기능한다. 한편 인간 창작자는 AI 시스템의 생성 루프 안으로 깊숙이 개입하여 의미의 방향을 조율하고 최종적으로 결정하는 주체적 역할을 수행한다. 본 연구는 AI 창작을 자동화된 결과가 아닌 능동적인 과정과 ‘노동’의 산물로 재정의함으로써, 기술 결정론을 극복하고 인간 주체성의 새로운 위치를 성찰한다. 다만 단일 사례 연구가 지닌 일반화의 한계는 인정한다. 그럼에도 본 연구의 프레임워크가 AI 기반의 텍스트나 음악 생성 등 타 영역에 적용될 수 있다는 구조적 가설을 후속 연구 과제로 제안함으로써, 미래 AI 창작에 대한 이론적ㆍ실천적 단초를 제공하고자 한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374368",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-09-02T09:22:53+09:00"
   }
  }
 }
