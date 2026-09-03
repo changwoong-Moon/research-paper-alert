@@ -1,15 +1,321 @@
 {
- "generated_at": "2026-09-02T09:22:53+09:00",
- "generated_at_display": "2026-09-02 09:22 KST",
+ "generated_at": "2026-09-03T09:27:15+09:00",
+ "generated_at_display": "2026-09-03 09:27 KST",
  "dashboard": "https://changwoong-moon.github.io/research-paper-alert/",
- "kci_status": "정상 — PC 수집 228건 (2026-09-01 11:40)",
+ "kci_status": "정상 — PC 수집 228건 (2026-09-03 08:56)",
  "topics": [
   {
    "key": "public-admin",
    "name": "행정학 연구동향",
-   "count": 1146,
-   "new_count": 63,
+   "count": 1163,
+   "new_count": 62,
    "papers": [
+    {
+     "id": "oa:W7204987081",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Balancing responsiveness and independence: the Australian experience",
+     "authors": [
+      "Andrew Podger"
+     ],
+     "journal": "Asia Pacific Journal of Public Administration",
+     "date": "2026-09-02",
+     "abstract": "",
+     "url": "https://doi.org/10.1080/23276665.2026.2727885",
+     "doi": "10.1080/23276665.2026.2727885",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204991792",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Autonomy in Prison: Street-Level Bureaucrats Re-Connecting with Their Purpose",
+     "authors": [
+      "Johan Sandén"
+     ],
+     "journal": "International Journal of Public Administration",
+     "date": "2026-09-02",
+     "abstract": "",
+     "url": "https://doi.org/10.1080/01900692.2026.2704921",
+     "doi": "10.1080/01900692.2026.2704921",
+     "pdf": "https://doi.org/10.1080/01900692.2026.2704921",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7205005606",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Managing Through Crisis: Understanding Personnel Stability in the States During Economic Downturns",
+     "authors": [
+      "Kwan-Hee Nam",
+      "Daniel Rudy"
+     ],
+     "journal": "Public Performance & Management Review",
+     "date": "2026-09-02",
+     "abstract": "",
+     "url": "https://doi.org/10.1080/15309576.2026.2716709",
+     "doi": "10.1080/15309576.2026.2716709",
+     "pdf": "https://doi.org/10.1080/15309576.2026.2716709",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204862878",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Credit ratings and financial soundness in public financial discourse: Evidence from the Sicilian regional government",
+     "authors": [
+      "Nicola Rappazzo",
+      "Carmelo Marisca",
+      "Giuseppe Modaffari"
+     ],
+     "journal": "Public Money & Management",
+     "date": "2026-09-01",
+     "abstract": "IMPACTRegional governments increasingly use credit ratings in public communications, but these ratings are useful only when read alongside financial documents, oversight reports, and intergovernmental commitments that give them credibility. This article speaks to senior regional and local government officials, public finance managers, budget officers, auditors, oversight institutions, and central government officials involved in fiscal co-ordination. It helps them interpret rating upgrades, confirmations, and outlook revisions without treating them as stand-alone proof of financial soundness. The Sicilian case shows that ratings can support public claims of reliability, while their practical value depends on consistency with budgeting, accounting disclosure, control systems, and agreed recovery paths. For practitioners, the message is direct. Ratings can help communicate financial improvement, provided that communication remains anchored in transparent evidence, credible oversight, and coherent financial management practices. This matters for accountability, investor relations, institutional dialogue, and public trust, especially when financial decisions are politically visible and publicly scrutinized.",
+     "url": "https://doi.org/10.1080/09540962.2026.2723351",
+     "doi": "10.1080/09540962.2026.2723351",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204870086",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Unlocking Human Capital in the Public Sector: When Does Overqualification Improve Civil Servants' Performance?",
+     "authors": [
+      "Chao Pan",
+      "Zheng Jiang",
+      "Tingting Song"
+     ],
+     "journal": "Public Administration and Development",
+     "date": "2026-09-01",
+     "abstract": "ABSTRACT Although overqualification among public employees is becoming increasingly prevalent, previous studies have largely overlooked its nonlinear effects. Based on Conservation of Resources Theory, this study analyzes data from 2089 civil servants and finds that: (1) A U‐shaped relationship exists between perceived overqualification and performance, with this relationship mediated by task significance. (2) Public service motivation moderates the impact of overqualification on task significance. These findings offer a nuanced perspective on overqualification, suggesting that public sector should more effectively recognize and manage varying levels of overqualification among civil servants.",
+     "url": "https://doi.org/10.1002/pad.70116",
+     "doi": "10.1002/pad.70116",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204902443",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Editor’s Note.",
+     "authors": [],
+     "journal": "Nonprofit Management and Leadership",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1002/nml.70070",
+     "doi": "10.1002/nml.70070",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204902494",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Social policy expansion amidst limited policy capacities: The case of subnational comprehensive care systems in Latin America",
+     "authors": [
+      "Cynthia L. Michel"
+     ],
+     "journal": "International Review of Administrative Sciences",
+     "date": "2026-09-01",
+     "abstract": "Limited policy capacity is commonly expected to constrain the expansion of social policy. Yet, across Latin America, several subnational governments have expanded Comprehensive Care Systems despite persistent fiscal, organizational, and institutional constraints. How do implementing agencies expand social policy under such conditions? This paper argues that policy capacity shapes implementation through the organizational coping strategies agencies adopt when implementation demands exceed available capacities. I examine this mechanism through a comparative analysis of three subnational Comprehensive Care Systems in Bogotá (Colombia), San Pedro Garza García (Mexico), and Iztapalapa (Mexico). Drawing on more than 55 semi-structured interviews with policymakers, mid-level managers, and frontline workers, complemented by documentary evidence and field observations, the study compares how implementing agencies addressed capacity deficits while carrying out two core implementation tasks: targeting and integrated service delivery. The findings show that agencies expanded social policy through different combinations of organizational coping strategies—developing internal capacities, borrowing external capacities, and thinning-out policy mandates—which produced systematically different outcomes in terms of access, generosity and quality, and equity. Implementing agencies that primarily developed missing capacities achieved more sustainable and equitable forms of policy expansion, whereas those relying more heavily on borrowing or thinning-out were able to implement Comprehensive Care Systems under severe constraints but often at the expense of service quality, equity, or long-term sustainability. By identifying organizational coping strategies as the organizational mechanism linking policy capacity to implementation outcomes, the paper contributes to the literature on policy capacity, policy implementation, and comparative social policy.",
+     "url": "https://doi.org/10.1177/00208523261480855",
+     "doi": "10.1177/00208523261480855",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204909132",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Mechanisms Linking Ethical Leadership and Work Engagement in Nonprofits: A Moderated Serial Mediation Model",
+     "authors": [
+      "Qianjin Zhang",
+      "Yang Xinxin",
+      "Peiling Zhang"
+     ],
+     "journal": "VOLUNTAS International Journal of Voluntary and Nonprofit Organizations",
+     "date": "2026-09-01",
+     "abstract": "Abstract Existing literature has offered evidence that ethical leadership could increase employees’ work engagement, but the mechanisms that link their relationship are underexamined. Based on the motivational pathway of the Job Demands-Resources Model (JD-R), this study aims to explore how ethical leadership influences nonprofit employees’ work engagement. Using survey data from a sample of 345 nonprofit employees in China, the study reveals a motivational mechanism through which ethical leadership fosters followers’ mission valence and work meaningfulness, which in turn leads to a higher level of work engagement. The study further finds that stakeholder participation moderates the relationship between ethical leadership and mission valence, as well as the serial mediation effect. These findings contribute to the ethical leadership literature and expand the application of the JD-R model in nonprofit contexts. Research findings also validate the importance of ethical leadership development and stakeholder participation in nonprofit management.",
+     "url": "https://doi.org/10.1017/s0957876526000720",
+     "doi": "10.1017/s0957876526000720",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A109DE557A04AFD7231D5A23D8022543/S0957876526000720a.pdf/div-class-title-mechanisms-linking-ethical-leadership-and-work-engagement-in-nonprofits-a-moderated-serial-mediation-model-div.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204909910",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The asymmetric relationship between defence spending and governance agility in NATO countries",
+     "authors": [
+      "Mustafa Batuhan Tufaner",
+      "Mert Gül"
+     ],
+     "journal": "Public Money & Management",
+     "date": "2026-09-01",
+     "abstract": "IMPACTThis study examines the relationship between defence spending and governance agility for 22 NATO members between 2004 and 2023. The results indicate that there is an asymmetry between good and poor governance agility on defence spending. Deteriorations in governance agility have a stronger adverse effect on defence-spending capacity than equivalent improvements have in expanding it. Therefore, defence budget goals will never replace the underlying budgeting systems that allow for efficient use of public funds through accountability mechanisms (such as oversight and regulation). Policy-makers should view their governance capabilities as a strategic resource that needs to be maintained over multiple policy cycles. The findings also suggest that governance reforms in the defence sector produce benefits gradually, which makes it crucial to protect these reforms from short-run fiscal pressures during periods of economic instability.",
+     "url": "https://doi.org/10.1080/09540962.2026.2723350",
+     "doi": "10.1080/09540962.2026.2723350",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204924719",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The Role of Public Administrators in Building a Robust Liberal Democracy",
+     "authors": [
+      "Eva Sørensen",
+      "Jacob Torfing"
+     ],
+     "journal": "Public Administration Review",
+     "date": "2026-09-01",
+     "abstract": "ABSTRACT After decades of expansion, liberal democracy is threatened by autocratic populists. These actors exploit widening gaps between leaders and citizens, as well as growing political polarization in the population, to consolidate executive power by undermining courts, sidelining elected assemblies, discrediting public administrators, and intimidating both opposition and the press. This alarming predicament begs the question of what enterprising role public administrators can play in curbing the rise of autocratic populism by reconnecting elected politicians with diverse and polarized population groups while fostering alignment among them. To this end, public administrators are conceptualized as bridgebuilders promoting interactive political leadership along the vertical axis of the political system; as mediators fostering agreement, accommodation, or compromise between polarized groups along the horizontal axis; and as institutional architects linking representative democracy and collaborative governance arenas. This expanded role of public administrators as democratic guardians and protagonists raises important questions regarding its legitimacy.",
+     "url": "https://doi.org/10.1111/puar.70192",
+     "doi": "10.1111/puar.70192",
+     "pdf": "https://doi.org/10.1111/puar.70192",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204959539",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Emotions research meets European studies: a systematic literature review and future research agenda",
+     "authors": [
+      "Seda Gürkan",
+      "Cesare Figari Barberis",
+      "Jarosław Kantorowicz"
+     ],
+     "journal": "Journal of European Public Policy",
+     "date": "2026-09-01",
+     "abstract": "The importance of emotions is increasingly being recognised in European studies, and a growing number of scholars address emotions to study the EU. However, the literature remains fragmented. In this article, we employ PRISMA – a systematic literature review – to select and analyse 194 articles on emotions in relation to the EU published between January 1998 and January 2025. The objective is (1) to map both main themes and main methods used in this subfield and synthesise main findings; (2) to trace the evolution of this subfield across time; and (3) to identify new avenues of research. Our findings indicate that, with a recent surge in the number of articles, the emotions perspective is becoming increasingly important in European studies. However, we suggest that it may be too early to assess whether this recent interest in emotions in European studies will be sustainable in the years to come, as current research remains in its early stages. Moreover, fully realising the potential of this emerging subfield will require further theoretical innovation, increased engagement between different research clusters, broader empirical application, and sustained engagement with underexplored yet key questions in European integration. In this regard, the article identifies several directions for future research.",
+     "url": "https://doi.org/10.1080/13501763.2026.2723141",
+     "doi": "10.1080/13501763.2026.2723141",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13501763.2026.2723141?needAccess=true",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204960793",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Increasing Equitable Access in Public Service: A Descriptive Study About Accessible Materials",
+     "authors": [
+      "Michelle Allgood"
+     ],
+     "journal": "Public Administration Review",
+     "date": "2026-09-01",
+     "abstract": "ABSTRACT As the digital footprint of public service expands, the need for accessible materials for individuals with disabilities grows. Public servants must consider accessibility in the creation of all materials, from websites to PDFs to audio and visual media. However, research around accessible material creation in public service has been limited. This study uses data from a 2024 survey of MPA alumni from five universities to identify their familiarity with accessible material creation, including their awareness of their own organization's policies, processes, and training. The findings reveal that respondent awareness of their own organization's practices was correlated with higher familiarity in generating accessible materials. However, many respondents did not know about their organization's practices, identifying the need for increased dialogue about this essential element of social equity and inclusion. As such, suggestions for organizations to improve their practices around accessible material creation along with ideas for continued research are shared.",
+     "url": "https://doi.org/10.1111/puar.70196",
+     "doi": "10.1111/puar.70196",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204960881",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Assessing the efficiency–effectiveness linkage in Italian municipal solid waste management services: A public value approach",
+     "authors": [
+      "Luigi Mersico",
+      "Selena Aureli"
+     ],
+     "journal": "Public Money & Management",
+     "date": "2026-09-01",
+     "abstract": "IMPACTThe relationship between efficiency, effectiveness, and the creation of public value (PV) in municipal solid waste management is empirically underexplored, with existing evidence largely confined to efficiency and effectiveness examined in isolation. This article presents evidence that service effectiveness, rather than efficiency alone, is the primary and most robust driver of PV, and that the marginal returns to effectiveness attenuate as municipalities approach the efficiency frontier. These results offer local public managers and policy-makers an empirically grounded approach and a replicable method to align effectiveness targets and PV objectives with budgeting and planning processes, thereby supporting the shift from cost-centric benchmarking toward value-oriented logics that prioritize the service outcomes most consequential for citizens’ collective well-being.",
+     "url": "https://doi.org/10.1080/09540962.2026.2724046",
+     "doi": "10.1080/09540962.2026.2724046",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204969668",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Volunteer Engagement and Retention among New and Past UK Mental Health Charity Helpline Volunteers: A Longitudinal Qualitative Study",
+     "authors": [
+      "Rosanna May Maletta",
+      "Victoria Vass",
+      "Eric Robinson"
+     ],
+     "journal": "VOLUNTAS International Journal of Voluntary and Nonprofit Organizations",
+     "date": "2026-09-01",
+     "abstract": "Abstract Voluntary mental health support services play an important role in public health. However, long-term retention of volunteers is a major challenge. The present study aimed to understand the reasons for reduced volunteer engagement and retention loss in a UK mental health charity. Twenty-two participants from two populations (new volunteers and leavers) were engaged in semi-structured interviews to (1) longitudinally explore new volunteers’ expectations and experiences in their new role; and (2) explore reasons for stopping volunteering. Using constructivist grounded theory, we found key barriers to engagement among volunteers in this sector: unmet needs and values, unclear or demanding commitments, and reduced confidence in the role. Addressing these barriers through clearer expectations, stronger social connection, and processes that build confidence and coping (e.g., additional training) may enhance engagement and retention. Our findings suggest areas where targeted adjustments could enhance volunteer engagement and retention.",
+     "url": "https://doi.org/10.1017/s0957876526000719",
+     "doi": "10.1017/s0957876526000719",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C99D672D5FB5FB168154DE0B8F305AD7/S0957876526000719a.pdf/div-class-title-volunteer-engagement-and-retention-among-new-and-past-uk-mental-health-charity-helpline-volunteers-a-longitudinal-qualitative-study-div.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7205009081",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Financial Conditions, Political Connections, and Nonprofit Investment Income: Evidence From Chinese Foundations",
+     "authors": [
+      "Meng Ye",
+      "Jiahuan Lu",
+      "Qiang Dong"
+     ],
+     "journal": "Nonprofit and Voluntary Sector Quarterly",
+     "date": "2026-09-01",
+     "abstract": "Investment income offers nonprofits a flexible and sustainable revenue source, yet it remains underexamined in the literature, particularly outside Western contexts. This study addresses that gap by analyzing panel data from Chinese foundations from 2018 to 2022 to examine how financial and political factors are associated with investment participation and investment income. We find that investment engagement among Chinese foundations is limited, and among participants, investment income levels are modest. Drawing on resource dependence and institutional theories, the analysis considers two financial conditions, financial autonomy and financial leverage, and a political factor, political connections. The findings deepen our understanding of nonprofit investment income and highlight how financial conditions and political connections relate to investment engagement and investment income.",
+     "url": "https://doi.org/10.1177/08997640261477718",
+     "doi": "10.1177/08997640261477718",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7205013532",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Environmental Regulatory Policy Mix and High‐Quality Green Economic Development in China",
+     "authors": [
+      "Sumin Tao",
+      "Wei Chen",
+      "Pei Chen",
+      "Xinjie Shi"
+     ],
+     "journal": "Asia & the Pacific Policy Studies",
+     "date": "2026-09-01",
+     "abstract": "ABSTRACT High‐quality green economic development is pivotal to Chinese modernisation. Employing city‐level panel data from 2006 to 2023, this study utilises the SBM‐GML index, the difference‐in‐differences (DID) model, and its spatial counterpart to investigate how the synergy between command‐and‐control and market‐based regulatory policies affects green growth. Key findings reveal that: (1) the regulatory mix significantly boosts high‐quality green economic development; (2) while this mix dampens efficiency change, it substantially accelerates technological progress, suggesting that gains in green total factor productivity (GTFP) are technology‐driven; (3) spatial spillover effects are heterogeneous, being overall positive among treated regions but negative among untreated regions; and (4) these spillovers exhibit clear distance‐based heterogeneity without following a distance‐decay pattern. Our findings offer actionable insights for refining urban environmental governance and fostering sustainable growth.",
+     "url": "https://doi.org/10.1002/app5.70094",
+     "doi": "10.1002/app5.70094",
+     "pdf": "https://doi.org/10.1002/app5.70094",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204906906",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Why Some Critical Junctures Lead Nowhere: Exploring Dynamic and Static Policy Paths",
+     "authors": [
+      "Katrine Skagen"
+     ],
+     "journal": "Governance",
+     "date": "2026-08-31",
+     "abstract": "ABSTRACT Some critical junctures fail to cause significant change in practice. Inspired by historical institutionalism, this article develops the concept of dynamic and static policy paths to explain why some critical junctures do not lead to change, while others do. Combining insights from policy process literature and policy implementation, it conceptualizes critical junctures through four elements: framing, targets, instruments, and actors/institutions. Based on two case studies, the article argues that the importance of framing and targets has been overexaggerated, and that a dynamic path will not occur unless there is also a significant change in instruments and actors/institutions. In Denmark, a climate policy agreement created a new policy direction for agriculture in which climate policy is a key component. In Norway, a climate policy agreement did not change the trajectory of sectoral policy and climate policy development has remained stagnant. Thus, differences in the critical junctures led to different policy paths.",
+     "url": "https://doi.org/10.1111/gove.70152",
+     "doi": "10.1111/gove.70152",
+     "pdf": "https://doi.org/10.1111/gove.70152",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7204766863",
      "topic": "public-admin",
@@ -61,7 +367,7 @@
      "abstract": "Public employees serve the public interest through their work and extend this commitment through volunteerism. However, it remains unclear what motivates them to volunteer when professional roles already fulfill intrinsic prosocial motivations. Drawing on theories from multiple life domains and public service motivation, this study examines how public sector workplace experiences, specifically exposure to public participation and job satisfaction, are associated with volunteering behavior. Using cross-sectional, nationally representative survey data from U.S. local government managers, this study finds that the relationships vary by individuals’ prior volunteering status. Among non-volunteers, higher levels of public participation exposure and job satisfaction are both associated with a greater probability of initiating volunteering. Among current volunteers, lower levels are associated with greater time devoted to volunteering, whereas higher levels are linked to volunteering across a wider range of domains. Job satisfaction negatively moderates the relationship between public participation exposure and volunteering intensity. This study extends conventional understanding of public employee volunteering beyond public service motivation and sector differences by demonstrating a contingent work–volunteerism association, offering practical insights into managing workplace experiences to sustain public service both within and beyond organizational boundaries.",
      "url": "https://doi.org/10.1177/0734371x261481363",
      "doi": "10.1177/0734371x261481363",
-     "pdf": "",
+     "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/0734371X261481363?download=true",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -98,7 +404,7 @@
      "abstract": "ABSTRACT This article challenges the assumption that legal harmonization within the European Union ensures effective anti‐corruption governance. Despite EU‐compliant frameworks, institutional integrity remains highly uneven across subnational territories. We introduce the Regional Integrity Framework (RIF), a diagnostic approach that integrates citizen perceptions, procurement indicators, and enforcement activation measures to capture regional integrity performance. The analysis suggests that formal convergence can conceal functional divergence, as peripheral regions often exhibit weaker administrative capacity, limited oversight, and uneven institutional activation. A mixed‐methods application that combines panel analysis with an illustrative comparison of Sofia and Vidin, Bulgaria, demonstrates how the RIF can diagnose territorial integrity gaps within a shared legal framework. Conceptually, the study reframes anti‐corruption as a territorially embedded problem of institutional activation; methodologically, it offers a transferable framework for identifying enforcement asymmetries and governance disparities in multi‐level systems.",
      "url": "https://doi.org/10.1111/rego.70199",
      "doi": "10.1111/rego.70199",
-     "pdf": "https://doi.org/10.1111/rego.70199",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rego.70199",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -172,7 +478,7 @@
      "abstract": "ABSTRACT This article examines how parents living in poverty in Finland describe their daily family life. Drawing on affect theory and Wetherell's concept of affective practices, the study explores how emotions are enacted, circulated and embedded in daily routines of care, survival and encounters with welfare institutions. The data consist of 38 written narratives provided by parents experiencing financial hardship. The article asks: What kinds of affective practices do parents develop, and how do these affects connect to their agency under conditions of structural constraint? Reflexive thematic analysis identifies three interrelated affective formations: embodied endurance , affective resistance and the temporal horizon of hope and despair . Endurance manifests as a bodily and relational effort to sustain life in conditions of scarcity, wherein exhaustion intertwines with care and responsibility. Resistance emerges through emotions such as anger and moral justification, revealing friction with institutional power and policy control. Finally, hope and despair form an ambivalent temporal field in which parents imagine the future amid ongoing uncertainty. By tracing these affective practices, the article shows how poverty is lived not only as material deprivation but also as an affective labour that both constrains and sustains agency. The analysis demonstrates that austerity reshapes affective conditions as well as material resources, illustrating why social policy must attend to the emotional and relational consequences of welfare state restructuring.",
      "url": "https://doi.org/10.1111/spol.70105",
      "doi": "10.1111/spol.70105",
-     "pdf": "",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.70105",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -356,7 +662,7 @@
      "doi": "10.1007/s11077-026-09622-y",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s11077-026-09622-y.pdf",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204517695",
@@ -374,7 +680,7 @@
      "doi": "10.1111/puar.70191",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/puar.70191",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204525772",
@@ -393,7 +699,7 @@
      "doi": "10.1080/23812346.2026.2721774",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204550600",
@@ -410,7 +716,7 @@
      "doi": "10.1086/742042",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204551976",
@@ -433,7 +739,7 @@
      "doi": "10.1111/puar.70175",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/puar.70175",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204559260",
@@ -453,7 +759,7 @@
      "doi": "10.1002/pad.70117",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pad.70117",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204573660",
@@ -468,7 +774,7 @@
      "doi": "10.1086/742117",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204587849",
@@ -485,7 +791,7 @@
      "doi": "10.1080/03003930.2026.2723976",
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/03003930.2026.2723976?needAccess=true",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204592896",
@@ -505,7 +811,7 @@
      "doi": "10.1080/14719037.2026.2724517",
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14719037.2026.2724517?needAccess=true",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204459467",
@@ -540,7 +846,7 @@
      "doi": "10.1080/17516234.2026.2723285",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204496146",
@@ -566,7 +872,7 @@
      "doi": "10.1111/1468-0009.70121",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70121",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204497522",
@@ -583,7 +889,7 @@
      "doi": "10.1111/1468-0009.70120",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70120",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204498681",
@@ -601,7 +907,7 @@
      "doi": "10.1111/1468-0009.70124",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-0009.70124",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204499017",
@@ -616,7 +922,7 @@
      "doi": "10.1111/puar.70182",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204499584",
@@ -631,7 +937,7 @@
      "doi": "10.1111/puar.70183",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7203524129",
@@ -2049,7 +2355,7 @@
      "abstract": "Liberal democracies face mounting pressures from systemic transformations and emerging illiberal political forces, placing public administrations at a critical juncture. This introduction to the Special Issue “Mapping bureaucratic transformation in polarized polities: Comparative perspectives on democratic reform, robustness and regression” conceptualizes bureaucratic transformation along a continuum from democratic anchorage to democratic backsliding in public administration, capturing how administrative reforms can either reinforce or erode liberal-democratic governance. Drawing on normative theory and comparative empirical analysis, the contributions to the Special Issue examine how bureaucracies are reshaped by populist strategies and institutional vulnerabilities. This introductory article presents a heuristic framework that locates bureaucratic change along three relational dimensions—bureaucracy-society, bureaucracy-politics, and internal governance—and four opposing pairs of transformation, offering analytical tools to assess the democratic anchorage, resilience, and reform potential of public administration under conditions of polarization. Points for practitioners (a) Safeguard bureaucratic integrity: ensure ethical standards and professional autonomy within public administration to maintain democratic resilience, especially in polarized political contexts. (b) Balance accountability and autonomy: strive for a balance between political responsiveness and procedural integrity, fostering participatory mechanisms while protecting bureaucratic autonomy from politicization. (c) Strengthen civic embeddedness: institutionalize participatory mechanisms and sustained engagement with civil society and professional associations to sustain public trust and institutional legitimacy, particularly in polarized environments. (d) Adapt to evolving democratic needs: as representative democracies evolve, focus on reforms that strengthen connections between citizens and the executive, enhancing democratic legitimacy through inclusive governance practices.",
      "url": "https://doi.org/10.1177/00208523261475280",
      "doi": "10.1177/00208523261475280",
-     "pdf": "https://hdl.handle.net/1814/95746",
+     "pdf": "",
      "first_seen": "2026-08-24T07:46:21+09:00",
      "is_new": false
     },
@@ -5065,7 +5371,7 @@
      "doi": "10.1111/psj.70151",
      "pdf": "https://doi.org/10.1111/psj.70151",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7203976985",
@@ -12763,7 +13069,7 @@
      "doi": "10.1080/10967494.2026.2685266",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7165742310",
@@ -16556,7 +16862,7 @@
      "doi": "10.1086/740868",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7165053817",
@@ -21940,9 +22246,205 @@
   {
    "key": "methodology",
    "name": "사회과학방법론",
-   "count": 682,
-   "new_count": 29,
+   "count": 692,
+   "new_count": 34,
    "papers": [
+    {
+     "id": "oa:W7204992431",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Do socioeconomic factors shape tax preferences in retirement savings? Spanish investor preferences for tax attributes in pension plans",
+     "authors": [
+      "Samuel Calderón-Ortiz",
+      "Eva Crespo Cebada",
+      "Ángel-Sabino Mirón-Sanguino",
+      "Carlos Díaz‐Caro"
+     ],
+     "journal": "Quality & Quantity",
+     "date": "2026-09-02",
+     "abstract": "Abstract Private pension plans have been structured as a retirement supplement and have received fiscal incentives in most developed countries. Investor preferences regarding different tax treatments within the Spanish pension system play a significant role in shaping long-term investment behavior. In this context, the aim of this study is to analyze investor preferences in private pension plans and how socioeconomic variables affect the distribution of these preferences. To this end, a choice experiment was conducted with a sample of 1,287 Spanish pension plan investors. The econometric model applied is the mixed logit, which allows for the estimation of individual preference parameters and the analysis of their distribution. The main findings reveal a generally low preference for tax-related attributes in pension plans, with marked differences when variables such as age, gender, income, household size, and educational level are considered. These results provide a foundation for the development of appropriate strategies both for financial planners and advisors, as well as for the design of economic policy in terms of taxation.",
+     "url": "https://doi.org/10.1007/s11135-026-03047-8",
+     "doi": "10.1007/s11135-026-03047-8",
+     "pdf": "https://doi.org/10.1007/s11135-026-03047-8",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W4413151750",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Time after time, the best–worst scaling method is more reliable than ranking",
+     "authors": [
+      "Garston Liang",
+      "Mackenzie Glover",
+      "Guy E. Hawkins"
+     ],
+     "journal": "Behavior Research Methods",
+     "date": "2026-09-01",
+     "abstract": "Abstract Two popular methods of preference elicitation are rankings and best–worst scaling (BWS). Rankings, while simple and widely adopted, can be burdensome with larger item sets and fail to capture indifference between options that are neither loved nor hated. Best–worst scaling is a survey method that sidesteps the set size problem by capitalizing on people’s natural capacity to identify preferences at the extremes. Across three experiments, our primary finding is that elicited preferences for ranking and BWS methods align, and that BWS methods provide additional resolution to resolve the indifference between middling options where rankings can struggle as well as the relative importance of each option. Moreover, we show that BWS methods exhibit greater test–retest reliability compared to rankings, even over time frames as short as minutes. Taken together, our results privilege BWS as a reliable and readily accessible alternative to ranking methods for preference elicitation.",
+     "url": "https://doi.org/10.3758/s13428-026-03167-x",
+     "doi": "10.3758/s13428-026-03167-x",
+     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03167-x.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7133563340",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Improving crowdsourcing for AI through cognitive-inspired data engineering",
+     "authors": [
+      "Gunnar Paul Epping",
+      "Andrew Caplin",
+      "Erik Duhaime",
+      "William R. Holmes",
+      "Daniel Martin",
+      "Jennifer S. Trueblood"
+     ],
+     "journal": "Behavior Research Methods",
+     "date": "2026-09-01",
+     "abstract": "Abstract Crowdsourcing offers a fast and cost-efficient approach to obtaining human-labeled datasets. However, crowdsourced datasets and the models trained on them can inherit the cognitive constraints and biases of their annotators. In a process we refer to as cognitive-inspired data engineering, we investigate whether ideas from cognitive science can be applied to mitigate the presence of cognitive constraints and cognitive biases in crowdsourced datasets and, as a result, improve the performance of models trained on these datasets. We evaluate our approach by crowdsourcing labels for medical image diagnostic tasks using two different crowdsourcing platforms across two experiments. In Experiment 1, we collect subjective probability judgments from novice annotators through Amazon Mechanical Turk and, in Experiment 2, we collect subjective probability judgments and binary classifications from skilled annotators through DiagnosUs, a crowdsourcing platform specializing in medical and scientific data annotation. In both experiments, we find that recalibrating subjective probability judgments reduces bias, yielding more accurate crowdsourced datasets and more accurate models trained on them. Our results suggest that cognitive-inspired data engineering offers a promising avenue to improve the quality of crowdsourced datasets, with consistent downstream benefits for machine learning models.",
+     "url": "https://doi.org/10.3758/s13428-026-03160-4",
+     "doi": "10.3758/s13428-026-03160-4",
+     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03160-4.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204877303",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Examining the effects of financial globalisation and internet penetration on terrorism in Nigeria: evidence from ARDL–ECM and frequency domain causality",
+     "authors": [
+      "Joel T. Adeyemo",
+      "Uche Abamba Osakede",
+      "Opeyemi Eunice Olagunju",
+      "Oluwakemi Joel-Adeyemo",
+      "Johnson Olusola OLAOSEBIKAN"
+     ],
+     "journal": "Quality & Quantity",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s11135-026-03086-1",
+     "doi": "10.1007/s11135-026-03086-1",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204881905",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Large language models in contexts of uncertainty: the “digital habitus” framework",
+     "authors": [
+      "Maria Grazia Olivieri",
+      "Luca Iavarone"
+     ],
+     "journal": "Quality & Quantity",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s11135-026-03049-6",
+     "doi": "10.1007/s11135-026-03049-6",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204885132",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "How accurate are Bayes factor-based null hypothesis tests? A simulation study",
+     "authors": [
+      "Daniel J. Schad",
+      "Martin Modrák"
+     ],
+     "journal": "Behavior Research Methods",
+     "date": "2026-09-01",
+     "abstract": "Abstract Bayes factor null hypothesis tests provide a viable alternative to frequentist measures of evidence quantification. Bayes factors for realistic data sets in areas like psychology cannot be calculated exactly and require numerical approximations to complex integrals. Crucially, the accuracy of these approximations, i.e., whether an approximate Bayes factor corresponds to the exact Bayes factor, is unknown, and may depend on data, prior, and likelihood. We recently developed a novel statistical procedure, marginal simulation-based calibration (SBC) for Bayes factors, to test whether computed Bayes factors for a given analysis are accurate. Here, we use marginal SBC for Bayes factors and calibration plots to test whether Bayes factors are calculated accurately for some common cognitive designs. We use the bridgesampling/brms packages in R. We run analyses for three commonly used designs in psychology and psycholinguistics: (a) a design with random effects for subjects only, (b) a Latin square design with crossed random effects for subjects and items, but a single fixed factor, and (c) a Latin square 2x2 design with crossed random effects for subjects and items. We find that Bayes factor estimates turn out accurate in cases when the bridgesampling algorithm does not issue a warning message, but can be biased and variable when a warning message is shown. These results support the use of brms/bridgesampling for null hypothesis Bayes factor tests in commonly used factorial designs. They also suggest that when a warning message is issued, Bayes factor results should not be trusted. The results show that it is practical to check whether Bayes factors are computed correctly.",
+     "url": "https://doi.org/10.3758/s13428-026-03168-w",
+     "doi": "10.3758/s13428-026-03168-w",
+     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03168-w.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204912166",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Digital transformation in public administration: a hybrid bibliometric and nested systematic literature review",
+     "authors": [
+      "Augustin Rina Herawati",
+      "Endang Larasati",
+      "Ida Hayu Dwimawanti"
+     ],
+     "journal": "Quality & Quantity",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s11135-026-03081-6",
+     "doi": "10.1007/s11135-026-03081-6",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204918331",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "From Reflection to Action: A Case Study of Positionality Tools in Evaluation Practice",
+     "authors": [
+      "M. Elizabeth Snow",
+      "Rochelle Gamage"
+     ],
+     "journal": "American Journal of Evaluation",
+     "date": "2026-09-01",
+     "abstract": "This paper explores how structured reflection on positionality can enhance evaluation practice through increased rigor, relevance, and transparency. Positionality refers to how evaluators’ sociopolitical contexts, identities, and worldviews fundamentally shape their work. Using a case example, we demonstrate the application of two complementary tools: the Social Identity Map and the Coin Model of Privilege. These tools moved us beyond simply listing identities toward a deeper understanding of how our social locations influence our evaluation work. Through individual and collective reflection, we identified team gaps, reaffirmed the critical importance of centering people with lived and living experience, and expanded our analysis to examine existing literature more critically. We feel that reflection on positionality should be embraced as an ongoing, context-specific practice, which strengthens the quality of our evaluation work and its impact.",
+     "url": "https://doi.org/10.1177/10982140261480101",
+     "doi": "10.1177/10982140261480101",
+     "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/10982140261480101?download=true",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204938561",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Examining within-person variability of each individual: How should we deal with non-varying individuals?",
+     "authors": [
+      "Xiaohui Luo",
+      "Yueqin Hu",
+      "Hongyun Liu"
+     ],
+     "journal": "Behavior Research Methods",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.3758/s13428-026-03171-1",
+     "doi": "10.3758/s13428-026-03171-1",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204957972",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "A data-driven fractional-order smoking–cancer model with stability and sensitivity analysis",
+     "authors": [
+      "Isaac Kwasi Adu",
+      "Joshua Kiddy K. Asamoah",
+      "Fredrick Asenso Wireko",
+      "Rebecca Awerigiya",
+      "Joshua Nii Martey",
+      "Ahmed Nagah"
+     ],
+     "journal": "Quality & Quantity",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s11135-026-03064-7",
+     "doi": "10.1007/s11135-026-03064-7",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7160535494",
      "topic": "methodology",
@@ -21954,10 +22456,10 @@
      ],
      "journal": "Psychological Methods",
      "date": "2026-08-31",
-     "abstract": "Standard two-level SEM models require access to raw data. In this study we propose a method for fitting two-level SEMs using meta-analytic structural equation modelling (MASEM) on sum-mary statistics. Although our focus is on the meta-analytic case of individuals nested in studies, the approach could be applied to any two-level structure. An illustration using PISA data showed that fitting a two-level model on individual data versus fitting a two-level model using summary statistics produces essentially identical results. One advantage of the MASEM approach is that it is straightforward to model heterogeneity in the within-cluster covariances. Using simulated da-ta, we demonstrated that the MASEM method performed well in such heterogeneous conditions. In contrast, two-level SEM analyses resulted in inflated Type I errors based on the test statistic and a significant underestimation of the parameters' standard errors. Through an empirical ex-ample, we show how two-level SEM through the MASEM method can be employed to evaluate measurement invariance across all studies and how the model can be expanded to incorporate study-level variables that explain some of the variation in parameters across studies. Implications and limitations of the proposed method are discussed, and directions for future research are pro-vided.",
+     "abstract": "Standard two-level structural equation models (SEMs) require access to raw data. In this study, we propose a method for fitting two-level SEMs using meta-analytic structural equation modeling (MASEM) on summary statistics. Although our focus is on the meta-analytic case of individuals nested in studies, the approach could be applied to any two-level structure. An illustration using empirical data showed that fitting a two-level model on individual data versus fitting a two-level model using summary statistics produces essentially identical results. One advantage of the MASEM approach is that it is straightforward to model heterogeneity in the within-cluster covariances. Using simulated data, we demonstrated that the MASEM method performed well in such heterogeneous conditions. In contrast, two-level SEM analyses resulted in inflated Type I errors based on the test statistic and a significant underestimation of the parameters' standard errors. Through an empirical example, we show how two-level SEM through the MASEM method can be employed to evaluate measurement invariance across all studies and how the model can be expanded to incorporate study-level variables that explain some of the variation in parameters across studies. Implications and limitations of the proposed method are discussed, and directions for future research are provided. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
      "url": "https://doi.org/10.1037/met0000864",
      "doi": "10.1037/met0000864",
-     "pdf": "https://doi.org/10.1037/met0000864",
+     "pdf": "https://psycnet.apa.org/fulltext/2028-20061-001.pdf",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -21995,10 +22497,10 @@
      ],
      "journal": "Behavior Research Methods",
      "date": "2026-08-31",
-     "abstract": "Abstract Age of acquisition (AoA) is a key psycholinguistic variable known to influence lexical and conceptual processing across a broad range of tasks. However, existing Russian datasets are small and mainly limited to picturable nouns and verbs. In this study, we collected AoA ratings for 30,849 Russian words that represent a broad vocabulary range. Ratings were collected from 2,201 adult respondents in both in-person and online sessions. Reliability assessed via bootstrap split-half correlations was high (mean r = 0.895, 95% CI [.893, .897]). To validate the subjective AoA estimates, we administered vocabulary tests to school students from grades 2, 4, 6, 8, and 10. Two validation procedures were used: grade-level validation and within-grade validation. The former related the grade level at which an item was reliably known with the adult ratings, the latter related adult AoA to students’ accuracy. Subjective AoA strongly predicted objective AoA measures ( r = 0.805) and showed consistent negative relations with student accuracy across grades. Correlations with existing Russian AoA datasets ( r = 0.68–0.91) further supported the reliability of the norms. The new ratings also showed expected correlations with word frequency, length, concreteness, imageability, and familiarity. The resulting norms provide the largest and most comprehensive AoA resource for the Russian language and can support future research in psycholinguistics, lexical processing, and language development. All norms are publicly available on OSF.",
+     "abstract": "Age of acquisition (AoA) is a key psycholinguistic variable known to influence lexical and conceptual processing across a broad range of tasks. However, existing Russian datasets are small and mainly limited to picturable nouns and verbs. In this study, we collected AoA ratings for 30,849 Russian words that represent a broad vocabulary range. Ratings were collected from 2,201 adult respondents in both in-person and online sessions. Reliability assessed via bootstrap split-half correlations was high (mean r = 0.895, 95% CI [.893, .897]). To validate the subjective AoA estimates, we administered vocabulary tests to school students from grades 2, 4, 6, 8, and 10. Two validation procedures were used: grade-level validation and within-grade validation. The former related the grade level at which an item was reliably known with the adult ratings, the latter related adult AoA to students' accuracy. Subjective AoA strongly predicted objective AoA measures (r = 0.805) and showed consistent negative relations with student accuracy across grades. Correlations with existing Russian AoA datasets (r = 0.68-0.91) further supported the reliability of the norms. The new ratings also showed expected correlations with word frequency, length, concreteness, imageability, and familiarity. The resulting norms provide the largest and most comprehensive AoA resource for the Russian language and can support future research in psycholinguistics, lexical processing, and language development. All norms are publicly available on OSF.",
      "url": "https://doi.org/10.3758/s13428-026-03138-2",
      "doi": "10.3758/s13428-026-03138-2",
-     "pdf": "https://doi.org/10.3758/s13428-026-03138-2",
+     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03138-2.pdf",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -22014,7 +22516,7 @@
      ],
      "journal": "British Journal of Mathematical and Statistical Psychology",
      "date": "2026-08-30",
-     "abstract": "Abstract Differential item functioning (DIF) analysis is essential for evaluating measurement invariance in educational and psychological assessments. In cognitive diagnostic assessment, however, most existing methods require prespecified comparison subgroups and anchor items. When subgroup membership and anchor items are unavailable or mis‐specified, DIF detection and parameter estimation may be biased. To overcome these limitations, this study puts forward a DIF detection method that incorporates an extended modelling framework and a two‐stage estimation algorithm. The proposed modelling framework directly integrates DIF parameters into the measurement model and uses a structural model to characterize subgroup differences in attribute mastery distributions. A two‐stage expectation maximization algorithm with an adaptive lasso penalty is developed to identify anchor items, classify respondents into latent subgroups and estimate model parameters. The performance of the proposed method was evaluated through a simulation study and an empirical data analysis. Simulation results indicated generally satisfactory DIF detection and parameter recovery, although subgroup‐classification accuracy varied across conditions. When applied to the empirical data, the proposed method identified 10 of the 28 items as exhibiting DIF.",
+     "abstract": "Differential item functioning (DIF) analysis is essential for evaluating measurement invariance in educational and psychological assessments. In cognitive diagnostic assessment, however, most existing methods require prespecified comparison subgroups and anchor items. When subgroup membership and anchor items are unavailable or mis-specified, DIF detection and parameter estimation may be biased. To overcome these limitations, this study puts forward a DIF detection method that incorporates an extended modelling framework and a two-stage estimation algorithm. The proposed modelling framework directly integrates DIF parameters into the measurement model and uses a structural model to characterize subgroup differences in attribute mastery distributions. A two-stage expectation maximization algorithm with an adaptive lasso penalty is developed to identify anchor items, classify respondents into latent subgroups and estimate model parameters. The performance of the proposed method was evaluated through a simulation study and an empirical data analysis. Simulation results indicated generally satisfactory DIF detection and parameter recovery, although subgroup-classification accuracy varied across conditions. When applied to the empirical data, the proposed method identified 10 of the 28 items as exhibiting DIF.",
      "url": "https://doi.org/10.1111/bmsp.70073",
      "doi": "10.1111/bmsp.70073",
      "pdf": "",
@@ -22111,7 +22613,7 @@
      "doi": "10.3102/10769986261478956",
      "pdf": "https://journals.sagepub.com/doi/pdf/10.3102/10769986261478956?download=true",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204495864",
@@ -22129,7 +22631,7 @@
      "doi": "10.1007/s11135-026-03063-8",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204499787",
@@ -22150,7 +22652,7 @@
      "doi": "10.1007/s11135-026-03078-1",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204529418",
@@ -22169,7 +22671,7 @@
      "doi": "10.1080/13645579.2026.2726836",
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13645579.2026.2726836?needAccess=true",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204606007",
@@ -22188,7 +22690,7 @@
      "doi": "10.1007/s11135-026-03076-3",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-03076-3.pdf",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204470856",
@@ -35418,9 +35920,84 @@
   {
    "key": "econ-stats",
    "name": "계량경제·통계",
-   "count": 647,
-   "new_count": 10,
+   "count": 654,
+   "new_count": 13,
    "papers": [
+    {
+     "id": "oa:W3207737214",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Striking a Bargain: Narrative Identification of Wage Bargaining Shocks",
+     "authors": [
+      "Žymantas Budrys",
+      "Mario Porqueddu",
+      "Andrej Sokol"
+     ],
+     "journal": "Journal of Applied Econometrics",
+     "date": "2026-09-02",
+     "abstract": "ABSTRACT Wage markup shocks, an important driver of business cycles, are hard to pin down. We quantify the importance of exogenous variation in wage bargaining power, one source of those shocks, from German minimum wage introduction episodes and strikes. This disciplines the impulse responses of unemployment and output, and sharpens inference for other variables, which behave consistently with predictions from search‐and‐matching models. We find that wage bargaining shocks meaningfully contribute to aggregate fluctuations in unemployment and inflation, exhibit substantial pass‐through to prices, and imply plausible dynamics for the vacancy rate, firms' profits, and the labor share.",
+     "url": "https://doi.org/10.1002/jae.70086",
+     "doi": "10.1002/jae.70086",
+     "pdf": "https://doi.org/10.1002/jae.70086",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W4361852162",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Prediction When Factors are Weak",
+     "authors": [
+      "Stefano Giglio",
+      "Dacheng Xiu",
+      "Dake Zhang"
+     ],
+     "journal": "Journal of the American Statistical Association",
+     "date": "2026-09-01",
+     "abstract": "In economic forecasting, principal component analysis (PCA) has been the most prevalent approach to the recovery of factors, which summarize information in a large set of predictors. Nevertheless, the theoretical justification of this approach often relies on a convenient and critical assumption that factors are pervasive. To incorporate information from weaker factors, we propose a new prediction procedure based on supervised PCA, which iterates over selection, PCA, and projection. The selection step finds a subset of predictors most correlated with the prediction target, whereas the projection step permits multiple weak factors of distinct strength. We justify our procedure in an asymptotic scheme where both the sample size and the cross-sectional dimension increase at potentially different rates. Our empirical analysis highlights the role of weak factors in predicting inflation, industrial production growth, and changes in unemployment.",
+     "url": "https://doi.org/10.1080/01621459.2026.2721776",
+     "doi": "10.1080/01621459.2026.2721776",
+     "pdf": "https://doi.org/10.2139/ssrn.4397485",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W4416031432",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Representation Retrieval Learning for Heterogeneous Data Integration",
+     "authors": [
+      "Qi Xu",
+      "Annie Qu"
+     ],
+     "journal": "Journal of the American Statistical Association",
+     "date": "2026-09-01",
+     "abstract": "In the era of big data, large-scale, multi-source, multi-modality datasets are increasingly ubiquitous, offering unprecedented opportunities for predictive modeling and scientific discovery. However, these datasets often exhibit complex heterogeneity, such as covariates shift, posterior drift, and blockwise missingness, which worsen predictive performance of existing supervised learning algorithms. To address these challenges simultaneously, we propose a novel Representation Retrieval ( R2) framework, which integrates a dictionary of representation learning modules (representer dictionary) with data source-specific sparsity-induced machine learning model (learners). Under the R2 framework, we introduce the notion of integrativeness for each representer, and propose a novel Selective Integration Penalty (SIP) to explicitly encourage more integrative representers to improve predictive performance. Theoretically, we show that the excess risk bound of the R2 framework is characterized by the integrativeness of representers, and SIP effectively improves the excess risk. Extensive simulation studies validate the superior performance of R2 framework and the effect of SIP. We further apply our method to two real-world datasets to confirm its empirical success.",
+     "url": "https://doi.org/10.1080/01621459.2026.2696485",
+     "doi": "10.1080/01621459.2026.2696485",
+     "pdf": "https://arxiv.org/pdf/2503.09494",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204961011",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "A forecast-error taxonomy facing multiple shifts",
+     "authors": [
+      "Jennifer L. Castle",
+      "Jurgen A. Doornik",
+      "David F. Hendry"
+     ],
+     "journal": "Econometrics and Statistics",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.ecosta.2026.08.005",
+     "doi": "10.1016/j.ecosta.2026.08.005",
+     "pdf": "https://doi.org/10.1016/j.ecosta.2026.08.005",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7204784755",
      "topic": "econ-stats",
@@ -35435,7 +36012,7 @@
      "abstract": "ABSTRACT We replicate the two foundational studies which proposed the two‐tier stochastic frontier model, first in the cross‐sectional setting and then for the fixed effects panel data model. We explore matters of software then and now, different mathematical formulations of the likelihood, and alternative current software tools. We also highlight several data issues that arose in both replications.",
      "url": "https://doi.org/10.1002/jae.70090",
      "doi": "10.1002/jae.70090",
-     "pdf": "https://doi.org/10.1002/jae.70090",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jae.70090",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -35481,7 +36058,7 @@
      "doi": "10.1080/01621459.2026.2680161",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204563186",
@@ -35501,7 +36078,7 @@
      "doi": "10.1080/01621459.2026.2725280",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4280649288",
@@ -36135,6 +36712,40 @@
      "is_new": false
     },
     {
+     "id": "oa:W7204905628",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Behaviour Analysis with Machine Learning Using R",
+     "authors": [
+      "Y-H. Chen"
+     ],
+     "journal": "Journal of the Royal Statistical Society Series A (Statistics in Society)",
+     "date": "2026-08-18",
+     "abstract": "",
+     "url": "https://doi.org/10.1093/jrsssa/qnag102",
+     "doi": "10.1093/jrsssa/qnag102",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204930469",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Principles of Psychological Assessment: With Applied Examples in R",
+     "authors": [
+      "Hsin-Yuan Chen"
+     ],
+     "journal": "Journal of the Royal Statistical Society Series A (Statistics in Society)",
+     "date": "2026-08-18",
+     "abstract": "",
+     "url": "https://doi.org/10.1093/jrsssa/qnag101",
+     "doi": "10.1093/jrsssa/qnag101",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7204537575",
      "topic": "econ-stats",
      "origin": "OpenAlex",
@@ -36152,7 +36763,7 @@
      "doi": "10.1093/jrsssc/qlag051",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4409122558",
@@ -36295,6 +36906,25 @@
      "is_new": false
     },
     {
+     "id": "oa:W4417032049",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "A decay-adjusted spatio-temporal model to account for the impact of mass drug administration on neglected tropical disease prevalence",
+     "authors": [
+      "Emanuele Giorgi",
+      "Claudio Fronterrè",
+      "Peter J. Diggle"
+     ],
+     "journal": "Journal of the Royal Statistical Society Series A (Statistics in Society)",
+     "date": "2026-08-15",
+     "abstract": "Abstract Prevalence surveys are routinely used to monitor the effectiveness of mass drug administration (MDA) programmes for controlling Neglected Tropical Diseases (NTDs). We propose a decay-adjusted spatio-temporal (DAST) model that explicitly accounts for the time-varying impact of MDA on NTD prevalence, providing a flexible and interpretable framework for estimating intervention effects from sparse survey data. Using case studies on soil-transmitted helminths and lymphatic filariasis, we show that DAST offers a practical alternative to standard geostatistical models when the objective includes quantifying MDA impact and supporting short-term programmatic forecasting. We also discuss extensions and identifiability challenges, advocating for data-driven parsimony over complexity in settings where the available data are too sparse to support the estimation of highly parameterized models.",
+     "url": "https://doi.org/10.1093/jrsssa/qnag100",
+     "doi": "10.1093/jrsssa/qnag100",
+     "pdf": "https://doi.org/10.1093/jrsssa/qnag100",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7204158573",
      "topic": "econ-stats",
      "origin": "OpenAlex",
@@ -36403,9 +37033,9 @@
      "abstract": "Abstract Evidence syntheses are often updated as new trials become available. A cumulative meta-analysis repeats a meta-analysis in chronological order, and trial sequential analysis applies group-sequential principles to cumulative meta-analysis to control the risk of spurious findings due to repeated testing. Despite the growing popularity of trial sequential analysis, existing methods rely heavily on normal approximations derived from interim analyses of randomized controlled trials, where participants are typically more homogeneous than in meta-analyses. In random-effects meta-analyses, the conventional assumption that the synthesized effect estimate follows a normal distribution can perform poorly when the number of studies is small. In such settings, the Hartung–Knapp–Sidik–Jonkman method, which is based on a t distribution, has been recommended for more reliable inference. This article introduces refined trial sequential procedures based on cumulative meta-analytic t statistics. The proposed methods are designed to reduce the risk of premature or spurious conclusions in updating evidence syntheses, particularly when between-study heterogeneity is present. Numerical studies demonstrate that the proposed methods provide improved control of type I error compared with existing methods, although the degree of improvement depends on the magnitude of heterogeneity and the true effect size.",
      "url": "https://doi.org/10.1093/jrsssc/qlag050",
      "doi": "10.1093/jrsssc/qlag050",
-     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13524431/",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13524431/pdf/nihms-2202625.pdf",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7202154795",
@@ -37168,10 +37798,10 @@
      ],
      "journal": "Econometrics and Statistics",
      "date": "2026-08-01",
-     "abstract": "",
+     "abstract": "A historically structured survey of panel data econometrics is provided, tracing its evolution from the error components models of the 1960s to the modern integration of causal inference, machine learning, and high-dimensional methods. The survey emphasizes the conceptual breakthroughs that shaped the field, including approaches to unobserved heterogeneity, the development of dynamic panel GMM estimators, nonlinear and limited dependent variable models, cross-sectional dependence, nonstationary panels, and recent advances in causal inference and policy evaluation.",
      "url": "https://doi.org/10.1016/j.ecosta.2026.08.004",
      "doi": "10.1016/j.ecosta.2026.08.004",
-     "pdf": "",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S2452306226000407/pdf",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -41360,10 +41990,10 @@
      ],
      "journal": "Biometrics",
      "date": "2026-07-01",
-     "abstract": "Abstract Graph-based denoising is a critical preprocessing step for analyzing noisy data, particularly in genomic applications where gene regulatory networks exhibit inherent directional dependencies. This paper introduces a directed acyclic graph trend filtering (GTF) framework that leverages novel higher-order Bayesian networks and graphical shrinkage processes to enhance local adaptivity in signal smoothing along the directed edges of a graph. Unlike traditional GTF, which is based on undirected graphs, the proposed method explicitly respects the directional structure of graphs, improving interpretability and accuracy in capturing dependencies. We employ a Hamiltonian Monte Carlo algorithm for efficient posterior inference. Through simulations and genomic applications, the proposed method outperforms a state-of-the-art GTF algorithm in terms of mean squared error reduction and signal-to-noise ratio improvement, demonstrating its utility in recovering true signals while accounting for meaningful structural information.",
+     "abstract": "Graph-based denoising is a critical preprocessing step for analyzing noisy data, particularly in genomic applications where gene regulatory networks exhibit inherent directional dependencies. This paper introduces a directed acyclic graph trend filtering (GTF) framework that leverages novel higher-order Bayesian networks and graphical shrinkage processes to enhance local adaptivity in signal smoothing along the directed edges of a graph. Unlike traditional GTF, which is based on undirected graphs, the proposed method explicitly respects the directional structure of graphs, improving interpretability and accuracy in capturing dependencies. We employ a Hamiltonian Monte Carlo algorithm for efficient posterior inference. Through simulations and genomic applications, the proposed method outperforms a state-of-the-art GTF algorithm in terms of mean squared error reduction and signal-to-noise ratio improvement, demonstrating its utility in recovering true signals while accounting for meaningful structural information.",
      "url": "https://doi.org/10.1093/biomtc/ujag150",
      "doi": "10.1093/biomtc/ujag150",
-     "pdf": "",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13527208/",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -41382,7 +42012,7 @@
      ],
      "journal": "Biometrics",
      "date": "2026-07-01",
-     "abstract": "Abstract In this paper, we propose a Bayesian multivariate network meta-regression model to compare multiple treatments used to treat cardiovascular and diabetes diseases, where the multivariate aggregate outcomes include low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, and triglycerides. We assume a log-linear regression model for the standard deviation of the treatment random effects to overcome the difficulty that some treatments may present only in a single study. As the within-study sample covariance matrix $\\boldsymbol {S}$ is partially observed or completely missing and the within-study sample correlations are not observed at all, we postulate a hierarchical structure on the unknown within-study covariance matrices. We further develop a Markov chain Monte Carlo sampling algorithm to sample from the posterior distribution and a Monte Carlo procedure to rank the treatment effects for the multivariate outcomes. DIC is used for model comparison. Two variations of DIC are further developed to quantify (i) the overall improvement in the fit and (ii) the gain in the fit of each outcome due to the multivariate model versus the univariate model alone. A detailed analysis of the aggregate data from real randomized controlled trials is carried out to further demonstrate the proposed methodology.",
+     "abstract": "In this paper, we propose a Bayesian multivariate network meta-regression model to compare multiple treatments used to treat cardiovascular and diabetes diseases, where the multivariate aggregate outcomes include low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, and triglycerides. We assume a log-linear regression model for the standard deviation of the treatment random effects to overcome the difficulty that some treatments may present only in a single study. As the within-study sample covariance matrix $\\boldsymbol {S}$ is partially observed or completely missing and the within-study sample correlations are not observed at all, we postulate a hierarchical structure on the unknown within-study covariance matrices. We further develop a Markov chain Monte Carlo sampling algorithm to sample from the posterior distribution and a Monte Carlo procedure to rank the treatment effects for the multivariate outcomes. DIC is used for model comparison. Two variations of DIC are further developed to quantify (i) the overall improvement in the fit and (ii) the gain in the fit of each outcome due to the multivariate model versus the univariate model alone. A detailed analysis of the aggregate data from real randomized controlled trials is carried out to further demonstrate the proposed methodology.",
      "url": "https://doi.org/10.1093/biomtc/ujag144",
      "doi": "10.1093/biomtc/ujag144",
      "pdf": "",
@@ -48257,9 +48887,426 @@
   {
    "key": "ai-ml",
    "name": "AI·머신러닝",
-   "count": 1160,
-   "new_count": 50,
+   "count": 1182,
+   "new_count": 62,
    "papers": [
+    {
+     "id": "oa:W7204999235",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Don’t Look up: Evaluating the Tradeoff Between Performance and Sustainability of Text Classification Using Open LLMs",
+     "authors": [
+      "Sean-Kelly Palicki",
+      "Isaac Bravo",
+      "Clint Claessen"
+     ],
+     "journal": "Social Science Computer Review",
+     "date": "2026-09-02",
+     "abstract": "The increasing adoption of Large Language Models (LLMs) as a text analysis method in social science presents a critical yet under-examined trade-off between model performance and environmental sustainability. This research provides a systematic evaluation comparing the performance, energy consumption, processing time, and CO 2 emissions of various computational text analysis methods (CTAM), including dictionaries, trained classifiers, and self-hosted open LLMs when performing sentiment analysis of parliamentary speeches, classification of open-ended survey responses, and named entity recognition of newspapers. The analysis is limited to self-hosted deployment in local and server environments where per-task energy consumption is directly measurable. Although self-hosted LLMs demonstrate strong performance in sentiment analysis, closely aligning with human judgment, they require significantly more energy and time than non-LLM approaches. For classification and named entity recognition, pretrained task-specific models achieve better F1 scores with a lower carbon footprint, challenging the primacy of larger models. To navigate this trade-off, we propose a CO 2 -Adjusted F1 Score that penalizes emissions while rewarding performance. Applying this metric, we show that smaller, task-specific models may be preferred over larger general-purpose LLMs for efficient text analysis. We highlight the necessity for thoughtful and responsible model selection, promoting a “right-fit” approach for CTAM.",
+     "url": "https://doi.org/10.1177/08944393261473230",
+     "doi": "10.1177/08944393261473230",
+     "pdf": "https://doi.org/10.1177/08944393261473230",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204999281",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Mitigating Local Debt Risks and Stabilizing Real Estate: The Rescue Role of Local Government Debt Replacement",
+     "authors": [
+      "Xinyi Zheng",
+      "Yan Wang"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-09-02",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11414-8",
+     "doi": "10.1007/s10614-026-11414-8",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7205004381",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The golden thread of AI subalternity: epistemic activism",
+     "authors": [
+      "Ismael Kherroubi Garcia"
+     ],
+     "journal": "AI and Ethics",
+     "date": "2026-09-02",
+     "abstract": "Abstract There is a rising tide of initiatives countering predominant AI practices and narratives. The social and environmental consequences of AI-dedicated data centres; the death, injury and human displacement involving AI-enabled lethal autonomous weapons; and the corrosion of educational institutions via the adoption of generative AI tools are just a few targets of diverse initiatives taking a stance against AI. However, these initiatives are generally siloed; they do not constitute a single movement but a fragmented patchwork. In this paper, I draw on Gramsci’s Prison Notebooks to make the case for unity among those running such initiatives, whom I call “AI subalterns.” Drawing on literature on epistemic injustice, I confront the AI subaltern with “ruling AI authorities”; those from the ruling classes with the ability to speak about AI with authority and thus perpetrate epistemic injustice. I argue that epistemic activism constitutes a key weapon in the AI subaltern’s arsenal, and that recognising how it is wielded by peers may help develop a sense of political consciousness. I show how the resulting unity among AI subalterns meets the criteria Gramsci sets out when describing how subalterns have historically coordinated successful political uprisings.",
+     "url": "https://doi.org/10.1007/s43681-026-01318-6",
+     "doi": "10.1007/s43681-026-01318-6",
+     "pdf": "https://doi.org/10.1007/s43681-026-01318-6",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7205017724",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The sustainable AI development contradiction: Chinese policy on sustainability and the costs of AI development",
+     "authors": [
+      "Levi Checketts"
+     ],
+     "journal": "AI & Society",
+     "date": "2026-09-02",
+     "abstract": "Abstract The ecological cost of developing artificial intelligence, particularly the cost caused by data centers, has been detailed by many scholars, but few have outlined what this implies for specific countries. This review paper brings together reporting on the forecast of ecological harm to China from various forms of industrialization, including climate change, and the ecological impact of AI development. The author suggests that relying on “AI for sustainability” as a solution to ecological problems is a type of “moral hazard,” borrowing a metaphor from economics, because treating AI as insurance against climate change may inhibit governments from taking necessary action now to move toward negative carbon emissions. Considering the situation of China, the author contends that the actual environmental toll of AI presents a significant ecological problem. Three interconnected ecological problems are reviewed: AI’s carbon emissions, AI’s water costs, and ecological devastation tied to AI hardware production and disposal. Together with forecasts from the World Meteorological Organization’s, this bodes poorly for the future of China. Using the political philosophy of the Communist Party of China, the author argues that it is in the stated interest of the People’s Republic of China to pursue limited AI with caution, fully attuned to the increased harm that industrialism poses to the People, and oriented toward a truly ecologically harmonious future.",
+     "url": "https://doi.org/10.1007/s00146-026-03296-z",
+     "doi": "10.1007/s00146-026-03296-z",
+     "pdf": "https://doi.org/10.1007/s00146-026-03296-z",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7118454519",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Improving Scientific Document Retrieval with Academic Concept Index",
+     "authors": [
+      "Jeyun Lee",
+      "Junhyoung Lee",
+      "Wonbin Kweon",
+      "B. Jin",
+      "Yu Zhang",
+      "Susik Yoon",
+      "Dongha Lee",
+      "Hwanjo Yu",
+      "Jiawei Han",
+      "SeongKu Kang"
+     ],
+     "journal": "ACM Transactions on Intelligent Systems and Technology",
+     "date": "2026-09-01",
+     "abstract": "Adapting general-domain retrievers to scientific domains is challenging due to the scarcity of large-scale domain-specific relevance annotations and the substantial mismatch in vocabulary and information needs. Recent approaches address these issues through two independent directions that leverage large language models (LLMs): (1) generating synthetic queries for fine-tuning, and (2) generating auxiliary contexts to support relevance matching. However, both directions overlook the diverse academic concepts embedded within scientific documents, often producing redundant or conceptually narrow queries and contexts. To address this limitation, we introduce an academic concept index , which extracts key concepts from papers and organizes them guided by an academic taxonomy. This structured index serves as a foundation for improving both directions. First, we enhance the synthetic query generation with concept coverage-based generation ( CCQGen ), which adaptively conditions LLMs on uncovered concepts to generate complementary queries with broader concept coverage. Second, we strengthen the context augmentation with concept-focused auxiliary contexts ( CCExpand ), which leverages a set of document snippets that serve as concise responses to the concept-aware CCQGen queries. Extensive experiments show that incorporating the academic concept index into both query generation and context augmentation leads to higher-quality queries, better conceptual alignment, and improved retrieval performance.",
+     "url": "https://doi.org/10.1145/3844616",
+     "doi": "10.1145/3844616",
+     "pdf": "https://doi.org/10.48550/arxiv.2601.00567",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7161630817",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Conglomerate leveraged entry (CLE), market reconcentration, and consumer welfare: Evidence from India's telecom industry",
+     "authors": [
+      "Prakash Gurumurti Vhankade"
+     ],
+     "journal": "Telecommunications Policy",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.telpol.2026.103303",
+     "doi": "10.1016/j.telpol.2026.103303",
+     "pdf": "https://doi.org/10.2139/ssrn.6793484",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7169703143",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Navigating COP16’s digital sequence information outcomes: What researchers need to do in practice",
+     "authors": [
+      "Melania Muñoz Garcia",
+      "Amber Hartman Scholz"
+     ],
+     "journal": "Patterns",
+     "date": "2026-09-01",
+     "abstract": "The UN Convention on Biological Diversity adopted new rules for sharing benefits from publicly available genetic sequence data, also known as digital sequence information (DSI). In this Opinion, the authors describe the key elements researchers need to be aware of, address real-life questions, and explain the practical implications of these rules for research and development.",
+     "url": "https://doi.org/10.1016/j.patter.2026.101661",
+     "doi": "10.1016/j.patter.2026.101661",
+     "pdf": "https://doi.org/10.1016/j.patter.2026.101661",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204871153",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The grammar of being seen: Verification interfaces and the sociological cost of legibility in digital platform governance",
+     "authors": [
+      "Zihang Lan"
+     ],
+     "journal": "Telecommunications Policy",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.telpol.2026.103317",
+     "doi": "10.1016/j.telpol.2026.103317",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204873059",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Heidegger Waiting on an AI Threshold Event: Beyond the Empirical Turn in Philosophy of Technology",
+     "authors": [
+      "Adam Loughnane"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s13347-026-01161-x",
+     "doi": "10.1007/s13347-026-01161-x",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204880546",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The emergence mirror framework: developmental architecture for human-AI relational governance",
+     "authors": [
+      "Arulnageswaran Aruleswaran",
+      "Thaatchaayini Kananatu"
+     ],
+     "journal": "AI and Ethics",
+     "date": "2026-09-01",
+     "abstract": "Abstract Existing AI governance frameworks address technical alignment, data protection, and regulatory compliance, but not the interior developmental capacity of the humans who govern AI-influenced decisions: the human readiness problem. This paper presents the Emergence Mirror Framework (EMF), an architecture that integrates Kegan’s constructive-developmental theory (1994), Kohlrieser’s secure base theory (2006), and Scharmer’s Theory U (2009) into a unified seven-layer developmental scaffold oriented toward discernment as the apex governance capacity. The EMF advances a specific, testable claim: Kegan’s fourth-order self-authoring mind constitutes the minimum developmental threshold for effective AI stewardship, operationalising what human rights and legal scholarship has theorised but not rendered actionable. The framework was developed through a seven-month phenomenological inquiry and a structured proof-of-concept study with 22 participants across four cohorts (n = 22; descriptive, not statistically generalisable), using multi-source triangulation of developmental surveys, AI dialogue transcripts, and facilitator observations. Participants ranged from late third-order to mid fourth-order profiles, testing the framework across the readiness gap it identifies. Nineteen of 22 participants retained decision sovereignty, 18 of 22 demonstrated early interrogation of AI outputs, and 20 of 22 articulated sovereignty boundaries, consistent with the moral performance indicators the EMF predicts (Kristjánsson et al., Rev Gen Psychol 25:239-255, 2021). A participant at the third-to-fourth order transition experienced the predicted developmental friction whilst governance integrity remained intact. Individual posture profiles, visualised through a Leadership Posture Heat Map (Sect. 4.3.4), reveal variation aggregate statistics alone cannot capture. The paper further demonstrates that an AI mirror as reported by Vallor (The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking, Oxford University Press, Oxford, 2024) can function as a developmental instrument: relationally grounded engagement oriented toward resonance, rather than replacement, can deepen discernment and strengthen sovereign decision-making rather than producing moral deskilling.",
+     "url": "https://doi.org/10.1007/s43681-026-01333-7",
+     "doi": "10.1007/s43681-026-01333-7",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01333-7.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204884413",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Learning curvature-aware multimodal representations with bicomplex embeddings",
+     "authors": [
+      "Thanh Le",
+      "Vy Cao",
+      "Duong-Khang Au",
+      "Trong-Nghia Pham",
+      "Bac Le"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10618-026-01257-0",
+     "doi": "10.1007/s10618-026-01257-0",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204893410",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Implicit-bias-like patterns in reasoning models",
+     "authors": [
+      "Messi Ho Jun Lee",
+      "Calvin K. Lai"
+     ],
+     "journal": "Nature Machine Intelligence",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1038/s42256-026-01300-1",
+     "doi": "10.1038/s42256-026-01300-1",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204909232",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Technical fairness and social legitimacy: a conceptual mapping of algorithmic fairness, procedural justice, and explainable AI",
+     "authors": [
+      "Arif Perdana"
+     ],
+     "journal": "AI and Ethics",
+     "date": "2026-09-01",
+     "abstract": "Abstract Algorithmic fairness that conforms to mathematical criteria can sometimes be considered unfair by affected communities, undermining legitimacy in critical domains. This study explains this “perception gap” through the proposed procedural deficit hypothesis, in which technical fairness approaches often emphasize distributive outcomes while giving less attention to procedural justice, including transparency, contestability, and correctability. It develops a conceptual mapping that links statistical fairness metrics to perceived fairness dimensions and identifies scope conditions, such as ground-truth legitimacy, under which these links are likely to hold or break down. To mitigate these risks, this study introduces a fairness-by-design framework that integrates stakeholder involvement and explainability into the development lifecycle. It operationalizes this framework through the Fairness Process Card, a practical tool for documenting procedural justice mechanisms. The framework identifies procedural considerations that may complement statistical fairness assessment in AI system design.",
+     "url": "https://doi.org/10.1007/s43681-026-01342-6",
+     "doi": "10.1007/s43681-026-01342-6",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01342-6.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204916316",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Steering machine reasoning with brain signals",
+     "authors": [
+      "Changde Du",
+      "Huiguang He"
+     ],
+     "journal": "Nature Machine Intelligence",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1038/s42256-026-01302-z",
+     "doi": "10.1038/s42256-026-01302-z",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204921496",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Constitutional limits on AI governance in Bangladesh’s judiciary: risk regulation, judicial responsibility, and institutional capacity",
+     "authors": [
+      "Atikur Rahman Ranga",
+      "Emon Hossain Bijoy",
+      "Nazmul Hasan",
+      "Abdulla Hossain"
+     ],
+     "journal": "AI and Ethics",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s43681-026-01324-8",
+     "doi": "10.1007/s43681-026-01324-8",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204936234",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Participatory Design Methods for Smart Building Renovation: Evidence, Governance and Policy Implications",
+     "authors": [
+      "Emmanouil Valis",
+      "Charalampos Alexopoulos"
+     ],
+     "journal": "Digital Government Research and Practice",
+     "date": "2026-09-01",
+     "abstract": "The current Literature Review examines recent developments in Participatory Design methods for smart building renovation. It is based on a Systematic Literature Review of 24 articles published between 2015 and 2025. The findings are presented using the framework of ICEGAP structure: Introduction, Context, Evidence, Gaps, Actions and Policy and Practice Implications. The review covers co-design methods and approaches, digital collaboration tools, such as dashboards, Digital Twins, different governance forms, issues of justice and equity and also challenges that we face during the process. According to the review, there are problems and challenges that are associated specifically with smart renovation, which are not relevant to traditional renovation projects, such as: data access, data use, automation, monitoring, and last accountability post renovation. This review also identifies some persistent constraints, such as institutional fragmentation, technical complexity, digital literacy problems leading to inequality of participation, unequal distribution of power and resources that lead to mixed results. The final conclusion of this review is that participation in smart building renovation, will prove most effective, when implemented consistently across the entire life cycle of the projects and when the residents play a critical role during the decision-making process by influencing the results with their valuable input.",
+     "url": "https://doi.org/10.1145/3844733",
+     "doi": "10.1145/3844733",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204954070",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Robust Multi-label Classification via Preference Learning",
+     "authors": [
+      "Vu-Linh Nguyen",
+      "Xuan-Truong Hoang",
+      "Sébastien Destercke",
+      "Cassio de Campos",
+      "Van‐Nam Huynh"
+     ],
+     "journal": "Machine Learning",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10994-026-07147-2",
+     "doi": "10.1007/s10994-026-07147-2",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204956175",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Generative AI and the ethics of cultural work: autonomy, precarity, and social sustainability in the fashion industry",
+     "authors": [
+      "Helena Moreira Silva",
+      "Sandra Regina Rech",
+      "Ana Júlia Dal Forno"
+     ],
+     "journal": "AI and Ethics",
+     "date": "2026-09-01",
+     "abstract": "Abstract The rapid adoption of generative artificial intelligence (AI) across creative industries raises urgent ethical questions about autonomy, authorship, and the social conditions under which cultural work is performed. While generative AI is frequently framed as a tool for creative augmentation and discourses of human-centered innovation, its integration into cultural production may also reshape labor relations in ways that intensify precarity and redistribute responsibility without corresponding protections. This article examines the ethical implications of generative AI for cultural work, focusing on autonomy, labor precarity, value production, and the broader social sustainability of cultural work in the fashion industry. Drawing on a systematic and interpretive reviews, the study analyzes how generative systems reconfigure creative tasks, shifting workers’ roles toward prompting, curation, validation, and oversight of algorithmic outputs. The findings reveal persistent tensions between human-centered AI discourses and productivity-driven implementation practices. Although generative AI may reduce certain repetitive activities, the literature indicates heightened cognitive demands, accelerated workflows, and increased dependency on platform-mediated infrastructures. The analysis argues that the ethical impact of generative AI on cultural work cannot be assessed solely through narratives of innovation or collaboration. Instead, it must be evaluated in relation to structural inequalities, labor governance, and the protection of creative autonomy. By foregrounding the ethical dimensions of generative AI adoption, this article contributes to ongoing debates about responsible AI and the future of dignified work in cultural industries.",
+     "url": "https://doi.org/10.1007/s43681-026-01339-1",
+     "doi": "10.1007/s43681-026-01339-1",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01339-1.pdf",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204961218",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Towards Efficient Federated Recommendation with Discrete Graph Convolutional Network",
+     "authors": [
+      "Yang Li",
+      "Weike Pan",
+      "Qiang Yang",
+      "Zhong Ming"
+     ],
+     "journal": "Artificial Intelligence",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.artint.2026.104607",
+     "doi": "10.1016/j.artint.2026.104607",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204962669",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Recgp: gradient penalization for transferable adversarial attacks in recommendation systems",
+     "authors": [
+      "WU Cai-hong",
+      "Hai Hong Chen",
+      "Shukai Song",
+      "Yuanting Yan",
+      "Shu Zhao",
+      "Fulan Qian"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10618-026-01253-4",
+     "doi": "10.1007/s10618-026-01253-4",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204987730",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Learning Without Forgetting for Continual Learning in LLMs Through Adaptive LoRA Ranks",
+     "authors": [
+      "Fuli Qiao",
+      "Mehrdad Mahdavi"
+     ],
+     "journal": "Machine Learning",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10994-026-07145-4",
+     "doi": "10.1007/s10994-026-07145-4",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7204999975",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Stuck in the Pilot Phase: Challenges in Using Machine Learning in Public Welfare Services",
+     "authors": [
+      "Stine  Nørgaard Christensen",
+      "Jeppe Agger Nielsen",
+      "Mette Strange Noesgaard",
+      "Kasper Trolle Elmholdt",
+      "Helene Ratner"
+     ],
+     "journal": "Information Polity",
+     "date": "2026-09-01",
+     "abstract": "Although artificial intelligence (AI) is heralded as a transformative force, the challenges of integrating the technology into public welfare services remain underexplored. Many AI projects hold great potential but stall before full implementation, failing to progress beyond the pilot phase. In response, we have examined machine learning (ML), a subset of AI techniques, in the context of eldercare, a key public welfare service, where an aging population and labor shortages have intensified the demand for technological solutions. Drawing on a qualitative study in an eldercare department in a Danish municipality and guided by a sociotechnical framework, we investigated two projects that applied ML to optimize work planning and client rehabilitation. Despite high expectations, funding, and strong strategic support, neither project progressed beyond the pilot phase into daily operations, making them compelling examples for understanding the challenges in using ML in public welfare services. Our analysis reveals eight challenges, shaped by the interplay among technology, people, structure, tasks, regulation, and ethics. By implication, we offer new insights into the multifaceted and sociotechnical challenges of using ML in public welfare services.",
+     "url": "https://doi.org/10.1177/15701255261481287",
+     "doi": "10.1177/15701255261481287",
+     "pdf": "",
+     "first_seen": "2026-09-03T09:27:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W4407424148",
      "topic": "ai-ml",
@@ -48274,7 +49321,7 @@
      "abstract": "Abstract Accurate prediction for multimodal data—including tabular, textual, and visual inputs or outputs—is essential for advancing analytics across diverse application domains. Existing methods often struggle to integrate heterogeneous data types while maintaining strong predictive performance. We introduce Generative Distribution Prediction (GDP), a model-agnostic framework that leverages high-fidelity multimodal synthetic data generated from the conditional distribution of interest, such as via conditional diffusion models, to enhance prediction across both structured and unstructured modalities. GDP is compatible with any expressive generative model and naturally supports transfer learning for domain adaptation. We provide a rigorous theoretical foundation for GDP, establishing statistical guarantees on its predictive accuracy when diffusion models serve as the generative backbone. By estimating the underlying data-generating distribution and enabling loss-adapted risk minimization, GDP delivers accurate point predictions in broad multimodal settings. We empirically validate GDP on a range of supervised learning tasks, including adaptive quantile regression, modal regression, tabular prediction, image captioning, and question answering, demonstrating its versatility and effectiveness across domains.",
      "url": "https://doi.org/10.1007/s10994-026-07148-1",
      "doi": "10.1007/s10994-026-07148-1",
-     "pdf": "https://doi.org/10.1007/s10994-026-07148-1",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s10994-026-07148-1.pdf",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -48336,7 +49383,7 @@
      "abstract": "Abstract Agentic AI is the latest round of advances intended to increase what machines can do by themselves. As new technological possibilities enable a wider range of valued and critical services for human stakeholders, the usual assumption is that merely deploying more capable software/AI agents will prove sufficient for carrying out a broader range of real‐world activities. However, the real world inevitably generates surprises—in the form of anomalies, unanticipated opportunities, or as system evolution expands relationships, pressures, and interdependencies—that challenge the system and create demands beyond what any agent or set of agents can handle on their own. Thus, coordinated joint activity becomes another important layer of system function, and when agents of any type lack this competency, system performance will have surpising limits. Unfortunately, software/AI agents have not yet been designed to carry out or support the foundations for coordinated activity. This paper contrasts Coordination‐First architectures that explicitly address the competencies and constraints of coordinated joint activity across multiple roles and layers with the current Coordination‐Last paradigm that focuses primarily on deploy‐fast‐and‐fix‐later strategies. We situate this debate in the context of recent results in theories of joint activity design and organized complexity. The result is new directions for architecting coordinated activity across human and software/AI agent roles in layered networked systems.",
      "url": "https://doi.org/10.1002/aaai.70083",
      "doi": "10.1002/aaai.70083",
-     "pdf": "https://doi.org/10.1002/aaai.70083",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70083",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -48354,7 +49401,7 @@
      "abstract": "With the world population increasing, new living areas must be created to accommodate the increased number of people. The designs of most existing cities have a series of well-documented limitations. For example, some cities have serious traffic congestion problems, while others are unsafe. There is a lot of research on methods of improving parts of existing cities, and in many cases the improvement of a city is a constant and ongoing process. However, this research is limited by a few key factors: it is applied to the designs of current cities; it typically focuses on specific, localised issues; and it typically aims to fulfill a single objective, rather than examining the trade-off involved when analysing all aspects of a city at once. Recently, cities such as The Line (Neom) project in Saudi Arabia, and Brasilia and Canberra before it, have been designed and built from scratch. These projects often make bold claims that their designs are “optimal” in some regard. We introduce a novel “living metric” to quantify the degree of hierarchical living structure (a property associated with organically developed cities) in a city’s road network, and validate it by applying it to six real cities. As a proof of concept, we also demonstrate that this and two further metrics - population density (space efficiency) and mean circuity (travel efficiency) - can be applied to hypothetical city designs. To do this, we introduce CitySprout , a novel procedural road network generator, and generate cities of four distinct morphologies, or “grammars”. We study current examples of planned cities, and discuss the fundamental limitations of attempting to optimise cities based only on the underlying road network. We then demonstrate that different urban morphologies perform better at different metrics, highlighting that optimising a road network is inherently metric-dependent and therefore cannot converge on the “optimal” urban form. We find that a Grid structure maximises population density (under a set of clearly defined assumptions about population distribution); an Organic structure exhibits the most hierarchical “living structure”; and a Line structure minimises the required detours for cross-city travel. These differences highlight the trade-off between competing urban objectives.",
      "url": "https://doi.org/10.1140/epjds/s13688-026-00694-7",
      "doi": "10.1140/epjds/s13688-026-00694-7",
-     "pdf": "https://doi.org/10.1140/epjds/s13688-026-00694-7",
+     "pdf": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-026-00694-7.pdf",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -48407,7 +49454,7 @@
      "abstract": "Abstract Millions navigate legal disputes without reliable knowledge of what the law establishes in their situation, and meet counterparties whose assumptions are mistaken in a different direction. This article develops real-time triadic mediation: an institutional model in which an AI system supplies simultaneous, source-grounded framework analysis to both parties in an emerging dispute, before positions harden. The model is preventive, bilateral, and framework-focused. Three premises support it, each defended and each bounded. The theoretical premise is that legal sources are constitutive, so that holdings retrieved under a doctrinally weighted scheme can support reliable framework guidance; the claim attaches to authority-weighted retrieval over a curated corpus rather than to statistical regularity across a mass of rulings, and does not survive the move to genuinely novel questions. The empirical premise is that divergent framework beliefs drive some share of escalation; legal needs research shows that this share has never been measured, and that the more prominent barrier is failure to characterise a problem as legal at all, so the premise is advanced as a hypothesis. The feasibility premise is that retrieval-augmented systems can reach the required reliability; preregistered evaluation of commercial legal research tools indicates they do not yet, which makes threshold conditions for deployment part of the model itself. Four worked examples illustrate the model, including one in which epistemic symmetry leaves the weaker party worse off. The article closes by arguing that non-deployment is itself a choice with distributive consequences, needing justification once the stated reliability conditions are met.",
      "url": "https://doi.org/10.1007/s43681-026-01351-5",
      "doi": "10.1007/s43681-026-01351-5",
-     "pdf": "https://doi.org/10.1007/s43681-026-01351-5",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01351-5.pdf",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -48460,7 +49507,7 @@
      "abstract": "Abstract Increased pollution, traffic, overfishing, and climate change threaten fish populations, their habitats, and the sustainability of marine ecosystems. To develop environmental policies that support the conservation of sustainable ocean ecosystems and foster biodiversity, the use of artificial intelligence (AI) is proposed to improve knowledge production on various fish species. These fishial recognition systems (FRS) integrate machine learning, deep learning, convolutional neural networks, computer vision, drones, and robots to identify fish species, monitor endangered populations, track migration patterns, detect illegal fishing, and even track and kill invasive species. While these FRS are employed for biodiversity protection, they may change practices, shift relations, and shape the production of new knowledge and access thereto. The technical community actively adopts FRS, but the ways this technology affects fish, humans, and their shared environments remain underexplored. Therefore, this article conducts philosophically informed, exploratory research into the implications of FRS to address the central research question: how do FRS affect fish in open waters? This paper analyses the technical literature and draws on various bodies of philosophical and social science research to identify the main social and ethical considerations of FRS. It identifies potential (intentional and unintentional) biases found in the data, algorithms, or applications of FRS. It also explores the potential physical and emotional harm to fish caused by underwater FRS. FRS may further exacerbate anthropocentric, quantification, and power asymmetries between humans and fish. In response, this paper develops a fish-centric approach to the development, deployment, and use of FRS.",
      "url": "https://doi.org/10.1007/s43681-026-01312-y",
      "doi": "10.1007/s43681-026-01312-y",
-     "pdf": "https://doi.org/10.1007/s43681-026-01312-y",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01312-y.pdf",
      "first_seen": "2026-09-02T09:22:53+09:00",
      "is_new": true
     },
@@ -48478,7 +49525,7 @@
      ],
      "journal": "Machine Learning",
      "date": "2026-08-29",
-     "abstract": "Abstract End-to-end deep neural networks have achieved remarkable success across various domains but are often criticized for their lack of interpretability. While post hoc explanation methods attempt to address this issue, they often fail to accurately represent these black-box models, resulting in misleading or incomplete explanations. To overcome these challenges, we propose an inherently transparent model architecture called Neural Probabilistic Circuits (NPCs), which enable compositional and interpretable predictions through logical reasoning. In particular, an NPC consists of two modules: an attribute recognition model, which predicts probabilities for various attributes, and a task predictor built on a probabilistic circuit, which enables logical reasoning over recognized attributes to make class predictions. To train NPCs, we introduce a three-stage training algorithm comprising attribute recognition, circuit construction, and joint optimization. Moreover, we theoretically demonstrate that an NPC’s error is upper-bounded by a linear combination of the errors from its modules. To further demonstrate the interpretability of NPC, we provide both the most probable explanations and the counterfactual explanations. Empirical results on four benchmark datasets show that NPCs strike a balance between interpretability and performance, achieving results competitive even with those of end-to-end black-box models while providing enhanced interpretability.",
+     "abstract": "End-to-end deep neural networks have achieved remarkable success across various domains but are often criticized for their lack of interpretability. While post hoc explanation methods attempt to address this issue, they often fail to accurately represent these black-box models, resulting in misleading or incomplete explanations. To overcome these challenges, we propose an inherently transparent model architecture called Neural Probabilistic Circuits (NPCs), which enable compositional and interpretable predictions through logical reasoning. In particular, an NPC consists of two modules: an attribute recognition model, which predicts probabilities for various attributes, and a task predictor built on a probabilistic circuit, which enables logical reasoning over recognized attributes to make class predictions. To train NPCs, we introduce a three-stage training algorithm comprising attribute recognition, circuit construction, and joint optimization. Moreover, we theoretically demonstrate that an NPC's error is upper-bounded by a linear combination of the errors from its modules. To further demonstrate the interpretability of NPC, we provide both the most probable explanations and the counterfactual explanations. Empirical results on four benchmark datasets show that NPCs strike a balance between interpretability and performance, achieving results competitive even with those of end-to-end black-box models while providing enhanced interpretability.",
      "url": "https://doi.org/10.1007/s10994-026-07118-7",
      "doi": "10.1007/s10994-026-07118-7",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s10994-026-07118-7.pdf",
@@ -48906,7 +49953,7 @@
      "doi": "10.1007/s10614-026-11412-w",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204522771",
@@ -48926,7 +49973,7 @@
      "doi": "10.1007/s10994-026-07132-9",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204528415",
@@ -48943,7 +49990,7 @@
      "doi": "10.1007/s11023-026-09799-4",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s11023-026-09799-4.pdf",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204531203",
@@ -48961,7 +50008,7 @@
      "doi": "10.1016/j.telpol.2026.103316",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204536459",
@@ -48981,7 +50028,7 @@
      "doi": "10.1007/s00146-026-03289-y",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03289-y.pdf",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204543939",
@@ -48999,7 +50046,7 @@
      "doi": "10.1177/20539517261481724",
      "pdf": "https://doi.org/10.1177/20539517261481724",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204554535",
@@ -49025,7 +50072,7 @@
      "doi": "10.1038/s42256-026-01299-5",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204578783",
@@ -49042,7 +50089,7 @@
      "doi": "10.1007/s11023-026-09800-0",
      "pdf": "",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204599126",
@@ -49061,7 +50108,7 @@
      "doi": "10.1007/s10994-026-07126-7",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s10994-026-07126-7.pdf",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399911853",
@@ -56041,7 +57088,7 @@
      "doi": "10.1177/20539517261473376",
      "pdf": "https://doi.org/10.1177/20539517261473376",
      "first_seen": "2026-08-30T09:30:21+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7171425906",
@@ -60792,7 +61839,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-07-01",
-     "abstract": "Partial information decomposition (PID) has emerged as a principled way to decompose the information carried by neural activity into components identifying whether interactions among neurons or brain areas generate synergistic or redundant information. Here, we demonstrate that empirical measures of synergy and redundancy based on either Gaussian or discrete probability estimators suffer from a substantial limited-sampling estimation bias. This bias is much larger for synergy than for redundancy. The gap between them increases with the number of parameters specifying the probability distributions. We develop procedures that effectively correct for the bias and provide rules of thumb for the sample sizes required to obtain unbiased estimates. We show that, when used on empirical brain datasets, they successfully remove large synergy biases across species, recording modalities, and experimental designs. Our bias corrections extend the range of neuroscience questions and experimental designs addressable with PID and allow accurate comparisons between synergy and redundancy.",
+     "abstract": "Lorenz GM, Engel NM, Koçillari L, et al. Sampling bias corrections for discrete and Gaussian partial information decompositions. Patterns. 2026: 101619.",
      "url": "https://doi.org/10.1016/j.patter.2026.101619",
      "doi": "10.1016/j.patter.2026.101619",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101619",
