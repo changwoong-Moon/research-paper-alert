@@ -1040,14 +1040,14 @@
    "id": "oa:W7171634646",
    "topic": "public-admin",
    "origin": "OpenAlex",
-   "title": "Institutionalized Enforcement of Administrative Compliance: State Regulator Use of Noncompliance Burdens",
+   "title": "Institutionalized enforcement of administrative compliance: state regulator use of noncompliance burdens",
    "authors": [
     "Mingxu (Emma) Li",
     "Daniel L. Fay"
    ],
    "journal": "Journal of Public Administration Research and Theory",
    "date": "2026-07-27",
-   "abstract": "Abstract Administrative burden scholarship typically examines rules and regulations affecting access to public benefits during initial citizen-state interactions. Scholars agree that individual burdens function as “hidden politics” because policy changes during implementation through bureaucratic discretion. Less is known about bureaucratic behavior or hidden politics enforced on third-party service providers maintaining compliance. In this article we address this by examining noncompliance burdens imposed on abortion providers to understand if regulators emulate peers’ behavior. Using an institutional theoretical framework and administrative records from the Florida Agency for Health Care Administration (FAHCA) on abortion provider oversight, we construct a directed dyadic event history model using 1540 dyad-year observations to predict isomorphism or divergence of sanction activities across regulatory field offices. We find that regulatory field offices emulate behavior of others based on peer’s previous sanction behavior and oversight workload. We also find that regulators diverge from peers based on the regulatory conditions of their own jurisdiction.",
+   "abstract": "Abstract Administrative burden scholarship typically examines rules and regulations affecting access to public benefits during initial citizen–state interactions. Scholars agree that individual burdens function as “hidden politics” because policy changes during implementation through bureaucratic discretion. Less is known about bureaucratic behavior or hidden politics enforced on third-party service providers maintaining compliance. In this article, we address this by examining noncompliance burdens imposed on abortion providers to understand if regulators emulate peers’ behavior. Using an institutional theoretical framework and administrative records from the Florida Agency for Health Care Administration (FAHCA) on abortion provider oversight, we construct a directed dyadic event history model using 1540 dyad-year observations to predict isomorphism or divergence of sanction activities across regulatory field offices. We find that regulatory field offices emulate behavior of others based on peer’s previous sanction behavior and oversight workload. We also find that regulators diverge from peers based on the regulatory conditions of their own jurisdiction.",
    "url": "https://doi.org/10.1093/jopart/muag023",
    "doi": "10.1093/jopart/muag023",
    "pdf": "",
@@ -27575,14 +27575,14 @@
    "id": "oa:W7169533270",
    "topic": "methodology",
    "origin": "OpenAlex",
-   "title": "A-optimal designs for Rasch Poisson Gamma counts models",
+   "title": "A-Optimal Designs for Rasch Poisson Gamma Counts Models",
    "authors": [
     "Heinz Holling",
     "Rainer Schwabe"
    ],
    "journal": "Psychometrika",
    "date": "2026-07-17",
-   "abstract": "In this article, we develop A-optimal designs for a longitudinal Rasch Poisson Gamma counts model (RPGCM).The model is particularly well suited for repeated testing designs in educational and psychological research when the outcomes are count data.Within the RPGCM framework, test scores depend on two types of parameters: respondents' abilities, which are modeled as gamma-distributed random effects, and item difficulties, which are treated as fixed parameters.To account for dependencies among repeated measurements, we incorporate a compound symmetry structure into the RPGCM.Parameter estimation performed using maximum quasi-likelihood methods.Based on this framework, we derive A-optimal designs that allow for efficient estimation of mean abilities and commonly used functions thereof.In analogy to classical ANOVA models, no constraints are imposed on the mean structure.The resulting A-optimal designs are substantially less restrictive than commonly used D-optimal designs.Moreover, the derived designs are also valid for a more general class of longitudinal Poisson Gamma models with repeated measurements.These models can be applied to analyze growth curves for count data in other disciplines, including epidemiology, medicine, and criminology.",
+   "abstract": "In this article, we develop A-optimal designs for a longitudinal Rasch Poisson Gamma counts model (RPGCM). The model is particularly well suited for repeated testing designs in educational and psychological research when the outcomes are count data. Within the RPGCM framework, test scores depend on two types of parameters: respondents' abilities, which are modeled as gamma-distributed random effects, and item difficulties, which are treated as fixed parameters. To account for dependencies among repeated measurements, we incorporate a compound symmetry structure into the RPGCM. Parameter estimation is performed using maximum quasi-likelihood methods. Based on this framework, we derive A-optimal designs that allow for efficient estimation of mean abilities and commonly used functions thereof. In analogy to classical ANOVA models, no constraints are imposed on the mean structure. The resulting A-optimal designs are substantially less restrictive than commonly used D-optimal designs. Moreover, the derived designs are also valid for a more general class of longitudinal Poisson Gamma models with repeated measurements. These models can be applied to analyze growth curves for count data in other disciplines, including epidemiology, medicine, and criminology.",
    "url": "https://doi.org/10.1017/psy.2026.10136",
    "doi": "10.1017/psy.2026.10136",
    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6568886984A1E214EEDFF11BFC6BC13E/S0033312326101367a.pdf/div-class-title-a-optimal-designs-for-rasch-poisson-gamma-counts-models-div.pdf",
@@ -28244,13 +28244,13 @@
    "id": "oa:W7167939719",
    "topic": "methodology",
    "origin": "OpenAlex",
-   "title": "MEAN AND TRUE SCORE CONVERGENCE IN NONPARAMETRIC ITEM RESPONSE THEORY",
+   "title": "Mean and True Score Convergence in Nonparametric Item Response Theory",
    "authors": [
     "Steffen Grønneberg"
    ],
    "journal": "Psychometrika",
    "date": "2026-07-10",
-   "abstract": "Mean and sum scores are widely used in psychometric practice, but their behavior under weak assumptions is not fully understood.We study two basic questions under a latent variable framework with increasing-item asymptotics: when does the observed mean score approximate the true score of the administered form, and when is a true score insensitive to removing a vanishing fraction of items?For the first question, we introduce martingale factor models, which, for polytomous items, weaken conditional independence to a conditional-mean restriction, yet still yield concentration and asymptotic normality results for mean scores around their true scores.For the second question, we show that this stability is equivalent to the convergence of the true scores when the items are bounded, and we identify conditions under which this convergence takes place.These results clarify when mean scores can be interpreted as stable proxies for latent variables, and yield psychometrically relevant consequences.Several theoretical and numerical illustrations are given, including a new interpretation of large-form mean-score correlations and a person-specific confidence interval procedure for the true score.",
+   "abstract": "Mean and sum scores are widely used in psychometric practice, but their behavior under weak assumptions is not fully understood. We study two basic questions under a latent variable framework with increasing-item asymptotics: when does the observed mean score approximate the true score of the administered form, and when is a true score insensitive to removing a vanishing fraction of items? For the first question, we introduce martingale factor models, which, for polytomous items, weaken conditional independence to a conditional-mean restriction, yet still yield concentration and asymptotic normality results for mean scores around their true scores. For the second question, we show that this stability is equivalent to the convergence of the true scores when the items are bounded, and we identify conditions under which this convergence takes place. These results clarify when mean scores can be interpreted as stable proxies for latent variables and yield psychometrically relevant consequences. Several theoretical and numerical illustrations are given, including a new interpretation of large-form mean-score correlations and a person-specific confidence interval procedure for the true score.",
    "url": "https://doi.org/10.1017/psy.2026.10135",
    "doi": "10.1017/psy.2026.10135",
    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB7133012B4D67E8DB9A49660BF9B558/S0033312326101355a.pdf/div-class-title-mean-and-true-score-convergence-in-nonparametric-item-response-theory-div.pdf",
@@ -56530,7 +56530,7 @@
    "doi": "10.1007/s13347-026-01145-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167622907": {
@@ -56633,7 +56633,7 @@
    "doi": "10.1007/s10614-026-11389-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167622299": {
@@ -56730,7 +56730,7 @@
    "doi": "10.1007/s00146-026-03192-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167486057": {
@@ -56748,7 +56748,7 @@
    "doi": "10.1007/s43681-026-01246-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167483000": {
@@ -56766,7 +56766,7 @@
    "doi": "10.1007/s43681-026-01231-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4414594716": {
@@ -56807,7 +56807,7 @@
    "doi": "10.1007/s00146-026-03206-3",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167509837": {
@@ -56903,7 +56903,7 @@
    "doi": "10.1007/s43681-026-01252-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167425374": {
@@ -56921,7 +56921,7 @@
    "doi": "10.1007/s00146-026-03099-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167504507": {
@@ -56957,7 +56957,7 @@
    "doi": "10.1007/s43681-026-01229-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7167520318": {
@@ -57035,7 +57035,7 @@
    "doi": "10.1007/s43681-026-01228-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7167421912": {
@@ -57056,7 +57056,7 @@
    "doi": "10.1007/s00146-026-03193-5",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03193-5.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7167481609": {
@@ -57075,7 +57075,7 @@
    "doi": "10.1007/s43681-026-01244-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167330946": {
@@ -57117,7 +57117,7 @@
    "doi": "10.1007/s10614-026-11368-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167338063": {
@@ -57135,7 +57135,7 @@
    "doi": "10.1007/s13347-026-01143-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167328103": {
@@ -57153,7 +57153,7 @@
    "doi": "10.1007/s13347-026-01144-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4415110448": {
@@ -57194,7 +57194,7 @@
    "doi": "10.1007/s10618-026-01236-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167218905": {
@@ -57299,7 +57299,7 @@
    "doi": "10.1007/s13347-026-01147-9",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167245105": {
@@ -57317,7 +57317,7 @@
    "doi": "10.1007/s13347-026-01148-8",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01148-8.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167268549": {
@@ -57336,7 +57336,7 @@
    "doi": "10.1007/s10618-026-01226-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167231840": {
@@ -57502,13 +57502,14 @@
    ],
    "journal": "Nature Machine Intelligence",
    "date": "2026-07-02",
-   "abstract": "",
+   "abstract": "Generating large ensembles of candidate conformations is standard for improving biomolecular structure prediction. Yet aimless sampling is inefficient and costly, producing many redundant conformations with limited diversity, particularly for complex multimeric assemblies. Here we present HelixFold-S1, a guided planning approach specifically designed to enhance the structural prediction of biomolecular complexes by strategically targeting the most informative regions of conformational space to produce accurate conformations. For each complex, predicted interchain contact probabilities serve as a blueprint of the conformational space, guiding computational effort towards higher-probability, low-redundancy contacts that constrain structure generation. Across diverse biomolecular complex benchmarks, HelixFold-S1 achieves markedly higher structural accuracy than traditional unguided methods while reducing sampling requirements by an order of magnitude. Predicted contact probabilities also provide a rough indicator of prediction difficulty and sampling utility. These results demonstrate that guided planning reshapes conformational exploration and enables more efficient and accurate structural inference. Liu and colleagues introduce HelixFold-S1, a guided sampling strategy for biomolecular complex structure prediction that targets high-probability interaction regions. The method achieves higher accuracy than traditional unguided methods while reducing computational costs.",
    "url": "https://doi.org/10.1038/s42256-026-01264-2",
    "doi": "10.1038/s42256-026-01264-2",
    "pdf": "https://arxiv.org/pdf/2507.09251",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W4414449371": {
    "id": "oa:W4414449371",
@@ -57571,13 +57572,14 @@
    ],
    "journal": "Nature Machine Intelligence",
    "date": "2026-07-02",
-   "abstract": "",
+   "abstract": "Compared with generic artificial intelligence agents, deep research agents perform longer-horizon reasoning and deeper literature exploration to investigate complex questions. Here we present DeepEvidence, a deep research agent for evidence exploration and synthesis across heterogeneous biomedical knowledge sources. DeepEvidence advances deep research through coordinated multi-agent collaboration combining breadth-first and depth-first research strategies to search, explore and aggregate evidence from multiple biomedical knowledge bases and literature. It also incrementally constructs an evidence graph of key entities and observations to support transparent tracking, attribution and validation of the research process. DeepEvidence substantially outperforms generic artificial intelligence agents across four open benchmarks. We further establish seven benchmark tasks spanning major stages of biomedical discovery, including drug discovery, preclinical experimentation, clinical trial development and evidence-based medicine. DeepEvidence demonstrates substantial improvements in systematic evidence exploration and synthesis. These results highlight the potential of deep research agents to accelerate biomedical discovery and translational research. Wang et al. develop DeepEvidence, a biomedical deep research agent for exploring and synthesizing evidence across various knowledge sources to support drug discovery, clinical trials and evidence-based medicine.",
    "url": "https://doi.org/10.1038/s42256-026-01266-0",
    "doi": "10.1038/s42256-026-01266-0",
    "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13449190/",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7167080992": {
    "id": "oa:W7167080992",
@@ -57594,7 +57596,7 @@
    "doi": "10.1007/s13347-026-01135-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4415141285": {
@@ -57637,13 +57639,14 @@
    ],
    "journal": "Nature Machine Intelligence",
    "date": "2026-07-02",
-   "abstract": "",
+   "abstract": "Generating large ensembles of candidate conformations is standard for improving biomolecular structure prediction. Yet aimless sampling is inefficient and costly, producing many redundant conformations with limited diversity, particularly for complex multimeric assemblies. Here we present HelixFold-S1, a guided planning approach specifically designed to enhance the structural prediction of biomolecular complexes by strategically targeting the most informative regions of conformational space to produce accurate conformations. For each complex, predicted interchain contact probabilities serve as a blueprint of the conformational space, guiding computational effort towards higher-probability, low-redundancy contacts that constrain structure generation. Across diverse biomolecular complex benchmarks, HelixFold-S1 achieves markedly higher structural accuracy than traditional unguided methods while reducing sampling requirements by an order of magnitude. Predicted contact probabilities also provide a rough indicator of prediction difficulty and sampling utility. These results demonstrate that guided planning reshapes conformational exploration and enables more efficient and accurate structural inference. Liu and colleagues introduce HelixFold-S1, a guided sampling strategy for biomolecular complex structure prediction that targets high-probability interaction regions. The method achieves higher accuracy than traditional unguided methods while reducing computational costs.",
    "url": "https://doi.org/10.1038/s42256-026-01264-2",
    "doi": "10.1038/s42256-026-01264-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7167074461": {
    "id": "oa:W7167074461",
@@ -57732,13 +57735,14 @@
    ],
    "journal": "Machine Learning",
    "date": "2026-07-01",
-   "abstract": "",
+   "abstract": "Non-injective functions are not globally invertible. However, they can often be restricted to locally injective subdomains where the inversion is well-defined. In many settings, a preferred solution can be selected even when multiple valid preimages exist or input and output dimensions differ. This manuscript describes a reformulation of the inverse learning problem for non-injective functions as a collection of locally invertible problems. More precisely, Twin Neural Network Regression is trained to predict local inverse corrections around known anchor points. By anchoring predictions to points within the same locally invertible region, the method consistently selects a valid branch of the inverse. In contrast to current probabilistic state-of-the-art inversion methods, Inverse Twin Neural Network Regression is a deterministic framework for resolving multi-valued inverse mappings. I demonstrate the approach on problems that are defined by mathematical equations or by data, including multi-solution toy problems and robot-arm inverse kinematics.",
    "url": "https://doi.org/10.1007/s10994-026-07083-1",
    "doi": "10.1007/s10994-026-07083-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7167080441": {
    "id": "oa:W7167080441",
@@ -57817,7 +57821,7 @@
    "doi": "10.1007/s10618-026-01231-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7166851015": {
@@ -57915,7 +57919,7 @@
    "doi": "10.1007/s00146-026-03191-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167937201": {
@@ -57950,13 +57954,14 @@
    ],
    "journal": "AI and Ethics",
    "date": "2026-07-01",
-   "abstract": "",
+   "abstract": "The rapid proliferation of artificial intelligence across organizational contexts has generated profound strategic opportunities while introducing significant ethical and operational risks. Despite growing scholarly attention to responsible AI, extant literature remains fragmented and is often adopting either an optimistic stance emphasizing value creation or an excessively cautious perspective fixated on potential harms. This paper addresses this gap by presenting a comprehensive examination of AI’s dual nature through the lens of strategic information systems. Drawing upon a PRISMA 2020 compliant systematic review of 88 peer-reviewed studies (2018–2025) and grounded in paradox theory, we develop the Paradox-based Responsible AI Governance (PRAIG) framework, which articulates: (1) the strategic benefits of AI adoption (the Good), (2) the inherent risks and unintended consequences (the Bad), and (3) governance mechanisms that enable organizations to navigate these tensions (the AI). Our framework advances theoretical understanding by conceptualizing responsible AI governance as the dynamic management of paradoxical tensions between value creation and risk mitigation. We provide formal propositions—explicitly positioned as illustrative formalisations of the underlying conceptual logic rather than deductively closed theorems—that show why trade-off (Pareto) approaches systematically amplify rather than resolve these tensions when the value–risk frontier is non-stationary, and we develop a taxonomy of paradox management strategies with operational decision rules and contingency conditions. The framework is validated through a structured expert panel (\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$n=12$$\\end{document}, with reported inter-rater reliability and qualitative feedback) and four illustrative organizational cases. For practitioners, we offer actionable guidance for developing governance structures that neither stifle innovation nor expose organizations to unacceptable risks. The paper concludes with a research agenda for advancing responsible AI governance scholarship.",
    "url": "https://doi.org/10.1007/s43681-026-01243-8",
    "doi": "10.1007/s43681-026-01243-8",
    "pdf": "https://arxiv.org/pdf/2601.21095",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7166880435": {
    "id": "oa:W7166880435",
@@ -57988,13 +57993,14 @@
    ],
    "journal": "Machine Learning",
    "date": "2026-07-01",
-   "abstract": "",
+   "abstract": "We revisit median-of-means (MoM) estimation from a deterministic optimisation viewpoint and develop a family of block-\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$L_p$$\\end{document} estimators tailored to robust learning with heavy-tailed and adversarially corrupted data. In a block contamination model with at least \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$(1-\\varepsilon )$$\\end{document} good blocks, we first show that every convex block M-estimator has worst-case robustness constant at least \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$1/(1-2\\varepsilon )$$\\end{document}, matching the classical MoM bound and proving that the trimmed-block oracle constant \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$1/(1-\\varepsilon )$$\\end{document} is unattainable within the convex class. We then introduce a nonconvex block-\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$L_p$$\\end{document} family, \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$p\\in (0,1]$$\\end{document}, and derive finite-sample deterministic robustness bounds for all global minimisers. As p decreases from 1 to 0, these bounds interpolate continuously between \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$1/(1-2\\varepsilon )$$\\end{document} and the block-\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$L_0$$\\end{document} oracle \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$1/(1-\\varepsilon )$$\\end{document}; for small p the global minimisers coincide with those of the oracle under a mild separation condition. We further show that the energy landscape of the block-\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$L_p$$\\end{document} objectives is benign: all local minima lie near the truth and there are no bad basins. Combining these results with block-level concentration yields sub-Gaussian deviation bounds under finite \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$(2+\\delta )$$\\end{document} moments and high-dimensional extensions for robust mean estimation and sparse regression with optimal rates. The analysis places MoM estimators on a continuous 1–p–0 path that approaches trimmed-block performance while remaining computationally tractable and directly applicable to modern robust learning problems.",
    "url": "https://doi.org/10.1007/s10994-026-07101-2",
    "doi": "10.1007/s10994-026-07101-2",
    "pdf": "https://arxiv.org/pdf/2609.01689",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7170149077": {
    "id": "oa:W7170149077",
@@ -58088,7 +58094,7 @@
    "doi": "10.1007/s10994-026-07102-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7166867197": {
@@ -58105,13 +58111,14 @@
    ],
    "journal": "Data Mining and Knowledge Discovery",
    "date": "2026-07-01",
-   "abstract": "",
+   "abstract": "Counterfactual explanations are widely used to communicate how inputs must change for a model to alter its prediction. For a single instance, many valid counterfactuals can exist, which leaves open the possibility for an explanation provider to cherry-pick explanations that better suit a narrative of their choice, highlighting favourable behaviour and withholding examples that reveal problematic behaviour. We formally define cherry-picking for counterfactual explanations. We then study to what extent an external auditor can detect such manipulation. Even with full procedural access, cherry-picked explanations can remain difficult to distinguish from non-cherry-picked explanations, because the multiplicity of valid counterfactuals and flexibility in the explanation specification provide sufficient degrees of freedom to mask deliberate selection. We demonstrate empirically that this variability often exceeds the effect of cherry-picking on standard counterfactual quality metrics. We therefore argue that safeguards should prioritise ex ante standardisation over the use of metrics ex post. Without these safeguards, explanations can become a tool for obfuscation rather than transparency.",
    "url": "https://doi.org/10.1007/s10618-026-01234-7",
    "doi": "10.1007/s10618-026-01234-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7166819243": {
    "id": "oa:W7166819243",
@@ -58236,7 +58243,7 @@
    "doi": "10.1007/s00146-026-03142-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4415286464": {
@@ -58278,13 +58285,14 @@
    ],
    "journal": "Machine Learning",
    "date": "2026-07-01",
-   "abstract": "",
+   "abstract": "We study a class of adversarial bandit optimization problems in which the loss functions may be non-convex and non-smooth. In each round, the learner observes a loss that consists of an underlying linear component together with an additional perturbation applied after the learner selects an action. The perturbations are measured relative to the linear losses and are constrained by a global budget that bounds their cumulative magnitude over time. Under this model, we establish both expected and high-probability regret guarantees. As a special case of our analysis, we recover an improved high-probability regret bound for classical bandit linear optimization, which corresponds to the setting without perturbations. We further complement our upper bounds by proving a lower bound on the expected regret.",
    "url": "https://doi.org/10.1007/s10994-026-07070-6",
    "doi": "10.1007/s10994-026-07070-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충"
   },
   "oa:W7166842214": {
    "id": "oa:W7166842214",
@@ -58368,7 +58376,7 @@
    "doi": "10.1007/s10618-026-01222-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7166866477": {
@@ -58410,7 +58418,7 @@
    "doi": "10.1007/s10994-026-07072-4",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7168018504": {
@@ -58523,7 +58531,7 @@
    "doi": "10.1007/s00146-026-03210-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7166850195": {
@@ -58541,7 +58549,7 @@
    "doi": "10.1007/s11023-026-09790-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7166880270": {
@@ -58559,7 +58567,7 @@
    "doi": "10.1007/s00146-026-03145-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7168168698": {
@@ -58619,7 +58627,7 @@
    "doi": "10.1016/j.telpol.2026.103282",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4391945493": {
@@ -58743,7 +58751,7 @@
    "doi": "10.1007/s10618-026-01237-4",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7167719872": {
@@ -58759,7 +58767,7 @@
    "doi": "10.1109/tnnls.2026.3699054",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7170061065": {
@@ -77782,7 +77790,9 @@
    "url": "https://doi.org/10.1007/s10614-026-11417-5",
    "doi": "10.1007/s10614-026-11417-5",
    "pdf": "",
-   "first_seen": "2026-09-06T09:05:19+09:00"
+   "first_seen": "2026-09-06T09:05:19+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7208761848": {
    "id": "oa:W7208761848",
@@ -78356,7 +78366,8 @@
    "doi": "10.1111/spol.70108",
    "pdf": "https://doi.org/10.1111/spol.70108",
    "first_seen": "2026-09-08T09:34:49+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7210269659": {
    "id": "oa:W7210269659",
@@ -78372,7 +78383,9 @@
    "url": "https://doi.org/10.1007/s11077-026-09630-y",
    "doi": "10.1007/s11077-026-09630-y",
    "pdf": "",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210272761": {
    "id": "oa:W7210272761",
@@ -78391,7 +78404,9 @@
    "url": "https://doi.org/10.1007/s11077-026-09629-5",
    "doi": "10.1007/s11077-026-09629-5",
    "pdf": "",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210273844": {
    "id": "oa:W7210273844",
@@ -78408,9 +78423,10 @@
    "abstract": "Abstract This article empirically investigates how different institutional designs of implementation arrangements are associated with specific configurations of policy capacity and, in turn, with variation in implementation outputs. Building on the policy capacity framework developed by Wu et al. (2015) and its extension to collaborative settings, the article analyses three irrigation public–private partnership (PPP) projects in Kenya—Galana Kulalu, Perkerra, and Chakama—through a small-N, case-oriented comparative design. The study suggests that variation in implementation outputs is best understood through the interaction between institutional design and the configuration of analytical, managerial, and political capacities activated across individual, organizational, and systemic levels. The findings indicate that political capacity serves as an important enabling condition for more effective collaborative arrangements, while the relative weight of analytical and managerial capacities varies with the coordination logic embedded in each arrangement. More hierarchical and rule-based arrangements are associated with stronger implementation outputs where analytical and managerial capacities are institutionalized, whereas more networked and adaptive arrangements rely more heavily on managerial-political capacities rooted in trust, partner mobilization, and negotiated coordination. By connecting policy capacity research with implementation research on collaborative arrangements, the article contributes to a more relational, institutionally grounded understanding of why similar policy interventions yield different implementation outputs under broadly comparable conditions.",
    "url": "https://doi.org/10.1007/s11077-026-09620-0",
    "doi": "10.1007/s11077-026-09620-0",
-   "pdf": "https://doi.org/10.1007/s11077-026-09620-0",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11077-026-09620-0.pdf",
    "first_seen": "2026-09-08T09:34:49+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7210281485": {
    "id": "oa:W7210281485",
@@ -78422,11 +78438,13 @@
    ],
    "journal": "International Journal of Public Administration",
    "date": "2026-09-06",
-   "abstract": "",
+   "abstract": "Bounded rationality represents a relevant issue in public policy, not only because policymakers face constraints in comprehensively understanding complex contexts and collecting accurate informatio...",
    "url": "https://doi.org/10.1080/01900692.2026.2713085",
    "doi": "10.1080/01900692.2026.2713085",
    "pdf": "",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210285856": {
    "id": "oa:W7210285856",
@@ -78443,9 +78461,10 @@
    "abstract": "ABSTRACT The moral decision‐making and behavior of politicians is influenced by the distinctive and characteristic attributes of political office. This literature review analyzes 80 articles from public administration, political science and related disciplines to systematically map these attributes and their underlying mechanisms. This study identifies six categories of attributes of political office that relate to moral decision‐making and behavior: political system design, political role, relations to societal actors, legal and regulatory measures, political cycle, and some general attributes such as the size of the political institution. Interestingly, existing research focuses mostly on unethical behavior, creating white spots in our understanding of how the attributes of political office shape individual and collective processes of moral decision‐making and behavior more generally. We conclude with an agenda for future research that advocates for more targeted research of the sociopsychological aspects that shape the moral decision‐making and behavior of politicians across their different roles.",
    "url": "https://doi.org/10.1111/puar.70197",
    "doi": "10.1111/puar.70197",
-   "pdf": "https://doi.org/10.1111/puar.70197",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/puar.70197",
    "first_seen": "2026-09-08T09:34:49+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7210285943": {
    "id": "oa:W7210285943",
@@ -78461,9 +78480,10 @@
    "abstract": "ABSTRACT How do policy entrepreneurs change policy when politicians are not directly involved in the process? While public policy scholars have examined the conditions under which politicians refrain from direct engagement in policy design, they have paid less attention to the strategies policy entrepreneurs employ in the absence of political actors. Drawing on textual analysis and 30 in‐depth interviews with members of the “Roim Rachok” (“Looking Ahead”) program, which facilitates the inclusion of individuals on the autism spectrum in the Israel Defense Forces as a case study, we addressed this lacuna by exploring how policy entrepreneurs independently advance policy change. The findings suggest that the policy entrepreneurs operated through institutionalized collaborative networks. They also leveraged Israel's security challenges as a structured framework for promoting their new policy. In addition, they created an organizational infrastructure. Finally, they focused on establishing trust with the security organizations with whom they collaborated.",
    "url": "https://doi.org/10.1111/padm.70093",
    "doi": "10.1111/padm.70093",
-   "pdf": "https://doi.org/10.1111/padm.70093",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/padm.70093",
    "first_seen": "2026-09-08T09:34:49+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7210288023": {
    "id": "oa:W7210288023",
@@ -78482,7 +78502,8 @@
    "doi": "10.1177/00910260261479758",
    "pdf": "",
    "first_seen": "2026-09-08T09:34:49+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7210288602": {
    "id": "oa:W7210288602",
@@ -78501,9 +78522,10 @@
    "abstract": "Abstract Rural poverty worldwide is often associated with multidimensional economic, social, and environmental challenges. Several countries have adopted policy initiatives to support downstream development, one of which is through the development of village‐owned enterprises (BUMDes) in Indonesia. Since 2014, BUMDes represent a systematic approach to institutionalising community‐based economic development through a formal policy framework. However, only one third of the 51,000 BUMDes are actively operating, indicating a critical implementation gap. Key challenges include inadequate communication between BUMDes and communities, limited resources, and cumbersome bureaucratic procedures. Therefore, successful implementation requires a holistic approach that integrates economic development with community empowerment strategies. BUMDes that adopt an integrated model achieve higher levels of sustainability. This model includes a regulatory framework that accommodates local variations while maintaining accountability standards. This BUMDes model offers valuable insights into a participatory governance approach that balances top‐down structural support and bottom‐up community initiatives through a participatory governance framework tailored to the local context. Furthermore, the framework for measuring implementation success must go beyond traditional economic indicators to encompass dimensions of community well‐being, social cohesion, and environmental sustainability. International development practitioners, particularly in developing countries with similar challenges, can adapt these elements of participatory governance while tailoring operational structures to local institutional contexts and cultural preferences. Points for practitioners Implement holistic support systems that combine economic development with community empowerment strategies, as BUMDes adopting integrated models demonstrate 85% higher sustainability rates compared to those focusing solely on economic objectives. Establish flexible regulatory frameworks that accommodate local variations while maintaining accountability standards, since standardised regulations create implementation barriers in 62% of cases due to insufficient consideration of local contexts and community needs. Prioritise sustained technical assistance over one‐time interventions, as BUMDes receiving ongoing support consistently outperform those with limited post‐establishment guidance in operational effectiveness and long‐term viability. Local and village governments can collaborate with higher education institutions to develop a comprehensive success measurement framework that goes beyond traditional economic indicators to encompass community well‐being, social cohesion, and environmental sustainability dimensions, and more accurately assess the impact of rural development. Foster participatory governance mechanisms that balance top‐down structural support with bottom‐up community initiatives, enabling adaptive management responses to local market dynamics and evolving community needs while maintaining program coherence.",
    "url": "https://doi.org/10.1111/1467-8500.70040",
    "doi": "10.1111/1467-8500.70040",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8500.70040",
    "first_seen": "2026-09-08T09:34:49+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7210289034": {
    "id": "oa:W7210289034",
@@ -78519,8 +78541,10 @@
    "abstract": "Abstract Tunnel construction supports vital infrastructure development but can expose workers to serious health risks, including silicosis, from exposure to respirable crystalline silica (RCS). This study examines how Australia's freedom of information (FOI) legislation facilitates or hinders access to information that can support improvements in policy and practice, using RCS exposure of Australian tunnel workers as an example. A review was conducted of FOI requests submitted in 2023–2024 to government agencies. We assessed the availability of information and timeliness of decisions, and reported on facilitators, obstacles, outcomes, and variations concerning information access. Our experience identified operational hindrances including lengthy delays, varying interpretations between government agencies of what was in the public interest, and substantial efforts by third parties to prevent information disclosure. Despite these constraints, FOI use in one jurisdiction generated evidence of government knowledge that challenged prevailing narratives, prompted media and parliamentary scrutiny, and contributed to policy responses addressing RCS exposure in tunnelling. Points for practitioners Freedom of information laws are essential for accessing government-held information, particularly where it has important implications for public health. Public interest tests and disclosure decisions differ significantly across Australian government agencies, creating inconsistency in access to information. Practitioners should be aware of these differences and that obtaining access to information may involve significant delays and require the pursuit of review or appeal processes, reinforcing longstanding concerns about the suppression of data relevant to public health. Withholding information can delay recognition of risks, while greater transparency can support timely intervention and stronger evidence‐informed public health policy.",
    "url": "https://doi.org/10.1111/1467-8500.70066",
    "doi": "10.1111/1467-8500.70066",
-   "pdf": "",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8500.70066",
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210265951": {
    "id": "oa:W7210265951",
@@ -78537,7 +78561,9 @@
    "url": "https://doi.org/10.1007/s11135-026-03093-2",
    "doi": "10.1007/s11135-026-03093-2",
    "pdf": "",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210278449": {
    "id": "oa:W7210278449",
@@ -78553,7 +78579,9 @@
    "url": "https://doi.org/10.1007/s11135-026-03094-1",
    "doi": "10.1007/s11135-026-03094-1",
    "pdf": "",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4415006972": {
    "id": "oa:W4415006972",
@@ -78573,7 +78601,9 @@
    "url": "https://doi.org/10.1016/j.jeconom.2026.106333",
    "doi": "10.1016/j.jeconom.2026.106333",
    "pdf": "https://doi.org/10.2139/ssrn.5583419",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210263905": {
    "id": "oa:W7210263905",
@@ -78589,7 +78619,9 @@
    "url": "https://doi.org/10.1016/j.telpol.2026.103315",
    "doi": "10.1016/j.telpol.2026.103315",
    "pdf": "https://www.sciencedirect.com/science/article/pii/S0308596126001655/pdf",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210276950": {
    "id": "oa:W7210276950",
@@ -78605,7 +78637,9 @@
    "url": "https://doi.org/10.1007/s11023-026-09802-y",
    "doi": "10.1007/s11023-026-09802-y",
    "pdf": "",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4415343515": {
    "id": "oa:W4415343515",
@@ -78623,7 +78657,9 @@
    "url": "https://doi.org/10.1016/j.artint.2026.104621",
    "doi": "10.1016/j.artint.2026.104621",
    "pdf": "https://doi.org/10.1016/j.artint.2026.104621",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7210275411": {
    "id": "oa:W7210275411",
@@ -78643,7 +78679,681 @@
    "url": "https://doi.org/10.1016/j.artint.2026.104620",
    "doi": "10.1016/j.artint.2026.104620",
    "pdf": "https://doi.org/10.1016/j.artint.2026.104620",
-   "first_seen": "2026-09-08T09:34:49+09:00"
+   "first_seen": "2026-09-08T09:34:49+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
+  },
+  "oa:W7204514560": {
+   "id": "oa:W7204514560",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Performance-measurement systems as actors and boundary objects: a sociomaterial perspective to the provision of prison services",
+   "authors": [
+    "Noel Hyndman",
+    "Mariannunziata Liguori"
+   ],
+   "journal": "Public Management Review",
+   "date": "2026-09-07",
+   "abstract": "The paper explores the performance-measurement systems (PMSs) used in the provision of prison services (and their non-human agent role) to reflect on: the role PMSs play in inter-organisational relationships; the boundary objects that connect human and non-human actors across inter-organisational levels; and what affordances such connections generate. The study focuses on the English prison sector, drawing on document analysis and interviews. The findings show that PMSs represent both active non-human agents and boundary objects. The positioning of the actors involved can be seen as a second-order boundary object. Moreover, PMSs can generate affordances that go beyond the initially-intended purposes.",
+   "url": "https://doi.org/10.1080/14719037.2026.2725795",
+   "doi": "10.1080/14719037.2026.2725795",
+   "pdf": "https://doi.org/10.1080/14719037.2026.2725795",
+   "first_seen": "2026-09-09T09:24:38+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7211866179": {
+   "id": "oa:W7211866179",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "A diagnostic framework blue-green infrastructure readiness in developing-country cities",
+   "authors": [
+    "Laura Medina Rivera",
+    "Robert Faggian"
+   ],
+   "journal": "Journal of Environmental Policy & Planning",
+   "date": "2026-09-07",
+   "abstract": "Climate change is intensifying floods and other water-related hazards, exposing the limits of conventional grey infrastructure in developing-country cities. Blue-Green Infrastructure (BGI) offers a promising adaptation pathway, but its implementation depends on more than technical suitability. In many resource-constrained municipalities, BGI uptake is limited by fragmented governance, unstable financing, weak technical capacity, and limited public legitimacy. The Blue-Green Infrastructure Diagnostic Tool (BGIDT) assesses these enabling conditions before large-scale implementation. The tool evaluates readiness across four interdependent domains: policy and governance, economic and financial capacity, technical and environmental capacity, and social and cultural legitimacy. Applied to three Colombian municipalities representing high, moderate, and low institutional capacity, the BGIDT shows that readiness depends on the alignment of governance, finance, technical systems, and social legitimacy. Medellín demonstrates how coordinated metropolitan governance reinforces financial, technical, and social capacity. Neiva and Pitalito illustrate how fragmented authority and unstable resources constrain implementation despite policy support. The BGIDT provides municipalities, funders, and policymakers with a practical framework to identify implementation gaps, prioritise capacity-building, target investment, and monitor readiness over time.",
+   "url": "https://doi.org/10.1080/1523908x.2026.2728167",
+   "doi": "10.1080/1523908x.2026.2728167",
+   "pdf": "https://doi.org/10.1080/1523908x.2026.2728167",
+   "first_seen": "2026-09-09T09:24:38+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7211868218": {
+   "id": "oa:W7211868218",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Ethnoracial Characteristics and Police Abuse Within Mexico's Criminal Justice System",
+   "authors": [
+    "Arturo Luna Cancino",
+    "Javier Reyes‐Martínez"
+   ],
+   "journal": "Policy Studies Journal",
+   "date": "2026-09-07",
+   "abstract": "ABSTRACT This study examines the association between ethnoracial characteristics (ethnoracial self‐identification, speaking an Indigenous language, and skin tone) and police abuse within Mexico's criminal justice system, drawing on street‐level bureaucracy frameworks. Using data from the 2021 National Survey of Persons Deprived of Liberty (ENPOL in Spanish), we analyze whether ethnoracial traits are conditionally associated with reported experiences of police abuse. Logistic regression models suggest that Afro‐Mexican or Afro‐descendant and Indigenous persons have higher odds of reporting abuse, supporting existing literature on discrimination and policing. Unexpectedly, speaking an Indigenous language and having darker skin tones were associated with lower reported abuse, suggesting a complex relationship that merits further examination. These results underscore the need to incorporate ethnoracial variables into the study of police behavior and public administration in Mexico, while informing public policies aimed at preventing and addressing police abuse to strengthen accountability within the criminal justice system.",
+   "url": "https://doi.org/10.1111/psj.70153",
+   "doi": "10.1111/psj.70153",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7211869046": {
+   "id": "oa:W7211869046",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Functionalization Without Instruments: How Local Bureaucrats Make Sense of Unfinished Reform While Managing Public Services",
+   "authors": [
+    "Jopang Jopang",
+    "Syamsul Alam",
+    "Rahman Tandi",
+    "La Ode Muhammad Elwan"
+   ],
+   "journal": "International Journal of Public Administration",
+   "date": "2026-09-07",
+   "abstract": "This study examines how bureaucrats enact functionalization reform under conditions of unfinished reform, conceptualized as instrumental incompleteness in which structural change outpaces the development of operational HR infrastructures. Drawing on a comparative qualitative case study across four Indonesian local government jurisdictions, the study identifies a common mechanism through which an HR-instrument void generates operational ambiguity, prompting collective sensemaking and adaptive coordination. Cross-case comparison shows that these mechanisms follow different reform trajectories according to organizational support conditions, comprising fiscal capacity, administrative support, and reform facilitation. Rather than fiscal capacity alone, the combined configuration of these conditions explains why some jurisdictions move toward partial formalization of functional roles while others continue to rely on hierarchical coordination. The study contributes by conceptualizing unfinished reform as instrumental incompleteness and by integrating structural reform, operational HR infrastructures, and bureaucratic sensemaking into a comparative mechanism-based explanation of reform enactment in decentralized public administration.",
+   "url": "https://doi.org/10.1080/01900692.2026.2721468",
+   "doi": "10.1080/01900692.2026.2721468",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7211872998": {
+   "id": "oa:W7211872998",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Potential of Non-Fungible Tokens for Fundraising: The Curious Case of a Successful Failure",
+   "authors": [
+    "Horst Treiblmaier"
+   ],
+   "journal": "VOLUNTAS International Journal of Voluntary and Nonprofit Organizations",
+   "date": "2026-09-07",
+   "abstract": "Abstract Non-fungible tokens (NFTs) are unique digital assets stored on a blockchain that can be used to transfer value without relying on traditional payment intermediaries. In this paper, we present a case study of an action research project in which we apply NFTs to raise funds for a children’s hospital. A total of 11 children’s drawings were digitized, and 10 copies of each were offered on the online marketplace OpenSea. From a technical perspective, the solution works reliably as a vehicle for donations, but user adoption was low. Here, we discuss the lessons learned and list 12 advantages and 8 disadvantages/barriers to using NFTs for fundraising based on feedback from 24 digital natives, supplemented by input from non-expert individuals. From a technological perspective, blockchain technology offers promising affordances for nonprofit organizations. However, important problems must be solved to gain widespread adoption, most notably usability and legal clarification.",
+   "url": "https://doi.org/10.1017/s0957876526000744",
+   "doi": "10.1017/s0957876526000744",
+   "pdf": "https://doi.org/10.1017/s0957876526000744",
+   "first_seen": "2026-09-09T09:24:38+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7211875821": {
+   "id": "oa:W7211875821",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Muddling together through the fog: Peer trust, exit intention, and innovative work behavior during the pandemic",
+   "authors": [
+    "Hemin Choi",
+    "Greta Nasi"
+   ],
+   "journal": "International Review of Administrative Sciences",
+   "date": "2026-09-07",
+   "abstract": "What resources enable public employees to remain motivated to engage in innovative behavior at work, even when they consider leaving the organization? In this study, we examine how public employees’ innovative behavior is explained by relational resources, particularly peer trust that fosters psychological safety to take risks and tolerate failure. Using novel survey data from 1861 public employees across 29 central government ministries and agencies in South Korea, collected during the peak of the COVID-19 pandemic, we find significant effects of peer trust on innovative behavior, as well as a moderating effect between exit intention and innovation. These effects are consistent among long-tenured employees, while performance recognition emerges as a stronger determinant of innovative behavior among newcomers. This study's findings contribute to an advanced understanding of the peer trust–innovative work behavior relationship and the importance of psychological safety in the public sector. Points for practitioners Peer trust functions as a critical organizational resource that sustains innovative work behavior even when public employees are considering leaving, making it a priority investment for crisis-period management. Public organizations should not treat exit-intending employees as disengaged; when peer trust is high, these employees continue to contribute to innovation and should remain integrated into collaborative work environments. Formal performance recognition has a limited overall effect on innovation but plays a significant motivational role for newcomers with fewer than three years of tenure, suggesting HRM strategies should be differentiated by career stage. Because crisis conditions deplete the psychological resources that innovation requires, public organizations must proactively cultivate peer relationships.",
+   "url": "https://doi.org/10.1177/00208523261471262",
+   "doi": "10.1177/00208523261471262",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7211879326": {
+   "id": "oa:W7211879326",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Impact of agent’s information advantage on the efficiency and quality of Contracting out: Focus on goal conflict and task characteristics",
+   "authors": [
+    "Sabinne Lee",
+    "Hanvit Kim"
+   ],
+   "journal": "Journal of Policy Studies",
+   "date": "2026-09-07",
+   "abstract": "We analyze the impact of the information advantage of the agent on the performance of contracting out. Unlike in the general principal-agent theory, an agent’s information advantage varies by the level of goal conflict and the type of delegated task in a bureaucratic setting. Our empirical analysis shows that agents facing high levels of goal conflict and possessing limited information advantages exhibit lower performance. Additionally, vague and complex tasks reduce agents’ information advantage. To increase agents’ information advantage and reduce related transaction costs, it is necessary to delegate the right type of task to the right type of agent. The goal of contracting out should also be set appropriately.",
+   "url": "https://doi.org/10.52372/jps.250360",
+   "doi": "10.52372/jps.250360",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211879678": {
+   "id": "oa:W7211879678",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Does the state matter? Institutional trust, structural vulnerability, and the wellbeing of older women in Southeast Asia",
+   "authors": [
+    "Alamsyah Alamsyah",
+    "Mery Yanti"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/17516234.2026.2727640",
+   "doi": "10.1080/17516234.2026.2727640",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211886796": {
+   "id": "oa:W7211886796",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "When tasks feel unjustified: effects of illegitimate tasks on public servants’ citizen-oriented boundary-spanning behaviours",
+   "authors": [
+    "Nhung Nguyen",
+    "Lưu Trọng Tuấn",
+    "Diep Nguyen",
+    "Dinh Cong Khai",
+    "Tuyen Nguyen"
+   ],
+   "journal": "Public Management Review",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/14719037.2026.2725793",
+   "doi": "10.1080/14719037.2026.2725793",
+   "pdf": "https://doi.org/10.1080/14719037.2026.2725793",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211888847": {
+   "id": "oa:W7211888847",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "NGO Selection in a Marketized Foreign Aid System: Evidence from USAID Contracts",
+   "authors": [
+    "Daniel Jair Zorrilla Velázquez"
+   ],
+   "journal": "International Journal of Public Administration",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01900692.2026.2720109",
+   "doi": "10.1080/01900692.2026.2720109",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211889187": {
+   "id": "oa:W7211889187",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
+   "authors": [
+    "Glenn Houtgraaf"
+   ],
+   "journal": "International Journal of Public Administration",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01900692.2026.2725002",
+   "doi": "10.1080/01900692.2026.2725002",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211889514": {
+   "id": "oa:W7211889514",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Strategies for Public Administration Research: Insights From the Scholarship of Christopher Hood",
+   "authors": [
+    "Ruth Dixon",
+    "Rozana Himaz",
+    "Maia King",
+    "Barbara Maria Piotrowska"
+   ],
+   "journal": "Public Administration",
+   "date": "2026-09-07",
+   "abstract": "ABSTRACT In an era of time constraints and publication pressures, scholars risk becoming entrenched in familiar approaches. Christopher Hood's public administration scholarship reminds us that excellence often arises from a broad exploration of ideas. This paper identifies three core elements of Hood's research practice. First, a deep skepticism toward dominant narratives, which often revealed hidden complexities. Second, careful selection of temporal frames: this often meant adopting remarkably long time‐horizons to reveal patterns in administrative and policy reform. Third, genuine interdisciplinarity. While firmly rooted in public administration, Hood drew on concepts, evidence, and methods from a wide range of disciplines. Analyzing how these three elements interacted in Hood's work, the paper reflects on how adopting aspects of his approach can help scholars produce work of lasting value. Hood's legacy is therefore not only a record of past achievement but also a practical guide to navigating the contemporary academic environment.",
+   "url": "https://doi.org/10.1111/padm.70088",
+   "doi": "10.1111/padm.70088",
+   "pdf": "https://doi.org/10.1111/padm.70088",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211890191": {
+   "id": "oa:W7211890191",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "How Artificial Intelligence Facilitates Collaborative Governance? Research on Mechanisms and Multi‐Dimensional Effects Based on Triple Entities",
+   "authors": [
+    "Zhuocheng Lu",
+    "Fei Fan",
+    "Zhennan Yang",
+    "Song Wang"
+   ],
+   "journal": "Public Administration",
+   "date": "2026-09-07",
+   "abstract": "ABSTRACT Collaborative governance is becoming a practical imperative. At the same time, resolving complex public affairs could offer opportunities to overcome bottlenecks, while Artificial Intelligence (AI) could help. This study draws on polycentric governance theory and multilayer network theory to explain why collaborative governance could occur and how it could be influenced by AI, respectively. Mathematical deductions from both micro and macro perspectives are employed to reinforce this theoretical viewpoint. Using Chinese cities as a case study, the impact of AI on collaborative governance has been tested in practice, supported by benchmark regression and subsequent tests for endogeneity and robustness. Mechanism tests demonstrate AI's functions by advancing digital government, lifting corporate transparency, and improving public knowledge. Moreover, econometric evidence from difference‐in‐differences, threshold regressions, and spatial econometric models robustly addresses concerns about AI. This study offers a quantifiable multi‐stakeholder governance framework and actionable policy insights for China and the Global South.",
+   "url": "https://doi.org/10.1111/padm.70090",
+   "doi": "10.1111/padm.70090",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211899560": {
+   "id": "oa:W7211899560",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Accountability in Public Administration: A Review and Conceptual Integration",
+   "authors": [
+    "V.K. Kaul",
+    "Ujwal Shankar"
+   ],
+   "journal": "International Journal of Public Administration",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01900692.2026.2690431",
+   "doi": "10.1080/01900692.2026.2690431",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211902581": {
+   "id": "oa:W7211902581",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Foreign Aid Governance in China and India: A Comparative Analysis",
+   "authors": [
+    "Baosha Wang",
+    "Zhenqian Huang"
+   ],
+   "journal": "Public Administration and Development",
+   "date": "2026-09-07",
+   "abstract": "ABSTRACT This article uses a structured, focused explanatory paired comparison to examine how China and India translate shared South–South principles into distinct foreign aid governance arrangements. It argues that these principles provide a common legitimacy framework, while differences in strategic priorities and state architecture help explain variation in authority location, fiscal control, and implementation coalitions. Using a policy‐institution‐implementation framework, the analysis shows that China's aid system is more globally ambitious, infrastructure‐centered, and reliant on state and corporate actors, whereas India's is more diplomatically embedded, regionally oriented, and focused on capacity building and state‐to‐state cooperation. By shifting attention from aid volumes and rhetoric to administrative design and delivery, the article highlights institutional variation among major non‐DAC providers.",
+   "url": "https://doi.org/10.1002/pad.70120",
+   "doi": "10.1002/pad.70120",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211906845": {
+   "id": "oa:W7211906845",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Understanding Meritocracy: From an Imagination of ‘Ideal’ to Producing ‘Myth’ and Beyond",
+   "authors": [
+    "Akhil Jain",
+    "Nidhi Mishra",
+    "Rajalaxmi Kamath",
+    "Vinita Sahay",
+    "Teena Bharti"
+   ],
+   "journal": "Administration & Society",
+   "date": "2026-09-07",
+   "abstract": "MIchael Young satirizes a global society envisaged for the 21st century, in which all job appointments and rewards are determined solely by merit. Notable advancements in intelligence and ability testing were assumed to enable accurate performance projections and effective educational monitoring. Consequently, the influence of social obstacles such as socioeconomic class, family, race, and religion would be significantly mitigated. The system, however, has shifted to produce winners and losers, a phenomenon Sandel characterizes as hubris . We argue that this hubris stems from meritocracy’s roots in bureaucracy, grounded in a rationalized myth.",
+   "url": "https://doi.org/10.1177/00953997261480074",
+   "doi": "10.1177/00953997261480074",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211907383": {
+   "id": "oa:W7211907383",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The feminine gender role penalty: gender role expression, compensation, and sector differences in wage outcomes",
+   "authors": [
+    "Jillian Girard"
+   ],
+   "journal": "Journal of Policy Studies",
+   "date": "2026-09-07",
+   "abstract": "Equal pay for males and females has been a focus of legislation for decades, yet closing the wage gap remains a persistent challenge. While traditional explanatory factors such as biological sex, education, tenure, and age account for much of the variation in wages, the remaining unexplained portion suggests that additional factors may contribute to pay inequities. One largely unexplored area in the equal pay literature is the relationship between gender role and wages. Drawing on gender role and role congruity theories, this study hypothesizes that individuals with a more feminine, communal gender role will earn lower wages because feminine behavioral expectations are incongruent with the more agentic norms often associated with workplace success. Using a Blinder-Oaxaca decomposition analysis and a matched sample of full-time employees from large metropolitan areas in the United States (n=1,114), the study found that feminine gender role was a significant negative predictor of wages. Respondents exhibiting the feminine gender role earned 2.86% lower wages than their counterparts. Since women in the sample were more likely to report feminine gender role characteristics, this effect disproportionately affects female employees. Given the challenge of closing the pay gap and the slower rate of reduction in pay differentials, the inclusion of internalized and social variables may be an important next area of exploration. In an additional exploratory ordinary least squares multi-group analysis, feminine gender role was not a significant predictor of wages among public sector employees, but remained significantly negatively associated with wages among private sector employees. These findings suggest that the more standardized compensation structures common in the public sector may help reduce pay differentials associated with gendered behavioral expectations. Future research should further examine public-sector compensation practices and investigate the potential influence of gendered behavioral scripts in hiring, promotion, and compensation processes.",
+   "url": "https://doi.org/10.52372/jps.260335",
+   "doi": "10.52372/jps.260335",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211907545": {
+   "id": "oa:W7211907545",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Ministerial Advisers in Personal Patronage Settings: Evidence From Israel",
+   "authors": [
+    "Zehavit Levitats"
+   ],
+   "journal": "Public Administration and Development",
+   "date": "2026-09-07",
+   "abstract": "ABSTRACT The characteristics of ministerial advisers are predicted to correspond to the type of politicization setting in which they operate. The only systematic framework mapping these correspondences was developed predominantly in party‐driven patronage contexts. Whether it holds where personally‐driven rather than party‐mediated logic governs appointments remains an open theoretical question. This study addresses that question through biographical analysis of 196 officials comprising the executive triangle of Israel’s 37th Government, constituting the Israeli case within the COST Action Comparative Research on the Executive Triangle in Europe. Examining adviser visibility, educational profiles, and career trajectories, the study locates Israel within a medium‐high politicization setting and assesses whether its personally‐driven patronage system produces the predicted adviser configurations. Findings confirm the framework’s generalizability while introducing two theoretically significant refinements: personally‐driven systems produce deeper institutional invisibility than party‐mediated ones, and appointments into bureaucracy operate as personalized rather than systematic channels.",
+   "url": "https://doi.org/10.1002/pad.70119",
+   "doi": "10.1002/pad.70119",
+   "pdf": "https://doi.org/10.1002/pad.70119",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211910093": {
+   "id": "oa:W7211910093",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Debate: Accelerated charity for accelerated existence? Effective altruism and charitable donation practices",
+   "authors": [
+    "David Yates"
+   ],
+   "journal": "Public Money & Management",
+   "date": "2026-09-07",
+   "abstract": "In an increasingly accelerated human existence plagued by information overload, an epidemic of poor mental health, and increasing concerns regarding the use of technology and artificial intelligenc...",
+   "url": "https://doi.org/10.1080/09540962.2026.2726975",
+   "doi": "10.1080/09540962.2026.2726975",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211916097": {
+   "id": "oa:W7211916097",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Exploring the Associations Between Performance Information Use and Nonprofit Performance: The Mediating Role of Goal Clarity, Developmental Culture, and Organizational Capacity",
+   "authors": [
+    "Chongmyoung Lee"
+   ],
+   "journal": "International Journal of Public Administration",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01900692.2026.2711659",
+   "doi": "10.1080/01900692.2026.2711659",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211892921": {
+   "id": "oa:W7211892921",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Reshaping the Social Contract? A Systematic Literature Review of Two Decades of Research on the Digital Welfare State in Developing Countries",
+   "authors": [
+    "Genghua Huang",
+    "Samuel Ampadu Oteng"
+   ],
+   "journal": "Social Policy and Administration",
+   "date": "2026-09-06",
+   "abstract": "ABSTRACT The rapid digitization of welfare states is a global phenomenon, yet its impacts in developing countries, where inequalities and weak infrastructure persist, are poorly understood. This systematic review synthesizes evidence on the implementation of digital welfare systems in developing countries and their effects on social inclusion and exclusion, as well as on the citizen‐state relationship. Following PRISMA guidelines, we conducted a systematic search across four databases: Scopus, Web of Science, PubMed, and ProQuest, for eligible studies. The review spans 25 years (2000–2025) to capture the full genesis and evolution of digital welfare as a distinct policy phenomenon, from early pilot programs to contemporary system‐wide integrations. A thematic synthesis was employed to analyse 26 studies that met the inclusion criteria and methodological quality. The findings identify digital welfare as a double‐edged sword: while capable of enhancing efficiency and transparency, it simultaneously creates new forms of exclusion for vulnerable populations. A critical finding is the indispensable yet often invisible role of human intermediaries who bridge the gap between digital systems and citizens. Furthermore, the integration of digital ID, datafication, and private actors is fundamentally transforming governance, often obscuring accountability and reshaping the social contract. The study highlights that the trajectory of digital welfare in developing countries is not technologically predetermined but contingent on political and design choices. This review concludes that to foster equitable outcomes, policy must prioritize rights‐based, inclusive‐by‐design systems, robust regulation of private actors, and investment in the foundational pillars of digital equity. PROSPERO Registration ID: CRD420251157370",
+   "url": "https://doi.org/10.1111/spol.70111",
+   "doi": "10.1111/spol.70111",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.70111",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211908971": {
+   "id": "oa:W7211908971",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Connecting Philosophy and Public Administration: Directions of Inquiry—A Review",
+   "authors": [
+    "Santhosh Juvvaka",
+    "Rupak Biswas"
+   ],
+   "journal": "International Journal of Public Administration",
+   "date": "2026-09-06",
+   "abstract": "Edoardo Ongaro’s Connecting Philosophy and Public Administration: Directions of Inquiry (Ongaro, 2026) opens with a provocation that is easy to underestimate: philosophical assumptions, it argues, ...",
+   "url": "https://doi.org/10.1080/01900692.2026.2725001",
+   "doi": "10.1080/01900692.2026.2725001",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211919043": {
+   "id": "oa:W7211919043",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "More Than the Sum of Our Parts: An Introduction to the American Journal of Evaluation's Online Positionality Special Issue",
+   "authors": [
+    "Courtney Stone",
+    "Leressa Suber",
+    "Nishank Varshney",
+    "Asma M. Ali",
+    "John M. LaVelle"
+   ],
+   "journal": "American Journal of Evaluation",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1177/10982140261486027",
+   "doi": "10.1177/10982140261486027",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211905407": {
+   "id": "oa:W7211905407",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "From News to Index: A Practitioner’s Guide to a Deployable Sentiment Pipeline for Official Statistics",
+   "authors": [
+    "Younghwan Lee"
+   ],
+   "journal": "Journal of Official Statistics",
+   "date": "2026-09-06",
+   "abstract": "This paper presents a deployable pipeline for constructing a news-based sentiment index (NbSI) for official-statistics use. The index is designed as a timely complement to survey-based consumer confidence measures when releases are delayed, observations are missing, or survey collection is temporarily disrupted. The pipeline is implemented using large-scale Korean economic news, manually labeled sentence-level sentiment data, pretrained word embeddings, and three standard neural classifiers: a convolutional neural network (CNN), an long short-term memory network (LSTM), and a transformer. The empirical analysis yields four main findings: (i) a compact CNN provides the strongest model-level operational trade-off, requiring substantially less training and inference time than the LSTM or transformer while delivering similar classification reliability; (ii) marginal gains from additional labeled data flatten beyond roughly 40k sentences, suggesting diminishing returns to large-scale annotation in this application; (iii) the resulting aggregate index is stable across classifier choices, supporting the use of the computationally efficient CNN as the baseline production model; and (iv) the NbSI leads Korea’s Composite Consumer Sentiment Index (CCSI) by about one month and is most useful when survey information is delayed or unavailable for sustained periods. These findings highlight the importance of transparent validation, label quality, monitoring, and maintainability when text-based indicators are adapted for official-statistics production.",
+   "url": "https://doi.org/10.1177/0282423x261477606",
+   "doi": "10.1177/0282423x261477606",
+   "pdf": "https://doi.org/10.1177/0282423x261477606",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W4412095591": {
+   "id": "oa:W4412095591",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Deep Diffusion Reinforcement Learning for Options Hedging",
+   "authors": [
+    "Yaling Liu",
+    "Jing Li",
+    "Yijun Chen",
+    "L. Du",
+    "Jiawei Xu"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11415-7",
+   "doi": "10.1007/s10614-026-11415-7",
+   "pdf": "https://www.preprints.org/frontend/manuscript/155aa749b32acb7bbd763f8af512ad67/download_pub",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W4417094401": {
+   "id": "oa:W4417094401",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation",
+   "authors": [
+    "Shaina Raza",
+    "A. G. Hari Narayanan",
+    "Vahid Reza Khazaie",
+    "Ashmal Vayani",
+    "Ahmed Radwan",
+    "Mukund S. Chettiar",
+    "Amandeep Singh",
+    "Mubarak Shah",
+    "Deval Pandya"
+   ],
+   "journal": "ACM Transactions on Intelligent Systems and Technology",
+   "date": "2026-09-07",
+   "abstract": "Although recent large multimodal models (LMMs) show impressive progress on vision–language tasks, their alignment with human-centered (HC) principles such as fairness, ethics, inclusivity, empathy, and robustness is often overlooked. Existing LMM benchmarks are largely accuracy-agnostic. We present HumaniBench, a unified framework for characterizing HC alignment across realistic, socially grounded visual contexts. It contains 32,000 expert-verified image–question pairs from real-world news imagery, each mapped to one or more HC principles through explicit metrics. Comparing 15 state-of-the-art LMMs reveals consistent trade-offs: proprietary systems lead on ethics, reasoning, and empathy, while open-source models show superior visual grounding and resilience. All models show persistent gaps in fairness and multilingual inclusivity. Chain-of-thought prompting and test-time scaling yield 8–12% gains on several HC dimensions. HumaniBench enables fine-grained analysis of alignment trade-offs not captured by conventional multimodal benchmarks. Project: https://vectorinstitute.github.io/humanibench/ Data: https://huggingface.co/vector-institute/HumaniBench Code: https://github.com/VectorInstitute/HumaniBench",
+   "url": "https://doi.org/10.1145/3845999",
+   "doi": "10.1145/3845999",
+   "pdf": "https://arxiv.org/pdf/2505.11454",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211881361": {
+   "id": "oa:W7211881361",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "When responsibility cannot arise: algorithmic mediation and the preconditions of moral imputability",
+   "authors": [
+    "Åke Elden"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-07",
+   "abstract": "This paper argues that moral responsibility can fail under technologically mediated conditions in two structurally connected ways. First, agents may act from motivational states significantly shaped by external formative processes whose influence remains partially opaque to reflective awareness. Second, institutions may assign formal responsibility for decisions whose operative reasons agents cannot meaningfully access, evaluate, or contest within ordinary practices of deliberation. The first failure condition is developed as the Conditional Reflexive Requirement (CRR), according to which blameworthiness depends in part on an agent’s reasonable capacity to identify and critically reassess formative influences shaping action-guiding motivations. The second is described as misfired imputation, referring to cases in which institutions assign responsibility under the assumption that the epistemic and deliberative conditions of genuine agency remain intact when they are structurally absent. The paper argues that these are not two adjacent problems but two moments of one transformation, and defends that claim through a worked case rather than by analogy: in algorithmically mediated decision environments a single architectural property, the placement of the operative determinants of conduct outside the practice of giving and asking for reasons, produces both failures, and the individual-level failure is itself a cause of the institutional one. Three theses are defended: common source, causal coupling, and non-separability of remedy. The last is what makes the two conditions one phenomenon, and it is falsifiable. The argument is developed through a Tracking Principle governing responsibility and motivational ownership, a three-part taxonomy of motivational opacity, a threshold account distinguishing the scalar property of contestability from the threshold predicate of misfired imputation, and a conceptual distinction between misfired imputation and adjacent failure modes including the responsibility gap, distributed responsibility, and the accountability deficit. The paper closes by bringing the result to bear on the human-oversight requirement of Article 14 of the EU AI Act.",
+   "url": "https://doi.org/10.1007/s43681-026-01359-x",
+   "doi": "10.1007/s43681-026-01359-x",
+   "pdf": "https://doi.org/10.1007/s43681-026-01359-x",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211892534": {
+   "id": "oa:W7211892534",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Enhancing Stock Market Forecasting with Lightweight DistilBERT-Powered BiGRU and the Novel SentiEcon Dynamic Market Index",
+   "authors": [
+    "Tapas Gupta",
+    "Shridev Devji",
+    "Ashish Kumar Tripathi"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11416-6",
+   "doi": "10.1007/s10614-026-11416-6",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211900042": {
+   "id": "oa:W7211900042",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From automation to ethical authority: governing AI-mediated decision-making in global digital trade",
+   "authors": [
+    "Duoduo Mou"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01366-y",
+   "doi": "10.1007/s43681-026-01366-y",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211901703": {
+   "id": "oa:W7211901703",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Causal evidence that language models use confidence to drive behaviour",
+   "authors": [
+    "Dharshan Kumaran",
+    "Nathaniel D. Daw",
+    "Simon Osindero",
+    "Petar Veličković",
+    "Viorica Pătrăucean"
+   ],
+   "journal": "Nature Machine Intelligence",
+   "date": "2026-09-07",
+   "abstract": "Metacognition—assessing the quality of one’s own cognitive performance—guides adaptive behaviour across species. Confidence signals can be extracted from language model outputs, yet a fundamental question remains: do models actually use these signals to decide whether to answer or abstain? Here we developed a four-phase paradigm. Phase 1 elicited baseline confidence without an abstention option. Phase 2 showed that large language models apply an implicit threshold to internal confidence when abstaining, with confidence effect sizes roughly an order of magnitude larger than alternative mechanisms. Phase 3 provided causal evidence via activation steering: boosting or suppressing confidence correspondingly decreased or increased abstention, with mediation analysis confirming confidence redistribution as the primary mechanism. Phase 4 instructed models to abstain at different confidence levels and showed they adjusted their behaviour accordingly, indicating they read out and act on confidence to set abstention policies. Critically, verbal confidence—an explicit self-evaluation from a separate forward pass—independently predicted abstention across all models despite being less discriminatory of correctness, and activation decoding showed both measures (that is, token log probabilities and verbal confidence) are lossy read-outs of a richer internal representation. Together, these results suggest that abstention is captured by the joint operation of a multidimensional internal confidence representation and threshold-based policies—consistent with structured metacognitive control in large language models—a capacity of growing importance as models transition to autonomous agents that must recognize their own uncertainty. Kumaran et al. show that large language models making decisions on when to answer a question or abstain from answering can be influenced by boosting or suppressing confidence signals in the model.",
+   "url": "https://doi.org/10.1038/s42256-026-01293-x",
+   "doi": "10.1038/s42256-026-01293-x",
+   "pdf": "https://doi.org/10.1038/s42256-026-01293-x",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211912079": {
+   "id": "oa:W7211912079",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The speed offset problem: a case for principled cultural sensitivity in automated vehicle design",
+   "authors": [
+    "Jan Holzer"
+   ],
+   "journal": "AI & Society",
+   "date": "2026-09-07",
+   "abstract": "Abstract Automated vehicles are widely expected to play a key role in achieving the European Union’s road safety target of ‘Vision Zero’, which aims to eliminate all road fatalities in the European Union by 2050. To achieve this goal, early design strategies for automated vehicles prioritised strict compliance with traffic rules, assuming that rule-abiding behaviour would inherently lead to safer outcomes. Yet rule deviations such as speeding may, counter-intuitively, enhance safety in situations where strict compliance cannot reasonably be expected. Such cases highlight a discrepancy between legal compliance and the informal norms that often govern complex real-world traffic. They also expose an ambivalence in compliance. It is often framed as a necessary precondition for safety, yet in certain contexts, strict compliance can itself generate avoidable risks. This design challenge is what I call the ‘speed offset problem’. The problem becomes particularly evident when examined across different cultural contexts, where expectations around acceptable speeding vary significantly. Building on this, I argue that ‘principled cultural sensitivity’ is fundamental for ethically sound design of automated vehicles. As a normative framework, it demands sensitivity to local driving cultures whilst maintaining firm commitment to core ethical principles. The article develops and applies this framework to the speed offset problem, exemplifying how these guardrails may take shape in concrete cases. Three ethical guardrails restrict the speed offset’s implementation. First, a speed offset is morally permissible only when it increases overall safety. Second, a speed offset must not increase overall safety at the expense of particular groups. Third, a speed offset’s legitimacy must be temporary and revisable. Together, these guardrails ensure that speed offsets are not a concession to unsafe norms but a temporary and ethically guided calibration, bridging current traffic realities with long-term safety goals. The article concludes by outlining implications for engineering practice and regulatory frameworks.",
+   "url": "https://doi.org/10.1007/s00146-026-03222-3",
+   "doi": "10.1007/s00146-026-03222-3",
+   "pdf": "https://doi.org/10.1007/s00146-026-03222-3",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211916999": {
+   "id": "oa:W7211916999",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Ethical evaluation as cognitive resonance: a relational diagnostic framework for hybrid human–AI systems",
+   "authors": [
+    "Roberto Pugliese"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01367-x",
+   "doi": "10.1007/s43681-026-01367-x",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211918511": {
+   "id": "oa:W7211918511",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The authenticity paradox: an ethical analysis of why AI identity features fail on social media",
+   "authors": [
+    "Giulio Toscani"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01347-1",
+   "doi": "10.1007/s43681-026-01347-1",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211920416": {
+   "id": "oa:W7211920416",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Temporal signatures of coordination: detecting and anticipating influence operations on social media",
+   "authors": [
+    "Simone Mungari",
+    "Emilio Ferrara",
+    "Luca Luceri"
+   ],
+   "journal": "EPJ Data Science",
+   "date": "2026-09-07",
+   "abstract": "Online influence operations (IOs) pose a critical threat to the integrity of public discourse on social media, yet their early detection and accurate prediction of user engagement remain open challenges. This work presents a comprehensive computational framework for understanding influence operations, addressing two interconnected questions: How can IO drivers be distinguished from legitimate users? And can future interactions between IO drivers and organic users be predicted? We analyze temporal interaction networks from five real-world influence campaigns attributed to state-sponsored actors from China, Cuba, Iran, Russia, and the United Arab Emirates. To motivate the importance of detecting IOs and predicting engagement with their content, we first provide empirical evidence that, in four of the five campaigns we study, organic user adoption of IO-pushed content (e.g., hashtags and URLs) is statistically associated with prior exposure to IO actors’ activity. Building on this evidence, we introduce two complementary modules: (i) IOBoost, a lightweight supervised classifier that leverages temporal, activity-based, and network motif features to identify IO driver accounts, achieving an average F1-score of 97.5%, demonstrating strong cross-campaign generalization and early detection capabilities for identifying IO drivers; and (ii) IOLink, a graph neural network model that leverages user interaction networks to predict future interactions between IO drivers and organic users, achieving an average ROC-AUC score of 86%. Our results reveal that coordinated influence campaigns leave distinctive behavioral traces in user adoption patterns and temporal interaction dynamics, enabling accurate and generalizable detection while remaining computationally efficient for real-world deployment. To ensure full reproducibility, we make the source code publicly available: https://github.com/SimoneMungari/IO-detecting-and-anticipating .",
+   "url": "https://doi.org/10.1140/epjds/s13688-026-00693-8",
+   "doi": "10.1140/epjds/s13688-026-00693-8",
+   "pdf": "https://doi.org/10.1140/epjds/s13688-026-00693-8",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7169481800": {
+   "id": "oa:W7169481800",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Reasoning with algorithms: Partiality and uncertainty in neonatal care",
+   "authors": [
+    "Justien; id_orcid 0000-0002-3578-9692 Dingelstad",
+    "Francisca Grommé",
+    "Rob Taal",
+    "Claartje Ter Hoeven",
+    "Iris Wallenburg"
+   ],
+   "journal": "Big Data & Society",
+   "date": "2026-09-01",
+   "abstract": "Predictive algorithms often hold the promise to mitigate uncertainty about the future. Critical social science scholars of algorithms have long argued that such promises are usually not fulfilled. This study contributes to this debate through an ethnographic case study of an algorithm for early detection of sepsis in neonatal care. We show that indeed, this algorithm produces more uncertainty. However, this uncertainty is generative for care practices, as it allows neonatal staff to make sepsis treatment more timely, considered, and precise. This case suggests that when partiality and uncertainty are central to reasoning with algorithms, predictive algorithms can deepen existing care practices. This is relevant in the context of ongoing, often harmful, algorithmic introductions that simplify real-life complexities by attempting to eliminate uncertainties.",
+   "url": "https://doi.org/10.1177/20539517261467351",
+   "doi": "10.1177/20539517261467351",
+   "pdf": "https://doi.org/10.1177/20539517261467351",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211866627": {
+   "id": "oa:W7211866627",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "SWIFT-KD: Sliding Window Intelligent Federated Transformer Learning with Knowledge Distillation for Building Energy Prediction",
+   "authors": [
+    "Jessica Al Achy",
+    "Hassan Harb",
+    "Abdallah Makhoul"
+   ],
+   "journal": "Machine Learning",
+   "date": "2026-09-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10994-026-07153-4",
+   "doi": "10.1007/s10994-026-07153-4",
+   "pdf": "",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211874464": {
+   "id": "oa:W7211874464",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Distribution-Free Deviation Bounds and the Role of Domain Knowledge in Learning via Model Selection with Cross-Validation Risk Estimation",
+   "authors": [
+    "Diego Marcondes",
+    "Claudia Peixoto"
+   ],
+   "journal": "Machine Learning",
+   "date": "2026-09-01",
+   "abstract": "Abstract Cross-validation is one of the most widely used tools for risk estimation and model selection in statistics and machine learning, yet its theoretical properties when embedded in a learning procedure remain insufficiently understood. This paper develops a general, distribution-free framework for learning via model selection with cross -validation risk estimation within classical statistical learning theory. We establish VC dimension-based deviation bounds for the entire learning pipeline, providing detailed proofs for both bounded and unbounded loss functions, the latter requiring a novel extension of existing results. A central focus of the analysis is how the structure of the collection of candidate models influences generalization. To this end, we introduce Learning Spaces as collections of candidate models equipped with a partial order whose inclusion structure reflects increasing model complexity. We show how Learning Spaces can be constructed from domain knowledge and analyze how such structural information increases generalization. The framework is illustrated through case studies and a simulation study in high-dimensional linear regression, comparing learning via model selection in two distinct Learning Spaces against ordinary least squares, LASSO, and ridge regression across scenarios of varying alignment between prior knowledge and the true target. The results demonstrate that, when the Learning Space is well-adapted to the target and an efficient search algorithm is employed, learning via model selection can outperform standard methods by orders of magnitude. Through theoretical insights and concrete examples, we provide guidance on selecting the family of candidate models based on domain knowledge to enhance the performance of model selection with cross-validation.",
+   "url": "https://doi.org/10.1007/s10994-026-07150-7",
+   "doi": "10.1007/s10994-026-07150-7",
+   "pdf": "https://doi.org/10.1007/s10994-026-07150-7",
+   "first_seen": "2026-09-09T09:24:38+09:00"
+  },
+  "oa:W7211879850": {
+   "id": "oa:W7211879850",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Fair synthetic data is not about fairness",
+   "authors": [
+    "Mykhailo Bogachov"
+   ],
+   "journal": "Big Data & Society",
+   "date": "2026-09-01",
+   "abstract": "Fair synthetic data (FSD) techniques aim to reduce algorithmic bias in AI prediction by generating artificial training datasets with idealised fairness properties. I argue that current FSD approaches fail to substantively improve fairness but increase the social autonomy of model owners, shielding them from accountability. I establish that implementing algorithmic fairness requires following normative commitments and accepting real-world sacrifices beyond technical trade-offs. I reframe synthetic training data sui generis as a domain-agnostic technique for improving model performance and demonstrate that synthetic data researchers treat fairness as a problem with data rather than the normative problem it is. I reconstruct three justifications for the substantive fairness potential of FSD, present in the literature: early bias correction, fair societal representation, and normative artefact construction. The first and the third are conceptually fragile. The second has potential, but only if the techniques it fits are reconceptualised through possible worlds semantics and the selection of protected attributes is grounded in a defensible social ontology. Benchmarking analysis reveals that FSD has no significant statistical fairness advantages over traditional methods while being less trustworthy. At the same time, FSD can reduce implementation costs and limit the exposure of predictors to normative scrutiny. This creates a paradox: techniques proposed as fairness solutions increase organisational autonomy from the obligations that the field of algorithmic fairness puts forward. FSD thus follows broader techno-solutionist trends where innovation helps organisations avoid reciprocal relationships with society. The paper concludes with broad recommendations for the responsible deployment of FSD.",
+   "url": "https://doi.org/10.1177/20539517261473353",
+   "doi": "10.1177/20539517261473353",
+   "pdf": "https://doi.org/10.1177/20539517261473353",
+   "first_seen": "2026-09-09T09:24:38+09:00"
   }
  }
 }
