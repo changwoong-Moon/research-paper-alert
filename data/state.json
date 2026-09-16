@@ -34558,7 +34558,7 @@
    "id": "oa:W7168298981",
    "topic": "econ-stats",
    "origin": "OpenAlex",
-   "title": "Model-free and Distributionally Robust Feature Screening with False Discovery Control for High-Dimensional Heterogeneous Data",
+   "title": "Model-Free and Distributionally Robust Feature Screening with False Discovery Control for High-Dimensional Heterogeneous Data",
    "authors": [
     "Cong Cheng",
     "Runze Li",
@@ -61540,7 +61540,7 @@
    "doi": "10.1007/s00146-026-03147-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7164838718": {
@@ -61559,7 +61559,7 @@
    "doi": "10.1007/s00146-026-03116-4",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7164945164": {
@@ -61615,7 +61615,7 @@
    "doi": "10.1007/s43681-026-01195-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164838650": {
@@ -61633,7 +61633,7 @@
    "doi": "10.1016/j.telpol.2026.103277",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164851968": {
@@ -61651,7 +61651,7 @@
    "doi": "10.1016/j.telpol.2026.103275",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7163195639": {
@@ -61712,7 +61712,7 @@
    "doi": "10.1007/s13347-026-01124-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164909785": {
@@ -61813,7 +61813,7 @@
    "doi": "10.1007/s43681-026-01206-z",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164900948": {
@@ -61852,7 +61852,7 @@
    "doi": "10.1007/s43681-026-01164-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164892441": {
@@ -61870,7 +61870,7 @@
    "doi": "10.1007/s00146-026-03155-x",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164839333": {
@@ -61889,7 +61889,7 @@
    "doi": "10.1016/j.telpol.2026.103256",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164732808": {
@@ -61928,7 +61928,7 @@
    "doi": "10.1177/08944393261460956",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164768722": {
@@ -61968,7 +61968,7 @@
    "doi": "10.1007/s10614-026-11377-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164858801": {
@@ -61989,7 +61989,7 @@
    "doi": "10.1016/j.artint.2026.104586",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W4416770192": {
@@ -62026,7 +62026,7 @@
    "doi": "10.1007/s00146-026-03158-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164801387": {
@@ -62108,7 +62108,7 @@
    "doi": "10.1016/j.artint.2026.104584",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164683901": {
@@ -62163,7 +62163,7 @@
    "doi": "10.1016/j.telpol.2026.103255",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164659290": {
@@ -62248,7 +62248,7 @@
    "doi": "10.1016/j.telpol.2026.103266",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164504917": {
@@ -62394,7 +62394,7 @@
    "doi": "10.1038/s42256-026-01256-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W4387561188": {
@@ -62481,7 +62481,7 @@
    "doi": "10.1007/s00146-026-03150-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164589198": {
@@ -62501,7 +62501,7 @@
    "doi": "10.1007/s00146-026-03149-9",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7164530204": {
@@ -62543,7 +62543,7 @@
    "doi": "10.1007/s00146-026-03156-w",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164320989": {
@@ -62610,7 +62610,7 @@
    "doi": "10.1038/s42256-026-01250-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164398097": {
@@ -62679,7 +62679,7 @@
    "doi": "10.1038/s42256-026-01244-6",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4415994324": {
@@ -62743,7 +62743,7 @@
    "doi": "10.1007/s00146-026-03146-y",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03146-y.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164207962": {
@@ -62762,7 +62762,7 @@
    "doi": "10.1007/s10614-026-11364-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164185503": {
@@ -62781,7 +62781,7 @@
    "doi": "10.1007/s10614-026-11379-8",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163997455": {
@@ -62820,7 +62820,7 @@
    "doi": "10.1007/s10614-026-11381-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164207664": {
@@ -62874,7 +62874,7 @@
    "doi": "10.1007/s10614-026-11365-0",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4410891125": {
@@ -62893,7 +62893,7 @@
    "doi": "10.1007/s00146-026-03119-1",
    "pdf": "https://doi.org/10.2139/ssrn.5274785",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164139479": {
@@ -62914,7 +62914,7 @@
    "doi": "10.1038/s42256-026-01257-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164028142": {
@@ -62933,7 +62933,7 @@
    "doi": "10.1038/s42256-026-01251-7",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7164006082": {
@@ -63014,7 +63014,7 @@
    "doi": "10.1016/j.giq.2026.102161",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163822731": {
@@ -63050,7 +63050,7 @@
    "doi": "10.1007/s00146-026-03143-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W4404408238": {
@@ -63092,7 +63092,7 @@
    "doi": "10.1007/s10614-026-11367-y",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163774392": {
@@ -63135,7 +63135,7 @@
    "doi": "10.1007/s10614-026-11372-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163650793": {
@@ -63153,7 +63153,7 @@
    "doi": "10.1007/s00146-026-03140-4",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7172284590": {
@@ -63171,7 +63171,7 @@
    "doi": "10.1007/s00146-026-03144-0",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03144-0.pdf",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163637955": {
@@ -63265,7 +63265,7 @@
    "doi": "10.1007/s00146-026-03126-2",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163516805": {
@@ -63357,7 +63357,7 @@
    "doi": "10.1007/s00146-026-03131-5",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163577811": {
@@ -63384,7 +63384,7 @@
    "doi": "10.1038/s42256-026-01249-1",
    "pdf": "",
    "first_seen": "2026-08-20T07:46:21+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7163581929": {
@@ -74443,7 +74443,7 @@
    "date": "2026-08",
    "abstract": "본 연구는 공공후견인의 활동 경험을 다룬 국내 질적 연구 15편을 대상으로 질적 메타요약을 수행하여, 공공후견 실천에서 반복적으로 나타나는 경험과 제도적 함의를 확인하고자 하였다. Sandelowski와 Barroso(2006)의 절차에 따라 결과 진술을 추출⋅통합하고 빈도효과 크기를 산출하였다. 분석 결과, 공공후견인의 활동 경험은 권리 존중과 보호 사이의 관계적 긴장, 제도적 환경 속 조정과 협력적 연대, 역할 모호성과 실천가로서의 성장, 지속 가능한 공공후견을 위한 제도 개선 요구의 네 범주로 통합되었다. 공공후견인은 피후견인의 자기결정권과 최선의 이익 사이에서 지속적인 윤리적 갈등을 경험하였으며, 다양한 기관 및 관계망 속에서 역할을 조정하고 협력하는 실천을 수행하고 있었다. 또한 공공후견인의 부담과 소진은 개인적 취약성보다 제도적⋅구조적 조건과 밀접하게 연결되어 있는 것으로 나타났다. 본 연구는 대상군별로 분절되어 온 공공후견인의 경험을 통합하고, 공공후견 실천에서 반복적으로 나타나는 경험과 지원 요구를 제시하였다는 점에서 의의를 지닌다.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374262",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.1",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -74463,7 +74463,7 @@
    "date": "2026-08",
    "abstract": "This study examined whether participation in Korea's Senior Employment and Social Activity Support Program (SESAP) moderates the association between perceived social isolation and subjective quality of life (QOL) among older adults. As social isolation emerges as a policy concern in super-aged societies, whether large-scale employment programs can serve socially isolated older adults remains an open question. Data from the first wave of the Korean Seniors' Work and Life (KSWL) panel, comprising 6,000 adults aged 60 74, were analyzed using weighted hierarchical multiple regression, followed by simple-slope and design-based sensitivity analyses, controlling for demographic characteristics, subjective health, household financial satisfaction, and general social participation. Perceived social isolation was negatively associated with subjective QOL. SESAP participation moderated this association: the negative association was approximately 32% weaker among participants (B = −.192) than among nonparticipants (B = −.282), and the positive association between SESAP participation and subjective QOL was evident primarily among older adults with average or high levels of perceived social isolation. Although modest in magnitude, the buffering association was robust to a design-based sensitivity analysis incorporating the stratified sampling design. These findings suggest that SESAP may function not only as an employment intervention but also as a protective social resource, and that program evaluation should consider its capacity to protect vulnerable groups rather than average effects alone. Incorporating perceived social isolation into participant assessment and strengthening linkages with community-based support services may enhance the program's potential protective role for socially isolated older adults.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374497",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.7",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -74487,7 +74487,7 @@
    "date": "2026-08",
    "abstract": "사회복지사는 서비스 이용자의 어려움에 지속적으로 관여해야 하는 높은 감정노동 맥락 안에서 일하는 동시에, 위계적인 조직구조와 소규모 시설 중심의 노동환경으로 인해 직장 내 괴롭힘의 위험이 높은 직군에 해당한다. 그간 사회복지사에 대한 연구는 소진이나 이직의도 등과 같은 인적자원 관리 차원에서 주로 논의되었고, 이들의 건강권 관점의 논의로서 정신건강과 아파도 출근하는 프리젠티즘에 주목한 연구는 적었다. 이에 본 연구는 서울지역 사회복지사 감정노동과 직장 내 괴롭힘이 정신건강과 프리젠티즘에 미치는 영향을 분석하고, 이를 토대로 사회복지사의 건강권 증진을 위한 함의를 도출하는 것을 목적으로 한다. 이를 위해 2024년 6월 25일부터 7월 4일까지 서울시 사회복지사협회의 협조를 통해 온라인 설문조사를 실시하였고, 631명의 응답자료를 분석하였다. 분석 결과, 직장 내 괴롭힘 피해율은 엄격한 기준 적용 시 9.8%, 관대한 기준 적용 시 18.1%였고, 우울 위험군(PHQ-9≥10)은 18.4%, 프리젠티즘은 연 평균 4.52일이었다. 인구사회적 변인을 통제한 상태에서, 회귀분석 결과 감정노동 중 감정규제, 직장 내 괴롭힘 중에서는 개인관련 괴롭힘이 우울과 프리젠티즘을 일관되게 높이는 공통 요인으로 확인되었고, 감정노동 보호체계는 우울을낮추는 보호요인으로 확인되었다. 이를 토대로 보수 중심의 처우개선을 넘어 사회복지사의 노동권과 건강권 신장을 위한 종합적 대책 마련, 산업안전보건법과 근로기준법에 근거한 예방 및 대응체계 강화 등을 제언하였다.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374362",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.3",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -74506,7 +74506,7 @@
    "date": "2026-08",
    "abstract": "본 연구는 한국의 대표적 상호부조 관행인 경조사비가 비공식 보험으로 기능하는지, 그리고 그 보험적 환류 효과가 가구 간에 어떻게 분배되는지를 분석했다. 경조사비는 결혼⋅장례 등 생애사건에서 발생하는 경제적 부담에 대응하는 비공식 위험분산 기제로 기능할 수 있으나, 이러한 보호 효과가 모든 가구에 균등하게 작동하는지는 충분히 검토되지 않았다. 이에 본 연구는 재정패널 1~17차년도 자료를 활용하여 극단값 민감도 분석과 분위회귀분석을 실시했다. 분석 결과, 평균 수준의 OLS에서는 완전보험 가설이 기각되지 않았으나, 극단값 제거 이후에는 회귀계수가 유의하게 감소하며 완전보험 가설이 기각되었다. 또한 분위회귀 결과에서는 경조사 수입 하위 분위 가구일수록 경조사비 지출이 충분한 환류로 연결되지 못하지만, 상위 분위에서는 높은 환류 효과가 나타났다. 이는 경조사비의 보험적 환류 구조가 모든 가구에 균등하게 분배되지 않으며, 사회경제적 조건에 따라 차별적으로 나타날 가능성을 시사한다. 본 연구는 비공식 보험을 평균효과만으로 평가할 경우 분포 내부의 불균등성을 간과할 수 있음을 시사하며, 경조사비의 상호부조 기능이 일부 취약 가구에 대해서는 충분한 보호 효과와 연관되지 않을 가능성을 제시한다.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374387",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.4",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -74525,7 +74525,7 @@
    "date": "2026-08",
    "abstract": "본 연구는 중장년층을 대상으로 비동거 자녀와의 교류가 우울에 미치는 영향을 분석하고, 이 과정에서 자아존중감의 매개효과와 주관적 건강상태의 조절효과를 검증하였다. 연구자료는 고령화고용패널(KLoEE) 3차 기본조사(2024년)를 활용하였으며, SPSS PROCESS macro의 Model 4와 Model 14를 적용하여 분석을 수행하였다. 통계분석에는 SPSS 25.0을 사용하였고, 조절된 매개효과의 시각화는 Mplus 8.2를 활용하였다. 주요 연구 결과는 다음과 같다. 첫째, 인구사회학적 특성을 통제한 이후 비동거 자녀와의 교류는 중장년층의 우울과 통계적으로 유의한 부적 관련성을 보였으나, 그 효과의 절대적 크기는 작았다. 둘째, 자아존중감을 통한 간접효과는 통계적으로 유의하였으며, 자아존중감을 모형에 포함한 이후 비동거 자녀 교류의 직접효과는 통계적으로 유의하지 않았다. 셋째, 주관적 건강상태는 자아존중감과 우울 간의 관계를 유의하게 조절하였으며, 이에 따라 자아존중감을 통한 조건부 간접효과도 주관적 건강상태 수준에 따라 달라졌다. 구체적으로 자아존중감과 우울 간의 부적 관련성은 주관적 건강상태가 취약한 집단에서 상대적으로 더 강하게 나타났다. 이러한 결과를 바탕으로 중장년층의 정신건강 증진을 위해 관계적 자원 및 심리적 요인과 함께 신체적 건강을 통합적으로 고려한 실천적⋅정책적 함의를 논의하였다.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374284",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.2",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -74544,7 +74544,7 @@
    "date": "2026-08",
    "abstract": "본 연구의 목적은 청년 수급자의 목소리를 통해 자활사업 종료 이후 재참여 과정과 이유를 파악하는 데 있다. 이를 위해 자활사업에 재참여한 청년 수급자 4명을 사례자로 선정하고 1:1 심층 면담을 통해 자료를 수집했다. 수집된 자료는 Creswell과 Poth(2025)가 제안한 질적 사례연구 방법을 활용하여 분석하였다. 분석 결과 사례자들은 사업단과의 상호 간 목적 불일치로 자활사업 참여를 중단했으며 종료 이후 일반노동시장의 취⋅창업을 시도했으나 높은 현실의 벽으로 좌절을 경험하였다. 사례자들은 생계유지와 미래 준비의 양립, 안전망 없이 홀로서기의 두려움, 사회적 관계에 대한 욕구로 인해 자활사업에 재참여하게 되었다. 이와 같은 연구 결과를 바탕으로 연구자들은 청년 수급자의 자활사업 재참여 원인을 해소하고 이들이 지속적이고 안정적으로 자립할 수 있는 정책지원 방안을 제시하였다.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374414",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.5",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -74565,7 +74565,7 @@
    "date": "2026-08",
    "abstract": "The Korean government provides various cultural and leisure welfare services for workers in SMEs who receive relatively limited employer-provided benefits, yet little is known about whether the quantitative expansion of similar services consistently enhances worker-level outcomes. This study examined the association between employee welfare satisfaction and job stress among workers in SMEs and tested whether this relationship differed according to additional use of public cultural and leisure services similar to employer-provided benefits. Data from the Worker Welfare Card Introduction Study (n = 379) were analyzed using SPSS 29.0 and PROCESS Macro v4.2 to assess moderating effects. Higher employee welfare satisfaction was associated with lower job stress, but this negative relationship was attenuated among workers who additionally used similar public services. These findings shift the focus of SME welfare policy from fiscal efficiency to worker-perceived effectiveness and highlight the need to move beyond quantitative expansion toward coordination, integration, and differentiation among similar welfare services.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374446",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.6",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -74585,7 +74585,7 @@
    "date": "2026-08",
    "abstract": "This study aimed to examine the reciprocal longitudinal relationship between perceived discrimination and self-esteem among non-disabled siblings of individuals with disabilities. Using household member data from Waves 4 to 6 (2021 2023) of the Disability and Life Dynamics Panel conducted by the Korea Disabled People’s Development Institute, an autoregressive cross-lagged model was applied to a sample of 282 non-disabled siblings. The results indicated that both perceived discrimination and self-esteem demonstrated statistically significant autoregressive effects across time points. Cross-lagged analysis revealed that higher perceived discrimination at a prior time point predicted lower self-esteem at a later time point, while lower self-esteem at a prior time point predicted higher perceived discrimination at a later time point. This study longitudinally examined the reciprocal relationship between perceived discrimination and self-esteem among non-disabled siblings. Based on these findings, the study offers policy and practice implications to support non-disabled siblings.",
    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374518",
-   "doi": "",
+   "doi": "http://dx.doi.org/10.17997/SWRY.88.1.8",
    "pdf": "",
    "first_seen": "2026-09-02T09:22:53+09:00",
    "abs_tries": 0,
@@ -76705,7 +76705,7 @@
    "id": "oa:W7206181224",
    "topic": "ai-ml",
    "origin": "OpenAlex",
-   "title": "Evidence-guided Learning against Noisy and Sparse Labels on Graphs",
+   "title": "Evidence-guided learning against noisy and sparse labels on graphs",
    "authors": [
     "Siyu Yi",
     "Wei Zhang",
@@ -76718,7 +76718,7 @@
     "Wei Ju"
    ],
    "journal": "Artificial Intelligence",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.artint.2026.104608",
    "doi": "10.1016/j.artint.2026.104608",
@@ -81998,7 +81998,7 @@
    "abstract": "Policy Points Primary care, when done well, is the country's most cost-effective solution to runaway costs and widening health outcome gaps. Primary care is increasingly starved for resources, with associated reductions in relational continuity and comprehensiveness that collectively increase the risk of losing patient trust. The 2021 National Academies of Sciences, Engineering, and Medicine report, Implementing High-Quality Primary Care: Rebuilding the Foundation of Health Care, supported a cascade of federal initiatives to strengthen, coordinate, and create accountability for primary care strategies, and although several derailed, they remain options for improving health and health care. The 2021 National Academies of Sciences, Engineering, and Medicine report, Implementing High-Quality Primary Care: Rebuilding the Foundation of Health Care, spurred a cascade of federal payment, access, and accountability initiatives, but inconsistent federal leadership has derailed several of them. Congressional and HHS health goals would benefit from reviving stalled primary care infrastructure projects, establish outcome accountability for graduate medical education investment, and build on state models in Maryland, Rhode Island, Vermont, and California. CONTEXT: Primary care is the foundation of a high-functioning health system, yet it has been weakened for decades, and the consequences for patients, population health, and costs are increasingly apparent. The 2021 National Academies of Sciences, Engineering, and Medicine (NASEM) report offered 16 recommendations across five objectives for rebuilding primary care through payment, access, workforce training, health information technology, and accountability. METHODS: This Perspective reviews federal and state policy developments since the NASEM report against its five-objective framework, examining payment demonstration models, minimum primary care spend legislation, graduate medical education financing, and federal data infrastructure initiatives to assess where reform has taken hold, stalled, or been abandoned amid shifting administration priorities. FINDINGS: Partial payment successes, including the Advanced Primary Care Management code, the AHEAD model, and minimum-spend policies in nearly a dozen states, demonstrate that reform is feasible. Yet inconsistent federal leadership has undermined progress: the Making Care Primary model was abruptly terminated, and several near-complete Agency for Healthcare Research and Quality initiatives-a primary care dashboard, Healthcare Extension Cooperatives, and a clinician/practice database-were lost amid the agency's proposed dissolution. Meanwhile, cuts to Affordable Care Act subsidies and Medicaid threaten to disrupt care for millions and widen mortality gaps. States are increasingly serving as policy laboratories, with Maryland, Rhode Island, Vermont, and California offering replicable models for payment and accountability reform. CONCLUSIONS: The technical solutions needed to strengthen primary care largely already exist. What is missing is durable, coordinated federal and state investment paired with accountability. Securing primary care's future requires treating it as essential public infrastructure.",
    "url": "https://doi.org/10.1111/1468-0009.70127",
    "doi": "10.1111/1468-0009.70127",
-   "pdf": "",
+   "pdf": "https://pubmed.ncbi.nlm.nih.gov/42725862/",
    "first_seen": "2026-09-14T09:19:05+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -82080,7 +82080,7 @@
    "abstract": "ABSTRACT Responsible algorithmization refers to the use of algorithms in the public sector while safeguarding public values. Approaches to responsible algorithmization suggested by the EU, OECD, and others depart from a rational perspective and highlight formal structures and procedures. This paper complements this perspective by adding a “natural perspective,” which emphasizes sense‐making and actual practices. This natural perspective is used for a set of ethnographic studies of algorithmization in three domains in the Netherlands: regulation, policing, and healthcare. Our findings show that algorithmization of government organizations is an emergent, political, open, and fragmented process, rather than, as assumed by rational approaches to responsible algorithmization, pre‐structured, neutral, closed, and simple. This means that rational approaches fall short of providing a comprehensive basis for establishing responsible algorithmization. We conclude that not only passive responsibility but also active responsibility for algorithmization in the public sector needs to be addressed to safeguard public values.",
    "url": "https://doi.org/10.1111/padm.70092",
    "doi": "10.1111/padm.70092",
-   "pdf": "https://doi.org/10.1111/padm.70092",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/padm.70092",
    "first_seen": "2026-09-14T09:19:05+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -82259,7 +82259,7 @@
    "abstract": "Abstract Sustainability permeates all levels of the sports sector, including the sporting goods industry. Various tools, such as international trade, continue to be linked to contributing to the 2030 Agenda for Sustainable Development, with previous studies highlighting the impact of trade on sustainability across three dimensions: Economic, Environmental and Social. Against this backdrop, this study explored and analysed the different perspectives sporting goods industry stakeholders hold regarding sustainability in sporting goods trade. 23 participants from five sporting goods industry stakeholder groups were chosen using purposive sampling and analysed using Q-methodology empowered by the Sustainable Development–Trade Framework. Five factors emerged as central in grouping of stakeholders’ sustainability outlooks about sporting goods trade: “community conscious globalist outlook”, “environmentally conscious outlook”, “holistic sustainable governance outlook”, “ethically bounded governance outlook”, and “pragmatist outlook”. The factors generally tended to afford more consideration to the environmental sustainability dimension, along with the role of trade governance mechanisms in steering sustainable sporting goods trade. Conversely, economic and social sustainability aspects of sporting goods trade were downplayed across four of the five factors. The study corroborates findings from previous research about sporting goods trade, sporting goods sustainability or related to sustainability among sport organisations. The paper is among the first to examine sustainability in relation to sporting goods trade among its diverse industry stakeholders. Understanding sustainability from their perspective, through the novel prism of Q-methodology, helps in articulating the value of trade in the context of sustainability, which can inform policy design aimed at promoting sustainable sporting goods trade.",
    "url": "https://doi.org/10.1007/s11135-026-03097-y",
    "doi": "10.1007/s11135-026-03097-y",
-   "pdf": "https://doi.org/10.1007/s11135-026-03097-y",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-03097-y.pdf",
    "first_seen": "2026-09-14T09:19:05+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -82319,7 +82319,7 @@
    "abstract": "Abstract Since 2008, Airbnb has grown exponentially, changing the way tourism is practiced in multiple ways. However, its impact extends beyond disintermediating tourism or hospitality modes, creating significant spatial and socio-economic changes in major tourist cities. Airbnb has also become a powerful placemaking tool, changing the connotation of many neighborhoods that have rapidly undergone processes of touristification. Moreover, the platform has been instrumental in shaping change, standardizing living spaces, and constructing ad hoc narratives defined by the styles it promotes. Considering the city of Naples (Italy), the aim of this work is to understand how the city is described by the owners of Airbnb units, in order to identify distortions or mutations that mask the perception of the city. Some dimensions that emerged concern neighborhood safety, points of interest, and mobility. Special attention is given to the differences between central and suburban neighborhoods. The data was collected through Inside Airbnb as of March 13, 2025. The proposed analysis involves integrating GIS with text-based analysis techniques to spatially map hosts’ descriptions and uncover patterns of misrepresentation or standardization imposed by the platform. The analysis revealed Airbnb’s ability to construct concrete narratives based on the characteristics of individual neighborhoods. Moreover, a dominant narrative emerged outside the historic city center, emphasizing the authenticity and experiential quality of these areas, discourses that potentially aim to attract tourists and may trigger processes of touristification beyond the city center.",
    "url": "https://doi.org/10.1007/s11135-026-03089-y",
    "doi": "10.1007/s11135-026-03089-y",
-   "pdf": "https://doi.org/10.1007/s11135-026-03089-y",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-03089-y.pdf",
    "first_seen": "2026-09-14T09:19:05+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -82495,7 +82495,7 @@
    "abstract": "Abstract Artificial intelligence systems can produce information that closely resembles real and human-created information, making it difficult to accurately distinguish between synthetic (AI-generated) and non-synthetic content. We explored whether individual differences in attitudes toward AI or one’s history of engagement with AI were related to individual differences in the ability to distinguish AI-generated from real/human-created content. Though attitudes did not predict performance on a human/AI discernment task, more frequent and varied engagement with AI platforms was associated with significantly lower discernment scores. We next tested if we could improve human evaluators’ discernment accuracy through targeted intervention. Participants were assigned to either an experimental group ( n = 60) or a control group ( n = 57). The experimental group completed an intervention in which they first trained with accurately labeled human/AI exemplars and then completed a series of discernment trials while being given immediate feedback and a monetary incentive for each accurate choice. The control group participated in similar exercises but trained with unlabeled human/AI exemplars and received delayed feedback and monetary incentivization based on their performance. While there were no group differences in discernment accuracy at a baseline assessment, participants in the experimental group demonstrated significant gains in discernment accuracy (relative to baseline) at both an intermediate and final assessment, while the control group showed no improvement across assessments. These findings provide evidence that frequent interactions with AI platforms can diminish sensitivity to the differences between real and synthetic content, but that targeted interventions can meaningfully benefit human evaluators' discernment skill.",
    "url": "https://doi.org/10.1007/s00146-026-03373-3",
    "doi": "10.1007/s00146-026-03373-3",
-   "pdf": "https://doi.org/10.1007/s00146-026-03373-3",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03373-3.pdf",
    "first_seen": "2026-09-14T09:19:05+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -82535,7 +82535,7 @@
    "abstract": "Abstract This article examines how highly cited scholarship published between 2020 and February 2025 frames the transformation of creativity under the influence of artificial intelligence. To address this question, the study uses a citation-informed targeted review combined with qualitative interpretive synthesis. Records were retrieved from Scopus and Web of Science, screened through a PRISMA-informed procedure, and ranked by citation prominence within a de-duplicated pool, resulting in a final corpus of 40 publications. The analysis, conducted in ATLAS.ti through Grounded Theory and the Constant Comparative Method, shows that influential research has moved beyond the binary question of whether AI is creative and toward the broader reorganization of the conditions under which creativity is produced, evaluated, and legitimized. Across the corpus, creativity emerges as a socio-technical assemblage shaped by human-model interaction, institutional gatekeeping, infrastructural asymmetries, and normative conflict. While AI is associated with expanded productivity, rapid iteration, and enlarged possibility spaces, the same literature also reveals recurring tensions around authorship, originality, recognition, labour, bias, access, legitimacy, and sustainability. The article argues that high-impact scholarship does not merely describe AI as transforming creativity; it also helps stabilize influential definitions of creative value, redistribute forms of recognition, and foreground the need to examine how authority, visibility, and material conditions shape which forms of AI-mediated creativity become visible and legitimate.",
    "url": "https://doi.org/10.1007/s00146-026-03213-4",
    "doi": "10.1007/s00146-026-03213-4",
-   "pdf": "https://doi.org/10.1007/s00146-026-03213-4",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03213-4.pdf",
    "first_seen": "2026-09-14T09:19:05+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -82749,7 +82749,7 @@
    "abstract": "Abstract Wikipedia is currently facing multiple crises. LLM-enabled chatbots have normalized the answer-based web in ways that decrease human readership of the encyclopedia while also increasing the burden of the community to adapt to increasing amounts of AI-generated content. The typical answer to emergent issues on Wikipedia has been to use big data analysis and semantic extraction to understand these controversies. But big data analysis is ill-equipped to deal with these crises on their own as it struggles to address “context,” a phenomenon that is better suited for humanities-oriented research. However, the fragmented nature of Wikimedia research limits such cross-disciplinary communication. To understand the nature of this fragmentation (and to assist in its repair), this article conducts a bibliometric and reflexive thematic analysis of two decades of the most popularly cited research about Wikimedia projects. In doing so, this article surfaces seven matters of concern and numerous methods that animate this “fractionated trading zone.” Furthermore, this science mapping illustrates how industry-funded research popularized the idea that Wikipedia existed as a semantic resource to be mined. In turn, this legitimized using community content as a training ground for corporate experiments in artificial intelligence. By paying attention to popularly cited research, this article comes to two conclusions. The first is that there are a set of concerns surrounding social media platforms, authority, and reliability that can serve to mediate disconnected research across the zone. The second conclusion is that Wikipedia’s relationship with researchers is a recursive one, since disciplinary choices have changed the cultural meaning and the sociotechnical function of this encyclopedic community.",
    "url": "https://doi.org/10.1007/s00146-026-03359-1",
    "doi": "10.1007/s00146-026-03359-1",
-   "pdf": "https://doi.org/10.1007/s00146-026-03359-1",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03359-1.pdf",
    "first_seen": "2026-09-14T09:19:05+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -83132,7 +83132,8 @@
    "doi": "10.1111/1468-0009.70128",
    "pdf": "https://doi.org/10.1111/1468-0009.70128",
    "first_seen": "2026-09-15T09:45:43+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7212440504": {
    "id": "oa:W7212440504",
@@ -83150,7 +83151,9 @@
    "url": "https://doi.org/10.1080/01900692.2026.2725004",
    "doi": "10.1080/01900692.2026.2725004",
    "pdf": "",
-   "first_seen": "2026-09-15T09:45:43+09:00"
+   "first_seen": "2026-09-15T09:45:43+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7212457915": {
    "id": "oa:W7212457915",
@@ -83167,7 +83170,549 @@
    "doi": "10.1111/1468-0009.70130",
    "pdf": "",
    "first_seen": "2026-09-15T09:45:43+09:00",
+   "ko_tries": 1,
+   "abs_tries": 0
+  },
+  "oa:W7212586033": {
+   "id": "oa:W7212586033",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "New development: Patronage police appointments in autocracies—lessons from Serbia",
+   "authors": [
+    "Luka Glušac"
+   ],
+   "journal": "Public Money & Management",
+   "date": "2026-09-14",
+   "abstract": "IMPACTThis article is particularly relevant for senior police leaders, public sector managers, oversight bodies, and international reform practitioners working in contexts of de-democratization and autocratization. It shows how patronage-based appointments of police leadership undermine professional policing by weakening operational independence, distorting internal incentives, and eroding public trust. Practitioners can use these findings to identify early warning signs of politicized appointment processes and to design safeguards that protect merit-based recruitment and leadership selection. The analysis highlights how patronage at the top of the police hierarchy signals to lower ranks that political loyalty outweighs professional standards, thereby reinforcing broader patterns of organizational politicization. More broadly, the article contributes to debates on police professionalism and public sector governance by showing how leadership appointment structures shape institutional autonomy and democratic policing outcomes.",
+   "url": "https://doi.org/10.1080/09540962.2026.2729401",
+   "doi": "10.1080/09540962.2026.2729401",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00",
    "ko_tries": 1
+  },
+  "oa:W7212615176": {
+   "id": "oa:W7212615176",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Desire for group supremacy: the role of social dominance orientation for social policy attitudes",
+   "authors": [
+    "Carlo Knotz",
+    "Flavia Fossati",
+    "Juliana Chueri"
+   ],
+   "journal": "Journal of Social Policy",
+   "date": "2026-09-14",
+   "abstract": "Abstract A key concern in the social policy literature is to understand the causes of support for – but also opposition to – egalitarian and inclusive policies and for political parties that champion such policies. While objective socio-economic factors such as class and gender have long had a central role as predictors of those attitudes in the social policy literature, scholars have more recently begun to incorporate psychological variables, notably right-wing authoritarianism (RWA) or implicit attitudes. Curiously, however, one variable that has been central in social psychological research for about three decades has so far been largely absent in the social policy literature: social dominance orientation (SDO). This omission is problematic not only because SDO is a known predictor of regressive and exclusionary attitudes, but also because SDO itself cross-cuts with other predictors of social policy attitudes (notably class) in theoretically relevant ways. Our contribution here is to highlight and demonstrate the relevance of SDO as an explanatory variable in social policy attitudes research. To do so, we draw on data from an original comparative survey covering five European countries (Germany, Switzerland, Sweden, Denmark, the United Kingdom) and the United States.",
+   "url": "https://doi.org/10.1017/s0047279426101548",
+   "doi": "10.1017/s0047279426101548",
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C040E23C8700BA530E4D33E8B893DDFB/S0047279426101548a.pdf/div-class-title-desire-for-group-supremacy-the-role-of-social-dominance-orientation-for-social-policy-attitudes-div.pdf",
+   "first_seen": "2026-09-16T09:37:12+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7212644261": {
+   "id": "oa:W7212644261",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Mapping the uneven impact of education on mental health: a cross-national analysis by income level",
+   "authors": [
+    "Christopher Lalley",
+    "Yousef Makhlouf"
+   ],
+   "journal": "Journal of Social Policy",
+   "date": "2026-09-14",
+   "abstract": "Abstract The relationship between education and mental health is not well understood. Findings are mixed, especially in low- and middle-income countries. We examine the impact of education on mental health using individual-level data from over 120,000 participants across 121 countries, comprising 42 high-income countries and 79 low- and middle-income countries. Results show that better-educated individuals are less likely to experience mental health issues in the overall sample. We observe the same effect in low- and middle-income countries (LMICs); however, the effect is not significant in high-income countries (HICs). The study suggests that mental health policy should be tailored to the socioeconomic environments of LMICs and HICs. In LMICs, education can be leveraged as an important tool for improving mental health by strengthening access to material and social resources. In HICs, where education alone appears insufficient to improve mental health outcomes, the findings point to the need for broader interventions that address social, economic and psychosocial stressors across the population. Coordination between health and education sectors remains essential for developing effective and context-specific policy responses.",
+   "url": "https://doi.org/10.1017/s0047279426101603",
+   "doi": "10.1017/s0047279426101603",
+   "pdf": "https://doi.org/10.1017/s0047279426101603",
+   "first_seen": "2026-09-16T09:37:12+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7212490781": {
+   "id": "oa:W7212490781",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Rethinking Nonprofit Financial Resilience Under Funding Retrenchment: A Longitudinal Mixed‐Method Study of Ugandan NGOs",
+   "authors": [
+    "Berta Silva Shingirayi",
+    "Pedro Verga Matos"
+   ],
+   "journal": "Nonprofit Management and Leadership",
+   "date": "2026-09-13",
+   "abstract": "ABSTRACT Non‐governmental organizations (NGOs) operating in aid‐dependent contexts face persistent funding volatility, yet limited research explains how they sustain programme delivery during revenue decline. Drawing on financial resilience and adaptive capacity, this exploratory study examines the combination of organizational and financial conditions associated with resilience among 22 Ugandan NGOs that experienced a revenue decline of at least 15% between 2000 and 2001 and were revisited in 2016. A longitudinal mixed‐method design combines crisp‐set Qualitative Comparative Analysis (csQCA) with in‐depth interviews. The findings suggest that resilience emerges through multiple context‐specific pathways rather than from a single dominant condition, with institutional capital and financial flexibility recurring across multiple configurations. Qualitative evidence shows how donor negotiation, internal reallocation, and volunteer mobilization, help sustain programme delivery. Building on these patterns, the study proposes a provisional wildlife typology of five resilience pathways: Lions, Queen Elephants, Owls, Buffaloes, and Eagles. The typology illustrates how different combinations of leadership capacity, revenue diversification, unrestricted funding, and donor‐approved overhead may support programme continuity under financial stress. The study contributes an exploratory, theory‐building framework for future research and offers practical insights for NGO managers, donors, and policymakers seeking to strengthen programme delivery under funding pressure in resource‐constrained settings.",
+   "url": "https://doi.org/10.1002/nml.70071",
+   "doi": "10.1002/nml.70071",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7212835664": {
+   "id": "oa:W7212835664",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Positionality as Reflection for Reflexive Practice",
+   "authors": [
+    "Ayesha S. Boyce",
+    "Gregory Phillips",
+    "Nicole Bowman"
+   ],
+   "journal": "American Journal of Evaluation",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1177/10982140261487111",
+   "doi": "10.1177/10982140261487111",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7213074551": {
+   "id": "oa:W7213074551",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Estimating the Cost of Early Colleges: Three Complementary Approaches",
+   "authors": [
+    "Kelly Hyde",
+    "Christine Mulhern",
+    "Brian Phillips",
+    "Julie Edmunds"
+   ],
+   "journal": "American Journal of Evaluation",
+   "date": "2026-09-14",
+   "abstract": "Early college high schools offer students many dual enrollment courses and the opportunity to earn an associate degree while in high school. In this paper, we assess the costs of the early college model in North Carolina relative to costs for typical high school education. We use three complementary approaches: one using administrative expenditure data from high schools and colleges across the state, one using the ingredients method based on in-depth subject matter expert interviews in five case study districts, and a third “hybrid” approach combining the two methods. Our findings suggest that educating an early college student incurs higher relative costs in high school that are offset by lower costs to a college degree for students who eventually complete a postsecondary credential. However, excess credit attainment attenuates the postsecondary savings. We discuss the implications of these findings for implementation of the early college model and for cost study methodologies.",
+   "url": "https://doi.org/10.1177/10982140261479706",
+   "doi": "10.1177/10982140261479706",
+   "pdf": "https://doi.org/10.1177/10982140261479706",
+   "first_seen": "2026-09-16T09:37:12+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7213160565": {
+   "id": "oa:W7213160565",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Extending standardized speech analysis across languages: An Italian toolkit for transcription and coding of neurological speech",
+   "authors": [
+    "Allegra Benzini",
+    "Alyssa M. Lanzi",
+    "Cinzia Palmirotta",
+    "Simona Aresta",
+    "Petronilla Battista",
+    "Gaia Chiara Santi"
+   ],
+   "journal": "Behavior Research Methods",
+   "date": "2026-09-14",
+   "abstract": "Abstract Speech and language analysis plays a central role in assessing adult neurological disorders, providing sensitive markers across clinical populations to support diagnosis. Standardized transcription and coding systems are essential to ensure reproducible analyses and enable comparisons across studies and languages. However, practical guidance on adapting such systems for non-English speakers remains limited. This work presents a structured toolkit for adapting speech and language transcription and coding conventions of adult speakers with neurological disorders from English to Italian. The adaptation builds on the CHAT conventions developed within the TalkBank framework. It follows the guiding principles of clarity, readability, and efficiency of data entry, while ensuring linguistic appropriateness for Italian. Original commands and coding options were systematically evaluated and then retained, modified, excluded, or added as needed, with the majority of changes in the coding process reflecting Italian-specific phonetic-phonological and morphosyntactic norms and typical impairment of aphasic production. Beyond providing a ready-to-use Italian manual, this toolkit defines a transparent and replicable framework for cross-linguistic adaptation. The manual was designed as a flexible resource in which users can select coding options guided by specific goals, allowing them to focus on relevant linguistic features at the word or sentence level or across different linguistic domains. By providing linguistically grounded conventions compatible with the TalkBank framework, the Italian Toolkit supports clinically meaningful speech analysis in Italian-speaking adults, and it offers a methodological model for extending standardized annotation systems to other languages.",
+   "url": "https://doi.org/10.3758/s13428-026-03175-x",
+   "doi": "10.3758/s13428-026-03175-x",
+   "pdf": "https://doi.org/10.3758/s13428-026-03175-x",
+   "first_seen": "2026-09-16T09:37:12+09:00",
+   "ko_tries": 1
+  },
+  "oa:W4396570253": {
+   "id": "oa:W4396570253",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression",
+   "authors": [
+    "Wenyang Liu",
+    "Ganggang Xu",
+    "Jianqing Fan",
+    "Xuening Zhu"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-09-14",
+   "abstract": "We propose a two-way grouped network quantile (TGNQ) autoregression model for time series data observed on networks with substantial heterogeneity and complex directional interactions. Motivated by prior studies on network effects in directed networks, our model assigns each node two latent group memberships to flexibly capture asymmetric and heterogeneous interactions among users. These memberships, along with model parameters, can be consistently estimated using the proposed estimation procedure. As a result, the model performs node clustering and parameter estimation simultaneously, striking a balance between model flexibility and interpretability. We establish theoretical guarantees for the proposed method, showing that both group memberships and parameter estimators are consistent even when the number of groups is over-specified. When the group numbers are correctly specified, the parameter estimators are asymptotically normal, enabling valid statistical inference. In addition, we develop a quantile information criterion for the consistent selection of the number of groups. Simulation studies demonstrate strong finite-sample performance, and an application to Sina Weibo data illustrates the model’s ability to uncover behavioral dynamics and user interaction patterns.",
+   "url": "https://doi.org/10.1080/01621459.2026.2732273",
+   "doi": "10.1080/01621459.2026.2732273",
+   "pdf": "https://arxiv.org/pdf/2404.18732",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W4416242182": {
+   "id": "oa:W4416242182",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Statistical Theory of Multi-stage Newton Iteration Algorithm for Online Continual Learning",
+   "authors": [
+    "Xinjia Lu",
+    "Chuhan Wang",
+    "Qian Zhao",
+    "Lixing Zhu",
+    "Xuehu Zhu"
+   ],
+   "journal": "Journal of Computational and Graphical Statistics",
+   "date": "2026-09-14",
+   "abstract": "We focus on the critical challenge of handling non-stationary data streams in online continual learning environments, where constrained storage capacity prevents complete retention of historical data, leading to catastrophic forgetting during sequential task training. To more effectively analyze and address the problem of catastrophic forgetting in continual learning, we propose a novel continual learning framework from a statistical perspective. Our approach incorporates random effects across all model parameters and allows the dimension of parameters to diverge to infinity, offering a general formulation for continual learning problems. To efficiently process streaming data, we develop a Multi-step Newton Iteration algorithm that significantly reduces computational costs in certain scenarios by alleviating the burden of matrix inversion. Theoretically, we derive the asymptotic normality of the estimator, enabling subsequent statistical inference. Comprehensive validation through synthetic data experiments and two real datasets analyses demonstrates the effectiveness of our proposed method.",
+   "url": "https://doi.org/10.1080/10618600.2026.2734226",
+   "doi": "10.1080/10618600.2026.2734226",
+   "pdf": "https://arxiv.org/pdf/2508.07419",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212718170": {
+   "id": "oa:W7212718170",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Efficient estimation of regression models with user-specified parametric model for heteroskedasticity*",
+   "authors": [
+    "Saraswata Chaudhuri",
+    "Éric Renault"
+   ],
+   "journal": "Journal of Business and Economic Statistics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/07350015.2026.2732033",
+   "doi": "10.1080/07350015.2026.2732033",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212891633": {
+   "id": "oa:W7212891633",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Evaluation of robust Bayesian mixed-effects models of longitudinal childhood BMI",
+   "authors": [
+    "Jordan Hedges",
+    "Sarah R. Crozier",
+    "Adam Collins",
+    "Noël Cameron",
+    "Keith M. Godfrey",
+    "John W. Holloway",
+    "Naratip Santitissadeekorn",
+    "Alexessander Couto Alves"
+   ],
+   "journal": "The American Statistician",
+   "date": "2026-09-14",
+   "abstract": "This paper introduces Bayesian mixed-effects models (BMM) for characterizing childhood BMI trajectories from birth to 13 years of age and proposes a Bayesian marginal posterior sampling approach to decompose BMI variance into residuals, fixed, and random effects contributions. This is one of the first studies to rigorously evaluate Fractional Polynomials (FP), Reed2 (R2), and Breakpoint (BP) models using data from three longitudinal cohorts, assessing performance based on bias, heteroskedasticity, and Bayesian goodness-of-fit.Results indicate that model choice matters, as FP and Reed2 models generally outperform BP models in capturing the complex non-linearity of BMI trajectories, with residual errors accounting for less than 10% of BMI variance. Among five likelihoods considered, the Laplace distribution provided the most robust fit. The residual correlation structures were complex and non-stationary. A normal likelihood with a stationary correlation function improved fit, but less so than an independent Laplace likelihood. Most BMI variance was explained by random effects, underscoring the importance of personalized approaches in childhood obesity.This study rigorously evaluates competing BMI trajectory models and introduces a robust BMM library that improves modeling of abnormal trajectories. These results may inform early identification of children at risk, targeted intervention selection, and intervention efficacy monitoring.",
+   "url": "https://doi.org/10.1080/00031305.2026.2730371",
+   "doi": "10.1080/00031305.2026.2730371",
+   "pdf": "https://doi.org/10.1080/00031305.2026.2730371",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212925097": {
+   "id": "oa:W7212925097",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Visualizing Influential Observations in Multivariate Dependent Structures",
+   "authors": [
+    "Jerfson Bruno Do Nascimento Honório",
+    "Fernanda De Bastiani",
+    "Manuel Jesus Galea Rojas",
+    "Miguel Ángel Uribe-Opazo"
+   ],
+   "journal": "Journal of Computational and Graphical Statistics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/10618600.2026.2734222",
+   "doi": "10.1080/10618600.2026.2734222",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7213086372": {
+   "id": "oa:W7213086372",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "A Recentered Method of Moments Estimator for Spatial Dynamic Panels",
+   "authors": [
+    "Yong Bao",
+    "Jihai Yu"
+   ],
+   "journal": "Journal of Business and Economic Statistics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/07350015.2026.2734093",
+   "doi": "10.1080/07350015.2026.2734093",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212737597": {
+   "id": "oa:W7212737597",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Coordinated testing for identification failure and correct model specification",
+   "authors": [
+    "Bertille Antoine",
+    "David T. Frazier",
+    "Eric M. Renault"
+   ],
+   "journal": "Journal of Econometrics",
+   "date": "2026-09-01",
+   "abstract": "We develop a specification test for GMM and Minimum Distance (MD) inference that is: (i) robust to weak identification; (ii) easy to implement and broadly applicable; and (iii) has meaningful power. Our specification test is based on a conditional inference approach: information about the existence of strongly identified directions in the parameter space is exploited to define a data-dependent critical value, which, in turn, increases the power of the resulting specification test by reducing the conservativeness of the corresponding critical value used to carry out the approach. This conditional or coordinated testing approach relies on a novel test of weak identification that is more powerful than existing procedures and is compatible with mixed identification strengths - that is, subvector and/or directions in the parameters space that display different strengths of identification (e.g. weak and non-weak). Furthermore, we show that in both cases, specification testing and testing for weak identification, an empirical measure of identification strength can be used to enhance testing power by eliciting less conservative critical values when appropriate. This new testing approach is illustrated using three applications: discrete choice models with simultaneity and the New Keynesian Philips curve (in a GMM framework), as well as Asset Pricing models with stochastic volatility and leverage (in a MD framework).",
+   "url": "https://doi.org/10.1016/j.jeconom.2026.106338",
+   "doi": "10.1016/j.jeconom.2026.106338",
+   "pdf": "https://doi.org/10.1016/j.jeconom.2026.106338",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7204100203": {
+   "id": "oa:W7204100203",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Accountability arbitrage: ethical tensions in AI agent accountability infrastructure",
+   "authors": [
+    "Alex Chengyu Li"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01369-9",
+   "doi": "10.1007/s43681-026-01369-9",
+   "pdf": "https://doi.org/10.5281/zenodo.22078408",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212543475": {
+   "id": "oa:W7212543475",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Measuring structural value alignment in sixteen models: LLMs have human-like moral spaces",
+   "authors": [
+    "Yexiang Tang"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "Abstract Evaluating whether large language models (LLMs) reason about morality in human-like ways requires more than measuring whether they produce the right outputs in isolated cases. Existing approaches – including scalar agreement, distributional analysis, rationale classification, and consistency testing – compare model and human responses one case at a time and cannot detect how a model structures its moral judgments. This paper applies and extends Peterson and Gärdenfors's (2024) geometric moral space framework to evaluate structural value alignment in LLMs, that is, whether the relational structure reconstructed from a model's responses matches the structure reconstructed from human respondents on the same task. Sixteen LLMs across three scale tiers (small, medium, and large) were evaluated on ten moral cases under both zero-shot and chain-of-thought (CoT) prompting. The results reveal phenomena invisible to case-by-case metrics. First, all five large models achieve full geometric alignment on these cases (moral space overlap, MSO = 1.00) in at least one prompting condition, and three do so in both; two medium models also reach MSO = 1.00. Second, structural alignment is bimodal in the sense that models either replicate the human moral space or fall substantially short, with no intermediate cases. Third, smaller models systematically lack a distinct fairness region, a failure of moral categorization rather than of labeling. Fourth, CoT prompting simultaneously improves case-by-case similarity correlations and worsens geometric alignment in smaller models, showing that the two can move in opposite directions. Because structural alignment is measured from model responses, it does not by itself establish that a model holds the values in question. It is, however, a more demanding test than case-by-case agreement, and a better motivated and more informative basis for value alignment measurement.",
+   "url": "https://doi.org/10.1007/s43681-026-01368-w",
+   "doi": "10.1007/s43681-026-01368-w",
+   "pdf": "https://doi.org/10.1007/s43681-026-01368-w",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212601788": {
+   "id": "oa:W7212601788",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Explaining distance deterrence variation in urban mobility with spatiotemporal features",
+   "authors": [
+    "강세형",
+    "Inho Hong"
+   ],
+   "journal": "EPJ Data Science",
+   "date": "2026-09-14",
+   "abstract": "Distance deterrence, often quantified through the gravity model, has been used to characterize urban mobility, yet which urban and contextual features are linked with its within-city variation remains unclear. Using large-scale origin–destination mobility data comprising about 4.8 billion trips across the Seoul Metropolitan Area, we show that distance deterrence follows a core–periphery pattern and varies with transit accessibility, day-off conditions, and age-specific temporal patterns. To do so, we estimate town-level distance exponents with a gravity model and examine their spatial and temporal variation using XGBoost interpreted with SHapley Additive exPlanations (SHAP). We find that distance deterrence generally strengthens from core toward the periphery, but localized areas of weak deterrence appear near major metro stations. This spatial pattern is also accompanied by temporal variation. Distance deterrence generally increases from morning to afternoon and decreases during day-off periods, but the day-off pattern reverses among working-age groups in transit-rich urban cores. Together, transit accessibility emerges as a key factor associated with lower distance deterrence overall, with associations that vary across time and population groups. These findings suggest that distance deterrence reflects nonlinear and complex relationships with urban structure, transit accessibility, and sociotemporal factors, making it a spatiotemporally sensitive indicator of accessibility disparities across urban space.",
+   "url": "https://doi.org/10.1140/epjds/s13688-026-00702-w",
+   "doi": "10.1140/epjds/s13688-026-00702-w",
+   "pdf": "https://doi.org/10.1140/epjds/s13688-026-00702-w",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212727675": {
+   "id": "oa:W7212727675",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "When is AI-mediated institutional action ethically warranted? A feasibility-first framework for admissible-state reasoning",
+   "authors": [
+    "Adegoke O. Adefolalu"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01393-9",
+   "doi": "10.1007/s43681-026-01393-9",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212790515": {
+   "id": "oa:W7212790515",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Co-design of a trustworthy AI-based prognostic tool for predicting patient outcome in acute stroke",
+   "authors": [
+    "Elizabeth Hofvenschioeld",
+    "Adam Hilbert",
+    "Cathrine K. T. Bui",
+    "Susanne Bonekamp",
+    "Tess Buckley",
+    "Roberta Calegari",
+    "L.A. Cappellini",
+    "Megan Coffee",
+    "Giorgio Colangelo",
+    "Boris Düdder"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "Abstract This paper reports a descriptive, process-oriented case study of the application of Z-Inspection®, an ethically aligned co-design methodology, in the early design phase of an artificial intelligence (AI) system for healthcare. The methodology was applied within the Horizon Europe project VALIDATE [1], which develops and validates a prognostic clinical decision support system (CDSS) to support treatment decisions in acute ischaemic stroke. An interdisciplinary team of Z-Inspection® experts, AI developers, and clinical stakeholders jointly identified ethical, legal, and technical issues relevant to the planned system. The assessment resulted in 22 ethical issues, 12 dilemmas, 18 risks, and 48 derived requirements, each mapped to the European Commission’s trustworthy AI principles. The identified issues, dilemmas, risks, and derived requirements constitute the primary findings of this descriptive case study and document how general trustworthy-AI principles were translated into context-specific technical, clinical, governance, and organisational requirements. By documenting the process and publishing the complete requirements, the study provides a detailed case for critical scrutiny and potential uptake in other healthcare AI projects, though its transferability and scalability remain to be established in further studies.",
+   "url": "https://doi.org/10.1007/s43681-026-01337-3",
+   "doi": "10.1007/s43681-026-01337-3",
+   "pdf": "https://doi.org/10.1007/s43681-026-01337-3",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212852100": {
+   "id": "oa:W7212852100",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "A postphenomenology of care: ecstatic temporality in generative music",
+   "authors": [
+    "Sam Miller"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01386-8",
+   "doi": "10.1007/s43681-026-01386-8",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212871912": {
+   "id": "oa:W7212871912",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The delegation illusion: why deploying autonomous AI agents does not diminish principal responsibility",
+   "authors": [
+    "Chun Yin Kong"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "Abstract A growing literature on “agentic AI” — autonomous software agents that plan and execute multi-step actions on a principal’s behalf — has revived the thesis that such systems open a responsibility gap : because the deploying principal neither intends, foresees, nor controls the specific actions an autonomous agent selects, no human can be held fully responsible for resulting harms. This paper argues that the responsibility-gap thesis, as applied to principal-deployed AI agents, rests on a conflation called here the delegation illusion : the inference from a principal’s causal and epistemic remoteness from an outcome to a diminution of her answerability for it. Distinguishing attributability, answerability, and accountability, the paper argues that autonomy, opacity, and adaptivity bear on attributability while leaving intact an answerability grounded, through a standard tracing structure, in the deployer’s guidance control over the prior act of delegation. It defends a principle of responsibility conservation under delegation and operationalises that principle’s central criterion — foreseeability of harmful dispositions at the level of types — by specifying an epistemic base, a standard of diligence, and a constraint on type individuation that blocks vacuous redescription. Answerability is argued to be epistemically graded, but indexed to the deployer’s ex ante access to the dispositional profile of the deployment specification rather than to the particular act. The method is conceptual analysis and normative argumentation; the scope and limitations of the claims are stated explicitly.",
+   "url": "https://doi.org/10.1007/s43681-026-01383-x",
+   "doi": "10.1007/s43681-026-01383-x",
+   "pdf": "https://doi.org/10.1007/s43681-026-01383-x",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212877019": {
+   "id": "oa:W7212877019",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce",
+   "authors": [
+    "Eugene Soltes",
+    "Lukas Petersson",
+    "Harper Jung",
+    "Axel Wennström"
+   ],
+   "journal": "Harvard Data Science Review",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1162/99608f92.8f4a0273",
+   "doi": "10.1162/99608f92.8f4a0273",
+   "pdf": "https://doi.org/10.1162/99608f92.8f4a0273",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212877496": {
+   "id": "oa:W7212877496",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "A Searlean perspective on using LLM in scholarly work",
+   "authors": [
+    "Boon Seng Tan"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01382-y",
+   "doi": "10.1007/s43681-026-01382-y",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7213026700": {
+   "id": "oa:W7213026700",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Knowing whether to rely: continuous awareness as a moral right in human-AI interaction",
+   "authors": [
+    "Khaled Sawaf"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "Abstract A person relying on a system has a right to know what it is; disclosure secures that right but only while the object of reliance remains materially stable. Under AI, the object does not stay still, and a model’s integrity can change without warning. A moment after disclosure is issued, the system described may have evolved, drifted, or been compromised while the user continues relying on it unaware of its current state. A person’s interest in what they rely on is continuous, but disclosure is episodic, and that epistemic mismatch is not closed by repeating the notice. This paper reconceives AI transparency around a single claim: A person relying on an AI system holds a moral right to continuous awareness of the system’s status, grounded in the same autonomy that informed consent protects. How continuous awareness is delivered is the corollary of that right. The status signal that delivers it must be continuous and vouched from outside the system, since a captured system cannot certify its own integrity. Shaping that signal is therefore an ethical act, not an engineering detail.",
+   "url": "https://doi.org/10.1007/s43681-026-01387-7",
+   "doi": "10.1007/s43681-026-01387-7",
+   "pdf": "https://doi.org/10.1007/s43681-026-01387-7",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7213034159": {
+   "id": "oa:W7213034159",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Human-weighted ethical pluralism in AI decision support: introducing the weighted meta-decision engine (WMDE) through the Omelas dilemma",
+   "authors": [
+    "Ahmet Göçen",
+    "Mete Han Arıtürk",
+    "Mohannad Alhanahnah"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01356-0",
+   "doi": "10.1007/s43681-026-01356-0",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7213074737": {
+   "id": "oa:W7213074737",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Anticipatory agency and the ecology of causal bubbles: a pragmatic constructivist framework for human-AI collaboration",
+   "authors": [
+    "Michael Lissack"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01372-0",
+   "doi": "10.1007/s43681-026-01372-0",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7213130771": {
+   "id": "oa:W7213130771",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Whose future is coded? A decolonial-feminist interrogation of the right to collective dreaming in AI governance",
+   "authors": [
+    "Oğuz Onat"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01378-8",
+   "doi": "10.1007/s43681-026-01378-8",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7213176578": {
+   "id": "oa:W7213176578",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Designing for disagreement: epistemic friction, sycophancy, and the ethics of human–AI advice—a critical integrative review",
+   "authors": [
+    "Connor Nitchals"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-09-14",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01379-7",
+   "doi": "10.1007/s43681-026-01379-7",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212480973": {
+   "id": "oa:W7212480973",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "AI Within the Dialectic of Ethics and Equity",
+   "authors": [
+    "Aysan Bashirpour Bonab",
+    "Ihor Rudko"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-09-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s13347-026-01179-1",
+   "doi": "10.1007/s13347-026-01179-1",
+   "pdf": "",
+   "first_seen": "2026-09-16T09:37:12+09:00"
+  },
+  "oa:W7212736823": {
+   "id": "oa:W7212736823",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Beyond Comfort: Interesting Experiences and the Measurement of Well-Being in AI Care Companions",
+   "authors": [
+    "Jack Jacobs",
+    "Alex Lau",
+    "Daezhon Gilbarg",
+    "Hanxuan Zhang",
+    "Qiannan Li"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-09-01",
+   "abstract": "Abstract AI care companions for older adults are typically evaluated by whether they reduce loneliness, improve mood, provide companionship, or keep users mentally active. These are genuine benefits, but they do not exhaust what matters to well-being. Drawing on Lorraine Besser’s account of interesting experiences, this paper develops two reasons to treat robust cognitive engagement as a distinct design and evaluation target. First, if interestingness has experiential value not reducible to pleasure, comfort-centered measures omit an important prudential good. Second, even if interestingness is understood as a cognitively structured form of pleasure, it has a prolific character; every genuinely interesting experience opens or sustains some further possibility for engagement, although the extent of this opening varies and its development into later inquiry, activity, or relationship is contingent. Through a philosophical case study of the AI-powered care companion ElliQ, we show how a welfare-oriented companion can provide genuine benefits while failing to identify or measure this dimension of experience. Because personalized and proactive companions can shape—and sometimes displace—users’ finite time and attention, we argue that they bear a conditional, role-based, pro tanto responsibility not to narrow users’ experiential worlds. We translate this responsibility into three design principles: situated novelty, calibrated challenge, and continuity and outward transfer. These principles aim to preserve voluntary, permission-sensitive opportunities for curiosity, reflection, and engagement beyond the system itself. AI care companions should be judged not only by whether they make a person’s life more comfortable, but also by whether they help keep their world open.",
+   "url": "https://doi.org/10.1007/s13347-026-01181-7",
+   "doi": "10.1007/s13347-026-01181-7",
+   "pdf": "https://doi.org/10.1007/s13347-026-01181-7",
+   "first_seen": "2026-09-16T09:37:12+09:00"
   }
  }
 }
