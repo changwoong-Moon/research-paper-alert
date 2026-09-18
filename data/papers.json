@@ -1,15 +1,176 @@
 {
- "generated_at": "2026-09-17T09:44:46+09:00",
- "generated_at_display": "2026-09-17 09:44 KST",
+ "generated_at": "2026-09-18T09:34:11+09:00",
+ "generated_at_display": "2026-09-18 09:34 KST",
  "dashboard": "https://changwoong-moon.github.io/research-paper-alert/",
  "kci_status": "정상 — PC 수집 262건 (2026-09-17 09:35)",
  "topics": [
   {
    "key": "public-admin",
    "name": "행정학 연구동향",
-   "count": 1290,
-   "new_count": 25,
+   "count": 1293,
+   "new_count": 36,
    "papers": [
+    {
+     "id": "oa:W7213443524",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The Right Key for the Right Lock: How Government Response Methods and Demand Types Affect Citizen Satisfaction",
+     "authors": [
+      "Na Tang",
+      "Wenjia Huang",
+      "Nana Huang",
+      "Mengyao Zhang"
+     ],
+     "journal": "Public Administration",
+     "date": "2026-09-17",
+     "abstract": "ABSTRACT Faced with diverse and complex demands from citizens, the government has consistently sought ways to enhance its ability to respond. Metaphorically, citizens' needs can be viewed as locks, and the government requires keys to unlock them. Artificial intelligence (AI) is an innovative new key offering a fresh paradigm for unlocking the door to high citizen satisfaction. Drawing on government responsiveness theory, this study applies a 2 × 3 between‐subjects survey experiment to explore the impact of government response methods (traditional responses, AI‐enabled responses) and citizen demand types (consultation, complaint/help‐seeking, suggestions) on citizen satisfaction. Findings show that AI‐enabled government responses significantly increase citizen satisfaction compared to traditional approaches. Among demand types, consultation yields the highest satisfaction, while suggestion results in the lowest. Further, the satisfaction level is significantly influenced by the interaction effect between response method and demand type. Perceived fairness mediates the relationship between government responses and citizen satisfaction, with citizen participation experience having a moderating effect. This study offers new insights into increasing citizen satisfaction from the perspective of government responses. It reveals the content‐dependent nature of AI‐enabled government responses, helping the government create unique AI response strategies and enhance digital interaction with citizens.",
+     "url": "https://doi.org/10.1111/padm.70095",
+     "doi": "10.1111/padm.70095",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213444142",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The pandemic and the shift in social dynamics: how well do existing theoretical frameworks explain volunteering during COVID-19?",
+     "authors": [
+      "Young‐Joo Lee"
+     ],
+     "journal": "Journal of Chinese Governance",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1080/23812346.2026.2714349",
+     "doi": "10.1080/23812346.2026.2714349",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213444801",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "In the September 2026 Issue of the Quarterly",
+     "authors": [
+      "ALAN B. COHEN"
+     ],
+     "journal": "Milbank Quarterly",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1111/1468-0009.70134",
+     "doi": "10.1111/1468-0009.70134",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213446737",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Making Water Investible : Development Banking, Regulatory Governance, and the Institutional Production of Sanitation Infrastructure in Brazil",
+     "authors": [
+      "Charles Correa Schramm",
+      "João Paulo Nicolini Gabriel"
+     ],
+     "journal": "Regulation & Governance",
+     "date": "2026-09-17",
+     "abstract": "ABSTRACT Why did long‐horizon private investment in Brazilian water and sanitation expand after 2016 despite fragmented authority and persistent political contestation? This article places the Brazilian Development Bank (BNDES) inside, rather than outside, the credible‐commitment framework. It argues that the bank operated as a credibility intermediary: it assembled service territories at investible scale, financed and coordinated project preparation, translated statutory goals into comparable contracts, and linked concessions to long‐term finance. These functions complemented courts, legislatures, the national standard‐setting role of the National Water and Basic Sanitation Agency (ANA), and post‐award supervision by infranational regulators. Process tracing of laws, concession documents, regulatory instruments, auction records, corporate filings, and attributable investor statements shows how this architecture was repeated across the Temer, Bolsonaro, and Lula administrations, albeit under different political framings. The mechanism is sequence‐sensitive but not universally necessary: Chile demonstrates an alternative route through regional utilities and a central regulator, while Colombia illustrates the continuing constraints of fragmented provision. The article also distinguishes investibility from legitimacy. Financial and contractual discipline can make commitments more legible to investors, but it neither replaces public‐law oversight nor resolves disputes over affordability, participation, and the human right to water.",
+     "url": "https://doi.org/10.1111/rego.70206",
+     "doi": "10.1111/rego.70206",
+     "pdf": "https://doi.org/10.1111/rego.70206",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213405019",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The promises and pitfalls of AI in public service: a review of AI snake oil,",
+     "authors": [
+      "Julie Beasley"
+     ],
+     "journal": "International Public Management Journal",
+     "date": "2026-09-16",
+     "abstract": "In their recent and first coauthored book, computer science scholars, Arvind Narayanan and Sayash Kapoor address promises and pitfalls with the “dawn of AI” (Narayanan and Kapoor 2024:3) amid the e...",
+     "url": "https://doi.org/10.1080/10967494.2026.2714943",
+     "doi": "10.1080/10967494.2026.2714943",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213424300",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Preferences for symbolic representation: identity, context, and selection of mental health providers",
+     "authors": [
+      "Austin McCrea",
+      "Nathan Favero"
+     ],
+     "journal": "International Public Management Journal",
+     "date": "2026-09-16",
+     "abstract": "Citizens often favor public servants who resemble them demographically, but studies also indicate that this preference for symbolic representation may be unevenly distributed, shaped by individuals’ own lived experiences. Against this backdrop, we ask: in what contexts do citizens express a preference for symbolic representation? Focusing on publicly-supported mental health services as an empirical case, we field a conjoint experiment depicting provider information in a format informed by real-world listings. We find that preferences for symbolic representation are most apparent for social groups that have experienced significant marginalization—women, non-binary respondents, and people of color. Meanwhile, factors describing the organizational context in which services are provided—wait times and modality of service provision—do not appear to consistently moderate the preference for symbolic representation. These results underscore the importance of macro factors, such as systemic racism and sexism, in shaping individual preferences for bureaucratic representation.",
+     "url": "https://doi.org/10.1080/10967494.2026.2723042",
+     "doi": "10.1080/10967494.2026.2723042",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213424611",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The impact of the bureaucratic environment on public service digitalization",
+     "authors": [
+      "Diego Alonso Salazar Morales",
+      "Julián Villodre",
+      "Bram Klievink"
+     ],
+     "journal": "International Review of Administrative Sciences",
+     "date": "2026-09-16",
+     "abstract": "Research on public-sector digitalization has traditionally focused on macro-level societal, economic and governance conditions, as well as individual-level challenges faced by civil servants in implementing digital public services. Yet it has overlooked the institutional incentives and constraints embedded in bureaucratic environments, and how cross-national variation in these traits shapes digital transformation. Our study addresses this gap by identifying how core traditional Weberian characteristics of bureaucracies comparatively affect public service digitalization. Drawing on cross-national datasets covering 193 countries over 22 years, we examine the effects of bureaucratic professionalization, bureaucratic closedness and the adoption of managerial performance-based practices on the production of digital public services. Our findings show that more professional bureaucracies alone do not necessarily lead to better digitalization, but rather this occurs when such bureaucracies include more ‘open’ elements in their structures, including more open hiring practices and side entries of specialized personnel.",
+     "url": "https://doi.org/10.1177/00208523261479945",
+     "doi": "10.1177/00208523261479945",
+     "pdf": "https://doi.org/10.1177/00208523261479945",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213428075",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Using gender to choose: voter decision-making in low-information elections",
+     "authors": [
+      "Lotte Hargrave",
+      "Eleanor F. Woodhouse"
+     ],
+     "journal": "Journal of European Public Policy",
+     "date": "2026-09-16",
+     "abstract": "While a growing body of work suggests that voters no longer penalise women at the ballot box in many institutional contexts, less is known about how gender shapes choice when voters have little else to go on. In this paper, we ask how gender is used as a cue in low-information electoral environments, and whether support for women is driven by gender itself or gender-based expectations about what candidates will do in office. To address this question, we field three novel conjoint experiments in Great Britain that vary whether voters are shown politicians’ descriptive characteristics, their policy priorities, or both. We find a substantial preference for women when gender is the only information available, but this preference disappears once voters are given even minimal information about what candidates care about. Our research contributes to ongoing debates about descriptive and substantive representation, showing how the role of gender in vote choice depends on the information voters have available.",
+     "url": "https://doi.org/10.1080/13501763.2026.2732010",
+     "doi": "10.1080/13501763.2026.2732010",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13501763.2026.2732010?needAccess=true",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213434238",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Fairness and equity in hybrid work: insights from the Ontario Public Service",
+     "authors": [
+      "Maria Gintova"
+     ],
+     "journal": "International Public Management Journal",
+     "date": "2026-09-16",
+     "abstract": "Hybrid work—alternating between office and remote locations—has become the norm across Canadian public services, yet questions remain about whether it is implemented fairly. In 2022, the Ontario Public Service (OPS) mandated three in-office days per week, then announced in August 2025 that all employees must return to the office full-time. Based on qualitative content analysis of OPS subreddit data and semi-structured interviews with Indigenous and Black public servants, this paper explores perspectives on hybrid work, focusing on fairness and equity. It examines access to hybrid arrangements, consistency in implementation and enforcement, and impacts on recruitment and retention. Findings reveal concerns about unequal access, inconsistent enforcement, and disproportionate burdens on racialized public servants, along with implications for recruiting and retaining talent. Fairness and equity should therefore be central considerations in public sector hybrid work and return-to-office policies, given their impacts on recruiting and retaining a diverse government workforce.",
+     "url": "https://doi.org/10.1080/10967494.2026.2719908",
+     "doi": "10.1080/10967494.2026.2719908",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10967494.2026.2719908?needAccess=true",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7198602962",
      "topic": "public-admin",
@@ -23,7 +184,7 @@
      "abstract": "Abstract International policy efforts to systematise the consideration of health outcomes across social and economic policy – the ‘Health in All Policies’ (HiAP) approach – have faced practical, relational and political difficulties. Meanwhile, new economic policy agendas focused on ‘inclusive growth’ or ‘wellbeing’ may provide an alternative route to improving population health by acting on upstream determinants. This research uses a frame analysis of thirty social, economic and health policy documents, and semi-structured interviews with thirty-four policy actors, to explore conceptualisations of ‘health’ in two devolved policy bodies in the UK – Greater Manchester Combined Authority and the Scottish Government – with declared interests in these economic agendas. Interviews revealed that social and economic policy actors conceptualised ‘health’ narrowly as biomedical, physical illness, and as shorthand for ‘health policy’. Further, some of these participants expressed resentment about health policy, while interviewees across teams expressed scepticism about HiAP. In contrast, ‘wellbeing’ was widely conceptualised similarly to the social model of health, included mental health, and was supported as a plausible common cause. This research suggests that a clearer conceptual distinction between ‘healthcare’ and ‘wellbeing’ – representing the medical and social models of health respectively – may support policy efforts to promote population health.",
      "url": "https://doi.org/10.1017/s0047279426101615",
      "doi": "10.1017/s0047279426101615",
-     "pdf": "https://doi.org/10.1017/s0047279426101615",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/77ED0EE6F17B9EC2477B8AE54725866A/S0047279426101615a.pdf/div-class-title-searching-for-the-social-model-of-health-in-policy-health-in-all-policies-or-wellbeing-div.pdf",
      "first_seen": "2026-09-17T09:44:46+09:00",
      "is_new": true
     },
@@ -38,7 +199,7 @@
      "abstract": "",
      "url": "https://doi.org/10.1017/s0047279425101177",
      "doi": "10.1017/s0047279425101177",
-     "pdf": "",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F38A8C3EF0100BF16B5C9DF2606BF022/S0047279425101177a.pdf/div-class-title-jsp-volume-55-issue-4-cover-and-back-matter-div.pdf",
      "first_seen": "2026-09-17T09:44:46+09:00",
      "is_new": true
     },
@@ -55,7 +216,7 @@
      ],
      "journal": "Journal of Asian Public Policy",
      "date": "2026-09-16",
-     "abstract": "",
+     "abstract": "The expansion of social protection for platform workers has been widely promoted as a response to precarity in the gig economy, yet formal inclusion does not always produce participation or effective protection. This article examines why contributory welfare arrangements remain difficult to use for platform-based food delivery workers in China. Drawing on 20 in-depth interviews with riders and station managers in Chengdu and Shenyang, we identify two intertwined dimensions: welfare misalignment and platform precarity. Volatile earnings make current contribution costs especially salient, while uncertainty about transfer procedures and future entitlements can strengthen workers’ preference for immediate income. Algorithmic management also encourages individualized coping, leaving much of the management of risk with workers themselves. We conceptualize these interactions as institutional complicity, a contingent, non-intentional relation between platform governance and welfare institutions mediated by workers’ adaptive strategies. Within Chengdu, lower out-of-pocket costs were associated with greater willingness to participate, although the qualitative comparison does not isolate subsidy effects from occupational position. The study shows how formal inclusion, affordability, and effective protection can diverge under fragmented employment and highlights contribution costs, transfer uncertainty, and fragmented responsibility as key areas for institutional adaptation.",
      "url": "https://doi.org/10.1080/17516234.2026.2731370",
      "doi": "10.1080/17516234.2026.2731370",
      "pdf": "",
@@ -107,7 +268,7 @@
      ],
      "journal": "Public Management Review",
      "date": "2026-09-16",
-     "abstract": "",
+     "abstract": "This study explores how NGOs facilitate the transition from co-production to value co-creation in rural ecological governance through a case study of the Guanba River Basin, China. Drawing on qualitative evidence and social network analysis, it reveals that NGOs’ front-loaded participation in problem framing, planning, and rule formation creates institutional and relational foundations for collaborative governance. Beyond boundary-spanning roles, NGOs function as institutional intermediaries that reshape governance arrangements and enhance local capacity. Value co-creation emerges through institutional embeddedness, actor absorption, and adaptive governance within a recursive ecosystem. This study provides an institutionally grounded explanation of how externally facilitated co-production evolves into locally sustained value co-creation.",
      "url": "https://doi.org/10.1080/14719037.2026.2733934",
      "doi": "10.1080/14719037.2026.2733934",
      "pdf": "",
@@ -125,7 +286,7 @@
      "abstract": "",
      "url": "https://doi.org/10.1017/s0047279425101165",
      "doi": "10.1017/s0047279425101165",
-     "pdf": "",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C8B08E6F0A867A61DA8882426B6ED521/S0047279425101165a.pdf/div-class-title-jsp-volume-55-issue-4-cover-and-front-matter-div.pdf",
      "first_seen": "2026-09-17T09:44:46+09:00",
      "is_new": true
     },
@@ -274,7 +435,7 @@
      "abstract": "Abstract First Nations people deeply value relational modes of organising politics, governance, and social order that do not feature in European‐derived political ordering or in dominant governance and policy scholarship. While Indigenous peoples have long sought equitable and respectful relationships in the context of forced colonial engagement, the settler state has largely refused relational engagement, accountability, and responsibility. Nonetheless, the configuration and practice of public policy contain possibilities for openness as well as closure. The concept and policy of self‐determination promise a relationship, while its conceptual vagueness and application in complexly ambiguous and unbalanced settler colonial conditions mean that its relational possibilities tend to be gradually and seriously eroded through settler solipsism and dominance. However, self‐determination continues to suggest possibilities for relating that recognise Indigenous political ordering and agency, and thus for ethical and effective forms of Indigenous policy. These and wider possibilities in Indigenous affairs policy can arise through practitioner vulnerability amid relational exchange in policy engagement and practice in response to the conceptual vagueness of self‐determination. Points for practitioners Relations are foundationally important for First Nations people and governance. Dominant public administration retains power by returning to itself rather than entering relationship with First Nations peoples and their systems. Awareness of the history and workings of dominant policy provides a foundation for seeing and engaging difference. Centring relations and relatedness can usefully inform the pursuit of just and effective forms of Indigenous policy. The personal vulnerability of governance practitioners opens possibilities for negotiation and relationship between Indigenous and European‐derived governance systems.",
      "url": "https://doi.org/10.1111/1467-8500.70055",
      "doi": "10.1111/1467-8500.70055",
-     "pdf": "https://doi.org/10.1111/1467-8500.70055",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8500.70055",
      "first_seen": "2026-09-17T09:44:46+09:00",
      "is_new": true
     },
@@ -312,6 +473,25 @@
      "doi": "10.1080/14719037.2026.2729793",
      "pdf": "https://doi.org/10.1080/14719037.2026.2729793",
      "first_seen": "2026-09-17T09:44:46+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213412755",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Cross-Source Corroboration and the Dynamics of Local Government Attention: Evidence from an Emerging Policy Field",
+     "authors": [
+      "Yingxin Zhang",
+      "Yixue Yao",
+      "Kaifeng Yang"
+     ],
+     "journal": "Journal of Public Administration Research and Theory",
+     "date": "2026-09-14",
+     "abstract": "Abstract Governments receive simultaneous cues from superior authorities, peer jurisdictions, and societal audiences, yet existing research rarely explains how they decide which cues warrant scarce agenda space. We develop a cross-source corroboration perspective on governmental attention and argue that signals become more consequential when they are corroborated by cues from structurally different sources, because convergence reduces ambiguity and makes an issue appear important, legitimate, and actionable. Using Government Work Reports and the Baidu Index to measure attention to digital government, we estimate two-way fixed-effects models for 283 Chinese cities over 2012–2024. We find that superior, peer, and public attention are each positively associated with local attention. The signals also reinforce one another: superior attention strengthens the associations of both peer and public attention with local attention, while peer attention strengthens the association of public attention with local attention. Temporal patterns also differ: the association of superior attention with local attention becomes stronger in the later period, that of peer attention remains broadly stable, and that of public attention tends to strengthen. These findings advance attention-allocation theory by showing that governmental attention is a relational and configurational outcome of signal interpretation rather than an additive response to isolated institutional pressures.",
+     "url": "https://doi.org/10.1093/jopart/muag030",
+     "doi": "10.1093/jopart/muag030",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
      "is_new": true
     },
     {
@@ -13597,6 +13777,23 @@
      "is_new": false
     },
     {
+     "id": "oa:W7167577530",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Nobody’s decision – AI and the perfection of bureaucracy",
+     "authors": [
+      "David Oliver Kasdan"
+     ],
+     "journal": "International Review of Public Administration",
+     "date": "2026-07-07",
+     "abstract": "If a demonstrably better artificial intelligence bureaucrat existed, would you submit to its governance? Can the social science behind governance be returned to the engineering management science t...",
+     "url": "https://doi.org/10.1080/12294659.2026.2699511",
+     "doi": "10.1080/12294659.2026.2699511",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7167601747",
      "topic": "public-admin",
      "origin": "OpenAlex",
@@ -24518,174 +24715,131 @@
      "first_seen": "2026-08-09T01:35:52+09:00",
      "abstract_ko": "개요 이 연구는 고위 공무원이 기능적 정치화를 통해 반응성과 역량 사이의 긴장을 어떻게 헤쳐나가는지 설명합니다. 풍부한 관찰 데이터(300시간)와 인터뷰 자료(42개 인터뷰)를 바탕으로 이 기사는 장관에게 도전하고 대안 솔루션을 제공하며 결과를 명확히 하기 위해 정치적 고려 사항과 전문 기술 지식을 통합하는 조언을 제공함으로써 고위 공무원이 이러한 긴장을 어떻게 헤쳐나가는지 이론화합니다. 나는 이러한 실천을 성찰적 기능적 정치화라고 부르며, 이로써 공무원들이 행동으로 정치화가 어떻게 실천되는지 개념화함으로써 정치화에 관한 문헌에 기여합니다. 그들의 실천은 진정한 중립은 드물거나 존재하지 않기 때문에 대신 정치적 반응성과 기술적 능력 사이의 균형을 유지해야 한다는 확신에서 동기를 부여받습니다.",
      "is_new": false
-    },
-    {
-     "id": "oa:W7161822345",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Compound path dependence in green transitions: a comparative analysis of EV policy coordination in Indonesia and Thailand",
-     "authors": [
-      "Chunhua Ye",
-      "Yiyun Xia",
-      "Yixian Sun",
-      "Benjamin Cashore"
-     ],
-     "journal": "Policy Sciences",
-     "date": "2026-05-20",
-     "abstract": "Why do countries facing similar pressures for electric vehicle (EV) transitions adopt different policy coordination arrangements? Existing scholarship pays less attention to how historically rooted institutional configurations shape the emergence and persistence of coordination modes. This article addresses this gap through a comparative study of Indonesia and Thailand, two Southeast Asian middle-income economies that adopted national EV strategies in the late 2010s but developed divergent coordination trajectories. Drawing on historical institutionalism, it develops a framework of compound path dependence, arguing that coordination arrangements are shaped by the interaction of technical lock-in, relational networks, and organizational learning. Using comparative process tracing from the 1960s–2024, the analysis identifies two distinct governance modes: in Thailand, consensus-based incrementalism built on strong industrial capacity, institutionalized consultation, and committee-based routines; while in Indonesia, directive-driven ad-hocism rooted in a resource-centered development path and weaker industrial coordination legacies. Through this, this study advances the literature on public policy and sustainability transitions. It reveals a critical trade-off between institutional coherence and policy agility in sustainability transition, and argues that policy coordination choice is a product of structure-induced agency constrained by historical legacies.",
-     "url": "https://doi.org/10.1007/s11077-026-09614-y",
-     "doi": "10.1007/s11077-026-09614-y",
-     "pdf": "https://researchportal.bath.ac.uk/en/publications/185fa8a0-201b-41f8-ba92-fa861182440f",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abs_src": "보충",
-     "abstract_ko": "전기 자동차(EV) 전환에 대해 유사한 압력을 받고 있는 국가들이 왜 다른 정책 조정 방식을 채택합니까? 기존 학문은 역사적으로 뿌리를 둔 제도적 구성이 조정 모드의 출현과 지속성을 어떻게 형성하는지에 대해 덜 관심을 기울이고 있습니다. 이 기사에서는 2010년대 후반에 국가 EV 전략을 채택했지만 서로 다른 조정 궤적을 개발한 동남아시아의 두 중간 소득 경제인 인도네시아와 태국에 대한 비교 연구를 통해 이러한 격차를 다룹니다. 역사적 제도주의를 바탕으로 복합 경로 의존성 프레임워크를 개발하며, 조정 방식은 기술 잠금, 관계 네트워크 및 조직 학습의 상호 작용에 의해 형성된다고 주장합니다. 1960년대부터 2024년까지의 비교 프로세스 추적을 사용하여 이 분석은 두 가지 뚜렷한 거버넌스 모드를 식별합니다. 태국에서는 강력한 산업 역량, 제도화된 협의 및 위원회 기반 루틴을 기반으로 구축된 합의 기반 증분주의입니다. 반면 인도네시아에서는 자원 중심 개발 경로와 취약한 산업 조정 유산에 뿌리를 둔 지시 중심 임시주의가 있었습니다. 이를 통해 본 연구는 공공정책과 지속가능성 전환에 관한 문헌을 발전시킨다. 이는 지속가능성 전환에서 제도적 일관성과 정책 민첩성 사이의 중요한 균형을 드러내고, 정책 조정 선택이 역사적 유산에 의해 제약을 받는 구조 유발 기관의 산물이라고 주장합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161994897",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Continuity or change? Domestic ratifications of the European Financial Stability Facility and the Own Resources Decision",
-     "authors": [
-      "Aleksandra Maatsch",
-      "Carlos Closa Montero"
-     ],
-     "journal": "Journal of European Public Policy",
-     "date": "2026-05-20",
-     "abstract": "This article compares domestic ratifications of two major EU crisis-response measures: the European Financial Stability Facility (EFSF), adopted during the euro-area sovereign debt crisis, and the Own Resources Decision (ORD), adopted during the COVID-19 pandemic. It asks whether parliamentary party support varies across asymmetric and symmetric crises, as commonly assumed in the literature. The analysis reveals a strong pattern of continuity: levels of party support and opposition, as well as their underlying justifications, are remarkably similar across both cases. Based on a novel dataset covering all EU member states concerned and combining statistical analysis with qualitative and quantitative content analysis, the article shows that party preferences exhibit pronounced continuity and adapt only slowly, even in the face of major shocks. These findings challenge expectations of crisis-induced change in EU politics and instead highlight the persistence of established domestic conflict structures in shaping support for sharing fiscal liabilities.",
-     "url": "https://doi.org/10.1080/13501763.2026.2673981",
-     "doi": "10.1080/13501763.2026.2673981",
-     "pdf": "https://doi.org/10.1080/13501763.2026.2673981",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "이 기사는 두 가지 주요 EU 위기 대응 조치, 즉 유로 지역 국가 부채 위기 동안 채택된 유럽 금융 안정 기구(EFSF)와 코로나19 팬데믹 동안 채택된 자체 자원 결정(ORD)의 국내 비준을 비교합니다. 이는 문헌에서 일반적으로 가정되는 것처럼 의회 정당의 지지가 비대칭 위기와 대칭 위기에 따라 달라지는지 여부를 묻습니다. 분석은 연속성의 강력한 패턴을 보여줍니다. 즉, 정당의 지지와 반대 수준, 그리고 그 근본적인 정당성은 두 사례 모두에서 현저하게 유사합니다. 모든 관련 EU 회원국을 포괄하고 통계 분석과 정성적, 정량적 내용 분석을 결합한 새로운 데이터 세트를 기반으로 한 이 기사는 정당 선호도가 뚜렷한 연속성을 나타내며 큰 충격에도 불구하고 천천히 적응한다는 것을 보여줍니다. 이러한 연구 결과는 위기로 인해 발생한 EU 정치 변화에 대한 기대에 도전하고 대신 재정 부채 공유에 대한 지원을 형성하는 데 있어 확립된 국내 갈등 구조가 지속된다는 점을 강조합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161854036",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Stretching Scarce Authorizing Legislation as Far as Possible: A Legislative History of the 340B Drug Pricing Program",
-     "authors": [
-      "SAYEH NIKPAY",
-      "M. L. Reinke",
-      "Nicole Quinones"
-     ],
-     "journal": "Milbank Quarterly",
-     "date": "2026-05-20",
-     "abstract": "Policy Points The original purpose of the 340B program was to exempt Public Health Service Act funded clinics and state and local public hospitals from the inflationary best-price component of the recently enacted Medicaid drug rebate program. The secondary purpose was to reduce drug prices for these clinics and hospitals in order to preserve and expand access to free and discounted care. The cutoff for the disproportionate share hospital-based eligibility criteria was selected as part of political compromises to qualify specific nonprofit hospitals. CONTEXT: The 1992 340B Drug Pricing Program (\"340B\") started as a narrowly focused program aimed at Public Health Service Act-funded clinics and public hospitals. Today 340B includes two-thirds of all nonprofit hospitals in the United States and accounts for more than $80 billion in discounted drug purchases. Statutory language authorizing 340B is sparse, and attempts to strengthen or cut the program have been stymied by lack of clarity on Congress's original intentions. The object of this study was to clarify Congress's original intentions for 340B. METHODS: Our qualitative analysis was informed by the collection and analysis of two sources: (1) 175 internal primary source documents and (2) 19 structured interviews conducted with 18 key informants with respect to the creation of 340B. FINDINGS: Congress had two intentions in establishing 340B in 1992. The first was to address an unintended consequence of the Medicaid Drug Rebate Program (MDRP), which raised costs on safety-net clinics that received significant discounts on drugs prior to the rebate program. Such core safety-net clinics operate on fixed budgets heavily dependent on federal grants, which also require them to provide free and discounted care to patients regardless of their ability to pay. The purpose of 340B was to exempt these clinics from the best price provision of the MDRP. The second was to establish minimum discounts for drug prices for core safety-net providers. While public hospitals were added because of their safety-net mission, the disproportionate share hospital eligibility criterion were included to qualify two specific hospitals to secure bipartisan support. CONCLUSIONS: Congress's original intention for 340B was to enable core safety-net providers to continue to provide drugs to patients regardless of costs in the face of historic drug price increases set off by the MDRP. The current scope of the program exceeds Congress's original intent.",
-     "url": "https://doi.org/10.1111/1468-0009.70090",
-     "doi": "10.1111/1468-0009.70090",
-     "pdf": "https://doi.org/10.1111/1468-0009.70090",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "정책 포인트 340B 프로그램의 원래 목적은 최근 제정된 Medicaid 의약품 리베이트 프로그램의 인플레이션 최고 가격 구성 요소에서 공중 보건 서비스법(Public Health Service Act) 자금을 지원받는 진료소와 주 및 지방 공립 병원을 면제하는 것이었습니다. 두 번째 목적은 무료 및 할인된 진료에 대한 접근성을 유지하고 확대하기 위해 이들 진료소 및 병원의 약가를 낮추는 것이었습니다. 불균형한 공유 병원 기반 자격 기준에 대한 컷오프는 특정 비영리 병원에 자격을 부여하기 위한 정치적 타협의 일환으로 선택되었습니다. 배경: 1992년 340B 의약품 가격 책정 프로그램(\"340B\")은 공중 보건 서비스법(Public Health Service Act)의 지원을 받는 진료소 및 공립 병원을 대상으로 하는 좁게 초점을 맞춘 프로그램으로 시작되었습니다. 오늘날 340B에는 미국 전체 비영리 병원의 2/3가 포함되며 약품 할인 구매에 800억 달러 이상을 차지합니다. 340B를 승인하는 법적 언어는 드물고 프로그램을 강화하거나 축소하려는 시도는 의회의 원래 의도에 대한 명확성이 부족하여 방해를 받았습니다. 이 연구의 목적은 340B에 대한 의회의 원래 의도를 명확히 하는 것이었습니다. 방법: 우리의 질적 분석은 (1) 175개의 내부 기본 원본 문서와 (2) 340B 작성과 관련하여 18명의 주요 정보원과 수행된 19개의 구조화된 인터뷰의 두 가지 소스 수집 및 분석을 통해 이루어졌습니다. 조사 결과: 의회는 1992년에 340B를 제정할 때 두 가지 의도를 가지고 있었습니다. 첫 번째는 Medicaid 의약품 리베이트의 의도하지 않은 결과를 해결하는 것이었습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161827682",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Robust governance in response to societal turbulence: The conditioning role of multilevel governance, hybrid governance, and societal intelligence",
-     "authors": [
-      "Jacob Torfing",
-      "Tiina Randma-Liiv",
-      "Eva Sørensen"
-     ],
-     "journal": "Public Policy and Administration",
-     "date": "2026-05-20",
-     "abstract": "This introductory article to the special issue of PP&amp;A on “Robust Governance in Turbulent Times,” defines the concepts of societal turbulence and robust governance and explains their relevance for understanding the current predicament characterized by polycrisis. It also explains the reasons for expecting multilevel governance, hybrid governance and societal intelligence to support and scaffold robust governance, and why liquid professionalism may amplify the impact of these three governance factors. The arguments are brought together in a theoretical framework intended to inspire future crisis management research and has already generated interesting new research contributions. The conclusion points out avenues for future research.",
-     "url": "https://doi.org/10.1177/09520767261453180",
-     "doi": "10.1177/09520767261453180",
-     "pdf": "https://doi.org/10.1177/09520767261453180",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "\"격동적인 시대의 강력한 거버넌스\"에 대한 PP&A 특별호의 이 소개 기사는 사회적 혼란과 강력한 거버넌스의 개념을 정의하고 다중 위기로 특징지어지는 현재 곤경을 이해하는 데 이들의 관련성을 설명합니다. 또한 강력한 거버넌스를 지원하고 발판을 마련하기 위해 다단계 거버넌스, 하이브리드 거버넌스 및 사회 인텔리전스를 기대하는 이유와 유동적 전문성이 이러한 세 가지 거버넌스 요소의 영향을 증폭시킬 수 있는 이유를 설명합니다. 이러한 주장은 미래 위기 관리 연구에 영감을 주기 위한 이론적 틀에 통합되었으며 이미 흥미로운 새로운 연구 기여를 창출했습니다. 결론은 향후 연구의 방향을 제시합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161823571",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "The role of city diplomacy in urban resilience: Evidence from metropolitan municipalities in Türkiye",
-     "authors": [
-      "Suna Ersavaş Kavanoz",
-      "Hülya Sağlam Yıldız",
-      "Nisa Erdem"
-     ],
-     "journal": "International Review of Administrative Sciences",
-     "date": "2026-05-20",
-     "abstract": "This study examines how city diplomacy activities relate to different dimensions of urban resilience. Focusing on metropolitan municipalities in Türkiye, it analyses city diplomacy practices between 2014 and 2023 through content analysis and maps these activities onto different dimensions of urban resilience. The study has adopted an exploratory approach to identify policy and service areas where city diplomacy could potentially contribute to different dimensions of resilience, rather than measuring resilience outcomes. Taking metropolitan municipalities in Türkiye as an instrumental empirical setting, this study contributes to the literature by linking city diplomacy to urban resilience from a public policy perspective and providing concrete examples from metropolitan municipalities in Türkiye.",
-     "url": "https://doi.org/10.1177/00208523261448470",
-     "doi": "10.1177/00208523261448470",
-     "pdf": "https://doi.org/10.1177/00208523261448470",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "본 연구는 도시 외교 활동이 도시 회복력의 다양한 측면과 어떤 관련이 있는지 조사합니다. 투르키예의 대도시 지방자치단체에 초점을 맞춰 내용 분석을 통해 2014년부터 2023년까지의 도시 외교 관행을 분석하고 이러한 활동을 도시 회복력의 다양한 측면에 매핑합니다. 이 연구는 복원력 결과를 측정하기보다는 도시 외교가 복원력의 다양한 측면에 잠재적으로 기여할 수 있는 정책 및 서비스 영역을 식별하기 위한 탐색적 접근 방식을 채택했습니다. 본 연구는 투르키예의 대도시 지방자치단체를 도구적 경험적 환경으로 삼아 공공 정책 관점에서 도시 외교를 도시 탄력성과 연결하고 투르키예의 대도시 지방자치단체의 구체적인 사례를 제공함으로써 문헌에 기여합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161770009",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Misunderstanding and misplaced confidence in a Japanese survey experiment: government financial reporting, content explanation, and participation",
-     "authors": [
-      "Kiyoshi Yamamoto",
-      "Shaun Goldfinch"
-     ],
-     "journal": "International Review of Administrative Sciences",
-     "date": "2026-05-20",
-     "abstract": "An online panel survey experiment tested whether ‘content explanation’ improved the understanding of government financial reporting, and explored its relationship to participation. This is situated within a literature examining transparency, understanding, and engagement. A representative Japanese sample of 1400 was divided into control and treatment groups of 700. Each was provided with fictional financial reports of a local government, either with (treatment) or without (control) attached explanations of reporting concepts used. Testing eight hypotheses, we found explaining the concepts used did not improve the subjective (perceived) or objective (actual) understanding of the reports. Perceived understanding of accounting was not associated with actual understanding of the reports. Both objective and subjective understanding of reports was associated with types of participation. We found those with less actual understanding of government reports claimed a greater understanding and confidence in that understanding, consistent with a Dunning–Kruger effect found in other literature. Points for practitioners We are interested in the relationship between the provision and transparency of government information, understanding of that information, and political and social participation. A number of previous studies suggest that explaining the concepts used in government financial reporting improves understanding in citizens. Our larger representative sample with greater validly finds that this not the case, and that explaining concepts does not improve understanding. Often those who understand government reports less are more confident that they do understand the reports. This is called a Dunning–Kruger effect. The relationship between actual understanding of government reports and social and political participation is complicated, with some types of participation related to actual understanding. Some perceived understanding is also related to participation. Claims that providing and explaining government reporting information leads to greater understanding and participation are not generally supported by our experimental study.",
-     "url": "https://doi.org/10.1177/00208523261449436",
-     "doi": "10.1177/00208523261449436",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "온라인 패널 설문조사 실험을 통해 '내용 설명'이 정부 재무 보고에 대한 이해를 향상시켰는지 여부를 테스트하고 참여와의 관계를 탐색했습니다. 이는 투명성, 이해 및 참여를 검토하는 문헌 내에 위치합니다. 1400명의 대표적인 일본 표본을 700명의 통제 그룹과 처리 그룹으로 나누었습니다. 각 그룹에는 사용된 보고 개념에 대한 설명이 첨부되거나(처리) 또는 포함되지 않은(통제) 지방 정부의 가상 재무 보고서가 제공되었습니다. 8가지 가설을 테스트한 결과, 사용된 개념을 설명하는 것이 보고서에 대한 주관적(인식) 또는 객관적(실제) 이해를 향상시키지 못한다는 사실을 발견했습니다. 회계에 대한 인식된 이해는 보고서에 대한 실제 이해와 관련이 없습니다. 보고서에 대한 객관적인 이해와 주관적인 이해 모두 참여 유형과 관련이 있었습니다. 우리는 정부 보고서에 대한 실질적인 이해가 부족한 사람들이 다른 문헌에서 발견된 더닝-크루거 효과와 일치하여 그러한 이해에 대해 더 큰 이해와 자신감을 주장한다는 것을 발견했습니다. 실무자를 위한 포인트 우리는 정부 정보의 제공과 투명성, 해당 정보에 대한 이해, 정치 및 사회적 참여 간의 관계에 관심이 있습니다. 이전의 여러 연구에서는 정부 재무 보고에 사용되는 개념을 설명하면 시민들의 이해가 향상되는 것으로 나타났습니다. 더 큰 유효 fi를 가진 더 큰 대표 샘플",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161854778",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Bridging Public Engagement and Policy Mechanisms: How Citizen-Generated Data Shapes Environmental Policy Design",
-     "authors": [
-      "Jingjing Cai",
-      "H Wang",
-      "Zhiyan Zheng"
-     ],
-     "journal": "Public Performance & Management Review",
-     "date": "2026-05-20",
-     "abstract": "Citizen-generated data plays a pivotal role in improving environmental policy design, refining policy instrument selection, and enhancing governance precision. However, the specific mechanisms through which such data influences policy processes remain underexplored. This study utilizes the BERT language model to classify public sentiment, incorporating it as a labeled variable within the policy process. Using data from Fuzhou’s 12345 public service platform, the research investigates the role of citizen-generated data in shaping environmental policy, specifically focusing on black-odor water management. The findings show that government responses to public demands are influenced by institutional trust, willingness to participate, and individual normative adherence. For individuals with high institutional trust, governments tend to use nudging strategies for psychological engagement, while those with strong willingness to participate see expedited administrative interventions. Long-term complainants, particularly those motivated by self-interest, are more likely to receive informational responses over direct administrative enforcement. Additionally, the influence of citizen-generated data on policy design is mediated through three key mechanisms: the focal effect, inertia effect, and cost effect. This study underscores the need for a robust link between citizen-generated data and policy design, emphasizing the importance of emotional governance and AI-driven strategies to improve the effectiveness of environmental policymaking.",
-     "url": "https://doi.org/10.1080/15309576.2026.2673203",
-     "doi": "10.1080/15309576.2026.2673203",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "시민이 생성한 데이터는 환경 정책 설계를 개선하고, 정책 도구 선택을 개선하고, 거버넌스의 정확성을 높이는 데 중추적인 역할을 합니다. 그러나 그러한 데이터가 정책 프로세스에 영향을 미치는 구체적인 메커니즘은 여전히 ​​​​연구가 부족합니다. 본 연구에서는 BERT 언어 모델을 활용하여 대중 정서를 분류하고 이를 정책 프로세스 내 레이블 변수로 통합합니다. 이 연구는 푸저우의 12345 공공 서비스 플랫폼의 데이터를 사용하여 환경 정책 수립, 특히 악취 물 관리에 초점을 맞춘 시민 생성 데이터의 역할을 조사합니다. 연구 결과에 따르면 대중의 요구에 대한 정부의 대응은 제도적 신뢰, 참여 의지, 개인의 규범 준수에 의해 영향을 받는 것으로 나타났습니다. 제도적 신뢰가 높은 개인의 경우 정부는 심리적 참여를 위해 넛지 전략을 사용하는 경향이 있는 반면, 참여 의지가 강한 개인은 신속한 행정 개입을 선호합니다. 장기간 불만을 제기하는 신고자, 특히 사리사욕에 의해 동기가 부여된 신고자는 직접적인 행정 집행보다 정보 응답을 받을 가능성이 더 높습니다. 또한 정책 설계에 대한 시민 생성 데이터의 영향은 초점 효과, 관성 효과 및 비용 효과라는 세 가지 주요 메커니즘을 통해 조정됩니다. 이 연구는 시민이 생성한 데이터와 정책 설계 사이의 강력한 연결이 필요하다는 점을 강조하고, 시민이 더 나은 결과를 얻기 위한 정서적 거버넌스와 AI 기반 전략의 중요성을 강조합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161752845",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Fiscal Sisterhood: Investigating Gender Representation and Equitable Budget Outcomes",
-     "authors": [
-      "Youngsung Kim",
-      "Alexis R. Kennedy"
-     ],
-     "journal": "Public Performance & Management Review",
-     "date": "2026-05-20",
-     "abstract": "The allocation of financial resources through a budgeting system can produce various outcomes based on what it prioritizes and who is involved in the process. Hence, many studies have examined diverse impacts of different budgeting systems and approaches. Yet our understanding is still limited regarding how involving or increasing the representation of underserved populations in the budget process contributes to better outcomes for those individuals. To fill this gap, this study examines how increased representation of women policy makers involved in the budget process influences budgeting decisions in support of women’s issues. In other words, how does shared gender identity impact budgeting performance, or decisions that increase expenditures that support women. Using a generalized method of moments (GMM), we find that women governors and an increased percentage of women state senators are associated with increased percentages of library and public mass transit system spending, respectively, where women are primary workers or clients. However, there is no statistically significant relationship between increased representation of women state house members and women-supportive expenditures. Our findings also indicate that the percentage of women senators has an inverted U-shaped relationship with elementary and secondary education spending and library spending.",
-     "url": "https://doi.org/10.1080/15309576.2026.2672406",
-     "doi": "10.1080/15309576.2026.2672406",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "예산 시스템을 통한 재원 배분은 우선순위와 프로세스에 누가 참여하는지에 따라 다양한 결과를 낳을 수 있습니다. 따라서 많은 연구에서 다양한 예산 시스템과 접근 방식의 다양한 영향을 조사했습니다. 그러나 예산 과정에서 소외된 인구의 참여 또는 대표성을 높이는 것이 해당 개인을 위한 더 나은 결과에 어떻게 기여하는지에 대한 우리의 이해는 여전히 제한적입니다. 이러한 격차를 메우기 위해 본 연구에서는 예산 과정에 참여하는 여성 정책 입안자의 대표성이 증가하는 것이 여성 문제를 지원하는 예산 결정에 어떻게 영향을 미치는지 조사합니다. 즉, 공유된 성 정체성이 예산 성과나 여성을 지원하는 지출을 늘리는 결정에 어떤 영향을 미치는가입니다. 일반화된 모멘트 방법(GMM)을 사용하여 우리는 여성 주지사와 여성 주 상원의원 비율 증가가 각각 여성이 주요 직원 또는 고객인 도서관 및 대중 대중 교통 시스템 지출 비율 증가와 관련이 있음을 발견했습니다. 그러나 여성 하원 의원의 대표성 증가와 여성 지원 지출 사이에는 통계적으로 유의미한 관계가 없습니다. 우리의 연구 결과는 또한 여성 상원의원 비율이 초중등 교육 지출 및 도서관 지출과 역U자형 관계를 가지고 있음을 나타냅니다.",
-     "is_new": false
     }
    ]
   },
   {
    "key": "methodology",
    "name": "사회과학방법론",
-   "count": 728,
-   "new_count": 10,
+   "count": 726,
+   "new_count": 17,
    "papers": [
+    {
+     "id": "oa:W4404372073",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Sparse Bayesian Joint Modal Estimation for Exploratory Item Factor Analysis",
+     "authors": [
+      "Keiichiro Hijikata",
+      "Motonori Oka",
+      "Kensuke Okada"
+     ],
+     "journal": "Journal of Educational and Behavioral Statistics",
+     "date": "2026-09-17",
+     "abstract": "This study presents a scalable Bayesian estimation algorithm for sparse estimation in exploratory item factor analysis based on a classical Bayesian estimation method, namely Bayesian joint modal estimation (BJME). BJME jointly estimates the model parameters and factor scores by maximizing the complete-data joint posterior density. The proposed algorithm achieves scalability through an alternating optimization scheme that iteratively updates the model parameters and factor scores. Simulation studies show that the proposed algorithm has high computational efficiency and high accuracy in variable selection over latent factors and parameter recovery. Moreover, we provide a real data analysis using a large-scale dataset from a psychological assessment of the Big Five personality traits. The results indicate that the proposed algorithm extracts an interpretable factor loading structure in a computationally efficient manner.",
+     "url": "https://doi.org/10.3102/10769986261467898",
+     "doi": "10.3102/10769986261467898",
+     "pdf": "https://arxiv.org/pdf/2411.03992",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213442436",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "A methodological discussion on the scale of accounting culture: formative and reflective approaches",
+     "authors": [
+      "Gülşen Çavuş",
+      "Saime Önce"
+     ],
+     "journal": "Quality & Quantity",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s11135-026-02994-6",
+     "doi": "10.1007/s11135-026-02994-6",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213464325",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "On a gamma–beta prime mixture model for heterogeneous positive data: properties and inference",
+     "authors": [
+      "S. B. Ranade",
+      "Aafaq A. Rather",
+      "M. I. Khan",
+      "Alaa A. Elnazer"
+     ],
+     "journal": "Quality & Quantity",
+     "date": "2026-09-17",
+     "abstract": "Abstract In this paper, we introduce mixture distribution of gamma and beta prime. The gamma distribution is highly versatile for modeling continuous, positive-valued data, especially when the data exhibits skewness or variability in scale. The beta prime distribution also known as the beta distribution of the second kind, extends the beta distribution to support modeling data with heavy tails and more complex shapes. Combining these two distributions into a mixture allows the model to adapt multi modal features or heterogeneity that cannot be captured by a single distribution. This model can handle data that comes from different sources or behaves in different ways, making it more accurate and easier to understand. Some important statistical and mathematical properties of the distribution are derived such as the distribution function, moment, skewness, kurtosis, and the order statistics. The maximum likelihood estimation method is adopted to estimate the model parameters and a simulation study is conducted to investigate the efficiency of the various estimators. To evaluate the characteristics and inequality properties of the proposed distribution, we compute the Renyi and Tsallis entropy measures, Lorenz and Bonferroni curves, and the Gini index.",
+     "url": "https://doi.org/10.1007/s11135-026-03084-3",
+     "doi": "10.1007/s11135-026-03084-3",
+     "pdf": "https://doi.org/10.1007/s11135-026-03084-3",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213395602",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "When to Apply the Slope-to-Slope Path Time Centering? A Tutorial Guide for Parallel Process Latent Growth Curve Models",
+     "authors": [
+      "Xiaoyu Yang",
+      "Oi‐Man Kwok",
+      "Timothy R. Elliott",
+      "Eunkyeng Baek"
+     ],
+     "journal": "Structural Equation Modeling A Multidisciplinary Journal",
+     "date": "2026-09-16",
+     "abstract": "In parallel process latent growth curve models, the path linking the rates of change of two developmental processes is often the primary parameter of interest. We show that this slope-to-slope estimate can change substantially with the choice of time centering. We derive the complete transformation for all four cross-process paths and identify two conditions under which the slope-to-slope coefficient is distorted: a nonzero intercept-to-slope path and a nonzero predictor intercept–slope covariance. Using published data on emotional abuse and depressive symptoms, we illustrate a 71% shift in the estimate across centering conditions, with identical model fit. We present two equivalent approaches, aperture-adjusted time centering and a uniqueness factor approach, both yielding a time centering-invariant estimate, and provide annotated Mplus and lavaan syntax.",
+     "url": "https://doi.org/10.1080/10705511.2026.2705340",
+     "doi": "10.1080/10705511.2026.2705340",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213405191",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "copyfair: An R Package for Item and Ability Conditioned Answer-Copying Detection in Multiple-Choice Examinations",
+     "authors": [
+      "Hera Hastuti",
+      "Tri Zahra Ningsih",
+      "Loso Judijanto",
+      "Ahmad Syafi'",
+      "Sarah Samben",
+      "Suci Kurnia Putri"
+     ],
+     "journal": "Applied Psychological Measurement",
+     "date": "2026-09-16",
+     "abstract": "Answer-copying indices for multiple-choice examinations (e.g., the K-index, S2, ω, and the generalized binomial test) typically compare an examinee pair’s error similarity against a single global or ability-marginal baseline—an approach that can conflate genuine collusion with population-wide “attractive distractor” effects, in which unrelated examinees independently select the same wrong option. We introduce copyfair, an R package that extends the ability-conditioned diagnostic logic of condfair to answer-copying detection: it models the expected number of matching incorrect responses jointly as a function of examinee ability and item-specific distractor popularity, tests localized disparity with a wild-bootstrap omnibus procedure, and returns Benjamini-Hochberg-corrected pairwise flags. A simulation study confirms the method recovers an injected, ability-concentrated collusion signal ( p = .0005). Applied to the PIRLS 2011 Indonesia reading assessment ( N = 4,788), an ability-only baseline over-flagged cross-school pairs sharing a common misconception (85.7% of flagged pairs), while the item-and-ability-conditioned model concentrated flags on same-classroom pairs (57.1%, a 114-fold enrichment over the 0.5% baseline rate), consistent with the physical/social proximity expected of genuine collusion.",
+     "url": "https://doi.org/10.1177/01466216261488632",
+     "doi": "10.1177/01466216261488632",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213417660",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "csemTools: R Package for Estimating Conditional Standard Errors of Measurement for Test and Scale Scores",
+     "authors": [
+      "César Merino‐Soto"
+     ],
+     "journal": "Applied Psychological Measurement",
+     "date": "2026-09-16",
+     "abstract": "The R package csemTools provides a comprehensive implementation of classical procedures for estimating the conditional standard error of measurement (CSEM), a metric that has been underutilized in the validation of cognitive and non-cognitive scales based on dichotomous or ordinal responses. To support a robust and integrated workflow, csemTools offers a suite of functions that go beyond simple CSEM estimation. The package includes implementations of well-established methods from Feldt, Keats, Lord, Mollenkopf, and Thorndike. Building on the CSEM, it computes approximate conditional reliability via standardization, smooths CSEM curves to reduce local fluctuations, derives CSEMs for score groups defined by quantiles, and facilitates visual and quantitative comparisons across different CSEM procedures. Additionally, it provides an approximation for scale-score CSEM and a formal comparison of the global standard error of measurement against the entire CSEM curve. These features streamline the work of test developers and researchers, especially when reporting accuracy in non-educational or non-cognitive assessments. Ultimately, csemTools enables applied psychometricians to answer key questions about score precision: What is the CSEM for each score level? How do CSEM curves compare across methods? Is the global SEM representative of local precision? And what is the CSEM on the scale-score metric? By integrating these functionalities, the package fills a notable gap in the R ecosystem and promotes more nuanced and defensible interpretations of test scores.",
+     "url": "https://doi.org/10.1177/01466216261490085",
+     "doi": "10.1177/01466216261490085",
+     "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/01466216261490085?download=true",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7213311670",
      "topic": "methodology",
@@ -24699,10 +24853,10 @@
      ],
      "journal": "International Journal of Social Research Methodology",
      "date": "2026-09-16",
-     "abstract": "",
+     "abstract": "This paper discusses the impact of colonial legacies in field research and the implications for decolonizing research. The authors analyze how research processes and practices (re) produce particular conceptions of communities as ‘fields’, rendering them simultaneously familiar and alienating to indigenous/insider researchers. Drawing on the authors’ experiences as insider researchers working within their own communities, it illustrates how conventional fieldwork overlooks nuanced relational power dynamics and continues to reproduce colonial misrepresentations and extractive logics that position communities as objects of study rather than co-producers of knowledge. Using fieldwork vignettes as a reflexive mechanism, the authors suggest ways researchers may disentangle themselves from orthodox frames of knowledge production to contribute to epistemic accountability for the communities they research. The authors advocate for research practices that foreground honest disclosure, collaborative knowledge production, respect for local ontologies, and ultimately, the generation of locally relatable knowledges that preserve the integrity of Indigenous social structures.",
      "url": "https://doi.org/10.1080/13645579.2026.2716883",
      "doi": "10.1080/13645579.2026.2716883",
-     "pdf": "https://doi.org/10.1080/13645579.2026.2716883",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13645579.2026.2716883?needAccess=true",
      "first_seen": "2026-09-17T09:44:46+09:00",
      "is_new": true
     },
@@ -24740,7 +24894,7 @@
      "abstract": "Testing parameter constraints in CFA under non-normality is routinely done with robust chi-square difference tests, yet the finite-sample behavior of the available procedures remains unsettled. Pavlov et al. (Citation2020) identified the Mplus mean- and variance-adjusted test DMLMV as the most accurate established procedure in a two-model longitudinal CFA design. Here, we extend their study in three ways: we add penalized eigenvalue (PE) methods; we vary three estimation choices that Pavlov et al. held fixed—Satorra’s (2000) direct estimator of UD, the unbiased estimator of Γ, and the reweighted least-squares (RLS) base statistic; and we broaden the distributional conditions. While the performance of DMLMV was acceptable in the smaller model (p=10), it was too liberal in the larger model (p=30). Our results suggest that PE and the scaled-and-shifted (SS) test, combined with the 2000 method, deserve priority in longitudinal invariance testing. In our simulations, size-adjusted power was very similar across all procedures. In terms of Type I error control, we recommend RLS-based PE with the unbiased Γ estimator, and the RLS-based SS test, as the preferred procedures.",
      "url": "https://doi.org/10.1080/10705511.2026.2714956",
      "doi": "10.1080/10705511.2026.2714956",
-     "pdf": "https://doi.org/10.1080/10705511.2026.2714956",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2714956?needAccess=true",
      "first_seen": "2026-09-17T09:44:46+09:00",
      "is_new": true
     },
@@ -33667,6 +33821,24 @@
      "is_new": false
     },
     {
+     "id": "oa:W7213464967",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "This Is the Reason for External Replication: Response to Aungle et al.",
+     "authors": [
+      "Nicholas J. L. Brown",
+      "Andrew Gelman"
+     ],
+     "journal": "Advances in Methods and Practices in Psychological Science",
+     "date": "2026-07-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1177/25152459261462843",
+     "doi": "10.1177/25152459261462843",
+     "pdf": "https://doi.org/10.1177/25152459261462843",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7212193567",
      "topic": "methodology",
      "origin": "OpenAlex",
@@ -38895,193 +39067,53 @@
      "pdf": "",
      "first_seen": "2026-08-09T01:35:52+09:00",
      "is_new": false
-    },
-    {
-     "id": "oa:W7161805342",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Automatic Item Generation Measurement Models Respecting the Stochastic Sampling Space for Cross-Classified and Two-Level Sampling of Subjects and Incidentals",
-     "authors": [
-      "Philipp Jahn",
-      "David Jendryczko",
-      "Fridtjof W. Nussbeck"
-     ],
-     "journal": "Applied Psychological Measurement",
-     "date": "2026-05-20",
-     "abstract": "refer to attributes that are presumed to affect these parameters. Within the empirical validation process of the item generator, subjects and incidentals may either be sampled independently so that every subject sees every incidental (cross-classified sampling) for a radical, or incidentals may be sampled within each subject so that every subject only sees a specific set of incidentals (two-level sampling) for a radical. We present an approach for scrutinizing the effect of item incidentals relying on two classical test theory models that adhere to the stochastic sampling space of cross-classified and two-level sampling, respectively. We show how these may be used in combination to enable a more optimized investigation of incidental-induced variance within the item generator. We illustrate the approach with the figural short-term memory item-generator \"figumem.\" Results show that incidentals have little effect on item difficulty in the cross-classified model/sample and that the model parameters generalize to a larger set of incidentals in the two-level model/sample. Implications, limitations, and future research are discussed.",
-     "url": "https://doi.org/10.1177/01466216261453386",
-     "doi": "10.1177/01466216261453386",
-     "pdf": "https://doi.org/10.1177/01466216261453386",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "이러한 매개변수에 영향을 미치는 것으로 추정되는 속성을 참조하세요. 항목 생성기의 실증적 검증 프로세스 내에서 모든 피험자가 근수에 대한 모든 부수적 요소(교차 분류 샘플링)를 볼 수 있도록 피험자와 부수적 요소를 독립적으로 샘플링할 수 있거나 모든 피험자가 부수적 요소에 대한 특정 부수적 요소 집합(2단계 샘플링)만 볼 수 있도록 각 주제 내에서 부수적 요소를 샘플링할 수 있습니다. 우리는 각각 교차 분류 및 2단계 샘플링의 확률론적 샘플링 공간을 준수하는 두 가지 고전적인 테스트 이론 모델에 의존하는 항목 부수적 효과를 면밀히 조사하기 위한 접근 방식을 제시합니다. 우리는 항목 생성기 내에서 부수적으로 유발된 분산을 보다 최적화된 조사를 가능하게 하기 위해 이들을 조합하여 사용할 수 있는 방법을 보여줍니다. 우리는 형상적 단기 기억 항목 생성기 \"figumem\"을 사용하여 접근 방식을 설명합니다. 결과는 부수 항목이 교차 분류된 모델/샘플의 항목 난이도에 거의 영향을 미치지 않으며 모델 매개변수가 2단계 모델/샘플에서 더 큰 부수 항목 집합으로 일반화됨을 보여줍니다. 시사점, 한계 및 향후 연구에 대해 논의합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4394688670",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Multistage Testing for Cognitive Diagnosis Based on Skill-Space Partitioning",
-     "authors": [
-      "Rae Yeong Kim",
-      "Yun Joo Yoo"
-     ],
-     "journal": "Applied Psychological Measurement",
-     "date": "2026-05-20",
-     "abstract": "The growing demand for personalized online learning underscores the necessity for diagnostic assessments that are tailored to the cognitive abilities of individual examinees. The combination of cognitive diagnostic models (CDMs) with computerized multistage testing (MST) holds potential for meeting these educational needs. However, research on the integration of MST with cognitive diagnosis (CD-MST) has been limited, largely due to the challenges in establishing criteria for constructing test modules and defining routing rules prior to administering the test. This study aims to introduce an innovative design approach for CD-MST that employs a strategy of partitioning the skill-space, which encompasses all possible attribute mastery profiles, to address the challenges. By partitioning the skill-space into groups of attribute profiles, distinct modules tailored to each partitioned group can be constructed, ensuring that each examinee is adaptively routed to the most suitable module at each testing stage. Item information functions for CD-MST are also proposed by defining the information conditionally on an attribute profile, in order to quantify an item's discrimination power for each profile. Furthermore, a strategic approach for automated module assembly in CD-MST is developed to construct modules that maximize information for each attribute profile group while satisfying all practical constraints. Simulation results indicate that the proposed CD-MST improves estimation accuracy compared to traditional linear test and can effectively utilize a wider range of item types from the item bank.",
-     "url": "https://doi.org/10.1177/01466216261452678",
-     "doi": "10.1177/01466216261452678",
-     "pdf": "https://advance.sagepub.com/doi/pdf/10.31124/advance.171272698.83636340",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "맞춤형 온라인 학습에 대한 수요가 증가함에 따라 개별 수험자의 인지 능력에 맞춘 진단 평가의 필요성이 강조되고 있습니다. 인지 진단 모델(CDM)과 컴퓨터화된 다단계 테스트(MST)의 결합은 이러한 교육적 요구를 충족할 수 있는 잠재력을 가지고 있습니다. 그러나 MST와 인지 진단(CD-MST)의 통합에 대한 연구는 주로 테스트 모듈을 구성하기 위한 기준을 설정하고 테스트를 관리하기 전에 라우팅 규칙을 정의하는 문제로 인해 제한적이었습니다. 본 연구는 문제를 해결하기 위해 가능한 모든 속성 숙달 프로필을 포함하는 기술 공간 분할 전략을 사용하는 CD-MST에 대한 혁신적인 설계 접근 방식을 소개하는 것을 목표로 합니다. 기술 공간을 속성 프로필 그룹으로 분할함으로써 분할된 각 그룹에 맞는 고유한 모듈을 구성할 수 있으며, 이를 통해 각 수험자는 각 테스트 단계에서 가장 적합한 모듈에 적응적으로 라우팅됩니다. CD-MST에 대한 품목 정보 기능도 각 프로파일에 대한 품목 식별력을 정량화하기 위해 속성 프로파일에 조건부로 정보를 정의하여 제안됩니다. 또한 CD-MST의 자동화된 모듈 조립을 위한 전략적 접근 방식은 모든 실제 제약 조건을 충족하면서 각 속성 프로필 그룹에 대한 정보를 최대화하는 모듈을 구성하기 위해 개발되었습니다. 시뮬레이션 결과는 제안된 CD-MST가 추정 정확도를 향상시키는 것을 나타냅니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161753760",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Approximating multidimensionality with asymmetric unidimensional IRT models",
-     "authors": [
-      "Xiangyi Liao",
-      "Yinqiu He",
-      "Daniel Bolt",
-      "James Soland",
-      "Carlin Conner",
-      "Emily J. Solari"
-     ],
-     "journal": "British Journal of Mathematical and Statistical Psychology",
-     "date": "2026-05-20",
-     "abstract": "Unidimensional item response theory (IRT) models are widely used even in settings where assessment data exhibit subtle forms of multidimensionality. Recent empirical evidence suggests that when item difficulty is associated with dimensionality, asymmetric item characteristic curves (ICCs) emerge in the unidimensional approximation. Through theoretical derivation and extensive simulation, this paper develops a framework for understanding the emergence and the degree of ICC asymmetry in UIRT models when applied to multidimensional data with difficulty-dimensionality associations. An empirical analysis of the Virginia Language & Literacy Screener (VALLSS) confirms the predicted patterns. These results highlight ICC asymmetry as an anticipated consequence of unidimensional approximation and underscore its relevance for applications such as vertical scaling and test linking.",
-     "url": "https://doi.org/10.1111/bmsp.70052",
-     "doi": "10.1111/bmsp.70052",
-     "pdf": "https://doi.org/10.1111/bmsp.70052",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "일차원 항목 반응 이론(IRT) 모델은 평가 데이터가 미묘한 형태의 다차원성을 나타내는 설정에서도 널리 사용됩니다. 최근 경험적 증거에 따르면 항목 난이도가 차원성과 연관될 때 비대칭 항목 특성 곡선(ICC)이 일차원 근사치로 나타납니다. 이론적 도출과 광범위한 시뮬레이션을 통해 이 논문은 난이도-차원 연관이 있는 다차원 데이터에 적용될 때 UIRT 모델에서 ICC 비대칭의 출현과 정도를 이해하기 위한 프레임워크를 개발합니다. VALLSS(Virginia Language & Literacy Screener)의 실증적 분석을 통해 예측 패턴이 확인되었습니다. 이러한 결과는 일차원 근사의 예상되는 결과로서 ICC 비대칭성을 강조하고 수직 스케일링 및 테스트 연결과 같은 애플리케이션에 대한 관련성을 강조합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161796985",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Does EU integration matter more than WTO membership? Gravity evidence from the Western Balkans",
-     "authors": [
-      "Waed Abdeljalil",
-      "Osman Gülseven"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-05-20",
-     "abstract": "This study examines the relative roles of European Union (EU) and World Trade Organization (WTO) integration in shaping bilateral trade among Western Balkan economies and Türkiye using a structural gravity framework. Employing fixed-effects OLS, normalized trade-intensity specifications, and multiplicative estimators (PPML and GPML), the analysis shows that institutional effects are sensitive to model specification. Joint WTO membership is strongly positive in volume-based fixed-effects models but weakens or becomes insignificant once trade is normalized by economic size or when GDP is explicitly controlled for in PPML estimations. In contrast, joint EU membership remains positive and statistically significant across all specifications, including normalized and size-controlled models. These results indicate that deeper regional integration under the EU framework is more consistently associated with trade integration than multilateral WTO membership, suggesting that institutional depth and enforceability play a central role in reducing trade costs.",
-     "url": "https://doi.org/10.1007/s11135-026-02851-6",
-     "doi": "10.1007/s11135-026-02851-6",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-02851-6.pdf",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "이 연구는 구조적 중력 프레임워크를 사용하여 서부 발칸 반도 경제와 투르키예 간의 양자 무역을 형성하는 데 있어서 유럽 연합(EU)과 세계 무역 기구(WTO) 통합의 상대적인 역할을 조사합니다. 고정 효과 OLS, 정규화된 거래 강도 사양 및 승법 추정기(PPML ​​및 GPML)를 사용하는 분석에서는 제도적 효과가 모델 사양에 민감하다는 것을 보여줍니다. 공동 WTO 가입은 거래량 기반 고정 효과 모델에서는 매우 긍정적이지만 무역이 경제 규모에 따라 정상화되거나 PPML 추정에서 GDP가 명시적으로 통제되면 약화되거나 중요하지 않게 됩니다. 대조적으로, 공동 EU 멤버십은 정규화 및 크기 제어 모델을 포함한 모든 사양에서 긍정적이고 통계적으로 유의미합니다. 이러한 결과는 EU 체제 하의 더 깊은 지역 통합이 다자간 WTO 가입보다 무역 통합과 더 일관되게 연관되어 있음을 나타내며, 이는 제도적 깊이와 집행 가능성이 무역 비용 절감에 핵심적인 역할을 한다는 것을 시사합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161852437",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Assessing Partial Measurement Invariance in Cross-Group, Longitudinal, Congruence, and Multilevel Organizational Studies: Introducing the MEI Package in R",
-     "authors": [
-      "Gordon W. Cheung",
-      "Changya Hu",
-      "Elena Zubielevitch"
-     ],
-     "journal": "Organizational Research Methods",
-     "date": "2026-05-20",
-     "abstract": "Measurement equivalence/invariance (ME/I) is a prerequisite for cross-group comparisons when using survey data. Although popular structural equation modeling software programs, including Mplus and lavaan, enable tests of ME/I using simple commands, identifying noninvariant items when full ME/I is rejected is more challenging. This paper reviews current procedures for identifying noninvariant items, particularly when there are more than two groups. We recommend systematically rotating the reference items and conducting pairwise comparisons on the factor loadings estimated in the configural invariance model and the intercepts estimated in the metric invariance model. The results are then summarized with the list-and-delete method to identify sets of invariant items and clusters of invariant groups. A custom R package, MEI, is developed to implement our recommended procedures. With simple commands, MEI automatically conducts ME/I tests, identifies noninvariant items, and compares latent means with partial measurement invariance. This allows researchers to interpret cross-group comparison results more precisely. Finally, our procedures for testing ME/I from cross-group comparisons and the MEI package are extended to longitudinal studies with panel data, congruence studies with dyadic data, and multilevel studies with nested data.",
-     "url": "https://doi.org/10.1177/10944281261449198",
-     "doi": "10.1177/10944281261449198",
-     "pdf": "https://doi.org/10.1177/10944281261449198",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "측정 등가성/불변성(ME/I)은 설문조사 데이터를 사용할 때 그룹 간 비교를 위한 전제 조건입니다. Mplus 및 lavaan을 포함한 널리 사용되는 구조 방정식 모델링 소프트웨어 프로그램은 간단한 명령을 사용하여 ME/I 테스트를 가능하게 하지만 전체 ME/I가 거부될 때 비불변 항목을 식별하는 것이 더 어렵습니다. 이 문서에서는 특히 두 개 이상의 그룹이 있는 경우 비불변 항목을 식별하기 위한 현재 절차를 검토합니다. 참조 항목을 체계적으로 회전하고 구성 불변 모델에서 추정된 요인 로딩과 메트릭 불변 모델에서 추정된 절편에 대해 쌍별 비교를 수행하는 것이 좋습니다. 그런 다음 결과는 불변 항목 집합과 불변 그룹 클러스터를 식별하기 위해 목록 및 삭제 방법으로 요약됩니다. 권장 절차를 구현하기 위해 사용자 지정 R 패키지인 MEI가 개발되었습니다. MEI는 간단한 명령을 사용하여 ME/I 테스트를 자동으로 수행하고, 불변하지 않는 항목을 식별하고, 잠재 평균을 부분 측정 불변성과 비교합니다. 이를 통해 연구자들은 그룹 간 비교 결과를 보다 정확하게 해석할 수 있습니다. 마지막으로, 그룹 간 비교 및 ​​MEI 패키지에서 ME/I를 테스트하는 절차는 패널 데이터를 사용한 종단 연구, 이중 데이터를 사용한 일치 연구, 중첩 데이터를 사용한 다단계 연구로 확장됩니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161796564",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Trade uncertainty impact on stock–bond correlations: insights from conditional correlation models",
-     "authors": [
-      "Demetrio Lacava",
-      "Edoardo Otranto"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-05-20",
-     "abstract": "Abstract This paper investigates the impact of Trade Policy Uncertainty (TPU) on stock–bond correlation dynamics in the United States. Using daily data on major U.S. stock indices and the 10-year Treasury bond from 2015 to 2025, we estimate correlation within a two-step GARCH-based framework, relying on multivariate specifications, including Constant Conditional Correlation (CCC), Smooth Transition Conditional Correlation (STCC), and Dynamic Conditional Correlation (DCC) models to test the hypothesis that political agency significantly alters market structures. We extend these frameworks by incorporating the TPU index and a presidential dummy as exogenous social and political indicators to capture the effects of trade uncertainty and government cycles. The findings show that constant correlation models are strongly rejected in favor of time-varying specifications capable of reflecting the fluid nature of investor expectations. Both STCC and DCC models confirm TPU’s central role in driving correlation dynamics, with significant differences across political regimes. DCC models augmented with TPU and political effects deliver the best in-sample fit and strongest forecasting performance, demonstrating the necessity of integrating political variables into econometric modeling to achieve a more robust understanding of market interdependencies.",
-     "url": "https://doi.org/10.1007/s11135-026-02839-2",
-     "doi": "10.1007/s11135-026-02839-2",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-02839-2.pdf",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "Abstract 본 논문은 미국의 주식-채권 상관 관계 역학에 대한 무역 정책 불확실성(TPU)의 영향을 조사합니다. 2015년부터 2025년까지 미국 주요 주가 지수와 10년 만기 재무부 채권에 대한 일일 데이터를 사용하여 우리는 CCC(Constant Conditional Correlation), STCC(Smooth Transition Conditional Correlation) 및 DCC(Dynamic Conditional Correlation) 모델을 포함한 다변량 사양을 사용하여 2단계 GARCH 기반 프레임워크 내에서 상관관계를 추정하여 정치 기관이 시장 구조를 크게 변화시킨다는 가설을 테스트합니다. 우리는 TPU 지수와 대통령 더미를 외부 사회 및 정치적 지표로 통합하여 무역 불확실성과 정부 주기의 영향을 포착함으로써 이러한 프레임워크를 확장합니다. 연구 결과에 따르면 투자자 기대의 유동적 특성을 반영할 수 있는 시변 사양을 선호하는 상수 상관 모델은 강력히 거부됩니다. STCC와 DCC 모델 모두 상관 관계 역학을 추진하는 데 있어 TPU의 중심 역할을 확인하며 정치 체제에 따라 상당한 차이가 있습니다. TPU 및 정치적 효과로 강화된 DCC 모델은 최고의 표본 내 적합성과 가장 강력한 예측 성능을 제공하며, 시장 상호의존성에 대한 보다 확실한 이해를 달성하기 위해 정치적 변수를 계량경제학 모델링에 통합해야 한다는 점을 보여줍니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161795444",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Explainable artificial intelligence in finance: a bibliometric and topic modeling analysis using BERTopic",
-     "authors": [
-      "Abderahman Rejeb",
-      "Karim Rejeb",
-      "Horst Treiblmaier"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-05-20",
-     "abstract": "Abstract This study investigates the evolving intersection of explainable artificial intelligence (XAI) and the financial sector. It explores how machine learning models’ transparency and interpretability shape decision-making processes in areas such as credit scoring, risk assessment, and market prediction. While conventional AI methods often function as opaque black boxes, XAI offers a solution to promote model accountability, fairness, and trust, which are critical factors in highly regulated and risk-sensitive financial environments. Drawing on 90 peer-reviewed articles retrieved from Scopus and Web of Science, this research applies both co-word analysis and BERTopic modeling to uncover major research themes and semantic structures within the relevant literature. The co-word network reveals distinct thematic clusters related to explainable credit risk models, interpretability in financial forecasting, and the integration of environmental, social, and governance (ESG) factors into AI-driven financial analysis. Meanwhile, topic modeling uncovers additional topics, including SHapley Additive exPlanations (SHAP) and Local Interpretable Model-agnostic Explanations (LIME)-based explainability techniques, human-AI collaboration in decision-making, and explainable deep learning for asset pricing and sovereign risk analysis. A temporal analysis of publication trends indicates increasing scholarly attention to transparency in AI in the wake of regulatory pressure and ethical considerations in finance. The findings point to a growing emphasis on embedding interpretability into AI models to support fairness, regulatory compliance, and better-informed financial judgments. This study contributes to both academic discourse and practical application by offering a detailed map of current XAI research in finance and identifying key directions for future inquiry and technological development.",
-     "url": "https://doi.org/10.1007/s11135-026-02837-4",
-     "doi": "10.1007/s11135-026-02837-4",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-02837-4.pdf",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "Abstract 이 연구는 설명 가능한 인공 지능(XAI)과 금융 부문의 진화하는 교차점을 조사합니다. 기계 학습 모델의 투명성과 해석 가능성이 신용 평가, 위험 평가, 시장 예측과 같은 영역에서 의사 결정 프로세스를 어떻게 형성하는지 살펴봅니다. 기존 AI 방법은 종종 불투명한 블랙박스로 작동하는 반면, XAI는 규제가 엄격하고 위험에 민감한 금융 환경에서 중요한 요소인 모델 책임성, 공정성 및 신뢰를 촉진하는 솔루션을 제공합니다. Scopus와 Web of Science에서 검색한 90개의 동료 검토 기사를 바탕으로 이 연구는 공동 단어 분석과 BERTopic 모델링을 모두 적용하여 관련 문헌 내의 주요 연구 주제와 의미 구조를 밝혀냅니다. 공동 단어 네트워크는 설명 가능한 신용 위험 모델, 재무 예측의 해석 가능성, 환경, 사회 및 거버넌스(ESG) 요소를 AI 기반 재무 분석에 통합하는 것과 관련된 뚜렷한 주제 클러스터를 보여줍니다. 한편 주제 모델링은 SHApley Additive exPlanations(SHAP) 및 LIME(Local Interpretable Model-Agnostic Descriptions) 기반 설명 기술, 의사 결정 시 인간-AI ​​협업, 자산 가격 책정 및 국가 위험 분석을 위한 설명 가능한 딥 러닝 등 추가 주제를 밝혀냅니다. 출판 동향에 대한 시간적 분석은 규제 압력과 윤리적 고려로 인해 AI의 투명성에 대한 학문적 관심이 증가하고 있음을 나타냅니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161883471",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Firm capabilities, trade frictions, and export performance: evidence from Tunisia’s enterprise survey",
-     "authors": [
-      "Mohieddine Rahmouni"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-05-20",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11135-026-02846-3",
-     "doi": "10.1007/s11135-026-02846-3",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161839750",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Investigating the effect of teacher practices on student achievement: insights from INVALSI data",
-     "authors": [
-      "Iacopo Moreschini",
-      "Nunzia Brancaccio",
-      "María Prosperina Vitale",
-      "Isabella Sulis"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-05-20",
-     "abstract": "Abstract The present contribution aims at evaluating the effect of teaching practices on high school students’ performance focusing on INVALSI mathematics and reading tests at grade 13. The student-level data refers to the 2021-2022 cohort and are used jointly with classroom-level data gathered by teachers’ questionnaires. This allows us to consider the effect of instructional practices and teachers’ qualification and experience over students’ sociodemographic characteristics. Multilevel logistic models are adopted to assess factors influencing the probability of over- and under-achieving. These latter are defined accordingly to the INVALSI proficiency classification, considering test scores grouped in five classes. Main findings suggest that educational practices under investigation have not an effect on over-achieving, whereas some are associated with under-achieving. Furthermore, teachers’ qualification and experience appear as key determinants for enhancing students’ performance and preventing failures.",
-     "url": "https://doi.org/10.1007/s11135-026-02822-x",
-     "doi": "10.1007/s11135-026-02822-x",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-02822-x.pdf",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "Abstract 본 기고문은 INVALSI 수학 및 13학년 읽기 시험을 중심으로 고등학생의 성과에 대한 교수법의 효과를 평가하는 것을 목표로 합니다. 학생 수준 데이터는 2021-2022 코호트를 참조하며 교사 설문지로 수집된 교실 수준 데이터와 공동으로 사용됩니다. 이를 통해 우리는 교육 관행과 교사의 자격 및 경험이 학생들의 사회인구학적 특성에 미치는 영향을 고려할 수 있습니다. 초과 달성 및 미달 달성 가능성에 영향을 미치는 요인을 평가하기 위해 다단계 물류 모델이 채택되었습니다. 후자는 5개 클래스로 그룹화된 시험 점수를 고려하여 INVALSI 숙련도 분류에 따라 정의됩니다. 주요 결과는 조사 중인 교육 관행이 과잉 성취에 영향을 미치지 않는 반면 일부는 과소 성취와 관련이 있음을 시사합니다. 또한 교사의 자격과 경험은 학생들의 성과를 향상시키고 실패를 예방하는 데 중요한 결정 요인으로 나타납니다.",
-     "is_new": false
     }
    ]
   },
   {
    "key": "econ-stats",
    "name": "계량경제·통계",
-   "count": 690,
-   "new_count": 10,
+   "count": 688,
+   "new_count": 13,
    "papers": [
+    {
+     "id": "oa:W4399453714",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Gradient boosting for hierarchical data in small area estimation",
+     "authors": [
+      "Paul Messer",
+      "Timo Schmid"
+     ],
+     "journal": "Statistics and Computing",
+     "date": "2026-09-17",
+     "abstract": "Abstract Small Area Estimation (SAE) combines survey data with auxiliary sources such as administrative records, census data, or alternative datasets that typically offer broader coverage. By integrating these sources, SAE enhances the accuracy of (direct) survey estimates. To account for the hierarchical structure of survey data, model-based SAE methods often rely on Linear Mixed Models (LMMs). However, the distributional (e.g., normality) and structural (e.g., linearity) assumptions of LMMs may not always hold in practice, and the accuracy of model-based SAE depends on the validity of these assumptions. To address these limitations, we propose a Mixed Effect Gradient Boosting (MEGB) approach, which combines the flexibility of gradient boosting machines with the ability of mixed models to account for hierarchical data structures. MEGB extends standard gradient boosting by incorporating random effects, allowing it to capture unobserved heterogeneity across domains while retaining a nonparametric framework that models nonlinearities and interactions in the data. MEGB supports the derivation of area-level means from unit-level data and uses a nonparametric bootstrap to estimate the Mean Squared Error (MSE). Its performance is assessed through a model-based simulation study, comparing MEGB to established estimators, and further demonstrated using real-world data. The results suggest that MEGB offers promising area mean estimates and may outperform existing SAE methods in various scenarios.",
+     "url": "https://doi.org/10.1007/s11222-026-10970-1",
+     "doi": "10.1007/s11222-026-10970-1",
+     "pdf": "https://doi.org/10.1007/s11222-026-10970-1",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213454827",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Testing Alphas in Linear Factor Models: A Portfolio Approach",
+     "authors": [
+      "Jun Zhang",
+      "Dan Pu",
+      "Wei Lan",
+      "Guanhao Feng"
+     ],
+     "journal": "Journal of Business and Economic Statistics",
+     "date": "2026-09-17",
+     "abstract": "This paper develops a test for evaluating linear factor models in high-dimensional settings. The proposed Maximum Random Sparse Portfolio (MRSP) test generates L random sparse portfolios, each obtained through K random draws, and then selects the hardest-to-price portfolio to assess factor model performance. By evaluating multiple randomly generated sparse portfolios, the MRSP test retains a portfolio-based economic interpretation while avoiding reliance on a single hardest-to-price asset. Under the null hypothesis and the stated regularity conditions, the centered MRSP statistic converges to a type I extreme value distribution. Monte Carlo simulations show stable finite-sample performance. In the empirical application, model fit generally improves in recent years, although the evidence varies across factor models and test assets. The 3-factor model of Daniel, Hirshleifer, and Sun (2020, Review of Financial Studies) performs best among the models considered.",
+     "url": "https://doi.org/10.1080/07350015.2026.2734092",
+     "doi": "10.1080/07350015.2026.2734092",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7213289154",
      "topic": "econ-stats",
@@ -39872,6 +39904,23 @@
      "pdf": "https://doi.org/10.1016/j.jeconom.2026.106321",
      "first_seen": "2026-09-07T09:08:26+09:00",
      "is_new": false
+    },
+    {
+     "id": "oa:W7213404110",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Mathematical Engineering of Deep Learning",
+     "authors": [
+      "Amit K. Chowdhry"
+     ],
+     "journal": "Journal of the Royal Statistical Society Series A (Statistics in Society)",
+     "date": "2026-09-04",
+     "abstract": "",
+     "url": "https://doi.org/10.1093/jrsssa/qnag103",
+     "doi": "10.1093/jrsssa/qnag103",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W7212223820",
@@ -52638,111 +52687,328 @@
      "pdf": "https://arxiv.org/pdf/2405.18089",
      "first_seen": "2026-08-10T09:49:36+09:00",
      "is_new": false
-    },
-    {
-     "id": "oa:W7163411851",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "KL-BSS: rethinking optimality for neighbourhood selection in structural equation models",
-     "authors": [
-      "Ming Gao",
-      "Wai Ming Tai",
-      "Bryon Aragam"
-     ],
-     "journal": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
-     "date": "2026-05-20",
-     "abstract": "Abstract We introduce a new method for neighbourhood selection in linear structural equation models that improves over classical methods such as best subset selection (BSS) and the Lasso. Our method, called KL-BSS, takes advantage of the existence of underlying structure in SEM—even when this structure is unknown—and is easily implemented using existing solvers. Under weaker eigenvalue conditions compared to BSS and the Lasso, KL-BSS can provably recover the support of linear models with fewer samples. We establish both the pointwise and minimax sample complexity for support recovery, which KL-BSS obtains. Extensive experiments on both real and simulated data confirm the improvements offered by KL-BSS. While it is well-known that the Lasso encounters difficulties under structured dependencies, it is less well-known that even BSS runs into trouble as well, and can be substantially improved. These results have implications for structure learning in graphical models, which often relies on neighbourhood selection as a subroutine.",
-     "url": "https://doi.org/10.1093/jrsssb/qkag078",
-     "doi": "10.1093/jrsssb/qkag078",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 우리는 BSS(Best Subset Selection) 및 Lasso와 같은 고전적인 방법보다 개선된 선형 구조 방정식 모델에서 이웃 선택을 위한 새로운 방법을 소개합니다. KL-BSS라고 불리는 우리의 방법은 SEM의 기본 구조의 존재를 활용하며(이 구조가 알려지지 않은 경우에도) 기존 솔버를 사용하여 쉽게 구현됩니다. BSS 및 Lasso에 비해 약한 고유값 조건에서 KL-BSS는 더 적은 수의 샘플로 선형 모델의 지원을 복구할 수 있음이 입증되었습니다. 우리는 KL-BSS가 획득한 지지 복구를 위한 포인트별 및 최소 최대 샘플 복잡성을 모두 설정합니다. 실제 데이터와 시뮬레이션 데이터에 대한 광범위한 실험을 통해 KL-BSS가 제공하는 개선 사항이 확인되었습니다. Lasso가 구조적 종속성 하에서 어려움을 겪는다는 것은 잘 알려져 있지만, BSS에서도 문제가 발생하고 크게 개선될 수 있다는 사실은 덜 알려져 있습니다. 이러한 결과는 종종 서브루틴으로 이웃 선택에 의존하는 그래픽 모델의 구조 학습에 영향을 미칩니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4416766481",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Differentially Private Computation of the Gini Index for Income Inequality",
-     "authors": [
-      "Wenjie Lan",
-      "Jerome P. Reiter"
-     ],
-     "journal": "Journal of Business and Economic Statistics",
-     "date": "2026-05-20",
-     "abstract": "The Gini index is a widely reported measure of income inequality. Because the underlying microdata are often confidential, releasing the Gini index may leak information. We present an approach for bounding this information leakage by releasing a differentially private version of the Gini index. In doing so, we analyze how adding, deleting, or altering a single observation in any specific dataset can affect the computation of the Gini index; this is known as the local sensitivity. We then derive a smooth upper bound on the local sensitivity. Using this bound, we define a mechanism that adds noise to the Gini index, thereby satisfying differential privacy. Using simulated and genuine income data, we show that the mechanism can reduce the errors from noise injection substantially relative to differentially private algorithms that rely on the global sensitivity, that is, the maximum of the local sensitivities over all possible datasets. We characterize settings where using smooth sensitivity can provide highly accurate estimates, as well as settings where the noise variance is simply too large to provide reliably useful results. We also present a post-processing step that provides interval estimates about the value of the Gini index computed with the confidential data.",
-     "url": "https://doi.org/10.1080/07350015.2026.2676673",
-     "doi": "10.1080/07350015.2026.2676673",
-     "pdf": "https://arxiv.org/pdf/2511.19771",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "지니 지수는 소득 불평등을 측정하는 데 널리 사용되는 지표입니다. 기본 마이크로데이터는 기밀인 경우가 많기 때문에 지니 지수를 공개하면 정보가 유출될 수 있습니다. 우리는 Gini 지수의 차등 비공개 버전을 출시하여 이러한 정보 유출을 제한하는 접근 방식을 제시합니다. 이를 통해 특정 데이터세트에서 단일 관측값을 추가, 삭제 또는 변경하는 것이 지니 지수 계산에 어떤 영향을 미칠 수 있는지 분석합니다. 이것을 국소적 민감성(Local Sensitivity)이라고 합니다. 그런 다음 로컬 민감도의 부드러운 상한을 도출합니다. 이 경계를 사용하여 지니 지수에 노이즈를 추가하여 차등 프라이버시를 만족시키는 메커니즘을 정의합니다. 시뮬레이션된 실제 소득 데이터를 사용하여 메커니즘이 전역 민감도, 즉 가능한 모든 데이터 세트에 대한 최대 로컬 민감도에 의존하는 차등 비공개 알고리즘에 비해 노이즈 주입으로 인한 오류를 실질적으로 줄일 수 있음을 보여줍니다. 우리는 부드러운 감도를 사용하여 매우 정확한 추정치를 제공할 수 있는 설정과 노이즈 분산이 너무 커서 안정적으로 유용한 결과를 제공할 수 없는 설정을 특성화합니다. 또한 기밀 데이터로 계산된 지니 지수 값에 대한 간격 추정치를 제공하는 후처리 단계를 제시합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161912148",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Efficient Distributional Regression Trees Learning Algorithms for Calibrated Non-Parametric Probabilistic Forecasts",
-     "authors": [
-      "Quentin Duchemin",
-      "Guillaume Obozinski"
-     ],
-     "journal": "Journal of Computational and Graphical Statistics",
-     "date": "2026-05-20",
-     "abstract": "The perspective of developing trustworthy AI for critical applications in science and engineering requires machine learning techniques that are capable of estimating their own uncertainty. In the context of regression, instead of estimating a conditional mean, this can be achieved by producing a predictive interval for the output, or to even learn a model of the conditional probability p(y|x) of an output y given input features x. While this can be done under parametric assumptions with, e.g. generalized linear model, these are typically too strong, and non-parametric models offer flexible alternatives. In particular, for scalar outputs, learning directly a model of the conditional cumulative distribution function of y given x can lead to more precise probabilistic estimates, and the use of proper scoring rules such as the weighted interval score (WIS) and the continuous ranked probability score (CRPS) lead to better coverage and calibration properties.This paper introduces novel algorithms for learning probabilistic regression trees for the WIS or CRPS loss functions. These algorithms are made computationally efficient thanks to an appropriate use of known data structures - namely min-max heaps, weight-balanced binary trees and Fenwick trees.Through numerical experiments, we demonstrate that the performance of our methods is competitive with alternative approaches.",
-     "url": "https://doi.org/10.1080/10618600.2026.2675431",
-     "doi": "10.1080/10618600.2026.2675431",
-     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10618600.2026.2675431?needAccess=true",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "과학 및 공학 분야의 중요한 응용 분야를 위한 신뢰할 수 있는 AI를 개발하려면 자체 불확실성을 예측할 수 있는 기계 학습 기술이 필요합니다. 회귀의 맥락에서 조건부 평균을 추정하는 대신 출력에 대한 예측 구간을 생성하거나 입력 특성 x가 주어진 출력 y의 조건부 확률 p(y|x) 모델을 학습하여 이를 달성할 수 있습니다. 이는 다음과 같은 매개변수 가정 하에서 수행될 수 있습니다. 일반화된 선형 모델은 일반적으로 너무 강력하며 비모수적 모델은 유연한 대안을 제공합니다. 특히, 스칼라 출력의 경우, 주어진 x에 대한 y의 조건부 누적 분포 함수 모델을 직접 학습하면 보다 정확한 확률 추정이 가능하며, WIS(가중 간격 점수) 및 CRPS(연속 순위 확률 점수)와 같은 적절한 채점 규칙을 사용하면 적용 범위와 보정 속성이 향상됩니다. 본 논문에서는 WIS 또는 CRPS 손실 함수에 대한 확률 회귀 트리를 학습하기 위한 새로운 알고리즘을 소개합니다. 이러한 알고리즘은 알려진 데이터 구조, 즉 최소-최대 힙, 가중치 균형 이진 트리 및 Fenwick 트리의 적절한 사용 덕분에 계산적으로 효율적으로 만들어졌습니다. 수치 실험을 통해 우리 방법의 성능이 대체 접근 방식에 비해 경쟁력이 있음을 보여줍니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4379539366",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "KL-BSS: rethinking optimality for neighbourhood selection in structural equation models",
-     "authors": [
-      "Ming Gao",
-      "Wai Ming Tai",
-      "Bryon Aragam"
-     ],
-     "journal": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
-     "date": "2026-05-20",
-     "abstract": "Abstract We introduce a new method for neighbourhood selection in linear structural equation models that improves over classical methods such as best subset selection (BSS) and the Lasso. Our method, called KL-BSS, takes advantage of the existence of underlying structure in SEM—even when this structure is unknown—and is easily implemented using existing solvers. Under weaker eigenvalue conditions compared to BSS and the Lasso, KL-BSS can provably recover the support of linear models with fewer samples. We establish both the pointwise and minimax sample complexity for support recovery, which KL-BSS obtains. Extensive experiments on both real and simulated data confirm the improvements offered by KL-BSS. While it is well-known that the Lasso encounters difficulties under structured dependencies, it is less well-known that even BSS runs into trouble as well, and can be substantially improved. These results have implications for structure learning in graphical models, which often relies on neighbourhood selection as a subroutine.",
-     "url": "https://doi.org/10.1093/jrsssb/qkag078",
-     "doi": "10.1093/jrsssb/qkag078",
-     "pdf": "https://arxiv.org/pdf/2306.02244",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 우리는 BSS(Best Subset Selection) 및 Lasso와 같은 고전적인 방법보다 개선된 선형 구조 방정식 모델에서 이웃 선택을 위한 새로운 방법을 소개합니다. KL-BSS라고 불리는 우리의 방법은 SEM의 기본 구조의 존재를 활용하며(이 구조가 알려지지 않은 경우에도) 기존 솔버를 사용하여 쉽게 구현됩니다. BSS 및 Lasso에 비해 약한 고유값 조건에서 KL-BSS는 더 적은 수의 샘플로 선형 모델의 지원을 복구할 수 있음이 입증되었습니다. 우리는 KL-BSS가 획득한 지지 복구를 위한 포인트별 및 최소 최대 샘플 복잡성을 모두 설정합니다. 실제 데이터와 시뮬레이션 데이터에 대한 광범위한 실험을 통해 KL-BSS가 제공하는 개선 사항이 확인되었습니다. Lasso가 구조적 종속성 하에서 어려움을 겪는다는 것은 잘 알려져 있지만, BSS에서도 문제가 발생하고 크게 개선될 수 있다는 사실은 덜 알려져 있습니다. 이러한 결과는 종종 서브루틴으로 이웃 선택에 의존하는 그래픽 모델의 구조 학습에 영향을 미칩니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7161814090",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Optimal Covariate Discretization in Adaptive Randomized Experiments",
-     "authors": [
-      "Seongjin Jin"
-     ],
-     "journal": "Journal of Applied Econometrics",
-     "date": "2026-05-20",
-     "abstract": "ABSTRACT This paper introduces a novel method to adaptively design randomized experiments. For randomized experiments with a pilot stage, or multistage experiments, Hahn et al. (2011) propose an adaptive experimental design that adjusts the next stage's propensity score based on data from the previous stages. This paper discusses how the discretization of covariates affects the precision of the estimation of the average treatment effect (ATE) through the estimated propensity score for the next stage. Also, this paper proposes an algorithm using the bootstrap technique to find the optimal level of discretization of covariates. Monte Carlo simulations and an application with actual data show that the suggested method performs well.",
-     "url": "https://doi.org/10.1002/jae.70066",
-     "doi": "10.1002/jae.70066",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "개요 이 논문은 무작위 실험을 적응적으로 설계하는 새로운 방법을 소개합니다. 파일럿 단계 또는 다단계 실험을 사용한 무작위 실험의 경우 Hahn et al. (2011)은 이전 단계의 데이터를 기반으로 다음 단계의 성향 점수를 조정하는 적응형 실험 설계를 제안했습니다. 본 논문에서는 공변량의 이산화가 다음 단계의 성향점수 추정을 통해 평균치료효과(ATE) 추정의 정밀도에 어떤 영향을 미치는지 논의한다. 또한 본 논문에서는 공변량의 최적 이산화 수준을 찾기 위해 부트스트랩 기법을 이용한 알고리즘을 제안한다. 몬테카를로 시뮬레이션과 실제 데이터를 사용한 애플리케이션은 제안된 방법이 잘 수행된다는 것을 보여줍니다.",
-     "is_new": false
     }
    ]
   },
   {
    "key": "ai-ml",
    "name": "AI·머신러닝",
-   "count": 1360,
-   "new_count": 43,
+   "count": 1379,
+   "new_count": 62,
    "papers": [
+    {
+     "id": "oa:W4415270238",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "MOUFLON: multi-group modularity-based fairness-aware community detection",
+     "authors": [
+      "Georgios Panayiotou",
+      "Anand Mathew Muthukulam Simon",
+      "Matteo Magnani",
+      "Ece Calikus"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-17",
+     "abstract": "Abstract In this paper, we propose MOUFLON, a fairness-aware, modularity-based community detection method that allows adjusting the importance of partition quality over fairness outcomes. MOUFLON uses a novel proportional balance fairness metric, providing consistent and comparable fairness scores across multi-group and imbalanced network settings. We evaluate our method under both synthetic and real-world network datasets, focusing primarily on performance and the trade-off between modularity and fairness in the resulting communities, along with the impact of network characteristics such as size, density, and group distribution. As structural biases can lead to strong alignment between demographic groups and network structure, we also examine scenarios with highly clustered homogeneous groups, to understand how such structures influence fairness outcomes. Finally, we benchmark our method against existing fairness-aware community detection approaches, and apply MOUFLON to register-derived population networks from two Swedish municipalities, demonstrating that proportionally balanced communities can be recovered at a small cost in modularity in real-world settings. Our findings showcase the effects of incorporating fairness constraints into modularity-based community detection, and highlight key considerations for designing and benchmarking fairness-aware social network analysis methods.",
+     "url": "https://doi.org/10.1007/s10618-026-01260-5",
+     "doi": "10.1007/s10618-026-01260-5",
+     "pdf": "https://doi.org/10.1007/s10618-026-01260-5",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W4415309592",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Distributional Reinforcement Learning on Path-dependent Options",
+     "authors": [
+      "Ahmet Umur Özsoy"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11425-5",
+     "doi": "10.1007/s10614-026-11425-5",
+     "pdf": "https://arxiv.org/pdf/2507.12657",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W4416020120",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Watermarking large language models in Europe: interpreting the AI act in light of technology",
+     "authors": [
+      "Thomas Souverain"
+     ],
+     "journal": "Ethics and Information Technology",
+     "date": "2026-09-17",
+     "abstract": "Abstract To foster trustworthy Artificial Intelligence (AI) within the European Union, the AI Act requires providers to mark and detect the outputs of their general-purpose models. The Article 50 and Recital 133 call for marking methods that are \"sufficiently reliable, interoperable, effective and robust\". Yet, the rapidly evolving and heterogeneous landscape of watermarks for Large Language Models (LLMs) makes it difficult to determine how these four standards can be translated into concrete and measurable evaluations. Our paper addresses this challenge, anchoring the normativity of European requirements in the multiplicity of watermarking techniques. Introducing clear and distinct concepts on LLM watermarking, our contribution is threefold: (i) Watermarking Categorisation: We propose an accessible taxonomy of watermarking methods according to the stage of the LLM lifecycle at which they are applied — before, during, or after training, and during next-token distribution or sampling. (ii) Watermarking Evaluation: We interpret the EU AI Act’s requirements by mapping each criterion with state-of-the-art evaluations on robustness and detectability of the watermark, and of quality of the LLM. Since interoperability remains largely untheorised in LLM watermarking research, we propose three normative dimensions to frame its assessment. (iii) Watermarking Comparison: We compare current watermarking methods for LLMs against the operationalised European criteria and show that no approach yet satisfies all four standards. Encouraged by emerging empirical tests, we recommend further research into watermarking directly embedded within the low-level architecture of LLMs.",
+     "url": "https://doi.org/10.1007/s10676-026-09918-w",
+     "doi": "10.1007/s10676-026-09918-w",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s10676-026-09918-w.pdf",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7203683597",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Hoeffding adaptive splitting trees for data stream classification with concept drift and ensemble learning",
+     "authors": [
+      "Daniel Nowak Assis",
+      "Jean Paul Barddal",
+      "Fabrício Enembreck"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-17",
+     "abstract": "Abstract Ensembles of decision trees are well-established methods for data stream classification. In ensemble learning, Hoeffding Trees are widely adopted as base learners, performing periodic split attempts according to the Hoeffding bound. Recent studies, however, indicate that this standard splitting mechanism lacks adaptability, while adaptive trees that trigger splits in response to performance degradation have achieved superior results. In this paper, we identify limitations in the use of adaptive-splitting decision trees as ensemble base learners, showing that change detectors often fail to promote sufficient diversity within ensembles. To address this issue, we propose two novel decision tree models, termed Hoeffding Adaptive Splitting Trees. These models combine the periodic splitting strategy of Hoeffding Trees, which fosters ensemble diversity, with adaptive splitting mechanisms that employ change detection algorithms to identify performance decay and determine split points. Experimental results demonstrate that Hoeffding Adaptive Splitting Trees enhance ensemble performance and achieve state-of-the-art results across a comprehensive evaluation, including benchmark comparisons, computational cost analysis, and concept drift adaptation.",
+     "url": "https://doi.org/10.1007/s10618-026-01255-2",
+     "doi": "10.1007/s10618-026-01255-2",
+     "pdf": "https://doi.org/10.1007/s10618-026-01255-2",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213447972",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "What Did We Find in the Drawer? Responsibility, Misalignment, and the Alleged Gap",
+     "authors": [
+      "Mumtaz Enser"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s13347-026-01190-6",
+     "doi": "10.1007/s13347-026-01190-6",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213449375",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Designed to Bullshit, Trained to Bullshit: A Reply to Humphries, Hicks, and Slater",
+     "authors": [
+      "Jimmy Alfonso Licon"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s13347-026-01192-4",
+     "doi": "10.1007/s13347-026-01192-4",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213452407",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Explainable course recommendation with knowledge graphs: a comparative audit of diverse modeling paradigms",
+     "authors": [
+      "Neda Afreen",
+      "Ludovico Boratto",
+      "Gianni Fenu",
+      "Francesca Maridina Malloci",
+      "Mirko Marras",
+      "Alessandro Soccol"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10618-026-01261-4",
+     "doi": "10.1007/s10618-026-01261-4",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213455969",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The effect of digital literacy on nonfarm employment income: Evidence from rural China",
+     "authors": [
+      "Yu Chen",
+      "Yingliang Zhang",
+      "Heguang Liu"
+     ],
+     "journal": "Telecommunications Policy",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.telpol.2026.103329",
+     "doi": "10.1016/j.telpol.2026.103329",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213456471",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Parliamentary Oversight of Public Values in the Digital Age: An Empirical Analysis of the Dutch Parliament",
+     "authors": [
+      "Erna Ruijer",
+      "Rianne Dekker",
+      "Albert Meijer"
+     ],
+     "journal": "Information Polity",
+     "date": "2026-09-17",
+     "abstract": "While there has been attention for government's role in protecting public values impacted by digital technologies, attention for the role of parliament remains limited. Yet, parliament is the primary place where debate about the impact of technologies on public values takes place and where options to regulate technology are considered. This study examines how Dutch Parliament has responded to the challenge of maintaining oversight of the digital transformation of society and safeguarding public values. Based on a qualitative multiple case study, we demonstrate that parliamentary oversight included the majority of public values impacted by digitalization, but not in a timely and comprehensive way. Moreover, blind spots emerged due to the mainly reactive role of parliament and its fragmented approach to discussing the digital transformation. We conclude that a more anticipatory role of parliament and additional, cross-cutting formats are required to oversee the digital transformation in its integrated complexity.",
+     "url": "https://doi.org/10.1177/15701255261486308",
+     "doi": "10.1177/15701255261486308",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213457096",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Direction-aware multi-label feature selection via paired signed-deviation lifting",
+     "authors": [
+      "Filippo Casu",
+      "Andrea Lagorio",
+      "Giuseppe A. Trunfio"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-17",
+     "abstract": "Abstract Distance-based multi-label classifiers that rely on a fixed, non-adaptive metric—ML-kNN, RBF-kernel machines with fixed bandwidth, and analogous templates—compare instances through symmetric feature differences and therefore do not encode whether label evidence lies above or below a typical feature value; adaptive metric learning addresses this at the metric level and is complementary to the embedded feature-selection strategy we propose. We propose Paired Signed-Deviation Feature Selection (PSDFS), an embedded multi-label feature-selection method targeted at this family of classifiers. PSDFS splits each feature into above- and below-center nonnegative deviation channels and uses a paired group-sparsity penalty to recover one ranking over the original d features. For fixed fold statistics, the objective is convex in the weights; the multiplicative updates are monotonically non-increasing and satisfy a sublinear O (1/ T ) bound on average suboptimality. On 16 benchmark datasets evaluated with ML-kNN, PSDFS consistently obtains the best average rank among the compared methods on all reported metrics, with Holm–Bonferroni-corrected paired Wilcoxon improvements on Micro-F1 and Macro-F1 against all baselines and on Hamming Loss against all but one. Targeted controls show that the lift improves expressivity under nonnegativity, pairing avoids lift-induced splitting in the reported feature ranking, and the nonnegative constraint is empirically beneficial.",
+     "url": "https://doi.org/10.1007/s10618-026-01265-0",
+     "doi": "10.1007/s10618-026-01265-0",
+     "pdf": "https://doi.org/10.1007/s10618-026-01265-0",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213459293",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Clustering of count data using nested multinomial Dirichlet finite mixture model and its extensions",
+     "authors": [
+      "Fares Alkhawaja",
+      "Manar Amayri",
+      "Nizar Bouguila"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10618-026-01250-7",
+     "doi": "10.1007/s10618-026-01250-7",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213463829",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Classifier chains for multi-label learning: a systematic review and taxonomy",
+     "authors": [
+      "Syed Umaid Ahmed",
+      "Muhammad Atif Tahir",
+      "Muhammad Waqas"
+     ],
+     "journal": "Data Mining and Knowledge Discovery",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10618-026-01266-z",
+     "doi": "10.1007/s10618-026-01266-z",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213464378",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "When Correctness is Not Enough: Symbolic AI and the Certainty–Scope Conjecture",
+     "authors": [
+      "Nicola Angius",
+      "Alessio Plebe"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s13347-026-01189-z",
+     "doi": "10.1007/s13347-026-01189-z",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213464637",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Artificial Bee Colony Algorithm for Portfolio Optimization: Comparative Performance Analysis on Two different Indices",
+     "authors": [
+      "Azize Zehra Çelenli Başaran",
+      "Vedide Rezan Uslu"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11427-3",
+     "doi": "10.1007/s10614-026-11427-3",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213472576",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "CensoredPatchTST: A Channel-Independent Transformer with Asymmetric Loss for Latent Demand Recovery",
+     "authors": [
+      "Lan Du",
+      "Xiujiao Qin",
+      "Hailong Yu"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-09-17",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11429-1",
+     "doi": "10.1007/s10614-026-11429-1",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213391171",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Federal broadband investment and rural business formation: Evidence from rejected applicants",
+     "authors": [
+      "Gokhan Kumpas"
+     ],
+     "journal": "Telecommunications Policy",
+     "date": "2026-09-16",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.telpol.2026.103327",
+     "doi": "10.1016/j.telpol.2026.103327",
+     "pdf": "https://doi.org/10.1016/j.telpol.2026.103327",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213431201",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Leveraging Structural Information to Reconstruct Hidden Nodes in Propagation Graphs",
+     "authors": [
+      "Damian Frąszczak"
+     ],
+     "journal": "Social Science Computer Review",
+     "date": "2026-09-16",
+     "abstract": "While widely used for information exchange, social media networks are increasingly exploited to spread rumors and malicious content. It is essential to reconstruct propagation graphs to hold nodes accountable for such propagation. However, the dynamic and vast nature of social networks makes this task challenging. This study introduces Structural Hidden Node Identification (SHNI), a heuristic method for reconstructing partially observed propagation snapshots by identifying likely hidden participants. SHNI relies on the observed active nodes and structural neighborhood information, without requiring temporal traces, message content, user attributes, or network-specific supervised retraining; its structural parameters may be selected by expert knowledge or calibrated once and then reused across networks. Instead of materializing the entire graph in advance, the method supports on-demand neighborhood expansion from observed active nodes toward structurally relevant candidate nodes. It combines local activation pressure with a structural bridging component inspired by sociological principles of opinion formation, including local social influence, information bubbles, and the role of bridging nodes between groups. SHNI explores candidate hidden nodes through a priority-driven neighborhood expansion strategy, in which the most promising candidates are evaluated first, and further exploration stops when the heuristic evidence becomes insufficient. Experiments across different network structures show that SHNI achieves competitive reconstruction quality while maintaining low data requirements and transparent decision logic. These results indicate that SHNI is especially useful as an interpretable structural baseline when temporal traces, message content, or network-specific supervised training data are unavailable. The method may also be adapted to other propagation phenomena, such as epidemic spread or malware diffusion in computer networks.",
+     "url": "https://doi.org/10.1177/08944393261485322",
+     "doi": "10.1177/08944393261485322",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7213228199",
      "topic": "ai-ml",
@@ -52845,10 +53111,10 @@
      ],
      "journal": "Telecommunications Policy",
      "date": "2026-09-16",
-     "abstract": "",
+     "abstract": "This study develops a moderate attention model by integrating the attention-based view (ABV) and the principle of the too-much-of-a-good-thing effect (TMGT effect) to investigate how the breadth of firm attention to digitalization influences the environmental, social, and governance (ESG) performance of firms in China's manufacturing industry. Our findings reveal that the breadth of firm attention to digitalization has an inverted U-shaped effect on ESG performance, indicating that moderate rather than maximal breadth of firm attention to digitalization balances information processing efficiency and opportunity exploitation, yielding the best ESG performance. We also find that the effect of the breadth of firm attention to digitalization in impacting ESG is enhanced by the global market structure of firms through expanding the scope of the breadth of firm attention to digitalization's positive effect, but is attenuated by industrial competition intensity through reducing the height of the breadth of firm attention to digitalization's positive effect.",
      "url": "https://doi.org/10.1016/j.telpol.2026.103314",
      "doi": "10.1016/j.telpol.2026.103314",
-     "pdf": "",
+     "pdf": "https://doi.org/10.1016/j.telpol.2026.103314",
      "first_seen": "2026-09-17T09:44:46+09:00",
      "is_new": true
     },
@@ -54847,7 +55113,7 @@
      "abstract": "",
      "url": "https://doi.org/10.1007/s00146-026-03168-6",
      "doi": "10.1007/s00146-026-03168-6",
-     "pdf": "",
+     "pdf": "https://hdl.handle.net/10072/443776",
      "first_seen": "2026-09-05T09:14:04+09:00",
      "is_new": false
     },
@@ -55054,6 +55320,47 @@
      "first_seen": "2026-09-03T09:27:15+09:00",
      "abstract_ko": "Abstract 인공 지능 개발에 따른 생태학적 비용, 특히 데이터 센터로 인해 발생하는 비용에 대해 많은 학자들이 자세히 설명했지만, 이것이 특정 국가에 의미하는 바를 개략적으로 설명한 사람은 거의 없습니다. 본 리뷰 논문은 기후 변화를 포함한 다양한 형태의 산업화가 중국에 미치는 생태학적 피해 예측과 AI 개발이 생태학적으로 미치는 영향에 대한 보고를 종합한 것입니다. 저자는 생태학적 문제에 대한 해결책으로 “지속가능성을 위한 AI”에 의존하는 것은 경제학의 비유를 빌려 일종의 “도덕적 위험”이라고 제안합니다. 왜냐하면 AI를 기후 변화에 대한 보험으로 취급하면 정부가 부정적인 탄소 배출을 향해 나아가기 위해 지금 필요한 조치를 취하는 것을 방해할 수 있기 때문입니다. 저자는 중국의 상황을 고려해 볼 때 AI로 인한 실제 환경 피해는 심각한 생태학적 문제를 안고 있다고 주장한다. AI의 탄소 배출, AI의 물 비용, AI 하드웨어 생산 및 폐기와 관련된 생태학적 파괴라는 세 가지 상호 연결된 생태학적 문제가 검토됩니다. 세계기상기구(WMO)의 예측과 함께 이는 중국의 미래에 좋지 않은 징조입니다. 저자는 중국 공산당의 정치 철학을 사용하여 제한된 AI를 주의 깊게 추구하고, 산업주의가 국민에게 증가하는 해악을 충분히 고려하고, 진정으로 생태학적으로 조화로운 미래를 지향하는 것이 중화인민공화국의 이익에 부합한다고 주장합니다.",
      "is_new": false
+    },
+    {
+     "id": "oa:W7213412244",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "ADKF: Adaptive Decomposition and KAN-Based Fusion for Long-term Time Series Forecasting",
+     "authors": [
+      "Yiguo Zhu",
+      "Xinyang Yuan",
+      "Cong Han",
+      "Peng Cheng"
+     ],
+     "journal": "Artificial Intelligence",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.artint.2026.104624",
+     "doi": "10.1016/j.artint.2026.104624",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7213432600",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Automatic Prompt Debiasing via Contrastive Reflection for Fairness Enhancement in Large Language Models",
+     "authors": [
+      "Juncheng Hu",
+      "Yingji Li",
+      "Rui Song",
+      "Kedi Lyu",
+      "Yi Chang"
+     ],
+     "journal": "Artificial Intelligence",
+     "date": "2026-09-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.artint.2026.104625",
+     "doi": "10.1016/j.artint.2026.104625",
+     "pdf": "",
+     "first_seen": "2026-09-18T09:34:11+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W4415317325",
@@ -60758,7 +61065,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-08-12",
-     "abstract": "",
+     "abstract": "Embeddings, numerical vectors learned by deep-learning models, are increasingly used to represent complex molecular biology data and support predictive tasks and generative design. There is a growing need for systematic approaches to interpret and explain the information encoded in high-dimensional embedding spaces. Here, we introduce EmmaEmb, a quantitative, model-agnostic framework for geometric correction, direct analysis, and comparison of embedding spaces. Our framework encompasses local and global analysis methods to quantify data distribution within an embedding space and enable comparisons of representations across spaces in relation to known biological features. Through experiments with seven embedding models across six molecular biology tasks, we demonstrate that our methods reveal insights from embedding spaces that align with downstream predictive tasks, uncover misclassification patterns, and contextualize differences in biological information captured by ProtT5, AlphaFold2, and ESM C. We provide an open-source Python library implementing all analysis methods and a guided diagnostic workflow.",
      "url": "https://doi.org/10.1016/j.patter.2026.101635",
      "doi": "10.1016/j.patter.2026.101635",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101635",
@@ -64944,7 +65251,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-07-23",
-     "abstract": "Lorenz GM, Engel NM, Koçillari L, et al. Sampling bias corrections for discrete and Gaussian partial information decompositions. Patterns. 2026: 101619.",
+     "abstract": "Partial information decomposition (PID) has emerged as a principled way to decompose the information carried by neural activity into components identifying whether interactions among neurons or brain areas generate synergistic or redundant information. Here, we demonstrate that empirical measures of synergy and redundancy based on either Gaussian or discrete probability estimators suffer from a substantial limited-sampling estimation bias. This bias is much larger for synergy than for redundancy. The gap between them increases with the number of parameters specifying the probability distributions. We develop procedures that effectively correct for the bias and provide rules of thumb for the sample sizes required to obtain unbiased estimates. We show that, when used on empirical brain datasets, they successfully remove large synergy biases across species, recording modalities, and experimental designs. Our bias corrections extend the range of neuroscience questions and experimental designs addressable with PID and allow accurate comparisons between synergy and redundancy.",
      "url": "https://doi.org/10.1016/j.patter.2026.101619",
      "doi": "10.1016/j.patter.2026.101619",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101619",
@@ -65141,7 +65448,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-07-22",
-     "abstract": "",
+     "abstract": "The suprachiasmatic nucleus (SCN) is the master circadian clock in mammals, comprising ∼20,000 neurons organized into a bilaterally symmetric oval structure. System-level time computations in the SCN depend on coordinated spatiotemporal patterns of neuronal activity, yet most prevailing methods perform time-series analyses while disregarding neural spatiotemporal organization. Here, we developed an interpretable machine learning framework for the integrative analysis of large-scale spatiotemporal calcium signals from SCN neurons, with built-in validation and biological interpretability. Applying this framework, we identified distinct neural spatiotemporal states and subtypes whose spatial mapping across hemispheres revealed hemispheric asymmetry, particularly during the subjective day. Circadian timekeeping ability also displayed side specificity, with each hemisphere encoding a full yet unique time feature representation. Attribution analysis further indicated spectral features of calcium signals as the primary discriminative elements underlying this asymmetry. Overall, we demonstrate that hemispheric asymmetry of state switching is a fundamental property of the brain's circadian clock.",
      "url": "https://doi.org/10.1016/j.patter.2026.101617",
      "doi": "10.1016/j.patter.2026.101617",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101617",
@@ -68436,7 +68743,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-07-03",
-     "abstract": "",
+     "abstract": "Transformer-based architectures have become the prevailing backbone of large language models. However, the time and memory complexity of self-attention remains a fundamental obstacle to efficient long-context modeling. To address this limitation, recent research has introduced two principal categories of efficient attention mechanisms. Linear attention methods achieve linear complexity through kernel approximations, recurrent formulations, or fast-weight dynamics, thereby enabling scalable inference with reduced computational overhead. Sparse attention techniques, in contrast, limit attention computation to selected subsets of tokens based on fixed or dynamic strategies, enhancing efficiency while preserving contextual coverage. This survey provides a comprehensive overview of these developments, integrating both algorithmic innovations and hardware-level considerations. In addition, we analyze the incorporation of efficient attention into large-scale pre-trained language models, including both architectures built entirely on efficient attention and hybrid designs that combine local and global components. By aligning theoretical foundations with practical deployment strategies, this work aims to serve as a foundational reference for advancing the design of scalable and efficient language models.",
      "url": "https://doi.org/10.1016/j.patter.2026.101594",
      "doi": "10.1016/j.patter.2026.101594",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101594",
@@ -75145,11 +75452,12 @@
      ],
      "journal": "Artificial Intelligence",
      "date": "2026-06-01",
-     "abstract": "",
+     "abstract": "Fully-observable non-deterministic (FOND) planning is at the core of artificial intelligence planning with uncertainty. It models uncertainty through actions with non-deterministic effects. In this work, we present a collection of techniques that establish explicit best-first policy-space search as a method competitive with the state of the art for solving FOND planning tasks. We study how to define equivalence relations between policies, allowing part of the search space to be pruned. We show it is possible to use group theory techniques to effectively compute canonical symmetries between states. We also present two contributions that go beyond just policy-space search: we present a procedure that infers in polynomial time a solution policy function given just the specification of its domain set, and an integer-programming formulation procedure that, given a solution policy defined over complete states, yields a set of resource-efficient models that are capable of finding a partial-state policy that represents it unambiguously with the fewest partial states possible.",
      "url": "https://doi.org/10.1016/j.artint.2026.104574",
      "doi": "10.1016/j.artint.2026.104574",
      "pdf": "",
      "first_seen": "2026-08-20T07:46:21+09:00",
+     "abs_src": "보충",
      "is_new": false
     },
     {
@@ -75162,11 +75470,12 @@
      ],
      "journal": "Artificial Intelligence",
      "date": "2026-06-01",
-     "abstract": "",
+     "abstract": "The field of multiobjective evolutionary algorithms (MOEAs) often emphasizes its popularity for optimization problems with conflicting objectives. However, it is still theoretically unknown how MOEAs perform compared with typical approaches outside this field. This paper conducts such a systematic theoretical comparison on problem classes with different degrees of conflict. With OneMaxMin$_k$ depicting $k\\in[0..n]$ degrees of conflict, we show the difficulties of two typical non-MOEA approaches, the scalarization (weighted-sum) and {the} $\\epsilon-$constraint approach. We prove that for any set of weights, the set of optima formed by {the} scalarization approach cannot cover its full Pareto front for $k>2$. Although constrained problems constructed from $\\epsilon-$constraint approach ensure the full coverage, general ways (via exterior or nonparameter penalty functions) to solve these constrained problems encounter difficulties. The nonparameter penalty function way cannot guarantee the full coverage, and the exterior way covers the Pareto front with expected $O(\\max\\{k,1\\}n\\ln n)$ number of function evaluations, but only with careful settings of $\\epsilon$ and $r$ ($r>1/(\\epsilon+1-\\lceil \\epsilon \\rceil)$). In contrast, MOEAs efficiently solve OneMaxMin$_k$ without careful designs. We prove the same expected runtime of $O(\\max\\{k,1\\}n\\ln n)$ for the (G)SEMO, MOEA/D, NSGA-II, and SMS-EMOA. Our brief discussions on a bi-objective LeadingOnes variant with different degrees of conflict show similar findings.",
      "url": "https://doi.org/10.1016/j.artint.2026.104573",
      "doi": "10.1016/j.artint.2026.104573",
      "pdf": "https://arxiv.org/pdf/2408.04207",
      "first_seen": "2026-08-20T07:46:21+09:00",
+     "abs_src": "보충",
      "is_new": false
     },
     {
@@ -75423,11 +75732,12 @@
      ],
      "journal": "Artificial Intelligence",
      "date": "2026-06-01",
-     "abstract": "",
+     "abstract": "Fully-observable non-deterministic (FOND) planning is at the core of artificial intelligence planning with uncertainty. It models uncertainty through actions with non-deterministic effects. In this work, we present a collection of techniques that establish explicit best-first policy-space search as a method competitive with the state of the art for solving FOND planning tasks. We study how to define equivalence relations between policies, allowing part of the search space to be pruned. We show it is possible to use group theory techniques to effectively compute canonical symmetries between states. We also present two contributions that go beyond just policy-space search: we present a procedure that infers in polynomial time a solution policy function given just the specification of its domain set, and an integer-programming formulation procedure that, given a solution policy defined over complete states, yields a set of resource-efficient models that are capable of finding a partial-state policy that represents it unambiguously with the fewest partial states possible.",
      "url": "https://doi.org/10.1016/j.artint.2026.104574",
      "doi": "10.1016/j.artint.2026.104574",
      "pdf": "https://arxiv.org/pdf/2403.19883",
      "first_seen": "2026-08-20T07:46:21+09:00",
+     "abs_src": "보충",
      "is_new": false
     },
     {
