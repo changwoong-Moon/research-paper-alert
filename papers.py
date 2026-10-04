@@ -30,6 +30,9 @@ TODAY = NOW.date()
 FETCH_DAYS = 90      # 최근 N일 발행분 수집
 NEW_DAYS = 3         # 처음 발견 후 N일 동안 NEW 배지
 PRUNE_DAYS = 220     # 상태 파일에서 오래된 항목 제거
+# 주제당 OpenAlex 페이지 상한(200편 x N = 주제별 수집 상한). 8이면 1,600편에서 조용히
+# 잘려 오래된 논문이 누락된다 — 주제가 1,200편을 넘어서면 올릴 것.
+MAX_PAGES = 15
 ABS_LOOKUP_CAP = 40  # 실행당 초록 보충 조회 상한
 # 실행당 해외 초록 한국어 번역 상한 (workflow_dispatch 입력으로 일시 상향 가능)
 TRANSLATE_CAP = int(os.environ.get("TRANSLATE_CAP") or "150")
@@ -96,7 +99,6 @@ TOPICS = [
             "S78689143": "Health Economics, Policy and Law",
             "S4210168539": "Science and Public Policy",
             "S129664799": "Policy and Society",
-            "S2170549": "Policy & Internet",
             "S4210205184": "Behavioural Public Policy",
             "S4210206727": "J. of Behavioral Public Administration",
             "S39541053": "International J. of Public Administration",
@@ -211,16 +213,11 @@ TOPICS = [
             "S4210190517": "AI & Society",                        # 191
             "S4210170699": "AI and Ethics",                       # 167
             "S23735784": "Philosophy & Technology",               # 54
-            "S120991925": "Telecommunications Policy",            # 46
             "S2736409588": "Big Data & Society",                  # 41
             "S160466889": "Minds and Machines",                   # 15
-            "S201710173": "Government Information Quarterly",     # 15
             "S13096939": "Ethics and Information Technology",     # 13
             "S4210186663": "J. of Responsible Technology",        # 12
             "S2181421": "Science, Technology & Human Values",     # 11
-            "S2764374723": "Information Polity",                  # 10
-            "S4210232200": "Digital Government: Research and Practice",  # 7
-            "S4210177192": "Internet Policy Review",              # 4
             "S4210198237": "Data & Policy",                       # 2
             # --- 계산사회과학·데이터과학 (방법론 적용) 약 239편
             "S2492086750": "ACM Trans. on Intelligent Systems and Technology",  # 58
@@ -246,12 +243,49 @@ TOPICS = [
         # 지능정보연구 17편, 과학기술학연구 13편, 한국지역정보화학회지 6편,
         # 한국빅데이터 15편, 인공지능 34편(인공지능윤리연구·AI와 인간사회 등 5종) — 합계 약 95편
         "kci_journals": [
-            "정보화정책",
             "지능정보연구",
             "과학기술학연구",
-            "한국지역정보화학회지",
             "한국빅데이터",
             "인공지능",
+        ],
+    },
+    {
+        "key": "e-gov",
+        "name": "전자정부·디지털행정",
+        # 2026-10-04 신설. AI 탭이 1,423편으로 수집 상한에 근접해, 전자정부·디지털정책 계열을
+        # 독립 탭으로 분리하고 그동안 비어 있던 이 분야 학술지를 보강했다(90일 물량 실측치).
+        # 이동: Telecommunications Policy·GIQ·Information Polity·Digital Government·
+        # Internet Policy Review(AI 탭에서), Policy & Internet(행정학 탭에서).
+        # 제외: Internet Research(28편)·Electronic Markets(19편)·J. of Information Technology(3편)는
+        # 경영정보(IS)·전자상거래 성격이라 행정학 적합도가 낮아 뺐고, First Monday는 OpenAlex
+        # 색인이 비어(0편) 넣어도 수집물이 없다.
+        "openalex_sources": {
+            "S70010600": "Information, Communication & Society",   # 52
+            "S120991925": "Telecommunications Policy",             # 46
+            "S104369171": "J. of Information Technology & Politics",  # 30
+            "S88603889": "New Media & Society",                    # 29
+            "S185256354": "Information Technology & People",        # 24
+            "S201710173": "Government Information Quarterly",      # 20
+            "S25720340": "Telematics and Informatics",             # 18
+            "S85921003": "Transforming Government",                # 17
+            "S2170549": "Policy & Internet",                       # 13
+            "S2764374723": "Information Polity",                   # 13
+            "S2764351738": "Surveillance & Society",               # 13
+            "S4210238510": "Digital Policy, Regulation and Governance",  # 12
+            "S4210232200": "Digital Government: Research and Practice",  # 11
+            "S4210177192": "Internet Policy Review",               # 11
+            "S36975478": "J. of Urban Technology",                 # 11
+            "S144363146": "The Information Society",               # 5
+            "S118683372": "International J. of Electronic Government Research",  # 3
+        },
+        # KCI 실측(2026-10-04, 90일): 정보화정책 9편(정보통신정책연구 포함),
+        # 한국지역정보화학회지 13편, 한국IT정책경영학회 논문지 22편.
+        # 주의: KCI journal 파라미터는 자유 부분일치가 아니라 학술지명 앞부분이 맞아야 한다
+        # ("지역정보"는 0건, "한국지역정보화학회지"는 13건). 검색어를 줄여 쓰지 말 것.
+        "kci_journals": [
+            "정보화정책",
+            "한국지역정보화학회지",
+            "한국IT정책경영학회",
         ],
     },
 ]
@@ -326,7 +360,7 @@ def fetch_openalex(topic):
               "primary_location,open_access,abstract_inverted_index,type")
     records = []
     page = 1
-    while page <= 8:
+    while page <= MAX_PAGES:
         params = urllib.parse.urlencode({
             "filter": "primary_location.source.id:%s,from_publication_date:%s" % (ids, date_from),
             "select": select,
@@ -346,6 +380,9 @@ def fetch_openalex(topic):
             break
         page += 1
         time.sleep(1.5)
+    if page > MAX_PAGES:
+        print("  ! 수집 상한 %d편 도달 — 오래된 논문 누락 중. MAX_PAGES를 올리거나 학술지를 줄일 것"
+              % (MAX_PAGES * 200))
     print("[OpenAlex] %s: %d건" % (topic["name"], len(records)))
     return records
 
