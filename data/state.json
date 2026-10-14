@@ -53777,7 +53777,7 @@
    "title": "Gradual Semantics for Weighted Higher-Order Argumentation Frameworks",
    "authors": [
     "Leïla Amgoud",
-    "Dragan V. Doder",
+    "Dragan Doder",
     "Marie-Christine Lagasquie-Schiex"
    ],
    "journal": "Journal of Artificial Intelligence Research",
@@ -90808,7 +90808,7 @@
    "doi": "10.1080/09540962.2026.2733324",
    "pdf": "https://pure.buas.nl/en/publications/3a369c66-e94f-4056-8efd-a5c083b5c929",
    "first_seen": "2026-09-25T09:39:16+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214104043": {
@@ -91059,7 +91059,7 @@
    "doi": "10.3758/s13428-026-03163-1",
    "pdf": "",
    "first_seen": "2026-09-25T09:39:16+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214085896": {
@@ -91187,7 +91187,7 @@
    "doi": "10.1016/j.jeconom.2026.106341",
    "pdf": "https://doi.org/10.1016/j.jeconom.2026.106341",
    "first_seen": "2026-09-25T09:39:16+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7155164218": {
@@ -91251,7 +91251,7 @@
    "doi": "10.1038/s42256-026-01304-x",
    "pdf": "https://doi.org/10.5281/zenodo.21869221",
    "first_seen": "2026-09-25T09:39:16+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214070174": {
@@ -91269,7 +91269,7 @@
    "doi": "10.1007/s43681-026-01416-5",
    "pdf": "",
    "first_seen": "2026-09-25T09:39:16+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214117411": {
@@ -91287,7 +91287,7 @@
    "doi": "10.1007/s43681-026-01406-7",
    "pdf": "",
    "first_seen": "2026-09-25T09:39:16+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214121428": {
@@ -91305,7 +91305,7 @@
    "doi": "10.1007/s00146-026-03381-3",
    "pdf": "",
    "first_seen": "2026-09-25T09:39:16+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214121781": {
@@ -91909,7 +91909,7 @@
    "doi": "10.1080/10967494.2026.2732480",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214150419": {
@@ -92047,7 +92047,7 @@
    "doi": "10.3758/s13428-026-03184-w",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214173784": {
@@ -92214,7 +92214,7 @@
    "doi": "10.1007/s43681-026-01401-y",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214166230": {
@@ -92236,7 +92236,7 @@
    "doi": "10.1007/s10994-026-07174-z",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7214189318": {
@@ -92255,7 +92255,7 @@
    "doi": "10.1007/s42001-026-00497-w",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214189663": {
@@ -92296,7 +92296,7 @@
    "doi": "10.1007/s13347-026-01200-7",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214193651": {
@@ -92314,7 +92314,7 @@
    "doi": "10.1007/s43681-026-01415-6",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214200207": {
@@ -92333,7 +92333,7 @@
    "doi": "10.1007/s42001-026-00495-y",
    "pdf": "",
    "first_seen": "2026-09-26T09:44:52+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214206733": {
@@ -92624,7 +92624,7 @@
    "doi": "10.3758/s13428-026-03178-8",
    "pdf": "",
    "first_seen": "2026-09-27T09:44:53+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214318937": {
@@ -92683,7 +92683,7 @@
    "doi": "10.1007/s10676-026-09920-2",
    "pdf": "",
    "first_seen": "2026-09-27T09:44:53+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7162438926": {
@@ -92822,7 +92822,7 @@
    "doi": "10.1007/s10618-026-01270-3",
    "pdf": "",
    "first_seen": "2026-09-27T09:44:53+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214331264": {
@@ -92841,7 +92841,7 @@
    "doi": "10.1007/s43681-026-01398-4",
    "pdf": "",
    "first_seen": "2026-09-27T09:44:53+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214334283": {
@@ -92887,7 +92887,7 @@
    "doi": "10.1007/s10618-026-01272-1",
    "pdf": "",
    "first_seen": "2026-09-27T09:44:53+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214386663": {
@@ -93089,7 +93089,7 @@
    "doi": "10.1177/01622439261485047",
    "pdf": "",
    "first_seen": "2026-09-27T09:44:53+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7204761502": {
@@ -93152,7 +93152,7 @@
    "doi": "10.1016/j.artint.2026.104626",
    "pdf": "",
    "first_seen": "2026-09-27T09:44:53+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7168132418": {
@@ -93815,7 +93815,7 @@
    "doi": "10.1016/j.jeconom.2026.106314",
    "pdf": "https://doi.org/10.1016/j.jeconom.2026.106314",
    "first_seen": "2026-09-28T09:59:46+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W4393027737": {
@@ -93939,7 +93939,7 @@
    "doi": "10.1007/s11023-026-09803-x",
    "pdf": "",
    "first_seen": "2026-09-28T09:59:46+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214469407": {
@@ -94284,7 +94284,7 @@
    "doi": "10.1002/epa2.70061",
    "pdf": "",
    "first_seen": "2026-09-29T11:08:12+09:00",
-   "abs_tries": 1
+   "abs_tries": 2
   },
   "oa:W7214527234": {
    "id": "oa:W7214527234",
@@ -94462,7 +94462,7 @@
    "doi": "10.1007/s10618-026-01263-2",
    "pdf": "",
    "first_seen": "2026-09-29T11:08:12+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "kci:ART003382946": {
@@ -95424,7 +95424,7 @@
    "doi": "10.1007/s11135-026-03092-3",
    "pdf": "",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7214639426": {
@@ -95484,7 +95484,7 @@
    "doi": "10.1177/10982140261492394",
    "pdf": "",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 1
+   "abs_tries": 2
   },
   "oa:W4404311451": {
    "id": "oa:W4404311451",
@@ -96618,13 +96618,15 @@
    ],
    "journal": "Nature Machine Intelligence",
    "date": "2026-09-28",
-   "abstract": "",
+   "abstract": "Microrobots hold significant potential for various applications, where targeted navigation is a basic requirement. Deep reinforcement learning (DRL) has recently emerged as a powerful paradigm for fully autonomous microrobot navigation. Yet, current DRL-based approaches pay limited attention to learning efficiency and effectiveness, requiring hours to days for model training. Consequently, this impedes both rapid practical deployment and parameter optimization. To address these challenges, we present a learning framework that enables effective microrobot navigation policies to be trained within minutes. In the proposed framework, we develop a fully vectorized simulator with more than 10,000 artificial vascular environments, parallelizing dynamics, LiDAR-inspired perception, and feasibility checks across thousands of environments to achieve roughly 190,000 transitions per second. To achieve effectiveness in fast training, we propose a task-shaping-regularization (TSR) reward framework. The TSR framework accelerates convergence, improves final performance, reduces action variation by at least 33.7%, and increases obstacle clearance by at least 2.1% across all evaluated scenarios. Results show that the proposed learning framework reduces training time to under 10 minutes, while supporting zero-shot deployment across distinct microrobot types and navigation scenarios. Collectively, this framework can substantially shorten the design loop and accelerate the deployment of autonomous microrobots.",
    "url": "https://doi.org/10.1038/s42256-026-01305-w",
    "doi": "10.1038/s42256-026-01305-w",
    "pdf": "https://arxiv.org/pdf/2608.00854",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 0,
-   "ko_tries": 0
+   "abs_tries": 1,
+   "ko_tries": 0,
+   "abs_src": "보충",
+   "abstract_ko": "마이크로로봇은 목표 탐색이 기본 요구 사항인 다양한 응용 분야에서 상당한 잠재력을 가지고 있습니다. 심층 강화 학습(DRL)은 최근 완전 자율 마이크로로봇 탐색을 위한 강력한 패러다임으로 등장했습니다. 그러나 현재의 DRL 기반 접근 방식은 학습 효율성과 효과에 제한적인 관심을 기울이고 있으며 모델 교육에 몇 시간에서 며칠이 필요합니다. 결과적으로 이는 신속한 실제 배포와 매개변수 최적화를 모두 방해합니다. 이러한 문제를 해결하기 위해 우리는 효과적인 마이크로로봇 탐색 정책을 몇 분 안에 훈련할 수 있는 학습 프레임워크를 제시합니다. 제안된 프레임워크에서 우리는 10,000개가 넘는 인공 혈관 환경, 병렬화 역학, LiDAR에서 영감을 받은 인식 및 수천 개의 환경에 대한 타당성 검사를 통해 초당 약 190,000개의 전환을 달성하는 완전히 벡터화된 시뮬레이터를 개발합니다. 빠른 훈련의 효율성을 달성하기 위해 TSR(Task-Shaping-Regularization) 보상 프레임워크를 제안합니다. TSR 프레임워크는 수렴을 가속화하고, 최종 성능을 개선하며, 평가된 모든 시나리오에서 동작 변화를 최소 33.7% 줄이고, 장애물 제거를 최소 2.1% 늘립니다. 결과는 제안된 학습 프레임워크가 훈련 시간을 10분 미만으로 줄이는 동시에 서로 다른 마이크로로봇 유형 및 탐색 시나리오 전반에 걸쳐 제로샷 배포를 지원한다는 것을 보여줍니다. 전체적으로 이 프레임워크는 설계 루프를 크게 단축하고 자율성 구현을 가속화할 수 있습니다."
   },
   "oa:W7214573361": {
    "id": "oa:W7214573361",
@@ -96714,7 +96716,7 @@
    "doi": "10.1007/s10994-026-07166-z",
    "pdf": "",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214644107": {
@@ -96756,7 +96758,7 @@
    "doi": "10.1007/s10614-026-11435-3",
    "pdf": "",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214652742": {
@@ -96777,7 +96779,7 @@
    "doi": "10.1007/s43681-026-01405-8",
    "pdf": "",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214655714": {
@@ -96803,7 +96805,7 @@
    "doi": "10.1038/s42256-026-01306-9",
    "pdf": "https://doi.org/10.21203/rs.3.rs-6987147/v1",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214664792": {
@@ -96822,7 +96824,7 @@
    "doi": "10.1007/s43681-026-01407-6",
    "pdf": "https://doi.org/10.2139/ssrn.7527480",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214630997": {
@@ -96890,7 +96892,7 @@
    "doi": "10.1016/j.patter.2026.101660",
    "pdf": "https://doi.org/10.1016/j.patter.2026.101660",
    "first_seen": "2026-09-30T10:23:33+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214701984": {
@@ -96930,7 +96932,7 @@
    "doi": "10.1080/13876988.2026.2727932",
    "pdf": "",
    "first_seen": "2026-10-01T10:23:42+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214736770": {
@@ -97190,7 +97192,7 @@
    "doi": "10.1177/10982140261490932",
    "pdf": "",
    "first_seen": "2026-10-01T10:23:42+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214807730": {
@@ -97334,7 +97336,7 @@
    "doi": "10.1007/s43681-026-01412-9",
    "pdf": "",
    "first_seen": "2026-10-01T10:23:42+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7214701839": {
@@ -97430,7 +97432,7 @@
    "doi": "10.1016/j.patter.2026.101692",
    "pdf": "https://doi.org/10.1016/j.patter.2026.101692",
    "first_seen": "2026-10-01T10:23:42+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "kci:ART003385558": {
@@ -98728,7 +98730,7 @@
    "doi": "10.3758/s13428-026-03190-y",
    "pdf": "",
    "first_seen": "2026-10-02T10:44:47+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7160007805": {
@@ -101677,7 +101679,7 @@
    "abstract": "",
    "url": "https://doi.org/10.1007/s42001-026-00498-9",
    "doi": "10.1007/s42001-026-00498-9",
-   "pdf": "",
+   "pdf": "https://hal.science/hal-05781084",
    "first_seen": "2026-10-04T10:46:03+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -108145,7 +108147,7 @@
     "Mohit Bansal"
    ],
    "journal": "Artificial Intelligence",
-   "date": "2026-10-01",
+   "date": "2026-10-06",
    "abstract": "Do norms of rationality apply to machine learning models, in particular language models? In this paper we investigate this question by focusing on a special subset of rational norms: coherence norms. We consider both logical coherence norms as well as coherence norms tied to the strength of belief. To make sense of the latter, we introduce the Minimal Assent Connection (MAC) and propose a new account of credence, which captures the strength of belief in language models. This proposal uniformly assigns strength of belief simply on the basis of model-internal next token probabilities. We argue that rational norms tied to coherence do apply to some language models but not to others. This issue is significant since rationality is closely tied to predicting and explaining behavior, and thus it is connected to considerations about AI safety and alignment, as well as understanding model behavior more generally.",
    "url": "https://doi.org/10.1016/j.artint.2026.104639",
    "doi": "10.1016/j.artint.2026.104639",
@@ -108566,7 +108568,7 @@
    "abstract": "The Graded Response Model (GRM) is widely used for analyzing polytomous response data from attitude, personality, and character measurement instruments. However, when response data are collected from a range-restricted sample such as selected applicants, screened participants, or high-performing students, GRM discrimination parameters are systematically underestimated. No existing R package implements range-restriction bias correction specifically for GRM discrimination parameters. This paper introduces grmcor , an R package that implements the truncated normal standard deviation ratio correction for GRM discrimination parameters under direct range restriction. The package provides functions for estimating GRM parameters from restricted samples, applying the correction, comparing restricted and corrected estimates, visualizing bias patterns, and validating the correction procedure via Monte Carlo simulation. Monte Carlo results demonstrate that grmcor substantially reduces bias in discrimination parameter estimates, with mean bias reduced from −0.64 to near zero and RMSE reduced by approximately 52% under 50% range restriction. The package is freely available via GitHub.",
    "url": "https://doi.org/10.1177/01466216261492527",
    "doi": "10.1177/01466216261492527",
-   "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13646184/",
+   "pdf": "https://pubmed.ncbi.nlm.nih.gov/42851525/",
    "first_seen": "2026-10-09T11:22:24+09:00",
    "abstract_ko": "GRM(Graded Response Model)은 태도, 성격 및 성격 측정 도구의 다각적 반응 데이터를 분석하는 데 널리 사용됩니다. 그러나 선택된 지원자, 선별된 참가자 또는 우수한 학생과 같은 범위가 제한된 표본에서 응답 데이터를 수집할 때 GRM 차별 매개변수는 체계적으로 과소평가됩니다. 기존 R 패키지는 GRM 식별 매개변수에 대해 특별히 범위 제한 바이어스 보정을 구현하지 않습니다. 이 문서에서는 직접 범위 제한 하에서 GRM 식별 매개변수에 대한 잘린 정규 표준편차 비율 보정을 구현하는 R 패키지인 grmcor를 소개합니다. 이 패키지는 제한된 샘플에서 GRM 매개변수를 추정하고, 수정을 적용하고, 제한 및 수정된 추정을 비교하고, 바이어스 패턴을 시각화하고, Monte Carlo 시뮬레이션을 통해 수정 절차를 검증하는 기능을 제공합니다. 몬테카를로 결과는 grmcor가 차별 매개변수 추정의 편향을 실질적으로 감소시키는 것을 보여줍니다. 평균 편향은 -0.64에서 거의 0으로 감소하고 RMSE는 50% 범위 제한 하에서 약 52% 감소합니다. 패키지는 GitHub를 통해 무료로 사용할 수 있습니다.",
    "abs_tries": 0,
@@ -113324,7 +113326,7 @@
    "abstract": "Computerized adaptive testing (CAT) is designed to enhance measurement precision and testing efficiency by sequentially updating interim person-parameter estimates and using these estimates to guide subsequent item selection and test termination. However, responses affected by item preknowledge can distort these estimates and, in turn, alter the subsequent course of the adaptive test. We propose a response-time-informed real-time adaptive protection framework that integrates within-examinee monitoring, protected person-parameter updating, and adaptive item selection within the CAT loop. Response time is monitored item by item as a dynamic behavioral indicator using a sequential Bayesian changepoint detection algorithm. When posterior evidence suggests an abrupt within-test change, the response-time signal is combined with response correctness to determine whether the current response is potentially affected by item preknowledge. Flagged responses are excluded from interim ability and speed updating, and the most recent protected estimates guide subsequent item selection and stopping decisions; otherwise, CAT proceeds according to the standard updating rule. We evaluate the framework under alternative item-selection criteria, varying prevalence and severity of item preknowledge, four item time-intensity distributions, and fixed-length and precision-based stopping rules. Simulation results show that the proposed framework achieves strong detection performance at both the examinee and response levels, limits the propagation of contaminated responses through the adaptive loop, and improves the accuracy and precision of person-parameter estimation, particularly when item preknowledge is more prevalent or severe.",
    "url": "https://doi.org/10.1177/00131644261489703",
    "doi": "10.1177/00131644261489703",
-   "pdf": "",
+   "pdf": "https://pubmed.ncbi.nlm.nih.gov/42859469/",
    "first_seen": "2026-10-11T10:06:11+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -114392,9 +114394,11 @@
    "abstract": "ABSTRACT Courts have long been recognized as venues of social control and policymaking. The rise of regulatory capitalism suggests reconsidering the judiciary in regulatory terms, notably through work that casts courts as regulators. This article argues, however, that styling courts as regulators is both analytically and normatively deficient: it obscures the distinctive function of courts and their contribution to social ordering. At the same time, judicial decision‐making plainly exhibits a regulatory dimension. Yet rather than stretching the concept of regulation, this article proposes to capture this dimension through governance theory. On this theoretical foundation, the article outlines a model of judicial governance that elucidates how social ordering emerges from adjudication and how it unfolds over time. In particular, the model highlights the implications of judicial decision‐making for private ordering and draws attention to processes of intermediation through lawyers, media, and advanced digital technologies. It thus opens a set of analytically structured research questions and complements them with a methodological framework to orient future work on judicial governance.",
    "url": "https://doi.org/10.1111/rego.70211",
    "doi": "10.1111/rego.70211",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rego.70211",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "개요 법원은 오랫동안 사회 통제와 정책 결정의 장소로 인식되어 왔습니다. 규제 자본주의의 부상은 특히 법원을 규제 기관으로 삼는 작업을 통해 규제 측면에서 사법부를 재고할 것을 제안합니다. 그러나 이 기사는 법원을 규제 기관으로 지정하는 것은 분석적으로나 규범적으로 모두 결함이 있다고 주장합니다. 이는 법원의 독특한 기능과 사회 질서에 대한 기여를 모호하게 만듭니다. 동시에, 사법적 의사결정은 분명히 규제적 차원을 드러낸다. 그러나 본 논문에서는 규제 개념을 확장하기보다는 거버넌스 이론을 통해 이러한 차원을 포착할 것을 제안합니다. 이 이론적 토대를 바탕으로 이 기사는 사회 질서가 판결에서 어떻게 나타나고 시간이 지남에 따라 어떻게 전개되는지를 설명하는 사법 거버넌스 모델의 개요를 설명합니다. 특히, 이 모델은 민간 주문에 대한 사법적 의사결정의 의미를 강조하고 변호사, 미디어, 첨단 디지털 기술을 통한 중개 프로세스에 주목합니다. 따라서 이는 분석적으로 구조화된 일련의 연구 질문을 열고 사법 거버넌스에 대한 향후 작업의 방향을 정하기 위한 방법론적 프레임워크로 이를 보완합니다."
+   "abstract_ko": "개요 법원은 오랫동안 사회 통제와 정책 결정의 장소로 인식되어 왔습니다. 규제 자본주의의 부상은 특히 법원을 규제 기관으로 삼는 작업을 통해 규제 측면에서 사법부를 재고할 것을 제안합니다. 그러나 이 기사는 법원을 규제 기관으로 지정하는 것은 분석적으로나 규범적으로 모두 결함이 있다고 주장합니다. 이는 법원의 독특한 기능과 사회 질서에 대한 기여를 모호하게 만듭니다. 동시에, 사법적 의사결정은 분명히 규제적 차원을 드러낸다. 그러나 본 논문에서는 규제 개념을 확장하기보다는 거버넌스 이론을 통해 이러한 차원을 포착할 것을 제안합니다. 이 이론적 토대를 바탕으로 이 기사는 사회 질서가 판결에서 어떻게 나타나고 시간이 지남에 따라 어떻게 전개되는지를 설명하는 사법 거버넌스 모델의 개요를 설명합니다. 특히, 이 모델은 민간 주문에 대한 사법적 의사결정의 의미를 강조하고 변호사, 미디어, 첨단 디지털 기술을 통한 중개 프로세스에 주목합니다. 따라서 이는 분석적으로 구조화된 일련의 연구 질문을 열고 사법 거버넌스에 대한 향후 작업의 방향을 정하기 위한 방법론적 프레임워크로 이를 보완합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221478066": {
    "id": "oa:W7221478066",
@@ -114403,6 +114407,8 @@
    "title": "The Effects of Service‐Energy Consumption and Cultural Industries on Green Growth in China",
    "authors": [
     "Hang Wang",
+    "Haiyu Wang",
+    "Haiyu Wang",
     "Haiyu Wang"
    ],
    "journal": "Asia & the Pacific Policy Studies",
@@ -114410,9 +114416,11 @@
    "abstract": "ABSTRACT Final consumption expenditure as a percentage of GDP, our aggregate proxy for energy demand, is negatively and significantly associated with Chinaʼs green growth over 2004–2022. The relationship holds across specifications (H1 supported), with a long‐run elasticity of −1.29 under Fully Modified OLS (FMOLS). ICT adoption provides no significant positive association, leaving H2 unsupported. Cultural value added is tested without a directional prior under H3 and also has a significant negative long‐run coefficient under FMOLS. We examine these relationships using an annual model guided by Environmental Kuznets Curve theory and sectoral energy transition theory. A Green Growth Index constructed from World Development Indicators is the outcome; population enters alongside the energy‐demand proxy, ICT adoption, and cultural value added. Ordinary Least Squares and Generalised Least Squares with AR(1) correction provide benchmarks for the primary long‐run FMOLS estimates. Consumption‐oriented cultural expansion offers a possible explanation for the cultural result, although the aggregate series cannot identify that mechanism. The policy discussion develops implications for sector‐specific efficiency regulation, green ICT applications, and cultural‐industry finance in China. Application to other Asia‐Pacific economies remains illustrative and requires comparative evidence.",
    "url": "https://doi.org/10.1002/app5.70105",
    "doi": "10.1002/app5.70105",
-   "pdf": "https://doi.org/10.1002/app5.70105",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/app5.70105",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "개요 에너지 수요에 대한 총계 대용물인 GDP 대비 최종 소비 지출은 2004~2022년 중국의 녹색 성장과 음의 유의미한 연관이 있습니다. 이 관계는 FMOLS(완전 수정 OLS)에서 −1.29의 장기 탄력성을 갖는 사양(H1 지원) 전반에 걸쳐 유지됩니다. ICT 채택은 유의미한 긍정적 연관성을 제공하지 않아 H2가 지원되지 않습니다. 문화적 부가가치는 H3 하에서 사전 방향성 없이 테스트되었으며 FMOLS 하에서는 상당한 음의 장기 계수를 갖습니다. 우리는 환경 쿠즈네츠 곡선 이론과 부문별 에너지 전환 이론에 따른 연간 모델을 사용하여 이러한 관계를 조사합니다. 세계 개발 지표(World Development Indicators)로 구성된 녹색 성장 지수(Green Growth Index)가 그 결과입니다. 인구는 에너지 수요 대용, ICT 채택 및 문화적 가치 창출과 함께 유입됩니다. AR(1) 수정이 포함된 일반 최소 제곱 및 일반 최소 제곱은 기본 장기 FMOLS 추정치에 대한 벤치마크를 제공합니다. 소비 중심의 문화 확장은 문화 결과에 대한 가능한 설명을 제공하지만, 집계된 시리즈는 해당 메커니즘을 식별할 수 없습니다. 정책 논의는 중국의 부문별 효율성 규제, 녹색 ICT 적용 및 문화 산업 금융에 대한 시사점을 개발합니다. 다른 아시아 태평양 경제에 대한 적용은 여전히 ​​예시적이며 비교 증거가 필요합니다."
+   "abstract_ko": "개요 에너지 수요에 대한 총계 대용물인 GDP 대비 최종 소비 지출은 2004~2022년 중국의 녹색 성장과 음의 유의미한 연관이 있습니다. 이 관계는 FMOLS(완전 수정 OLS)에서 −1.29의 장기 탄력성을 갖는 사양(H1 지원) 전반에 걸쳐 유지됩니다. ICT 채택은 유의미한 긍정적 연관성을 제공하지 않아 H2가 지원되지 않습니다. 문화적 부가가치는 H3 하에서 사전 방향성 없이 테스트되었으며 FMOLS 하에서는 상당한 음의 장기 계수를 갖습니다. 우리는 환경 쿠즈네츠 곡선 이론과 부문별 에너지 전환 이론에 따른 연간 모델을 사용하여 이러한 관계를 조사합니다. 세계 개발 지표(World Development Indicators)로 구성된 녹색 성장 지수(Green Growth Index)가 그 결과입니다. 인구는 에너지 수요 대용, ICT 채택 및 문화적 가치 창출과 함께 유입됩니다. AR(1) 수정이 포함된 일반 최소 제곱 및 일반 최소 제곱은 기본 장기 FMOLS 추정치에 대한 벤치마크를 제공합니다. 소비 중심의 문화 확장은 문화 결과에 대한 가능한 설명을 제공하지만, 집계된 시리즈는 해당 메커니즘을 식별할 수 없습니다. 정책 논의는 중국의 부문별 효율성 규제, 녹색 ICT 적용 및 문화 산업 금융에 대한 시사점을 개발합니다. 다른 아시아 태평양 경제에 대한 적용은 여전히 ​​예시적이며 비교 증거가 필요합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221480185": {
    "id": "oa:W7221480185",
@@ -114428,9 +114436,11 @@
    "abstract": "ABSTRACT As global power is shifting, international institutions face a challenge: established powers will often request that rising powers no longer continue to benefit from their status as “developing countries”. Yet only a few institutions have formal rules in place to organize this transition. As a result, tracing the informal pathways through which change occurs becomes relevant. In this article, we study one such mechanism in the international climate regime. In that regime, the so‐called Annex I countries agreed “to take the lead” in reducing greenhouse gas emissions while developing countries remained exempt from a similar obligation. Because Annex I was hard to amend, the regime has frequently been said to lack a graduation mechanism. Yet, once we take the interaction between the United Nations Framework Convention on Climate Change (UNFCCC) and its broader institutional environment into account, the process of acceding to the Organization for Economic Co‐operation and Development (OECD) comes into view as an indirect and informal graduation mechanism. We examine the effects and limitations of this mechanism in relation to the accession processes of Mexico (1994), South Korea (1996), and Chile (2010). Our analysis leads to two main results. First, we show that a graduation mechanism based on “linkage as leverage” existed. Second, we sketch three distinct causal pathways that lead to different degrees of graduation in each case. Overall, our study suggests that graduation based on “linkage as leverage” depends on three conditions. First, states needed to activate the mechanism in each case. Second, domestic support was required to sustain graduation. And third, major emitters had to develop an interest in joining a club organization that could exercise leverage.",
    "url": "https://doi.org/10.1111/rego.70214",
    "doi": "10.1111/rego.70214",
-   "pdf": "https://doi.org/10.1111/rego.70214",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rego.70214",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "개요 글로벌 권력이 이동함에 따라 국제 기관은 도전에 직면합니다. 기존 권력은 신흥 세력이 더 이상 \"개발도상국\"으로서의 지위로부터 더 이상 이익을 얻지 못하도록 요구할 것입니다. 그러나 이러한 전환을 조직하기 위한 공식적인 규칙을 갖춘 기관은 소수에 불과합니다. 결과적으로, 변화가 일어나는 비공식 경로를 추적하는 것이 중요해졌습니다. 이 기사에서 우리는 국제 기후 체제에서 그러한 메커니즘 중 하나를 연구합니다. 해당 체제에서 소위 부속서 1 국가들은 온실가스 배출 감소에 \"주도적\"으로 합의한 반면, 개발도상국들은 유사한 의무로부터 면제되었습니다. 부속서 1은 수정하기 어려웠기 때문에 이 정권에는 졸업 메커니즘이 부족하다는 말이 자주 들려왔습니다. 그러나 유엔기후변화협약(UNFCCC)과 보다 폭넓은 제도적 환경 사이의 상호작용을 고려하면, 경제협력개발기구(OECD) 가입 과정은 간접적이고 비공식적인 졸업 메커니즘으로 인식됩니다. 우리는 멕시코(1994), 한국(1996), 칠레(2010)의 가입 과정과 관련하여 이 메커니즘의 효과와 한계를 조사합니다. 우리의 분석은 두 가지 주요 결과로 이어집니다. 첫째, \"지렛대로서의 연결\"에 기반한 졸업 메커니즘이 존재했음을 보여줍니다. 둘째, 우리는 각 경우에 서로 다른 수준의 졸업으로 이어지는 세 가지 뚜렷한 인과 경로를 스케치합니다. 전반적으로, 우리의 연구는 졸업이"
+   "abstract_ko": "개요 글로벌 권력이 이동함에 따라 국제 기관은 도전에 직면합니다. 기존 권력은 신흥 세력이 더 이상 \"개발도상국\"으로서의 지위로부터 더 이상 이익을 얻지 못하도록 요구할 것입니다. 그러나 이러한 전환을 조직하기 위한 공식적인 규칙을 갖춘 기관은 소수에 불과합니다. 결과적으로, 변화가 일어나는 비공식 경로를 추적하는 것이 중요해졌습니다. 이 기사에서 우리는 국제 기후 체제에서 그러한 메커니즘 중 하나를 연구합니다. 해당 체제에서 소위 부속서 1 국가들은 온실가스 배출 감소에 \"주도적\"으로 합의한 반면, 개발도상국들은 유사한 의무로부터 면제되었습니다. 부속서 1은 수정하기 어려웠기 때문에 이 정권에는 졸업 메커니즘이 부족하다는 말이 자주 들려왔습니다. 그러나 유엔기후변화협약(UNFCCC)과 보다 폭넓은 제도적 환경 사이의 상호작용을 고려하면, 경제협력개발기구(OECD) 가입 과정은 간접적이고 비공식적인 졸업 메커니즘으로 인식됩니다. 우리는 멕시코(1994), 한국(1996), 칠레(2010)의 가입 과정과 관련하여 이 메커니즘의 효과와 한계를 조사합니다. 우리의 분석은 두 가지 주요 결과로 이어집니다. 첫째, \"지렛대로서의 연결\"에 기반한 졸업 메커니즘이 존재했음을 보여줍니다. 둘째, 우리는 각 경우에 서로 다른 수준의 졸업으로 이어지는 세 가지 뚜렷한 인과 경로를 스케치합니다. 전반적으로, 우리의 연구는 졸업이",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221457502": {
    "id": "oa:W7221457502",
@@ -114446,9 +114456,11 @@
    "abstract": "ABSTRACT This article introduces the DEU IV dataset , the latest iteration of the Decision‐making in the European Union project. While previous versions focused on the Council of the EU, DEU IV systematically applies the framework to the European Parliament (EP) for the 2019–2024 term. The dataset employs the spatial model of politics to map the latent preferences of political groups, the Commission, and the Council across 113 controversial policy issues. The dataset is constructed using triangulated semi‐structured interviews with 119 policy experts, supplemented by document coding and amendment analysis. By capturing the pre‐negotiation ideal points and the final legislative outcomes, DEU IV reveals the internal mechanics of supranational bargaining and the influence of legislative committees. This paper details the selection criteria for the 31 legislative dossiers analysed, demonstrates the dataset's empirical robustness, and discusses its potential to advance our understanding of how preferences transform into policy within the world's most complex transnational parliament.",
    "url": "https://doi.org/10.1002/epa2.70054",
    "doi": "10.1002/epa2.70054",
-   "pdf": "https://doi.org/10.1002/epa2.70054",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/epa2.70054",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "개요 이 기사에서는 유럽 연합 프로젝트의 최신 의사 결정 버전인 DEU IV 데이터 세트를 소개합니다. 이전 버전은 EU 이사회에 중점을 두었지만 DEU IV는 2019~2024 임기 동안 유럽의회(EP)에 프레임워크를 체계적으로 적용합니다. 데이터 세트는 정치의 공간 모델을 사용하여 논란이 많은 113개 정책 문제에 걸쳐 정치 집단, 위원회, 위원회의 잠재 선호도를 매핑합니다. 데이터 세트는 119명의 정책 전문가와의 삼각측량 반구조적 인터뷰를 사용하여 구성되었으며 문서 코딩 및 수정 분석으로 보완되었습니다. DEU IV는 협상 전 이상적인 지점과 최종 입법 결과를 포착함으로써 초국가적 교섭의 내부 메커니즘과 입법위원회의 영향력을 드러냅니다. 이 문서에서는 분석된 31개의 입법 서류에 대한 선택 기준을 자세히 설명하고, 데이터 세트의 실증적 견고성을 보여 주며, 세계에서 가장 복잡한 초국가적 의회 내에서 선호가 어떻게 정책으로 변환되는지에 대한 이해를 높이는 데 도움이 되는 잠재력에 대해 논의합니다."
+   "abstract_ko": "개요 이 기사에서는 유럽 연합 프로젝트의 최신 의사 결정 버전인 DEU IV 데이터 세트를 소개합니다. 이전 버전은 EU 이사회에 중점을 두었지만 DEU IV는 2019~2024 임기 동안 유럽의회(EP)에 프레임워크를 체계적으로 적용합니다. 데이터 세트는 정치의 공간 모델을 사용하여 논란이 많은 113개 정책 문제에 걸쳐 정치 집단, 위원회, 위원회의 잠재 선호도를 매핑합니다. 데이터 세트는 119명의 정책 전문가와의 삼각측량 반구조적 인터뷰를 사용하여 구성되었으며 문서 코딩 및 수정 분석으로 보완되었습니다. DEU IV는 협상 전 이상적인 지점과 최종 입법 결과를 포착함으로써 초국가적 교섭의 내부 메커니즘과 입법위원회의 영향력을 드러냅니다. 이 문서에서는 분석된 31개의 입법 서류에 대한 선택 기준을 자세히 설명하고, 데이터 세트의 실증적 견고성을 보여 주며, 세계에서 가장 복잡한 초국가적 의회 내에서 선호가 어떻게 정책으로 변환되는지에 대한 이해를 높이는 데 도움이 되는 잠재력에 대해 논의합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221477849": {
    "id": "oa:W7221477849",
@@ -114464,9 +114476,11 @@
    "abstract": "ABSTRACT This paper redefines wicked problems to better include the emotional dimensions in the social construction of these problems. Drawing on research into policy controversies and the cultural politics of emotions, it examines how government leaders use emotional storylines tied to specific objects and thereby shape the contested‐ness of such problems. The study is based on an interpretative analysis of 2381 newspaper articles (2012–2018) and 68 policy documents concerning earthquakes induced by natural gas‐production in the north of the Netherlands. The findings show a shift from emotional storylines about material impacts of the earthquakes to those about distrust in relationships between governmental layers. The study highlights that government leaders must account for evolving emotional dynamics in governing wicked problems, as they add complexity. It underscores the importance of relational dimensions, including interactions between emotions, objects, and different levels of government.",
    "url": "https://doi.org/10.1002/epa2.70055",
    "doi": "10.1002/epa2.70055",
-   "pdf": "https://doi.org/10.1002/epa2.70055",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/epa2.70055",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "개요 이 논문은 이러한 문제의 사회적 구성에 감정적 차원을 더 잘 포함하도록 사악한 문제를 재정의합니다. 정책 논쟁과 감정의 문화 정치에 대한 연구를 바탕으로 정부 지도자들이 특정 대상과 연결된 감정적 스토리 라인을 어떻게 사용하여 그러한 문제의 논쟁을 형성하는지 조사합니다. 이 연구는 네덜란드 북부의 천연가스 생산으로 인한 지진에 관한 2381개의 신문 기사(2012~2018)와 68개의 정책 문서에 대한 해석적 분석을 기반으로 합니다. 연구 결과는 지진의 물질적 영향에 대한 감정적인 스토리라인에서 정부 계층 간의 관계에 대한 불신에 대한 스토리라인으로 전환되었음을 보여줍니다. 이 연구는 정부 지도자들이 복잡한 문제를 관리할 때 진화하는 감정적 역학을 설명해야 한다는 점을 강조합니다. 이는 감정, 대상, 다양한 수준의 정부 간의 상호 작용을 포함하여 관계적 차원의 중요성을 강조합니다."
+   "abstract_ko": "개요 이 논문은 이러한 문제의 사회적 구성에 감정적 차원을 더 잘 포함하도록 사악한 문제를 재정의합니다. 정책 논쟁과 감정의 문화 정치에 대한 연구를 바탕으로 정부 지도자들이 특정 대상과 연결된 감정적 스토리 라인을 어떻게 사용하여 그러한 문제의 논쟁을 형성하는지 조사합니다. 이 연구는 네덜란드 북부의 천연가스 생산으로 인한 지진에 관한 2381개의 신문 기사(2012~2018)와 68개의 정책 문서에 대한 해석적 분석을 기반으로 합니다. 연구 결과는 지진의 물질적 영향에 대한 감정적인 스토리라인에서 정부 계층 간의 관계에 대한 불신에 대한 스토리라인으로 전환되었음을 보여줍니다. 이 연구는 정부 지도자들이 복잡한 문제를 관리할 때 진화하는 감정적 역학을 설명해야 한다는 점을 강조합니다. 이는 감정, 대상, 다양한 수준의 정부 간의 상호 작용을 포함하여 관계적 차원의 중요성을 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221468319": {
    "id": "oa:W7221468319",
@@ -114482,9 +114496,11 @@
    "abstract": "The Re; Minding Histories project demonstrates how shaping research around ‘Big Feelings’ – any emotion a person finds worthy of attention, from grief to joy, offers a methodological resource for co-produced mental health history research. Rather than treating emotions as obstacles to rigorous inquiry, our research team comprising lived experience researchers, academics, and clinicians developed systematic approaches for leveraging emotions as epistemic resources. Through peer-only spaces, structured emotional check-ins during meetings, and narrative interviews that honoured affective dimensions of historical experiences, we created a set of practices such that emotional vulnerability strengthened the research process. These assisted to systematise emotional engagement and valorise the emotional labour inherent in co-production. Despite institutional constraints, our findings demonstrate how emotional authenticity and lived experience can be systematically incorporated to produce knowledge of greater analytical depth and relational understanding. This approach extends co-production scholarship by developing methods of structured emotional engagement that complement competency-building approaches.",
    "url": "https://doi.org/10.1080/13645579.2026.2744294",
    "doi": "10.1080/13645579.2026.2744294",
-   "pdf": "https://doi.org/10.1080/13645579.2026.2744294",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13645579.2026.2744294?needAccess=true",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "거기; Minding Histories 프로젝트는 슬픔에서 기쁨에 이르기까지 사람이 주목할 가치가 있다고 생각하는 모든 감정인 '큰 감정'에 대한 연구를 형성하는 것이 공동 제작된 정신 건강 역사 연구를 위한 방법론적 자원을 제공하는 방법을 보여줍니다. 감정을 엄격한 탐구에 대한 장애물로 취급하는 대신, 실제 경험 연구자, 학자 및 임상의로 구성된 우리 연구팀은 감정을 인식적 자원으로 활용하기 위한 체계적인 접근 방식을 개발했습니다. 동료 전용 공간, 회의 중 구조화된 감정 확인, 역사적 경험의 정서적 차원을 존중하는 내러티브 인터뷰를 통해 우리는 정서적 취약성이 연구 과정을 강화하는 일련의 관행을 만들었습니다. 이는 정서적 참여를 체계화하고 공동제작에 내재된 정서적 노동의 가치를 높이는 데 도움이 되었습니다. 제도적 제약에도 불구하고 우리의 연구 결과는 정서적 진정성과 실제 경험을 체계적으로 통합하여 더 큰 분석적 깊이와 관계적 이해에 대한 지식을 생성할 수 있는 방법을 보여줍니다. 이 접근 방식은 역량 구축 접근 방식을 보완하는 구조화된 정서적 참여 방법을 개발하여 공동 제작 분야를 확장합니다."
+   "abstract_ko": "거기; Minding Histories 프로젝트는 슬픔에서 기쁨에 이르기까지 사람이 주목할 가치가 있다고 생각하는 모든 감정인 '큰 감정'에 대한 연구를 형성하는 것이 공동 제작된 정신 건강 역사 연구를 위한 방법론적 자원을 제공하는 방법을 보여줍니다. 감정을 엄격한 탐구에 대한 장애물로 취급하는 대신, 실제 경험 연구자, 학자 및 임상의로 구성된 우리 연구팀은 감정을 인식적 자원으로 활용하기 위한 체계적인 접근 방식을 개발했습니다. 동료 전용 공간, 회의 중 구조화된 감정 확인, 역사적 경험의 정서적 차원을 존중하는 내러티브 인터뷰를 통해 우리는 정서적 취약성이 연구 과정을 강화하는 일련의 관행을 만들었습니다. 이는 정서적 참여를 체계화하고 공동제작에 내재된 정서적 노동의 가치를 높이는 데 도움이 되었습니다. 제도적 제약에도 불구하고 우리의 연구 결과는 정서적 진정성과 실제 경험을 체계적으로 통합하여 더 큰 분석적 깊이와 관계적 이해에 대한 지식을 생성할 수 있는 방법을 보여줍니다. 이 접근 방식은 역량 구축 접근 방식을 보완하는 구조화된 정서적 참여 방법을 개발하여 공동 제작 분야를 확장합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221461636": {
    "id": "oa:W7221461636",
@@ -114503,7 +114519,9 @@
    "url": "https://doi.org/10.1007/s10614-026-11449-x",
    "doi": "10.1007/s10614-026-11449-x",
    "pdf": "",
-   "first_seen": "2026-10-13T12:06:03+09:00"
+   "first_seen": "2026-10-13T12:06:03+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221437898": {
    "id": "oa:W7221437898",
@@ -114520,7 +114538,9 @@
    "doi": "10.1177/08944393261493946",
    "pdf": "",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "본 연구에서는 참여자들이 멕시코 이민자 캐릭터를 제작하고 이를 미국으로 귀화시키는 과정을 거치는 컴퓨터 기반 롤플레잉 게임이 신뢰 증진에 활용될 수 있는지 살펴보았다. 대조군을 대상으로 한 사후 테스트 전용 실험은 2024년 가을에 수행되었습니다(N = 98). 결과는 게임을 플레이한 참가자들이 통제 조건에 비해 일반적으로 이민자들에 대한 신뢰도가 상당히 높았으며 특히 멕시코, 중남미, 인도, 중국, 중동 출신의 사람들에 대한 신뢰도가 훨씬 더 높았다는 것을 보여줍니다. 게임 기반 설정에서 캐릭터에 대한 준사회적 연결은 멕시코 출신 이민자를 신뢰하는 데 있어 롤플레잉의 효과를 강화했습니다. 롤플레잉 참가자 중 절반은 매개 간접 접촉의 형태로 외그룹 대표의 감사 영상도 시청했습니다. 비디오 조건은 멕시코 이민자 신뢰를 예측하는 데 있어 역할 연기와 캐릭터에 대한 준사회적 연결 감지 사이의 상호 작용을 유도하는 것으로 나타났습니다. 결과는 롤플레잉 게임이 대면 상호작용에 어려움을 겪을 수 있는 그룹 간의 신뢰를 조성할 수 있는 가능성과 함께 높은 준사회적 연결 수준에서 중재된 간접 접촉의 추가 효과를 보여줍니다."
+   "abstract_ko": "본 연구에서는 참여자들이 멕시코 이민자 캐릭터를 제작하고 이를 미국으로 귀화시키는 과정을 거치는 컴퓨터 기반 롤플레잉 게임이 신뢰 증진에 활용될 수 있는지 살펴보았다. 대조군을 대상으로 한 사후 테스트 전용 실험은 2024년 가을에 수행되었습니다(N = 98). 결과는 게임을 플레이한 참가자들이 통제 조건에 비해 일반적으로 이민자들에 대한 신뢰도가 상당히 높았으며 특히 멕시코, 중남미, 인도, 중국, 중동 출신의 사람들에 대한 신뢰도가 훨씬 더 높았다는 것을 보여줍니다. 게임 기반 설정에서 캐릭터에 대한 준사회적 연결은 멕시코 출신 이민자를 신뢰하는 데 있어 롤플레잉의 효과를 강화했습니다. 롤플레잉 참가자 중 절반은 매개 간접 접촉의 형태로 외그룹 대표의 감사 영상도 시청했습니다. 비디오 조건은 멕시코 이민자 신뢰를 예측하는 데 있어 역할 연기와 캐릭터에 대한 준사회적 연결 감지 사이의 상호 작용을 유도하는 것으로 나타났습니다. 결과는 롤플레잉 게임이 대면 상호작용에 어려움을 겪을 수 있는 그룹 간의 신뢰를 조성할 수 있는 가능성과 함께 높은 준사회적 연결 수준에서 중재된 간접 접촉의 추가 효과를 보여줍니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221459374": {
    "id": "oa:W7221459374",
@@ -114539,7 +114559,9 @@
    "doi": "10.1145/3857353",
    "pdf": "",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "이기종 도메인 전반에 걸쳐 사용자 의도를 모델링하는 것은 CDSR(교차 도메인 순차 추천)의 핵심 과제로 남아 있습니다. 교차 도메인 시퀀스에는 여러 도메인을 횡단하는 보다 풍부한 행동 단서가 자연스럽게 포함되어 있지만 기존 접근 방식은 종종 단일 도메인 상호 작용의 독특한 효과를 분리하는 데 어려움을 겪습니다. 이러한 한계를 해결하기 위해 이 연구에서는 사용자 선호도를 도메인별 표현, 도메인 공통 표현, 교차 시퀀스 배타적 표현의 세 가지 직교 구성 요소로 명시적으로 분해하는 새로운 사용자 모델링 프레임워크를 제안합니다. 제안된 방법은 트리플 인코더 아키텍처를 사용하며, 각 인코더는 이러한 선호 유형 중 하나를 캡처하도록 특화됩니다. 이는 균형 잡힌 분리를 촉진하기 위해 그라디언트 반전 레이어를 사용한 도메인 마스킹 목표와 적대적 학습을 통해 달성됩니다. 또한 표현적 정렬과 상호 독립성을 공동으로 시행하여 구성 요소 간의 깔끔한 분리를 달성합니다. 시간적 적응성을 더욱 향상시키기 위해 동적 게이팅 메커니즘이 통합되어 모든 단계에서 각 기본 설정 유형의 상대적 영향을 조절하여 통합된 세션 수준 표현으로 마무리됩니다. 두 개의 대규모 실제 벤치마크에서 수행된 광범위한 실험은 제안된 접근 방식이 추천 정확도를 향상시킬 뿐만 아니라 도메인별 선호도 신호와 도메인 간 선호도 신호 간의 상호 작용에 대한 해석 가능한 통찰력을 제공한다는 것을 확인했습니다."
+   "abstract_ko": "이기종 도메인 전반에 걸쳐 사용자 의도를 모델링하는 것은 CDSR(교차 도메인 순차 추천)의 핵심 과제로 남아 있습니다. 교차 도메인 시퀀스에는 여러 도메인을 횡단하는 보다 풍부한 행동 단서가 자연스럽게 포함되어 있지만 기존 접근 방식은 종종 단일 도메인 상호 작용의 독특한 효과를 분리하는 데 어려움을 겪습니다. 이러한 한계를 해결하기 위해 이 연구에서는 사용자 선호도를 도메인별 표현, 도메인 공통 표현, 교차 시퀀스 배타적 표현의 세 가지 직교 구성 요소로 명시적으로 분해하는 새로운 사용자 모델링 프레임워크를 제안합니다. 제안된 방법은 트리플 인코더 아키텍처를 사용하며, 각 인코더는 이러한 선호 유형 중 하나를 캡처하도록 특화됩니다. 이는 균형 잡힌 분리를 촉진하기 위해 그라디언트 반전 레이어를 사용한 도메인 마스킹 목표와 적대적 학습을 통해 달성됩니다. 또한 표현적 정렬과 상호 독립성을 공동으로 시행하여 구성 요소 간의 깔끔한 분리를 달성합니다. 시간적 적응성을 더욱 향상시키기 위해 동적 게이팅 메커니즘이 통합되어 모든 단계에서 각 기본 설정 유형의 상대적 영향을 조절하여 통합된 세션 수준 표현으로 마무리됩니다. 두 개의 대규모 실제 벤치마크에서 수행된 광범위한 실험은 제안된 접근 방식이 추천 정확도를 향상시킬 뿐만 아니라 도메인별 선호도 신호와 도메인 간 선호도 신호 간의 상호 작용에 대한 해석 가능한 통찰력을 제공한다는 것을 확인했습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221476832": {
    "id": "oa:W7221476832",
@@ -114559,7 +114581,9 @@
    "doi": "10.1145/3856820",
    "pdf": "",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "시공간 데이터의 이상 현상을 설명하려면 통계적 편차를 식별하는 것 이상이 필요합니다. 사건을 공간적, 시간적, 사회적 맥락과 연관시키는 일관된 내러티브를 요구하는 경우가 많습니다. 이상 현상이 공공 사건, 행동 변화 또는 환경적 요인을 반영할 수 있는 도시 환경에서는 해석 가능한 상황별 설명이 부족하여 자동 분석의 효율성이 제한됩니다. 우리는 시공간적 변칙적 설명을 컴퓨터 스토리텔링으로 재구성하고 도시 공간의 그래프 기반 표현, 조정된 시각적 분석 및 대규모 언어 모델(LLM)을 통합하여 근거 있고 사람이 읽을 수 있는 내러티브 설명의 구성을 지원하는 대화형 프레임워크인 GroundSTory를 제시합니다. 변칙은 내러티브 앵커 역할을 하는 반면, 그래프 가이드에서 파생된 지역화된 공간적, 시간적 관계와 맥락 신호는 내러티브 생성을 제한합니다. LLM은 분석가가 시각적 상호 작용을 통해 검사, 비교 및 ​​검증할 수 있는 그럴듯하고 증거가 뒷받침된 가설을 제안하는 내러티브 보조자 역할을 합니다. 우리는 상파울루와 뉴욕시의 실제 도시 데이터세트에 대한 질적 사용 시나리오를 통해 접근 방식을 설명하고 대화형 내러티브가 감지된 변칙 사항과 휴일, 대규모 행사, 일상적인 활동 패턴과 같은 상황적 요인 사이의 의미 있는 연결을 어떻게 표면화하는지 보여줍니다. 즉각적인 분석은 구조화된 그래프 기반 컨텍스트가 안정성과 인지된 품질에 영향을 미치는 경향이 있음을 추가로 시사합니다."
+   "abstract_ko": "시공간 데이터의 이상 현상을 설명하려면 통계적 편차를 식별하는 것 이상이 필요합니다. 사건을 공간적, 시간적, 사회적 맥락과 연관시키는 일관된 내러티브를 요구하는 경우가 많습니다. 이상 현상이 공공 사건, 행동 변화 또는 환경적 요인을 반영할 수 있는 도시 환경에서는 해석 가능한 상황별 설명이 부족하여 자동 분석의 효율성이 제한됩니다. 우리는 시공간적 변칙적 설명을 컴퓨터 스토리텔링으로 재구성하고 도시 공간의 그래프 기반 표현, 조정된 시각적 분석 및 대규모 언어 모델(LLM)을 통합하여 근거 있고 사람이 읽을 수 있는 내러티브 설명의 구성을 지원하는 대화형 프레임워크인 GroundSTory를 제시합니다. 변칙은 내러티브 앵커 역할을 하는 반면, 그래프 가이드에서 파생된 지역화된 공간적, 시간적 관계와 맥락 신호는 내러티브 생성을 제한합니다. LLM은 분석가가 시각적 상호 작용을 통해 검사, 비교 및 ​​검증할 수 있는 그럴듯하고 증거가 뒷받침된 가설을 제안하는 내러티브 보조자 역할을 합니다. 우리는 상파울루와 뉴욕시의 실제 도시 데이터세트에 대한 질적 사용 시나리오를 통해 접근 방식을 설명하고 대화형 내러티브가 감지된 변칙 사항과 휴일, 대규모 행사, 일상적인 활동 패턴과 같은 상황적 요인 사이의 의미 있는 연결을 어떻게 표면화하는지 보여줍니다. 즉각적인 분석은 구조화된 그래프 기반 컨텍스트가 안정성과 인지된 품질에 영향을 미치는 경향이 있음을 추가로 시사합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221450442": {
    "id": "oa:W7221450442",
@@ -114577,7 +114601,9 @@
    "doi": "10.1016/j.telpol.2026.103335",
    "pdf": "https://doi.org/10.1016/j.telpol.2026.103335",
    "first_seen": "2026-10-13T12:06:03+09:00",
-   "abstract_ko": "이 문서에서는 \"발신자 측 네트워크 비용\" 규정이 고용량 네트워크에 대한 투자 부족 문제를 해결하고 유럽 통신 부문의 경쟁력을 강화할 것인지에 대해 유럽 연합에서 진행 중인 논쟁을 다루고 있습니다. 운영자들은 대규모 콘텐츠 제공업체가 인프라를 무임으로 이용하고 전달 비용의 \"공정한 몫\"을 기여해야 한다고 주장하지만, 정책 논의에서는 그러한 몫을 어떻게 정의해야 하는지 거의 명시하지 않습니다. 협력적인 게임 이론 프레임워크를 사용하여 Shapley 값을 적용하여 이러한 공정성 개념을 공식화합니다. 이 모델은 사업자와 콘텐츠 제공자가 트래픽 관련 비용을 균등하게 나누어야 하며 소비자는 직접적인 부담을 지지 않아야 함을 보여줍니다. 경쟁 환경에서 운영자 측은 시장 점유율에 비례하여 점유율을 나누고, 운영자가 대칭인 경우에도 동일하게 분배합니다. 할당은 관찰 가능한 비용 매개변수에만 의존하기 때문에 프레임워크를 구현하는 것은 간단합니다. 그러한 규칙을 시장 인센티브에 통합하면 균형이 사회적 최적에 더 가깝게 이동하여 인프라 투자가 늘어나고 소비자 잉여와 전반적인 복지가 향상됩니다."
+   "abstract_ko": "이 문서에서는 \"발신자 측 네트워크 비용\" 규정이 고용량 네트워크에 대한 투자 부족 문제를 해결하고 유럽 통신 부문의 경쟁력을 강화할 것인지에 대해 유럽 연합에서 진행 중인 논쟁을 다루고 있습니다. 운영자들은 대규모 콘텐츠 제공업체가 인프라를 무임으로 이용하고 전달 비용의 \"공정한 몫\"을 기여해야 한다고 주장하지만, 정책 논의에서는 그러한 몫을 어떻게 정의해야 하는지 거의 명시하지 않습니다. 협력적인 게임 이론 프레임워크를 사용하여 Shapley 값을 적용하여 이러한 공정성 개념을 공식화합니다. 이 모델은 사업자와 콘텐츠 제공자가 트래픽 관련 비용을 균등하게 나누어야 하며 소비자는 직접적인 부담을 지지 않아야 함을 보여줍니다. 경쟁 환경에서 운영자 측은 시장 점유율에 비례하여 점유율을 나누고, 운영자가 대칭인 경우에도 동일하게 분배합니다. 할당은 관찰 가능한 비용 매개변수에만 의존하기 때문에 프레임워크를 구현하는 것은 간단합니다. 그러한 규칙을 시장 인센티브에 통합하면 균형이 사회적 최적에 더 가깝게 이동하여 인프라 투자가 늘어나고 소비자 잉여와 전반적인 복지가 향상됩니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221468189": {
    "id": "oa:W7221468189",
@@ -114589,11 +114615,14 @@
    ],
    "journal": "Information Communication & Society",
    "date": "2026-10-11",
-   "abstract": "",
+   "abstract": "This study investigates degrees of polarization in political climate protest debates on TikTok. Drawing on a dataset of automatically transcribed TikTok videos posted by German politicians between 2022 and 2025 (N ≈ 1,700), alongside associated user comments (N ≈ 53,000), this study compares discussions on general climate activism, reformist activism (Fridays for Future), and disruptive activism (Letzte Generation). Using a mixed-method approach that combines Large Language Model-based frame classification, stance detection, and network analysis, this study operationalizes Discursive Polarization across ideological, affective, and interactional dimensions. Findings reveal that while all protest debates on TikTok are polarized, disruptive protests are associated with particularly intense attacks and less attention to policy-oriented climate discussions. However, conservative and far-right politicians consistently frame all activist groups as extremists, criminals, or threats to public order, with far-right accounts dominating content production and audience support. Network analyses demonstrate that far-right politicians and their supporters form highly connected clusters in which both emotionally positive and hostile user engagement amplifies elite-level antagonism. Even moderate posts by center-left or progressive politicians attract disproportionate backlash, suggesting asymmetric polarization dynamics linked to partisan user networks. Overall, the study shows that political TikTok debates around climate protest are consistently polarized along ideological lines, but that greater disruptiveness coincides with more intense antagonistic engagement and weaker Connective Action among supporters. Most crucially, far-right politicians emerge as the clear beneficiaries of this polarization, occupying central positions in antagonist networks of Connective Counteraction and dominating the debate through disruption.",
    "url": "https://doi.org/10.1080/1369118x.2026.2737399",
    "doi": "10.1080/1369118x.2026.2737399",
-   "pdf": "https://doi.org/10.1080/1369118x.2026.2737399",
-   "first_seen": "2026-10-13T12:06:03+09:00"
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2026.2737399?needAccess=true",
+   "first_seen": "2026-10-13T12:06:03+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0,
+   "abstract_ko": "이 연구는 TikTok에 대한 정치적 기후 항의 논쟁의 양극화 정도를 조사합니다. 2022년부터 2025년 사이에 독일 정치인이 게시한 자동으로 기록된 TikTok 비디오의 데이터 세트(N ≒ 1,700)와 관련 사용자 댓글(N ≒ 53,000)을 바탕으로 이 연구는 일반적인 기후 운동, 개혁주의 운동(Fridays for Future) 및 파괴적인 운동(Letzte Generation)에 대한 토론을 비교합니다. 본 연구는 대형 언어 모델 기반 프레임 분류, 자세 감지 및 네트워크 분석을 결합한 혼합 방법 접근 방식을 사용하여 이념적, 정서적 및 상호 작용 차원에 걸쳐 담론적 양극화를 운용합니다. 연구 결과에 따르면 TikTok에 대한 모든 항의 토론은 양극화되어 있지만 파괴적인 항의는 특히 강렬한 공격과 관련이 있으며 정책 중심의 기후 토론에 대한 관심이 적습니다. 그러나 보수 및 극우 정치인들은 지속적으로 모든 활동가 그룹을 극단주의자, 범죄자 또는 공공 질서에 대한 위협으로 규정하고 극우 계정이 콘텐츠 제작 및 청중 지원을 지배합니다. 네트워크 분석에 따르면 극우 정치인과 그 지지자들은 감정적으로 긍정적이고 적대적인 사용자 참여가 모두 엘리트 수준의 적대감을 증폭시키는 고도로 연결된 클러스터를 형성하는 것으로 나타났습니다. 중도좌파나 진보 정치인의 온건한 게시물조차도 불균형한 반발을 불러일으키며, 이는 당파적 사용자 네트워크와 연결된 비대칭 양극화 역학을 암시합니다. 전반적으로, 이 연구는 정치가"
   },
   "oa:W7221457433": {
    "id": "oa:W7221457433",
@@ -114610,7 +114639,703 @@
    "url": "https://doi.org/10.1016/j.tele.2026.102472",
    "doi": "10.1016/j.tele.2026.102472",
    "pdf": "",
-   "first_seen": "2026-10-13T12:06:03+09:00"
+   "first_seen": "2026-10-13T12:06:03+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
+  },
+  "oa:W7171274222": {
+   "id": "oa:W7171274222",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Elite welfare and the good fortune of just being there",
+   "authors": [
+    "G.J. Fooks",
+    "Killian Mullan",
+    "T. Mills",
+    "David Yates",
+    "Jennifer Willmott"
+   ],
+   "journal": "Journal of Social Policy",
+   "date": "2026-10-12",
+   "abstract": "Abstract This paper examines how senior executives at the UK’s largest publicly listed companies financially benefited from the Coronavirus Job Retention Scheme (CJRS), and seeks to explain this phenomenon with the concept of elite welfare . Using a difference-in-differences research design, we analyse the impact of participation in the CJRS on executive remuneration between 2019 and 2023. Drawing on a sample of Financial Times Stock Exchange (FTSE) 350 firms ( n = 246), we find that receipt of furlough support in 2020 was associated with significant increases in chief executive officer (CEO) performance pay and total remuneration in the immediate post-pandemic year. We interpret these results through a new analytical approach that understands elite income derived from rent-extraction facilitated by public policy or expenditure as a form of welfare. Unlike conventional welfare, which typically comprises relatively modest payments and concessions to broad sections of the population, elite welfare accrues to a small minority in privileged positions, taking the form of extractions of rent arising through opportunities created by government policy. We argue that recognising elite welfare as a parallel welfare system – largely insulated from competitive constraint and market discipline – provides a valuable new perspective on the interdependencies between inequality, public policy and the redistributive logics of the modern state.",
+   "url": "https://doi.org/10.1017/s004727942610169x",
+   "doi": "10.1017/s004727942610169x",
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/62B49E07F99782FD0B79A5B846B27805/S004727942610169Xa.pdf/div-class-title-elite-welfare-and-the-good-fortune-of-just-being-there-div.pdf",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 본 논문에서는 영국 최대 상장기업의 고위 임원들이 CJRS(Coronavirus Job Retention Scheme)를 통해 어떻게 재정적 혜택을 받았는지 살펴보고, 이러한 현상을 엘리트 복지의 개념으로 설명하려고 합니다. 차이 차이 연구 설계를 사용하여 2019년부터 2023년까지 CJRS 참여가 임원 보수에 미치는 영향을 분석합니다. 파이낸셜 타임스 증권 거래소(FTSE) 350개 기업(n = 246)의 샘플을 바탕으로 2020년에 휴가 지원을 받은 것이 팬데믹 직후 연도의 최고 경영자(CEO) 성과 급여 및 총 보수의 상당한 증가와 관련이 있음을 발견했습니다. 우리는 이러한 결과를 공공 정책에 의해 촉진된 임대료 추출이나 지출에서 파생된 엘리트 소득을 복지의 한 형태로 이해하는 새로운 분석적 접근 방식을 통해 해석합니다. 일반적으로 광범위한 인구 집단에 대해 상대적으로 적은 금액의 지불과 양보로 구성되는 기존 복지와 달리 엘리트 복지는 특권적인 위치에 있는 소수에게 발생하며 정부 정책에 의해 창출된 기회를 통해 발생하는 임대료 추출의 형태를 취합니다. 우리는 엘리트 복지를 경쟁적 제약과 시장 규율로부터 대체로 분리된 평행 복지 시스템으로 인식하는 것이 불평등, 공공 정책, 현대 국가의 재분배 논리 간의 상호의존성에 대한 가치 있고 새로운 관점을 제공한다고 주장합니다."
+  },
+  "oa:W7221503809": {
+   "id": "oa:W7221503809",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Organizational Antecedents of Restricted Funding in UK Charities",
+   "authors": [
+    "Jiahuan Lu",
+    "Yongkang Wang",
+    "Jianzhi Zhao"
+   ],
+   "journal": "VOLUNTAS International Journal of Voluntary and Nonprofit Organizations",
+   "date": "2026-10-12",
+   "abstract": "Abstract Restricted funding has become a notable feature of the nonprofit sector in many countries. While its organizational outcomes are widely debated, we know less about why some nonprofits face higher levels of restriction than others. This study examines organizational antecedents using agency and signaling perspectives, asking how nonprofits’ observable financial and organizational features shape their level of restricted funding. Drawing on panel data for charities in England and Wales (2007–2023), we find that higher financial reserves are associated with lower levels of restricted funding, whereas greater service-area breadth and wider beneficiary breadth are associated with higher restriction levels. Administrative cost ratios are not a significant predictor. These findings provide new insights into restricted funding dynamics and offer practical implications for nonprofits seeking to navigate funding constraints.",
+   "url": "https://doi.org/10.1017/s0957876526000896",
+   "doi": "10.1017/s0957876526000896",
+   "pdf": "https://doi.org/10.1017/s0957876526000896",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 제한된 자금 지원은 많은 국가에서 비영리 부문의 주목할만한 특징이 되었습니다. 조직적 성과는 널리 논의되고 있지만 일부 비영리단체가 다른 비영리단체보다 더 높은 수준의 제한을 받는 이유에 대해서는 알려진 바가 없습니다. 이 연구는 기관 및 신호 관점을 사용하여 조직의 선행 사례를 조사하고 비영리 단체의 관찰 가능한 재정적 및 조직적 특징이 제한된 자금 수준을 어떻게 형성하는지 묻습니다. 잉글랜드와 웨일스의 자선단체에 대한 패널 데이터(2007~2023)를 바탕으로 우리는 더 높은 금융 준비금이 더 낮은 수준의 자금 제한과 연관되어 있는 반면, 더 넓은 서비스 지역과 더 넓은 수혜자의 범위는 더 높은 제한 수준과 연관되어 있음을 발견했습니다. 관리 비용 비율은 중요한 예측 변수가 아닙니다. 이러한 결과는 제한된 자금 역학에 대한 새로운 통찰력을 제공하고 자금 제약을 헤쳐나가려는 비영리 단체에 실질적인 의미를 제공합니다."
+  },
+  "oa:W7221512845": {
+   "id": "oa:W7221512845",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Bounded by culture: rationality, leadership, and the “metric vacuum” in the Brazilian justice system",
+   "authors": [
+    "Marina Brazil Bonani",
+    "Bernardo Oliveira Buta",
+    "Benjamin Miranda Tabak"
+   ],
+   "journal": "International Review of Public Administration",
+   "date": "2026-10-12",
+   "abstract": "While Behavioral Public Administration has extensively documented cognitive biases in Western contexts, the interplay between individual rationality and institutional culture in the Global South remains underexplored. This study investigates decision-making mechanisms among 21 senior managers within the Brazilian Justice System. Adopting a qualitative exploratory design with investigator triangulation, we mapped the cognitive and structural barriers to rationality. Contrary to the technocratic ideal, our findings reveal a ‘rationality decoupling’: while managers rhetorically value evidence-based practice, their actual decisions are dominated by status quo bias and a ‘culture of personalization.’ We identify systemic absence of formal metrics to assess decision quality, creating an accountability gap where intuition overrides data. The study concludes that ‘soft skills’ act as necessary compensatory mechanisms for structural inefficiencies. These results suggest that behavioral interventions in the justice sector must be preceded by ‘institutional boosts’ – specifically, the establishment of minimum viable decision protocols – before nudges can be effective.",
+   "url": "https://doi.org/10.1080/12294659.2026.2743982",
+   "doi": "10.1080/12294659.2026.2743982",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "행동 공공 행정은 서구적 맥락에서 인지적 편향을 광범위하게 문서화했지만, 남반부의 개인 합리성과 제도적 문화 사이의 상호 작용은 여전히 ​​과소 탐구되어 있습니다. 이 연구는 브라질 사법 시스템 내 21명의 고위 관리자 간의 의사 결정 메커니즘을 조사합니다. 조사자 삼각 측량을 통한 질적 탐색 설계를 채택하여 합리성에 대한 인지적 및 구조적 장벽을 매핑했습니다. 기술주의적 이상과는 반대로, 우리의 연구 결과는 '합리성 분리'를 드러냅니다. 관리자는 수사적으로는 증거 기반 관행을 중요시하지만 실제 결정은 현상 유지 편견과 '개인화 문화'에 의해 지배됩니다. 우리는 의사 결정 품질을 평가하기 위한 공식적인 측정 기준이 체계적으로 부재하여 직관이 데이터보다 우선하는 책임 격차를 만듭니다. 이 연구는 '소프트 스킬'이 구조적 비효율성에 대한 필수 보상 메커니즘으로 작용한다는 결론을 내렸습니다. 이러한 결과는 넛지가 효과적이기 전에 사법 부문의 행동 개입에 앞서 '제도적 강화', 특히 최소 실행 가능한 결정 프로토콜의 확립이 선행되어야 함을 시사합니다."
+  },
+  "oa:W7221523204": {
+   "id": "oa:W7221523204",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Political trust and inheritance taxation: evidence from four studies",
+   "authors": [
+    "Daniel Devine",
+    "Carmen Rosalina Antonia van Alebeek"
+   ],
+   "journal": "Journal of European Public Policy",
+   "date": "2026-10-12",
+   "abstract": "Inheritance (estate) taxation is a potentially powerful instrument for reducing inequality and raising state revenues, yet it attracts opposition well beyond the small minority who will ever pay it. We argue that political trust helps explain who supports it. Because the tax is levied episodically and reaches few citizens directly, most individuals have little experience of its workings: knowledge is low, beliefs about its incidence are often mistaken, and preferences are unsettled. Citizens are therefore poorly placed to judge whether the tax will be implemented as intended or achieve its purposes, and political trust may consequently shape their willingness to accept that uncertainty. Across four complementary studies – an 11-country panel, an embedded survey experiment, the British Election Study panel, and voting behaviour in a 2015 Swiss referendum – we show that higher political trust is consistently associated with greater support for inheritance taxation across several alternative measures. Our findings thus identify public political trust as a constraint on the political feasibility of wealth taxation and extend research on political trust to support for a specific and contested tax instrument.",
+   "url": "https://doi.org/10.1080/13501763.2026.2746014",
+   "doi": "10.1080/13501763.2026.2746014",
+   "pdf": "https://doi.org/10.1080/13501763.2026.2746014",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "상속(부동산) 과세는 불평등을 줄이고 주 수입을 늘리기 위한 잠재적으로 강력한 도구이지만 이를 지불할 소수를 훨씬 넘어서는 반대를 불러일으킵니다. 우리는 정치적 신뢰가 누가 그것을 지지하는지 설명하는 데 도움이 된다고 주장합니다. 세금은 일시적으로 부과되고 소수의 시민에게 직접 적용되기 때문에 대부분의 개인은 세금에 대한 경험이 거의 없습니다. 지식이 부족하고, 세금 발생에 대한 믿음이 잘못된 경우가 많으며, 선호도가 불안정합니다. 따라서 시민들은 세금이 의도한 대로 시행될지 또는 그 목적을 달성할지 여부를 판단하기 어려운 위치에 있으며, 결과적으로 정치적 신뢰는 그러한 불확실성을 수용하려는 의지를 형성할 수 있습니다. 11개국 패널, 내장된 조사 실험, 영국 선거 연구 패널, 2015년 스위스 국민투표 투표 행위 등 4가지 보완 연구를 통해 우리는 정치적 신뢰가 높을수록 여러 대안 조치에 걸쳐 상속세에 대한 지지가 높아지는 것과 지속적으로 연관되어 있음을 보여줍니다. 따라서 우리의 연구 결과는 공공의 정치적 신뢰가 부유세의 정치적 타당성에 대한 제약임을 확인하고 정치적 신뢰에 대한 연구를 확장하여 특정하고 논쟁의 여지가 있는 조세 수단을 지원합니다."
+  },
+  "oa:W7221526893": {
+   "id": "oa:W7221526893",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Explaining the implementation of social impact bonds in Hong Kong through advocacy coalition change",
+   "authors": [
+    "Chee Hon Chan",
+    "Chun Pui Isaac Wong"
+   ],
+   "journal": "Journal of Social Policy",
+   "date": "2026-10-12",
+   "abstract": "Abstract This study examined the factors influencing the process underlying the implementation of social impact bonds (SIBs). While early research primarily emphasised the technical challenges, limited recent research has suggested that political and historical factors also influence a region’s SIB development. This paper augments the SIB literature by documenting an empirical case of SIB development in Hong Kong. Using the advocacy coalition framework, we uncovered that SIB’s development involved tension and contestation between two competing coalitions driving the discourse and how discreet coordination among the dominant coalition opposing the SIB agenda helped constrain the development. The findings underscore that a region’s SIB development likely involves power dynamics between opposing actors favouring and resisting the idea. The conceptual fluidity of SIBs enables actors to narrate what SIBs per se represent and to pursue their own coalition’s agendas.",
+   "url": "https://doi.org/10.1017/s004727942610172x",
+   "doi": "10.1017/s004727942610172x",
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D7EBE2D42BC3FEDA6CF9B201968F83A3/S004727942610172Xa.pdf/div-class-title-explaining-the-implementation-of-social-impact-bonds-in-hong-kong-through-advocacy-coalition-change-div.pdf",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 본 연구에서는 SIB(Social Impact Bond) 도입 과정에 영향을 미치는 요인을 살펴보았습니다. 초기 연구에서는 주로 기술적 과제를 강조했지만, 최근의 제한된 연구에서는 정치적, 역사적 요인도 지역의 SIB 개발에 영향을 미치는 것으로 나타났습니다. 본 논문은 홍콩의 SIB 개발 실증 사례를 문서화하여 SIB 문헌을 보강합니다. 옹호 연합 프레임워크를 사용하여 우리는 SIB의 발전에 담론을 주도하는 두 경쟁 연합 간의 긴장과 논쟁이 포함되어 있으며 SIB 의제에 반대하는 지배적 연합 간의 신중한 조정이 발전을 제한하는 데 어떻게 도움이 되었는지 밝혀냈습니다. 연구 결과는 한 지역의 SIB 개발이 해당 아이디어를 선호하는 반대 행위자 간의 권력 역학과 관련될 가능성이 높다는 점을 강조합니다. SIB의 개념적 유동성을 통해 행위자는 SIB 자체가 무엇을 나타내는지 설명하고 자신의 연합의 의제를 추구할 수 있습니다."
+  },
+  "oa:W7221528082": {
+   "id": "oa:W7221528082",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The return of the ‘positive state’? Capacity-building for the protection of critical national infrastructures across Europe",
+   "authors": [
+    "Andreas Kruck",
+    "Lorenz Sommer"
+   ],
+   "journal": "Journal of European Public Policy",
+   "date": "2026-10-12",
+   "abstract": "Critical national infrastructures (CNIs) have come to be viewed as vital security issues across Europe. Yet, European states’ approaches to the protection of CNIs have been far from uniform. When do states engage in state capacity-building to protect CNIs against increasing security challenges? To answer this question, we draw on theories of (European) security policymaking, which highlight different types of security challenges, as well as historical institutionalist approaches, which expect state capacity-building to be contingent on ideational-institutional legacies. A mapping of more than 30 European states’ capacity-building efforts in the telecommunication and energy sectors lends strong support to the former, whereas we find no conclusive evidence for the latter. This underlines the explanatory power of types of security challenges but sheds doubts on expectations that ideational-institutional legacies are a powerful predictor of cross-country patterns of security policymaking reform. Moreover, to show how the type of security challenge matters, we trace, in an in-depth case study of French reforms in energy governance, the political economy mechanism whereby concentrated threats lead to state capacity-building to protect CNIs. Our findings contribute to research on the geopoliticization of CNIs and the instruments of European security policymaking.",
+   "url": "https://doi.org/10.1080/13501763.2026.2746008",
+   "doi": "10.1080/13501763.2026.2746008",
+   "pdf": "https://doi.org/10.1080/13501763.2026.2746008",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "중요국가기반시설(CNI)은 유럽 전역에서 중요한 안보 문제로 간주되었습니다. 그러나 CNI 보호에 대한 유럽 국가의 접근 방식은 균일하지 않았습니다. 증가하는 보안 문제로부터 CNI를 보호하기 위해 국가는 언제 국가 역량 구축에 참여합니까? 이 질문에 대답하기 위해 우리는 다양한 유형의 안보 과제를 강조하는 (유럽) 안보 정책 수립 이론과 국가 역량 구축이 관념적 제도적 유산에 달려 있다고 기대하는 역사적 제도주의적 접근 방식을 활용합니다. 통신 및 에너지 부문에서 30개 이상의 유럽 국가의 역량 강화 노력을 지도화한 결과 전자에 대한 강력한 지지가 있었지만 후자에 대한 결정적인 증거는 찾지 못했습니다. 이는 보안 문제 유형의 설명력을 강조하지만 이상적이고 제도적인 유산이 안보 정책 결정 개혁의 국가 간 패턴을 강력하게 예측할 수 있다는 기대에 대한 의구심을 불러일으킵니다. 또한, 안보 문제의 유형이 어떻게 중요한지 보여주기 위해 프랑스의 에너지 거버넌스 개혁에 대한 심층적인 사례 연구에서 집중된 위협이 CNI를 보호하기 위한 국가 역량 구축으로 이어지는 정치 경제 메커니즘을 추적합니다. 우리의 연구 결과는 CNI의 지정학화와 유럽 안보 정책 결정 도구에 대한 연구에 기여합니다."
+  },
+  "oa:W7221530017": {
+   "id": "oa:W7221530017",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "From Surge to Sustained Commitment: Role/Responsibility Internalization in Postdisaster Digital Volunteer Collaboration",
+   "authors": [
+    "Dean Lo"
+   ],
+   "journal": "Nonprofit Management and Leadership",
+   "date": "2026-10-12",
+   "abstract": "ABSTRACT This study examines the structural conditions under which postdisaster digital volunteer collaboration is associated with continuance commitment beyond surge‐like mobilization. Using a cross‐sectional online survey in a semi‐closed volunteer coordination community, the study estimates a PLS‐SEM model examining the structural associations among prosocial/value‐oriented motivation, role/responsibility internalization, trust, and continuance commitment. Results indicate significant direct associations of prosocial/value‐oriented motivation and internalization with continuance commitment, along with a significant specific indirect association from motivation via internalization (partial mediation). Trust shows no significant direct association in the structural model, suggesting it may function more as a proximal condition for entering coordination than as an anchor of continuance commitment. Overall, the findings highlight role/responsibility internalization as a role‐based identification and responsible self‐positioning construct associated with stronger continuance commitment in informal, high‐uncertainty postdisaster digital collaboration, offering a more differentiated account of commitment formation beyond initial mobilization surges.",
+   "url": "https://doi.org/10.1002/nml.70075",
+   "doi": "10.1002/nml.70075",
+   "pdf": "https://doi.org/10.1002/nml.70075",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "개요 이 연구는 재해 후 디지털 자원봉사 협력이 급증하는 동원을 넘어 지속적인 헌신과 연관되어 있는 구조적 조건을 조사합니다. 반 폐쇄형 자원 봉사 조정 커뮤니티에서 단면적 온라인 설문 조사를 사용하여 이 연구는 친사회적/가치 지향적 동기 부여, 역할/책임 내면화, 신뢰 및 지속 약속 간의 구조적 연관성을 조사하는 PLS‐SEM 모델을 추정합니다. 결과는 친사회적/가치 지향적 동기 및 내면화와 지속 헌신의 중요한 직접적인 연관성과 내면화를 통한 동기 부여(부분 중재)의 중요한 구체적 간접적 연관성을 나타냅니다. 신뢰는 구조 모델에서 유의미한 직접적인 연관성을 보여주지 않으며, 이는 신뢰가 지속 약속의 닻이 되기보다는 조정을 시작하기 위한 근접 조건으로 더 많이 기능할 수 있음을 시사합니다. 전반적으로, 연구 결과는 비공식적이고 불확실성이 높은 재해 후 디지털 협업에서 더 강력한 지속 약속과 관련된 역할 기반 식별 및 책임 있는 자체 위치 지정 구성으로서의 역할/책임 내재화를 강조하며, 초기 동원 급증을 넘어 약속 형성에 대한 보다 차별화된 설명을 제공합니다."
+  },
+  "oa:W7221537441": {
+   "id": "oa:W7221537441",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Scaling out while staying local: Maintaining inclusive co-production with vulnerable citizens",
+   "authors": [
+    "Caitlin McMullin"
+   ],
+   "journal": "International Review of Administrative Sciences",
+   "date": "2026-10-12",
+   "abstract": "Organisations that involve vulnerable people in co-production face a paradox: while increasing the number of participants is seen as necessary to create greater social benefit, scaling risks undermining the locally rooted, relational practices that enable vulnerable people to participate. This paper develops a conceptual model that addresses this tension, by integrating insights from scaling of social innovation, collective action and group size, and scaffolding theory from the learning sciences. The model proposes representative co-producers and peer mentors as contingent, temporary scaffolding functions that support vulnerable people's involvement in co-production. At the same time, it argues that inclusive scaling requires federal group structures that maintain small-group interaction by coordinating multiple affiliated groups rather than enlarging single co-production arenas. The model offers a theoretically grounded framework for understanding how co-production with vulnerable people can scale without sacrificing inclusiveness. Points for practitioners: Scaling co-production with vulnerable people requires both differentiated support for participants and organisational structures that preserve small-group interaction as numbers grow. Representative co-producers and peer mentors can be mobilised as temporary or flexible resources to lower barriers to participation, rather than as permanent substitutes for the involvement of vulnerable people themselves. Expanding participation does not require enlarging co-production forums; scale can instead be achieved by coordinating multiple small groups that enable trust, confidence and meaningful voice to be sustained.",
+   "url": "https://doi.org/10.1177/00208523261494789",
+   "doi": "10.1177/00208523261494789",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "취약한 사람들을 공동제작에 참여시키는 조직은 역설에 직면합니다. 참가자 수를 늘리는 것은 더 큰 사회적 이익을 창출하는 데 필요한 것으로 보이지만, 위험이 커지면 취약한 사람들의 참여를 가능하게 하는 지역적으로 뿌리를 둔 관계 관행이 훼손됩니다. 본 논문은 사회 혁신의 규모, 집단 행동 및 그룹 규모, 학습 과학의 비계 이론에서 얻은 통찰력을 통합하여 이러한 긴장을 해결하는 개념 모델을 개발합니다. 이 모델은 대표적인 공동제작자와 동료 멘토를 공동제작에 취약한 사람들의 참여를 지원하는 임시 임시 발판 기능으로 제안합니다. 동시에 포괄적인 확장에는 단일 공동제작 분야를 확대하기보다는 여러 소속 그룹을 조정하여 소그룹 상호 작용을 유지하는 연방 그룹 구조가 필요하다고 주장합니다. 이 모델은 취약계층과의 공동제작이 포용성을 희생하지 않고 어떻게 확장될 수 있는지 이해하기 위한 이론적 기반 프레임워크를 제공합니다. 실무자를 위한 요점: 취약한 사람들과 공동제작을 확장하려면 참여자에 대한 차별화된 지원과 숫자가 증가함에 따라 소그룹 상호 작용을 유지하는 조직 구조가 모두 필요합니다. 대표적인 공동제작자와 동료 멘토는 취약한 사람들의 참여를 영구적으로 대체하기보다는 참여 장벽을 낮추기 위해 임시적이거나 유연한 자원으로 동원될 수 있습니다. 참여 확대"
+  },
+  "oa:W7221540174": {
+   "id": "oa:W7221540174",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Doing good well: a dual accountability framework for nonprofits",
+   "authors": [
+    "Ruben Junca"
+   ],
+   "journal": "Public Money & Management",
+   "date": "2026-10-12",
+   "abstract": "IMPACTThis article offers nonprofit practitioners a practical way to distinguish accountability for organizational purpose from accountability for delivery. For boards and executives, the framework separates questions about mission, public benefit, trade-offs and mission drift from those concerning implementation, controls, reporting and performance. For managers, funders, regulators and umbrella bodies, it clarifies how reporting and evaluation systems can strengthen accountability without allowing metrics or compliance requirements to redefine mission. It also broadens accountability to include beneficiaries, affected communities, staff, peer bodies and wider publics. The central lesson for practice is that stronger accountability does not simply mean more reporting. It requires clearer differentiation between governing purpose and governing delivery, together with mechanisms that connect the two without allowing one to displace the other.",
+   "url": "https://doi.org/10.1080/09540962.2026.2744591",
+   "doi": "10.1080/09540962.2026.2744591",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "영향이 기사는 비영리 실무자에게 조직 목적에 대한 책임과 전달에 대한 책임을 구별하는 실용적인 방법을 제공합니다. 이사회와 경영진의 경우 프레임워크는 임무, 공익, 절충 및 임무 표류에 대한 질문을 구현, 통제, 보고 및 성과에 관한 질문과 분리합니다. 관리자, 자금 제공자, 규제 기관 및 상위 기관의 경우 보고 및 평가 시스템이 임무를 재정의하는 측정 기준 또는 규정 준수 요구 사항을 허용하지 않고 책임성을 강화할 수 있는 방법을 명확히 합니다. 또한 수혜자, 피해를 입은 지역사회, 직원, 동료 단체 및 더 넓은 대중을 포함하도록 책임 범위를 확대합니다. 실천의 핵심 교훈은 더 강한 책임이 단순히 더 많은 보고를 의미하는 것이 아니라는 것입니다. 이를 위해서는 관리 목적과 관리 전달 간의 보다 명확한 구분이 필요하며, 하나가 다른 하나를 대체하는 것을 허용하지 않고 둘을 연결하는 메커니즘도 필요합니다."
+  },
+  "oa:W7221545525": {
+   "id": "oa:W7221545525",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Debate: Revoking parliament’s fit-and-proper tests for the appointment of Indonesia’s police chief",
+   "authors": [
+    "Sarah Nuraini Siregar",
+    "Muhamad Haripin",
+    "Rosita Fitrah Dewi",
+    "Achmad Syarif Rachmaji",
+    "Mario Surya Ramadhan"
+   ],
+   "journal": "Public Money & Management",
+   "date": "2026-10-12",
+   "abstract": "In modern democratic systems, the role of parliamentary oversight is to ensure government accountability through the checks and balances mechanism. In the context of the Indonesian national police ...",
+   "url": "https://doi.org/10.1080/09540962.2026.2744592",
+   "doi": "10.1080/09540962.2026.2744592",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "현대 민주주의 체제에서 의회 감독의 역할은 견제와 균형 메커니즘을 통해 정부의 책임성을 보장하는 것입니다. 인도네시아 경찰의 상황에서 ..."
+  },
+  "oa:W7221546935": {
+   "id": "oa:W7221546935",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Kingdon in non-democracies: a multiple streams analysis of Myitsone dam suspension in Myanmar",
+   "authors": [
+    "Yay Chann"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-10-12",
+   "abstract": "The multiple streams framework (MSF) is widely used to explain agenda-setting. Yet, two gaps persist: the coupling process has received limited attention, and applications of the framework remain concentrated in Western democracies. Little is known about how coupling works in non-democratic and hybrid political contexts. This study addresses that gap by examining the 2011 suspension of the Myitsone Dam project in Myanmar, asking how civil society, acting as a collective policy entrepreneur, brought the issue onto the governmental agenda under severe political constraints. The study is a qualitative single-case study, and documentary materials produced during the dam debate were analysed thematically through an interpretive lens. The findings show that civil society discursively prepared the linkages between the three streams well before a political window opened: it defined the problem through technocratic and emotional frames, legitimized the alternative of suspension within the policy community, and connected both to the reformist political narrative of Myanmar’s 2011 transition, alongside distinct activities of coalition building and mobilization. The study extends the empirical reach of the MSF beyond Western democracies and refines the boundary conditions of framing-based coupling.",
+   "url": "https://doi.org/10.1080/17516234.2026.2747084",
+   "doi": "10.1080/17516234.2026.2747084",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "다중 스트림 프레임워크(MSF)는 의제 설정을 설명하는 데 널리 사용됩니다. 그러나 두 가지 격차가 지속됩니다. 결합 프로세스는 제한적인 관심을 받았으며 프레임워크의 적용은 여전히 ​​서구 민주주의 국가에 집중되어 있습니다. 비민주적이고 혼합적인 정치적 맥락에서 결합이 어떻게 작동하는지에 대해서는 알려진 바가 거의 없습니다. 본 연구는 2011년 미얀마 미트소네 댐 프로젝트 중단 사례를 검토하고 어떻게 집단 정책 기업가 역할을 하는 시민 사회가 심각한 정치적 제약 속에서 이 문제를 정부 의제로 가져왔는지를 조사함으로써 이러한 격차를 해소합니다. 본 연구는 질적 단일 사례 연구이며, 댐 논쟁 중에 제작된 다큐멘터리 자료를 해석적 렌즈를 통해 주제별로 분석했습니다. 조사 결과에 따르면 시민 사회는 정치적 창이 열리기 훨씬 전에 세 가지 흐름 사이의 연결을 담론적으로 준비한 것으로 나타났습니다. 이는 기술 관료적, 감정적 틀을 통해 문제를 정의하고, 정책 공동체 내에서 중단의 대안을 정당화했으며, 연합 구축 및 동원이라는 뚜렷한 활동과 함께 미얀마의 2011년 전환에 대한 개량주의적 정치적 내러티브와 연결되었습니다. 이 연구는 MSF의 경험적 범위를 서구 민주주의를 넘어 확장하고 프레임 기반 결합의 경계 조건을 개선합니다."
+  },
+  "oa:W7221547483": {
+   "id": "oa:W7221547483",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Understanding Volunteer Motivations and Information Sources During Emergency Crisis Situations: Volunteering with Ukrainian Refugees",
+   "authors": [
+    "Bettina Bifkovics",
+    "Erzsébet Malota"
+   ],
+   "journal": "VOLUNTAS International Journal of Voluntary and Nonprofit Organizations",
+   "date": "2026-10-12",
+   "abstract": "Abstract Nonprofit organizations play a crucial role in responding to humanitarian crises, making it important to understand what motivates volunteers and how they learn about volunteering opportunities. Drawing on functional theory as well as word-of-mouth and tie strength frameworks, this study examines volunteers’ motivations and information sources during the arrival of Ukrainian refugees in Hungary. Twenty-five semi-structured interviews with volunteers have been analyzed using thematic analysis with deductive and inductive coding. The findings show that values and protective motivations were the dominant drivers of volunteering, with career, social, and understanding motivations also present, whereas enhancement motivation was absent in the context of the emergency crisis. Electronic word-of-mouth (eWOM) was the main source of information, with volunteering opportunities spreading mostly through weak ties, whose recommendations were trusted and accepted without scrutiny. Volunteer recruitment in humanitarian crises should emphasize value-driven and protective motivations while utilizing eWOM and weak-tie networks to reach potential volunteers effectively.",
+   "url": "https://doi.org/10.1017/s0957876526000823",
+   "doi": "10.1017/s0957876526000823",
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6B2CF829C96D1C66BA72C828ACEAA0E1/S0957876526000823a.pdf/div-class-title-understanding-volunteer-motivations-and-information-sources-during-emergency-crisis-situations-volunteering-with-ukrainian-refugees-div.pdf",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 비영리 단체는 인도주의적 위기에 대응하는 데 중요한 역할을 하기 때문에 무엇이 자원봉사자에게 동기를 부여하고 자원봉사 기회에 대해 어떻게 배우는지 이해하는 것이 중요합니다. 기능 이론과 입소문 및 결속력 프레임워크를 바탕으로 이 연구는 우크라이나 난민이 헝가리에 도착하는 동안 자원봉사자의 동기와 정보 출처를 조사합니다. 자원봉사자와의 25개의 반구조화된 인터뷰가 연역적 및 귀납적 코딩을 사용한 주제별 분석을 사용하여 분석되었습니다. 연구 결과에 따르면 가치와 보호 동기가 자원 봉사의 지배적인 동인이었으며 경력, 사회적 및 이해 동기도 존재하는 반면, 긴급 위기 상황에서는 향상 동기가 부재한 것으로 나타났습니다. 전자 입소문(eWOM)은 정보의 주요 소스였으며, 자원 봉사 기회는 주로 약한 유대 관계를 통해 확산되었으며, 이들의 권장 사항은 면밀한 조사 없이 신뢰할 수 있고 받아들여졌습니다. 인도주의적 위기 상황에서 자원봉사자 모집은 가치 중심적이고 보호적인 동기를 강조하는 동시에 잠재적인 자원봉사자에게 효과적으로 다가가기 위해 eWOM과 약한 유대 네트워크를 활용해야 합니다."
+  },
+  "oa:W7221555282": {
+   "id": "oa:W7221555282",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Do sovereign ratings capture public pension liabilities in the assessment of public debt? A France–UK comparison",
+   "authors": [
+    "Éric Paget-Blanc",
+    "Faouzi Souissi"
+   ],
+   "journal": "Public Money & Management",
+   "date": "2026-10-12",
+   "abstract": "IMPACTThis article is intended primarily for investors, rating agencies and credit analysts assessing sovereign solvency. Its analysis may also be relevant to finance ministries, audit institutions, parliamentarians, fiscal authorities and public sector accountants. The article’s message is practical: pension liabilities are an important factor affecting sovereign solvency and should be given more weight by credit rating agencies (CRAs). The main difficulty lies in differences in pension systems and accounting methods across countries. The authors propose focusing on states’ income statements presented in financial reports under accrual accounting standards. Official debt must remain the central indicator, but it should not be read alone.",
+   "url": "https://doi.org/10.1080/09540962.2026.2743155",
+   "doi": "10.1080/09540962.2026.2743155",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "영향이 기사는 주로 국가 지급 능력을 평가하는 투자자, 신용 평가 기관 및 신용 분석가를 대상으로 작성되었습니다. 분석은 재무부, 감사 기관, 국회의원, 재정 당국, 공공 부문 회계사에게도 적용될 수 있습니다. 기사의 메시지는 실용적입니다. 연금 부채는 국가 지급 능력에 영향을 미치는 중요한 요소이므로 신용 평가 기관(CRA)에서 더 많은 비중을 두어야 합니다. 가장 큰 어려움은 국가별로 연금 제도와 회계 방식이 다르다는 점입니다. 저자들은 발생주의 회계 기준에 따라 재무 보고서에 제시된 주의 손익계산서에 초점을 맞출 것을 제안합니다. 공적 부채는 여전히 핵심 지표로 남아 있어야 하지만 단독으로 읽어서는 안 됩니다."
+  },
+  "oa:W7221561595": {
+   "id": "oa:W7221561595",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "National, partisan or ideological biases? How EU officials' characteristics can influence infringement proceeding outcomes",
+   "authors": [
+    "Jan Menzner",
+    "Johannes Lattmann"
+   ],
+   "journal": "Journal of European Public Policy",
+   "date": "2026-10-12",
+   "abstract": "Infringement proceedings serve as a key legal mechanism through which the European Union (EU) enforces compliance with common laws among its member states. This article, for the first time, examines how the nationality and partisanship of EU officials influence outcomes of these proceedings. We argue that Commissioners and Directors-General face a principal–agent dilemma, as they simultaneously act as EU officials and as nationals of their home countries. We expect that infringement proceedings are less likely to escalate when they are overseen by EU officials who share the nationality of the member state under investigation. We further posit that officials' partisan affiliations and ideological leaning may shape the outcomes of such cases. Using a novel dataset combining roughly 19.000 infringement proceedings between 2002 and 2020 with information about the responsible officials, we find evidence of a nationality bias, however, only among Commissioners. By contrast, we find no indication of bias linked to ideology or partisanship.",
+   "url": "https://doi.org/10.1080/13501763.2026.2739423",
+   "doi": "10.1080/13501763.2026.2739423",
+   "pdf": "https://doi.org/10.1080/13501763.2026.2739423",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "침해 소송은 유럽 연합(EU)이 회원국 간 일반법 준수를 강제하는 핵심 법적 메커니즘 역할을 합니다. 이 기사에서는 처음으로 EU 관리들의 국적과 당파성이 이러한 절차의 결과에 어떤 영향을 미치는지 조사합니다. 우리는 위원과 사무총장이 EU 관료이자 본국 국민의 역할을 동시에 수행하기 때문에 본인-대리인 딜레마에 직면해 있다고 주장합니다. 우리는 조사 대상 회원국의 국적을 공유하는 EU 관리들이 침해 소송을 감독할 때 침해 소송이 확대될 가능성이 적을 것으로 예상합니다. 또한 우리는 공무원의 당파적 성향과 이념적 성향이 그러한 사건의 결과를 형성할 수 있다고 가정합니다. 2002년부터 2020년까지 약 19,000건의 침해 소송과 담당 공무원에 대한 정보를 결합한 새로운 데이터 세트를 사용하여 우리는 위원들 사이에서만 국적 편견의 증거를 발견했습니다. 대조적으로, 우리는 이데올로기나 당파성과 관련된 편견의 징후를 발견하지 못했습니다."
+  },
+  "oa:W7221565755": {
+   "id": "oa:W7221565755",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Paying to Attract the Unpaid: The Relationship between Executive Compensation and Volunteering in Nonprofit Sport Clubs",
+   "authors": [
+    "Sören Dallmeyer",
+    "Christoph Breuer",
+    "Svenja Feiler"
+   ],
+   "journal": "VOLUNTAS International Journal of Voluntary and Nonprofit Organizations",
+   "date": "2026-10-12",
+   "abstract": "Abstract Professionalization in nonprofit sport clubs is advancing, with many organizations introducing paid executive directors (EDs) to cope with growing administrative and coordination demands. Because these clubs still depend heavily on unpaid members to deliver activities and govern the organization, it remains unclear how paid leadership reshapes volunteer capacity. This study investigates whether introducing a paid ED affects volunteer capacity in German sport clubs. Using five waves (5–9) of the Sport Development Report, club-year panel data are analyzed with two-way fixed-effects models. Switching from an unpaid to a paid ED is associated with fewer reported problems recruiting volunteers and a larger volunteer workforce over subsequent years. The increases are observed for both male and female volunteers and are concentrated in operational rather than board roles. Effects are strongest in large, diversified, and financially healthy clubs. Overall, the results reveal executive professionalization as a conditional capacity-building strategy rather than an inherent threat to volunteering.",
+   "url": "https://doi.org/10.1017/s0957876526000781",
+   "doi": "10.1017/s0957876526000781",
+   "pdf": "https://doi.org/10.1017/s0957876526000781",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 비영리 스포츠 클럽의 전문화는 증가하는 관리 및 조정 요구에 대처하기 위해 유급 집행 이사(ED)를 도입하는 많은 조직과 함께 발전하고 있습니다. 이들 클럽은 활동을 제공하고 조직을 운영하기 위해 여전히 무급 회원에게 크게 의존하고 있기 때문에 유급 리더십이 자원 봉사 역량을 어떻게 재구성하는지 불분명합니다. 본 연구는 유료 ED 도입이 독일 스포츠 클럽의 자원봉사 역량에 영향을 미치는지 여부를 조사합니다. 스포츠 개발 보고서의 5개 파동(5~9)을 사용하여 클럽 연도 패널 데이터를 양방향 고정 효과 모델로 분석합니다. 무급 ED에서 유급 ED로 전환하면 자원 봉사자를 모집하는 데 보고된 문제가 줄어들고 이후 몇 년 동안 자원 봉사 인력이 더 많아집니다. 이러한 증가는 남성과 여성 자원봉사자 모두에게서 관찰되었으며 이사회 역할보다는 운영 부문에 집중되었습니다. 그 효과는 규모가 크고 다양하며 재정적으로 건전한 클럽에서 가장 강력합니다. 전반적으로, 결과는 자원 봉사에 대한 본질적인 위협이 아니라 조건부 역량 구축 전략으로 경영진의 전문화를 보여줍니다."
+  },
+  "oa:W7221575725": {
+   "id": "oa:W7221575725",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Imagining the Invisible: Judicial Epistemology, Carceral Regulation, and the Liberal State",
+   "authors": [
+    "Netanel Dagan",
+    "Adiel Zimran"
+   ],
+   "journal": "Regulation & Governance",
+   "date": "2026-10-12",
+   "abstract": "ABSTRACT In many systems judges exercise judicial review over prison officials' decisions. However, judges are often symbolically, institutionally, and practically distant from prison realities. In the current paper, we explore how judges negotiate their limited epistemological awareness of prison through the lens of epistemic injustice. Drawing on interviews with 17 (retired) Israeli Supreme Court justices regarding their prison administrative review decisions, we identify three epistemic gaps: first, the prison's heterotopic nature; second, the tension between commitment to liberty and authorizing the “pains of imprisonment” at sentencing; and third, the division of labor between sentencing and prison phases. The findings suggest that judges bridge these epistemological gaps through three imaginaries: (a) “ epistemic distancing ”; (b) “ epistemic assimilation ”; and (c) “ parallel epistemology ”. These epistemic imaginaries allow judges to compensate for their experiential absence but also structure their judicial oversight, shaping how courts administratively regulate imprisonment without fully confronting its lived realities. The findings show how judicial imaginaries of prison are shaped through top‐down narrative constructions rather than bottom‐up experiential encounters and include self‐produced “epistemic estrangement” from the prison world. We further examine the implications of these epistemic blind spots, demonstrating how they enable the legitimization of carceral power while obscuring and marginalizing the lived experiences of incarcerated individuals.",
+   "url": "https://doi.org/10.1111/rego.70215",
+   "doi": "10.1111/rego.70215",
+   "pdf": "https://doi.org/10.1111/rego.70215",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "개요 많은 시스템에서 판사는 교도관의 결정에 대해 사법적 검토를 수행합니다. 그러나 판사는 상징적으로나 제도적으로나 실질적으로 교도소 현실과 동떨어져 있는 경우가 많다. 현재 논문에서 우리는 판사들이 인식론적 불의의 렌즈를 통해 감옥에 대한 제한된 인식론적 인식을 어떻게 협상하는지 탐구합니다. 교도소 행정 검토 결정에 관해 17명의 (은퇴한) 이스라엘 대법원 판사와의 인터뷰를 통해 우리는 세 가지 인식론적 격차를 확인했습니다. 첫째, 교도소의 이질적인 성격입니다. 둘째, 자유에 대한 헌신과 선고 시 “구금의 고통”을 인정하는 것 사이의 긴장; 셋째, 선고 단계와 수감 단계 사이의 노동 분업이다. 연구 결과는 판사들이 세 가지 상상을 통해 이러한 인식론적 격차를 메우는 것을 시사합니다: (a) \"인식론적 거리두기\"; (b) “인식론적 동화”; 그리고 (c) “병렬 인식론”. 이러한 인식론적 상상은 판사가 자신의 경험적 부재를 보상할 수 있을 뿐만 아니라 사법 감독을 구조화하여 법원이 실제 현실을 완전히 직시하지 않고 투옥을 행정적으로 규제하는 방법을 형성합니다. 연구 결과는 감옥에 대한 사법적 상상이 어떻게 상향식 경험적 만남이 아닌 하향식 내러티브 구성을 통해 형성되고 감옥 세계로부터 자체 생산된 \"인식론적 소외\"를 포함하는지 보여줍니다. 우리는 이러한 인식론적 맹점의 의미를 더 조사하여 어떻게 카르세라의 합법화를 가능하게 하는지 보여줍니다."
+  },
+  "oa:W7221505527": {
+   "id": "oa:W7221505527",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Policy Agendas in Coalition Agreements: The Enduring Influence of Policy Inheritance",
+   "authors": [
+    "Gerard E. Breeman",
+    "Amnon Cavari",
+    "Jens Jungblut",
+    "Ilana Shpaizman",
+    "Arco I. Timmermans",
+    "Jon Bøe Valgermo"
+   ],
+   "journal": "Policy Studies Journal",
+   "date": "2026-10-11",
+   "abstract": "ABSTRACT New governments frequently inherit issues from their predecessors, and as a result, various policy problems tend to remain on the agenda for many years. Previous research examining the role of policy inheritance has focused mainly on the agenda during a government's term in office. These studies find that because governments must first contend with the problems they inherit, there is considerably less room for new issues to emerge on the agenda. This study seeks to examine the idea of policy inheritance through the lens of coalition agreements. Coalition agreements, a feature of multiparty governments, are drafted shortly after elections and reflect the outcome of the political struggle. For this reason, one can expect that coalition agreements contain mostly issues that parties regard as important. By implication, changes in the coalition agreements' issue agenda would be a function of the political change produced by the electoral cycle, rather than of inheritance. Analyzing coalition agreements in three countries—Israel, the Netherlands, and Norway—across 42 elections, we find no evidence for this assumption. Agendas in coalition agreements do not vary with changes in the party composition of the coalition, changes in the ideological distance between parties, or changes in the party holding the office of Prime Minister. This indicates that even when new coalition governments are preparing for their term in office, inheritance remains the primary driver of agenda‐setting.",
+   "url": "https://doi.org/10.1111/psj.70169",
+   "doi": "10.1111/psj.70169",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psj.70169",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 새로운 정부는 전임 정부로부터 문제를 물려받는 경우가 많으며, 그 결과 다양한 정책 문제가 수년 동안 의제로 남아 있는 경향이 있습니다. 정책 상속의 역할을 조사한 이전 연구는 주로 정부 임기 동안의 의제에 초점을 맞추었습니다. 이러한 연구에 따르면 정부는 자신이 물려받은 문제를 먼저 해결해야 하기 때문에 새로운 문제가 의제에 등장할 여지가 상당히 적습니다. 본 연구는 연합협정이라는 렌즈를 통해 정책 계승의 개념을 검토하고자 한다. 다당제 정부의 특징인 연정 협정은 선거 직후 작성되며 정치적 투쟁의 결과를 반영합니다. 이 때문에 연정합의에는 당사자들이 중요하게 여기는 사안들이 대부분 포함될 것으로 예상할 수 있다. 암시적으로, 연립 협정의 의제 변경은 상속의 문제라기보다는 선거 주기에 의해 발생한 정치적 변화의 함수일 것입니다. 42번의 선거에서 이스라엘, 네덜란드, 노르웨이 3개국의 연합 협정을 분석한 결과, 우리는 이러한 가정에 대한 증거를 찾지 못했습니다. 연립협정의 의제는 연립 정당 구성의 변화, 정당 간 이념적 거리의 변화, 총리직을 맡은 정당의 변화에 ​​따라 달라지지 않는다. 이는 새로운 연립 정부가 임기를 준비하고 있을 때에도 상속이 여전히 의제의 주요 동인임을 나타냅니다."
+  },
+  "oa:W7221506956": {
+   "id": "oa:W7221506956",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Citizen’s Seat at the Table: How Private Sector Behavior Fosters Alignment With Citizens in Public-Private Partnerships",
+   "authors": [
+    "Jessica Mary Clement",
+    "Giovanni Esposito",
+    "Nathalie Crutzen"
+   ],
+   "journal": "Administration & Society",
+   "date": "2026-10-11",
+   "abstract": "Citizens play a crucial role in public-private partnerships (PPPs). Yet, such citizens often are poorly engaged and excluded from decision-making, leading to situations where their interests do not align with the public and private partners. Recognizing the importance of private sector behaviors in PPPs, we aim to identify how their behaviors play a role in aligning these interests to meet citizen expectations. We use the Economies of Worth framework and a comparative case study to identify behavioral mechanisms to support alignment, such as being available to citizens in person, adaptability, engaging in small goodwill gestures, and sustaining these behaviors over time.",
+   "url": "https://doi.org/10.1177/00953997261489610",
+   "doi": "10.1177/00953997261489610",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "시민은 공공-민간 파트너십(PPP)에서 중요한 역할을 합니다. 그러나 그러한 시민들은 종종 참여도가 낮고 의사결정에서 배제되어 그들의 이익이 공공 및 민간 파트너와 일치하지 않는 상황으로 이어집니다. PPP에서 민간 부문 행동의 중요성을 인식하여 우리는 그들의 행동이 시민의 기대에 부응하도록 이러한 이익을 조정하는 데 어떻게 역할을 하는지 식별하는 것을 목표로 합니다. 우리는 가치 경제 프레임워크와 비교 사례 연구를 사용하여 시민에게 직접 접근 가능, 적응성, 작은 호의적 행동 참여, 시간이 지남에 따라 이러한 행동 유지 등 정렬을 지원하는 행동 메커니즘을 식별합니다."
+  },
+  "oa:W7221530392": {
+   "id": "oa:W7221530392",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The future of post-growth strategy: bureaucratic blindness in Visegrad countries",
+   "authors": [
+    "Olivér Kovács",
+    "Endre Domonkos"
+   ],
+   "journal": "Journal of Environmental Policy & Planning",
+   "date": "2026-10-11",
+   "abstract": "This paper examines the public sectors of the Visegrad countries (Czechia, Hungary, Poland, and Slovakia) to determine the potential of a post-growth strategy. To this end, the research explores centralisation–decentralisation cycles and bureaucratic reshuffles in V4s across socialist and capitalist eras, as well as the political will-reality gap in eco-social changes. It asks whether certain V4s’ strategies teach us how to evolve towards post-growth societies. It argues that the historical cycles of centralisation–decentralisation show bureaucratic blindness to post-growth as long as V4s prefer quantitative economic growth as the end goal rather than a means to socially and ecologically sustainable systemic functioning.",
+   "url": "https://doi.org/10.1080/1523908x.2026.2744279",
+   "doi": "10.1080/1523908x.2026.2744279",
+   "pdf": "https://www.files.ethz.ch/isn/142650/2012-03_Shleifer.pdf",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "본 논문에서는 성장 후 전략의 잠재력을 판단하기 위해 비셰그라드 국가(체코, 헝가리, 폴란드, 슬로바키아)의 공공 부문을 조사합니다. 이를 위해 연구는 사회주의와 자본주의 시대에 걸쳐 V4의 중앙집권-분권화 주기와 관료적 개편뿐만 아니라 생태사회적 변화의 정치적 의지와 현실의 격차를 탐구합니다. 특정 V4의 전략이 성장 후 사회로 진화하는 방법을 가르쳐 주는지 묻습니다. V4가 사회적, 생태학적으로 지속 가능한 체계적 기능을 위한 수단보다는 최종 목표로 양적 경제 성장을 선호하는 한 중앙집권-분권화의 역사적 주기는 성장 이후에 대한 관료적 맹목을 보여준다고 주장합니다."
+  },
+  "oa:W7221504516": {
+   "id": "oa:W7221504516",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "A Framework for Using Metadata to Combine Data Sets in Official Statistics",
+   "authors": [
+    "Yvonne Gootzen",
+    "Arnout van Delden",
+    "Piet Daas"
+   ],
+   "journal": "Journal of Official Statistics",
+   "date": "2026-10-12",
+   "abstract": "There are increasing numbers of sources available for the production of official statistics. When one is interested in making new output or redesigning the input that is used for existing output, it might not always be clear if and how the intended output can be produced from the variety of input data sets available. The current paper proposes a metadata-based framework with a search algorithm that finds out if a processing path is possible from input data sets to intended output. The framework uses the conceptual metadata of the data set as input, that is, the unit types, the identifier variables, the measurement variables and the reference periods. Our contribution to existing literature is threefold. We provide a set of basic operators, each representing a small, clearly defined step in the process of combining data sets; we can accommodate tailor-made operators (models) to cover a wide range of data configurations, and we provide an implementation in Python code to automatically answer if and how the intended output can be produced from a set of available input data sets. The framework is evaluated on a case study. We provide publicly available code and different examples on Git to facilitate the use and further development of our framework.",
+   "url": "https://doi.org/10.1177/0282423x261487527",
+   "doi": "10.1177/0282423x261487527",
+   "pdf": "https://doi.org/10.1177/0282423x261487527",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "공식 통계를 생성하는 데 사용할 수 있는 소스의 수가 점점 늘어나고 있습니다. 새로운 출력을 만들거나 기존 출력에 사용되는 입력을 재설계하는 데 관심이 있는 경우 사용 가능한 다양한 입력 데이터 세트에서 의도한 출력이 생성될 수 있는지 여부와 방법이 항상 명확하지 않을 수 있습니다. 본 논문에서는 입력 데이터 세트에서 의도한 출력까지 처리 경로가 가능한지 알아내는 검색 알고리즘을 갖춘 메타데이터 기반 프레임워크를 제안합니다. 프레임워크는 데이터 세트의 개념적 메타데이터(단위 유형, 식별자 변수, 측정 변수 및 참조 기간)를 입력으로 사용합니다. 기존 문헌에 대한 우리의 기여는 세 가지입니다. 우리는 데이터 세트를 결합하는 과정에서 작고 명확하게 정의된 단계를 각각 나타내는 기본 연산자 세트를 제공합니다. 우리는 광범위한 데이터 구성을 포괄하기 위해 맞춤형 연산자(모델)를 수용할 수 있으며, 사용 가능한 입력 데이터 세트 세트에서 의도한 출력이 생성될 수 있는지 여부와 방법에 자동으로 응답하는 Python 코드 구현을 제공합니다. 프레임워크는 사례 연구를 통해 평가됩니다. 우리는 프레임워크의 사용과 추가 개발을 촉진하기 위해 Git에서 공개적으로 사용 가능한 코드와 다양한 예제를 제공합니다."
+  },
+  "oa:W7161630513": {
+   "id": "oa:W7161630513",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Bayesian modelling of clustered extreme events using a nonparametric Hawkes process",
+   "authors": [
+    "Gordon J. Ross",
+    "Dean Markwick"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-10-06",
+   "abstract": "Abstract Modelling and forecasting the occurrence of extreme events is especially difficult when extremes occur in temporal clusters and their magnitudes exhibit local variation. We approach this task by developing a Bayesian point process model for extreme events, which uses a self-exciting Hawkes process to model the rate at which extremes occur. The Hawkes process has a structure which allows events to occur in clusters, making it realistic for many types of data. We use a flexible Bayesian nonparametric approach based on the Dirichlet process to learn the temporal excitation pattern from the data. Further, we build on extreme value theory by using a generalised Pareto distribution (GPD) to model the magnitudes of the extremes, with a hierarchical mark model allowing these magnitudes to vary across Hawkes-induced clusters. A hierarchical specification of the model results in partial pooling, allowing for more accurate GPD estimation even in clusters with only a small number of observations. We develop an MCMC algorithm to sample from the resulting hierarchical model. A simulation study confirms that the two flexible components improve prediction when the corresponding features are present in the data-generating mechanism, and across four real data sets the nonparametric Hawkes model with hierarchical GPD marks gives the best held-out predictive performance among the model variants considered.",
+   "url": "https://doi.org/10.1007/s11222-026-10981-y",
+   "doi": "10.1007/s11222-026-10981-y",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-10981-y.pdf",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 극한 현상의 발생을 모델링하고 예측하는 것은 극한 현상이 시간적 클러스터에서 발생하고 그 크기가 지역적 변화를 나타낼 때 특히 어렵습니다. 우리는 극단적인 현상이 발생하는 속도를 모델링하기 위해 Self-Exciting Hawkes 프로세스를 사용하는 극단적인 현상에 대한 베이지안 포인트 프로세스 모델을 개발하여 이 작업에 접근합니다. Hawkes 프로세스는 클러스터에서 이벤트가 발생할 수 있는 구조를 가지고 있어 다양한 유형의 데이터에 현실적으로 적용됩니다. 우리는 Dirichlet 프로세스를 기반으로 하는 유연한 베이지안 비모수적 접근 방식을 사용하여 데이터에서 시간적 여기 패턴을 학습합니다. 또한 우리는 일반화된 파레토 분포(GPD)를 사용하여 극단의 크기를 모델링하고 계층적 표시 모델을 사용하여 이러한 크기가 Hawkes 유발 클러스터에 따라 달라질 수 있도록 함으로써 극단값 이론을 구축합니다. 모델의 계층적 사양으로 인해 부분 풀링이 발생하므로 관측 수가 적은 클러스터에서도 보다 정확한 GPD 추정이 가능합니다. 우리는 결과 계층 모델에서 샘플링하기 위해 MCMC 알고리즘을 개발합니다. 시뮬레이션 연구에 따르면 데이터 생성 메커니즘에 해당 기능이 존재할 때 두 개의 유연한 구성 요소가 예측을 향상시키고 4개의 실제 데이터 세트에서 계층적 GPD 표시가 있는 비모수적 Hawkes 모델이 고려된 모델 변형 중에서 최고의 예측 성능을 제공한다는 것이 확인되었습니다."
+  },
+  "oa:W7129386403": {
+   "id": "oa:W7129386403",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "The empirical distribution of sequential LS factors in multi-level dynamic factor models",
+   "authors": [
+    "Gian Pietro Bellocca",
+    "Ignacio Garrón",
+    "Vladimir Rodríguez-Caballero",
+    "Esther Ruiz"
+   ],
+   "journal": "Econometrics and Statistics",
+   "date": "2026-10-01",
+   "abstract": "The research question we answer in this paper is whether the asymptotic distribution derived by Bai (2003) for Principal Components (PC) factors in dynamic factor models (DFMs) can approximate the empirical distribution of the sequential Least Squares (SLS) estimator of global and group-specific factors in multi-level dynamic factor models (ML-DFMs). Monte Carlo experiments confirm that under general forms of the idiosyncratic covariance matrix, the finite-sample distribution of SLS global and group-specific factors can be well approximated using the asymptotic distribution of PC factors. We also analyse the performance of alternative estimators of the asymptotic mean squared error (MSE) of the SLS factors and show that the MSE estimator that allows for idiosyncratic cross-sectional correlation and accounts for estimation uncertainty of factor loadings is best.",
+   "url": "https://doi.org/10.1016/j.ecosta.2026.10.001",
+   "doi": "10.1016/j.ecosta.2026.10.001",
+   "pdf": "https://doi.org/10.1016/j.ecosta.2026.10.001",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "본 논문에서 우리가 대답하는 연구 질문은 동적 요인 모델(DFM)의 주성분(PC) 요인에 대해 Bai(2003)가 도출한 점근 분포가 다단계 동적 요인 모델(ML-DFM)의 전체 및 그룹별 요인에 대한 순차 최소 제곱(SLS) 추정량의 경험적 분포에 근접할 수 있는지 여부입니다. 몬테카를로 실험은 특이한 공분산 행렬의 일반적인 형태에서 SLS 전역 및 그룹별 요인의 유한 표본 분포가 PC 요인의 점근 분포를 사용하여 잘 근사될 수 있음을 확인합니다. 또한 SLS 요인의 점근 평균 제곱 오차(MSE)에 대한 대체 추정기의 성능을 분석하고 독특한 단면 상관 관계를 허용하고 요인 로딩의 추정 불확실성을 설명하는 MSE 추정기가 가장 우수하다는 것을 보여줍니다."
+  },
+  "oa:W7103894465": {
+   "id": "oa:W7103894465",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Polarization and echo chambers in Reddit’s political discourse",
+   "authors": [
+    "Daniele Cirulli",
+    "Antonio Desiderio",
+    "Giulio Cimini",
+    "Fabio Saracco"
+   ],
+   "journal": "EPJ Data Science",
+   "date": "2026-10-12",
+   "abstract": "Online social media have become important arenas for political debate, with election periods amplifying ideological engagement. Polarization and echo chamber effects were shown to be important for platforms like Twitter or Facebook but less for others like Reddit. Here we challenge this assumption through a case study of Reddit conversations across the 2016 US presidential election. We use statistical validation techniques to extract ideologically distinct communities of subreddits, in terms of their contributing user base and news consumption, which we use to analyze the dynamics of political debate. We thus reveal clear polarization in both interaction-based and topic-based communities, with clusters of Democratic, Conservative, and Banned subreddits. Election periods intensify cross-group engagement, align Banned and Conservative content, and reduce linguistic diversity within groups. Overall, we characterize Reddit as a polarized environment marked by structural patterns consistent with echo-chamber organization, highlighting network validation as a key method for identifying relevant user interaction and information-sharing patterns in online social media.",
+   "url": "https://doi.org/10.1140/epjds/s13688-026-00707-5",
+   "doi": "10.1140/epjds/s13688-026-00707-5",
+   "pdf": "https://doi.org/10.1140/epjds/s13688-026-00707-5",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "온라인 소셜 미디어는 선거 기간 동안 이념적 참여가 증폭되면서 정치적 토론의 중요한 장이 되었습니다. 편광 및 반향실 효과는 Twitter나 Facebook과 같은 플랫폼에서는 중요하지만 Reddit과 같은 플랫폼에서는 덜 중요한 것으로 나타났습니다. 여기서 우리는 2016년 미국 대통령 선거 전반에 걸쳐 Reddit 대화에 대한 사례 연구를 통해 이러한 가정에 도전합니다. 우리는 통계적 검증 기술을 사용하여 기여 사용자 기반 및 뉴스 소비 측면에서 이념적으로 구별되는 하위 레딧 커뮤니티를 추출하고, 이를 정치적 토론의 역학을 분석하는 데 사용합니다. 따라서 우리는 민주당, 보수당, 금지 하위 레딧 클러스터를 통해 상호 작용 기반 및 주제 기반 커뮤니티 모두에서 명확한 양극화를 드러냅니다. 선거 기간은 그룹 간 참여를 강화하고, 금지된 콘텐츠와 보수적인 콘텐츠를 정렬하며, 그룹 내 언어 다양성을 줄입니다. 전반적으로 우리는 Reddit을 반향실 구성과 일치하는 구조적 패턴으로 표시되는 양극화된 환경으로 특성화하고 온라인 소셜 미디어에서 관련 사용자 상호 작용 및 정보 공유 패턴을 식별하는 핵심 방법으로 네트워크 검증을 강조합니다."
+  },
+  "oa:W7221504073": {
+   "id": "oa:W7221504073",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Bringing topological heterogeneities into the study of time-series data on militarized international disputes: a deep learning approach",
+   "authors": [
+    "Badredine Arfi"
+   ],
+   "journal": "Journal of Computational Social Science",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s42001-026-00499-8",
+   "doi": "10.1007/s42001-026-00499-8",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221509998": {
+   "id": "oa:W7221509998",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Adapting Collegiate Data Science Curricula for LLMs, Generative AI, and Beyond: Perspectives from Career Data Scientists",
+   "authors": [
+    "Victoria Delaney",
+    "Esteban Naranjo",
+    "Sunday Stein"
+   ],
+   "journal": "Harvard Data Science Review",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1162/99608f92.19a06712",
+   "doi": "10.1162/99608f92.19a06712",
+   "pdf": "https://doi.org/10.1162/99608f92.19a06712",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221526389": {
+   "id": "oa:W7221526389",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Externalizing Epistemic Governance from Stateless Clinical LLMs: Why It Is Necessary and Why It Must Be Constrained",
+   "authors": [
+    "Stefano Natangelo"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-10-12",
+   "abstract": "Abstract Large language models are increasingly embedded in clinical decision support, but they are stateless. They preserve no epistemic commitments across contexts, identical cases can yield divergent outputs, and fluent generation can acquire de facto authority over what counts as evidence without any matching structure of responsibility. We argue that whether clinical AI can be trusted and held accountable depends on where epistemic authority sits and who governs it, not on how well the model performs or how fluently it generates. From this it follows that epistemic governance has to be externalized from the model. It also has to be constrained, because relocating authority into a second generative layer reproduces the original problem. We make the claim concrete with a non-agentic, constraint-based architecture, instantiated in oncology. Context classification, evidence authority, and truth-state assignment are settled by dedicated, inspectable layers before any generation occurs; the language model is confined to bounded extraction and summarization. The central move is to keep deontic authority, what is permitted and reimbursed, distinct from epistemic authority, what the evidence supports, so that a reimbursement or jurisdictional constraint is represented as an allocation decision rather than collapsed into an apparent clinical fact. Uncertainty, disagreement between authoritative sources, and clinician overrides are preserved as explicit, inspectable states. By settling authority before generation and keeping it inspectable, the architecture restores the structure of responsibility that fluent generation erodes: the exercise of authority becomes attributable, and the resulting recommendation can be contested rather than absorbed as plain clinical fact.",
+   "url": "https://doi.org/10.1007/s13347-026-01202-5",
+   "doi": "10.1007/s13347-026-01202-5",
+   "pdf": "https://doi.org/10.1007/s13347-026-01202-5",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 대규모 언어 모델은 임상 의사 결정 지원에 점점 더 많이 포함되어 있지만 상태는 없습니다. 그들은 맥락 전반에 걸쳐 인식론적 약속을 유지하지 않고, 동일한 사례가 다양한 결과를 낳을 수 있으며, 유창한 세대는 일치하는 책임 구조 없이 증거로 간주되는 것에 대해 사실상의 권위를 얻을 수 있습니다. 우리는 임상 AI가 신뢰할 수 있고 책임을 질 수 있는지 여부는 모델이 얼마나 잘 수행되는지 또는 얼마나 유창하게 생성되는지가 아니라 인식론적 권위가 어디에 있고 누가 이를 관리하는지에 달려 있다고 주장합니다. 이로부터 인식론적 거버넌스는 모델에서 외부화되어야 한다는 결론이 나옵니다. 또한 권한을 두 번째 생성 계층으로 재배치하면 원래 문제가 재현되므로 제한되어야 합니다. 우리는 종양학에서 구체화된 비대리적, 제약 기반 아키텍처를 통해 주장을 구체화합니다. 컨텍스트 분류, 증거 권한 및 진실 상태 할당은 생성이 발생하기 전에 검사 가능한 전용 레이어에 의해 해결됩니다. 언어 모델은 제한된 추출 및 요약으로 제한됩니다. 핵심적인 움직임은 의무적 권위(허용되고 상환되는 것)를 인식적 권위(증거가 뒷받침하는 것)와 구별하여 유지함으로써 상환 또는 관할권 제약이 명백한 임상 사실로 붕괴되기보다는 할당 결정으로 표현되도록 하는 것입니다. 불확실성, 권위 있는 출처 간의 불일치, 임상의의 재정의는 명시적이고 검사 가능한 상태로 보존됩니다. 설정으로"
+  },
+  "oa:W7221533393": {
+   "id": "oa:W7221533393",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "A light framework for AI ethics",
+   "authors": [
+    "Han-Jung Kuo"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01452-1",
+   "doi": "10.1007/s43681-026-01452-1",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221533777": {
+   "id": "oa:W7221533777",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "A study of diplomatic discourse and network dynamics on Twitter",
+   "authors": [
+    "Raquel Rodríguez-García",
+    "Rajesh Sharma",
+    "Roberto Centeno",
+    "Álvaro Rodrigo"
+   ],
+   "journal": "Journal of Computational Social Science",
+   "date": "2026-10-12",
+   "abstract": "Abstract Social media has become a relevant platform to communicate with a vast audience, enabling users to spread information or influence discussions. As such, it has garnered the attention of governments and other organizations, enabling them to engage with their audiences directly and bypass traditional channels that might disrupt their message. Given their influence on shaping public perception, understanding and analyzing how they communicate provides insights into their political strategy and their outward perception. We have conducted a study based on a collection of tweets sent between January 2020 and March 2021 from diplomats in four different regions: Russia, China, the European Union, and the United States. We have analyzed the content produced and the properties of the following network connecting these users. Our findings show a clear structural separation in the following network by region, which may reflect differences in their diplomatic strategies. The content analysis revealed the use of propagandistic content during key events, suggesting that observed engagement between diplomats from distinct regions typically follows existing structural paths. With this work, we aim to fill a gap in digital diplomacy by focusing on the behavior of diplomats of global powers across three continents.",
+   "url": "https://doi.org/10.1007/s42001-026-00500-4",
+   "doi": "10.1007/s42001-026-00500-4",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s42001-026-00500-4.pdf",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 소셜 미디어는 사용자가 정보를 전파하거나 토론에 영향을 미칠 수 있도록 하여 광범위한 청중과 소통할 수 있는 적절한 플랫폼이 되었습니다. 따라서 이는 정부 및 기타 조직의 관심을 끌었으며 청중과 직접 소통하고 메시지를 방해할 수 있는 기존 채널을 우회할 수 있게 되었습니다. 대중 인식 형성에 대한 영향력을 고려할 때, 그들이 의사소통하는 방식을 이해하고 분석하면 정치적 전략과 대외적 인식에 대한 통찰력을 얻을 수 있습니다. 우리는 2020년 1월부터 2021년 3월 사이에 러시아, 중국, 유럽연합, 미국 등 4개 지역의 외교관들이 보낸 트윗 모음을 기반으로 연구를 수행했습니다. 우리는 생산된 콘텐츠와 이러한 사용자들을 연결하는 다음 네트워크의 속성을 분석했습니다. 우리의 연구 결과는 다음과 같은 지역별 네트워크에서 명확한 구조적 분리를 보여 주며, 이는 외교 전략의 차이를 반영할 수 있습니다. 콘텐츠 분석을 통해 주요 행사 중 선전 콘텐츠가 사용된 것으로 나타났으며, 이는 서로 다른 지역의 외교관 간의 관찰된 참여가 일반적으로 기존 구조적 경로를 따른다는 것을 시사합니다. 이 작업을 통해 우리는 세 대륙에 걸쳐 글로벌 강대국 외교관의 행동에 초점을 맞춰 디지털 외교의 격차를 메우는 것을 목표로 합니다."
+  },
+  "oa:W7221540092": {
+   "id": "oa:W7221540092",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The model of ethical AI in preparation for teaching (MPET): a practical guide for ethical AI adoption",
+   "authors": [
+    "Sam Clarke"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01419-2",
+   "doi": "10.1007/s43681-026-01419-2",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221541091": {
+   "id": "oa:W7221541091",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Critical collaging as an AI resistance strategy",
+   "authors": [
+    "Deborah A. Lupton"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-12",
+   "abstract": "Abstract Academic scholarship and community activism initiatives are beginning to challenge and resist the incursion of commercial generative AI applications into everyday life and alleviate their impacts on people and the planet. This essay discusses using collage as a critical research practice to visualise the language of generative AI and to challenge the generic automated images produced by AI models. With these collages, I am attempting to provoke thought about how linguistic and visual rhetorical devices are used to describe generative AI. By pairing images with words in the collages, I am aiming to surface these meanings and feelings and examine what they reveal about the current moment in which a huge amount of hype but also critical responses to generative AI are circulating in popular culture and social and philosophical inquiry. My intention is not to provide a more ‘realistic’ visual portrayal of generative AI. Rather, it is to use a different, surprising, sometimes mordant or absurd, and more compelling visual language to trouble assumptions, disrupt the reductive stock imagery on which industry and popular culture rely and bring to visual life the rhetoric used in critical analyses of AI.",
+   "url": "https://doi.org/10.1007/s43681-026-01446-z",
+   "doi": "10.1007/s43681-026-01446-z",
+   "pdf": "https://doi.org/10.1007/s43681-026-01446-z",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Abstract 학술 장학금 및 지역 사회 활동 이니셔티브는 상업용 생성 AI 애플리케이션이 일상 생활에 침입하는 것에 도전하고 저항하고 사람과 지구에 미치는 영향을 완화하기 시작했습니다. 이 에세이에서는 생성 AI의 언어를 시각화하고 AI 모델이 생성한 일반적인 자동화 이미지에 도전하기 위한 중요한 연구 관행으로 콜라주를 사용하는 방법을 논의합니다. 이러한 콜라주를 통해 나는 생성 AI를 설명하는 데 언어적, 시각적 수사적 장치가 어떻게 사용되는지에 대한 생각을 불러일으키려고 합니다. 나는 이미지와 콜라주의 단어를 결합함으로써 이러한 의미와 감정을 표면화하고, 생성 AI에 대한 엄청난 과대광고와 비판적 반응이 대중문화와 사회적, 철학적 탐구에서 순환하고 있는 현재 순간에 대해 그것이 무엇을 드러내는지 조사하는 것을 목표로 하고 있습니다. 내 의도는 생성 AI에 대한 보다 '현실적인' 시각적 묘사를 제공하는 것이 아닙니다. 오히려 다른, 놀랍고, 때로는 신랄하거나 터무니없고, 더욱 설득력 있는 시각적 언어를 사용하여 가정을 문제 삼고, 산업과 대중 문화가 의존하는 환원적인 기본 이미지를 파괴하고, AI의 비판적 분석에 사용되는 수사를 시각적으로 생생하게 구현하는 것입니다."
+  },
+  "oa:W7221548401": {
+   "id": "oa:W7221548401",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Governing artificial intelligence in criminal justice systems: ethical, legal, and policy challenges",
+   "authors": [
+    "Navin Kumar"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01444-1",
+   "doi": "10.1007/s43681-026-01444-1",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221557588": {
+   "id": "oa:W7221557588",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "A Limit of AI, I: A Discrete Information-Theoretic Proof of the Certainty–Scope Conjecture",
+   "authors": [
+    "Yiyang Jia",
+    "Alberto Messina",
+    "Luciano Floridi"
+   ],
+   "journal": "Minds and Machines",
+   "date": "2026-10-12",
+   "abstract": "Abstract Floridi’s Certainty–Scope Conjecture holds that no artificial intelligence system can be simultaneously reliable on every input and broad enough to cover the full richness of unstructured data: reliability and breadth are in structural tension, imposed by the finite information-processing capacity of any mechanism implementing intelligence. The Conjecture has until now been a philosophical thesis without a proof. This article supplies one in the finite-classification regime—the simplest non-trivial setting in which the Conjecture admits an exact statement, a sharp converse, and a matching achievability result—and is the discrete half of a coordinated diptych whose continuous companion proves a matching rate–distortion converse for non-finite semantic spaces. The technical machinery is classical: taking certainty to be Bayes-optimal accuracy and scope to be the class count n , a Fano-type argument yields a converse binding certainty and scope against mechanism capacity, with the n -ary symmetric channel attaining the exact certainty form with equality; the simplified explicit upper bound has asymptotic slack $$\\ln 2/\\ln n$$ on the certainty scale. Six structural extensions carry the philosophical weight. Multi-task composition compounds scope multiplicatively, so joint certainty decays as O (1/ T ); fixed-bandwidth side information yields vanishing gains; static post-processing of the mechanism’s output adds zero augmented capacity, placing chain-of-thought (so idealised) on the wrong side of the bound; sequential tool use requires logarithmically growing query counts; routing does not lift the local constraint; and context-wise feasibility need not compose into global feasibility. A synthetic bottleneck experiment illustrates the bound’s bite, with an analytical account of harder regimes via the Bhattacharyya bound. The diptych’s discrete-side engagement with Lissack, Immediato, and Watson and Sterkenburg is recorded.",
+   "url": "https://doi.org/10.1007/s11023-026-09796-7",
+   "doi": "10.1007/s11023-026-09796-7",
+   "pdf": "https://doi.org/10.1007/s11023-026-09796-7",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "Floridi의 확실성 범위 추측은 어떤 인공 지능 시스템도 모든 입력에 대해 동시에 신뢰할 수 없고 구조화되지 않은 데이터의 풍부함을 모두 포괄할 만큼 광범위할 수 없다고 주장합니다. 신뢰성과 폭은 지능을 구현하는 모든 메커니즘의 유한한 정보 처리 용량에 의해 부과되는 구조적 긴장 상태에 있습니다. 추측은 지금까지 증거가 없는 철학적 논제였습니다. 이 기사는 추측이 정확한 진술, 날카로운 대화 및 일치하는 달성 가능성 결과를 허용하는 가장 간단하고 사소하지 않은 설정인 유한 분류 체제에서 하나를 제공하며, 연속 동반이 유한하지 않은 의미 공간에 대한 일치율-왜곡 대화를 증명하는 조정된 두 제화의 이산 절반입니다. 기술적인 메커니즘은 고전적입니다. 확실성을 Bayes 최적의 정확도로 취하고 범위를 클래스 수 n으로 취하면 Fano 유형 인수는 메커니즘 용량에 대한 역 바인딩 확실성과 범위를 생성하며 n항 대칭 채널은 동등성을 통해 정확한 확실성 형식을 얻습니다. 단순화된 명시적 상한은 확실성 척도에서 점근적 여유 $$\\ln 2/\\ln n$$를 갖습니다. 6개의 구조적 확장은 철학적인 무게를 담고 있습니다. 다중 작업 구성은 범위를 곱셈적으로 혼합하므로 공동 확실성은 O(1/ T )로 감소합니다. 고정 대역폭 부가 정보는 사라지는 이득을 제공합니다. 메커니즘 출력의 정적 사후 처리는 증가된 용량을 0으로 추가하여 생각의 사슬을 배치합니다(이상적으로는"
+  },
+  "oa:W7221576914": {
+   "id": "oa:W7221576914",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Feature selection for partial multi-label learning via noise removal and dynamic label correlation",
+   "authors": [
+    "Zhenzhen Sun",
+    "Shuhao Shan",
+    "Jinghua Liu",
+    "Hongbo Zhang",
+    "Jin Gou",
+    "Yuanlong Yu"
+   ],
+   "journal": "Data Mining and Knowledge Discovery",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10618-026-01279-8",
+   "doi": "10.1007/s10618-026-01279-8",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221543837": {
+   "id": "oa:W7221543837",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "MMT: Achieving Exact Federated Unlearning with Improved Post-unlearning Performance",
+   "authors": [
+    "Z. Zhang",
+    "Nhung Bui",
+    "Arun Verma",
+    "Bolin Ding",
+    "Bryan Kian Hsiang Low"
+   ],
+   "journal": "Machine Learning",
+   "date": "2026-10-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10994-026-07117-8",
+   "doi": "10.1007/s10994-026-07117-8",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221509748": {
+   "id": "oa:W7221509748",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "The Threads that Fray: Wedge strategies and Chinese influence operations in the Indo-Pacific",
+   "authors": [
+    "Gregory Winger"
+   ],
+   "journal": "Journal of Information Technology & Politics",
+   "date": "2026-10-12",
+   "abstract": "Influence operations provide adversaries with a unique vector to weaken alliances and undermine their internal cohesion. Alliances rely on shared interests, values, and identities to sustain themselves and give their commitments credibility. However, social media affords alliance opponents a new avenue to erode these links via false, misleading, and inflammatory information. This paper investigates these influence operations and how they can marry wedge strategies with cyber subversion. As an empirical test of plausibility, it explores Chinese influence operations on Western social media platforms and their potential to challenge the U.S. security architecture in the Indo-Pacific with a focus on Australia and the Philippines. Besides promoting a positive case for China, Beijing’s operations have also used distinct messages to undermine faith in the U.S. Moreover, as governments in both Canberra and Manila hardened their stance toward Beijing, China’s influence operations have also included direct interference in their domestic politics.",
+   "url": "https://doi.org/10.1080/19331681.2026.2744369",
+   "doi": "10.1080/19331681.2026.2744369",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "영향력 행사는 적에게 동맹을 약화시키고 내부 결속력을 약화시킬 수 있는 고유한 벡터를 제공합니다. 동맹은 스스로를 유지하고 약속에 신뢰성을 부여하기 위해 공유된 이익, 가치 및 정체성에 의존합니다. 그러나 소셜 미디어는 거짓, 오해, 선동적인 정보를 통해 동맹 반대자들에게 이러한 링크를 약화시킬 수 있는 새로운 길을 제공합니다. 본 논문에서는 이러한 영향력 행사와 이들이 어떻게 쐐기형 전략과 사이버 전복을 결합할 수 있는지 조사합니다. 타당성에 대한 실증적 테스트로서, 호주와 필리핀에 초점을 맞춰 서구 소셜 미디어 플랫폼에 대한 중국의 영향력 작전과 인도 태평양에서 미국의 안보 구조에 도전할 수 있는 잠재력을 탐구합니다. 베이징의 작전은 중국에 대한 긍정적인 사례를 홍보하는 것 외에도 미국에 대한 신뢰를 훼손하기 위해 뚜렷한 메시지를 사용했습니다. 더욱이 캔버라와 마닐라 정부가 베이징에 대한 입장을 강화함에 따라 중국의 영향력 작전에는 국내 정치에 대한 직접적인 간섭도 포함되었습니다."
+  },
+  "oa:W7221555104": {
+   "id": "oa:W7221555104",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Bridging the digital divide in online political participation. Six inclusion infrastructuring strategies",
+   "authors": [
+    "Fabrizio Li Vigni"
+   ],
+   "journal": "Journal of Information Technology & Politics",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/19331681.2026.2744890",
+   "doi": "10.1080/19331681.2026.2744890",
+   "pdf": "",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221555706": {
+   "id": "oa:W7221555706",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "(In)congruent synergies? Discursive boundary-spanning between the Italian anti-gender galaxy and anti-trans groups",
+   "authors": [
+    "Elena Pavan",
+    "Aurora Perego",
+    "Matteo Scianna"
+   ],
+   "journal": "Information Communication & Society",
+   "date": "2026-10-12",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/1369118x.2026.2743936",
+   "doi": "10.1080/1369118x.2026.2743936",
+   "pdf": "https://doi.org/10.1080/1369118x.2026.2743936",
+   "first_seen": "2026-10-14T10:18:41+09:00"
+  },
+  "oa:W7221521381": {
+   "id": "oa:W7221521381",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Did generative AI narrow the digital divide for immigrants in South Korea? A difference-in-differences study, 2019–2023",
+   "authors": [
+    "Nari Yoo",
+    "Sou Hyun Jang"
+   ],
+   "journal": "Telematics and Informatics",
+   "date": "2026-10-01",
+   "abstract": "Generative artificial intelligence diffused rapidly after late 2022, raising the question of whether it would widen or narrow the digital divide for marginalized populations. We analyzed the Korean Digital Divide Survey across the transition, in 2019 and 2023, comparing three groups: the native-born Korean population, marriage immigrants, and North Korean migrants. The North Korean migrants provide a comparison for the language mechanism, a similarly marginalized group without a foreign-language barrier. Using weighted difference-in-differences with continuous-age adjustment, we found that the marriage-immigrant gap in AI use with the native-born Korean population closed and reversed, with marriage immigrants surpassing native-born Koreans (logit difference-in-differences 0.25, SE 0.12, p = .04, about 4 percentage points), while North Korean migrants did not converge (−0.13, SE 0.12, p = .30); the contrast between the two groups, the central test, was significant (0.38, SE 0.17, p = .02) and widened under full adjustment. Both marginalized groups became more positive about AI use and gained digital competency and social capital. The North Korean migrants gained even more competency, yet only the marriage immigrants converted these resources into use. The marriage-immigrant convergence was concentrated in the language-production domains, document writing and communication, where the language affordance is most direct, but North Korean migrants did not converge there. Mediation attributed the marriage-immigrant convergence chiefly to bridging social capital and digital competency; for North Korean migrants, the same resources predicted a convergence that did not occur. The pattern is most consistent with generative AI's language capability mattering for a group that operates across languages: the convergence was not shared by an equally marginalized native-speaking group and is not explained by a general narrowing of digital inclusion. Because the two migrant groups differ in more than language and proficiency is not measured, we interpret this as the most plausible explanation rather than a proven mechanism.",
+   "url": "https://doi.org/10.1016/j.tele.2026.102469",
+   "doi": "10.1016/j.tele.2026.102469",
+   "pdf": "https://doi.org/10.1016/j.tele.2026.102469",
+   "first_seen": "2026-10-14T10:18:41+09:00",
+   "abstract_ko": "생성적 인공지능은 2022년 말 이후 급속도로 확산되면서 소외된 인구의 디지털 격차를 확대할 것인지, 축소할 것인지에 대한 의문이 제기되었습니다. 2019년과 2023년 한국 정보 격차 조사를 전환기 전반에 걸쳐 분석하여 한국 출생 인구, 결혼 이민자, 북한 이주민의 세 그룹을 비교했습니다. 북한 이주민들은 외국어의 장벽 없이 비슷하게 소외된 집단인 언어 메커니즘에 대한 비교를 제공한다. 가중치 차이 차이와 연속 연령 조정을 사용하여, 우리는 한국인 본토인구와의 AI 사용에서 결혼-이민자 격차가 닫히고 역전되어 결혼이민자가 한국인을 능가한 반면(로짓 차이 차이 0.25, SE 0.12, p = .04, 약 4% 포인트), 북한 이주민은 수렴하지 않음을 발견했습니다(-0.13, SE 0.12, p = .30); 중앙 테스트인 두 그룹 간의 대비는 유의미했으며(0.38, SE 0.17, p = .02) 전체 조정 시 범위가 넓어졌습니다. 소외된 그룹 모두 AI 사용에 대해 더욱 긍정적이 되었고 디지털 역량과 사회적 자본을 얻었습니다. 북한 이주민들은 훨씬 더 많은 역량을 얻었지만 결혼이민자들만이 이러한 자원을 활용했습니다. 결혼이민자의 융합은 언어유동성이 가장 직접적인 언어생산 영역인 문서작성, 의사소통 분야에 집중되어 있으나, 북한이주민은 거기로 융합되지 않았다. 중개"
   }
  }
 }
