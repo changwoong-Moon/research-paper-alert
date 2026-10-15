@@ -1,5 +1,5 @@
 {
-    "fetched_at":  "2026-10-15T07:00:25+09:00",
+    "fetched_at":  "2026-10-16T07:00:27+09:00",
     "records":  [
                     {
                         "id":  "kci:ART003382951",
@@ -1843,6 +1843,22 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003389382",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "변화관리와 변혁적 리더십이 혁신행동에 미치는 영향 연구:넛지 요인의 조절효과를 중심으로",
+                        "authors":  [
+                                        "김민영",
+                                        "이효주"
+                                    ],
+                        "journal":  "한국조직학회보",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구에서는 직무자원요구이론, 넛지이론 등에 근거해 공공조직 내 변화관리와 변혁적 리더십, 넛지요인(업무 자율성, 목표 명확성, 혁신풍토)이 조직 구성원의 혁신 행동에 어떠한 영향을 미치는지에 대한 부분을 실증적으로 검증하였다. 나아가 변화관리와 변혁적 리더십의 영향에 대한 넛지요인의 조절효과도 검증하였다. 분석 결과, 변화관리, 변혁적 리더십, 업무 자율성, 목표 명확성, 혁신풍토는 혁신행동에 통계적으로 유의미한 영향을 미치는 것으로 나타났으며, 변화관리와 변혁적 리더십이 혁신행동에 미치는 영향은 넛지요인에 따라 상이하게 나타나는 것을 확인하였다. 연구결과와 리더십대체이론, 리더십상황이론을 바탕으로 공무원의 혁신 행동을 제고하기 위해서는 단순히 리더십에 의존하기보다 조직 내 넛지요인에 주목할 필요가 있다는 정책적 함의를 제시하였다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389382",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003389378",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1856,22 +1872,6 @@
                         "date":  "2026-08",
                         "abstract":  "본 연구는 디지털 전환기를 맞이한 한국 공직사회의 조직문화적 요인(조직침묵, 조직정치지각)이 지능적 정부 인식을 매개로 공무원의 관리역량에 미치는 영향을 규명하고자 하였다. 선행연구들이 기술적 혁신과 조직문화를 분리하여 다루었던 한계를 극복하기 위해 2021년 전국 공무원 500명의 설문 데이터를 활용하여 Process Macro Model 4 분석을 수행하였다. 분석 결과, 조직침묵과 조직정치지각은 모두 지능적 정부 인식을 유의미하게 저해하였으며, 지능적 정부는 관리역량을 강화하는 결정적인 동인임이 입증되었다. 특히 조직침묵은 지능적 정부를 통해서만 역량에 부정적 영향을 미치는 완전매개 경로를 형성한 반면, 조직정치지각은 관리역량에 직접적인 타격을 주는 동시에 간접 효과를 지니는 부분매개 관계를 보였다. 본 연구 결과는 성공적인 지능적 정부 구현과 관리역량 제고를 위해 첨단 기술 도입뿐만 아니라 소통 문화 개선과 인사 투명성 확보 등 조직문화적 토대가 선행되어야 함을 시사한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389378",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003389382",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "변화관리와 변혁적 리더십이 혁신행동에 미치는 영향 연구:넛지 요인의 조절효과를 중심으로",
-                        "authors":  [
-                                        "김민영",
-                                        "이효주"
-                                    ],
-                        "journal":  "한국조직학회보",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구에서는 직무자원요구이론, 넛지이론 등에 근거해 공공조직 내 변화관리와 변혁적 리더십, 넛지요인(업무 자율성, 목표 명확성, 혁신풍토)이 조직 구성원의 혁신 행동에 어떠한 영향을 미치는지에 대한 부분을 실증적으로 검증하였다. 나아가 변화관리와 변혁적 리더십의 영향에 대한 넛지요인의 조절효과도 검증하였다. 분석 결과, 변화관리, 변혁적 리더십, 업무 자율성, 목표 명확성, 혁신풍토는 혁신행동에 통계적으로 유의미한 영향을 미치는 것으로 나타났으며, 변화관리와 변혁적 리더십이 혁신행동에 미치는 영향은 넛지요인에 따라 상이하게 나타나는 것을 확인하였다. 연구결과와 리더십대체이론, 리더십상황이론을 바탕으로 공무원의 혁신 행동을 제고하기 위해서는 단순히 리더십에 의존하기보다 조직 내 넛지요인에 주목할 필요가 있다는 정책적 함의를 제시하였다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389382",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3220,22 +3220,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003382820",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "FPN/PAN-Based Multi-Scale Feature Fusion Framework for Bird Detection in Smart Agriculture",
-                        "authors":  [
-                                        "Sun-Kyoung KANG",
-                                        "Yeonwoo LEE"
-                                    ],
-                        "journal":  "인공지능연구",
-                        "date":  "2026-09",
-                        "abstract":  "Bird detection in farmland is a challenging computer vision task because bird targets exhibit extreme scale variation across species, camera distance, flight height, and posture. Small birds such as sparrows may occupy only a few pixels in wide-area surveillance imagery, whereas larger birds such as herons can dominate a substantial portion of the frame, causing conventional single-scale detectors to miss small objects or produce unstable localization under heterogeneous field conditions. This paper proposes a Feature Pyramid Network (FPN)/Path Aggregation Network (PAN)-based Multi-Scale Feature Fusion (MSFF) framework for bird detection in smart agriculture, designed to improve simultaneous detection of small, medium, and large birds. The framework enhances low-level spatial detail for tiny birds while preserving high-level semantic context for larger birds by integrating top-down and bottom-up feature aggregation in the detection neck. A bird-oriented detection pipeline is outlined, including dataset construction, scale-aware augmentation, backbone-neck-head design, and deployment-focused evaluation metrics, and the multi-scale fusion strategy is preliminarily validated under a COCO-style experimental protocol without yet being deployed on real farmland bird-surveillance datasets, showing consistent gains across mAP, precision, recall, and scale-specific AP. These results therefore demonstrate the architectural feasibility and scale-aware effectiveness of the proposed framework and suggest that it is a promising basis for future practical engineering deployments in farmland surveillance, drone-based monitoring, and automated deterrence systems that require robust multi-scale bird detection.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382820",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003382819",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3269,22 +3253,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003382818",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "Multi-Agent-Based Service Composition Using Integrated Particle-Ant Algorithm in the Cloud",
-                        "authors":  [
-                                        "Seongsoo CHO",
-                                        "Jin-Hui KU"
-                                    ],
-                        "journal":  "인공지능연구",
-                        "date":  "2026-09",
-                        "abstract":  "As the demand for intelligent service composition grows, the paradigm has shifted from client-based structures to cloud-based platforms. This paper proposes an intelligent cloud service composition platform utilizing a Multi-Agent System (MAS) integrated with an optimized metaheuristic—the Integrated Particle-Ant Algorithm (IPAA). Due to the increasing number of service providers and services available in cloud environments, manually identifying optimal compositions is no longer feasible. By leveraging the cooperation of agents and the optimization capability of IPAA, the proposed model minimizes execution time while enhancing Quality of Service (QoS). Experimental results demonstrate that the proposed IPAA-based MAS outperforms traditional algorithms in terms of efficiency, adaptability, and service accuracy.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382818",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003382822",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3298,6 +3266,38 @@
                         "date":  "2026-09",
                         "abstract":  "This study developed machine learning models to forecast attendance utilization for Los Angeles Lakers regular-season games. Game, team-performance, player-availability, and host-city weather data were collected for eight NBA seasons from 2017–18 to 2024–25. To account for differences in arena capacity, attendance utilization was used as the dependent variable instead of raw attendance. Predictors included home/away status, team performance, weather conditions, overtime, and opponent star-player availability. Random Forest, XGBoost, and Support Vector Regression models were evaluated using 5-fold cross-validation. The 2020–21 season, in which attendance was governed by COVID-19 capacity restrictions rather than demand, was excluded from the primary analysis and examined separately. In the non-COVID dataset, Random Forest and Support Vector Regression performed best, with a mean absolute error of approximately 0.021 of arena capacity. Weather conditions, home/away status, and opponent star-player availability contributed more to the models\u0027 limited predictive signal than opponent record, indicating that Lakers attendance utilization is shaped more by contextual and game-specific factors than by opponent quality. When the COVID-affected season was reintroduced, the COVID indicator dominated the models and raised R² to approximately 0.94, demonstrating that structural shocks can distort model performance and feature importance in small sports-attendance datasets. These results provide practical implications for revenue forecasting and event operations, although further validation using broader multi-team datasets is required. The contribution of this study lies not in algorithmic novelty but in demonstrating how ceiling effects and structural regime shifts can distort standard performance metrics and feature-importance rankings in small-sample sports demand forecasting.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382822",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382820",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "FPN/PAN-Based Multi-Scale Feature Fusion Framework for Bird Detection in Smart Agriculture",
+                        "authors":  [
+                                        "Sun-Kyoung KANG",
+                                        "Yeonwoo LEE"
+                                    ],
+                        "journal":  "인공지능연구",
+                        "date":  "2026-09",
+                        "abstract":  "Bird detection in farmland is a challenging computer vision task because bird targets exhibit extreme scale variation across species, camera distance, flight height, and posture. Small birds such as sparrows may occupy only a few pixels in wide-area surveillance imagery, whereas larger birds such as herons can dominate a substantial portion of the frame, causing conventional single-scale detectors to miss small objects or produce unstable localization under heterogeneous field conditions. This paper proposes a Feature Pyramid Network (FPN)/Path Aggregation Network (PAN)-based Multi-Scale Feature Fusion (MSFF) framework for bird detection in smart agriculture, designed to improve simultaneous detection of small, medium, and large birds. The framework enhances low-level spatial detail for tiny birds while preserving high-level semantic context for larger birds by integrating top-down and bottom-up feature aggregation in the detection neck. A bird-oriented detection pipeline is outlined, including dataset construction, scale-aware augmentation, backbone-neck-head design, and deployment-focused evaluation metrics, and the multi-scale fusion strategy is preliminarily validated under a COCO-style experimental protocol without yet being deployed on real farmland bird-surveillance datasets, showing consistent gains across mAP, precision, recall, and scale-specific AP. These results therefore demonstrate the architectural feasibility and scale-aware effectiveness of the proposed framework and suggest that it is a promising basis for future practical engineering deployments in farmland surveillance, drone-based monitoring, and automated deterrence systems that require robust multi-scale bird detection.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382820",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382818",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "Multi-Agent-Based Service Composition Using Integrated Particle-Ant Algorithm in the Cloud",
+                        "authors":  [
+                                        "Seongsoo CHO",
+                                        "Jin-Hui KU"
+                                    ],
+                        "journal":  "인공지능연구",
+                        "date":  "2026-09",
+                        "abstract":  "As the demand for intelligent service composition grows, the paradigm has shifted from client-based structures to cloud-based platforms. This paper proposes an intelligent cloud service composition platform utilizing a Multi-Agent System (MAS) integrated with an optimized metaheuristic—the Integrated Particle-Ant Algorithm (IPAA). Due to the increasing number of service providers and services available in cloud environments, manually identifying optimal compositions is no longer feasible. By leveraging the cooperation of agents and the optimization capability of IPAA, the proposed model minimizes execution time while enhancing Quality of Service (QoS). Experimental results demonstrate that the proposed IPAA-based MAS outperforms traditional algorithms in terms of efficiency, adaptability, and service accuracy.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382818",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3329,21 +3329,6 @@
                         "abstract":  "Super-resolution (SR) is widely used to enhance low-resolution images, yet its benefit for downstream image classification remains unclear and strongly domain-dependent. While many studies report accuracy improvements after SR, others observe marginal gains or even performance degradation due to artifact sensitivity and hallucinated details. This paper presents a quantitative cross-domain review of 19 experimental studies that explicitly evaluate the impact of SR on image classification across medical imaging, remote sensing, agriculture, geological imaging, and general computer vision. We summarize absolute performance changes in percentage points (Δ pp) by directly comparing SR-enhanced inputs with low-resolution baselines. The analysis shows that SR’s effectiveness varies dramatically by domain. Agriculture and remote sensing consistently benefit, with gains reaching +30 pp in some studies. Medical imaging shows mixed outcomes, including occasional performance drops. Larger scaling factors often provide limited benefit beyond 2× to 4×, and Sequential pipelines tend to produce larger gains, whereas Joint or task-aware training yields smaller but more stable improvements. Overall, these findings suggest that SR should be treated as a conditional tool, rather than a default preprocessing step. The review also highlights the need for more realistic degradation settings, reporting both positive and negative outcomes, and task-aware evaluation for practical classification.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390183",
                         "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382693",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "교통법규 위반과 중대 교통사고 발생지점 간의 공간적 관계",
-                        "authors":  [
-                                        "장정현"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 2017년부터 2023년까지 서울특별시 교통사고다발지역자료를 이용하여 교통법규위반유형과 중대교통사고발 생 지점간의 공간적 관계를 분석하였다. 사망자·중상자·경상자에 차등가중치를 부여한 사고심각도지수(ASS)를 산정하고, 25개 자치구 7개연도에 걸친 1,380건의 패널자료를 구축하였다. 전역공간자기상관분석에서 사고심각도의양(+)의 공간적 군집성이 유의하게 확인되었으며(Moran’s I=0.2487, p",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382693",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.007",
                         "pdf":  ""
                     },
                     {
@@ -3381,22 +3366,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003382695",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "실시간 시스템 모니터링과 생성형 AI를 활용한 Linux 운영 학습 지원 시스템",
-                        "authors":  [
-                                        "김민제",
-                                        "안해리"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "Linux는 서버, 클라우드 컴퓨팅 및 정보보안 분야에서 폭넓게 활용되는 운영체제이지만, 명령 줄 인터페이스를 기반으로 하므로 초보 학습자는 명령어의 의미와 실행 결과, 서버 상태를 스스로 해석하는 데 어려움을 겪는다. 기존 모니터링 도구는 전문 운영자를 대상으로 설계되어 초보 학습자가 화면의 수치를 해석하기 어렵고, 가상머신 기반 실습 환경은 구축 부담이 크며 위험한 명령을 반복적으로 연습하기에 적합하지 않다. 본 연구는 실시간 서버 자원 모니터링과 웹 터미널, 가상 Linux 상태 시뮬레이션, 생성형 AI 질의응답을 하나의 웹 시스템으로 통합한 Linux 운영 학습 지원 시스템을 제안한다. 제안 시스템은 가상 실습에서 학습자가 입력한 명령을 실제 시스템이 아닌 서버가 보관하는 가상 상태에 반영하고, 성취 여부는 규칙 기반으로 서버가 판정하며, 생성형 AI(Amazon Bedrock)의 역할은 확정된 판정 결과와 상태 정보를 바탕으로 자연어 설명과 규칙 기반 단계별 힌트에 대한 부연 설명을 제공하는 것으로 한정하였다. 이를 통해 판정의 일관성과 재현성을 유지하면서도 학습자 수준에 맞춘 설명을 제공할 수 있다. 본 연구는 실제 학습자 대상 사용성 평가는 수행하지 않았으며, 기능 구현과 동작 검증을 중심으로 시스템의 가능성을 확인하였다. 향후 사용자 평가와 생성형 AI 설명 정확도 검증을 통해 Linux 서버 운영 입문 교육에 실질적으로 기여할 수 있을 것으로 기대된다",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382695",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.009",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003382687",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3430,6 +3399,21 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003382693",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "교통법규 위반과 중대 교통사고 발생지점 간의 공간적 관계",
+                        "authors":  [
+                                        "장정현"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 2017년부터 2023년까지 서울특별시 교통사고다발지역자료를 이용하여 교통법규위반유형과 중대교통사고발 생 지점간의 공간적 관계를 분석하였다. 사망자·중상자·경상자에 차등가중치를 부여한 사고심각도지수(ASS)를 산정하고, 25개 자치구 7개연도에 걸친 1,380건의 패널자료를 구축하였다. 전역공간자기상관분석에서 사고심각도의양(+)의 공간적 군집성이 유의하게 확인되었으며(Moran’s I=0.2487, p",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382693",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.007",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003382696",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3443,6 +3427,37 @@
                         "abstract":  "본 연구는 기후 변화와 대규모 산림 재해로 인해 자연 채취가 급감한 고부가가치 임산물인 초피(Zanthoxylum piperitum)를 대상으로, 노지 재배 환경의 안정화를 위한 저비용 차광 시설의 효용성을 분석하였다. 특히 신규 재배지에서 발생하는 데이터 희소성(Small data) 문제를 극복하고 재배 환경의 변동성을 정밀하게 예측하기 위해 베이지안 신경망(BNN) 알고리즘을 도입 하였으며, 노지와 노지 + 30% 차광망 설치 가설 구조물에서 2026년 3월 9일부터 22일간 지온을 측정한 결과 노지 대비 지온의 변동성 안정적 효과를 보였다. 이는 증발산량 억제를 통해 토양 함수율이 안정적으로 유지됨 유추할 수 있었다. 다른 토양의 성분분석은 노지에서 소규모 데이터 n=3을 수집하고, 데이터 부족을 해결하기 위해서, 비모수적 부트스트래핑 기법을 추가하여 울진 3개 지역 샘플의 잔차 분포를 바탕으로 재표본을 추출하여 (Silverman bandwidth h=0.099)를 적용한 Smoothed Bootstrap으로 산출하고 MAE (점추정 :0.1670) 95% 신뢰구간 [0.064, 0.297], RMSE (점추정 : 0.1730 ) 95% 신뢰구간 [0.075, 0.315 ]로 도출 하였다. 부트스트랩 시뮬레이션 오차의 상한선인 0.2833 수준으로 통제됨을 확인하였다. 인공지능 기술이 전통적 임업 현장의 시행착오를 줄이고 데이터 기반 정밀 임업으로 전환될 수 있는 가능성을 입증하였다",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382696",
                         "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.010",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382695",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "실시간 시스템 모니터링과 생성형 AI를 활용한 Linux 운영 학습 지원 시스템",
+                        "authors":  [
+                                        "김민제",
+                                        "안해리"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "Linux는 서버, 클라우드 컴퓨팅 및 정보보안 분야에서 폭넓게 활용되는 운영체제이지만, 명령 줄 인터페이스를 기반으로 하므로 초보 학습자는 명령어의 의미와 실행 결과, 서버 상태를 스스로 해석하는 데 어려움을 겪는다. 기존 모니터링 도구는 전문 운영자를 대상으로 설계되어 초보 학습자가 화면의 수치를 해석하기 어렵고, 가상머신 기반 실습 환경은 구축 부담이 크며 위험한 명령을 반복적으로 연습하기에 적합하지 않다. 본 연구는 실시간 서버 자원 모니터링과 웹 터미널, 가상 Linux 상태 시뮬레이션, 생성형 AI 질의응답을 하나의 웹 시스템으로 통합한 Linux 운영 학습 지원 시스템을 제안한다. 제안 시스템은 가상 실습에서 학습자가 입력한 명령을 실제 시스템이 아닌 서버가 보관하는 가상 상태에 반영하고, 성취 여부는 규칙 기반으로 서버가 판정하며, 생성형 AI(Amazon Bedrock)의 역할은 확정된 판정 결과와 상태 정보를 바탕으로 자연어 설명과 규칙 기반 단계별 힌트에 대한 부연 설명을 제공하는 것으로 한정하였다. 이를 통해 판정의 일관성과 재현성을 유지하면서도 학습자 수준에 맞춘 설명을 제공할 수 있다. 본 연구는 실제 학습자 대상 사용성 평가는 수행하지 않았으며, 기능 구현과 동작 검증을 중심으로 시스템의 가능성을 확인하였다. 향후 사용자 평가와 생성형 AI 설명 정확도 검증을 통해 Linux 서버 운영 입문 교육에 실질적으로 기여할 수 있을 것으로 기대된다",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382695",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.009",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374367",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "딥러닝 기반 감성 분석을 통한 영화 \u003c미나리 \u003e의 디아스포라 정서 구조 분석",
+                        "authors":  [
+                                        "백승주"
+                                    ],
+                        "journal":  "인공지능인문학연구",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구는 영화 \u003c미나리\u003e의 한국어 발화 300개를 코퍼스로 구축하고 KcELECTRA 기반 KOTE 모델과 24개 감정 범주 한국어 감정 어휘 사전을 병행 적용하여 이 영화의 디아스포라 정서 구조를 인물별⋅세대별로 검토하였다. 분석 결과 첫째, 동일한 갈등 상황에서도 제이콥의 분노, 모니카의 실망과 불안, 순자의 돌봄, 자녀 세대의 곤혹 등 인물별로 구별되는 감정 양상이 확인되었다. 둘째, 한국어로 감정을 표출하는 정도는 조부모 세대에서 자녀 세대로 갈수록 약화되었으며 독립적으로 산출된 두 지표가 동일한 세대 간 경향을 가리켰다. 셋째, 사전 기반 분석이 발화의 80% 이상에서 감정 표지를 확인하지 못한 반면 딥러닝 기반 분석은 그 침묵 구간의 대부분에서 뚜렷한 정서를 예측하였는데, 이는 \u003c미나리\u003e의 감정이 명시적 어휘가 아니라 어조와 맥락을 통해 전달됨을 시사한다. 본 연구는 계산적 도구의 산출값을 장면 맥락과 결합하여 해석하는 컴퓨터 보조 정밀 독해의 관점에서 감성 분석과 인문학적 해석이 결합하는 하나의 작업 모형을 제시하였다는 점에서 의의가 있다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374367",
+                        "doi":  "",
                         "pdf":  ""
                     },
                     {
@@ -3492,21 +3507,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374367",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "딥러닝 기반 감성 분석을 통한 영화 \u003c미나리 \u003e의 디아스포라 정서 구조 분석",
-                        "authors":  [
-                                        "백승주"
-                                    ],
-                        "journal":  "인공지능인문학연구",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구는 영화 \u003c미나리\u003e의 한국어 발화 300개를 코퍼스로 구축하고 KcELECTRA 기반 KOTE 모델과 24개 감정 범주 한국어 감정 어휘 사전을 병행 적용하여 이 영화의 디아스포라 정서 구조를 인물별⋅세대별로 검토하였다. 분석 결과 첫째, 동일한 갈등 상황에서도 제이콥의 분노, 모니카의 실망과 불안, 순자의 돌봄, 자녀 세대의 곤혹 등 인물별로 구별되는 감정 양상이 확인되었다. 둘째, 한국어로 감정을 표출하는 정도는 조부모 세대에서 자녀 세대로 갈수록 약화되었으며 독립적으로 산출된 두 지표가 동일한 세대 간 경향을 가리켰다. 셋째, 사전 기반 분석이 발화의 80% 이상에서 감정 표지를 확인하지 못한 반면 딥러닝 기반 분석은 그 침묵 구간의 대부분에서 뚜렷한 정서를 예측하였는데, 이는 \u003c미나리\u003e의 감정이 명시적 어휘가 아니라 어조와 맥락을 통해 전달됨을 시사한다. 본 연구는 계산적 도구의 산출값을 장면 맥락과 결합하여 해석하는 컴퓨터 보조 정밀 독해의 관점에서 감성 분석과 인문학적 해석이 결합하는 하나의 작업 모형을 제시하였다는 점에서 의의가 있다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374367",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003374371",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3519,38 +3519,6 @@
                         "abstract":  "Collaborative software has traditionally been thought to require single-player value: one user must benefit before others arrive. This study argues that in agentic artificial intelligence (AI) products, the thesis is necessary but insufficient. Because the user delegates work to a non-human counterpart and must decide what can be entrusted to it, the individual-use phase is a relational loop rather than an isolated utility loop. The study proposes the single-player-but-not-solitary loop and specifies credible presence: the quality by which an agent’s activity can be verified as work rather than merely appearing to be so. Drawing on Luhmann’s account of trust as complexity reduction and distinguishing trust from calibrated reliance, it defines the zombie task, a delegated task whose resource consumption outlives the intention that justified it, and analyzes its two subtypes and three strata of loss. Four design principles emerge from this analysis: responsible stopping, transparent state-sharing, ownable artifacts, and auditability.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374371",
                         "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382691",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "랜덤포레스트를 통한 작업형태별 안전모 자이로센서 기준값 설정",
-                        "authors":  [
-                                        "이상수",
-                                        "손윤정",
-                                        "김웅식"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "본 논문은 안전을 위해 보호 목적으로 착용 중인 안전모에 장착된 자이로센서 데이터를 기반으로 수집된 IM-AccGyro 데이터 셋을 활용하여 작업 동작 별 목 부위 부담 여부를 판단하는 IMU 기반 기준값을 예측하였다. 대부분의 센서류는 중국산 제품으로 제조사에서 기준값을 결정하기 위한 정보를 충분히 제공하지 않아 IoT 기기나 각종 측정기를 제작할 때 어려움을 경험한다. 모든 항목의 기준값 설정에 도움이 되기엔 제한적이지만 본 연구에서의 센서 및 유사 제품의 경우 이를 활용하여, 추정함으로써, 안전 확보에 대한 신뢰도를 높이고, 각종 센서가 적용된 안전 보호구류의 성능 향상에 도움이 될 것으로 생각된다. 추가로 다양한 데이터 셋을 활용한 분석으로 연구가 이뤄진다면, 많은 후행 연구자에게 도움이 될 것으로 생각된다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382691",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.005",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382688",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "YOLO와 DeepSORT 기반 실시간 객체 검출 및 추적 기법의 성능 분석",
-                        "authors":  [
-                                        "강성관"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "본 논문에서는 YOLO(You Only Look Once)와 DeepSORT(Simple Online and Realtime Tracking with a Deep Association Metric)를 결합한 실시간 사람 객체 추적 기법을 구현하고, 실시간 사람 객체 추적 환경에서 성능을 분석하였다. 기존의 CNN 기반 객체 검출·추적은 높은 정확도와 자동 특징 학습이 장점이나, 연산량이 커 실시간 처리와 복잡한 환경 대응에는 한계가 있다. 이러한 문제를 해결하기 위하여 본 연구에서는 one-stage detector인 YOLO를 활용하여 입력 영상에서 사람 객체를 빠르게 검출하고, DeepSORT 알고리즘을 적용하여 각 객체의 고유 ID를 유지하면서 프레임 간 연속적인 추적을 수행하는 통합 구조를 설계하였다. 특히 DeepSORT는 칼만 필터 기반의 상태 예측과 appearance feature 기반의 데이터 연관(Data Association)을 결합함으로써 객체 간 혼동을 최소화하고 추적 안정성을 향상시킨다. 실험 결과, 제안 방법은 기존 Faster R-CNN 기반 방법 대비 약 4배 이상의 처리 속도(FPS)를 향상시키면서도 유사한 수준의 검출 정확도(mAP)를 유지하는 것을 확인하였다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382688",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.002",
                         "pdf":  ""
                     },
                     {
@@ -3587,6 +3555,38 @@
                         "abstract":  "패스트 패션의 확산은 의류의 대량 생산과 소비를 가속화하였으며 이로 인해 의류 폐기물 증가와 환경 오염 문제가 심화되고 있다. 또한 의류 보관 과정에서 발생할 수 있는 습기, 악취, 세균 번식 문제는 의류의 품질 저하뿐 아니라 개인 위생 측면에서도 관리가 필요한 요소로 인식되고 있다. 이에 따라 단순한 의류 보관 기능을 넘어 의류의 상태를 체계적으로 관리하고 사용자 편의성을 높일 수 있는 스마트 옷장 시스템의 필요성이 증가하고 있다. 본 연구에서는 아두이노 기반의 IoT 기술을 활용해 옷장 내부의 습도를 제어하고 UV 살균 기능을 수행할 수 있는 스마트 옷장을 설계하고 구현하였다. 제안 시스템은 온습도 센서를 통해 옷장 내부 환경을 실시간으로 모니터링하고, 사용자가 설정한 조건에 따라 제습 또는 가습 장치를 제어하며, UV 램프를 이용해 위생적인 보관 환경을 제공한다. 또한 NFC를 활용해 의류의 소재, 색상, 계절성, 세탁 방법 등의 정보를 저장하고, 이를 바탕으로 날씨 기반 옷차림 추천 기능과 세탁 정보 제공 기능을 구현하였다. 아울러 본 연구는 현재 구현된 IoT 기반 기능을 바탕으로 향후 AI 기술을 접목한 확장 가능성을 함께 제안한다. 의류 이미지 인식, 개인화 추천, 세탁 및 살균 시점 예측과 같은 AI 기반 기능은 사용자의 수동 입력 부담을 줄이고, 보다 정교한 의류 관리 서비스를 제공하는 방향으로 발전할 수 있다. 따라서 본 연구는 의류 보관 환경 개선, 위생 관리, 사용자 편의성 향상, 지속 가능한 의류 소비 인식 제고에 기여할 수 있는 스마트 의류 관리 시스템의 가능성을 제시한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382694",
                         "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.008",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382691",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "랜덤포레스트를 통한 작업형태별 안전모 자이로센서 기준값 설정",
+                        "authors":  [
+                                        "이상수",
+                                        "손윤정",
+                                        "김웅식"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "본 논문은 안전을 위해 보호 목적으로 착용 중인 안전모에 장착된 자이로센서 데이터를 기반으로 수집된 IM-AccGyro 데이터 셋을 활용하여 작업 동작 별 목 부위 부담 여부를 판단하는 IMU 기반 기준값을 예측하였다. 대부분의 센서류는 중국산 제품으로 제조사에서 기준값을 결정하기 위한 정보를 충분히 제공하지 않아 IoT 기기나 각종 측정기를 제작할 때 어려움을 경험한다. 모든 항목의 기준값 설정에 도움이 되기엔 제한적이지만 본 연구에서의 센서 및 유사 제품의 경우 이를 활용하여, 추정함으로써, 안전 확보에 대한 신뢰도를 높이고, 각종 센서가 적용된 안전 보호구류의 성능 향상에 도움이 될 것으로 생각된다. 추가로 다양한 데이터 셋을 활용한 분석으로 연구가 이뤄진다면, 많은 후행 연구자에게 도움이 될 것으로 생각된다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382691",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.005",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382688",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "YOLO와 DeepSORT 기반 실시간 객체 검출 및 추적 기법의 성능 분석",
+                        "authors":  [
+                                        "강성관"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "본 논문에서는 YOLO(You Only Look Once)와 DeepSORT(Simple Online and Realtime Tracking with a Deep Association Metric)를 결합한 실시간 사람 객체 추적 기법을 구현하고, 실시간 사람 객체 추적 환경에서 성능을 분석하였다. 기존의 CNN 기반 객체 검출·추적은 높은 정확도와 자동 특징 학습이 장점이나, 연산량이 커 실시간 처리와 복잡한 환경 대응에는 한계가 있다. 이러한 문제를 해결하기 위하여 본 연구에서는 one-stage detector인 YOLO를 활용하여 입력 영상에서 사람 객체를 빠르게 검출하고, DeepSORT 알고리즘을 적용하여 각 객체의 고유 ID를 유지하면서 프레임 간 연속적인 추적을 수행하는 통합 구조를 설계하였다. 특히 DeepSORT는 칼만 필터 기반의 상태 예측과 appearance feature 기반의 데이터 연관(Data Association)을 결합함으로써 객체 간 혼동을 최소화하고 추적 안정성을 향상시킨다. 실험 결과, 제안 방법은 기존 Faster R-CNN 기반 방법 대비 약 4배 이상의 처리 속도(FPS)를 향상시키면서도 유사한 수준의 검출 정확도(mAP)를 유지하는 것을 확인하였다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382688",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.002",
                         "pdf":  ""
                     },
                     {
@@ -3636,6 +3636,22 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003364290",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "AI기반 개인화 학습경로 교육모형 수업효과성 연구: 중국 전문대학 전자정보 계열 학생을 중심으로",
+                        "authors":  [
+                                        "송선희",
+                                        "웨이라이"
+                                    ],
+                        "journal":  "AI와 인간사회",
+                        "date":  "2026-07",
+                        "abstract":  "본 연구는 중국 전문대학 전자정보 계열 전공 학생을 대상으로 AI기반 개인화 학습경로 교육모형이 학업성취도, 자기주도 학습능력, 학습흥미, 수업만족도 및 학업적 자기효능감에 미치는 영향을 검증하는 것을 목적으로 한다. 이를 위해 중국 후베이성 W대학 전자정보공학기술 전공 2학년 학생 77명을 연구 대상으로 선정하고, 프로젝트기반 수업을 적용한 비교집단(n=39)과 AI기반 개인화 학습경로 교육모형을 적용한 실험집단(n=38)으로 구성한 준실험 설계를 실시하였다. 두 집단은 동일한 교과 내용을 이수하였으며, 실험집단에는 학습자의 학습 수준과 반응을 기반으로 학습 순서와 과제 난이도를 조절하는 AI기반 개인화 학습경로가 적용되었다. 연구 결과, 실험집단은 비교집단에 비해 학업성취도, 자기주도 학습능력, 학습흥미, 수업만족도 및 학업적 자기효능감의 모든 변인에서 통계적으로 유의미하게 높은 수준을 나타냈다. 또한 실험집단의 사전·사후 비교 결과, 인지적 영역과 비인지적 영역 전반에서 일관된 향상이 확인되었다. 이러한 결과는 프로젝트기반 수업이라는 비교적 높은 교수·학습 조건 하에서도, 학습자의 개별 특성을 반영한 AI기반 학습경로 조절 구조가 수업효과성을 추가적으로 증진시킬 수 있음을 시사한다. 본 연구는 전문대학 전자정보 계열 교육 맥락에서 AI기반 개인화 학습경로 교육모형의 교육적 효과를 실증적으로 검증함으로써, 기존 교수·학습 방식 대비 AI 기반 학습경로의 부가적 교육적 가치를 제시한다는 점에서 의의를 갖는다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364290",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003364292",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3664,22 +3680,6 @@
                         "date":  "2026-07",
                         "abstract":  "무인 무기체계의 확산은 전쟁 수행 방식뿐만 아니라 전투원이 전쟁을 경험하고 책임을 인식하는 방식에도 근본적인 변화를 가져오고 있다. 본 연구는 무인 및 인공지능(AI) 기반 무기체계가 전투의 공간적 거리, 시간적 압박 및 기능적 분업 구조를 어떻게 변화시키는지를 분석하고, 이러한 변화가 전쟁 책임의 귀속과 책임 인식에 미치는 함의를 고찰하는 것을 목적으로 한다. 이를 위해 개념적·규범적 분석과 비교 사례연구를 결합한 질적 연구방법을 적용하였다. 분석 대상은 나고르노-카라바흐 전쟁, 러시아-우크라이나 전쟁, 가자 분쟁 및 홍해 작전 사례로 선정하였다. 분석 결과, 무인 무기체계는 전투원의 물리적 위험을 감소시키는 반면, 표적 식별과 교전 결정 과정에서 요구되는 인지적 부담은 증가시키는 것으로 나타났다. 또한 지휘관, 운용자, 시스템 개발자 및 정책결정자에게 책임이 분산됨에 따라 기존의 책임 귀속 구조는 더욱 복잡해지며, 특히 추적가능성과 설명가능성이 충분히 확보되지 않을 경우 책임 간극(responsibility gap)이 발생할 가능성이 높아지는 것으로 분석되었다. 이러한 분석 결과를 바탕으로 본 연구는 AI 기반 무기체계의 책임 있는 군사적 활용을 위해서는 의미 있는 인간 통제(Meaningful Human Control), 추적 가능한 의사결정 절차, 무기체계에 대한 포괄적인 법률 검토, 그리고 임무 특성을 고려한 운용상 제한이 제도적으로 마련되어야 함을 제안한다. 본 연구는 현대 AI 기반 전장에서 전투 경험의 변형이 전쟁 책임의 인식과 귀속 구조를 어떻게 변화시키는지를 설명하는 분석 프레임을 제시함으로써, 무인 무기체계와 전쟁 책임에 관한 기존 연구를 확장하는 데 학술적 의의를 갖는다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364318",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003364290",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "AI기반 개인화 학습경로 교육모형 수업효과성 연구: 중국 전문대학 전자정보 계열 학생을 중심으로",
-                        "authors":  [
-                                        "송선희",
-                                        "웨이라이"
-                                    ],
-                        "journal":  "AI와 인간사회",
-                        "date":  "2026-07",
-                        "abstract":  "본 연구는 중국 전문대학 전자정보 계열 전공 학생을 대상으로 AI기반 개인화 학습경로 교육모형이 학업성취도, 자기주도 학습능력, 학습흥미, 수업만족도 및 학업적 자기효능감에 미치는 영향을 검증하는 것을 목적으로 한다. 이를 위해 중국 후베이성 W대학 전자정보공학기술 전공 2학년 학생 77명을 연구 대상으로 선정하고, 프로젝트기반 수업을 적용한 비교집단(n=39)과 AI기반 개인화 학습경로 교육모형을 적용한 실험집단(n=38)으로 구성한 준실험 설계를 실시하였다. 두 집단은 동일한 교과 내용을 이수하였으며, 실험집단에는 학습자의 학습 수준과 반응을 기반으로 학습 순서와 과제 난이도를 조절하는 AI기반 개인화 학습경로가 적용되었다. 연구 결과, 실험집단은 비교집단에 비해 학업성취도, 자기주도 학습능력, 학습흥미, 수업만족도 및 학업적 자기효능감의 모든 변인에서 통계적으로 유의미하게 높은 수준을 나타냈다. 또한 실험집단의 사전·사후 비교 결과, 인지적 영역과 비인지적 영역 전반에서 일관된 향상이 확인되었다. 이러한 결과는 프로젝트기반 수업이라는 비교적 높은 교수·학습 조건 하에서도, 학습자의 개별 특성을 반영한 AI기반 학습경로 조절 구조가 수업효과성을 추가적으로 증진시킬 수 있음을 시사한다. 본 연구는 전문대학 전자정보 계열 교육 맥락에서 AI기반 개인화 학습경로 교육모형의 교육적 효과를 실증적으로 검증함으로써, 기존 교수·학습 방식 대비 AI 기반 학습경로의 부가적 교육적 가치를 제시한다는 점에서 의의를 갖는다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003364290",
                         "doi":  "",
                         "pdf":  ""
                     },
