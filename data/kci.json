@@ -1,5 +1,5 @@
 {
-    "fetched_at":  "2026-10-17T07:00:26+09:00",
+    "fetched_at":  "2026-10-18T07:00:27+09:00",
     "records":  [
                     {
                         "id":  "kci:ART003382951",
@@ -2364,22 +2364,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003372011",
-                        "topic":  "methodology",
-                        "origin":  "KCI",
-                        "title":  "냉정과 열정 사이? 온라인 미디어가 정당에 대한 정서적 양극화에 미치는 영향에 대한 연구",
-                        "authors":  [
-                                        "공지현",
-                                        "서찬석"
-                                    ],
-                        "journal":  "조사연구",
-                        "date":  "2026-08",
-                        "abstract":  "한국 사회의 정치적 양극화는 2024년 12월 윤석열 대통령의 비상계엄을 거치면서 한층 가속화되었다. 특히 양극화가 심화되는 과정에서 유튜브, 소셜 미디어, 온라인 커뮤니티 등 온라인 미디어의 역할이 크다고 보고되고 있다. 본 연구는 계엄과 탄핵 정국을 거쳐 2025년 5월에 치러진 21대대선을 전후하여 온라인 미디어가 정치적 양극화의 심화에 미친 영향을 조명한다. 특히 온라인매체 이용이 개별 정치인에 대한 호불호를 넘어 주요 정당에 대한 대중들의 정서적 양극화의 심화에 미치는 영향력을 분석했다. 대선 직전과 직후에 시행된 유권자 패널조사 자료에 대한 분수로짓 분석 결과, 온라인 미디어, 특히 대선 전에 유튜브 및 팟캐스트를 통해 관련 정보를 습득하는 것이 대선 직후 주요 정당에 대한 강한 감정적 호불호로 이어지는 것을 확인할 수 있었으며, 양대 정당인 민주당과 국민의힘 사이의 양극화된 감정 역시 유튜브를 비롯한 온라인 미디어의 이용과 관련성이 크다는 것을 확인할 수 있었다. 대선 직후에 나타난 정서적 양극화는 대선 직전의양극화를 통제한 이후에도 뚜렷이 나타났다. 본 연구는 정치에 대한 대중들의 정서적 양극화를이해하는 데 중요한 단초를 제공한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372011",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003372027",
                         "topic":  "methodology",
                         "origin":  "KCI",
@@ -2424,6 +2408,39 @@
                         "abstract":  "이 글의 목적은 AI 기술에 대한 일반인의 태도의 구조적 특징을 파악하고 제로섬 마인드셋과의관계를 탐색적으로 규명하는 것이다. AI 기술 발전에 대한 태도를 분석한 기존 연구는 태도의 현상을 기술하고 기술수용성에서의 기술적, 기능적 요소에 초점이 맞추어져 있어 태도를 형성하는심리적 신념 체계에 대한 관심은 상대적으로 적었다. 이 연구는 한 집단의 이득은 다른 집단의 손실을 초래한다는 일반화된 신념으로서의 제로섬 마인드셋이 AI 기술에 대한 태도를 구조화하는심리적 기제로 작동할 수 있다는 가설을 탐색한다. 분석에 사용된 자료는 2025년에 한국학중앙연구원이 수집한 ｢한국인의 사회문화적 의식과 실천에 대한 조사｣이며, 태도 시스템의 연결 구조와 제로섬 마인드셋과의 관계를 파악하기 위해 응답반응모델과 네트워크 분석을 결합한 응답반응 네트워크(Response Item Network, ResIN) 모델을 이용하였다. 분석 결과 AI 기술에 대한 태도는 찬성과 반대의 이분화된 구조라기보다는 우호적, 미온적, 비판적, 배타적 태도 등 네 개의 군집으로 분화되는 구조를 보였다. 또한 응답자의 절반 가까이가 비판적 태도 군집에 속하여 AI 기술의 무조건적 수용이나 반대보다 적절한 정책적 관리와 제도적보완을 요구하는 태도가 지배적으로 나타났다. 나아가 우호적 군집 내 AI 산업에 대한 집중 투자를 지지하는 응답과 비판적 군집 내 AI의 파괴적 효과에 대응하는 집단행동을 지지하는 응답이두 태도 군집을 연결하는 핵심 고리로 작동하는 등 태도 공간에서의 구조는 보다 복잡한 양상을띠었다. 제로섬 마인드셋과의 관계는 노드 수준과 개인 수준에서 AI에 대한 태도와 유의미한 정적 관계를 보였으며, 제로섬 마인드셋이 강할수록 AI 기술에 비판적인 응답 범주를 선택하는 경향이 일관되게 나타났다. 이러한 결과를 토대로 AI 기술 확산 정책과 위험 소통 전략 설계에 있어태도의 복잡한 구조와 심리적 요인을 고려할 필요성을 제기하였다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372020",
                         "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003372011",
+                        "topic":  "methodology",
+                        "origin":  "KCI",
+                        "title":  "냉정과 열정 사이? 온라인 미디어가 정당에 대한 정서적 양극화에 미치는 영향에 대한 연구",
+                        "authors":  [
+                                        "공지현",
+                                        "서찬석"
+                                    ],
+                        "journal":  "조사연구",
+                        "date":  "2026-08",
+                        "abstract":  "한국 사회의 정치적 양극화는 2024년 12월 윤석열 대통령의 비상계엄을 거치면서 한층 가속화되었다. 특히 양극화가 심화되는 과정에서 유튜브, 소셜 미디어, 온라인 커뮤니티 등 온라인 미디어의 역할이 크다고 보고되고 있다. 본 연구는 계엄과 탄핵 정국을 거쳐 2025년 5월에 치러진 21대대선을 전후하여 온라인 미디어가 정치적 양극화의 심화에 미친 영향을 조명한다. 특히 온라인매체 이용이 개별 정치인에 대한 호불호를 넘어 주요 정당에 대한 대중들의 정서적 양극화의 심화에 미치는 영향력을 분석했다. 대선 직전과 직후에 시행된 유권자 패널조사 자료에 대한 분수로짓 분석 결과, 온라인 미디어, 특히 대선 전에 유튜브 및 팟캐스트를 통해 관련 정보를 습득하는 것이 대선 직후 주요 정당에 대한 강한 감정적 호불호로 이어지는 것을 확인할 수 있었으며, 양대 정당인 민주당과 국민의힘 사이의 양극화된 감정 역시 유튜브를 비롯한 온라인 미디어의 이용과 관련성이 크다는 것을 확인할 수 있었다. 대선 직후에 나타난 정서적 양극화는 대선 직전의양극화를 통제한 이후에도 뚜렷이 나타났다. 본 연구는 정치에 대한 대중들의 정서적 양극화를이해하는 데 중요한 단초를 제공한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003372011",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374497",
+                        "topic":  "methodology",
+                        "origin":  "KCI",
+                        "title":  "Perceived Social Isolation and Subjective Quality of Life: The Moderating Role of Participation in the Senior Employment and Social Activity Support Program (SESAP)",
+                        "authors":  [
+                                        "정혜주",
+                                        "김민선",
+                                        "박희진"
+                                    ],
+                        "journal":  "한국사회복지조사연구",
+                        "date":  "2026-08",
+                        "abstract":  "This study examined whether participation in Korea\u0027s Senior Employment and Social Activity Support Program (SESAP) moderates the association between perceived social isolation and subjective quality of life (QOL) among older adults. As social isolation emerges as a policy concern in super-aged societies, whether large-scale employment programs can serve socially isolated older adults remains an open question. Data from the first wave of the Korean Seniors\u0027 Work and Life (KSWL) panel, comprising 6,000 adults aged 60 74, were analyzed using weighted hierarchical multiple regression, followed by simple-slope and design-based sensitivity analyses, controlling for demographic characteristics, subjective health, household financial satisfaction, and general social participation. Perceived social isolation was negatively associated with subjective QOL. SESAP participation moderated this association: the negative association was approximately 32% weaker among participants (B = −.192) than among nonparticipants (B = −.282), and the positive association between SESAP participation and subjective QOL was evident primarily among older adults with average or high levels of perceived social isolation. Although modest in magnitude, the buffering association was robust to a design-based sensitivity analysis incorporating the stratified sampling design. These findings suggest that SESAP may function not only as an employment intervention but also as a protective social resource, and that program evaluation should consider its capacity to protect vulnerable groups rather than average effects alone. Incorporating perceived social isolation into participant assessment and strengthening linkages with community-based support services may enhance the program\u0027s potential protective role for socially isolated older adults.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374497",
+                        "doi":  "http://dx.doi.org/10.17997/SWRY.88.1.7",
                         "pdf":  ""
                     },
                     {
@@ -2480,38 +2497,19 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374497",
+                        "id":  "kci:ART003374414",
                         "topic":  "methodology",
                         "origin":  "KCI",
-                        "title":  "Perceived Social Isolation and Subjective Quality of Life: The Moderating Role of Participation in the Senior Employment and Social Activity Support Program (SESAP)",
+                        "title":  "청년 수급자의 자활사업 재참여 경험에 관한 연구: 청년자립도전사업단 참여자를 중심으로",
                         "authors":  [
-                                        "정혜주",
-                                        "김민선",
-                                        "박희진"
+                                        "강금안",
+                                        "강준혁"
                                     ],
                         "journal":  "한국사회복지조사연구",
                         "date":  "2026-08",
-                        "abstract":  "This study examined whether participation in Korea\u0027s Senior Employment and Social Activity Support Program (SESAP) moderates the association between perceived social isolation and subjective quality of life (QOL) among older adults. As social isolation emerges as a policy concern in super-aged societies, whether large-scale employment programs can serve socially isolated older adults remains an open question. Data from the first wave of the Korean Seniors\u0027 Work and Life (KSWL) panel, comprising 6,000 adults aged 60 74, were analyzed using weighted hierarchical multiple regression, followed by simple-slope and design-based sensitivity analyses, controlling for demographic characteristics, subjective health, household financial satisfaction, and general social participation. Perceived social isolation was negatively associated with subjective QOL. SESAP participation moderated this association: the negative association was approximately 32% weaker among participants (B = −.192) than among nonparticipants (B = −.282), and the positive association between SESAP participation and subjective QOL was evident primarily among older adults with average or high levels of perceived social isolation. Although modest in magnitude, the buffering association was robust to a design-based sensitivity analysis incorporating the stratified sampling design. These findings suggest that SESAP may function not only as an employment intervention but also as a protective social resource, and that program evaluation should consider its capacity to protect vulnerable groups rather than average effects alone. Incorporating perceived social isolation into participant assessment and strengthening linkages with community-based support services may enhance the program\u0027s potential protective role for socially isolated older adults.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374497",
-                        "doi":  "http://dx.doi.org/10.17997/SWRY.88.1.7",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003374446",
-                        "topic":  "methodology",
-                        "origin":  "KCI",
-                        "title":  "Is more welfare always better? Employee welfare satisfaction and job stress among workers in SMEs: The moderating effect  of the additional use of similar public cultural and leisure services",
-                        "authors":  [
-                                        "조영림",
-                                        "오승진",
-                                        "고범준",
-                                        "유경진휴먼스페이스)"
-                                    ],
-                        "journal":  "한국사회복지조사연구",
-                        "date":  "2026-08",
-                        "abstract":  "The Korean government provides various cultural and leisure welfare services for workers in SMEs who receive relatively limited employer-provided benefits, yet little is known about whether the quantitative expansion of similar services consistently enhances worker-level outcomes. This study examined the association between employee welfare satisfaction and job stress among workers in SMEs and tested whether this relationship differed according to additional use of public cultural and leisure services similar to employer-provided benefits. Data from the Worker Welfare Card Introduction Study (n = 379) were analyzed using SPSS 29.0 and PROCESS Macro v4.2 to assess moderating effects. Higher employee welfare satisfaction was associated with lower job stress, but this negative relationship was attenuated among workers who additionally used similar public services. These findings shift the focus of SME welfare policy from fiscal efficiency to worker-perceived effectiveness and highlight the need to move beyond quantitative expansion toward coordination, integration, and differentiation among similar welfare services.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374446",
-                        "doi":  "http://dx.doi.org/10.17997/SWRY.88.1.6",
+                        "abstract":  "본 연구의 목적은 청년 수급자의 목소리를 통해 자활사업 종료 이후 재참여 과정과 이유를 파악하는 데 있다. 이를 위해 자활사업에 재참여한 청년 수급자 4명을 사례자로 선정하고 1:1 심층 면담을 통해 자료를 수집했다. 수집된 자료는 Creswell과 Poth(2025)가 제안한 질적 사례연구 방법을 활용하여 분석하였다. 분석 결과 사례자들은 사업단과의 상호 간 목적 불일치로 자활사업 참여를 중단했으며 종료 이후 일반노동시장의 취⋅창업을 시도했으나 높은 현실의 벽으로 좌절을 경험하였다. 사례자들은 생계유지와 미래 준비의 양립, 안전망 없이 홀로서기의 두려움, 사회적 관계에 대한 욕구로 인해 자활사업에 재참여하게 되었다. 이와 같은 연구 결과를 바탕으로 연구자들은 청년 수급자의 자활사업 재참여 원인을 해소하고 이들이 지속적이고 안정적으로 자립할 수 있는 정책지원 방안을 제시하였다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374414",
+                        "doi":  "http://dx.doi.org/10.17997/SWRY.88.1.5",
                         "pdf":  ""
                     },
                     {
@@ -2532,19 +2530,21 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374414",
+                        "id":  "kci:ART003374446",
                         "topic":  "methodology",
                         "origin":  "KCI",
-                        "title":  "청년 수급자의 자활사업 재참여 경험에 관한 연구: 청년자립도전사업단 참여자를 중심으로",
+                        "title":  "Is more welfare always better? Employee welfare satisfaction and job stress among workers in SMEs: The moderating effect  of the additional use of similar public cultural and leisure services",
                         "authors":  [
-                                        "강금안",
-                                        "강준혁"
+                                        "조영림",
+                                        "오승진",
+                                        "고범준",
+                                        "유경진휴먼스페이스)"
                                     ],
                         "journal":  "한국사회복지조사연구",
                         "date":  "2026-08",
-                        "abstract":  "본 연구의 목적은 청년 수급자의 목소리를 통해 자활사업 종료 이후 재참여 과정과 이유를 파악하는 데 있다. 이를 위해 자활사업에 재참여한 청년 수급자 4명을 사례자로 선정하고 1:1 심층 면담을 통해 자료를 수집했다. 수집된 자료는 Creswell과 Poth(2025)가 제안한 질적 사례연구 방법을 활용하여 분석하였다. 분석 결과 사례자들은 사업단과의 상호 간 목적 불일치로 자활사업 참여를 중단했으며 종료 이후 일반노동시장의 취⋅창업을 시도했으나 높은 현실의 벽으로 좌절을 경험하였다. 사례자들은 생계유지와 미래 준비의 양립, 안전망 없이 홀로서기의 두려움, 사회적 관계에 대한 욕구로 인해 자활사업에 재참여하게 되었다. 이와 같은 연구 결과를 바탕으로 연구자들은 청년 수급자의 자활사업 재참여 원인을 해소하고 이들이 지속적이고 안정적으로 자립할 수 있는 정책지원 방안을 제시하였다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374414",
-                        "doi":  "http://dx.doi.org/10.17997/SWRY.88.1.5",
+                        "abstract":  "The Korean government provides various cultural and leisure welfare services for workers in SMEs who receive relatively limited employer-provided benefits, yet little is known about whether the quantitative expansion of similar services consistently enhances worker-level outcomes. This study examined the association between employee welfare satisfaction and job stress among workers in SMEs and tested whether this relationship differed according to additional use of public cultural and leisure services similar to employer-provided benefits. Data from the Worker Welfare Card Introduction Study (n = 379) were analyzed using SPSS 29.0 and PROCESS Macro v4.2 to assess moderating effects. Higher employee welfare satisfaction was associated with lower job stress, but this negative relationship was attenuated among workers who additionally used similar public services. These findings shift the focus of SME welfare policy from fiscal efficiency to worker-perceived effectiveness and highlight the need to move beyond quantitative expansion toward coordination, integration, and differentiation among similar welfare services.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374446",
+                        "doi":  "http://dx.doi.org/10.17997/SWRY.88.1.6",
                         "pdf":  ""
                     },
                     {
