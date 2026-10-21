@@ -1,5 +1,5 @@
 {
-    "fetched_at":  "2026-10-21T07:00:28+09:00",
+    "fetched_at":  "2026-10-22T07:00:30+09:00",
     "records":  [
                     {
                         "id":  "kci:ART003382939",
@@ -973,6 +973,22 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003390240",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "이태원 참사 이후 경찰공무원의 재난안전 역할 인식 유형 분석- Q방법론적 접근 -",
+                        "authors":  [
+                                        "이윤호",
+                                        "박현환"
+                                    ],
+                        "journal":  "한국정책학회보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 2022년 이태원 참사 이후 경찰공무원의 재난안전 역할 인식이 어떻게 분화되어 있는지를 Q방법론을 통해 탐색적으로 분석하였다. 현대 위험사회에서 재난의 복합성이 심화됨에 따라 경찰의 재난안전 역할에 대한 제도적 기대와 전통적 치안 정체성 간의 긴장이 고조되고 있으며, 이러한 긴장이 현장 경찰관 개인의 역할 인식에 어떻게 나타나는지를 탐색하는 것이 본 연구의 핵심 문제의식이다. 문헌 검토, 심층면접, 전문가 자문을 통해 50개의 Q진술문을 구성하고, 현직 경찰공무원 35명을 대상으로 Q분류를 실시하였다. 그 결과 전통적 치안중심형, 국민안전 확장형, 위험기반 유연형, 법적근거 우선형, 체계개혁 지향형의 5개 인식 유형이 도출되었다. 본 연구는 조직정체성 이론을 핵심 분석 이론으로 삼아, 도출된 인식 유형을 조직 및 제도 변화와의 해석적 연관성 속에서 탐색적으로 검토하였다. 직급별 인식 분화는 단순한 선형적 패턴이 아니라 비선형적･다경로적 양상으로 나타났다. 특히 경위 직급은 모든 유형에 걸쳐 분포하여, 다양한 역할 인식이 공존하는 경향을 보였다. 정책적으로는 인식 유형별 차별화 전략과 인식 통합 전략을 병행하는 이중 전략이 요구되며, 다기관 합동훈련과 유관기관 정보 공유 시스템과 같은 합의 기반을 정책 추진의 출발점으로 활용할 필요가 있다. 이러한 결과는 경찰의 재난안전 역할 인식을 다중정체성 조직(multiple identity organization)의 관점에서 해석할 필요성을 제시하며, 재난안전 거버넌스의 재설계가 단일한 역할 규정의 강화만으로 달성될 수 없고 조직 내부의 다양한 인식 구조를 정책 설계 및 집행 과정에서의 핵심 자원으로 활용하는 접근이 중요함을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390240",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.13",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003390250",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -987,22 +1003,6 @@
                         "abstract":  "국제적 정책학습, 정책이전, 정책확산 연구는 한 주체의 정책과 정책경험이 다른 주체로 이전･수용되는 과정과 그 기제 및 결과를 주로 설명해 왔으나, 어떤 정책문제를 중요하게 인식하고 어떤 정책경험을 선택적으로 학습하고자 하는지, 즉 정책학습 수요에 대한 논의는 제한적으로 이루어졌다. 본 연구는 국가의 정책학습 수요를 분석함으로써 정책학습 연구의 분석 범위를 확장하고, 정책자문 및 지식공유 활동에 대한 함의를 제시하는 것을 목적으로 한다. 이를 위해 ‘표출된 정책학습 수요’를 한국의 경제발전경험 공유사업(Knowledge Sharing Program, KSP) 사업신청서 1,958건으로 조작화하고, 텍스트마이닝과 토픽모델링을 적용하여 그 구조와 변화를 분석하였다. 분석 결과, 정책학습 수요는 복수의 정책영역이 결합된 복합적 성격을 보였으며, 포괄적인 경제정책에서 보다 구체적인 정책과제와 이행 영역으로 이동하는 경향과 함께 권역과 소득 수준에 따른 차이가 확인되었다. 본 연구는 정책학습 연구의 분석 범위를 학습 수요가 형성되는 선행 단계로 확장하고, 정책학습 수요를 설명할 때 국가의 맥락과 정책문제의 특성을 고려할 필요성을 제기한다. 또한 KSP와 같은 정책자문사업에서 협력국의 정책수요와 제도적 여건을 고려하여 협력의 내용과 방식을 설계할 필요가 있음을 시사한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390250",
                         "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.23",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003390240",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "이태원 참사 이후 경찰공무원의 재난안전 역할 인식 유형 분석- Q방법론적 접근 -",
-                        "authors":  [
-                                        "이윤호",
-                                        "박현환"
-                                    ],
-                        "journal":  "한국정책학회보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 2022년 이태원 참사 이후 경찰공무원의 재난안전 역할 인식이 어떻게 분화되어 있는지를 Q방법론을 통해 탐색적으로 분석하였다. 현대 위험사회에서 재난의 복합성이 심화됨에 따라 경찰의 재난안전 역할에 대한 제도적 기대와 전통적 치안 정체성 간의 긴장이 고조되고 있으며, 이러한 긴장이 현장 경찰관 개인의 역할 인식에 어떻게 나타나는지를 탐색하는 것이 본 연구의 핵심 문제의식이다. 문헌 검토, 심층면접, 전문가 자문을 통해 50개의 Q진술문을 구성하고, 현직 경찰공무원 35명을 대상으로 Q분류를 실시하였다. 그 결과 전통적 치안중심형, 국민안전 확장형, 위험기반 유연형, 법적근거 우선형, 체계개혁 지향형의 5개 인식 유형이 도출되었다. 본 연구는 조직정체성 이론을 핵심 분석 이론으로 삼아, 도출된 인식 유형을 조직 및 제도 변화와의 해석적 연관성 속에서 탐색적으로 검토하였다. 직급별 인식 분화는 단순한 선형적 패턴이 아니라 비선형적･다경로적 양상으로 나타났다. 특히 경위 직급은 모든 유형에 걸쳐 분포하여, 다양한 역할 인식이 공존하는 경향을 보였다. 정책적으로는 인식 유형별 차별화 전략과 인식 통합 전략을 병행하는 이중 전략이 요구되며, 다기관 합동훈련과 유관기관 정보 공유 시스템과 같은 합의 기반을 정책 추진의 출발점으로 활용할 필요가 있다. 이러한 결과는 경찰의 재난안전 역할 인식을 다중정체성 조직(multiple identity organization)의 관점에서 해석할 필요성을 제시하며, 재난안전 거버넌스의 재설계가 단일한 역할 규정의 강화만으로 달성될 수 없고 조직 내부의 다양한 인식 구조를 정책 설계 및 집행 과정에서의 핵심 자원으로 활용하는 접근이 중요함을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390240",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.13",
                         "pdf":  ""
                     },
                     {
@@ -1101,71 +1101,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003389316",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "일본 수출규제가 소재･부품･장비 산업 연구개발(R\u0026D) 및 특허성과에 미친 영향: 국내 1,000대 R\u0026D 투자기업을 중심으로",
-                        "authors":  [
-                                        "이재진",
-                                        "권일웅"
-                                    ],
-                        "journal":  "행정논총",
-                        "date":  "2026-09",
-                        "abstract":  "본 논문은 2019년 일본의 반도체 및 디스플레이 핵심 소재 수출규제가 한국의 소재･부품･장비(소부장) 산업 연구개발(R\u0026D) 및 특허성과에 미친 영향을 실증적으로 분석하였다. 한국산업기술진흥원의 ｢2024년 1,000대 R\u0026D투자 기업 스코어보드｣를 활용하여, 국내 R\u0026D 투자 상위 1,000대 기업에 대한 2015-2023 패널 데이터를 구축하였으며, 소부장 기업들을 처치집단, 비소부장 기업들을 통제집단으로 설정한 고정효과 이중차분(DID) 모형을 추정하였다. 2019년 일본의 수출규제 이후, 소부장 기업에 대한 정부 R\u0026D는 증가하였으나, 기업 R\u0026D는 상대적으로 감소한 것으로 나타났다. 또한 소부장 기업의 특허성과도 상대적으로 감소하였다. 이러한 결과는 향후 소부장 산업의 기술자립 전략과 정부 지원정책의 방향을 제시하는 반면, 핵심 소부장에 대한 수출규제가 수입국의 기술개발을 저하시켜 장기적으로도 피해를 입힐 수 있다는 가능성을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389316",
-                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.1",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003389549",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "합리적 선택의 확장적 재구성: 주체적 합리성, 매개적 합리성, 그리고 절차적 합리성",
-                        "authors":  [
-                                        "오창희",
-                                        "신헌태",
-                                        "김형아"
-                                    ],
-                        "journal":  "행정논총",
-                        "date":  "2026-09",
-                        "abstract":  "합리적 선택 이론은 공공 연구의 핵심 분석 틀로 기능해 왔으나, 주어진 선호와 완전 정보하의 효용 극대화라는 도구적 합리성을 기준으로 삼아왔다. 이는 선호 형성, 집합 결정 전환의 제도적 조건, 정당화 절차를 하나의 개념에 묶어 권력과 정보의 비대칭 문제를 포섭하지 못했다. 이에 본 연구는 합리성을 주체적, 매개적, 절차적 차원으로 재구성한다. 첫째, 주체적 합리성은 개인이 관계, 규범, 정체성, 시간지평까지 선호에 내면화함을 강조하며, 그 선택은 외부에서 비합리적이라 단정될 수 없다. 둘째, 매개적 합리성은 개인의 판단이 집합적 결정으로 전환되는 제도적 조건에 주목하며, 권력집중･정보 비대칭･참여 제한 중 하나만 있어도 결정의 근거가 다수의 표출된 선호에서 소수의 판단으로 뒤바뀌는 ‘합리성 근거의 전도’가 나타날 수 있다. 셋째, 절차적 합리성은 가치가 다원적이고 결과가 불확실한 영역에서 숙의･이유제시･결정규칙･공개성･책임성이 결과의 최적성보다 중요한 정당성 기준이 됨을 강조한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389549",
-                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.3",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003389335",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "공무원의 항의(Voice)행동에 미치는 조직문화의 조합",
-                        "authors":  [
-                                        "강민서",
-                                        "임민혜",
-                                        "김정숙"
-                                    ],
-                        "journal":  "행정논총",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 공무원의 항의행동에 영향을 미치는 조직문화의 조합을 규명하기 위해 경쟁가치모형에 기반한 조직문화 유형과 인구통계학적 변수를 포함하여 CART 회귀 의사결정나무 분석을 수행하였다. 분석 결과, 관계지향 문화가 공무원의 항의행동을 구분하는 가장 핵심적인 요인으로 나타났으며, 그 다음으로 혁신지향 문화가 중요한 분기변수로 도출되었다. 이러한 결과는 공공조직에서 항의행동이 단일한 조직문화 유형의 효과로 설명되기보다, 조직구성원 간의 관계와 신뢰, 혁신을 지지하는 문화적 조건이 결합될 때 보다 활성화될 수 있음을 시사한다. 이는 조직문화와 조직 구성원의 반응행동 간 관계를 조합적 관점에서 설명하였다는 점에서 이론적 의의가 있으며, 조직 구성원의 반응행동을 활성화하기 위한 조직문화 조성의 중요성을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389335",
-                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.5",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003389321",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "연구개발특구 지정의 성과와 지역경제적 영향: 단계별 성과평가를 중심으로",
-                        "authors":  [
-                                        "최현태"
-                                    ],
-                        "journal":  "행정논총",
-                        "date":  "2026-09",
-                        "abstract":  "연구개발특구는 공공기술의 사업화 성과를 기업과 지역의 성장으로 확산시키려는 장소기반 정책이다. 기존 연구를 확장하여, 본 연구는 대덕 이후 확대된 특구 전반에서 법적 지정, 실제 가동, 직접 산출, 기업활동과 지역경제적 영향을 단계별로 구분하여 평가한다. 고시와 사업자료 및 특구 통계로 특구별 집행과 내부 성과를 비교하고 광주와 대구의 시군구 패널에서는 지역경제적 영향을 이중차분법으로 분석하였다. 부산특구는 개발공간의 가동이 늦고 정책 노출범위에 따라 결과가 달랐다. 전북특구는 혁신도시와 중첩되어 집계자료만으로 특구의 추가적 기여를 식별할 수 없었다. 광주특구와 대구특구에서는 기술이전, 연구소기업과 내부 활동이 확대되었지만 시군구 수록 사업체와 종사자로 확산되었다는 일관된 증거는 확인되지 않았다. 이 결과는 특구 평가가 실적 집계에 머물러서는 안 되며, 가동 이후 직접 산출이 기업활동과 지역의 추가적 성장으로 이어지는지를 확인하고 이를 사업조정의 근거로 삼아야 함을 보여준다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389321",
-                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.2",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003389582",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1209,6 +1144,71 @@
                         "abstract":  "본 연구는 북한의 지속가능발전목표(Sustainable Development Goals: SDGs) 이행 수준을 환경 분야를 중심으로 분석하고, 이를 한국 및 세계 평균과 비교하여 북한의 환경 지속가능발전의 특성을 평가하는 것을 목적으로 한다. 이를 위해 북한의 자발적 국가보고서(Voluntary National Review: VNR)를 검토하고, Sustainable Development Report(SDR)의 국제 비교 자료를 활용하여 장기 시계열이 확보된 물관리, 에너지, 지속가능한 생산과 소비, 기후변화, 해양 및 육상생태계 분야의 주요 지표를 분석하였다. 분석 결과, 북한의 환경 SDGs 이행 수준은 지표별로 상당한 차이를 보였다. 기본 위생서비스 접근성, 생산활동에 따른 대기오염 및 질소 배출, 온실가스 배출, 해양건강지수 등은 세계 평균과 비교하여 상대적으로 양호하거나 개선되는 경향을 보였다. 반면 전력 및 청정연료 접근성은 개선 추세에도 불구하고 여전히 낮은 수준이며, 남획과 저인망･준설 방식 어획 등 해양생태계 관련 지표에서도 취약한 상태가 지속되고 있었다. 특히 일부 환경지표의 배출 수준 저감과 개선 추세는 환경정책의 성과라기보다 낮은 산업화 수준과 생산･소비 규모, 제한된 국제무역 등 북한의 경제구조에서 비롯되었을 가능성이 큰 것으로 보인다. 따라서 북한의 환경 SDGs 성과는 지표의 절대 수준이나 변화 방향만으로 평가하기보다 경제･산업구조와 에너지 체계, 대외경제 여건 및 데이터 제약을 함께 고려하여 해석할 필요가 있다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389567",
                         "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.6",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003389549",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "합리적 선택의 확장적 재구성: 주체적 합리성, 매개적 합리성, 그리고 절차적 합리성",
+                        "authors":  [
+                                        "오창희",
+                                        "신헌태",
+                                        "김형아"
+                                    ],
+                        "journal":  "행정논총",
+                        "date":  "2026-09",
+                        "abstract":  "합리적 선택 이론은 공공 연구의 핵심 분석 틀로 기능해 왔으나, 주어진 선호와 완전 정보하의 효용 극대화라는 도구적 합리성을 기준으로 삼아왔다. 이는 선호 형성, 집합 결정 전환의 제도적 조건, 정당화 절차를 하나의 개념에 묶어 권력과 정보의 비대칭 문제를 포섭하지 못했다. 이에 본 연구는 합리성을 주체적, 매개적, 절차적 차원으로 재구성한다. 첫째, 주체적 합리성은 개인이 관계, 규범, 정체성, 시간지평까지 선호에 내면화함을 강조하며, 그 선택은 외부에서 비합리적이라 단정될 수 없다. 둘째, 매개적 합리성은 개인의 판단이 집합적 결정으로 전환되는 제도적 조건에 주목하며, 권력집중･정보 비대칭･참여 제한 중 하나만 있어도 결정의 근거가 다수의 표출된 선호에서 소수의 판단으로 뒤바뀌는 ‘합리성 근거의 전도’가 나타날 수 있다. 셋째, 절차적 합리성은 가치가 다원적이고 결과가 불확실한 영역에서 숙의･이유제시･결정규칙･공개성･책임성이 결과의 최적성보다 중요한 정당성 기준이 됨을 강조한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389549",
+                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.3",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003389316",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "일본 수출규제가 소재･부품･장비 산업 연구개발(R\u0026D) 및 특허성과에 미친 영향: 국내 1,000대 R\u0026D 투자기업을 중심으로",
+                        "authors":  [
+                                        "이재진",
+                                        "권일웅"
+                                    ],
+                        "journal":  "행정논총",
+                        "date":  "2026-09",
+                        "abstract":  "본 논문은 2019년 일본의 반도체 및 디스플레이 핵심 소재 수출규제가 한국의 소재･부품･장비(소부장) 산업 연구개발(R\u0026D) 및 특허성과에 미친 영향을 실증적으로 분석하였다. 한국산업기술진흥원의 ｢2024년 1,000대 R\u0026D투자 기업 스코어보드｣를 활용하여, 국내 R\u0026D 투자 상위 1,000대 기업에 대한 2015-2023 패널 데이터를 구축하였으며, 소부장 기업들을 처치집단, 비소부장 기업들을 통제집단으로 설정한 고정효과 이중차분(DID) 모형을 추정하였다. 2019년 일본의 수출규제 이후, 소부장 기업에 대한 정부 R\u0026D는 증가하였으나, 기업 R\u0026D는 상대적으로 감소한 것으로 나타났다. 또한 소부장 기업의 특허성과도 상대적으로 감소하였다. 이러한 결과는 향후 소부장 산업의 기술자립 전략과 정부 지원정책의 방향을 제시하는 반면, 핵심 소부장에 대한 수출규제가 수입국의 기술개발을 저하시켜 장기적으로도 피해를 입힐 수 있다는 가능성을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389316",
+                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.1",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003389335",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "공무원의 항의(Voice)행동에 미치는 조직문화의 조합",
+                        "authors":  [
+                                        "강민서",
+                                        "임민혜",
+                                        "김정숙"
+                                    ],
+                        "journal":  "행정논총",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 공무원의 항의행동에 영향을 미치는 조직문화의 조합을 규명하기 위해 경쟁가치모형에 기반한 조직문화 유형과 인구통계학적 변수를 포함하여 CART 회귀 의사결정나무 분석을 수행하였다. 분석 결과, 관계지향 문화가 공무원의 항의행동을 구분하는 가장 핵심적인 요인으로 나타났으며, 그 다음으로 혁신지향 문화가 중요한 분기변수로 도출되었다. 이러한 결과는 공공조직에서 항의행동이 단일한 조직문화 유형의 효과로 설명되기보다, 조직구성원 간의 관계와 신뢰, 혁신을 지지하는 문화적 조건이 결합될 때 보다 활성화될 수 있음을 시사한다. 이는 조직문화와 조직 구성원의 반응행동 간 관계를 조합적 관점에서 설명하였다는 점에서 이론적 의의가 있으며, 조직 구성원의 반응행동을 활성화하기 위한 조직문화 조성의 중요성을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389335",
+                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.5",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003389321",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "연구개발특구 지정의 성과와 지역경제적 영향: 단계별 성과평가를 중심으로",
+                        "authors":  [
+                                        "최현태"
+                                    ],
+                        "journal":  "행정논총",
+                        "date":  "2026-09",
+                        "abstract":  "연구개발특구는 공공기술의 사업화 성과를 기업과 지역의 성장으로 확산시키려는 장소기반 정책이다. 기존 연구를 확장하여, 본 연구는 대덕 이후 확대된 특구 전반에서 법적 지정, 실제 가동, 직접 산출, 기업활동과 지역경제적 영향을 단계별로 구분하여 평가한다. 고시와 사업자료 및 특구 통계로 특구별 집행과 내부 성과를 비교하고 광주와 대구의 시군구 패널에서는 지역경제적 영향을 이중차분법으로 분석하였다. 부산특구는 개발공간의 가동이 늦고 정책 노출범위에 따라 결과가 달랐다. 전북특구는 혁신도시와 중첩되어 집계자료만으로 특구의 추가적 기여를 식별할 수 없었다. 광주특구와 대구특구에서는 기술이전, 연구소기업과 내부 활동이 확대되었지만 시군구 수록 사업체와 종사자로 확산되었다는 일관된 증거는 확인되지 않았다. 이 결과는 특구 평가가 실적 집계에 머물러서는 안 되며, 가동 이후 직접 산출이 기업활동과 지역의 추가적 성장으로 이어지는지를 확인하고 이를 사업조정의 근거로 삼아야 함을 보여준다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389321",
+                        "doi":  "http://dx.doi.org/10.24145/KJPA.64.3.2",
                         "pdf":  ""
                     },
                     {
@@ -1826,6 +1826,23 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003389387",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "자체 감사기구의 감사역량과 감사성과 및 조직성과 간 관계 분석:공공기관을 중심으로",
+                        "authors":  [
+                                        "신영민",
+                                        "정수빈",
+                                        "김현준"
+                                    ],
+                        "journal":  "한국조직학회보",
+                        "date":  "2026-08",
+                        "abstract":  "공공기관의 자체 감사기구는 내부 통제의 공백을 식별하고 개선하는 역할을 한다. 이를 위해, 감사역량으로서 독립성과 전문성이 필요하며, 이들 역량은 감사성과를 산출하고 조직성과와도 연결될 수 있다. 본 연구는 2020년부터 2024년까지의 공공기관 패널 자료를 활용하여 감사역량, 감사성과, 조직성과 간의 연관성을 기관 간 평균 차이와 기관 내 편차 측면으로 구분해 분석하였다. 분석 결과, 기관 간 평균 차이 측면에서 전문성은 감사성과를 통해 조직성과와 정(+)의 관계를 보였다. 전문성이 높은 감사기구를 보유한 기관일수록 감사성과가 높고, 이러한 감사성과가 조직성과와 연결될 수 있다. 반면 독립성은 감사성과를 경유하지 않고 조직성과와 직접적인 정(+)의 관계를 보였다. 이는 독립성이 감사성과를 통한 경로보다 내부 관리에 대한 규율과 직접적으로 연관될 가능성을 시사한다. 분석 결과는 감사역량이 공공기관의 관리 통제와 성과 수준을 설명하는 데 고려될 수 있음을 보여준다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389387",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003389378",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1855,23 +1872,6 @@
                         "date":  "2026-08",
                         "abstract":  "본 연구에서는 직무자원요구이론, 넛지이론 등에 근거해 공공조직 내 변화관리와 변혁적 리더십, 넛지요인(업무 자율성, 목표 명확성, 혁신풍토)이 조직 구성원의 혁신 행동에 어떠한 영향을 미치는지에 대한 부분을 실증적으로 검증하였다. 나아가 변화관리와 변혁적 리더십의 영향에 대한 넛지요인의 조절효과도 검증하였다. 분석 결과, 변화관리, 변혁적 리더십, 업무 자율성, 목표 명확성, 혁신풍토는 혁신행동에 통계적으로 유의미한 영향을 미치는 것으로 나타났으며, 변화관리와 변혁적 리더십이 혁신행동에 미치는 영향은 넛지요인에 따라 상이하게 나타나는 것을 확인하였다. 연구결과와 리더십대체이론, 리더십상황이론을 바탕으로 공무원의 혁신 행동을 제고하기 위해서는 단순히 리더십에 의존하기보다 조직 내 넛지요인에 주목할 필요가 있다는 정책적 함의를 제시하였다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389382",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003389387",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "자체 감사기구의 감사역량과 감사성과 및 조직성과 간 관계 분석:공공기관을 중심으로",
-                        "authors":  [
-                                        "신영민",
-                                        "정수빈",
-                                        "김현준"
-                                    ],
-                        "journal":  "한국조직학회보",
-                        "date":  "2026-08",
-                        "abstract":  "공공기관의 자체 감사기구는 내부 통제의 공백을 식별하고 개선하는 역할을 한다. 이를 위해, 감사역량으로서 독립성과 전문성이 필요하며, 이들 역량은 감사성과를 산출하고 조직성과와도 연결될 수 있다. 본 연구는 2020년부터 2024년까지의 공공기관 패널 자료를 활용하여 감사역량, 감사성과, 조직성과 간의 연관성을 기관 간 평균 차이와 기관 내 편차 측면으로 구분해 분석하였다. 분석 결과, 기관 간 평균 차이 측면에서 전문성은 감사성과를 통해 조직성과와 정(+)의 관계를 보였다. 전문성이 높은 감사기구를 보유한 기관일수록 감사성과가 높고, 이러한 감사성과가 조직성과와 연결될 수 있다. 반면 독립성은 감사성과를 경유하지 않고 조직성과와 직접적인 정(+)의 관계를 보였다. 이는 독립성이 감사성과를 통한 경로보다 내부 관리에 대한 규율과 직접적으로 연관될 가능성을 시사한다. 분석 결과는 감사역량이 공공기관의 관리 통제와 성과 수준을 설명하는 데 고려될 수 있음을 보여준다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003389387",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3648,6 +3648,21 @@
                         "date":  "2026-09",
                         "abstract":  "생성형 인공지능(AI)은 프로그래밍 교육에서 코드 수정, 테스트 생성, 코드 리뷰 응답 등 다양한 학습 피드백을 제공할 수 있지만, 유창한 설명이 실제 코드 동작, 기준 테스트, 문제 요구사항, 리뷰 의도와 항상 일치하는 것은 아니다. 본 연구는 초급 Python 프로그래밍 교육 맥락에서, 단일 생성형 AI 모델과 구조화된 프롬프트 조건에서 산출된 피드백을 대상으로 정합성 기반 신뢰성을 사례 기반으로 평가하였다. 본 연구에서 신뢰성은 반복 측정에 대한 심리측정학적 신뢰도가 아니라, 피드백이 실행 결과, 기준 테스트, 문제 요구사항, 리뷰 의도, 코드 근거와 정합적으로 연결되는 정도를 의미한다. 기본 오류 10개와 도전 오류 10개를 구성하고, 코드 수정, 테스트 생성, 리뷰 응답 피드백 총 60건을 오류 원인 정합성, 실행 가능성, 기능적 정확성, 테스트 유효성, 리뷰 의도 정합성, 설명 근거성, 교육적 적절성에 따라 분석하였다. 평가는 소프트웨어공학 교육 및 인공지능 소프트웨어 교육 경험을 가진 연구자의 판정과 소프트웨어공학 석사과정 검토자의 추가 검토를 거쳤다. 기본 세트의 10개 사례에서 생성된 30건의 피드백은 모두 신뢰 가능으로 판정되었으며, 도전 세트의 10개 사례에서 생성된 30건의 피드백은 신뢰 가능 23건, 부분 신뢰 6건, 신뢰 불가 1건으로 판정되었다. 부분 신뢰 및 신뢰 불가 사례는 주로 구두점 처리, 복합 조건, 경계 사례, 순서 보존 근거 설명의 부족과 관련되었다. 본 연구의 결과는 생성형 AI 피드백 일반의 성능을 확정적으로 평가한 것이 아니라, 본 연구의 단일 모델, 구조화된 프롬프트, 단일 응답, 초급 Python 사례 조건에서 생성된 피드백 산출물이 실행 결과, 기준 테스트, 코드 근거, 리뷰 의도와 어떻게 정합적으로 연결되는지를 보여주는 사례 기반 결과이다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394995",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003395169",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "A Historical Review of AI-Based Music Composition: From Local Pattern Prediction to Holistic Audio Generation",
+                        "authors":  [
+                                        "반병현"
+                                    ],
+                        "journal":  "인공지능연구 논문지",
+                        "date":  "2026-09",
+                        "abstract":  "AI-based music composition has evolved from explicit rule encoding and local symbolic prediction to end-to-end generation of integrated musical audio. This historical review examines representative systems that either introduced a distinct generative paradigm or achieved practical deployment. It traces the progression from rule-based and stochastic models through recurrent networks and Transformers to waveform, latent-audio, diffusion, flow-matching, hybrid, and multimodal approaches. Early models reproduced local transitions among notes, chords, and rhythms but struggled with long-range form and thematic development. Recurrent and attention-based architectures expanded temporal context, yet largely remained within symbolic prediction. Audio-level models shifted the generative target from musical instructions to sound itself, enabling joint modeling of structure, performance, timbre, texture, and acoustic realization. The review argues that the key historical transition was not simply an increase in model capacity, but a change in representational scope: from decomposing music into human-defined units to learning high-dimensional relationships more holistically. Current systems still face unresolved problems in long-term planning, fine-grained control, editability, and human–AI collaboration. Nevertheless, their development reflects a broader movement from automating compositional procedures toward modeling increasingly integrated stages of musical ideation and sound formation.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003395169",
                         "doi":  "",
                         "pdf":  ""
                     },
