@@ -353,13 +353,14 @@
    ],
    "journal": "Public Performance & Management Review",
    "date": "2026-08-03",
-   "abstract": "",
+   "abstract": "While performance management systems increasingly require public agencies to set clear goals, equity, as a core democratic value, has been systematically underrepresented in performance goal setting, leaving its effects on citizen assessments largely understudied. Drawing on the frameworks of goal clarity, public values, and expectancy disconfirmation theories, this study examines how clear equity goals moderate the relationship between equity performance outcomes and citizen assessments. Using survey vignette experiments with a hypothetical police department’s performance goals and outcomes (N = 2,307), the results show that there is a negative interaction effect of equity goals and equity performance outcomes, indicating that citizens distinguish less between high and low equity performance when clear equity goals are present. This study suggests that incorporating equity values into performance goals shapes how citizens evaluate government performance by raising the normative standard against which that performance is judged.",
    "url": "https://doi.org/10.1080/15309576.2026.2709590",
    "doi": "10.1080/15309576.2026.2709590",
    "pdf": "",
    "first_seen": "2026-08-09T01:35:52+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "성과 관리 시스템에서는 점점 더 공공 기관에 명확한 목표 설정을 요구하고 있지만 핵심 민주적 가치인 형평성은 성과 목표 설정에서 체계적으로 과소대표되어 시민 평가에 미치는 영향이 크게 과소 연구되고 있습니다. 목표 명확성, 공공 가치 및 기대 불일치 이론의 프레임워크를 바탕으로 이 연구는 명확한 형평성 목표가 형평성 성과 결과와 시민 평가 간의 관계를 어떻게 조절하는지 조사합니다. 가상의 경찰서 성과 목표 및 결과(N = 2,307)에 대한 설문조사 비네팅 실험을 사용한 결과, 형평성 목표와 형평성 성과 결과에 부정적인 상호 작용 효과가 있음이 나타났습니다. 이는 명확한 형평성 목표가 있을 때 시민들이 높은 형평성 성과와 낮은 형평성 성과를 덜 구별한다는 것을 나타냅니다. 이 연구는 형평성 가치를 성과 목표에 통합하는 것이 성과를 판단하는 규범적 기준을 높여 시민들이 정부 성과를 평가하는 방식을 형성한다는 것을 시사합니다."
   },
   "oa:W7172381780": {
    "id": "oa:W7172381780",
@@ -13023,7 +13024,7 @@
    "abstract": "Abstract Existing research suggests that a lack of institutional memory causes history to repeat in problematic ways within public administration agencies. However, this claim has not been well supported by theory or data that illuminate the process and effects of history repeating. To remedy this, the nascent concept of institutional amnesia is presented here as a means of theorizing repetitions of public administrative history. A sequential explanatory mixed method research design uses quantitative survey data (n = 1608) and qualitative interview data (n = 75) generated in the public services of Australia, New Zealand, and the UK to show how institutional amnesia can lead to the recycling of ideas and practices, the inefficient relearning of information-seeking processes and the delivery of conducive decision-making environments that can help address historical problems. These findings draw attention to the fact that administrative history does indeed repeat in public agencies because of institutional amnesia, but that it does so in positive as well as negative ways.",
    "url": "https://doi.org/10.1093/jopart/muag025",
    "doi": "10.1093/jopart/muag025",
-   "pdf": "https://doi.org/10.17863/cam.136104",
+   "pdf": "https://www.repository.cam.ac.uk/handle/1810/409953",
    "first_seen": "2026-08-14T08:11:07+09:00",
    "abstract_ko": "Abstract 기존 연구에 따르면 제도적 기억의 부족으로 인해 공공 행정 기관 내에서 역사가 문제적으로 반복되는 것으로 나타났습니다. 그러나 이러한 주장은 역사 반복의 과정과 효과를 조명하는 이론이나 데이터에 의해 제대로 뒷받침되지 않았습니다. 이를 해결하기 위해 여기서는 공공 행정 역사의 반복을 이론화하는 수단으로 제도적 기억상실의 초기 개념을 제시합니다. 순차적 설명 혼합 방법 연구 설계는 호주, 뉴질랜드 및 영국의 공공 서비스에서 생성된 정량적 조사 데이터(n=1608)와 정성적 인터뷰 데이터(n=75)를 사용하여 어떻게 제도적 기억 상실증이 아이디어와 관행의 재활용, 정보 탐색 프로세스의 비효율적인 재학습, 역사적 문제를 해결하는 데 도움이 될 수 있는 유익한 의사 결정 환경의 전달로 이어질 수 있는지 보여줍니다. 이러한 연구 결과는 제도적 기억 상실로 인해 공공 기관에서 행정 역사가 실제로 반복되지만 긍정적인 방식과 부정적인 방식으로 반복된다는 사실에 주목합니다.",
    "abs_tries": 0,
@@ -31825,13 +31826,14 @@
    ],
    "journal": "Journal of the American Statistical Association",
    "date": "2026-08-06",
-   "abstract": "",
+   "abstract": "We propose a family of tests of the validity of the assumptions underlying independent component analysis methods. The tests are based on empirical characteristic functions computed from estimated independent components; rank-based versions are also proposed. The test statistics involve weights; proper choices of these weights and the estimation method for the mixing matrix yield universally consistent and affine-invariant tests. The asymptotic null distribution of the test statistics, however, is extremely complex and numerically untractable. Implementation, therefore, is based on permutational and resampling strategies which, remarkably, lead to distribution-free procedures despite the fact that they are performed on estimated independent components or their componentwise ranks. A Monte Carlo study is conducted, involving various estimation methods for the mixing matrix, different weights, and a competing test based on distance covariance, under both the null hypothesis and alternative scenarios. A real-data application demonstrates the practical utility and effectiveness of the method.",
    "url": "https://doi.org/10.1080/01621459.2026.2705547",
    "doi": "10.1080/01621459.2026.2705547",
-   "pdf": "",
+   "pdf": "https://doi.org/10.1080/01621459.2026.2705547",
    "first_seen": "2026-08-10T09:49:36+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "우리는 독립적인 구성요소 분석 방법의 기초가 되는 가정의 타당성에 대한 일련의 테스트를 제안합니다. 테스트는 추정된 독립 구성요소로부터 계산된 경험적 특성 함수를 기반으로 합니다. 순위 기반 버전도 제안됩니다. 테스트 통계에는 가중치가 포함됩니다. 이러한 가중치를 적절하게 선택하고 혼합 행렬에 대한 추정 방법을 사용하면 보편적으로 일관되고 아핀 불변 테스트가 가능합니다. 그러나 테스트 통계의 점근적 귀무 분포는 매우 복잡하고 수치적으로 다루기 어렵습니다. 따라서 구현은 추정된 독립 구성 요소 또는 해당 구성 요소별 순위에 대해 수행된다는 사실에도 불구하고 배포 없는 절차로 이어지는 순열 및 리샘플링 전략을 기반으로 합니다. 귀무 가설과 대체 시나리오 모두에서 혼합 행렬, 다양한 가중치 및 거리 공분산을 기반으로 한 경쟁 테스트에 대한 다양한 추정 방법을 포함하는 Monte Carlo 연구가 수행됩니다. 실제 데이터 애플리케이션은 이 방법의 실질적인 유용성과 효율성을 보여줍니다."
   },
   "oa:W7197018578": {
    "id": "oa:W7197018578",
@@ -72431,13 +72433,14 @@
    ],
    "journal": "Journal of Chinese Governance",
    "date": "2026-08-28",
-   "abstract": "",
+   "abstract": "This study investigates the causal relationship between China’s anti-corruption campaign, market segmentation, and regional innovation. The research draws on a comprehensive panel dataset from 276 Chinese prefecture-level cities from 2006 to 2019 and employs difference-in-differences models. The findings reveal a significant 0.018 increase in regional innovation due to the anti-corruption campaign, with varying effects across administrative divisions and innovation types. The impact is more pronounced in non-provincial capitals and is associated with invention patents (a 9.5% increase in invention patents) rather than incremental innovation. This study further provides evidence consistent with reduced market segmentation serving as a mediating channel: the campaign is associated with an increase of 0.092 log points in a provincial-level market integration index, roughly equivalent to a 9.2% improvement in market integration. This research contributes to rent-seeking theory by providing evidence that reducing market segmentation is a plausible channel through which anti-corruption campaigns may reshape market structures and unlock regional innovation potential.",
    "url": "https://doi.org/10.1080/23812346.2026.2721774",
    "doi": "10.1080/23812346.2026.2721774",
    "pdf": "",
    "first_seen": "2026-08-30T09:30:21+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "본 연구는 중국의 반부패 캠페인, 시장 세분화 및 지역 혁신 간의 인과 관계를 조사합니다. 이 연구는 2006년부터 2019년까지 중국 276개 현급 도시의 포괄적인 패널 데이터세트를 활용하고 차이 차이 모델을 사용합니다. 연구 결과에 따르면 반부패 캠페인으로 인해 지역 혁신이 0.018 증가했으며 행정 부서와 혁신 유형에 따라 다양한 효과가 나타났습니다. 그 영향은 비지방 수도에서 더 두드러지며 점진적인 혁신보다는 발명 특허(발명 특허의 9.5% 증가)와 관련이 있습니다. 이 연구는 중재 채널 역할을 하는 시장 분할 감소와 일치하는 증거를 추가로 제공합니다. 캠페인은 지방 수준 시장 통합 지수에서 0.092 로그 포인트 증가와 관련이 있으며 이는 대략 시장 통합의 9.2% 개선과 동일합니다. 이 연구는 시장 세분화를 줄이는 것이 반부패 캠페인이 시장 구조를 재편하고 지역적 혁신 잠재력을 발휘할 수 있는 그럴듯한 채널이라는 증거를 제공함으로써 지대추구 이론에 기여합니다."
   },
   "oa:W7204550600": {
    "id": "oa:W7204550600",
@@ -76650,13 +76653,14 @@
    ],
    "journal": "Public Money & Management",
    "date": "2026-09-03",
-   "abstract": "",
+   "abstract": "The last 15 years have witnessed the rise and fall of police outsourcing in the UK. In response to unprecedented post-2008 financial crisis budget cuts, police forces began to explore the idea of c...",
    "url": "https://doi.org/10.1080/09540962.2026.2725752",
    "doi": "10.1080/09540962.2026.2725752",
    "pdf": "https://doi.org/10.1080/09540962.2026.2725752",
    "first_seen": "2026-09-05T09:14:04+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "지난 15년 동안 영국에서는 경찰 아웃소싱의 흥망성쇠를 목격했습니다. 2008년 이후 전례 없는 금융 위기 예산 삭감에 대응하여 경찰은 C..."
   },
   "oa:W7205709134": {
    "id": "oa:W7205709134",
@@ -76671,7 +76675,7 @@
    ],
    "journal": "Public Money & Management",
    "date": "2026-09-02",
-   "abstract": "Public accountability is evolving beyond financial stewardship toward a broader responsibility for sustainability and the wellbeing of people and the planet. Yet the complexity of disclosures and the way reporting is delivered often alienates citizens, the very stakeholders it aims to inform. This article identifies a critical gap between the proliferation of financial and sustainability disclosures and their effective use and understanding by citizens. The authors propose the introduction of new popular reporting (NPR) as a communicative and dialogic interface that builds upon, rather than replaces, existing reporting systems. Drawing on recent developments in dialogic accounting, it positions the new tool as both a means of accountability and a medium to facilitate dialogue. It also critically discusses the role of assurance, acknowledging current limitations of sustainability accounting in the public sector. The article contributes by offering a theoretically grounded and practically oriented framework for rethinking reporting as a tool for democratic engagement.",
+   "abstract": "IMPACTThis article highlights how new popular reporting (NPR) can assist public entities—especially local governments—in translating complex sustainability and financial information into forms that citizens can understand, trust and use as a basis for decision-making. By integrating Sustainable Development Goals (SDG) metrics, financial and non-financial information and building on technology solutions, such reports can strengthen democratic accountability and promote active engagement and trust. The article provides practical insights for public managers, auditors and policy-makers seeking to develop more transparent, participatory and credible frameworks for financial and sustainability-related communication.",
    "url": "https://doi.org/10.1080/09540962.2026.2721490",
    "doi": "10.1080/09540962.2026.2721490",
    "pdf": "https://doi.org/10.1080/09540962.2026.2721490",
@@ -79583,13 +79587,14 @@
    ],
    "journal": "Journal of Asian Public Policy",
    "date": "2026-09-07",
-   "abstract": "",
+   "abstract": "Southeast Asia is ageing rapidly before social protection systems fully mature, creating an ‘aging before rich’ condition in which families remain important sources of welfare support. This study examines how structural vulnerability, institutional trust, patriarchal values, and family structure shape life satisfaction among older women in Southeast Asia. Using World Values Survey (WVS) Wave 7 data from seven Southeast Asian countries, the study applies multilevel mixed-effects models to examine individual and country-level factors associated with life satisfaction. Structural vulnerability was the strongest negative predictor of life satisfaction. Large family size was positively associated with life satisfaction but did not significantly buffer the negative association between structural vulnerability and wellbeing, revealing a ‘child quantity paradox’ in which family size alone does not guarantee greater protection in later life. Patriarchal values did not significantly mediate the relationship between structural vulnerability and life satisfaction but significantly moderated it, suggesting that patriarchal norms may function as conditional coping frameworks under conditions of vulnerability. These findings highlight the importance of understanding later-life wellbeing through the interaction of material insecurity, family-based welfare resources, and culturally embedded coping frameworks in Southeast Asia’s hybrid welfare systems.",
    "url": "https://doi.org/10.1080/17516234.2026.2727640",
    "doi": "10.1080/17516234.2026.2727640",
    "pdf": "",
    "first_seen": "2026-09-09T09:24:38+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "동남아시아는 사회 보장 시스템이 완전히 성숙되기 전에 급속히 노령화되고 있으며, 가족이 복지 지원의 중요한 원천으로 남아 있는 '부자 이전의 노령화' 상태를 조성하고 있습니다. 본 연구는 동남아시아 노인 여성의 구조적 취약성, 제도적 신뢰, 가부장적 가치, 가족 구조가 어떻게 삶의 만족도에 영향을 미치는지 조사합니다. 이 연구에서는 동남아시아 7개국의 WVS(World Values ​​Survey) Wave 7 데이터를 사용하여 다단계 혼합 효과 모델을 적용하여 삶의 만족도와 관련된 개인 및 국가 수준 요인을 조사했습니다. 구조적 취약성은 삶의 만족도에 대한 가장 강력한 부정적 예측 변수였습니다. 대가족 규모는 삶의 만족도와 긍정적인 관련이 있었지만 구조적 취약성과 복지 사이의 부정적인 연관성을 크게 완충시키지 못하여 가족 규모만으로는 노년기에 더 큰 보호를 보장하지 않는 '아동 수량 역설'을 드러냈습니다. 가부장적 가치는 구조적 취약성과 삶의 만족 사이의 관계를 유의하게 매개하지는 않았지만 유의하게 조절하여 취약한 조건에서 가부장적 규범이 조건부 대처 프레임워크로 기능할 수 있음을 시사합니다. 이러한 연구 결과는 동남아시아의 하이브리드 복지 시스템에 물질적 불안, 가족 기반 복지 자원, 문화적으로 내재된 대처 프레임워크의 상호 작용을 통해 노년의 웰빙을 이해하는 것이 중요하다는 점을 강조합니다."
   },
   "oa:W7211886796": {
    "id": "oa:W7211886796",
@@ -81231,13 +81236,14 @@
    ],
    "journal": "Public Management Review",
    "date": "2026-09-08",
-   "abstract": "",
+   "abstract": "Drawing upon uncertainty management theory, this study examines whether, how, and when leader unethical pro-organizational behaviour (UPB) is associated with subordinate UPB in the Chinese public sector. Using three-wave survey data from 231 civil servants, our study indicates that organizational accountability for unethical behaviour and subordinates’ public service motivation (PSM) jointly moderate this trickle-down effect. Specifically, the effect peaks when both factors are low, with subordinates’ moral justification mediating this process. These findings highlight the UPB trickle-down mechanism, suggesting managers enhance accountability and cultivate employees’ PSM to reduce moral justification and attenuate the spread of UPB.",
    "url": "https://doi.org/10.1080/14719037.2026.2729794",
    "doi": "10.1080/14719037.2026.2729794",
    "pdf": "",
    "first_seen": "2026-09-11T09:19:15+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "불확실성 관리 이론을 바탕으로 이 연구는 리더의 비윤리적 친조직적 행동(UPB)이 중국 공공 부문의 하위 UPB와 연관되는지 여부, 방법, 시기를 조사합니다. 231명의 공무원을 대상으로 한 3단계 설문조사 데이터를 사용한 본 연구에서는 비윤리적 행동에 대한 조직의 책임과 부하 직원의 공공 서비스 동기(PSM)가 함께 이러한 낙수 효과를 완화한다는 사실을 보여줍니다. 구체적으로, 두 요소가 모두 낮을 때 효과는 최고조에 달하며 부하 직원의 도덕적 정당성이 이 과정을 중재합니다. 이러한 결과는 UPB 낙수 메커니즘을 강조하며 관리자가 책임을 강화하고 직원의 PSM을 육성하여 도덕적 정당성을 줄이고 UPB 확산을 약화시킬 것을 제안합니다."
   },
   "oa:W7212045396": {
    "id": "oa:W7212045396",
@@ -99239,13 +99245,14 @@
    ],
    "journal": "Harvard Data Science Review",
    "date": "2026-09-30",
-   "abstract": "",
+   "abstract": "Stringent domestic safety regulations for high-risk AI systems can inadvertently weaken the safety-relevant performance of homegrown systems relative to foreign ones – particularly when market-driven data network effects are at play. This article uses the EU AI Act to illustrate this AI safety paradox and explores its implications for the competitiveness of European AI startups. Using the concepts of machine learning space, scope, and speed, the article identifies when data network effects are strongest – and, by extension, when regulatory constraints are most likely to translate into persistent competitiveness disadvantages. The analysis results in a regulatory amendment proposal introducing a deployed experimental phase for targeted AI systems, designed to strike a better balance between risk prevention for citizens and innovation promotion for startups. While grounded in the EU context, this article yields insights relevant to any jurisdiction considering new regulatory initiatives in the AI field.",
    "url": "https://doi.org/10.1162/99608f92.dd11772c",
    "doi": "10.1162/99608f92.dd11772c",
    "pdf": "https://doi.org/10.1162/99608f92.dd11772c",
    "first_seen": "2026-10-02T10:44:47+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "고위험 AI 시스템에 대한 엄격한 국내 안전 규정은 특히 시장 중심 데이터 네트워크 효과가 작용할 때 외국 시스템에 비해 국내 시스템의 안전 관련 성능을 의도치 않게 약화시킬 수 있습니다. 이 기사에서는 EU AI 법을 사용하여 이러한 AI 안전 역설을 설명하고 유럽 AI 스타트업의 경쟁력에 미치는 영향을 살펴봅니다. 이 기사는 기계 학습 공간, 범위 및 속도의 개념을 사용하여 데이터 네트워크 효과가 가장 강한 시기, 더 나아가 규제 제약이 지속적인 경쟁력 저하로 이어질 가능성이 가장 높은 시기를 식별합니다. 분석 결과, 시민을 위한 위험 예방과 스타트업을 위한 혁신 촉진 사이에서 더 나은 균형을 유지하도록 설계된 대상 AI 시스템에 대한 배포된 실험 단계를 도입하는 규제 개정 제안이 나왔습니다. EU의 맥락을 기반으로 하는 이 기사는 AI 분야의 새로운 규제 계획을 고려하는 모든 관할권과 관련된 통찰력을 제공합니다."
   },
   "oa:W7214939025": {
    "id": "oa:W7214939025",
@@ -102930,13 +102937,14 @@
    ],
    "journal": "Information Communication & Society",
    "date": "2026-09-14",
-   "abstract": "",
+   "abstract": "Online dating has become a routine infrastructure of intimate life, yet its implications for social sorting remain contested. This study examines whether online dating is associated with gendered assortative mating in Europe. Using harmonised Generations and Gender Survey II data from nine countries, the analysis compares different-sex current unions formed through online dating with unions formed through other meeting modes. Country-specific weighted multinomial logit models estimate average marginal effects for four dimensions of partner sorting: education, age, nativity, and prior parenthood. The results show no uniform pattern of social mixing or homogamy reinforcement. Online dating is associated with lower educational homogamy in Germany, Estonia, the Netherlands, and the UK, but the direction of heterogamy varies, with male-advantaged educational pairing more evident in Austria and the Netherlands and female-advantaged pairing more evident in Denmark and Estonia. Age pairing shows a more consistent pattern: online dating is associated with lower probabilities of female-older unions in several countries, suggesting conventional gendered age-pairing patterns. Nativity provides the clearest evidence of boundary crossing, with online dating linked to lower nativity homogamy in six countries, although this pattern weakens when online dating is compared only with other online meeting contexts. Among unions formed in 2015–2019, online dating is associated with more unions in which both partners have children from previous relationships. Overall, online dating does not transform all forms of partner sorting in the same way. Its different associations reflect the national partner markets, socioeconomic conditions, and life course positions in which online dating is used.",
    "url": "https://doi.org/10.1080/1369118x.2026.2729550",
    "doi": "10.1080/1369118x.2026.2729550",
    "pdf": "https://doi.org/10.1080/1369118x.2026.2729550",
    "first_seen": "2026-10-01T10:05:44+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "온라인 데이트는 친밀한 삶의 일상적인 인프라가 되었지만 사회적 분류에 대한 영향은 여전히 ​​논쟁의 여지가 있습니다. 이 연구는 유럽에서 온라인 데이트가 성별에 따른 선택 교배와 연관되어 있는지 여부를 조사합니다. 분석에서는 9개국의 조화된 세대 및 성별 조사 II 데이터를 사용하여 온라인 데이트를 통해 형성된 현재의 이성 결합과 다른 회의 방식을 통해 형성된 결합을 비교합니다. 국가별 가중 다항 로짓 모델은 파트너 정렬의 4가지 차원(교육, 연령, 출생, 이전 부모 신분)에 대한 평균 한계 효과를 추정합니다. 결과는 사회적 혼합이나 동성혼 강화의 균일한 패턴을 보여주지 않습니다. 온라인 데이트는 독일, 에스토니아, 네덜란드, 영국에서 낮은 교육적 동질혼과 연관되어 있지만, 이형혼의 방향은 다양합니다. 오스트리아와 네덜란드에서는 남성에게 유리한 교육 짝이 더 뚜렷하고 덴마크와 에스토니아에서는 여성에게 유리한 짝이 더 분명합니다. 연령별 짝짓기는 보다 일관된 패턴을 보여줍니다. 즉, 온라인 데이트는 여러 국가에서 여성과 나이든 여성이 결합할 확률이 더 낮은 것과 연관되어 있으며, 이는 전통적인 성별에 따른 연령별 짝짓기 패턴을 시사합니다. 성탄절은 경계 교차에 대한 가장 명확한 증거를 제공합니다. 온라인 데이트는 6개국에서 낮은 출생 동질혼과 연결되어 있지만 온라인 데이트를 다른 온라인 모임 상황과만 비교할 때 이 패턴은 약해집니다. 2015~2019년에 결성된 노동조합 중 온라인 데이트는 더 많은 노동조합과 관련이 있습니다."
   },
   "oa:W7212357524": {
    "id": "oa:W7212357524",
@@ -103038,7 +103046,7 @@
    "abstract": "Purpose This paper aims to examine how Finnish public employees’ perceived barriers to generative AI adoption differ between regional wellbeing services and municipal technical services and identify which ability-motivation-opportunity (AMO) theory dimensions and items pose the greatest constraints. Design/methodology/approach Two web-based surveys were conducted in September 2025. The wellbeing services survey targeted a single regional organization (n = 437); the technical services survey covered land-use planning and construction supervision across 104 municipalities (n = 218). Respondents reporting no prior AI use (n = 321) rated 19 barrier items on a 0–3 scale. Findings Opportunity barriers were the highest-rated AMO dimension in the wellbeing services sample and were significantly more intense there than in the technical services sample; the absence of organizational guidelines, weak peer support, and limited encouragement from colleagues or supervisors accounted for the largest sectoral differences. The technical services barrier profile was more evenly distributed across AMO dimensions. Comparable motivation composites masked an item-level reversal: doubts about generative AI accuracy and reliability were significantly stronger in technical services, where they ranked as the highest-rated barrier. Originality/value The paper offers comparative, employee-level evidence on perceived barriers to generative AI adoption among public-sector non-users. The findings suggest a contextual reading of AMO in which the weight of each dimension may depend on the configuration of public service production. Item-level disaggregation adds a second layer to this reading, since composite comparisons concealed the reliability reversal observed in technical services. Public organizations may benefit from diagnosing employee-level barrier profiles before designing generative AI implementation strategies.",
    "url": "https://doi.org/10.1108/tg-05-2026-0261",
    "doi": "10.1108/tg-05-2026-0261",
-   "pdf": "https://osuva.uwasa.fi/bitstreams/b1cb4016-b789-4065-9e43-8cb369be1d28/download",
+   "pdf": "https://doi.org/10.1108/tg-05-2026-0261",
    "first_seen": "2026-10-01T10:05:44+09:00",
    "abstract_ko": "목적 본 논문의 목적은 핀란드 공무원이 인식한 생성적 AI 도입에 대한 장벽이 지역 웰빙 서비스와 지자체 기술 서비스 간에 어떻게 다른지 조사하고 어떤 AMO(능력-동기-기회) 이론 차원과 항목이 가장 큰 제약을 가하는지 식별하는 것입니다. 설계/방법론/접근법 2개의 웹 기반 설문조사가 2025년 9월에 실시되었습니다. 웰빙 서비스 설문조사는 단일 지역 조직(n = 437)을 대상으로 했습니다. 기술 서비스 조사에서는 104개 지방자치단체(n = 218)의 토지 이용 계획 및 건설 감독을 다루었습니다. 이전에 AI를 사용하지 않았다고 보고한 응답자(n = 321)는 19개의 장벽 항목을 0~3 척도로 평가했습니다. 조사 결과 기회 장벽은 웰빙 서비스 표본에서 가장 높은 평가를 받은 AMO 차원이었으며 기술 서비스 표본보다 훨씬 더 강력했습니다. 조직 지침의 부재, 약한 동료 지원, 동료나 감독자의 제한적인 격려가 부문별 가장 큰 차이를 설명했습니다. 기술 서비스 장벽 프로필은 AMO 차원 전체에 걸쳐 더욱 고르게 분포되었습니다. 비교 가능한 동기 복합물은 항목 수준의 반전을 가렸습니다. 생성 AI의 정확성과 신뢰성에 대한 의구심은 기술 서비스에서 훨씬 더 강해 가장 높은 평가를 받은 장벽으로 평가되었습니다. 독창성/가치 이 백서는 공공 부문 비사용자 사이에서 생성적 AI 채택에 대한 인식된 장벽에 대한 직원 수준의 비교 증거를 제공합니다. 연구 결과는",
    "abs_tries": 0,
@@ -103359,13 +103367,14 @@
    ],
    "journal": "Journal of Urban Technology",
    "date": "2026-09-02",
-   "abstract": "",
+   "abstract": "The digitalization of cities through advanced technologies is contributing to sustainable urban mobility services for citizens and serving mobility service providers and transport authorities. One such technology is Generative Artificial Intelligence (GenAI), which can produce new content based on available training data. This article examines the innovative deployment of GenAI models to address public transport challenges in cities, focusing on people-centricity. A qualitative literature review was employed to provide an in-depth exploration of real-world applications of GenAI. The findings identify socio-technical challenges of integrating GenAI into existing public transport solutions and propose strategies to improve its application in cities.",
    "url": "https://doi.org/10.1080/10630732.2026.2712205",
    "doi": "10.1080/10630732.2026.2712205",
    "pdf": "https://doi.org/10.1080/10630732.2026.2712205",
    "first_seen": "2026-10-01T10:05:44+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "첨단 기술을 통한 도시의 디지털화는 시민을 위한 지속 가능한 도시 모빌리티 서비스에 기여하고 모빌리티 서비스 제공업체와 교통 당국에 서비스를 제공하고 있습니다. 그러한 기술 중 하나는 사용 가능한 훈련 데이터를 기반으로 새로운 콘텐츠를 생성할 수 있는 GenAI(Generative Artificial Intelligence)입니다. 이 기사에서는 사람 중심에 초점을 맞춰 도시의 대중교통 문제를 해결하기 위한 GenAI 모델의 혁신적인 배포를 검토합니다. GenAI의 실제 적용에 대한 심층적인 탐구를 제공하기 위해 질적 문헌 검토가 사용되었습니다. 연구 결과는 GenAI를 기존 대중 교통 솔루션에 통합하는 데 따른 사회 기술적 과제를 식별하고 도시에서의 적용을 개선하기 위한 전략을 제안합니다."
   },
   "oa:W7214557221": {
    "id": "oa:W7214557221",
@@ -104544,13 +104553,14 @@
    ],
    "journal": "Journal of Urban Technology",
    "date": "2026-08-08",
-   "abstract": "",
+   "abstract": "Smart city development implies a transformation of urban environments by employing cutting-edge technologies, such as Artificial Intelligence (AI), Internet of Things (IoT), data analytics, and Internet of Behavior (IoB). Among these, IoB offers powerful tools for understanding and influencing human behavior in urban systems. This study presents a Systematic Literature Review (SLR) on IoB applications across six major smart city sectors: (1) healthcare; (2) transportation; (3) retail and marketing; (4) education; (5) tourism; and (6) the environment to provide a comprehensive understanding of applications and gaps. While previous studies examined city domains individually, this article introduces a cross-sectoral classification framework that maps IoB use cases to four core city management functions. The framework supports urban planners, policymakers, and engineers in identifying opportunities to integrate behavioral data into more efficient city management practices. A total of 27 studies published from 2020 to 2025 were systematically selected from eight academic databases. The analysis highlights methodological trends, particularly Machine Learning (ML) and Deep Learning (DL), and examines ongoing challenges, including security, scalability, privacy, and ethical governance. Overall, this SLR identifies limitations of IoB across smart city sectors and underscores the need to integrate IoB-based systems with infrastructure, regulatory frameworks, and interdisciplinary design principles.",
    "url": "https://doi.org/10.1080/10630732.2026.2668307",
    "doi": "10.1080/10630732.2026.2668307",
    "pdf": "",
    "first_seen": "2026-10-01T10:05:44+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "스마트시티 개발은 인공지능(AI), 사물인터넷(IoT), 데이터 분석, 행동인터넷(IoB) 등 첨단 기술을 활용해 도시 환경을 변화시키는 것을 의미한다. 그중에서도 IoB는 도시 시스템에서 인간 행동을 이해하고 영향을 미칠 수 있는 강력한 도구를 제공합니다. 이 연구는 6개 주요 스마트 시티 부문의 IoB 애플리케이션에 대한 체계적인 문헌 검토(SLR)를 제시합니다. (1) 의료; (2) 운송; (3) 소매 및 마케팅; (4) 교육; (5) 관광; (6) 응용 프로그램과 격차에 대한 포괄적인 이해를 제공하는 환경입니다. 이전 연구에서는 도시 영역을 개별적으로 조사했지만, 이 기사에서는 IoB 사용 사례를 4가지 핵심 도시 관리 기능에 매핑하는 부문별 분류 프레임워크를 소개합니다. 이 프레임워크는 도시 계획자, 정책 입안자 및 엔지니어가 행동 데이터를 보다 효율적인 도시 관리 관행에 통합할 수 있는 기회를 식별하도록 지원합니다. 2020년부터 2025년까지 발표된 총 27편의 연구는 8개의 학술 데이터베이스 중에서 체계적으로 선정되었습니다. 분석에서는 특히 ML(머신 러닝) 및 DL(딥 러닝)과 같은 방법론적 추세를 강조하고 보안, 확장성, 개인 정보 보호 및 윤리적 거버넌스를 포함한 지속적인 과제를 조사합니다. 전반적으로, 이 SLR은 스마트 시티 부문 전반에 걸쳐 IoB의 한계를 식별하고 IoB 기반 시스템을 인프라, 규제 프레임워크 및 학제간 설계와 통합해야 할 필요성을 강조합니다."
   },
   "oa:W7202348537": {
    "id": "oa:W7202348537",
@@ -104823,13 +104833,14 @@
    ],
    "journal": "Information Communication & Society",
    "date": "2026-08-10",
-   "abstract": "",
+   "abstract": "Although substantial evidence suggests that sexual minorities are more susceptible to e-cigarettes than heterosexual individuals, it is unclear how and when exposure to e-cigarette advertisements longitudinally influences e-cigarette susceptibility among sexual minority young adults (SMYAs). This study examined the effect of exposure to e-cigarette ads from traditional media, out-of-home (OOH) media, and online sources on susceptibility among SMYAs and explored the mediating roles of curiosity and harm perception. Using the Population Assessment of Tobacco and Health (PATH) Study, we followed sexual minority non-e-cigarette users aged 18–24 at Wave 6 (T1, 2021) through Wave 7 (T2, 2022–2023) (N = 581). SMYAs reported higher curiosity and susceptibility to e-cigarettes than heterosexual young adults. Results revealed a source-specific effect. Only online e-cigarette ad exposure increased e-cigarette susceptibility by improving curiosity and decreasing perceived harm. Curiosity also played a discrete mediating role. A further moderated mediation analysis revealed that the positive effect of online e-cigarette ad exposure on curiosity was stronger among SMYAs than among heterosexual young adults. Our findings identify online e-cigarette ad exposure as a key driver of e-cigarette susceptibility and call for tailored advertising regulation and anti-e-cigarette campaigns through digital channels to curtail tobacco-related health disparities faced by SMYAs.",
    "url": "https://doi.org/10.1080/1369118x.2026.2713667",
    "doi": "10.1080/1369118x.2026.2713667",
    "pdf": "",
    "first_seen": "2026-10-01T10:05:44+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "성소수자가 이성애자보다 전자담배에 더 취약하다는 상당한 증거가 있지만 전자담배 광고에 대한 노출이 SMYA(성소수자 청년)의 전자담배 감수성에 어떻게, 언제 영향을 미치는지는 확실하지 않습니다. 본 연구에서는 전통 미디어, OOH(Out-of-Home) 미디어 및 온라인 소스의 전자담배 광고 노출이 SMYA의 민감성에 미치는 영향을 조사하고 호기심과 유해성 인식의 매개 역할을 탐색했습니다. 담배 및 건강 인구 평가(PATH) 연구를 사용하여 6차년도(T1, 2021)부터 7차년도(T2, 2022~2023)까지 18~24세의 성소수자 비전자담배 사용자를 추적했습니다(N = 581). SMYA는 이성애자 젊은 성인보다 전자담배에 대한 호기심과 민감성이 더 높은 것으로 보고되었습니다. 결과는 소스별 효과를 보여주었습니다. 온라인 전자담배 광고 노출만이 호기심을 높이고 인지된 유해성을 감소시켜 전자담배에 대한 민감성을 높였습니다. 호기심은 또한 별개의 매개 역할을 했습니다. 추가 조정된 중재 분석에서는 온라인 전자 담배 광고 노출이 호기심에 미치는 긍정적인 효과가 이성애자 젊은 성인보다 SMYA에서 더 강한 것으로 나타났습니다. 우리의 연구 결과는 온라인 전자 담배 광고 노출이 전자 담배 민감성의 주요 동인임을 확인하고 SMYA가 직면한 담배 관련 건강 격차를 줄이기 위해 디지털 채널을 통한 맞춤형 광고 규제 및 전자 담배 반대 캠페인을 요구합니다."
   },
   "oa:W7202143454": {
    "id": "oa:W7202143454",
@@ -107638,7 +107649,7 @@
    ],
    "journal": "Asian Politics & Policy",
    "date": "2026-10-01",
-   "abstract": "The authors declare no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.",
+   "abstract": "By July 2026, the CJP had transformed anger over the NEET-UG paper-leak controversy into a wider debate about education, employment, and democratic accountability.Indian reporting generally remained close to the protest site, police operations, and party politics, whereas international outlets more often portrayed the movement as a Gen Z challenge to Prime Minister Narendra Modi and to India's democratic image.This media review compares reports, features, and commentary from the outlets specified for the review, concentrating on coverage published around the July mobilization and its immediate aftermath.The comparison is qualitative: it examines headlines, recurring sources, descriptions of protesters and police, and the political meaning attached to the ministerial resignation.Not every named outlet published a directly relevant item that could be verified; the analysis therefore uses only identifiable reports and does not treat silence as a position.The resulting pattern is not a simple Indian-versus-Western divide.Reuters and some Indian newspapers were largely procedural, while The Wire, Al Jazeera, and The Guardian used more explicitly interpretive language.Format and editorial orientation mattered as much as geography.",
    "url": "https://doi.org/10.1111/aspp.70104",
    "doi": "10.1111/aspp.70104",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aspp.70104",
@@ -117429,7 +117440,7 @@
    "abstract": "How do governing parties regulate informal miners and what explains regulatory response variations? Drawing on Ghana and leveraging original and secondary data, this paper shows that National Democratic Congress (NDC) incumbents tolerated most local miners even when President Mahama raided the informal mining sector. By contrast, while the New Patriotic Party’s (NPP’s) Kufour and Akufo-Addo attacked local miners, Akufo-Addo largely let off Chinese miners and their local collaborators. These dissimilar regulatory responses arise because most local miners appear electorally more salient to the NDC. By contrast, NPP political entrepreneurs cultivated economic ties with Chinese miners while this governing party got hugely indebted to China and was accordingly constrained from sanctioning Chinese miners and their local collaborators. Taken together, I argue that the differential electoral relevancies of local miners to Ghana’s dominant and rival parties, economic ties between domestic political entrepreneurs and Chinese miners, and indebtedness to Beijing can make mining groups more or less salient to parties, producing targeted responses of repression and forbearance. Such instrumental responses undermine ASM formalization, beckoning international financial institutions to tie credit and loan facilities to concrete formalization indicators, which could compel governing elites to adopt non-partisan, holistic, practical, and long-term formalization approaches.",
    "url": "https://doi.org/10.1080/01442872.2026.2738950",
    "doi": "10.1080/01442872.2026.2738950",
-   "pdf": "https://doi.org/10.1080/01442872.2026.2738950",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/01442872.2026.2738950?needAccess=true",
    "first_seen": "2026-10-17T09:39:58+09:00",
    "abstract_ko": "정부 기관은 비공식 채굴자를 어떻게 규제하고 규제 대응 변화를 설명하는 것은 무엇입니까? 가나를 바탕으로 원본 및 2차 데이터를 활용한 이 보고서는 마하마 대통령이 비공식 광산 부문을 급습했을 때에도 NDC(National Democratic Congress) 현직 의원들이 대부분의 지역 광부들을 용인했음을 보여줍니다. 대조적으로, 신애국당(NPP)의 Kufour와 Akufo-Addo가 현지 광부를 공격하는 동안 Akufo-Addo는 주로 중국 광부와 현지 협력자들을 해고했습니다. 이러한 서로 다른 규제 대응은 대부분의 지역 광부들이 선거에서 NDC에 더 두드러지게 나타나기 때문에 발생합니다. 대조적으로, NPP의 정치 기업가들은 중국 광부들과 경제적 관계를 구축했고, 이 집권당은 중국에 막대한 빚을 졌고 그에 따라 중국 광부들과 현지 협력자들을 제재하는 데 제약을 받았습니다. 종합해 보면, 나는 가나의 지배 정당과 라이벌 정당에 대한 지역 광부들의 차별적인 선거 관련성, 국내 정치 기업가와 중국 광부 사이의 경제적 유대, 중국에 대한 부채가 광산 단체를 정당에 어느 정도 두드러지게 만들어 억압과 관용의 표적 대응을 만들어 낼 수 있다고 주장합니다. 이러한 도구적 대응은 ASM 공식화를 약화시키고 국제 금융 기관이 신용 및 대출 시설을 구체적인 공식화 지표에 연결하도록 손짓하여 집권 엘리트가 초당파적이고 전체적이며 실용적이고 장기적인 공식화 접근 방식을 채택하도록 강요할 수 있습니다.",
    "abs_tries": 0,
@@ -117590,13 +117601,14 @@
    ],
    "journal": "Social Service Review",
    "date": "2026-10-15",
-   "abstract": "",
+   "abstract": "This study examines the evolution of social work scholarship over nearly a century of publications in Social Service Review. Using structural topic modeling on a corpus of 2,517 research article titles and abstracts published between 1927 and 2025, we identify 44 thematic topics and analyze their prevalence across three historical periods (1927–50, 1951–80, and 1981–2025). The findings reveal substantial shifts in scholarly attention over time. Early dominant themes—such as public welfare administration, poverty relief, and casework—declined markedly, whereas later decades saw the rise of topics related to professional knowledge, welfare reform, homelessness, substance abuse, and privatization. Several themes display a midcentury peak followed by decline, particularly those related to ethics, social change, and social work education. Only a small number of topics remained relatively stable across the century. Overall, the results suggest that social work scholarship is highly responsive to changing policy and societal contexts and lacks a stable thematic core, apart from a persistent focus on vulnerable populations.",
    "url": "https://doi.org/10.1086/743673",
    "doi": "10.1086/743673",
    "pdf": "",
    "first_seen": "2026-10-17T09:39:58+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "이 연구는 Social Service Review에 실린 거의 1세기에 걸친 출판물을 통해 사회복지 학문의 발전을 조사합니다. 1927년부터 2025년 사이에 출판된 2,517개의 연구 기사 제목 및 초록으로 구성된 코퍼스에 대한 구조적 주제 모델링을 사용하여 44개의 주제 주제를 식별하고 세 가지 역사적 기간(1927-50, 1951-80, 1981-2025)에 걸쳐 해당 주제의 보급을 분석합니다. 연구 결과는 시간이 지남에 따라 학문적 관심에 상당한 변화가 있음을 보여줍니다. 공공 복지 행정, 빈곤 구호, 사회복지 등 초기의 주요 주제는 눈에 띄게 감소한 반면, 이후 수십 년 동안 전문 지식, 복지 개혁, 노숙자, 약물 남용 및 민영화와 관련된 주제가 증가했습니다. 몇몇 주제는 특히 윤리, 사회 변화 및 사회 복지 교육과 관련된 주제에서 세기 중반의 최고점을 기록한 후 감소하는 모습을 보여줍니다. 소수의 주제만이 세기 전체에 걸쳐 상대적으로 안정적으로 유지되었습니다. 전반적으로, 결과는 사회 복지 장학금이 변화하는 정책과 사회적 맥락에 매우 민감하며 취약한 인구에 대한 지속적인 초점과는 별개로 안정적인 주제 핵심이 부족하다는 것을 시사합니다."
   },
   "oa:W7222164348": {
    "id": "oa:W7222164348",
@@ -118428,7 +118440,7 @@
    "abstract": "ABSTRACT Perpetrator programmes are an established component of institutional responses to violence against women. Drawing on the Italian case, this article examines how organisational and institutional configurations are associated with variation in programme intake. Using a national dataset of 94 identified programmes, we estimate two regression tree models, distinguishing between overall and criminal‐justice‐mediated intake. The fitted trees identify conditional in‐sample patterns but show negligible cross‐validated predictive performance. Overall intake is differentiated mainly by the number of access points and, among programmes with fewer access points, by financial resources. Criminal‐justice‐mediated intake is differentiated first by provincial population size and subsequently, depending on context, by funding, formal network representation, bilateral institutional ties and motivation‐based admission rules. Programme intake is conceptualised as an institutional outcome associated with context‐specific combinations of organisational resources and local integration. These exploratory patterns suggest that efforts to expand programme access should consider both available resources and reported institutional relationships within local violence response systems.",
    "url": "https://doi.org/10.1111/spol.70127",
    "doi": "10.1111/spol.70127",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.70127",
    "first_seen": "2026-10-18T09:07:54+09:00",
    "abstract_ko": "개요 가해자 프로그램은 여성에 대한 폭력에 대한 제도적 대응의 확립된 구성 요소입니다. 이탈리아 사례를 바탕으로 이 기사에서는 조직 및 제도적 구성이 프로그램 입학의 변화와 어떻게 연관되어 있는지 조사합니다. 94개의 식별된 프로그램으로 구성된 국가 데이터 세트를 사용하여 우리는 전체 섭취량과 형사 사법 중재 섭취량을 구별하는 두 가지 회귀 트리 모델을 추정합니다. 적합 트리는 조건부 표본 내 패턴을 식별하지만 교차 검증된 예측 성능은 무시할 수 있습니다. 전체 입학은 주로 접근 지점의 수에 따라 구분되며, 접근 지점이 더 적은 프로그램의 경우 재정 자원에 따라 구분됩니다. 형사사법 중재 도입은 먼저 지방 인구 규모에 따라 차별화되고, 이후 상황에 따라 자금 지원, 공식적인 네트워크 대표성, 양자간 제도적 유대 및 동기 기반 입학 규칙에 따라 차별화됩니다. 프로그램 섭취는 조직 자원과 지역 통합의 상황별 조합과 관련된 제도적 결과로 개념화됩니다. 이러한 탐색 패턴은 프로그램 접근을 확대하려는 노력이 지역 폭력 대응 시스템 내에서 이용 가능한 자원과 보고된 제도적 관계를 모두 고려해야 함을 시사합니다.",
    "abs_tries": 0,
@@ -118885,13 +118897,14 @@
    ],
    "journal": "Journal of the American Statistical Association",
    "date": "2026-10-16",
-   "abstract": "",
+   "abstract": "Spatio-temporal process monitoring has broad applications in disease surveillance, environment monitoring, epidemiology, and many other areas. Most existing spatio-temporal process monitoring methods are developed for analyzing observed data at a single geospatial scale (e.g., state, county, or census tract), and usually impose some parametric assumptions on spatio-temporal data structure. For instance, observed data are often assumed to follow a parametric distribution (e.g., normal or Poisson) and the mean and covariance of a related spatio-temporal model are assumed to have parametric forms, which are rarely valid and/or difficult to justify in many applications. In practice, spatio-temporal data (e.g., incidence rates of infectious diseases) are usually managed at multiple geospatial scales and have complicated structure. In this paper, we develop a new method for multiscale spatio-temporal data monitoring. At each observation time, the new method first detects anomalous regions at each spatial scale. To reduce computing time, a forward elimination procedure is suggested for this purpose. Then, an optimal spatial scale at the current observation time is determined using the detected anomalous regions and a proposed scale information criterion. Finally, a charting statistic is constructed based on the detected anomalous regions at the optimal scale. This method is fully nonparametric in the sense that no parametric assumptions are imposed on the structure of observed spatio-temporal data. It is also scalable and computationally efficient, making it a reliable and effective tool for online multiscale spatio-temporal data monitoring problems.",
    "url": "https://doi.org/10.1080/01621459.2026.2742473",
    "doi": "10.1080/01621459.2026.2742473",
    "pdf": "",
    "first_seen": "2026-10-18T09:07:54+09:00",
    "abs_tries": 3,
-   "ko_tries": 0
+   "ko_tries": 0,
+   "abstract_ko": "시공간 프로세스 모니터링은 질병 감시, 환경 모니터링, 전염병학 및 기타 여러 분야에 광범위하게 적용됩니다. 대부분의 기존 시공간 프로세스 모니터링 방법은 단일 지리공간 규모(예: 주, 카운티 또는 인구 조사 지역)에서 관찰된 데이터를 분석하기 위해 개발되었으며 일반적으로 시공간 데이터 구조에 일부 매개변수 가정을 부과합니다. 예를 들어, 관찰된 데이터는 종종 매개변수 분포(예: 정규 또는 포아송)를 따르는 것으로 가정되고 관련 시공간 모델의 평균 및 공분산은 매개변수 형식을 갖는 것으로 가정되며, 이는 거의 유효하지 않거나 많은 응용 프로그램에서 정당화하기 어렵습니다. 실제로 시공간 데이터(예: 전염병 발병률)는 일반적으로 여러 지리공간적 규모로 관리되며 구조가 복잡합니다. 본 논문에서는 다중 규모 시공간 데이터 모니터링을 위한 새로운 방법을 개발합니다. 각 관측 시간마다 새로운 방법은 먼저 각 공간 규모에서 변칙 영역을 감지합니다. 계산 시간을 줄이기 위해 정방향 제거 절차가 제안됩니다. 이후, 검출된 이상 영역과 제안된 규모 정보 기준을 이용하여 현재 관측 시점의 최적의 공간 규모를 결정한다. 마지막으로, 검출된 이상 영역을 기반으로 최적의 규모로 차트 통계를 구성합니다. 이 방법은 관찰된 공간의 구조에 매개변수적 가정이 부과되지 않는다는 점에서 완전히 비모수적입니다."
   },
   "oa:W7222586641": {
    "id": "oa:W7222586641",
@@ -121500,7 +121513,7 @@
    "doi": "10.1080/07474938.2026.2744000",
    "pdf": "",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223037769": {
@@ -121565,7 +121578,7 @@
    "doi": "10.1007/s11222-026-11000-w",
    "pdf": "",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4414697120": {
@@ -121613,7 +121626,7 @@
    "doi": "10.1038/s42256-026-01318-5",
    "pdf": "https://arxiv.org/pdf/2510.16853",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7208800979": {
@@ -121672,7 +121685,7 @@
    "doi": "10.1038/s42256-026-01319-4",
    "pdf": "",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223014644": {
@@ -121691,7 +121704,7 @@
    "doi": "10.1007/s10676-026-09930-0",
    "pdf": "",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223018462": {
@@ -121709,7 +121722,7 @@
    "doi": "10.1007/s13347-026-01225-y",
    "pdf": "",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223021802": {
@@ -121746,7 +121759,7 @@
    "doi": "10.1007/s13347-026-01221-2",
    "pdf": "",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223035458": {
@@ -121783,7 +121796,7 @@
    "doi": "10.1007/s13347-026-01219-w",
    "pdf": "",
    "first_seen": "2026-10-22T09:46:32+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W4407310105": {
@@ -122497,7 +122510,7 @@
    "doi": "10.1177/1525822x261499364",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223138747": {
@@ -122802,7 +122815,7 @@
    "doi": "10.1007/s11222-026-10978-7",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223169019": {
@@ -122821,7 +122834,7 @@
    "doi": "10.1007/s10614-026-11459-9",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223169352": {
@@ -122900,7 +122913,7 @@
    "doi": "10.1007/s43681-026-01429-0",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7223181609": {
@@ -122935,7 +122948,7 @@
    "doi": "10.1007/s10614-026-11458-w",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223183811": {
@@ -122975,7 +122988,7 @@
    "doi": "10.1007/s42001-026-00501-3",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223185699": {
@@ -122993,7 +123006,7 @@
    "doi": "10.1007/s10676-026-09925-x",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223189123": {
@@ -123013,7 +123026,7 @@
    "doi": "10.1007/s10614-026-11448-y",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223189225": {
@@ -123205,7 +123218,7 @@
    "doi": "10.1177/15701255261497884",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 1
+   "abs_tries": 2
   },
   "oa:W7223092836": {
    "id": "oa:W7223092836",
@@ -123315,7 +123328,7 @@
    "doi": "10.1016/j.tele.2026.102475",
    "pdf": "",
    "first_seen": "2026-10-23T09:47:12+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223209110": {
@@ -123439,7 +123452,7 @@
    "doi": "10.3758/s13428-026-03183-x",
    "pdf": "",
    "first_seen": "2026-10-24T09:53:47+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223198011": {
@@ -123495,7 +123508,7 @@
    ],
    "journal": "Educational and Psychological Measurement",
    "date": "2026-10-21",
-   "abstract": "This study develops a multidimensional unfolding model for measuring social attitudes from preference data collected through Best-Worst proximity judgments. The model locates respondents and statements in a common multidimensional attitude space and represents choices of the statements closest to and farthest from a respondent’s opinion through utility differences based on Euclidean distance. It also includes a statement-level distance-independent selectability parameter that captures a statement-specific tendency to be selected as closest more often and as farthest less often after respondent-statement distance is controlled. All parameters are estimated jointly in a Bayesian framework. Simulation results showed accurate recovery of statement configurations and the selectability parameter across the examined conditions. Recovery of respondent-statement distances was also generally strong but depended more on dimensionality and the amount of comparison information. Omitting the selectability parameter systematically displaced statement locations and degraded recovery of interstatement and respondent-statement distances. In an application to attitudes toward an optional separate-surname system for married couples in Japan, respondent coordinates on the first principal axis correlated strongly with a single seven-point Likert-type item (Spearman’s ρ = .848), whereas the second axis differentiated rationales among statements expressing similar levels of support or opposition. In a second application to consumption attitudes, the model produced an exploratory map of multiple value criteria without prespecifying a single support-opposition dimension. These findings show that the model can both refine the interpretation of a known attitude dimension and support exploratory mapping when the dimensional structure is not specified in advance, while separating semantic location from distance-independent selectability.",
+   "abstract": "This study proposes a Best-Worst multidimensional unfolding model for measuring social attitudes by separating two sources of comparative proximity judgments: multidimensional semantic proximity between respondents and statements and statement-level distance-independent selectability. The model locates respondents and statements in a common multidimensional attitude space and represents choices of the statements closest to and farthest from a respondent's opinion through utility differences based on Euclidean distance. A statement-specific parameter captures a tendency to be selected as closest more often and as farthest less often after respondent-statement distance is controlled. All parameters are estimated jointly in a Bayesian framework. Simulation studies evaluated parameter recovery under practical Best-Worst block designs and examined two forms of model misspecification. Under the correctly specified model, statement configurations and distance-independent selectability were recovered accurately across the examined conditions, whereas recovery of respondent locations depended more strongly on dimensionality and the amount of comparison information. Omitting distance-independent selectability systematically displaced statement locations and distorted interstatement and respondent-statement distances. When the fitted dimensionality was lower than the true dimensionality, recovery of both the spatial structure and distance-independent selectability deteriorated. These results show that multidimensional proximity and statement selectability should be modeled jointly when Best-Worst judgments are used to interpret the semantic structure of social attitudes.",
    "url": "https://doi.org/10.1177/00131644261490045",
    "doi": "10.1177/00131644261490045",
    "pdf": "https://doi.org/10.1177/00131644261490045",
@@ -123851,7 +123864,7 @@
    "doi": "10.1016/j.patter.2026.101684",
    "pdf": "https://doi.org/10.1016/j.patter.2026.101684",
    "first_seen": "2026-10-24T09:53:47+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7222805046": {
@@ -123912,7 +123925,7 @@
    "doi": "10.1007/s11077-026-09634-8",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223304419": {
@@ -123975,7 +123988,7 @@
    "doi": "10.1086/743674",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223314695": {
@@ -124098,7 +124111,7 @@
    "doi": "10.1007/s11077-026-09633-9",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223369688": {
@@ -124204,7 +124217,7 @@
    "doi": "10.3758/s13428-026-03213-8",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223326828": {
@@ -124223,7 +124236,7 @@
    "doi": "10.3758/s13428-026-03218-3",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223387228": {
@@ -124244,7 +124257,7 @@
    "doi": "10.3758/s13428-026-03212-9",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223395650": {
@@ -124264,7 +124277,7 @@
    "doi": "10.3758/s13428-026-03211-w",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223410130": {
@@ -124362,7 +124375,7 @@
    "doi": "10.1016/j.jeconom.2026.106348",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223354156": {
@@ -124381,7 +124394,7 @@
    "doi": "10.1080/07474938.2026.2741548",
    "pdf": "https://doi.org/10.1080/07474938.2026.2741548",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223355708": {
@@ -124444,7 +124457,7 @@
    "doi": "10.1038/s42256-026-01331-8",
    "pdf": "https://spiral.imperial.ac.uk/handle/10044/1/142549",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 1,
+   "abs_tries": 2,
    "ko_tries": 0
   },
   "oa:W7223281464": {
@@ -124468,7 +124481,7 @@
    "doi": "10.1038/s42256-026-01326-5",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7223282409": {
@@ -124506,7 +124519,7 @@
    "doi": "10.1007/s43681-026-01465-w",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7223335799": {
@@ -124564,7 +124577,7 @@
    "doi": "10.1002/aaai.70119",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70119",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7223329246": {
@@ -124688,7 +124701,7 @@
    "doi": "10.1016/j.telpol.2026.103338",
    "pdf": "",
    "first_seen": "2026-10-25T09:26:01+09:00",
-   "abs_tries": 0,
+   "abs_tries": 1,
    "ko_tries": 0
   },
   "oa:W7223370975": {
@@ -124787,7 +124800,7 @@
    "abstract": "In a campaign landscape dominated by broadcasting media, political parties typically pursued either issue ownership or wave-riding strategies to shape their campaign agendas. Social media introduce a third strategy where parties adapt to the instant feedback users provide. This article uses parties’ issue strategies to demonstrate how they combine traditional and digital media logics in their social media campaigning. Conceptually, the study provides a framework for understanding political communication on social media by fusing mediatization and agenda-setting literature. Methodologically, it suggests how different logics can be measured through content analysis. I apply the conceptual framework to a typical Western European multiparty campaign context. Using a manual, standardized content analysis of Facebook, Instagram, and Twitter (now X) posts (n = 1,616) from 9 political parties and their party leaders in the 2021 Norwegian election campaign, the study asks: To what extent is parties’ issue emphasis shaped by issue ownership, wave-riding, and engagement logics? The analysis shows that parties predominantly follow a wave-riding logic, an issue ownership logic, and, to a lesser degree, an engagement logic. Thus, agenda-setting logics traditionally tied to broadcasting media persist on social media and have more influence on parties’ issue emphasis than the engagement logic introduced by social media.",
    "url": "https://doi.org/10.1080/19331681.2026.2750473",
    "doi": "10.1080/19331681.2026.2750473",
-   "pdf": "https://doi.org/10.1080/19331681.2026.2750473",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/19331681.2026.2750473?needAccess=true",
    "first_seen": "2026-10-25T09:26:01+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -124838,7 +124851,7 @@
    "origin": "OpenAlex",
    "title": "Is this candidate for real? AI authorship disclosure and candidate evaluations",
    "authors": [
-    "Matthew Dempsey"
+    "Matthew C. Dempsey"
    ],
    "journal": "Journal of Information Technology & Politics",
    "date": "2026-10-22",
@@ -124867,7 +124880,9 @@
    "doi": "10.1111/psj.70171",
    "pdf": "",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "개요 광범위한 연구는 이민자와 로봇에 대한 대중의 우려를 강조하지만, 인구학적 문제, 특히 인구 고령화가 이러한 인식에 어떻게 영향을 미치는지 조사한 연구는 거의 없습니다. 대중은 이민이나 자동화 정책을 평가할 때 인구 고령화를 자연스럽게 고려하지 않을 수 있습니다. 이러한 문제는 종종 사일로에서 논의되기 때문입니다. 따라서 우리는 대중이 인구 고령화를 고려하도록 유도하면 자동화와 이민을 더 호의적으로 보게 될 것이라고 가정합니다. 우리는 일본, 한국, 프랑스 3개국에서 사전 등록된 설문 조사 실험을 사용하여 인구 노령화에 대한 사실 정보 제공이 이민 및 자동화에 대한 태도를 바꾸는지 여부를 조사합니다. 우리는 세계에서 가장 고령화된 국가인 일본에서 그러한 정보가 이민과 자동화 모두에 대해 더 호의적인 태도를 낳는다는 것을 발견했습니다. 가장 빠르게 고령화되는 국가인 한국에서는 이민 태도가 개선될 뿐이다. 노인 인구가 EU 평균 수준인 프랑스에서는 유의미한 효과가 발견되지 않았습니다. 그러나 우리는 응답자들이 은퇴 연령 조정과 같은 다른 옵션과 함께 자동화 및 이민 정책을 고려할 때 일본과 한국에서 이러한 긍정적인 효과가 지속되지 않는다는 것을 발견했습니다. 이러한 연구 결과는 인구 고령화에 대한 대중의 정책 선호가 국가별 상황뿐만 아니라 정책 논의에서 활성화된 다양한 이슈 연계에 따라 달라질 수 있음을 시사합니다."
+   "abstract_ko": "개요 광범위한 연구는 이민자와 로봇에 대한 대중의 우려를 강조하지만, 인구학적 문제, 특히 인구 고령화가 이러한 인식에 어떻게 영향을 미치는지 조사한 연구는 거의 없습니다. 대중은 이민이나 자동화 정책을 평가할 때 인구 고령화를 자연스럽게 고려하지 않을 수 있습니다. 이러한 문제는 종종 사일로에서 논의되기 때문입니다. 따라서 우리는 대중이 인구 고령화를 고려하도록 유도하면 자동화와 이민을 더 호의적으로 보게 될 것이라고 가정합니다. 우리는 일본, 한국, 프랑스 3개국에서 사전 등록된 설문 조사 실험을 사용하여 인구 노령화에 대한 사실 정보 제공이 이민 및 자동화에 대한 태도를 바꾸는지 여부를 조사합니다. 우리는 세계에서 가장 고령화된 국가인 일본에서 그러한 정보가 이민과 자동화 모두에 대해 더 호의적인 태도를 낳는다는 것을 발견했습니다. 가장 빠르게 고령화되는 국가인 한국에서는 이민 태도가 개선될 뿐이다. 노인 인구가 EU 평균 수준인 프랑스에서는 유의미한 효과가 발견되지 않았습니다. 그러나 우리는 응답자들이 은퇴 연령 조정과 같은 다른 옵션과 함께 자동화 및 이민 정책을 고려할 때 일본과 한국에서 이러한 긍정적인 효과가 지속되지 않는다는 것을 발견했습니다. 이러한 연구 결과는 인구 고령화에 대한 대중의 정책 선호가 국가별 상황뿐만 아니라 정책 논의에서 활성화된 다양한 이슈 연계에 따라 달라질 수 있음을 시사합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223447055": {
    "id": "oa:W7223447055",
@@ -124884,9 +124899,11 @@
    "abstract": "ABSTRACT This exploratory study examines the various roles nonprofits play in the adoption and implementation of local government environmental sustainability initiatives. Using grounded theory (Glaser and Strauss 1967) and a mix of deductive and inductive approaches, we analyzed 59 semi‐structured interviews conducted in 2023 with local government sustainability managers across the United States. As predicted by traditional conceptualizations of government‐nonprofit relations, our results indicate nonprofits frequently deliver public services on behalf of local governments and are involved in advocacy. At the same time, we identify several examples of nonprofits acting in other capacities, too. Nonprofits provided direct financial assistance to support local government initiatives; they served as information resources to local government; and they were intermediaries between nonprofit constituency groups and local government. In addition, some interviewees reported that nonprofits played multiple roles in the same project. This study enriches the government‐nonprofit relations literature by addressing Grønbjerg and Smith's (2021) call for more field‐specific research and by providing a greater understanding of the range and complexity of the roles that nonprofits perform when interacting with government.",
    "url": "https://doi.org/10.1002/nml.70077",
    "doi": "10.1002/nml.70077",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nml.70077",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "개요 이 탐색적 연구는 지방 정부의 환경 지속 가능성 계획을 채택하고 구현하는 데 있어 비영리 단체가 수행하는 다양한 역할을 조사합니다. 근거 이론(Glaser 및 Strauss 1967)과 연역적 접근과 귀납적 접근 방식의 혼합을 사용하여 우리는 2023년에 미국 전역의 지방 정부 지속 가능성 관리자를 대상으로 실시한 59개의 반구조화된 인터뷰를 분석했습니다. 정부-비영리 관계에 대한 전통적인 개념에 의해 예측된 바와 같이, 우리의 결과는 비영리 단체가 지방 정부를 대신하여 공공 서비스를 자주 제공하고 옹호 활동에 참여한다는 것을 나타냅니다. 동시에 우리는 다른 역할을 수행하는 비영리 단체의 몇 가지 사례도 확인합니다. 비영리 단체는 지방 정부 계획을 지원하기 위해 직접적인 재정 지원을 제공했습니다. 그들은 지방 정부에 정보 자원 역할을 했습니다. 그들은 비영리 선거구 단체와 지방 정부 사이의 중개자 역할을 했습니다. 또한 일부 인터뷰 대상자는 비영리 단체가 동일한 프로젝트에서 여러 역할을 수행했다고 보고했습니다. 이 연구는 더 많은 분야별 연구에 대한 Grønbjerg 및 Smith(2021)의 요구를 다루고 비영리 단체가 정부와 상호 작용할 때 수행하는 역할의 범위와 복잡성에 대한 더 큰 이해를 제공함으로써 정부 비영리 관계 문헌을 풍부하게 합니다."
+   "abstract_ko": "개요 이 탐색적 연구는 지방 정부의 환경 지속 가능성 계획을 채택하고 구현하는 데 있어 비영리 단체가 수행하는 다양한 역할을 조사합니다. 근거 이론(Glaser 및 Strauss 1967)과 연역적 접근과 귀납적 접근 방식의 혼합을 사용하여 우리는 2023년에 미국 전역의 지방 정부 지속 가능성 관리자를 대상으로 실시한 59개의 반구조화된 인터뷰를 분석했습니다. 정부-비영리 관계에 대한 전통적인 개념에 의해 예측된 바와 같이, 우리의 결과는 비영리 단체가 지방 정부를 대신하여 공공 서비스를 자주 제공하고 옹호 활동에 참여한다는 것을 나타냅니다. 동시에 우리는 다른 역할을 수행하는 비영리 단체의 몇 가지 사례도 확인합니다. 비영리 단체는 지방 정부 계획을 지원하기 위해 직접적인 재정 지원을 제공했습니다. 그들은 지방 정부에 정보 자원 역할을 했습니다. 그들은 비영리 선거구 단체와 지방 정부 사이의 중개자 역할을 했습니다. 또한 일부 인터뷰 대상자는 비영리 단체가 동일한 프로젝트에서 여러 역할을 수행했다고 보고했습니다. 이 연구는 더 많은 분야별 연구에 대한 Grønbjerg 및 Smith(2021)의 요구를 다루고 비영리 단체가 정부와 상호 작용할 때 수행하는 역할의 범위와 복잡성에 대한 더 큰 이해를 제공함으로써 정부 비영리 관계 문헌을 풍부하게 합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223465454": {
    "id": "oa:W7223465454",
@@ -124903,7 +124920,9 @@
    "doi": "10.1111/ijsw.70100",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ijsw.70100",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "Abstract 본 연구에서는 서울과 부산의 고용 유형, 하위 지역, 소득 분위수에 따른 가구 소득 이질성을 조사했습니다. 한국의 두 대도시는 서로 대조되는 인구통계학적, 경제적 궤적을 따라왔습니다. 서울과 부산 복지실태 조사를 활용하여 무조건 분위수 회귀 분석을 통해 2018년과 2022년 고용 관련 및 소지역 소득 차이를 조사합니다. 부트스트랩 기반 계수차 검정은 두 조사 연도 사이의 변화를 평가합니다. 결과는 뚜렷한 분포 패턴을 보여줍니다. 서울의 경우 중부권 대비 여러 소지역 소득격차에서 유의미한 변화가 관찰된 반면, 부산에서는 고용관련 소득격차, 특히 판매직과 서비스직 비정규직에서 유의미한 변화가 집중됐다. 공공 이전을 포함하거나 제외하는 소득 측정은 대체로 유사한 패턴을 나타냅니다. 두 도시 모두 75번째 백분위수에서는 소득이 크게 증가했지만 25번째 백분위수에서는 그렇지 않았습니다. 전반적으로, 조사 결과는 상당한 고용 관련, 공간적, 분포적 이질성을 보여 주며 도시 내 및 대도시 평균을 넘어서는 분포 변화를 조사하는 가치를 강조합니다."
+   "abstract_ko": "Abstract 본 연구에서는 서울과 부산의 고용 유형, 하위 지역, 소득 분위수에 따른 가구 소득 이질성을 조사했습니다. 한국의 두 대도시는 서로 대조되는 인구통계학적, 경제적 궤적을 따라왔습니다. 서울과 부산 복지실태 조사를 활용하여 무조건 분위수 회귀 분석을 통해 2018년과 2022년 고용 관련 및 소지역 소득 차이를 조사합니다. 부트스트랩 기반 계수차 검정은 두 조사 연도 사이의 변화를 평가합니다. 결과는 뚜렷한 분포 패턴을 보여줍니다. 서울의 경우 중부권 대비 여러 소지역 소득격차에서 유의미한 변화가 관찰된 반면, 부산에서는 고용관련 소득격차, 특히 판매직과 서비스직 비정규직에서 유의미한 변화가 집중됐다. 공공 이전을 포함하거나 제외하는 소득 측정은 대체로 유사한 패턴을 나타냅니다. 두 도시 모두 75번째 백분위수에서는 소득이 크게 증가했지만 25번째 백분위수에서는 그렇지 않았습니다. 전반적으로, 조사 결과는 상당한 고용 관련, 공간적, 분포적 이질성을 보여 주며 도시 내 및 대도시 평균을 넘어서는 분포 변화를 조사하는 가치를 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223470069": {
    "id": "oa:W7223470069",
@@ -124920,7 +124939,9 @@
    "doi": "10.1177/09589287261499533",
    "pdf": "https://doi.org/10.1177/09589287261499533",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "무급 간병인은 유급 일을 했음에도 불구하고 종종 경제적 불안을 경험합니다. 가능한 경우 혜택 프로그램은 설계에 따라 부정적인 영향을 미칠 수 있습니다. 여기에서는 급격한 소득 한도가 있는 자산 조사를 거치지 않은 영국의 간병인 수당(Carer’s Allowance)을 분석하여 그 규모, 기간, 대상 및 이유를 묻습니다. 사회 이해의 15파동(2009~2024)을 바탕으로 물질적 지표(연체금, 소득 손실, 저축)와 인식(재정적 걱정, 소득 만족도)을 결합하여 경제적 불안을 조사합니다. 간병인 수당을 받은 이력이 있는 간병인은 이벤트 연구 설계에서 수입이 진행됨에 따라 없는 간병인과 비교됩니다. 소득이 증가함에 따라 불안감은 감소하지만 간병인 간에 균일하지는 않습니다. 소득 한도를 넘으면 간병인 수당을 받은 이력이 있는 간병인은 상대적으로 청구서 및 주택 연체, 정기 저축 감소, 재정적 걱정 증가, 소득에 대한 불만족이 더 많다고 보고합니다. 불안의 상대적 격차는 크고 시간이 지남에 따라 지속되며 전체 가구로 확장됩니다. 연체료 급증은 임차인 사이에서 더 두드러지며, 중산층과 근로자 간병인은 상대적으로 더 많은 걱정과 불만을 경험합니다. 이러한 패턴은 간병 참여의 변화와 관련이 없는 것으로 보입니다. 오히려 소득, 고용, 급여 수급의 격차가 한도를 넘어 더 벌어진다. 정책 설계의 역할을 강조함으로써 연구 결과는 사회적 위험과 경제적 불안에 대한 연구를 말해줍니다."
+   "abstract_ko": "무급 간병인은 유급 일을 했음에도 불구하고 종종 경제적 불안을 경험합니다. 가능한 경우 혜택 프로그램은 설계에 따라 부정적인 영향을 미칠 수 있습니다. 여기에서는 급격한 소득 한도가 있는 자산 조사를 거치지 않은 영국의 간병인 수당(Carer’s Allowance)을 분석하여 그 규모, 기간, 대상 및 이유를 묻습니다. 사회 이해의 15파동(2009~2024)을 바탕으로 물질적 지표(연체금, 소득 손실, 저축)와 인식(재정적 걱정, 소득 만족도)을 결합하여 경제적 불안을 조사합니다. 간병인 수당을 받은 이력이 있는 간병인은 이벤트 연구 설계에서 수입이 진행됨에 따라 없는 간병인과 비교됩니다. 소득이 증가함에 따라 불안감은 감소하지만 간병인 간에 균일하지는 않습니다. 소득 한도를 넘으면 간병인 수당을 받은 이력이 있는 간병인은 상대적으로 청구서 및 주택 연체, 정기 저축 감소, 재정적 걱정 증가, 소득에 대한 불만족이 더 많다고 보고합니다. 불안의 상대적 격차는 크고 시간이 지남에 따라 지속되며 전체 가구로 확장됩니다. 연체료 급증은 임차인 사이에서 더 두드러지며, 중산층과 근로자 간병인은 상대적으로 더 많은 걱정과 불만을 경험합니다. 이러한 패턴은 간병 참여의 변화와 관련이 없는 것으로 보입니다. 오히려 소득, 고용, 급여 수급의 격차가 한도를 넘어 더 벌어진다. 정책 설계의 역할을 강조함으로써 연구 결과는 사회적 위험과 경제적 불안에 대한 연구를 말해줍니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223470321": {
    "id": "oa:W7223470321",
@@ -124937,7 +124958,9 @@
    "doi": "10.1177/09589287261499480",
    "pdf": "",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "사회적 투자는 강력한 긍정적 피드백 효과를 창출할 것으로 기대되지 않습니다. 소득이 정책 연속성에 의존하는 수혜자의 유권자에 의해 보수적인 축소로부터 사회 보호가 보호되는 반면, 사회적 투자는 노동 시장 소득을 촉진하여 혜택이 실현된 후 조직화하려는 인센티브를 약화시킵니다. 이 글은 사회적 투자가 지지적인 여론을 조성하고 경제 성장에 관심이 있는 고용주와 전문가를 유치하여 지속성을 촉진함으로써 긍정적이면서도 다른 피드백 효과를 생성할 수 있다는 논쟁에 기여합니다. 이 주장은 40년 동안 6개 보수적 복지 국가에서 보육, 휴가, 수당, 가족 및 성별 관련 노동 시장, 연금 규제에 대한 655개 정책 변경에 대한 원본 데이터베이스를 사용하여 사회 투자의 핵심 분야인 일-가정 정책을 통해 테스트되었습니다. 방법론적으로 이 기사는 정책 개혁의 누적 방향을 통해 정책 피드백을 측정하는 새로운 방법을 소개하며 여기서 이중 소득자와 남성 부양자 궤적을 구별합니다. 이 법안을 내각 이데올로기와 상호 작용시키면 우익 내각이 보수적인 제도적 맥락에서만 남성 가장이 가장 많은 개혁을 채택할 가능성이 더 높다는 것을 알 수 있습니다. 맞벌이 개혁이 누적되면서 당파적 차이는 사라지고 결국 사라집니다. 이는 정책 피드백 이론을 사회적 투자에 적용하고, 젠더 경제적 권리의 제도화가 어떻게 이루어질 수 있는지를 제시합니다."
+   "abstract_ko": "사회적 투자는 강력한 긍정적 피드백 효과를 창출할 것으로 기대되지 않습니다. 소득이 정책 연속성에 의존하는 수혜자의 유권자에 의해 보수적인 축소로부터 사회 보호가 보호되는 반면, 사회적 투자는 노동 시장 소득을 촉진하여 혜택이 실현된 후 조직화하려는 인센티브를 약화시킵니다. 이 글은 사회적 투자가 지지적인 여론을 조성하고 경제 성장에 관심이 있는 고용주와 전문가를 유치하여 지속성을 촉진함으로써 긍정적이면서도 다른 피드백 효과를 생성할 수 있다는 논쟁에 기여합니다. 이 주장은 40년 동안 6개 보수적 복지 국가에서 보육, 휴가, 수당, 가족 및 성별 관련 노동 시장, 연금 규제에 대한 655개 정책 변경에 대한 원본 데이터베이스를 사용하여 사회 투자의 핵심 분야인 일-가정 정책을 통해 테스트되었습니다. 방법론적으로 이 기사는 정책 개혁의 누적 방향을 통해 정책 피드백을 측정하는 새로운 방법을 소개하며 여기서 이중 소득자와 남성 부양자 궤적을 구별합니다. 이 법안을 내각 이데올로기와 상호 작용시키면 우익 내각이 보수적인 제도적 맥락에서만 남성 가장이 가장 많은 개혁을 채택할 가능성이 더 높다는 것을 알 수 있습니다. 맞벌이 개혁이 누적되면서 당파적 차이는 사라지고 결국 사라집니다. 이는 정책 피드백 이론을 사회적 투자에 적용하고, 젠더 경제적 권리의 제도화가 어떻게 이루어질 수 있는지를 제시합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223477302": {
    "id": "oa:W7223477302",
@@ -124954,9 +124977,11 @@
    "abstract": "ABSTRACT Severe digital service failures with crisis‐like characteristics often arise from routine technical problems and coordination failures. When such failures escalate into events that threaten public trust in government, rebuilding trust becomes especially challenging. Unlike isolated external shocks, such failures signal potential systemic competence deficiencies, making restoration efforts more complex. However, empirical evidence on how government responses contribute to trust recovery through underlying psychological mechanisms remains limited. Drawing on uncertainty management theory, this study develops and empirically tests a dual‐pathway model for trust recovery. Results from a vignette experiment with 270 Chinese citizens reveal that government responses combining timeliness and transparency are particularly effective in restoring public trust. Specifically, such combined responses restore affect‐based trust by reducing anger and strengthen cognition‐based trust by reducing risk perceptions. By illuminating how the combination of response dimensions functions through distinct psychological pathways, these findings advance understanding of how governments can rebuild public trust following digital service failures with crisis‐like characteristics. This study also provides guidance for policymakers in designing response strategies that address both emotional and cognitive concerns, thereby sustaining public trust amid digital transformation.",
    "url": "https://doi.org/10.1002/pad.70135",
    "doi": "10.1002/pad.70135",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pad.70135",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "ABSTRACT 위기와 유사한 특성을 지닌 심각한 디지털 서비스 실패는 종종 일상적인 기술 문제와 조정 실패로 인해 발생합니다. 그러한 실패가 정부에 대한 대중의 신뢰를 위협하는 사건으로 확대되면 신뢰를 회복하는 것이 특히 어려워집니다. 고립된 외부 충격과 달리 이러한 실패는 잠재적인 체계적 역량 부족을 알리며 복원 노력을 더욱 복잡하게 만듭니다. 그러나 정부의 대응이 근본적인 심리적 메커니즘을 통해 신뢰 회복에 어떻게 기여하는지에 대한 실증적 증거는 여전히 제한적입니다. 본 연구에서는 불확실성 관리 이론을 바탕으로 신뢰 회복을 위한 이중 경로 모델을 개발하고 실증적으로 테스트합니다. 270명의 중국 시민을 대상으로 한 비네트 실험 결과, 적시성과 투명성을 결합한 정부 대응이 대중의 신뢰를 회복하는 데 특히 효과적인 것으로 나타났습니다. 구체적으로, 이러한 결합된 대응은 분노를 줄여 감정 기반 신뢰를 회복하고, 위험 인식을 줄여 인지 기반 신뢰를 강화합니다. 이러한 발견은 대응 차원의 조합이 뚜렷한 심리적 경로를 통해 어떻게 기능하는지를 조명함으로써 정부가 위기와 유사한 특징을 지닌 디지털 서비스 실패 이후 대중의 신뢰를 어떻게 재건할 수 있는지에 대한 이해를 향상시킵니다. 또한 이 연구는 감정적, 인지적 문제를 모두 해결하는 대응 전략을 설계하는 데 있어 정책 입안자에게 지침을 제공하여 디지털 혁신 속에서 대중의 신뢰를 유지합니다."
+   "abstract_ko": "ABSTRACT 위기와 유사한 특성을 지닌 심각한 디지털 서비스 실패는 종종 일상적인 기술 문제와 조정 실패로 인해 발생합니다. 그러한 실패가 정부에 대한 대중의 신뢰를 위협하는 사건으로 확대되면 신뢰를 회복하는 것이 특히 어려워집니다. 고립된 외부 충격과 달리 이러한 실패는 잠재적인 체계적 역량 부족을 알리며 복원 노력을 더욱 복잡하게 만듭니다. 그러나 정부의 대응이 근본적인 심리적 메커니즘을 통해 신뢰 회복에 어떻게 기여하는지에 대한 실증적 증거는 여전히 제한적입니다. 본 연구에서는 불확실성 관리 이론을 바탕으로 신뢰 회복을 위한 이중 경로 모델을 개발하고 실증적으로 테스트합니다. 270명의 중국 시민을 대상으로 한 비네트 실험 결과, 적시성과 투명성을 결합한 정부 대응이 대중의 신뢰를 회복하는 데 특히 효과적인 것으로 나타났습니다. 구체적으로, 이러한 결합된 대응은 분노를 줄여 감정 기반 신뢰를 회복하고, 위험 인식을 줄여 인지 기반 신뢰를 강화합니다. 이러한 발견은 대응 차원의 조합이 뚜렷한 심리적 경로를 통해 어떻게 기능하는지를 조명함으로써 정부가 위기와 유사한 특징을 지닌 디지털 서비스 실패 이후 대중의 신뢰를 어떻게 재건할 수 있는지에 대한 이해를 향상시킵니다. 또한 이 연구는 감정적, 인지적 문제를 모두 해결하는 대응 전략을 설계하는 데 있어 정책 입안자에게 지침을 제공하여 디지털 혁신 속에서 대중의 신뢰를 유지합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223443595": {
    "id": "oa:W7223443595",
@@ -124982,7 +125007,9 @@
    "doi": "10.1177/10982140261496739",
    "pdf": "",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "문화적으로 반응하는 프로그램을 설계하려면 장소, 관계, 지역사회에서 정의한 가치에 기반한 평가 접근 방식이 필요합니다. 이 논문은 농촌 및 부족 공동체 전반에 걸친 지역 사회 과학 참여 프로그램의 사례 이야기를 제시합니다. 원주민 평가 원칙에 따라 프로그램 팀은 문화적, 생태학적으로 중요한 유카 식물의 수명주기에 기반을 둔 장소 기반 은유 기반 논리 모델인 유카 논리 모델을 개발했습니다. 유카 논리 모델은 서구 논리 모델의 선형적, 후진적 설계 접근 방식과 대조되는 순환 프로세스를 중심으로 하는 프로그램 계획, 구현, 반영 및 학습에 대한 원주민의 문화 기반 접근 방식을 반영합니다. 유카 모델은 스토리텔링, 시각적 매핑 및 집단적 성찰을 지원하기 위해 유카 은유를 적용하여 참여 평가 프로세스인 파급효과 매핑을 통해 평가되었습니다. 이 접근 방식은 의도된 새로운 결과, 전경화된 관계, 시간에 따른 비선형 변화를 문서화했습니다. 이 사례 이야기는 원주민 세계관과 일치하는 문화적으로 반응하고 은유 기반 평가에 대한 실무자 중심의 예를 제공합니다."
+   "abstract_ko": "문화적으로 반응하는 프로그램을 설계하려면 장소, 관계, 지역사회에서 정의한 가치에 기반한 평가 접근 방식이 필요합니다. 이 논문은 농촌 및 부족 공동체 전반에 걸친 지역 사회 과학 참여 프로그램의 사례 이야기를 제시합니다. 원주민 평가 원칙에 따라 프로그램 팀은 문화적, 생태학적으로 중요한 유카 식물의 수명주기에 기반을 둔 장소 기반 은유 기반 논리 모델인 유카 논리 모델을 개발했습니다. 유카 논리 모델은 서구 논리 모델의 선형적, 후진적 설계 접근 방식과 대조되는 순환 프로세스를 중심으로 하는 프로그램 계획, 구현, 반영 및 학습에 대한 원주민의 문화 기반 접근 방식을 반영합니다. 유카 모델은 스토리텔링, 시각적 매핑 및 집단적 성찰을 지원하기 위해 유카 은유를 적용하여 참여 평가 프로세스인 파급효과 매핑을 통해 평가되었습니다. 이 접근 방식은 의도된 새로운 결과, 전경화된 관계, 시간에 따른 비선형 변화를 문서화했습니다. 이 사례 이야기는 원주민 세계관과 일치하는 문화적으로 반응하고 은유 기반 평가에 대한 실무자 중심의 예를 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223459469": {
    "id": "oa:W7223459469",
@@ -124997,9 +125024,11 @@
    "abstract": "Abstract Survey research frequently relies on stylized questions with discrete, ordered response categories to measure behaviors or attitudes. While these items simplify responses and facilitate standardization, they introduce a structural bias component (SBC) arising from the discrepancy between actual behavior and the assigned category values. This paper investigates SBC in the context of religious practice, using data from the European Values Study across multiple waves and countries. The analysis shows that the discrete nature of point-value items can generate distortions. A calibration model is proposed to estimate and adjust for this bias, assuming a uniform distribution of behaviors within each interval. Findings suggest that, while SBC can reach substantial levels in some domains—particularly where the accuracy of absolute values is crucial—in practice, however, its impact on theoretical interpretations or explanatory factors is typically limited. The study underscores the importance of carefully designing response categories and considering alternative scaling methods, such as stylized items with interval-valued categories, to reduce measurement error and enhance survey validity.",
    "url": "https://doi.org/10.1093/jssam/smag043",
    "doi": "10.1093/jssam/smag043",
-   "pdf": "https://doi.org/10.1093/jssam/smag043",
+   "pdf": "https://academic.oup.com/jssam/advance-article-pdf/doi/10.1093/jssam/smag043/72470474/smag043.pdf",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "추상 설문 조사 연구는 행동이나 태도를 측정하기 위해 개별적이고 순서가 지정된 응답 범주가 있는 양식화된 질문에 자주 의존합니다. 이러한 항목은 응답을 단순화하고 표준화를 촉진하지만 실제 동작과 할당된 범주 값 간의 불일치로 인해 발생하는 구조적 편향 구성 요소(SBC)를 도입합니다. 이 논문은 다양한 물결과 국가에 걸친 유럽 가치 연구의 데이터를 사용하여 종교 실천의 맥락에서 SBC를 조사합니다. 분석에 따르면 포인트 값 항목의 개별 특성으로 인해 왜곡이 발생할 수 있는 것으로 나타났습니다. 각 간격 내에서 동작의 균일한 분포를 가정하여 이러한 편향을 추정하고 조정하기 위한 교정 모델이 제안되었습니다. 연구 결과에 따르면 SBC는 일부 영역, 특히 절대값의 정확성이 중요한 영역에서 상당한 수준에 도달할 수 있지만 실제로는 이론적 해석이나 설명 요소에 미치는 영향이 일반적으로 제한적입니다. 이 연구는 측정 오류를 줄이고 설문 조사 타당성을 높이기 위해 응답 범주를 신중하게 설계하고 간격 값 범주가 있는 양식화된 항목과 같은 대체 척도 방법을 고려하는 것이 중요하다는 점을 강조합니다."
+   "abstract_ko": "추상 설문 조사 연구는 행동이나 태도를 측정하기 위해 개별적이고 순서가 지정된 응답 범주가 있는 양식화된 질문에 자주 의존합니다. 이러한 항목은 응답을 단순화하고 표준화를 촉진하지만 실제 동작과 할당된 범주 값 간의 불일치로 인해 발생하는 구조적 편향 구성 요소(SBC)를 도입합니다. 이 논문은 다양한 물결과 국가에 걸친 유럽 가치 연구의 데이터를 사용하여 종교 실천의 맥락에서 SBC를 조사합니다. 분석에 따르면 포인트 값 항목의 개별 특성으로 인해 왜곡이 발생할 수 있는 것으로 나타났습니다. 각 간격 내에서 동작의 균일한 분포를 가정하여 이러한 편향을 추정하고 조정하기 위한 교정 모델이 제안되었습니다. 연구 결과에 따르면 SBC는 일부 영역, 특히 절대값의 정확성이 중요한 영역에서 상당한 수준에 도달할 수 있지만 실제로는 이론적 해석이나 설명 요소에 미치는 영향이 일반적으로 제한적입니다. 이 연구는 측정 오류를 줄이고 설문 조사 타당성을 높이기 위해 응답 범주를 신중하게 설계하고 간격 값 범주가 있는 양식화된 항목과 같은 대체 척도 방법을 고려하는 것이 중요하다는 점을 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223464931": {
    "id": "oa:W7223464931",
@@ -125018,7 +125047,9 @@
    "doi": "10.1093/jssam/smag034",
    "pdf": "https://doi.org/10.1093/jssam/smag034",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "Abstract 공식 통계에서는 소규모 면적 추정을 위해 연계 조사 및 행정 데이터를 점점 더 많이 사용하지만, 기록 연계 오류로 인해 지역 수준 Fay-Herriot 모델에서 직접 추정이 왜곡될 수 있습니다. 우리는 누락된 정보 원리를 사용하여 회귀 계수 및 분산 구성 요소의 연결 오류 조정 최대 우도 추정기, 실제 면적 평균에 대한 경험적 최선의 예측기, 평균 제곱 오류 추정기를 얻기 위해 교환 가능한 연결 오류 메커니즘 하에서 이러한 모델에 대한 우도 기반 프레임워크를 개발합니다. 시뮬레이션 결과는 연결 오류를 무시하면 상당한 편향과 효율성 손실이 발생하는 반면 제안된 방법은 편향성을 복원하고 정확한 불확실성 정량화를 제공한다는 것을 보여줍니다. 행정 등록부와 연결된 EU-SILC(유럽 연합 소득 및 생활 조건 통계) 데이터를 기반으로 중앙 이탈리아의 113개 노동 시장 지역에 대한 평균 균등화 소득 추정에 적용한 사례는 이 접근 방식의 실질적인 이점을 보여줍니다."
+   "abstract_ko": "Abstract 공식 통계에서는 소규모 면적 추정을 위해 연계 조사 및 행정 데이터를 점점 더 많이 사용하지만, 기록 연계 오류로 인해 지역 수준 Fay-Herriot 모델에서 직접 추정이 왜곡될 수 있습니다. 우리는 누락된 정보 원리를 사용하여 회귀 계수 및 분산 구성 요소의 연결 오류 조정 최대 우도 추정기, 실제 면적 평균에 대한 경험적 최선의 예측기, 평균 제곱 오류 추정기를 얻기 위해 교환 가능한 연결 오류 메커니즘 하에서 이러한 모델에 대한 우도 기반 프레임워크를 개발합니다. 시뮬레이션 결과는 연결 오류를 무시하면 상당한 편향과 효율성 손실이 발생하는 반면 제안된 방법은 편향성을 복원하고 정확한 불확실성 정량화를 제공한다는 것을 보여줍니다. 행정 등록부와 연결된 EU-SILC(유럽 연합 소득 및 생활 조건 통계) 데이터를 기반으로 중앙 이탈리아의 113개 노동 시장 지역에 대한 평균 균등화 소득 추정에 적용한 사례는 이 접근 방식의 실질적인 이점을 보여줍니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223444208": {
    "id": "oa:W7223444208",
@@ -125035,7 +125066,9 @@
    "url": "https://doi.org/10.1016/j.jeconom.2026.106349",
    "doi": "10.1016/j.jeconom.2026.106349",
    "pdf": "",
-   "first_seen": "2026-10-26T09:31:09+09:00"
+   "first_seen": "2026-10-26T09:31:09+09:00",
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7223441565": {
    "id": "oa:W7223441565",
@@ -125054,7 +125087,9 @@
    "doi": "10.1007/s10614-026-11445-1",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s10614-026-11445-1.pdf",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "Abstract 본 논문은 다양한 시장 단계를 명시적으로 설명하는 최적의 포트폴리오 할당을 위한 기술을 개발합니다. 기본 아이디어는 감정 지수의 역학과 관련하여 시장 단계를 구별하고 그에 따라 강세, 약세 및 중립 입력 포트폴리오를 보간하는 것입니다. 우리가 설계한 알고리즘은 최적 운송 이론을 기반으로 하며 최적의 자산 배분을 생성하기 위해 Entropic Gromov-Wasserstein 불일치 개념을 활용합니다. 결과적으로 최적의 포트폴리오는 다양한 시장 상황에 따라 달라지는 무게 중심 좌표를 사용하여 입력 포트폴리오의 무게 중심으로 얻어집니다. 시뮬레이션 연구와 경험적 적용을 통해 우리는 이 접근 방식의 효율성을 입증합니다. 대체 포트폴리오에 대한 비교 분석에 따르면 우리가 제안한 기법은 전체 평가 창에서 우수한 위험 조정 성능을 제공하는 반면 동적 전략에서 예상되는 대로 매년 성능이 달라집니다."
+   "abstract_ko": "Abstract 본 논문은 다양한 시장 단계를 명시적으로 설명하는 최적의 포트폴리오 할당을 위한 기술을 개발합니다. 기본 아이디어는 감정 지수의 역학과 관련하여 시장 단계를 구별하고 그에 따라 강세, 약세 및 중립 입력 포트폴리오를 보간하는 것입니다. 우리가 설계한 알고리즘은 최적 운송 이론을 기반으로 하며 최적의 자산 배분을 생성하기 위해 Entropic Gromov-Wasserstein 불일치 개념을 활용합니다. 결과적으로 최적의 포트폴리오는 다양한 시장 상황에 따라 달라지는 무게 중심 좌표를 사용하여 입력 포트폴리오의 무게 중심으로 얻어집니다. 시뮬레이션 연구와 경험적 적용을 통해 우리는 이 접근 방식의 효율성을 입증합니다. 대체 포트폴리오에 대한 비교 분석에 따르면 우리가 제안한 기법은 전체 평가 창에서 우수한 위험 조정 성능을 제공하는 반면 동적 전략에서 예상되는 대로 매년 성능이 달라집니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223448060": {
    "id": "oa:W7223448060",
@@ -125071,7 +125106,9 @@
    "url": "https://doi.org/10.1007/s10614-026-11454-0",
    "doi": "10.1007/s10614-026-11454-0",
    "pdf": "",
-   "first_seen": "2026-10-26T09:31:09+09:00"
+   "first_seen": "2026-10-26T09:31:09+09:00",
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7223456697": {
    "id": "oa:W7223456697",
@@ -125089,7 +125126,9 @@
    "url": "https://doi.org/10.1007/s10614-026-11453-1",
    "doi": "10.1007/s10614-026-11453-1",
    "pdf": "",
-   "first_seen": "2026-10-26T09:31:09+09:00"
+   "first_seen": "2026-10-26T09:31:09+09:00",
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7223462422": {
    "id": "oa:W7223462422",
@@ -125109,7 +125148,9 @@
    "url": "https://doi.org/10.1007/s10614-026-11450-4",
    "doi": "10.1007/s10614-026-11450-4",
    "pdf": "",
-   "first_seen": "2026-10-26T09:31:09+09:00"
+   "first_seen": "2026-10-26T09:31:09+09:00",
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7223457395": {
    "id": "oa:W7223457395",
@@ -125126,7 +125167,280 @@
    "doi": "10.1108/tg-05-2026-0225",
    "pdf": "",
    "first_seen": "2026-10-26T09:31:09+09:00",
-   "abstract_ko": "목적 이 문서의 목적은 네 가지 기능 기둥의 차이점을 포함하여 세계은행의 취약하고 분쟁에 영향을 받는 상황(FCS) 상태와 GovTech 성숙도 간의 연관성을 조사하는 것입니다. 설계/방법론/접근법 분석에서는 39개 FCS 국가를 포함하여 197개 국가에 대한 2025년 GTMI(GovTech Maturity Index) 데이터를 사용합니다. 일반 최소 제곱 모델은 소득, 인구 및 지역에 맞게 조정됩니다. 공분산 인식 계수 대비, 일치, 한정된 응답 추정, 제한된 표본(설문 조사 기반 기록만 포함), 지역 클러스터 부트스트랩 및 UN 전자정부 개발 지수와의 비교는 보완적인 검사를 제공합니다. 결과 조정된 종합 연관성은 -0.187 지수 포인트입니다. 네 가지 핵심 연관성은 모두 음수이지만 공분산 인식 비교는 핵심 또는 FCS 범주 간의 차이를 설정하지 않으며 일치는 두 핵심 추정의 순서를 반대로 합니다. 연관성은 설문조사 기반 하위 표본을 유지합니다. 탐색적 분위수 대비는 결정적이지 않습니다. 연구의 한계/의미 단면적 연관성은 인과적 효과, 투자 수익 또는 메커니즘을 식별하지 못합니다. 지수 측정, 제한된 중복 및 작은 FCS 하위 그룹으로 인해 해석이 제한됩니다. 실제적 함의 이번 연구 결과는 국가 진단에서 다양한 GovTech 기능을 조사하는 것을 뒷받침합니다. 그들은 투자 순위나 개입을 위한 성숙도 기준을 설정하지 않습니다. 사회적 영향 서비스 이용, 포용 및 시민 보호"
+   "abstract_ko": "목적 이 문서의 목적은 네 가지 기능 기둥의 차이점을 포함하여 세계은행의 취약하고 분쟁에 영향을 받는 상황(FCS) 상태와 GovTech 성숙도 간의 연관성을 조사하는 것입니다. 설계/방법론/접근법 분석에서는 39개 FCS 국가를 포함하여 197개 국가에 대한 2025년 GTMI(GovTech Maturity Index) 데이터를 사용합니다. 일반 최소 제곱 모델은 소득, 인구 및 지역에 맞게 조정됩니다. 공분산 인식 계수 대비, 일치, 한정된 응답 추정, 제한된 표본(설문 조사 기반 기록만 포함), 지역 클러스터 부트스트랩 및 UN 전자정부 개발 지수와의 비교는 보완적인 검사를 제공합니다. 결과 조정된 종합 연관성은 -0.187 지수 포인트입니다. 네 가지 핵심 연관성은 모두 음수이지만 공분산 인식 비교는 핵심 또는 FCS 범주 간의 차이를 설정하지 않으며 일치는 두 핵심 추정의 순서를 반대로 합니다. 연관성은 설문조사 기반 하위 표본을 유지합니다. 탐색적 분위수 대비는 결정적이지 않습니다. 연구의 한계/의미 단면적 연관성은 인과적 효과, 투자 수익 또는 메커니즘을 식별하지 못합니다. 지수 측정, 제한된 중복 및 작은 FCS 하위 그룹으로 인해 해석이 제한됩니다. 실제적 함의 이번 연구 결과는 국가 진단에서 다양한 GovTech 기능을 조사하는 것을 뒷받침합니다. 그들은 투자 순위나 개입을 위한 성숙도 기준을 설정하지 않습니다. 사회적 영향 서비스 이용, 포용 및 시민 보호",
+   "abs_tries": 0,
+   "ko_tries": 0
+  },
+  "oa:W7223549011": {
+   "id": "oa:W7223549011",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Climate, Nature, and the Uneven Expansion of Financial Governance",
+   "authors": [
+    "Paola D’Orazio"
+   ],
+   "journal": "Regulation & Governance",
+   "date": "2026-10-25",
+   "abstract": "ABSTRACT Financial authorities have developed extensive climate‐related policies, but nature‐related financial policy remains less widespread. Using data on individual policy instruments across 116 jurisdictions from 2000 to 2025, this paper compares the adoption, policy areas, binding status, and source of climate‐ and nature‐related policies. Nature‐related policies appear in 27 jurisdictions, compared with 60 for climate‐only policies. National nature adoption is positively associated with a larger existing body of climate and environmental financial policies, mainly through the broader environmental component rather than climate‐specific policy. Climate‐only policies are used more frequently in prudential supervision and credit allocation than policies that combine nature with climate or broader environmental concerns. Nature‐related policies have a higher mandatory share over the full period but a lower share than climate‐only policies in 2023–2025. In the European Union, broad EU‐level coverage coexists with limited national issuance. The paper contributes a common framework for comparing climate and nature policies and distinguishes EU‐level coverage from national policy development. The results show that the climate‐nature gap concerns not only adoption, but also where policies are used, how binding they are, and which level of authority issues them.",
+   "url": "https://doi.org/10.1111/rego.70219",
+   "doi": "10.1111/rego.70219",
+   "pdf": "https://doi.org/10.1111/rego.70219",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "개요 금융 당국은 광범위한 기후 관련 정책을 개발했지만 자연 관련 금융 정책은 여전히 ​​덜 널리 퍼져 있습니다. 2000년부터 2025년까지 116개 관할권의 개별 정책 도구에 대한 데이터를 사용하여 이 문서는 기후 및 자연 관련 정책의 채택, 정책 영역, 구속력 있는 상태, 출처를 비교합니다. 자연 관련 정책은 27개 관할권에서 나타나는데 비해 기후 전용 정책은 60개입니다. 국가적 자연 채택은 주로 기후 관련 정책보다는 더 광범위한 환경 요소를 통해 더 큰 기존의 기후 및 환경 금융 정책 기관과 긍정적으로 연관되어 있습니다. 기후 전용 정책은 자연과 기후 또는 광범위한 환경 문제를 결합하는 정책보다 건전성 감독 및 신용 배분에 더 자주 사용됩니다. 자연 관련 정책은 전체 기간에 걸쳐 의무 비율이 더 높지만 2023~2025년에는 기후 전용 정책보다 비율이 낮습니다. 유럽연합에서는 광범위한 EU 수준의 적용 범위와 제한된 국내 발행이 공존합니다. 이 논문은 기후와 자연 정책을 비교하기 위한 공통 프레임워크에 기여하고 EU 수준의 적용 범위와 국가 정책 개발을 구별합니다. 결과는 기후-자연 격차가 채택뿐만 아니라 정책이 사용되는 위치, 구속력, 정책을 발행하는 권한 수준과도 관련이 있음을 보여줍니다."
+  },
+  "oa:W7223561832": {
+   "id": "oa:W7223561832",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Canada's Path to a Just Carbon‐Neutral Economy",
+   "authors": [
+    "Ann Dale",
+    "Evert A. Lindquist",
+    "Tamara Antonia Krawchenko",
+    "Colin Charles Dring"
+   ],
+   "journal": "Canadian Public Administration",
+   "date": "2026-10-25",
+   "abstract": "Abstract Canada's climate governance is entering a critical inflection point amid accelerating ecological impacts, shifting geopolitical dynamics, and growing domestic policy uncertainty. This special issue examines how Canadian public administration can better respond to the climate polycrisis by addressing the institutional, political, and governance barriers that impede effective climate action. Despite decades of policy development, Canada's progress remains uneven, constrained by federal‐provincial tensions, fragmented policy instruments, and persistent support for fossil‐fuel development. The contributions in this issue argue that the core challenge is less a lack of policy tools than a misalignment between governance systems and the long‐term demands of decarbonization. Through analyses spanning federal institutions, industrial strategy, regional transition, market instruments, and municipal experimentation, the articles collectively highlight the need for more coherent, collaborative, and adaptive governance architectures capable of coordinating climate action across sectors and scales in a federated state.",
+   "url": "https://doi.org/10.1111/capa.70081",
+   "doi": "10.1111/capa.70081",
+   "pdf": "",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "Abstract 캐나다의 기후 거버넌스는 생태학적 영향이 가속화되고 지정학적 역학이 변화하며 국내 정책 불확실성이 커지는 가운데 중요한 변곡점에 진입하고 있습니다. 이번 특별호에서는 효과적인 기후 조치를 방해하는 제도적, 정치적, 거버넌스 장벽을 해결함으로써 캐나다 공공 행정이 어떻게 기후 다원적 위기에 더 잘 대응할 수 있는지 조사합니다. 수십 년간의 정책 개발에도 불구하고 캐나다의 발전은 연방-주 간의 긴장, 단편적인 정책 도구, 화석 연료 개발에 대한 지속적인 지원으로 인해 여전히 고르지 못한 상태로 남아 있습니다. 이번 호에 기고한 내용은 핵심 과제는 정책 도구의 부족보다는 거버넌스 시스템과 탈탄소화의 장기적인 요구 간의 불일치라고 주장합니다. 연방 기관, 산업 전략, 지역 전환, 시장 도구 및 지방자치 실험을 포괄하는 분석을 통해 기사는 연방 국가의 부문 및 규모 전반에 걸쳐 기후 조치를 조정할 수 있는 보다 일관되고 협력적이며 적응력이 있는 거버넌스 아키텍처의 필요성을 종합적으로 강조합니다."
+  },
+  "oa:W7223563166": {
+   "id": "oa:W7223563166",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "From Policy to Sustainability: The Evolution of Sustainability in Public HRM in Aotearoa/New Zealand in the SDG Era",
+   "authors": [
+    "Nataliya Podgorodnichenko",
+    "Adeel Akmal",
+    "Fiona Edgar",
+    "Andrea Clark"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "date": "2026-10-25",
+   "abstract": "This study examines how sustainable human resource management (SHRM) has been incorporated into public sector HRM policy in Aotearoa/New Zealand before and after the introduction of the United Nations Sustainable Development Goals (SDGs). Drawing on a longitudinal qualitative analysis of HRM policies from 10 local councils between 2010 and 2021, it explores how sustainability concerns across social, economic, and environmental domains were integrated into public HRM. The findings show that sustainability entered public HRM primarily through incremental layering onto existing HRM frameworks rather than transformational change. Following the SDGs, policy attention to equity, diversity, and wellbeing increased; however, broader social justice commitments remained uneven, while environmental sustainability received limited attention. By examining HRM policies as organizational signals, the study contributes to public HRM and SHRM scholarship by showing how sustainability priorities are communicated before implementation and may remain constrained by institutional logics of compliance, efficiency, risk management, and organizational performance.",
+   "url": "https://doi.org/10.1177/0734371x261497122",
+   "doi": "10.1177/0734371x261497122",
+   "pdf": "https://doi.org/10.1177/0734371x261497122",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "본 연구에서는 유엔 지속가능발전목표(SDGs) 도입 전후에 뉴질랜드 아오테아로아에서 지속 가능한 인적 자원 관리(SHRM)가 공공 부문 HRM 정책에 어떻게 통합되었는지 조사합니다. 2010년부터 2021년까지 10개 지방 의회의 HRM 정책에 대한 종단적 질적 분석을 바탕으로 사회, 경제, 환경 영역 전반의 지속 가능성 문제가 공공 HRM에 어떻게 통합되었는지 탐구합니다. 연구 결과에 따르면 지속 가능성은 주로 혁신적인 변화보다는 기존 HRM 프레임워크에 대한 점진적인 계층화를 통해 공공 HRM에 도입되었습니다. SDGs에 따라 형평성, 다양성, 웰빙에 대한 정책적 관심이 높아졌습니다. 그러나 더 넓은 사회 정의에 대한 약속은 여전히 ​​불균등했고, 환경 지속가능성은 제한적인 관심을 받았습니다. HRM 정책을 조직의 신호로 조사함으로써 이 연구는 지속 가능성 우선 순위가 구현 전에 어떻게 전달되고 규정 준수, 효율성, 위험 관리 및 조직 성과에 대한 제도적 논리에 의해 제약을 받을 수 있는지 보여줌으로써 공공 HRM 및 SHRM 학문에 기여합니다."
+  },
+  "oa:W7223563577": {
+   "id": "oa:W7223563577",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Experiencing Remote, Hybrid and In‐Office Work in the Canadian Public Sector: Evidence from a 90‐Day Workplace Study",
+   "authors": [
+    "Zachary Spicer",
+    "Stephan Furlin"
+   ],
+   "journal": "Canadian Public Administration",
+   "date": "2026-10-25",
+   "abstract": "Abstract Governments across Canada are actively reasserting control over where and how public servants work through return‐to‐office mandates, often in the absence of fine‐grained evidence about how different work arrangements shape employee experience. This article examines how in‐office, remote, and hybrid work arrangements relate to public servants' self‐reported well‐being and perceived productivity. Using high‐frequency, longitudinal data collected over 90 days from 38 Canadian government employees, the study combines traditional survey instruments with repeated app‐based “check‐ins” capturing mood, energy, motivation, and productivity. The findings suggest that hybrid work arrangements are associated with lower reported work stress and higher perceived productivity, though work location alone does not fully explain variation in employee experience. By introducing a diagnostic, real‐time approach to measuring public servant well‐being, this study contributes to ongoing debates about hybrid work and provides evidence relevant to public sector managers implementing work‐location policies.",
+   "url": "https://doi.org/10.1111/capa.70075",
+   "doi": "10.1111/capa.70075",
+   "pdf": "https://doi.org/10.1111/capa.70075",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "요약 캐나다 전역의 정부는 다양한 업무 방식이 직원 경험을 어떻게 형성하는지에 대한 세부적인 증거가 없는 상황에서 공무원이 업무 복귀 명령을 통해 업무를 수행하는 장소와 방법에 대한 통제권을 적극적으로 재확인하고 있습니다. 이 기사에서는 사무실 내, 원격 및 하이브리드 근무 방식이 공무원의 자체 보고된 웰빙 및 인식된 생산성과 어떤 관련이 있는지 조사합니다. 38명의 캐나다 정부 직원으로부터 90일 동안 수집된 고주파 종단 데이터를 사용하여 이 연구는 기분, 에너지, 동기 및 생산성을 포착하는 반복적인 앱 기반 \"체크인\"과 전통적인 설문 조사 도구를 결합합니다. 연구 결과에 따르면 하이브리드 작업 방식은 보고된 작업 스트레스가 낮고 인지된 생산성이 높은 것과 관련이 있지만 작업 위치만으로는 직원 경험의 차이를 완전히 설명할 수는 없습니다. 공무원 복지를 측정하기 위한 실시간 진단 접근 방식을 도입함으로써 이 연구는 하이브리드 작업에 대한 지속적인 논쟁에 기여하고 작업 위치 정책을 구현하는 공공 부문 관리자와 관련된 증거를 제공합니다."
+  },
+  "oa:W7223557792": {
+   "id": "oa:W7223557792",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Exploring the Impact of Nonlinearity on Effect Heterogeneity in Experimental Data",
+   "authors": [
+    "Jens Fuenderich",
+    "Lukas Joscha Beinhauer",
+    "Frank Renkewitz"
+   ],
+   "journal": "Advances in Methods and Practices in Psychological Science",
+   "date": "2026-10-01",
+   "abstract": "Heterogeneity has been proposed as a framework to improve psychological and behavioral science by identifying mechanisms that explain the differences between replications of an effect. The modal response to such differences is to search for relevant moderators—typically with limited success. We argue that monotonic nonlinear relationships can generate heterogeneous effects across replications when baseline levels differ, even in the absence of moderators. To evaluate this possibility, we introduce four descriptors of heterogeneity: effect heterogeneity, control-group heterogeneity, the intercept-slope correlation, and the rank correlation between control and treatment means. These characterize patterns consistent with linear, concave, or convex functional relationships. We apply this analytical framework to an initial pool of 55 meta-analytic multilab data sets. All data sets with heterogeneous effects also demonstrated control-group heterogeneity, and several patterns were in line with a concave functional relationship. In some cases, the association between baselines and effects accounted for a substantial proportion of effect heterogeneity. In addition, only a small number of data sets were directly at odds with a monotonic nonlinear functional form. Moreover, our results suggest that effect heterogeneity in multilab research reflects diverse data patterns rather than providing support for treating moderators as the modal explanation for effect heterogeneity. We discuss implications for multilab and meta-analytic practice, study design, and interpretations of effect heterogeneity. We advocate for a shift from treating only the effect-size distribution as the explanandum of the heterogeneity framework to more elaborate descriptions of heterogeneity.",
+   "url": "https://doi.org/10.1177/25152459261479656",
+   "doi": "10.1177/25152459261479656",
+   "pdf": "https://doi.org/10.1177/25152459261479656",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "이질성은 효과 복제 간의 차이를 설명하는 메커니즘을 식별하여 심리 및 행동 과학을 개선하기 위한 프레임워크로 제안되었습니다. 그러한 차이점에 대한 모달 대응은 관련 조정자를 검색하는 것입니다. 일반적으로 성공은 제한적입니다. 우리는 단조로운 비선형 관계가 중재자가 없는 경우에도 기준 수준이 다를 때 복제 전반에 걸쳐 이질적인 효과를 생성할 수 있다고 주장합니다. 이러한 가능성을 평가하기 위해 우리는 효과 이질성, 대조군 이질성, 절편-기울기 상관관계, 통제 수단과 처리 수단 간의 순위 상관관계 등 이질성에 대한 네 가지 설명자를 소개합니다. 이는 선형, 오목 또는 볼록 기능 관계와 일치하는 패턴을 특징으로 합니다. 우리는 이 분석 프레임워크를 55개의 메타 분석 멀티랩 데이터 세트의 초기 풀에 적용했습니다. 이질적인 효과가 있는 모든 데이터 세트는 대조군 이질성을 보여 주었으며 여러 패턴이 오목한 기능적 관계와 일치했습니다. 어떤 경우에는 기준선과 효과 사이의 연관성이 효과 이질성의 상당 부분을 차지했습니다. 또한 소수의 데이터 세트만이 단조로운 비선형 함수 형태와 직접적으로 상충되었습니다. 더욱이, 우리의 결과는 다중 연구실 연구에서 효과 이질성이 효과 이질성에 대한 모달 설명으로 중재자를 처리하는 지원을 제공하기보다는 다양한 데이터 패턴을 반영한다는 것을 시사합니다. 우리는 메신저에 대해 토론합니다"
+  },
+  "oa:W7223558242": {
+   "id": "oa:W7223558242",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Registered Report: Replication and Extension of Nozaradan et al. (2011)",
+   "authors": [
+    "Karli M. Nave",
+    "Erin E. Hannon",
+    "Joel S. Snyder",
+    "Emma Alexandrov",
+    "Sarah Christine Allen",
+    "Fernando Barbosa",
+    "Mara E. Breen",
+    "Alexandre Celma-Miralles",
+    "Thibault Chain",
+    "Joshua R. de Leeuw"
+   ],
+   "journal": "Advances in Methods and Practices in Psychological Science",
+   "date": "2026-10-01",
+   "abstract": "Cognitive neuroscience has long sought to disentangle stimulus-driven processing from conscious perceptual processing. Some prior evidence for neural processing of perceived musical beat (periodic pulse) may be confounded by stimulus-driven activity. Nozaradan et al. controlled for stimulus factors and used frequency tagging to show increased brain activity at imagery-related frequencies when listeners imagined a beat pattern during an isochronous stimulus. However, it remains unclear whether this effect is replicable and whether it reliably reflects conscious beat perception. In this registered report, we present 13 independent replications using the same vetted protocol. Listeners performed the same experimental paradigm as in Nozaradan et al. with an added behavioral task on each trial to assess conscious perception of the imagined beat. Preregistered meta-analyses revealed smaller raw effect sizes of imagery condition (binary = 0.03 µV, ternary = 0.03 µV) than the original study (binary = 0.12 µV, ternary = 0.20 µV) with confidence intervals all overlapping with zero. Differences in full-sample estimated effect sizes (this study: N = 152, η p 2 s = .03–.04; 2011 study: N = 8, η p 2 s = .62–.76) suggest larger sample sizes are necessary to detect these effects reliably if they exist. In addition, only neural activity at the stimulus frequency predicted imagery-task accuracy, contradicting our hypothesis that beat-related frequencies would predict performance. Our findings suggest an overall failure to replicate all main effects from the original study. We discuss potential reasons for discrepancies with the original study and implications for the utility of frequency tagging for studying beat perception.",
+   "url": "https://doi.org/10.1177/25152459261443491",
+   "doi": "10.1177/25152459261443491",
+   "pdf": "https://doi.org/10.1177/25152459261443491",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "인지 신경과학은 오랫동안 자극에 의한 처리와 의식적인 지각 처리를 분리하려고 노력해 왔습니다. 인지된 음악 비트(주기적 펄스)의 신경 처리에 대한 일부 이전 증거는 자극 중심 활동으로 인해 혼란스러울 수 있습니다. Nozaradanet al. 청취자가 등시성 자극 동안 비트 패턴을 상상할 때 자극 요인에 대해 제어되고 주파수 태깅을 사용하여 이미지 관련 주파수에서 증가된 뇌 활동을 보여주었습니다. 그러나 이 효과가 복제 가능한지, 의식적인 비트 인식을 안정적으로 반영하는지 여부는 불분명합니다. 이 등록된 보고서에서는 동일한 심사를 거친 프로토콜을 사용하여 13개의 독립적인 복제물을 제시합니다. 청취자들은 Nozaradan et al.에서와 동일한 실험 패러다임을 수행했습니다. 상상된 비트에 대한 의식적 인식을 평가하기 위해 각 시도에 추가 행동 작업을 추가했습니다. 사전 등록된 메타 분석에서는 원래 연구(이진 = 0.12μV, 삼항 = 0.20μV)보다 이미지 조건(이진 = 0.03μV, 삼항 = 0.03μV)의 원시 효과 크기가 더 작은 것으로 나타났으며 신뢰 구간은 모두 0과 중첩되었습니다. 전체 표본 추정 효과 크기의 차이(이 연구: N = 152, eta p 2 s = .03–.04; 2011년 연구: N = 8, eta p 2 s = .62–.76)는 이러한 효과가 존재하는 경우 이러한 효과를 안정적으로 감지하려면 더 큰 표본 크기가 필요함을 시사합니다. 또한, 자극 주파수에서의 신경 활동만이 이미지 작업 정확도를 예측했는데, 이는 비트 관련 주파수가 성능을 예측할 것이라는 우리의 가설과 모순됩니다. 우리의 연구 결과"
+  },
+  "oa:W7223574644": {
+   "id": "oa:W7223574644",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "On the Limits of Contextual Malleability in Cognitive Performance: Commentary on Stoevenbelt et al. (2026)",
+   "authors": [
+    "David Moreau"
+   ],
+   "journal": "Advances in Methods and Practices in Psychological Science",
+   "date": "2026-10-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1177/25152459261451143",
+   "doi": "10.1177/25152459261451143",
+   "pdf": "https://doi.org/10.1177/25152459261451143",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7223575061": {
+   "id": "oa:W7223575061",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Multiple Methods for Visualizing Human Language: A Tutorial for Social and Behavioral Scientists",
+   "authors": [
+    "Veerle Celine Eijsbroek",
+    "August Nilsson",
+    "Leon Ackermann",
+    "Zhuojun Gu",
+    "Clara Wiebel",
+    "Adithya V Ganesan",
+    "Katarina Kjell",
+    "H. Andrew Schwartz",
+    "Oscar Kjell"
+   ],
+   "journal": "Advances in Methods and Practices in Psychological Science",
+   "date": "2026-10-01",
+   "abstract": "Humans use language to communicate psychological experiences. Advancements in natural language processing have enabled researchers to quantitatively study and assess psychological states and behaviors through language. Insights from these language analyses are often best conveyed through visualizations. Data-driven visualizations of how language statistically relates to psychological dimensions can help interpret assessment scores, uncover meaningful patterns, and understand the intricate relationships between language use and mental states. Visualizations can be used to differentiate between related constructs (e.g., How does language related to depression versus anxiety differ?), understand the validity of assessment tools (e.g., Does the language related to high depression severity match with depression theory?), and explain language-based assessments (e.g., Which language is indicative of higher depression severity in a language-based assessment?). In this tutorial, we demonstrate how to transform language data into visual insights using the text and topics packages in R. We provide practical guidance on creating four types of visualizations based on different language-analysis techniques, examining how language-use patterns are statistically associated with psychological constructs. We visualize (a) individual words and phrases (n-grams), (b) topics (word clusters), (c) words in the word-embedding space, and (d) relevant language examples. The different visualizations offer complementary perspectives, visualizing linguistic elements from individual words to overarching topics and text examples. The underlying methods range from correlations between individual words to more advanced techniques, including topic modeling and large language models. By making these methods accessible, we aim to empower researchers to use language visualizations for meaningful, data-driven insights.",
+   "url": "https://doi.org/10.1177/25152459261454622",
+   "doi": "10.1177/25152459261454622",
+   "pdf": "https://doi.org/10.1177/25152459261454622",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "인간은 심리적 경험을 전달하기 위해 언어를 사용합니다. 자연어 처리의 발전으로 연구자들은 언어를 통해 심리적 상태와 행동을 정량적으로 연구하고 평가할 수 있게 되었습니다. 이러한 언어 분석에서 얻은 통찰력은 시각화를 통해 가장 잘 전달되는 경우가 많습니다. 언어가 심리적 차원과 통계적으로 어떻게 관련되는지에 대한 데이터 기반 시각화는 평가 점수를 해석하고, 의미 있는 패턴을 발견하고, 언어 사용과 정신 상태 간의 복잡한 관계를 이해하는 데 도움이 될 수 있습니다. 시각화는 관련 구조(예: 우울증과 불안과 관련된 언어는 어떻게 다른가요?)를 구별하고, 평가 도구의 타당성을 이해하고(예: 높은 우울증 심각도와 관련된 언어가 우울증 이론과 일치합니까?), 언어 기반 평가(예: 언어 기반 평가에서 어떤 언어가 더 높은 우울증 심각도를 나타내는가?)를 설명하는 데 사용할 수 있습니다. 이 튜토리얼에서는 R의 텍스트 및 주제 패키지를 사용하여 언어 데이터를 시각적 통찰력으로 변환하는 방법을 보여줍니다. 언어 사용 패턴이 심리적 구성과 통계적으로 어떻게 연관되어 있는지 조사하면서 다양한 언어 분석 기술을 기반으로 네 가지 유형의 시각화를 만드는 데 대한 실용적인 지침을 제공합니다. (a) 개별 단어 및 구문(n-gram), (b) 주제(단어 클러스터), (c) 단어 임베딩 공간의 단어, (d) 관련 언어 예를 시각화합니다. 다양한 시각화"
+  },
+  "oa:W7223561699": {
+   "id": "oa:W7223561699",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Sparse linear regression: sequential convex relaxation and support recovery",
+   "authors": [
+    "Shujun Bi",
+    "Yonghua Yang",
+    "PAN SHAO-HUA"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-10-25",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11222-026-10987-6",
+   "doi": "10.1007/s11222-026-10987-6",
+   "pdf": "",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7223565273": {
+   "id": "oa:W7223565273",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Matching-based estimation of causal quantile exposure response functions for continuous treatments",
+   "authors": [
+    "Luca Merlo",
+    "Francesca Dominici",
+    "Lea Petrella",
+    "Nicola Salvati",
+    "Xiao Wu"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-10-25",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11222-026-11016-2",
+   "doi": "10.1007/s11222-026-11016-2",
+   "pdf": "",
+   "first_seen": "2026-10-27T10:33:37+09:00"
+  },
+  "oa:W7223566003": {
+   "id": "oa:W7223566003",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Meeting critical challenges in the age of intelligent artifacts",
+   "authors": [
+    "Abbe Mowshowitz"
+   ],
+   "journal": "AI & Society",
+   "date": "2026-10-25",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s00146-026-03389-9",
+   "doi": "10.1007/s00146-026-03389-9",
+   "pdf": "",
+   "first_seen": "2026-10-27T10:33:37+09:00"
+  },
+  "oa:W7223574683": {
+   "id": "oa:W7223574683",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Bugs in the System : Techno-Environmental Entanglements in Ghana's Climate Data Infrastructure",
+   "authors": [
+    "James Merron",
+    "Laurence Marfaing"
+   ],
+   "journal": "Science Technology & Human Values",
+   "date": "2026-10-25",
+   "abstract": "This article interrogates techno-environmental interactions in Ghana's climate data infrastructure. Building on ethnographic explorations that blur the boundaries between “nature” and “apparatus” in the Environmental Monitoring System at the Ghana Space Station's remote-sensing operations, and the computation of disaster scenarios in Ghana's National Disaster Management Organisation , we illustrate how Ghanaian climate experts critically orient toward insect species both as threats to measurement apparatuses’ mainframes and as potential solutions in the form of sentinel species providing additional confidence in view of data gaps. While both cases feature imaginations of insect species as “unfitting” in a technoscientific realm and favor containment instead, we argue that the two moments of environmentalizing data practices—with their specific techno-environmental interactions—attune Ghanaian experts’ vision to the continuous unevenness of global technoscientific relations, and in particular to racialized arrangements of funding, infrastructure development, maintenance, and repair.",
+   "url": "https://doi.org/10.1177/01622439261491015",
+   "doi": "10.1177/01622439261491015",
+   "pdf": "",
+   "first_seen": "2026-10-27T10:33:37+09:00",
+   "abstract_ko": "이 기사에서는 가나의 기후 데이터 인프라에서 기술-환경 상호 작용을 조사합니다. 가나 우주정거장의 원격탐사 작업에서 환경 모니터링 시스템의 \"자연\"과 \"장치\" 사이의 경계를 모호하게 만드는 민족지학적 탐구와 가나 국가재난관리기구의 재해 시나리오 계산을 바탕으로 우리는 가나의 기후 전문가들이 곤충 종을 측정 장치의 메인프레임에 대한 위협이자 데이터 격차에 대한 추가적인 확신을 제공하는 감시종 형태의 잠재적 솔루션으로 비판적으로 방향을 잡는 방법을 설명합니다. 두 사례 모두 곤충 종이 기술 과학 영역에 \"부적합\"하다고 상상하고 봉쇄를 선호하는 반면, 우리는 특정 기술-환경 상호 작용을 통해 데이터 관행을 환경화하는 두 순간이 글로벌 기술 과학 관계의 지속적인 불균일성, 특히 자금 조달, 인프라 개발, 유지 관리 및 수리의 인종적 배열에 대한 가나 전문가의 비전을 조정한다고 주장합니다."
+  },
+  "oa:W7223577406": {
+   "id": "oa:W7223577406",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Human-centered systems versus the machine",
+   "authors": [
+    "Jeffrey Benjamin White",
+    "John Seberger",
+    "Paul Hayes"
+   ],
+   "journal": "AI & Society",
+   "date": "2026-10-25",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s00146-026-03388-w",
+   "doi": "10.1007/s00146-026-03388-w",
+   "pdf": "",
+   "first_seen": "2026-10-27T10:33:37+09:00"
+  },
+  "oa:W7223560225": {
+   "id": "oa:W7223560225",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Liability for rogue behaviors of agentic AI",
+   "authors": [
+    "Gleb Papyshev",
+    "Keith Jin Deng Chan",
+    "Sara Migliorini"
+   ],
+   "journal": "Telecommunications Policy",
+   "date": "2026-10-25",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.telpol.2026.103339",
+   "doi": "10.1016/j.telpol.2026.103339",
+   "pdf": "https://doi.org/10.1016/j.telpol.2026.103339",
+   "first_seen": "2026-10-27T10:33:37+09:00"
   }
  }
 }
