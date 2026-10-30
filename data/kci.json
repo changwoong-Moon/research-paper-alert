@@ -1,101 +1,6 @@
 {
-    "fetched_at":  "2026-10-30T13:08:56+09:00",
+    "fetched_at":  "2026-10-31T07:00:27+09:00",
     "records":  [
-                    {
-                        "id":  "kci:ART003382946",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "공공 관리가 조직성과에 미치는 영향에 대한 재해석: 한국 공공기관에 대한 실증 분석",
-                        "authors":  [
-                                        "김태연"
-                                    ],
-                        "journal":  "한국행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "이 연구의 목적은 기존 공공 관리 연구에서 논의되어 온 관리의 다양한 요소가 조직성과에 미치는 영향을 분석 하는 것이다. 전통적으로 성과 개선에 유효하다고 인정되던 관리자 행위, 관리자 인적자본, 그리고 관리자 리 더십이 각각 조직성과에 미치는 영향을 분석하되, 최근 연구에서 문제점이 제기되거나 새로운 해석이 필요하 다고 지적된 논의에 대해서 분석을 시도한다. 한국 공공기관의 5개년 데이터를 분석 대상으로 하여 다음과 같 은 분석 결과를 제시한다. 첫째, 관리자의 관리 노력 행위를 주요 행위자와의 접촉 빈도로 측정했을 경우에는 성과에 유의미한 영향을 미치지 못했지만, 해당 행위자와 관계가 좋은 경우에는 성과 개선 효과가 나타났다. 둘째, 관리자의 인적자본 중 공공 부문에서의 경력은 성과 개선에 유효했지만, 석･박사 학위 소지 여부는 성과 에 유의미한 영향을 미치지 못했다. 마지막으로, 관리자의 변혁적･거래적 리더십은 성과에 유의미한 영향을 미치지 못하며, 인적자본 중 학력과의 정합성을 분석해 본 결과, 성과에 부정적인 영향을 미칠 가능성도 있다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382946",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382944",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "공직윤리역량과 공공봉사동기에 관한 탐색적 연구: 행동윤리학의 관점을 중심으로",
-                        "authors":  [
-                                        "안수현",
-                                        "강민성"
-                                    ],
-                        "journal":  "한국행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "민주적 관료제는 공직자의 윤리적 판단과 능동적 책임을 전제로 한다. 공직윤리역량(public service ethical competence)은 책무성, 공공가치, 윤리제도 설계에 관한 논쟁과 맞물려 규범적으로 논의되어 왔으나, 이에 관 한 실증연구는 제한적이다. 본 연구는 공직윤리역량을 ‘조직과 현실의 압력 속에서도 윤리적 기준을 유지하고, 무엇이 옳은지를 주체적으로 판단하며, 이를 실제 행동으로 옮길 수 있는 역량’으로 개념화한다. 이를 바탕으 로 공직윤리역량이 공직자의 공익지향적 동기와 어떠한 관계에 있는지, 그리고 그 관계가 조직적 조건에 따라 어떻게 달라지는지를 행태적으로 탐색한다. ｢2024 공직윤리가치조사｣를 활용하여 위계적 회귀분석을 실시한 결과, 공공봉사동기는 공직윤리역량과 유의미한 정(+)의 관계를 보였으며, 조직공정성 인식이 높을수록 이러 한 관계는 보다 강화되는 것으로 나타났다. 이는 공공봉사동기가 윤리적 행태와 연관되는 중요한 기반이라는 기존 연구와 맥락을 같이하면서도, 공공조직에서 동기와 공정성이 보완적으로 기능할 수 있음을 시사한다. 본 연구는 공직윤리역량을 행태적 분석의 대상으로 전환함으로써, 공직윤리에 대한 증거 기반적 접근이 보다 본 격화될 필요가 있음을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382944",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382951",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "직접일자리사업 반복참여의 기능적 의미: 가외성 관점의 적용",
-                        "authors":  [
-                                        "정희정",
-                                        "최재문"
-                                    ],
-                        "journal":  "한국행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 정책집행 평가에서 널리 활용되어 온 효율성 기준의 적용 조건과 한계를 검토하고, 이를 보완하는 분석틀로서 행정가외성 이론의 적용 가능성을 탐색한다. 특히 정책목표가 다층적이고 집행환경의 불확실성이 큰 취업취약계층 대상 일자리정책에서는 효율성 기준만으로 정책수단의 다양한 기능을 설명하기 어렵다는 점 에 주목하였다. 이를 위해 재정지원 직접일자리사업 반복참여 경험이 있는 참여자를 대상으로 초점집단면접 (FGI)을 실시하였다. 분석 결과, 반복참여 취업 중심의 단일 목표, 일회성 개입, 재참여를 예외적 문제로 보는 효율성 기준과 실제 참여자의 노동경로 사이의 괴리를 드러내는 현상으로 나타났다. 또한 반복참여는 민간 노 동시장 이행 실패 이후 대체 경로를 제공하고, 제도적 재진입 가능성을 통해 정책 신뢰와 참여 지속성을 유지 하며, 다양한 노동경로를 확보하게 하는 가외적 기능을 수행할 수 있음을 확인하였다. 본 연구는 반복참여를 일률적으로 비효율로 판단하기보다, 그것이 어떤 조건에서 정책체계의 신뢰성과 적응성을 보완하는 가외성으 로 작동하는지를 분석할 필요가 있음을 제시한다. 나아가 효율성과 가외성은 대립적 기준이 아니라 정책환경 의 불확실성에 따라 함께 활용될 수 있는 상보적 분석 개념임을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382951",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382941",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "쓰레기통 모형의 합리성 재검토: 모형의 재현과 행위자의 탐색 시야를 중심으로",
-                        "authors":  [
-                                        "고길곤",
-                                        "박정태"
-                                    ],
-                        "journal":  "한국행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 의사결정 모형인 GCM의 원전 시뮬레이션에 내재된 가정을 비판적으로 검토하고, 이를 현실적인 제 한된 합리성 관점에서 재구성하는 것을 목적으로 한다. 이를 위해 원 모형의 FORTRAN 코드를 Python으로 복 원하여 알고리즘의 한계를 분석하였으며, 행위자가 제한된 수의 선택 기회만을 탐색하는 탐색 시야 변수 메커 니즘을 도입하여 수정 모형을 시뮬레이션하였다. 분석 결과, 첫째, 문제와 의사결정자의 탐색 시야 수준에 따 라 조직의 문제 해결 양상이 크게 변화하는 것으로 나타났다. 개별 문제가 넓은 탐색 시야를 통해 다수의 선택 기회를 탐색할 경우, 오히려 시스템 전반의 과부하와 병목 현상을 유발하여 조직 전체의 문제 해결을 저해하는 역설이 발생했다. 반면 의사결정자가 포괄적인 탐색 시야를 확보할 경우에는 누적된 병목 지점을 효과적으로 해소할 수 있었다. 둘째, 이러한 탐색 시야의 효과는 조직의 접근 구조(비분할, 계층적, 전문화)에 따라 상이하 게 작동함을 확인하였다. 본 연구는 쓰레기통 모형의 다른 가정은 유지한 채, 탐색 규칙에 내재된 합리성 가정 을 제한된 합리성 관점에서 부분적으로 재구성하여 모형을 재검토하였다. 또한, 개별 문제가 자신에게 유리한 의사결정 창구를 넓게 탐색하는 전략이 미시적으로는 합리적일 수 있으나 거시적 수준에서는 요구 에너지를 특정 기회에 편중시켜 의사결정의 교착과 시스템 과부하를 유발할 수 있음을 확인하였다. 쓰레기통 모형은 시 뮬레이션 결과가 조직의 의사결정 행태를 보여준 것이 아니라 조직 의사결정 형태에 대한 가정이 시뮬레이션 결과를 만들어낸 것이기 때문에 가정 변화에 따른 시뮬레이션 결과가 어떻게 달라지는지에 대한 연구의 중요 성이 크다고 할 것이다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382941",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382955",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "복지기술 도입에 따른 변화에 대한 저항 연구: 북유럽 국가 사례의 체계적 문헌고찰을 중심으로",
-                        "authors":  [
-                                        "김나리",
-                                        "최정은"
-                                    ],
-                        "journal":  "한국행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 복지서비스에 기술을 적용하는 복지기술 도입 과정에서 나타나는 복지서비스 업무 담당자의 저항 유형을 분석하고 그 해결 방안을 탐색하는 데 목적이 있다. 특히 지자체와 사회복지사를 포함한 제공자 관점에 서 발생하는 조직･기술･문화･윤리적 측면의 문제에 주목하여 변화에 대한 저항 이론을 토대로 논의를 전개한 다. 이를 위해 2010년대 초반부터 선도적으로 복지기술을 도입하여 경험을 축적해 온 북유럽 국가들을 중심으 로 체계적 문헌 검토 방법을 사용하여 복지기술 도입과 적용 과정에서 나타나는 저항을 조직･기술･문화･윤리 차원에서 22개 하위 요소로 도출하여 유형화하였다. 그 결과 복지서비스 제공자의 복지기술 수용성을 높이기 위한 방안으로 적극적인 소통과 참여, 중재자의 역할, 교육 및 지원 자원의 중요성을 확인하였다. 본 연구는 우 리보다 앞서 복지기술을 도입한 국가들이 겪은 다양한 차원의 저항을 확인하고, 이를 완화할 수 있는 방안을 모색함으로써 향후 한국의 복지기술 도입 확대 시 마주할 수 있는 변화에 따른 저항을 최소화하는 방안을 탐색 하는 데 연구의 의의가 있다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382955",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382950",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "정치적 예산순환과 재정자율성 구조가 지방정부 지출에 미치는 영향",
-                        "authors":  [
-                                        "신헌태",
-                                        "김현준"
-                                    ],
-                        "journal":  "한국행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 2008년부터 2024년까지 전국 251개 지방정부의 불균형 패널자료를 활용하여 지방선거 주기에 따 른 사회간접자본(SOC) 지출과 사회복지 지출의 수준 및 비중 변화를 분석하고, 재정자율성 구조의 조절효과 를 검토하였다. 재정자율성 구조는 지출 결정 권한을 나타내는 재정자주도, 재원 조달 책임을 나타내는 재정자 립도, 그리고 두 지표 간 자율성 격차와 자율성 비율로 측정하였으며, 각 지표와 선거주기 더미 간 상호작용항 을 포함한 패널 고정효과 모형을 추정하였다. 분석 결과, SOC 지출은 수준과 비중 모두 선거 1년 전에 증가하 고 선거연도에 감소하였다. 사회복지 지출 수준은 선거 2년 전에 감소하고 선거 1년 전에 증가한 후 선거연도 에 다시 감소하였으며, 지출 비중은 선거 2년 전부터 선거연도까지 기준 시점인 선거 1년 후보다 일관되게 낮 았다. 조절효과의 경우, 전체 지방정부에서는 자율성 격차와 자율성 비율이 클수록 SOC 지출 수준의 선거 전 증가폭이 확대되고 선거연도 감소폭이 완화되었으나, 기초 지방정부에서는 이러한 효과가 일부 시점에서만 확 인되었다. 두 분석 모두에서 사회복지 지출 비중의 감소폭은 재정자주도, 자율성 격차 및 자율성 비율이 클수 록 완화되었다. 반면 사회복지 지출 수준에 대한 재정자주도의 조절효과는 전체 지방정부에서는 선거연도 감 소폭을 완화하는 방향으로, 기초 지방정부에서는 선거 2년 전 감소폭을 확대하고 선거 1년 전 증가폭을 완화 하는 방향으로 나타났다. 이러한 결과는 정치적 예산순환이 지출 유형, 선거주기의 시점, 분석 대상, 재정자율 성 구조에 따라 상이하게 발현됨을 보여주며, 지방재정의 규율과 책임성 제고를 위한 시사점을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382950",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
                     {
                         "id":  "kci:ART003382953",
                         "topic":  "public-admin",
@@ -158,21 +63,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003382947",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "공공가치 확보의 숨은 조건: 공정한 관찰자와 방역 규칙에 대한 시민 자기규율",
-                        "authors":  [
-                                        "양화인"
-                                    ],
-                        "journal":  "한국행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "이 연구는 팬데믹이라는 공공가치 위기 상황에서 한국 시민들이 마스크 착용을 법적 강제와 별개로 ‘마땅히 따라 야 할 사회적 규범’으로 받아들였다는 점에 주목하여, 이러한 자발적 행동이 형성되는 메커니즘을 규명하였다. 이를 위해 아담 스미스의 ‘공정한 관찰자’ 개념을 중심으로, 시민들이 자기규율을 내면화하는 과정을 살펴보았 다. 특히 공정한 관찰자가 작동하는 가시성 체계를 판옵티콘, 시놉티콘, 옴니옵티콘의 세 층위로 구분하여 이 들이 자기규율 형성에 어떠한 방식으로 기여하는지를 분석하였다. 세 층위는 감시 주체와 방향 중심의 고전적 정의 대신, 디지털 네트워크 환경에서 생성되는 가시성 효과를 기준으로 재정의되었다. 분석 결과, 시민들의 자기규율은 세 층위의 가시성이 중첩되어 작동하는 가운데 형성되었다. 구체적으로, 판옵 티콘(제도적 기준 설정)은 시놉티콘과 옴니옵티콘이 작동할 수 있는 제도적 실효성의 기반으로 기능하였고, 시 놉티콘(사회적 평가와 분류)은 집단적 압력을 형성하였으나 개인 수준의 자기규율로 충분히 전환되지는 않았 다. 옴니옵티콘(상호기대와 가시성의 상호생산)은 연대와 낙인이 동시에 작동하는 가운데 시민 간 상호기대를 형성함으로써, 자기규율을 내면화된 규범으로 완성하였다. 이는 공공위기 상황에서 공공가치가 제도적 강제뿐 아니라 시민 간 상호 가시성에서 비롯되는 자기규율이라는 ‘숨은 조건’을 통해서도 확보될 수 있음을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382947",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003382937",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -191,220 +81,113 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374761",
+                        "id":  "kci:ART003382947",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "구역･계층･기능 관점에서 본 한국 지방자치 행정체제의 구조적 한계와 개편방안",
+                        "title":  "공공가치 확보의 숨은 조건: 공정한 관찰자와 방역 규칙에 대한 시민 자기규율",
                         "authors":  [
-                                        "김찬동",
-                                        "배귀희"
+                                        "양화인"
                                     ],
-                        "journal":  "한국지방행정학보",
-                        "date":  "2026-08",
-                        "abstract":  "한국의 지방자치체제는 지방자치제도부활 35년을 경험하면서, 제도설계의 문제점이 드러났고, 이 문제를 해결하기 위한 구조개혁이 필요하다. 구조개혁은 기회의 창이 열렸을 때, 강력한 리더십과 협력적 파트너십을 가지고 추진되어야 할 과제이다. 한국의 지방자치행정체제의 구조적 논점으로서 구역, 계층, 기능에 대한 담론적 논의를 통하여, 지방행정체제의 설계상의 오류들를 제시해 본다. 주된 오류로서 지방자치의 기초구역이 너무 크다든지, 이층제를 단층제로 갈 것인가, 군자치는 과연 기초자치계층에 해당하는 것인가, 광역시와 도의 분리, 중앙집권적 자치구조 등을 제기한다. 인구감소위기에 직면한 한국의 지방자치행정체제는 더 이상 지속가능성을 견지하기가 어려우므로, 이에 대한 구조적 개혁이 필요하다. 이를 위해 대도시중심권을 가진 초광역권역을 형성하는 방향, 근린계층의 총회적 자치정부를 도입하는 방향, 그리고 양자를 연결하는 브릿지 정부로서의 행정구를 두는 방향을 담론적으로 제시한다. 그리고 국가와 지방정부간의 재정분권에 기반한 역할분담을 위한 방향으로서 헌법적인 개정이 필요함을 제시한다. 이미 미래지향적 지방행정체제개편 방향이 제시되어 있기에 이를 보충적으로 달리 생각해 볼 대안으로서 몇가지를 제시해 본다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374761",
+                        "journal":  "한국행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "이 연구는 팬데믹이라는 공공가치 위기 상황에서 한국 시민들이 마스크 착용을 법적 강제와 별개로 ‘마땅히 따라 야 할 사회적 규범’으로 받아들였다는 점에 주목하여, 이러한 자발적 행동이 형성되는 메커니즘을 규명하였다. 이를 위해 아담 스미스의 ‘공정한 관찰자’ 개념을 중심으로, 시민들이 자기규율을 내면화하는 과정을 살펴보았 다. 특히 공정한 관찰자가 작동하는 가시성 체계를 판옵티콘, 시놉티콘, 옴니옵티콘의 세 층위로 구분하여 이 들이 자기규율 형성에 어떠한 방식으로 기여하는지를 분석하였다. 세 층위는 감시 주체와 방향 중심의 고전적 정의 대신, 디지털 네트워크 환경에서 생성되는 가시성 효과를 기준으로 재정의되었다. 분석 결과, 시민들의 자기규율은 세 층위의 가시성이 중첩되어 작동하는 가운데 형성되었다. 구체적으로, 판옵 티콘(제도적 기준 설정)은 시놉티콘과 옴니옵티콘이 작동할 수 있는 제도적 실효성의 기반으로 기능하였고, 시 놉티콘(사회적 평가와 분류)은 집단적 압력을 형성하였으나 개인 수준의 자기규율로 충분히 전환되지는 않았 다. 옴니옵티콘(상호기대와 가시성의 상호생산)은 연대와 낙인이 동시에 작동하는 가운데 시민 간 상호기대를 형성함으로써, 자기규율을 내면화된 규범으로 완성하였다. 이는 공공위기 상황에서 공공가치가 제도적 강제뿐 아니라 시민 간 상호 가시성에서 비롯되는 자기규율이라는 ‘숨은 조건’을 통해서도 확보될 수 있음을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382947",
                         "doi":  "",
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374576",
+                        "id":  "kci:ART003382955",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "DEA와 DEA Window모형을 통한 전시컨벤션센터 경영 효율성 분석- 지방출자출연기관을 중심으로 -",
+                        "title":  "복지기술 도입에 따른 변화에 대한 저항 연구: 북유럽 국가 사례의 체계적 문헌고찰을 중심으로",
                         "authors":  [
-                                        "이수형",
-                                        "정홍상"
+                                        "김나리",
+                                        "최정은"
                                     ],
-                        "journal":  "한국지방행정학보",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구는 MICE 산업의 핵심 인프라인 국내 전시컨벤션센터의 경영 효율성을 객관적으로 진단하고 최적화 방안을 모색하는데 목적이 있다. 특히 수익성보다는 공익성을 중시하는 지방자치단체 출자･출연기관 형태의 국내 전시컨벤션센터를 연구 대상으로 한정하여 2019년부터 2023년까지 총 5개년의 패널자료를 확보하여 효율성을 측정하였다. 측정 변수를 선정함에 있어 센터조직의 공공적 특성을 최대한 고려하여 비재무적 지표인 ‘임직원 수’와 ‘전시장 면적’을 투입 변수로, ‘총 전시면적’과 ‘참관객 수’를 산출 변수로 설정하였다. 단일 연도의 정태적 효율성 분석을 위해 DEA 모형을 적용하였고, 시간 흐름에 따른 효율성의 변화 추이 및 안정성을 입체적으로 규명하기 위해 동태적 분석으로 DEA Window 모형을 병행하여 분석하였다. 분석 결과 우리나라 출자･출연 전시컨벤션센터의 비효율은 내부 운영 역량 부족보다는 규모 비효율에 기인하는 바 크고, 수도권 센터는 비수도권 센터에 비해 시계열 평균 규모효율성(SE)이 상대적으로 높고 비수도권 센터는 수도권 센터에 비해 시계열 평균 순수기술효율성(PTE)이 상대적으로 높음을 확인하였다. 개별 센터별로는 특정시점에서의 높은 효율성이 경영성과의 지속성과 안정성을 의미하지는 않으며, 동태적 추이 및 변동성의 정도가 상이하여 지속적이면서도 안정적인 경영성과를 창출하기 위해서는 센터별 맞춤형 효율성 제고 방안을 마련할 필요가 있음을 알 수 있었다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374576",
+                        "journal":  "한국행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 복지서비스에 기술을 적용하는 복지기술 도입 과정에서 나타나는 복지서비스 업무 담당자의 저항 유형을 분석하고 그 해결 방안을 탐색하는 데 목적이 있다. 특히 지자체와 사회복지사를 포함한 제공자 관점에 서 발생하는 조직･기술･문화･윤리적 측면의 문제에 주목하여 변화에 대한 저항 이론을 토대로 논의를 전개한 다. 이를 위해 2010년대 초반부터 선도적으로 복지기술을 도입하여 경험을 축적해 온 북유럽 국가들을 중심으 로 체계적 문헌 검토 방법을 사용하여 복지기술 도입과 적용 과정에서 나타나는 저항을 조직･기술･문화･윤리 차원에서 22개 하위 요소로 도출하여 유형화하였다. 그 결과 복지서비스 제공자의 복지기술 수용성을 높이기 위한 방안으로 적극적인 소통과 참여, 중재자의 역할, 교육 및 지원 자원의 중요성을 확인하였다. 본 연구는 우 리보다 앞서 복지기술을 도입한 국가들이 겪은 다양한 차원의 저항을 확인하고, 이를 완화할 수 있는 방안을 모색함으로써 향후 한국의 복지기술 도입 확대 시 마주할 수 있는 변화에 따른 저항을 최소화하는 방안을 탐색 하는 데 연구의 의의가 있다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382955",
                         "doi":  "",
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003384937",
+                        "id":  "kci:ART003382950",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "임산물 산업정책의 구조적 진단과 평가프레임 구축: 산양삼 산업 정책을 중심으로",
+                        "title":  "정치적 예산순환과 재정자율성 구조가 지방정부 지출에 미치는 영향",
                         "authors":  [
-                                        "정솔",
-                                        "최희용",
-                                        "한아름",
-                                        "주효진"
+                                        "신헌태",
+                                        "김현준"
                                     ],
-                        "journal":  "한국자치행정학보",
+                        "journal":  "한국행정학보",
                         "date":  "2026-09",
-                        "abstract":  "본 연구는 특별관리임산물인 산양삼 산업정책의 구조적 병목을 진단하고, 향후 정책성과를 체계적으로 평가하기 위한 평가프레임을 구축하는 데 목적이 있다. 이를 위해 평가성 사정과 변화이론의 관점에서 「제3차 산양삼 산업 육성대책(2024~2028)」을 중심으로 관련 법령, 정책자료, 산업자료 및 선행연구를 분석하였다. 분석 결과, 산양삼 산업의 주요 구조적 병목은 생산기반과 품질관리의 안정성, 품질·이력정보의 시장 활용과 신뢰 형성, 연구개발 성과의 제품화 및 지속적 소비수요로의 전환, 그리고 개별 정책수단과 산업성과를 연결하는 정책논리와 집행기반의 미흡으로 나타났다. 이에 현행 정책수단을 활동·정책수단–직접 산출–중간성과–최종성과의 성과경로로 재구성하고, 이 과정에서 검증되어야 할 여섯 가지 핵심 가정과 제도·생산환경·시장경쟁·유통·기술사업화·거버넌스와 관련된 여섯 가지 맥락조건을 도출하였다. 이를 토대로 생산기반 및 품질관리, 유통정보 및 시장신뢰, 가공산업 및 기술사업화, 소비시장 및 수출확장, 정책집행 및 거버넌스의 다섯 평가영역을 설정하고, 영역별 변화이론 기반 아웃컴 체인과 평가질문을 구성하였다. 평가기준은 적합성, 전환성, 수용성, 지속가능성 및 학습가능성으로 설정하였다. 본 연구가 제시한 평가프레임은 개별 사업의 집행실적이나 단기 산출을 넘어 정책수단이 실제 산업성과로 전환되는 과정과 그 단절지점을 확인할 수 있도록 함으로써, 향후 성과지표 개발, 자료체계 구축 및 산양삼 산업 육성정책의 성과관리와 정책학습을 위한 분석적 기반을 제공한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384937",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.143",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003385474",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "충청지역 지방상수도공기업의 경영효율성 및 영향요인 분석 : DEA와 Tobit 분석을 중심으로",
-                        "authors":  [
-                                        "김숙경",
-                                        "윤준상"
-                                    ],
-                        "journal":  "한국자치행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 충청지역 지방상수도공기업을 대상으로 DEA, Window DEA, Malmquist 생산성지수 및 Tobit 분석을 활용하여 경영효율성, 생산성 변화 및 효율성 영향요인을 분석하였다. 분석 결과, CCR 모형에서는 22개 DMU 중 12개, BCC 모형에서는 14개가 효율적인 것으로 나타났으며, 비효율적인 DMU의 다수가 규모수익체증(IRS) 영역에 위치하여 규모 확대를 통한 효율성 개선 가능성이 확인되었다. Window DEA 분석 결과 지방상수도공기업별로 효율성의 변화와 안정성에 차이가 있는 것으로 나타났으며, Malmquist 생산성지수 분석에서는 분석기간 동안 생산성이 소폭 향상된 것으로 나타났다. 또한 Tobit 분석에서는 요금현실화율이 효율성에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 이에 충청지역 지방상수도의 효율성 제고를 위해서는 규모의 경제를 고려한 운영체계 개선과 적정 수준의 요금현실화를 통한 안정적인 재원조달 기반 마련이 필요한 것으로 판단된다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003385474",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.331",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003384965",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "사회적협동조합의 디지털 리더십과 통합역량이 조직성과에 미치는 영향: 디지털기술 수용성의 매개효과",
-                        "authors":  [
-                                        "최희성",
-                                        "민병익"
-                                    ],
-                        "journal":  "한국자치행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 국내 사회적협동조합 종사자를 대상으로 디지털 리더십과 통합역량이 디지털기술 수용성을 매개로 조직성과에 미치는 영향을 실증적으로 분석하였다. 이를 위해 경상남도 소재 사회적협동조합 종사자 231명을 대상으로 온라인 설문조사를 실시하였으며, AMOS 29.0을 활용하여 구조방정식모형 분석을 수행하였다. 분석 결과는 다음과 같다. 첫째, 디지털 리더십은 통합역량과 디지털기술 수용성에 유의한 정(+)의 영향을 미치는 것으로 나타났으며, 통합역량도 디지털기술 수용성에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 또한 디지털기술 수용성은 경제적 성과와 사회적 성과에 모두 유의한 정(+)의 영향을 미쳤으며, 표준화 경로계수는 경제적 성과보다 사회적 성과에 상대적으로 크게 나타났다. 디지털기술 수용성의 설명력은 55.4%로 나타났다. 둘째, 부트스트래핑을 통한 매개효과 분석 결과, 디지털 리더십과 통합역량이 디지털기술 수용성을 통해 경제적ㆍ사회적 성과에 미치는 간접효과는 모두 유의한 것으로 나타났다. 특히 디지털 리더십과 경제적ㆍ사회적 성과에 대한 직접효과는 유의하지 않은 반면, 디지털기술 수용성을 통한 간접효과는 유의하게 나타나 간접경로가 통계적으로 지지되었다. 이러한 연구 결과를 바탕으로 사회적협동조합 구성원의 디지털기술 수용성을 제고하고 경제적ㆍ사회적 조직성과를 향상시키기 위한 정책적ㆍ실무적 시사점을 제시하였다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384965",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.221",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003374513",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "지방소멸대응기금에 대한 시스템다이내믹스 기반 인과순환구조분석",
-                        "authors":  [
-                                        "방호준",
-                                        "신유호"
-                                    ],
-                        "journal":  "한국지방행정학보",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구에서는 2022년부터 시작된 지방소멸대응기금 관련 요인을 인과순환구조분석을 통해 고찰하였다. 지방소멸대응기금은 총 89곳의 인구감소지역 및 18곳의 관심지역을 대상으로 기금사업이 추진되었으며, 지방소멸대응기금에 대한 학술적 평가는 주로 지역별 인구 유입률을 중심으로 실증적으로 이루어졌다. 본 연구에서는 시스템 사고의 관점에서 인과지도를 작성하였고, 인과지도에서 활용된 변수, 인과관계의 방향성, 피드백 루프 구조 등은 기존 선행연구에 대한 문헌검토를 근거로 작성되었다. 본 연구에서 확인한 인과 구조는 ‘출산율 =\u003e 생산가능 인구 수 =\u003e 인구감소지역 청년 수 =\u003e 인구감소지역 고령화 비율 =\u003e 인구감소지역 확대 가능성 =\u003e 지방소멸 =\u003e 관련 예산 필요성 =\u003e 지방소멸대응기금 배분 규모 =\u003e 인구감소지역 재정자립도 =\u003e 인구감소지역 재정지출규모 =\u003e 인구감소지역 생활인프라 수 =\u003e 인구감소지역 도시 매력도 =\u003e 인구감소지역 생활인구 유입률 =\u003e 인구감소지역 조세수입 =\u003e 출산지원사업규모 =\u003e 출산율’로 이어지는 피드백 루프로 설명하였다. 이러한 분석결과는 지방소멸대응기금의 효과를 단기적인 인구증감이나 개별 사업의 성과만으로 평가하기보다 인구･경제･재정･정주환경 간의 중장기적 상호작용을 함께 고려할 필요가 있음을 시사한다. 또한 향후 인구감소지역 재지정과 기금 운용성과 평가에서는 기존 정량지표와 함께 지역매력도, 주민 생활만족도 등 지역의 지속가능한 정주여건을 반영할 수 있는 지표를 보완할 필요가 있다. 본 연구는 지방소멸대응기금과 지방소멸 간의 관계를 개별 변수의 단선적 영향이 아닌 피드백 구조를 통해 분석하였다는 점에서 의의가 있다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374513",
+                        "abstract":  "본 연구는 2008년부터 2024년까지 전국 251개 지방정부의 불균형 패널자료를 활용하여 지방선거 주기에 따 른 사회간접자본(SOC) 지출과 사회복지 지출의 수준 및 비중 변화를 분석하고, 재정자율성 구조의 조절효과 를 검토하였다. 재정자율성 구조는 지출 결정 권한을 나타내는 재정자주도, 재원 조달 책임을 나타내는 재정자 립도, 그리고 두 지표 간 자율성 격차와 자율성 비율로 측정하였으며, 각 지표와 선거주기 더미 간 상호작용항 을 포함한 패널 고정효과 모형을 추정하였다. 분석 결과, SOC 지출은 수준과 비중 모두 선거 1년 전에 증가하 고 선거연도에 감소하였다. 사회복지 지출 수준은 선거 2년 전에 감소하고 선거 1년 전에 증가한 후 선거연도 에 다시 감소하였으며, 지출 비중은 선거 2년 전부터 선거연도까지 기준 시점인 선거 1년 후보다 일관되게 낮 았다. 조절효과의 경우, 전체 지방정부에서는 자율성 격차와 자율성 비율이 클수록 SOC 지출 수준의 선거 전 증가폭이 확대되고 선거연도 감소폭이 완화되었으나, 기초 지방정부에서는 이러한 효과가 일부 시점에서만 확 인되었다. 두 분석 모두에서 사회복지 지출 비중의 감소폭은 재정자주도, 자율성 격차 및 자율성 비율이 클수 록 완화되었다. 반면 사회복지 지출 수준에 대한 재정자주도의 조절효과는 전체 지방정부에서는 선거연도 감 소폭을 완화하는 방향으로, 기초 지방정부에서는 선거 2년 전 감소폭을 확대하고 선거 1년 전 증가폭을 완화 하는 방향으로 나타났다. 이러한 결과는 정치적 예산순환이 지출 유형, 선거주기의 시점, 분석 대상, 재정자율 성 구조에 따라 상이하게 발현됨을 보여주며, 지방재정의 규율과 책임성 제고를 위한 시사점을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382950",
                         "doi":  "",
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374566",
+                        "id":  "kci:ART003382941",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "공직 생애주기별 자산 형성 지원체계구축 방안 연구- 지방교육행정기관 및 학교 소속 공직자를 중심으로 -",
+                        "title":  "쓰레기통 모형의 합리성 재검토: 모형의 재현과 행위자의 탐색 시야를 중심으로",
                         "authors":  [
-                                        "양진규",
-                                        "이혜영",
-                                        "박현숙",
-                                        "김혜덕",
-                                        "서봉희",
-                                        "이원택",
-                                        "문세경",
-                                        "정광희",
-                                        "장창곡"
+                                        "고길곤",
+                                        "박정태"
                                     ],
-                        "journal":  "한국지방행정학보",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구는 공직 생애주기별 자산형성 지원체계가 조직몰입과 공직만족도에 미치는 영향을 분석하는 것을 목적으로 한다. 공직자를 대상으로 한 설문조사를 바탕으로 자산형성 지원체계 인식, 조직몰입, 공직만족도 간의 관계를 실증적으로 분석하였다. 분석 결과, 자산형성 지원체계에 대한 인식은 조직몰입과 공직만족도에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 또한 조직몰입은 자산형성 지원체계 인식과 공직만족도 간의 관계에서 부분 매개효과를 가지는 것으로 확인되었다. 아울러 생애주기와 직종에 따라 차이가 존재하는 것으로 나타났다. 이러한 결과를 바탕으로 공직자의 특성을 반영한 생애주기별 맞춤형 자산형성 지원체계 구축의 필요성을 제시하였다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374566",
+                        "journal":  "한국행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 의사결정 모형인 GCM의 원전 시뮬레이션에 내재된 가정을 비판적으로 검토하고, 이를 현실적인 제 한된 합리성 관점에서 재구성하는 것을 목적으로 한다. 이를 위해 원 모형의 FORTRAN 코드를 Python으로 복 원하여 알고리즘의 한계를 분석하였으며, 행위자가 제한된 수의 선택 기회만을 탐색하는 탐색 시야 변수 메커 니즘을 도입하여 수정 모형을 시뮬레이션하였다. 분석 결과, 첫째, 문제와 의사결정자의 탐색 시야 수준에 따 라 조직의 문제 해결 양상이 크게 변화하는 것으로 나타났다. 개별 문제가 넓은 탐색 시야를 통해 다수의 선택 기회를 탐색할 경우, 오히려 시스템 전반의 과부하와 병목 현상을 유발하여 조직 전체의 문제 해결을 저해하는 역설이 발생했다. 반면 의사결정자가 포괄적인 탐색 시야를 확보할 경우에는 누적된 병목 지점을 효과적으로 해소할 수 있었다. 둘째, 이러한 탐색 시야의 효과는 조직의 접근 구조(비분할, 계층적, 전문화)에 따라 상이하 게 작동함을 확인하였다. 본 연구는 쓰레기통 모형의 다른 가정은 유지한 채, 탐색 규칙에 내재된 합리성 가정 을 제한된 합리성 관점에서 부분적으로 재구성하여 모형을 재검토하였다. 또한, 개별 문제가 자신에게 유리한 의사결정 창구를 넓게 탐색하는 전략이 미시적으로는 합리적일 수 있으나 거시적 수준에서는 요구 에너지를 특정 기회에 편중시켜 의사결정의 교착과 시스템 과부하를 유발할 수 있음을 확인하였다. 쓰레기통 모형은 시 뮬레이션 결과가 조직의 의사결정 행태를 보여준 것이 아니라 조직 의사결정 형태에 대한 가정이 시뮬레이션 결과를 만들어낸 것이기 때문에 가정 변화에 따른 시뮬레이션 결과가 어떻게 달라지는지에 대한 연구의 중요 성이 크다고 할 것이다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382941",
                         "doi":  "",
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374706",
+                        "id":  "kci:ART003382946",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "한국사회 노동갈등의 현황과 특징에 관한 연구- 1990-2024년 DCDR 공공갈등 DB 분석을 중심으로 -",
+                        "title":  "공공 관리가 조직성과에 미치는 영향에 대한 재해석: 한국 공공기관에 대한 실증 분석",
                         "authors":  [
-                                        "임재형"
+                                        "김태연"
                                     ],
-                        "journal":  "한국지방행정학보",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구는 한국사회 노동갈등의 현황과 특징을 경험적으로 규명하기 위해 1990년부터 2024년까지 발생한 공공갈등 사례를 분석하였다. 기존 연구가 특정 시기의 노동운동, 개별 노사분규, 노동시장 구조 변화 등에 주로 초점을 맞추어 온 데 비해, 본 연구는 장기 시계열 자료를 활용하여 노동갈등을 한국사회 공공갈등의 한 유형으로 위치 짓고, 전체 공공갈등 1,303건 중 노동갈등 351건을 대상으로 연도별･정부별 발생 양상, 갈등 종류와 성격, 종료방식, 시민단체 참여 여부, 평균 지속일수 등을 종합적으로 검토하였다. 분석 결과, 노동갈등은 전체 공공갈등 가운데 가장 높은 비중을 차지하는 대표적 갈등 유형이며, 최근 그 상대적 비중이 다시 확대되는 경향을 보였다. 또한 노동갈등은 다른 공공갈등 유형과 달리 민간 경제주체 간 갈등 비율이 높고, 이익/이익갈등의 성격이 강하며, 협상에 의해 종료되는 비율이 높은 것으로 나타났다. 반면, 시민단체 참여 비율과 평균 지속일수는 상대적으로 낮았다. 이러한 결과는 노동갈등이 단순한 노사분규가 아니라 노동시장 구조, 고용불안, 정부 노동정책, 산업구조 변화가 결합된 핵심 공공갈등임을 보여준다. 나아가 노동갈등의 예방과 해결을 위해서는 자율교섭 역량 강화, 조기 조정 절차의 제도화, 취약노동계층 보호, 사회적 대화체계 구축이 필요함을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374706",
+                        "journal":  "한국행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "이 연구의 목적은 기존 공공 관리 연구에서 논의되어 온 관리의 다양한 요소가 조직성과에 미치는 영향을 분석 하는 것이다. 전통적으로 성과 개선에 유효하다고 인정되던 관리자 행위, 관리자 인적자본, 그리고 관리자 리 더십이 각각 조직성과에 미치는 영향을 분석하되, 최근 연구에서 문제점이 제기되거나 새로운 해석이 필요하 다고 지적된 논의에 대해서 분석을 시도한다. 한국 공공기관의 5개년 데이터를 분석 대상으로 하여 다음과 같 은 분석 결과를 제시한다. 첫째, 관리자의 관리 노력 행위를 주요 행위자와의 접촉 빈도로 측정했을 경우에는 성과에 유의미한 영향을 미치지 못했지만, 해당 행위자와 관계가 좋은 경우에는 성과 개선 효과가 나타났다. 둘째, 관리자의 인적자본 중 공공 부문에서의 경력은 성과 개선에 유효했지만, 석･박사 학위 소지 여부는 성과 에 유의미한 영향을 미치지 못했다. 마지막으로, 관리자의 변혁적･거래적 리더십은 성과에 유의미한 영향을 미치지 못하며, 인적자본 중 학력과의 정합성을 분석해 본 결과, 성과에 부정적인 영향을 미칠 가능성도 있다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382946",
                         "doi":  "",
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003384557",
+                        "id":  "kci:ART003382944",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "Sustainable Development and National Happiness: Predictive Structure across Income, Goal Domains, and Institutions in a 2016-2024 Country Panel",
+                        "title":  "공직윤리역량과 공공봉사동기에 관한 탐색적 연구: 행동윤리학의 관점을 중심으로",
                         "authors":  [
-                                        "박정진",
-                                        "최영출"
+                                        "안수현",
+                                        "강민성"
                                     ],
-                        "journal":  "한국자치행정학보",
+                        "journal":  "한국행정학보",
                         "date":  "2026-09",
-                        "abstract":  "This study asks how predictive information about national life evaluation is distributed across three sets of conditions — economic resources, goal-level sustainable-development performance, and institutional quality — in observed 2016–2024 country data. It combines country-level SDG Index and 17 goal scores, World Happiness Report three-year average life evaluations, the World Bank\u0027s Worldwide Governance Indicators, and PPP-adjusted GDP per capita. Observed happiness scores were available for 1,292 country-year records; 1,269 records were complete for the core regression variables across 167 countries and territories. The analysis combines country-grouped cross-validation, XGBoost-SHAP attribution, and supplementary fixed-effects panel regression. Three findings emerge. First, predictive information is highly concentrated: log GDP and SDG 3 alone account for roughly half of the attribution among the fifteen highest-ranked predictors (mean |SHAP| = 0.372 and 0.279), with the remainder distributed across service-delivery goals — gender equality, energy, water and sanitation, and education. Second, institutional indicators contribute far less unique predictive content than their bivariate correlations imply. The six governance dimensions together account for under eight percent of the top-fifteen attribution, and government effectiveness — the third-strongest bivariate correlate of life evaluation (r = .772) — does not enter the top fifteen at all. Governance therefore appears to predict life evaluation largely through the economic and health conditions with which it co-varies rather than through predictive content of its own, a pattern that neither correlations nor regression coefficients reveal on their own. Third, the gain from nonlinear ensembles over a linear benchmark is modest (country-grouped cross-validated R² of .723 versus .682), indicating that most of the predictive structure in these variables is approximately linear at the country-year level, with departures concentrated at the low end of the income range and at the top of the climate-action distribution. Evidence on whether institutional capacity conditions the SDG–happiness association is mixed: a fixed-effects interaction is positive but marginal (p = .044, heteroskedasticity-robust standard errors), while median-split subgroup correlations are effectively identical (.636 and .635). The divergence is traced to differences in estimand rather than resolved. All estimates are predictive and associational; the design does not identify causal effects.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384557",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.87",
+                        "abstract":  "민주적 관료제는 공직자의 윤리적 판단과 능동적 책임을 전제로 한다. 공직윤리역량(public service ethical competence)은 책무성, 공공가치, 윤리제도 설계에 관한 논쟁과 맞물려 규범적으로 논의되어 왔으나, 이에 관 한 실증연구는 제한적이다. 본 연구는 공직윤리역량을 ‘조직과 현실의 압력 속에서도 윤리적 기준을 유지하고, 무엇이 옳은지를 주체적으로 판단하며, 이를 실제 행동으로 옮길 수 있는 역량’으로 개념화한다. 이를 바탕으 로 공직윤리역량이 공직자의 공익지향적 동기와 어떠한 관계에 있는지, 그리고 그 관계가 조직적 조건에 따라 어떻게 달라지는지를 행태적으로 탐색한다. ｢2024 공직윤리가치조사｣를 활용하여 위계적 회귀분석을 실시한 결과, 공공봉사동기는 공직윤리역량과 유의미한 정(+)의 관계를 보였으며, 조직공정성 인식이 높을수록 이러 한 관계는 보다 강화되는 것으로 나타났다. 이는 공공봉사동기가 윤리적 행태와 연관되는 중요한 기반이라는 기존 연구와 맥락을 같이하면서도, 공공조직에서 동기와 공정성이 보완적으로 기능할 수 있음을 시사한다. 본 연구는 공직윤리역량을 행태적 분석의 대상으로 전환함으로써, 공직윤리에 대한 증거 기반적 접근이 보다 본 격화될 필요가 있음을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382944",
+                        "doi":  "",
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003384994",
+                        "id":  "kci:ART003382951",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "From Individual Happiness to Community Well-Being: Linking YouTube Discourse to an Agent-Based Simulation",
+                        "title":  "직접일자리사업 반복참여의 기능적 의미: 가외성 관점의 적용",
                         "authors":  [
-                                        "노형돈",
-                                        "최영출"
+                                        "정희정",
+                                        "최재문"
                                     ],
-                        "journal":  "한국자치행정학보",
+                        "journal":  "한국행정학보",
                         "date":  "2026-09",
-                        "abstract":  "Digital video platforms circulate abundant advice about happiness and well-being, but the frame composition of that advice may not address the relational and place-based conditions included in community well-being (CWB). This study develops an exploratory text-to-simulation design to examine, under explicitly specified behavioural assumptions, how alternative discourse compositions generate different municipal CWB trajectories. Two hundred YouTube videos retrieved with the keywords happiness and well-being between May 2025 and April 2026 were analysed in NetMiner using keyword centrality, Pathfinder networks, and clustering. Four empirical frames were reconstructed: emotional happiness (F1); health and lifestyle well-being (F2); relationships, family, and local space (F3); and community and environment (F4). Their observed distributions were converted into message-occurrence probabilities in a NetLogo model of 1,000 heterogeneous residents embedded in a social network. Four discourse scenarios were simulated over 100 ticks with 200 replications each. Within the baseline parameterisation, happiness-centred discourse generated the highest individual happiness (H = 0.684), whereas well-being-centred discourse generated the highest individual well-being (W = 0.681). Neither generated the highest composite CWB. The highest CWB (0.582) occurred in a normative scenario that increased F3 and F4, because the model assigned these frames broader effects on social trust, local connectedness, and perceived local living conditions. These results are conditional computational findings rather than estimates of real-world platform effects. The study contributes a transparent workflow for converting observed discourse structures into testable simulation scenarios and derives hypotheses for local-government communication that require empirical validation.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384994",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.255",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003384579",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "노인의 거주형태와 디지털 정보활용능력의 관계에서공적조력이 미치는 영향",
-                        "authors":  [
-                                        "오명자",
-                                        "백옥미"
-                                    ],
-                        "journal":  "한국자치행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 노인을 대상으로 거주형태와 디지털 정보활용능력의 관계를 탐색하고, 공적조력의 조절효과를 검증하고자 하였다. 이를 위해 한국지능정보사회진흥원(NIA)의 「2025 디지털정보격차실태조사」 자료를 활용하여 65세 이상 노인 1,280명을 대상으로 위계적 회귀분석을 실시하였다. 분석 결과 공적조력 여부는 노인의 디지털 정보활용능력에 영향을 미치는 것으로 나타났다. 또한 공적조력은 거주형태와 노인의 디지털 정보활용능력 간의 관계를 조절하는 것으로 나타났다. 이러한 결과는 상대적으로 낮은 독거노인의 디지털 정보활용능력을 향상시키기 위해서는 공적 지원이 확대되어야 할 필요성을 시사한다. 본 연구는 그동안 미진한 상태로 남아있던 노인의 정보활용능력에 대한 거주형태와 공적조력의 상호작용을 실증적으로 검증하였다는 점에서 의의가 있다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384579",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.125",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003384431",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "지방자치단체 기금 규모의 영향 요인: 시·도 본청 기금 현재액을 중심으로",
-                        "authors":  [
-                                        "이준기",
-                                        "박선주"
-                                    ],
-                        "journal":  "한국자치행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "지방자치단체의 건전하고 자율적인 지방기금 운용이 요구되고 있으나, 지방기금의 규모가 지속적으로 증가하면서 방만한 운영에 대한 지적과 함께 기금의 수입원이 주로 중앙정부의 교부금에 의존한다는 비판도 제기된다. 지방기금에 대한 체계적인 실증연구가 요구됨에도 불구하고, 현재까지 지방기금에 대한 연구가 충분하지 않다. 이에 본 연구는 광역자치단체 본청 단위의 지방기금 현재액을 기준으로, 그 규모에 영향을 미치는 요인을 실증적으로 분석해보고자 한다. 2015-2024년 광역시·도 본청의 기금 현재액을 패널자료로 구축하여 이원 패널고정효과 모형으로 분석하였으며, 지방자치단체의 재정여건, 경제지표, 인구구성, 정치변수를 포함하고 외생적 요인을 통제하기 위해 연도 더미를 추가하였다. 재정여건은 지방교부금과 순세계잉여금, 채무비율로 구분하여 전년도의 여건을 살펴보았다. 분석결과 재정적 요인은 지방기금과 정(+)의 관계를 갖는 것으로 나타났고, 단체장의 정치 성향도 지방기금의 규모에 영향을 미치는 것으로 나타났다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384431",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.1",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003385550",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "시민무례행동이 공무원의 이직의도에 미치는 영향: 조직지원인식과 공공봉사동기의 병렬매개효과",
-                        "authors":  [
-                                        "염지선",
-                                        "김동원",
-                                        "변서후"
-                                    ],
-                        "journal":  "한국자치행정학보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 시민무례행동과 공무원의 이직의도 간 관계에서 조직지원인식과 공공봉사동기의 병렬매개효과를 검증하였다. 직무요구-자원모형(JD-R)과 자원보존이론(COR)을 토대로 2021년 서울특별시 민원담당 공무원 519명의 설문자료에 구조방정식모형과 부트스트래핑을 적용하였다. 분석결과, 시민무례행동은 이직의도와 유의한 정(+)의 관계를, 조직지원인식 및 공공봉사동기와 유의한 부(-)의 관계를 보였다. 두 매개변수는 이직의도와 유의한 부(-)의 관계를 보였으며, 각각의 간접효과와 시민무례행동의 직접효과가 모두 유의하여 부분매개효과가 확인되었다. 본 연구는 조직적·동기적 자원을 통한 두 매개경로를 함께 검증하였다는 의의가 있으며, 정책적으로는 시민무례행동에 대한 예방과 조기 개입, 체감 가능한 조직적 보호 그리고 공공봉사동기의 유지·회복을 다각도로 고려해야 함을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003385550",
-                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.365",
+                        "abstract":  "본 연구는 정책집행 평가에서 널리 활용되어 온 효율성 기준의 적용 조건과 한계를 검토하고, 이를 보완하는 분석틀로서 행정가외성 이론의 적용 가능성을 탐색한다. 특히 정책목표가 다층적이고 집행환경의 불확실성이 큰 취업취약계층 대상 일자리정책에서는 효율성 기준만으로 정책수단의 다양한 기능을 설명하기 어렵다는 점 에 주목하였다. 이를 위해 재정지원 직접일자리사업 반복참여 경험이 있는 참여자를 대상으로 초점집단면접 (FGI)을 실시하였다. 분석 결과, 반복참여 취업 중심의 단일 목표, 일회성 개입, 재참여를 예외적 문제로 보는 효율성 기준과 실제 참여자의 노동경로 사이의 괴리를 드러내는 현상으로 나타났다. 또한 반복참여는 민간 노 동시장 이행 실패 이후 대체 경로를 제공하고, 제도적 재진입 가능성을 통해 정책 신뢰와 참여 지속성을 유지 하며, 다양한 노동경로를 확보하게 하는 가외적 기능을 수행할 수 있음을 확인하였다. 본 연구는 반복참여를 일률적으로 비효율로 판단하기보다, 그것이 어떤 조건에서 정책체계의 신뢰성과 적응성을 보완하는 가외성으 로 작동하는지를 분석할 필요가 있음을 제시한다. 나아가 효율성과 가외성은 대립적 기준이 아니라 정책환경 의 불확실성에 따라 함께 활용될 수 있는 상보적 분석 개념임을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382951",
+                        "doi":  "",
                         "pdf":  ""
                     },
                     {
@@ -588,6 +371,223 @@
                         "abstract":  "본 연구는 서울특별시와 경기도의 야간관광정책을 비교하여 야간관광의 성과가 발생하는 경로와 그 성과를 제약하는 제도적 조건을 규명하고, 경제적 활성화와 주민의 삶의 질 및 환경적 지속가능성을 함께 달성하기 위한 제도개선 방향을 제시하는 것을 목적으로 한다. 기존 야간관광 연구는 야간경관의 심미성, 관광객의 선택속성, 만족도 및 재방문의도 등을 중심으로 발전해 왔으나, 정책투입이 실제 방문·체류·숙박·소비로 전환되는 과정과 그 과정에서 발생하는 주민갈등, 빛공해, 안전비용, 야간노동 및 부서 간 조정문제를 통합적으로 설명하는 데에는 한계가 있었다. 또한 야간관광, 야간경제 및 야간경관의 개념이 혼용되면서 조명이나 축제에 대한 투자가 곧바로 지역경제 활성화로 이어진다는 단선적 정책논리가 형성되어 왔다. 본 연구는 야간관광정책의 평가를 방문객 수와 행사장 매출 중심에서 야간 체류시간, 숙박 전환율, 순증소비, 공간 확산, 지역조달, 주민 수용성, 안전·교통 접근성, 빛공해·에너지·폐기물 및 재정효율을 포함하는 통합성과체계로 전환할 것을 제안한다. 정책과제별로 정책목표, 제도수단, 담당 주체, 시행 절차, 재원, 성과지표 및 예상 위험을 연계하고, 기본계획과 연차 시행계획, 이동·안전·주민·환경 영향평가, 성과협약형 공모·출연·위탁, 사후추적평가 및 광역 차원의 야간정책 조정체계를 제도화할 필요가 있다. 이 연구는 야간관광을 관광객의 소비활동에 국한하지 않고 야간경제, 주민생활, 환경수용력 및 도시거버넌스가 결합된 정책영역으로 분석하였다는 점에서 이론적 의의를 가지며, 대도시 집중형과 광역 분산형 지역에 상이한 정책수단을 적용해야 한다는 실천적 함의를 제공한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384496",
                         "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.51",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003384937",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "임산물 산업정책의 구조적 진단과 평가프레임 구축: 산양삼 산업 정책을 중심으로",
+                        "authors":  [
+                                        "정솔",
+                                        "최희용",
+                                        "한아름",
+                                        "주효진"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 특별관리임산물인 산양삼 산업정책의 구조적 병목을 진단하고, 향후 정책성과를 체계적으로 평가하기 위한 평가프레임을 구축하는 데 목적이 있다. 이를 위해 평가성 사정과 변화이론의 관점에서 「제3차 산양삼 산업 육성대책(2024~2028)」을 중심으로 관련 법령, 정책자료, 산업자료 및 선행연구를 분석하였다. 분석 결과, 산양삼 산업의 주요 구조적 병목은 생산기반과 품질관리의 안정성, 품질·이력정보의 시장 활용과 신뢰 형성, 연구개발 성과의 제품화 및 지속적 소비수요로의 전환, 그리고 개별 정책수단과 산업성과를 연결하는 정책논리와 집행기반의 미흡으로 나타났다. 이에 현행 정책수단을 활동·정책수단–직접 산출–중간성과–최종성과의 성과경로로 재구성하고, 이 과정에서 검증되어야 할 여섯 가지 핵심 가정과 제도·생산환경·시장경쟁·유통·기술사업화·거버넌스와 관련된 여섯 가지 맥락조건을 도출하였다. 이를 토대로 생산기반 및 품질관리, 유통정보 및 시장신뢰, 가공산업 및 기술사업화, 소비시장 및 수출확장, 정책집행 및 거버넌스의 다섯 평가영역을 설정하고, 영역별 변화이론 기반 아웃컴 체인과 평가질문을 구성하였다. 평가기준은 적합성, 전환성, 수용성, 지속가능성 및 학습가능성으로 설정하였다. 본 연구가 제시한 평가프레임은 개별 사업의 집행실적이나 단기 산출을 넘어 정책수단이 실제 산업성과로 전환되는 과정과 그 단절지점을 확인할 수 있도록 함으로써, 향후 성과지표 개발, 자료체계 구축 및 산양삼 산업 육성정책의 성과관리와 정책학습을 위한 분석적 기반을 제공한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384937",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.143",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003384431",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "지방자치단체 기금 규모의 영향 요인: 시·도 본청 기금 현재액을 중심으로",
+                        "authors":  [
+                                        "이준기",
+                                        "박선주"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "지방자치단체의 건전하고 자율적인 지방기금 운용이 요구되고 있으나, 지방기금의 규모가 지속적으로 증가하면서 방만한 운영에 대한 지적과 함께 기금의 수입원이 주로 중앙정부의 교부금에 의존한다는 비판도 제기된다. 지방기금에 대한 체계적인 실증연구가 요구됨에도 불구하고, 현재까지 지방기금에 대한 연구가 충분하지 않다. 이에 본 연구는 광역자치단체 본청 단위의 지방기금 현재액을 기준으로, 그 규모에 영향을 미치는 요인을 실증적으로 분석해보고자 한다. 2015-2024년 광역시·도 본청의 기금 현재액을 패널자료로 구축하여 이원 패널고정효과 모형으로 분석하였으며, 지방자치단체의 재정여건, 경제지표, 인구구성, 정치변수를 포함하고 외생적 요인을 통제하기 위해 연도 더미를 추가하였다. 재정여건은 지방교부금과 순세계잉여금, 채무비율로 구분하여 전년도의 여건을 살펴보았다. 분석결과 재정적 요인은 지방기금과 정(+)의 관계를 갖는 것으로 나타났고, 단체장의 정치 성향도 지방기금의 규모에 영향을 미치는 것으로 나타났다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384431",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.1",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003385550",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "시민무례행동이 공무원의 이직의도에 미치는 영향: 조직지원인식과 공공봉사동기의 병렬매개효과",
+                        "authors":  [
+                                        "염지선",
+                                        "김동원",
+                                        "변서후"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 시민무례행동과 공무원의 이직의도 간 관계에서 조직지원인식과 공공봉사동기의 병렬매개효과를 검증하였다. 직무요구-자원모형(JD-R)과 자원보존이론(COR)을 토대로 2021년 서울특별시 민원담당 공무원 519명의 설문자료에 구조방정식모형과 부트스트래핑을 적용하였다. 분석결과, 시민무례행동은 이직의도와 유의한 정(+)의 관계를, 조직지원인식 및 공공봉사동기와 유의한 부(-)의 관계를 보였다. 두 매개변수는 이직의도와 유의한 부(-)의 관계를 보였으며, 각각의 간접효과와 시민무례행동의 직접효과가 모두 유의하여 부분매개효과가 확인되었다. 본 연구는 조직적·동기적 자원을 통한 두 매개경로를 함께 검증하였다는 의의가 있으며, 정책적으로는 시민무례행동에 대한 예방과 조기 개입, 체감 가능한 조직적 보호 그리고 공공봉사동기의 유지·회복을 다각도로 고려해야 함을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003385550",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.365",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003384579",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "노인의 거주형태와 디지털 정보활용능력의 관계에서공적조력이 미치는 영향",
+                        "authors":  [
+                                        "오명자",
+                                        "백옥미"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 노인을 대상으로 거주형태와 디지털 정보활용능력의 관계를 탐색하고, 공적조력의 조절효과를 검증하고자 하였다. 이를 위해 한국지능정보사회진흥원(NIA)의 「2025 디지털정보격차실태조사」 자료를 활용하여 65세 이상 노인 1,280명을 대상으로 위계적 회귀분석을 실시하였다. 분석 결과 공적조력 여부는 노인의 디지털 정보활용능력에 영향을 미치는 것으로 나타났다. 또한 공적조력은 거주형태와 노인의 디지털 정보활용능력 간의 관계를 조절하는 것으로 나타났다. 이러한 결과는 상대적으로 낮은 독거노인의 디지털 정보활용능력을 향상시키기 위해서는 공적 지원이 확대되어야 할 필요성을 시사한다. 본 연구는 그동안 미진한 상태로 남아있던 노인의 정보활용능력에 대한 거주형태와 공적조력의 상호작용을 실증적으로 검증하였다는 점에서 의의가 있다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384579",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.125",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374576",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "DEA와 DEA Window모형을 통한 전시컨벤션센터 경영 효율성 분석- 지방출자출연기관을 중심으로 -",
+                        "authors":  [
+                                        "이수형",
+                                        "정홍상"
+                                    ],
+                        "journal":  "한국지방행정학보",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구는 MICE 산업의 핵심 인프라인 국내 전시컨벤션센터의 경영 효율성을 객관적으로 진단하고 최적화 방안을 모색하는데 목적이 있다. 특히 수익성보다는 공익성을 중시하는 지방자치단체 출자･출연기관 형태의 국내 전시컨벤션센터를 연구 대상으로 한정하여 2019년부터 2023년까지 총 5개년의 패널자료를 확보하여 효율성을 측정하였다. 측정 변수를 선정함에 있어 센터조직의 공공적 특성을 최대한 고려하여 비재무적 지표인 ‘임직원 수’와 ‘전시장 면적’을 투입 변수로, ‘총 전시면적’과 ‘참관객 수’를 산출 변수로 설정하였다. 단일 연도의 정태적 효율성 분석을 위해 DEA 모형을 적용하였고, 시간 흐름에 따른 효율성의 변화 추이 및 안정성을 입체적으로 규명하기 위해 동태적 분석으로 DEA Window 모형을 병행하여 분석하였다. 분석 결과 우리나라 출자･출연 전시컨벤션센터의 비효율은 내부 운영 역량 부족보다는 규모 비효율에 기인하는 바 크고, 수도권 센터는 비수도권 센터에 비해 시계열 평균 규모효율성(SE)이 상대적으로 높고 비수도권 센터는 수도권 센터에 비해 시계열 평균 순수기술효율성(PTE)이 상대적으로 높음을 확인하였다. 개별 센터별로는 특정시점에서의 높은 효율성이 경영성과의 지속성과 안정성을 의미하지는 않으며, 동태적 추이 및 변동성의 정도가 상이하여 지속적이면서도 안정적인 경영성과를 창출하기 위해서는 센터별 맞춤형 효율성 제고 방안을 마련할 필요가 있음을 알 수 있었다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374576",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003385474",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "충청지역 지방상수도공기업의 경영효율성 및 영향요인 분석 : DEA와 Tobit 분석을 중심으로",
+                        "authors":  [
+                                        "김숙경",
+                                        "윤준상"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 충청지역 지방상수도공기업을 대상으로 DEA, Window DEA, Malmquist 생산성지수 및 Tobit 분석을 활용하여 경영효율성, 생산성 변화 및 효율성 영향요인을 분석하였다. 분석 결과, CCR 모형에서는 22개 DMU 중 12개, BCC 모형에서는 14개가 효율적인 것으로 나타났으며, 비효율적인 DMU의 다수가 규모수익체증(IRS) 영역에 위치하여 규모 확대를 통한 효율성 개선 가능성이 확인되었다. Window DEA 분석 결과 지방상수도공기업별로 효율성의 변화와 안정성에 차이가 있는 것으로 나타났으며, Malmquist 생산성지수 분석에서는 분석기간 동안 생산성이 소폭 향상된 것으로 나타났다. 또한 Tobit 분석에서는 요금현실화율이 효율성에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 이에 충청지역 지방상수도의 효율성 제고를 위해서는 규모의 경제를 고려한 운영체계 개선과 적정 수준의 요금현실화를 통한 안정적인 재원조달 기반 마련이 필요한 것으로 판단된다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003385474",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.331",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003384965",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "사회적협동조합의 디지털 리더십과 통합역량이 조직성과에 미치는 영향: 디지털기술 수용성의 매개효과",
+                        "authors":  [
+                                        "최희성",
+                                        "민병익"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 국내 사회적협동조합 종사자를 대상으로 디지털 리더십과 통합역량이 디지털기술 수용성을 매개로 조직성과에 미치는 영향을 실증적으로 분석하였다. 이를 위해 경상남도 소재 사회적협동조합 종사자 231명을 대상으로 온라인 설문조사를 실시하였으며, AMOS 29.0을 활용하여 구조방정식모형 분석을 수행하였다. 분석 결과는 다음과 같다. 첫째, 디지털 리더십은 통합역량과 디지털기술 수용성에 유의한 정(+)의 영향을 미치는 것으로 나타났으며, 통합역량도 디지털기술 수용성에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 또한 디지털기술 수용성은 경제적 성과와 사회적 성과에 모두 유의한 정(+)의 영향을 미쳤으며, 표준화 경로계수는 경제적 성과보다 사회적 성과에 상대적으로 크게 나타났다. 디지털기술 수용성의 설명력은 55.4%로 나타났다. 둘째, 부트스트래핑을 통한 매개효과 분석 결과, 디지털 리더십과 통합역량이 디지털기술 수용성을 통해 경제적ㆍ사회적 성과에 미치는 간접효과는 모두 유의한 것으로 나타났다. 특히 디지털 리더십과 경제적ㆍ사회적 성과에 대한 직접효과는 유의하지 않은 반면, 디지털기술 수용성을 통한 간접효과는 유의하게 나타나 간접경로가 통계적으로 지지되었다. 이러한 연구 결과를 바탕으로 사회적협동조합 구성원의 디지털기술 수용성을 제고하고 경제적ㆍ사회적 조직성과를 향상시키기 위한 정책적ㆍ실무적 시사점을 제시하였다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384965",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.221",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374513",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "지방소멸대응기금에 대한 시스템다이내믹스 기반 인과순환구조분석",
+                        "authors":  [
+                                        "방호준",
+                                        "신유호"
+                                    ],
+                        "journal":  "한국지방행정학보",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구에서는 2022년부터 시작된 지방소멸대응기금 관련 요인을 인과순환구조분석을 통해 고찰하였다. 지방소멸대응기금은 총 89곳의 인구감소지역 및 18곳의 관심지역을 대상으로 기금사업이 추진되었으며, 지방소멸대응기금에 대한 학술적 평가는 주로 지역별 인구 유입률을 중심으로 실증적으로 이루어졌다. 본 연구에서는 시스템 사고의 관점에서 인과지도를 작성하였고, 인과지도에서 활용된 변수, 인과관계의 방향성, 피드백 루프 구조 등은 기존 선행연구에 대한 문헌검토를 근거로 작성되었다. 본 연구에서 확인한 인과 구조는 ‘출산율 =\u003e 생산가능 인구 수 =\u003e 인구감소지역 청년 수 =\u003e 인구감소지역 고령화 비율 =\u003e 인구감소지역 확대 가능성 =\u003e 지방소멸 =\u003e 관련 예산 필요성 =\u003e 지방소멸대응기금 배분 규모 =\u003e 인구감소지역 재정자립도 =\u003e 인구감소지역 재정지출규모 =\u003e 인구감소지역 생활인프라 수 =\u003e 인구감소지역 도시 매력도 =\u003e 인구감소지역 생활인구 유입률 =\u003e 인구감소지역 조세수입 =\u003e 출산지원사업규모 =\u003e 출산율’로 이어지는 피드백 루프로 설명하였다. 이러한 분석결과는 지방소멸대응기금의 효과를 단기적인 인구증감이나 개별 사업의 성과만으로 평가하기보다 인구･경제･재정･정주환경 간의 중장기적 상호작용을 함께 고려할 필요가 있음을 시사한다. 또한 향후 인구감소지역 재지정과 기금 운용성과 평가에서는 기존 정량지표와 함께 지역매력도, 주민 생활만족도 등 지역의 지속가능한 정주여건을 반영할 수 있는 지표를 보완할 필요가 있다. 본 연구는 지방소멸대응기금과 지방소멸 간의 관계를 개별 변수의 단선적 영향이 아닌 피드백 구조를 통해 분석하였다는 점에서 의의가 있다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374513",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374566",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "공직 생애주기별 자산 형성 지원체계구축 방안 연구- 지방교육행정기관 및 학교 소속 공직자를 중심으로 -",
+                        "authors":  [
+                                        "양진규",
+                                        "이혜영",
+                                        "박현숙",
+                                        "김혜덕",
+                                        "서봉희",
+                                        "이원택",
+                                        "문세경",
+                                        "정광희",
+                                        "장창곡"
+                                    ],
+                        "journal":  "한국지방행정학보",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구는 공직 생애주기별 자산형성 지원체계가 조직몰입과 공직만족도에 미치는 영향을 분석하는 것을 목적으로 한다. 공직자를 대상으로 한 설문조사를 바탕으로 자산형성 지원체계 인식, 조직몰입, 공직만족도 간의 관계를 실증적으로 분석하였다. 분석 결과, 자산형성 지원체계에 대한 인식은 조직몰입과 공직만족도에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 또한 조직몰입은 자산형성 지원체계 인식과 공직만족도 간의 관계에서 부분 매개효과를 가지는 것으로 확인되었다. 아울러 생애주기와 직종에 따라 차이가 존재하는 것으로 나타났다. 이러한 결과를 바탕으로 공직자의 특성을 반영한 생애주기별 맞춤형 자산형성 지원체계 구축의 필요성을 제시하였다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374566",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003384557",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "Sustainable Development and National Happiness: Predictive Structure across Income, Goal Domains, and Institutions in a 2016-2024 Country Panel",
+                        "authors":  [
+                                        "박정진",
+                                        "최영출"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "This study asks how predictive information about national life evaluation is distributed across three sets of conditions — economic resources, goal-level sustainable-development performance, and institutional quality — in observed 2016–2024 country data. It combines country-level SDG Index and 17 goal scores, World Happiness Report three-year average life evaluations, the World Bank\u0027s Worldwide Governance Indicators, and PPP-adjusted GDP per capita. Observed happiness scores were available for 1,292 country-year records; 1,269 records were complete for the core regression variables across 167 countries and territories. The analysis combines country-grouped cross-validation, XGBoost-SHAP attribution, and supplementary fixed-effects panel regression. Three findings emerge. First, predictive information is highly concentrated: log GDP and SDG 3 alone account for roughly half of the attribution among the fifteen highest-ranked predictors (mean |SHAP| = 0.372 and 0.279), with the remainder distributed across service-delivery goals — gender equality, energy, water and sanitation, and education. Second, institutional indicators contribute far less unique predictive content than their bivariate correlations imply. The six governance dimensions together account for under eight percent of the top-fifteen attribution, and government effectiveness — the third-strongest bivariate correlate of life evaluation (r = .772) — does not enter the top fifteen at all. Governance therefore appears to predict life evaluation largely through the economic and health conditions with which it co-varies rather than through predictive content of its own, a pattern that neither correlations nor regression coefficients reveal on their own. Third, the gain from nonlinear ensembles over a linear benchmark is modest (country-grouped cross-validated R² of .723 versus .682), indicating that most of the predictive structure in these variables is approximately linear at the country-year level, with departures concentrated at the low end of the income range and at the top of the climate-action distribution. Evidence on whether institutional capacity conditions the SDG–happiness association is mixed: a fixed-effects interaction is positive but marginal (p = .044, heteroskedasticity-robust standard errors), while median-split subgroup correlations are effectively identical (.636 and .635). The divergence is traced to differences in estimand rather than resolved. All estimates are predictive and associational; the design does not identify causal effects.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384557",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.87",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003384994",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "From Individual Happiness to Community Well-Being: Linking YouTube Discourse to an Agent-Based Simulation",
+                        "authors":  [
+                                        "노형돈",
+                                        "최영출"
+                                    ],
+                        "journal":  "한국자치행정학보",
+                        "date":  "2026-09",
+                        "abstract":  "Digital video platforms circulate abundant advice about happiness and well-being, but the frame composition of that advice may not address the relational and place-based conditions included in community well-being (CWB). This study develops an exploratory text-to-simulation design to examine, under explicitly specified behavioural assumptions, how alternative discourse compositions generate different municipal CWB trajectories. Two hundred YouTube videos retrieved with the keywords happiness and well-being between May 2025 and April 2026 were analysed in NetMiner using keyword centrality, Pathfinder networks, and clustering. Four empirical frames were reconstructed: emotional happiness (F1); health and lifestyle well-being (F2); relationships, family, and local space (F3); and community and environment (F4). Their observed distributions were converted into message-occurrence probabilities in a NetLogo model of 1,000 heterogeneous residents embedded in a social network. Four discourse scenarios were simulated over 100 ticks with 200 replications each. Within the baseline parameterisation, happiness-centred discourse generated the highest individual happiness (H = 0.684), whereas well-being-centred discourse generated the highest individual well-being (W = 0.681). Neither generated the highest composite CWB. The highest CWB (0.582) occurred in a normative scenario that increased F3 and F4, because the model assigned these frames broader effects on social trust, local connectedness, and perceived local living conditions. These results are conditional computational findings rather than estimates of real-world platform effects. The study contributes a transparent workflow for converting observed discourse structures into testable simulation scenarios and derives hypotheses for local-government communication that require empirical validation.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384994",
+                        "doi":  "http://dx.doi.org/10.18398/kjlgas.2026.40.3.255",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374706",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "한국사회 노동갈등의 현황과 특징에 관한 연구- 1990-2024년 DCDR 공공갈등 DB 분석을 중심으로 -",
+                        "authors":  [
+                                        "임재형"
+                                    ],
+                        "journal":  "한국지방행정학보",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구는 한국사회 노동갈등의 현황과 특징을 경험적으로 규명하기 위해 1990년부터 2024년까지 발생한 공공갈등 사례를 분석하였다. 기존 연구가 특정 시기의 노동운동, 개별 노사분규, 노동시장 구조 변화 등에 주로 초점을 맞추어 온 데 비해, 본 연구는 장기 시계열 자료를 활용하여 노동갈등을 한국사회 공공갈등의 한 유형으로 위치 짓고, 전체 공공갈등 1,303건 중 노동갈등 351건을 대상으로 연도별･정부별 발생 양상, 갈등 종류와 성격, 종료방식, 시민단체 참여 여부, 평균 지속일수 등을 종합적으로 검토하였다. 분석 결과, 노동갈등은 전체 공공갈등 가운데 가장 높은 비중을 차지하는 대표적 갈등 유형이며, 최근 그 상대적 비중이 다시 확대되는 경향을 보였다. 또한 노동갈등은 다른 공공갈등 유형과 달리 민간 경제주체 간 갈등 비율이 높고, 이익/이익갈등의 성격이 강하며, 협상에 의해 종료되는 비율이 높은 것으로 나타났다. 반면, 시민단체 참여 비율과 평균 지속일수는 상대적으로 낮았다. 이러한 결과는 노동갈등이 단순한 노사분규가 아니라 노동시장 구조, 고용불안, 정부 노동정책, 산업구조 변화가 결합된 핵심 공공갈등임을 보여준다. 나아가 노동갈등의 예방과 해결을 위해서는 자율교섭 역량 강화, 조기 조정 절차의 제도화, 취약노동계층 보호, 사회적 대화체계 구축이 필요함을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374706",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374761",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "구역･계층･기능 관점에서 본 한국 지방자치 행정체제의 구조적 한계와 개편방안",
+                        "authors":  [
+                                        "김찬동",
+                                        "배귀희"
+                                    ],
+                        "journal":  "한국지방행정학보",
+                        "date":  "2026-08",
+                        "abstract":  "한국의 지방자치체제는 지방자치제도부활 35년을 경험하면서, 제도설계의 문제점이 드러났고, 이 문제를 해결하기 위한 구조개혁이 필요하다. 구조개혁은 기회의 창이 열렸을 때, 강력한 리더십과 협력적 파트너십을 가지고 추진되어야 할 과제이다. 한국의 지방자치행정체제의 구조적 논점으로서 구역, 계층, 기능에 대한 담론적 논의를 통하여, 지방행정체제의 설계상의 오류들를 제시해 본다. 주된 오류로서 지방자치의 기초구역이 너무 크다든지, 이층제를 단층제로 갈 것인가, 군자치는 과연 기초자치계층에 해당하는 것인가, 광역시와 도의 분리, 중앙집권적 자치구조 등을 제기한다. 인구감소위기에 직면한 한국의 지방자치행정체제는 더 이상 지속가능성을 견지하기가 어려우므로, 이에 대한 구조적 개혁이 필요하다. 이를 위해 대도시중심권을 가진 초광역권역을 형성하는 방향, 근린계층의 총회적 자치정부를 도입하는 방향, 그리고 양자를 연결하는 브릿지 정부로서의 행정구를 두는 방향을 담론적으로 제시한다. 그리고 국가와 지방정부간의 재정분권에 기반한 역할분담을 위한 방향으로서 헌법적인 개정이 필요함을 제시한다. 이미 미래지향적 지방행정체제개편 방향이 제시되어 있기에 이를 보충적으로 달리 생각해 볼 대안으로서 몇가지를 제시해 본다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374761",
+                        "doi":  "",
                         "pdf":  ""
                     },
                     {
@@ -797,52 +797,34 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003390242",
+                        "id":  "kci:ART003390229",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "한국 BCI 기술규제 정책의 의제설정 지체에 관한 연구- 다중흐름모형(MSF)과 무의사결정론의 결합을 중심으로 -",
+                        "title":  "다층 거버넌스 구조에서 제도화 경로 분화- 한국 수소정책의 수직적 정합성 비교 분석 -",
                         "authors":  [
-                                        "김모모",
-                                        "조수빈"
+                                        "김은지",
+                                        "장새미"
                                     ],
                         "journal":  "한국정책학회보",
                         "date":  "2026-09",
-                        "abstract":  "본 연구는 국내 뇌-컴퓨터 인터페이스(BCI) 기술이 우수한 기초연구 역량에도 불구하고, 상용화의 핵심 관문인 임상시험 진입이 지연되는 제도적 지체 현상에 주목하였다. 이를 분석하기 위해 킹던(Kingdon)의 다중흐름모형(Multiple Streams Framework)을 기본 분석틀로 설정하고, 한국의 BCI 기술규제 정책과정을 실증적으로 고찰하였다. 분석 결과, 뉴럴링크(Neuralink)의 임상 성공이라는 초점 사건을 계기로 형성된 ‘문제의 흐름’과, 적응형 규제 등 구체적 대안이 축적된 ‘정책의 흐름’은 제도의제 수준에서 일정 부분 결합을 이룬 것으로 나타났다. 그러나 정치의 흐름 내에서 규제기관의 책임 회피적 성향, 부처 간 권한과 책임의 불일치, 그리고 생명·안전 가치의 ‘편향의 동원’이 흐름 간의 완결적 결합을 차단하는 구조적 병목으로 작용하고 있음을 확인하였다. 이로 인해 정책의 창은 전면적 개방이 아닌 ‘부분 개방(Partial Opening)’ 상태에 머물러 있으며, BCI 기술규제 정책의제는 실질적 집행 단계인 정부의제로 발전하지 못한 채 무의사결정(Non-decision making) 메커니즘을 통한 의제 지연과 의제 전환 속에 정체되고 있다. 본 연구는 MSF에 무의사결정론을 접목하여 첨단기술 규제정책에서 나타나는 불완전한 결합의 구조를 규명함으로써, 향후 첨단 융합기술 규제 거버넌스 설계를 위한 이론적·실천적 시사점을 제공한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390242",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.15",
+                        "abstract":  "국가 수소정책이 실제로 작동하는 공간은 지역이다. 본 연구는 한국 수소정책의 수직적 정합성을 목표, 위험 및 안전관리, 조정 및 이행 메커니즘, 부문별 수소 목표, 공공재정 투입 의지, 협력 체계 및 지역 행위자의 여섯 개 정책 차원으로 분해하여 측정하고, 정책 정합성을 형식적 정합성과 실질적 정합성의 두 차원으로 분리해 분석하는 틀을 제안하였다. 울산, 제주, 여수, 삼척을 사례로 중앙･지방 정책 문서를 수집하고 서열 척도 코딩을 통해 두 정합성을 측정하였다. 분석 결과, 네 지자체 모두에서 형식적 정합성은 비교적 높게 나타났으나 실질적 정합성은 지자체 간 분화되어 형성되었다. 차원별로는 부문별 목표와 공공재정 투입이 상대적으로 높은 통합 수준을 보인 반면, 위험 및 안전관리와 조정 메커니즘은 네 사례에서 공통적으로 낮게 나타났다. 이러한 패턴은 강압적 동형화가 정책 요소의 채택은 광범위하게 확산시키되 통합의 깊이는 보장하지 않으며, 그 효과가 정책 차원에 따라 비대칭적으로 작동함을 시사한다. 본 연구는 정합성의 단일 지표 측정이 가리는 수용의 폭과 통합의 깊이를 분리해 가시화함으로써, 위계적 정부 간 관계 구조에서 중앙 정책이 지방 제도로 전환되는 과정을 단일한 확산이 아닌 분화된 형성 양상으로 이해할 수 있는 분석적 자원을 제공한다. 또한 안전관리와 조정 메커니즘의 공통적 취약성은 지방 역량의 문제가 아니라 한국 수소정책 제도화 구조 전반에 내재된 거버넌스 위험임을 실증한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390229",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.2",
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003390238",
+                        "id":  "kci:ART003390241",
                         "topic":  "public-admin",
                         "origin":  "KCI",
-                        "title":  "경제성장에 따른 환경수용능력의 변화와 정책적 함의- 생태계공급서비스를 고려한 환경부하수용곡선(LCC) 분석 -",
+                        "title":  "검찰개혁의 반복과 부패통제체계의 변화- 검수완박, 검수원복, 중수청･공소청 체제 전환의 비교분석 -",
                         "authors":  [
-                                        "강송연",
-                                        "김유미"
+                                        "임민주"
                                     ],
                         "journal":  "한국정책학회보",
                         "date":  "2026-09",
-                        "abstract":  "지속가능한 발전을 위해서는 경제성장 과정에서 발생하는 생태계 변화를 고려한 정책 설계가 필요하다. 이에 본 연구는 환경부하수용곡선(Load Capacity Curve, LCC) 가설을 바탕으로 OECD 국가에서 경제성장과 환경수용능력 간의 비선형적 관계를 분석한다. 환경수용능력은 생태적 수요 대비 생태적 공급의 상대적 수준을 나타내는 환경부하수용계수(Load Capacity Factor, LCF)로 측정하였다. 또한, LCC 모형에 생태계공급서비스 요인을 통합하여 자원 유형별 영향을 분석하였다. 분석 결과, 경제성장과 환경수용능력 간 U자형 관계가 확인되어 LCC 가설에 부합하는 경험적 패턴이 관찰되었으며, 생태계공급서비스는 자원 유형에 따라 상이한 영향을 미치는 것으로 나타났다. 곡물 및 화목 생산, 재생에너지 소비, 생물다양성 보호는 LCF 개선에 기여한 반면, 담수 이용, 광물자원 소비, 도시폐기물 증가는 환경수용능력을 저해하는 것으로 나타났다. 나아가 OECD 국가를 대상으로 탐색적 시나리오 분석을 실시하여, 환경수용능력 개선 구간으로의 전환이 국가별 소득 수준과 성장경로에 따라 다르게 나타날 수 있음을 확인하였다. 이는 환경 문제를 생태계 공급 능력과의 균형 속에서 이해할 필요성을 보여주며, 지속가능한 발전을 위해 경제성장 단계와 자원 유형을 고려한 맞춤형 정책설계의 필요성을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390238",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.11",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003390244",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "지방소멸 정책평가의 식별 문제 연구- 인구감소지역 지정 정책과 동질성-효율성 상충관계 분석 -",
-                        "authors":  [
-                                        "안태훈",
-                                        "정근주",
-                                        "임길환"
-                                    ],
-                        "journal":  "한국정책학회보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 인구감소지역 지정 및 지방소멸대응기금 정책이 인구감소 완화에 미친 영향을 실증적으로 분석하고, 지방소멸 정책평가에서 나타나는 방법론적 한계를 검토하는 것을 목적으로 한다. 특히 인구감소가 심각한 지역이 정책 대상으로 선정되는 구조에서 발생하는 처치 내생성(selection on decline)과 반사실적(counterfactual) 구성의 어려움에 주목하였다. 이를 위해 2013~2025년 전국 기초지방자치단체 주민등록인구 자료를 활용하여 네 가지 표본을 구성하고, TWFE-DID 모형을 적용하였으며, 강건성 검정을 통해 분석 결과를 확인하였다. 분석 결과, 일부 표본에서는 정책효과가 긍정적인 방향으로 나타났으나, 주분석 표본에서는 통계적으로 유의한 효과가 확인되지 않았다. 또한 비교 가능한 대조군을 확보하기 위해 표본 범위를 축소할수록 동질성은 개선되나, 검정력 저하와 최소탐지효과 확대가 동시에 나타나는 동질성-효율성 상충관계(homogeneity-efficiency tradeoff)가 확인되었으며, 일부 표본에서는 평행추세 가정도 충족되지 않았다. 이는 지방소멸 정책평가의 핵심 과제가 단순한 계량기법의 선택보다 비교 가능한 반사실적 집단 구성에 있음을 시사한다. 본 연구는 향후 지역정책 평가에서 정책대상 선정의 내성성을 고려한 연구설계와 장기적 성과평가 체계의 필요성을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390244",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.17",
+                        "abstract":  "본 연구는 최근 한국의 검찰개혁을 검수완박, 검수원복, 중수청･공소청 체제 전환으로 이어지는 반복적 검찰권 변화의 과정으로 파악하고, 이러한 제도변화가 부패통제체계의 구조적 작동 가능성에 미친 영향을 분석한다. 기존 논의가 검찰개혁의 합헌성, 적법성, 수사권 조정의 당위성 또는 정치적 찬반에 집중해 왔다면, 본 연구는 검찰제도 변화를 형사사법기관 간 권한배분, 절차적 연계, 책임귀속 구조의 문제로 재구성한다. 이를 위해 부패통제이론의 공통 문제의식을 바탕으로 안정성, 역할명확성, 책임성의 세 기준을 설정하고 세 국면을 비교분석하였다. 분석 결과, 검수완박은 검찰권 집중을 완화하고 수사･기소 분리의 방향을 법률 차원에서 제도화하였다는 점에서 규범적 정당성을 가졌으나, 사건 이첩, 보완수사, 공소유지의 절차적 연계 방식을 충분히 정교하게 설계하지 못했다. 검수원복은 수사 공백과 중대범죄 대응력 약화 문제를 보완하려는 정책 논리를 가졌으나, 시행령 중심의 조정을 통해 제도변동의 빈도와 불확실성을 높이고 권한배분의 법적 정합성과 민주적 통제에 논란을 남겼다. 중수청･공소청 체제는 검찰청 중심 구조를 폐지하고 수사와 공소를 조직적으로 분리한다는 점에서 가장 구조적인 개편 방식이지만, 보완수사, 사건관할, 이첩기준, 영장청구, 책임귀속 절차가 미흡할 경우 새로운 기능적 분절과 책임공백을 초래할 수 있다. 이러한 분석은 부패통제체계의 실효성이 특정 기관의 권한 축소나 확대만으로 확보되지 않음을 보여준다. 향후 검찰제도 개혁의 핵심 과제는 다기관 형사사법체계 안에서 안정적인 권한배분, 명확한 역할 경계, 실질적인 책임귀속이 함께 작동할 수 있도록 제도적 연계 장치를 정교하게 마련하는 데 있다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390241",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.14",
                         "pdf":  ""
                     },
                     {
@@ -859,54 +841,6 @@
                         "abstract":  "코로나19 팬데믹의 장기화로 인한 스트레스, 불안 등 소위 ‘코로나 블루’ 상황에서 사회적 돌봄지원의 공백과 함께 돌봄노동의 재가족화 및 젠더화를 고려하면, 코로나19 이후 여성근로자의 주관적 행복감 변화는 자녀돌봄 변화와 밀접할 가능성이 크다. 이는 돌봄의 사회화 차원에서 근로자에게 제공되는 다양한 자녀돌봄지원이 여성근로자 행복감에 갖는 유효성과도 연결된다. 코로나19 이후 여성근로자 경험에 관한 선행연구는 자녀돌봄 변화 사례를 제시하거나 남성과 차별적인 노동경험을 규명하는 데 초점을 맞추었다. 다만 기존연구는 코로나19 이후 여성근로자 삶의 질 변화에는 비교적 주목하지 못하였고, 이와 관련한 자녀돌봄 변화와 자녀돌봄지원의 유기적 관계를 종합적으로 논의하는 데에도 한계가 있다. 이에 본 연구는 자녀돌봄 변화에 따른 비교를 중심으로 코로나19 이후 여성근로자 행복감 변화와 자녀돌봄지원의 관계를 경험적으로 실증하였다. 구체적으로 제9차 여성가족패널조사(KLoWF)를 활용하여 휴가, 비용, 보육서비스 등 다방면의 자녀돌봄지원이 코로나19 이후 여성근로자 행복감 변화에 미치는 영향력을 규명하는 동시에 자녀돌봄 변화에 따른 그 영향력의 차별성을 확인하였다. 이를 바탕으로 향후 여성근로자 삶의 질 제고를 위한 전향적 자녀돌봄지원의 정책적 시사점을 논의하였다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390251",
                         "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.24",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003390250",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "한국 정책경험 공유에 대한 협력국의 수요 분석- 지식공유사업 신청서를 활용한 텍스트마이닝 및 토픽모델링 -",
-                        "authors":  [
-                                        "강민협",
-                                        "김서영",
-                                        "김정욱"
-                                    ],
-                        "journal":  "한국정책학회보",
-                        "date":  "2026-09",
-                        "abstract":  "국제적 정책학습, 정책이전, 정책확산 연구는 한 주체의 정책과 정책경험이 다른 주체로 이전･수용되는 과정과 그 기제 및 결과를 주로 설명해 왔으나, 어떤 정책문제를 중요하게 인식하고 어떤 정책경험을 선택적으로 학습하고자 하는지, 즉 정책학습 수요에 대한 논의는 제한적으로 이루어졌다. 본 연구는 국가의 정책학습 수요를 분석함으로써 정책학습 연구의 분석 범위를 확장하고, 정책자문 및 지식공유 활동에 대한 함의를 제시하는 것을 목적으로 한다. 이를 위해 ‘표출된 정책학습 수요’를 한국의 경제발전경험 공유사업(Knowledge Sharing Program, KSP) 사업신청서 1,958건으로 조작화하고, 텍스트마이닝과 토픽모델링을 적용하여 그 구조와 변화를 분석하였다. 분석 결과, 정책학습 수요는 복수의 정책영역이 결합된 복합적 성격을 보였으며, 포괄적인 경제정책에서 보다 구체적인 정책과제와 이행 영역으로 이동하는 경향과 함께 권역과 소득 수준에 따른 차이가 확인되었다. 본 연구는 정책학습 연구의 분석 범위를 학습 수요가 형성되는 선행 단계로 확장하고, 정책학습 수요를 설명할 때 국가의 맥락과 정책문제의 특성을 고려할 필요성을 제기한다. 또한 KSP와 같은 정책자문사업에서 협력국의 정책수요와 제도적 여건을 고려하여 협력의 내용과 방식을 설계할 필요가 있음을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390250",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.23",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003390248",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "기후변화 대응 정책 수용성의 다차원성- 책임 귀인 프레임과 정책 만족도의 상호작용 효과를 중심으로 -",
-                        "authors":  [
-                                        "문승민"
-                                    ],
-                        "journal":  "한국정책학회보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 Lowi(1972)와 Wilson(1980)의 모형을 결합하여 강제력 속성과 비용 분포에 따른 기후변화 정책 수용성의 다차원적 구조를 실증적으로 분석하였다. 이를 위해, 전국 성인남녀 표본을 대상으로 기후위기 해결 책임 귀인 프레임과 정책 만족도의 상호작용 효과를 OLS 회귀분석 및 존슨-네이만 검정을 통해 분석하였다. 분석 결과, 첫째, 개인이 비용을 부담하는 영역에서는 기후위기 책임을 기업에 외재화할수록 수용성이 저하되었으나, 정책 만족도가 임계점(3.2점)을 상회하면 방어적 태도가 감소하였다. 둘째, 개인의 자율권을 제약하는 규제 영역에서는 정책 만족도가 불만족(1.0~1.9점)일 때만 외재적 귀인의 부정적 영향이 나타났다. 셋째, 피규제 주체가 기업인 영역에서는 환경적 가치관(NEP)과 같은 규범이 정책 지지도에 영향을 미쳤다. 본 연구는 기후 거버넌스 설계 시 강제력과 피규제 주체에 따른 다차원적 접근이 필요함을 시사하며, 사적 비용 부과 시에는 가시적 성과를 통한 만족도 확보를, 규제 입법 시에는 불만족 요인 최소화하는 관리를 병행할 것을 제언한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390248",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.21",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003390240",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "이태원 참사 이후 경찰공무원의 재난안전 역할 인식 유형 분석- Q방법론적 접근 -",
-                        "authors":  [
-                                        "이윤호",
-                                        "박현환"
-                                    ],
-                        "journal":  "한국정책학회보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 2022년 이태원 참사 이후 경찰공무원의 재난안전 역할 인식이 어떻게 분화되어 있는지를 Q방법론을 통해 탐색적으로 분석하였다. 현대 위험사회에서 재난의 복합성이 심화됨에 따라 경찰의 재난안전 역할에 대한 제도적 기대와 전통적 치안 정체성 간의 긴장이 고조되고 있으며, 이러한 긴장이 현장 경찰관 개인의 역할 인식에 어떻게 나타나는지를 탐색하는 것이 본 연구의 핵심 문제의식이다. 문헌 검토, 심층면접, 전문가 자문을 통해 50개의 Q진술문을 구성하고, 현직 경찰공무원 35명을 대상으로 Q분류를 실시하였다. 그 결과 전통적 치안중심형, 국민안전 확장형, 위험기반 유연형, 법적근거 우선형, 체계개혁 지향형의 5개 인식 유형이 도출되었다. 본 연구는 조직정체성 이론을 핵심 분석 이론으로 삼아, 도출된 인식 유형을 조직 및 제도 변화와의 해석적 연관성 속에서 탐색적으로 검토하였다. 직급별 인식 분화는 단순한 선형적 패턴이 아니라 비선형적･다경로적 양상으로 나타났다. 특히 경위 직급은 모든 유형에 걸쳐 분포하여, 다양한 역할 인식이 공존하는 경향을 보였다. 정책적으로는 인식 유형별 차별화 전략과 인식 통합 전략을 병행하는 이중 전략이 요구되며, 다기관 합동훈련과 유관기관 정보 공유 시스템과 같은 합의 기반을 정책 추진의 출발점으로 활용할 필요가 있다. 이러한 결과는 경찰의 재난안전 역할 인식을 다중정체성 조직(multiple identity organization)의 관점에서 해석할 필요성을 제시하며, 재난안전 거버넌스의 재설계가 단일한 역할 규정의 강화만으로 달성될 수 없고 조직 내부의 다양한 인식 구조를 정책 설계 및 집행 과정에서의 핵심 자원으로 활용하는 접근이 중요함을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390240",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.13",
                         "pdf":  ""
                     },
                     {
@@ -959,37 +893,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003390241",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "검찰개혁의 반복과 부패통제체계의 변화- 검수완박, 검수원복, 중수청･공소청 체제 전환의 비교분석 -",
-                        "authors":  [
-                                        "임민주"
-                                    ],
-                        "journal":  "한국정책학회보",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 최근 한국의 검찰개혁을 검수완박, 검수원복, 중수청･공소청 체제 전환으로 이어지는 반복적 검찰권 변화의 과정으로 파악하고, 이러한 제도변화가 부패통제체계의 구조적 작동 가능성에 미친 영향을 분석한다. 기존 논의가 검찰개혁의 합헌성, 적법성, 수사권 조정의 당위성 또는 정치적 찬반에 집중해 왔다면, 본 연구는 검찰제도 변화를 형사사법기관 간 권한배분, 절차적 연계, 책임귀속 구조의 문제로 재구성한다. 이를 위해 부패통제이론의 공통 문제의식을 바탕으로 안정성, 역할명확성, 책임성의 세 기준을 설정하고 세 국면을 비교분석하였다. 분석 결과, 검수완박은 검찰권 집중을 완화하고 수사･기소 분리의 방향을 법률 차원에서 제도화하였다는 점에서 규범적 정당성을 가졌으나, 사건 이첩, 보완수사, 공소유지의 절차적 연계 방식을 충분히 정교하게 설계하지 못했다. 검수원복은 수사 공백과 중대범죄 대응력 약화 문제를 보완하려는 정책 논리를 가졌으나, 시행령 중심의 조정을 통해 제도변동의 빈도와 불확실성을 높이고 권한배분의 법적 정합성과 민주적 통제에 논란을 남겼다. 중수청･공소청 체제는 검찰청 중심 구조를 폐지하고 수사와 공소를 조직적으로 분리한다는 점에서 가장 구조적인 개편 방식이지만, 보완수사, 사건관할, 이첩기준, 영장청구, 책임귀속 절차가 미흡할 경우 새로운 기능적 분절과 책임공백을 초래할 수 있다. 이러한 분석은 부패통제체계의 실효성이 특정 기관의 권한 축소나 확대만으로 확보되지 않음을 보여준다. 향후 검찰제도 개혁의 핵심 과제는 다기관 형사사법체계 안에서 안정적인 권한배분, 명확한 역할 경계, 실질적인 책임귀속이 함께 작동할 수 있도록 제도적 연계 장치를 정교하게 마련하는 데 있다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390241",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.14",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003390229",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "다층 거버넌스 구조에서 제도화 경로 분화- 한국 수소정책의 수직적 정합성 비교 분석 -",
-                        "authors":  [
-                                        "김은지",
-                                        "장새미"
-                                    ],
-                        "journal":  "한국정책학회보",
-                        "date":  "2026-09",
-                        "abstract":  "국가 수소정책이 실제로 작동하는 공간은 지역이다. 본 연구는 한국 수소정책의 수직적 정합성을 목표, 위험 및 안전관리, 조정 및 이행 메커니즘, 부문별 수소 목표, 공공재정 투입 의지, 협력 체계 및 지역 행위자의 여섯 개 정책 차원으로 분해하여 측정하고, 정책 정합성을 형식적 정합성과 실질적 정합성의 두 차원으로 분리해 분석하는 틀을 제안하였다. 울산, 제주, 여수, 삼척을 사례로 중앙･지방 정책 문서를 수집하고 서열 척도 코딩을 통해 두 정합성을 측정하였다. 분석 결과, 네 지자체 모두에서 형식적 정합성은 비교적 높게 나타났으나 실질적 정합성은 지자체 간 분화되어 형성되었다. 차원별로는 부문별 목표와 공공재정 투입이 상대적으로 높은 통합 수준을 보인 반면, 위험 및 안전관리와 조정 메커니즘은 네 사례에서 공통적으로 낮게 나타났다. 이러한 패턴은 강압적 동형화가 정책 요소의 채택은 광범위하게 확산시키되 통합의 깊이는 보장하지 않으며, 그 효과가 정책 차원에 따라 비대칭적으로 작동함을 시사한다. 본 연구는 정합성의 단일 지표 측정이 가리는 수용의 폭과 통합의 깊이를 분리해 가시화함으로써, 위계적 정부 간 관계 구조에서 중앙 정책이 지방 제도로 전환되는 과정을 단일한 확산이 아닌 분화된 형성 양상으로 이해할 수 있는 분석적 자원을 제공한다. 또한 안전관리와 조정 메커니즘의 공통적 취약성은 지방 역량의 문제가 아니라 한국 수소정책 제도화 구조 전반에 내재된 거버넌스 위험임을 실증한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390229",
-                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.2",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003390239",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1003,6 +906,103 @@
                         "abstract":  "본 연구의 목적은 예술인이 예술인 복지정책 수혜 과정에서 겪는 행정부담이 행정자본에 따라 어떻게 차별적으로 나타나는지 분석하고, 이러한 경험이 정책에 내재된 ‘숨겨진 정치(hidden politics)’를 인식하는 과정으로 이어지는 양상을 밝히는 데 있다. 이를 위해 본 연구는 예술활동증명 제도와 예술활동준비금 제도 관련 경험이 있는 서울 거주 예술인 18명을 대상으로 1:1 대면 면담을 시행하고 자료를 근거이론방법으로 분석하였다. 분석 결과, 연구참여자들은 과거 행정 업무 경험과 예술인 네트워크 내 위치에 따라 제도 접근 방식과 이해 수준에서 차이를 보였으며, 이러한 차이는 행정자본의 축적 정도를 달리하게 하여 예술인 복지법상 행정 절차에 대응하는 역량의 차이로 이어졌다. 구체적으로, 행정자본이 풍부한 예술인일수록 행정 절차 자체에 대한 부담은 상대적으로 낮은 양상을 보였다. 그러나 동시에 이들은 공공예술행정의 구조적 한계를 더욱 선명하게 인식하게 되면서 오히려 무력감과 의미상실을 경험하였으며, 이 과정에서 행정부담이 단순한 행정 절차가 아니라 제도적 선별과 책임 귀속을 내포한 ‘숨겨진 정치’로 작동함을 인식하는 것으로 나타났다. 본 연구는 행정부담이 예술인의 예술계 내 위치에 따라 축적된 행정자본에 의해 차별화된다는 점을 밝힘으로써, 예술인 복지정책이 행정자본의 격차를 완화하고 예술인 네트워크 접근성이 낮은 예술인의 제도 접근성을 보완하는 방향으로 설계될 필요가 있음을 시사한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390239",
                         "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.12",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003390240",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "이태원 참사 이후 경찰공무원의 재난안전 역할 인식 유형 분석- Q방법론적 접근 -",
+                        "authors":  [
+                                        "이윤호",
+                                        "박현환"
+                                    ],
+                        "journal":  "한국정책학회보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 2022년 이태원 참사 이후 경찰공무원의 재난안전 역할 인식이 어떻게 분화되어 있는지를 Q방법론을 통해 탐색적으로 분석하였다. 현대 위험사회에서 재난의 복합성이 심화됨에 따라 경찰의 재난안전 역할에 대한 제도적 기대와 전통적 치안 정체성 간의 긴장이 고조되고 있으며, 이러한 긴장이 현장 경찰관 개인의 역할 인식에 어떻게 나타나는지를 탐색하는 것이 본 연구의 핵심 문제의식이다. 문헌 검토, 심층면접, 전문가 자문을 통해 50개의 Q진술문을 구성하고, 현직 경찰공무원 35명을 대상으로 Q분류를 실시하였다. 그 결과 전통적 치안중심형, 국민안전 확장형, 위험기반 유연형, 법적근거 우선형, 체계개혁 지향형의 5개 인식 유형이 도출되었다. 본 연구는 조직정체성 이론을 핵심 분석 이론으로 삼아, 도출된 인식 유형을 조직 및 제도 변화와의 해석적 연관성 속에서 탐색적으로 검토하였다. 직급별 인식 분화는 단순한 선형적 패턴이 아니라 비선형적･다경로적 양상으로 나타났다. 특히 경위 직급은 모든 유형에 걸쳐 분포하여, 다양한 역할 인식이 공존하는 경향을 보였다. 정책적으로는 인식 유형별 차별화 전략과 인식 통합 전략을 병행하는 이중 전략이 요구되며, 다기관 합동훈련과 유관기관 정보 공유 시스템과 같은 합의 기반을 정책 추진의 출발점으로 활용할 필요가 있다. 이러한 결과는 경찰의 재난안전 역할 인식을 다중정체성 조직(multiple identity organization)의 관점에서 해석할 필요성을 제시하며, 재난안전 거버넌스의 재설계가 단일한 역할 규정의 강화만으로 달성될 수 없고 조직 내부의 다양한 인식 구조를 정책 설계 및 집행 과정에서의 핵심 자원으로 활용하는 접근이 중요함을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390240",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.13",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003390250",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "한국 정책경험 공유에 대한 협력국의 수요 분석- 지식공유사업 신청서를 활용한 텍스트마이닝 및 토픽모델링 -",
+                        "authors":  [
+                                        "강민협",
+                                        "김서영",
+                                        "김정욱"
+                                    ],
+                        "journal":  "한국정책학회보",
+                        "date":  "2026-09",
+                        "abstract":  "국제적 정책학습, 정책이전, 정책확산 연구는 한 주체의 정책과 정책경험이 다른 주체로 이전･수용되는 과정과 그 기제 및 결과를 주로 설명해 왔으나, 어떤 정책문제를 중요하게 인식하고 어떤 정책경험을 선택적으로 학습하고자 하는지, 즉 정책학습 수요에 대한 논의는 제한적으로 이루어졌다. 본 연구는 국가의 정책학습 수요를 분석함으로써 정책학습 연구의 분석 범위를 확장하고, 정책자문 및 지식공유 활동에 대한 함의를 제시하는 것을 목적으로 한다. 이를 위해 ‘표출된 정책학습 수요’를 한국의 경제발전경험 공유사업(Knowledge Sharing Program, KSP) 사업신청서 1,958건으로 조작화하고, 텍스트마이닝과 토픽모델링을 적용하여 그 구조와 변화를 분석하였다. 분석 결과, 정책학습 수요는 복수의 정책영역이 결합된 복합적 성격을 보였으며, 포괄적인 경제정책에서 보다 구체적인 정책과제와 이행 영역으로 이동하는 경향과 함께 권역과 소득 수준에 따른 차이가 확인되었다. 본 연구는 정책학습 연구의 분석 범위를 학습 수요가 형성되는 선행 단계로 확장하고, 정책학습 수요를 설명할 때 국가의 맥락과 정책문제의 특성을 고려할 필요성을 제기한다. 또한 KSP와 같은 정책자문사업에서 협력국의 정책수요와 제도적 여건을 고려하여 협력의 내용과 방식을 설계할 필요가 있음을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390250",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.23",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003390248",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "기후변화 대응 정책 수용성의 다차원성- 책임 귀인 프레임과 정책 만족도의 상호작용 효과를 중심으로 -",
+                        "authors":  [
+                                        "문승민"
+                                    ],
+                        "journal":  "한국정책학회보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 Lowi(1972)와 Wilson(1980)의 모형을 결합하여 강제력 속성과 비용 분포에 따른 기후변화 정책 수용성의 다차원적 구조를 실증적으로 분석하였다. 이를 위해, 전국 성인남녀 표본을 대상으로 기후위기 해결 책임 귀인 프레임과 정책 만족도의 상호작용 효과를 OLS 회귀분석 및 존슨-네이만 검정을 통해 분석하였다. 분석 결과, 첫째, 개인이 비용을 부담하는 영역에서는 기후위기 책임을 기업에 외재화할수록 수용성이 저하되었으나, 정책 만족도가 임계점(3.2점)을 상회하면 방어적 태도가 감소하였다. 둘째, 개인의 자율권을 제약하는 규제 영역에서는 정책 만족도가 불만족(1.0~1.9점)일 때만 외재적 귀인의 부정적 영향이 나타났다. 셋째, 피규제 주체가 기업인 영역에서는 환경적 가치관(NEP)과 같은 규범이 정책 지지도에 영향을 미쳤다. 본 연구는 기후 거버넌스 설계 시 강제력과 피규제 주체에 따른 다차원적 접근이 필요함을 시사하며, 사적 비용 부과 시에는 가시적 성과를 통한 만족도 확보를, 규제 입법 시에는 불만족 요인 최소화하는 관리를 병행할 것을 제언한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390248",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.21",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003390242",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "한국 BCI 기술규제 정책의 의제설정 지체에 관한 연구- 다중흐름모형(MSF)과 무의사결정론의 결합을 중심으로 -",
+                        "authors":  [
+                                        "김모모",
+                                        "조수빈"
+                                    ],
+                        "journal":  "한국정책학회보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 국내 뇌-컴퓨터 인터페이스(BCI) 기술이 우수한 기초연구 역량에도 불구하고, 상용화의 핵심 관문인 임상시험 진입이 지연되는 제도적 지체 현상에 주목하였다. 이를 분석하기 위해 킹던(Kingdon)의 다중흐름모형(Multiple Streams Framework)을 기본 분석틀로 설정하고, 한국의 BCI 기술규제 정책과정을 실증적으로 고찰하였다. 분석 결과, 뉴럴링크(Neuralink)의 임상 성공이라는 초점 사건을 계기로 형성된 ‘문제의 흐름’과, 적응형 규제 등 구체적 대안이 축적된 ‘정책의 흐름’은 제도의제 수준에서 일정 부분 결합을 이룬 것으로 나타났다. 그러나 정치의 흐름 내에서 규제기관의 책임 회피적 성향, 부처 간 권한과 책임의 불일치, 그리고 생명·안전 가치의 ‘편향의 동원’이 흐름 간의 완결적 결합을 차단하는 구조적 병목으로 작용하고 있음을 확인하였다. 이로 인해 정책의 창은 전면적 개방이 아닌 ‘부분 개방(Partial Opening)’ 상태에 머물러 있으며, BCI 기술규제 정책의제는 실질적 집행 단계인 정부의제로 발전하지 못한 채 무의사결정(Non-decision making) 메커니즘을 통한 의제 지연과 의제 전환 속에 정체되고 있다. 본 연구는 MSF에 무의사결정론을 접목하여 첨단기술 규제정책에서 나타나는 불완전한 결합의 구조를 규명함으로써, 향후 첨단 융합기술 규제 거버넌스 설계를 위한 이론적·실천적 시사점을 제공한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390242",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.15",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003390238",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "경제성장에 따른 환경수용능력의 변화와 정책적 함의- 생태계공급서비스를 고려한 환경부하수용곡선(LCC) 분석 -",
+                        "authors":  [
+                                        "강송연",
+                                        "김유미"
+                                    ],
+                        "journal":  "한국정책학회보",
+                        "date":  "2026-09",
+                        "abstract":  "지속가능한 발전을 위해서는 경제성장 과정에서 발생하는 생태계 변화를 고려한 정책 설계가 필요하다. 이에 본 연구는 환경부하수용곡선(Load Capacity Curve, LCC) 가설을 바탕으로 OECD 국가에서 경제성장과 환경수용능력 간의 비선형적 관계를 분석한다. 환경수용능력은 생태적 수요 대비 생태적 공급의 상대적 수준을 나타내는 환경부하수용계수(Load Capacity Factor, LCF)로 측정하였다. 또한, LCC 모형에 생태계공급서비스 요인을 통합하여 자원 유형별 영향을 분석하였다. 분석 결과, 경제성장과 환경수용능력 간 U자형 관계가 확인되어 LCC 가설에 부합하는 경험적 패턴이 관찰되었으며, 생태계공급서비스는 자원 유형에 따라 상이한 영향을 미치는 것으로 나타났다. 곡물 및 화목 생산, 재생에너지 소비, 생물다양성 보호는 LCF 개선에 기여한 반면, 담수 이용, 광물자원 소비, 도시폐기물 증가는 환경수용능력을 저해하는 것으로 나타났다. 나아가 OECD 국가를 대상으로 탐색적 시나리오 분석을 실시하여, 환경수용능력 개선 구간으로의 전환이 국가별 소득 수준과 성장경로에 따라 다르게 나타날 수 있음을 확인하였다. 이는 환경 문제를 생태계 공급 능력과의 균형 속에서 이해할 필요성을 보여주며, 지속가능한 발전을 위해 경제성장 단계와 자원 유형을 고려한 맞춤형 정책설계의 필요성을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390238",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.11",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003390244",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "지방소멸 정책평가의 식별 문제 연구- 인구감소지역 지정 정책과 동질성-효율성 상충관계 분석 -",
+                        "authors":  [
+                                        "안태훈",
+                                        "정근주",
+                                        "임길환"
+                                    ],
+                        "journal":  "한국정책학회보",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 인구감소지역 지정 및 지방소멸대응기금 정책이 인구감소 완화에 미친 영향을 실증적으로 분석하고, 지방소멸 정책평가에서 나타나는 방법론적 한계를 검토하는 것을 목적으로 한다. 특히 인구감소가 심각한 지역이 정책 대상으로 선정되는 구조에서 발생하는 처치 내생성(selection on decline)과 반사실적(counterfactual) 구성의 어려움에 주목하였다. 이를 위해 2013~2025년 전국 기초지방자치단체 주민등록인구 자료를 활용하여 네 가지 표본을 구성하고, TWFE-DID 모형을 적용하였으며, 강건성 검정을 통해 분석 결과를 확인하였다. 분석 결과, 일부 표본에서는 정책효과가 긍정적인 방향으로 나타났으나, 주분석 표본에서는 통계적으로 유의한 효과가 확인되지 않았다. 또한 비교 가능한 대조군을 확보하기 위해 표본 범위를 축소할수록 동질성은 개선되나, 검정력 저하와 최소탐지효과 확대가 동시에 나타나는 동질성-효율성 상충관계(homogeneity-efficiency tradeoff)가 확인되었으며, 일부 표본에서는 평행추세 가정도 충족되지 않았다. 이는 지방소멸 정책평가의 핵심 과제가 단순한 계량기법의 선택보다 비교 가능한 반사실적 집단 구성에 있음을 시사한다. 본 연구는 향후 지역정책 평가에서 정책대상 선정의 내성성을 고려한 연구설계와 장기적 성과평가 체계의 필요성을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390244",
+                        "doi":  "http://dx.doi.org/10.33900/KAPS.2026.35.3.17",
                         "pdf":  ""
                     },
                     {
@@ -1069,22 +1069,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003392073",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "배출권거래제의 온실가스 감축 효과에 대한 이중차분 분석: 3차 계획기간 목표관리제와의 비교를 중심으로",
-                        "authors":  [
-                                        "권빛나리",
-                                        "진상현"
-                                    ],
-                        "journal":  "한국정책과학학회보",
-                        "date":  "2026-09",
-                        "abstract":  "본 논문은 정책의 효과성을 검증하기 위해 온실가스 배출권거래제의 적용 기업과 목표관리제 대상 업체 사이의 배출량 변화에서 나타난 차이를 분석하고 있다. 선행연구에 따르면, 분석 대상, 계획기간, 분석 방법에 따라 배출권거래제의 감축 효과가 상이한 것으로 나타났다. 이에 배출권거래제의 3차 계획기간을 중심으로 이들 두 제도의 대상 집단에서 배출량 변화에 유의미한 차이가 존재했는지에 대한 검토가 진행되었다. 구체적으로는 유상할당 업종의 적용 비율과 벤치마크의 할당 범위가 확대된 3차 기간을 중심으로 배출량의 변화가 비교되었다. 이런 연구 목적을 달성하기 위해 2018년부터 2024년까지의 기업 패널자료가 활용되었으며, 3차 계획기간이 시작된 2021년을 기준으로 기업별․연도별 고정효과를 모두 포함한 이중차분 모형이 적용되었다. 분석 결과에 따르면, 매출액과 에너지 사용량을 통제한 전체모형에서 배출권거래제 적용 기업의 전후 배출량 변화는 목표관리제 대상 업체보다 6.42% 낮은 방향으로 추정되었으며, 두 집단의 차이는 통계적으로 유의미하지 않았다. 마찬가지로 통제변수를 포함하지 않은 기본모형과 매출액 및 에너지 사용량을 순차적으로 포함한 모형에서도 배출량 변화의 방향은 음수로 일관되었지만, 통제변수가 추가될수록 추정 계수의 절댓값과 통계적 유의성이 감소했다. 최종적으로 전체모형에서는 두 집단의 배출량 변화에 체계적인 차이가 나타났다고 판단할 수 없었다. 이 같은 연구 결과는 배출권거래제의 성과를 계획기간별로 점검하고 제도의 개선 방향을 모색해야 한다는 정책적 함의로 연결된다. 특히 기업의 배출량을 생산활동이나 에너지 사용량뿐만 아니라 배출권의 할당 및 거래 정보와 연계해서 분석한다면, 제도의 성과와 작동 경로의 구체적인 파악이 가능할 수 있다. 따라서 정부는 향후에 이처럼 실증적인 분석을 바탕으로 기업의 배출량 변화와 제도 운영 현황을 함께 검토해서, 그 결과를 제도 평가에 반영해야 할 것이다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003392073",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003392069",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1097,6 +1081,22 @@
                         "date":  "2026-09",
                         "abstract":  "본 연구는 사회적 구성과 정책설계 이론을 적용함에 있어 정책대상집단을 한국의 고유한 사회·제도적 맥락에서 새롭게 유형화할 필요성에 주목하는 한편, 기존 연구가 지닌 계량적 측정의 한계를 보완하기 위한 방법론을 탐색하고자 하였다. 이를 위해 ｢신문 말뭉치 2024｣ 텍스트 데이터를 전처리하고, 생성형 LLM과 형태소 분석을 결합하여 한국 사회의 잠재적 정책대상집단 51개를 도출하였다. 이어 감성분석과 Word2Vec을 활용하여 집단별 사회적 구성과 권력을 측정하고, GMM 클러스터링을 적용하여 이들을 유형화하였다. 분석 결과, 일부 집단들에서 한국적 맥락에 따라 기존 이론과는 다른 사회적 구성이 나타나고 있음을 확인할 수 있었다. 본 연구는 자연어 처리를 활용한 계량적 방식이 향후 정책대상집단을 분석하는 데 유용하게 사용될 수 있는 가능성을 제시하였다는 점에 의의가 있다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003392069",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003392073",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "배출권거래제의 온실가스 감축 효과에 대한 이중차분 분석: 3차 계획기간 목표관리제와의 비교를 중심으로",
+                        "authors":  [
+                                        "권빛나리",
+                                        "진상현"
+                                    ],
+                        "journal":  "한국정책과학학회보",
+                        "date":  "2026-09",
+                        "abstract":  "본 논문은 정책의 효과성을 검증하기 위해 온실가스 배출권거래제의 적용 기업과 목표관리제 대상 업체 사이의 배출량 변화에서 나타난 차이를 분석하고 있다. 선행연구에 따르면, 분석 대상, 계획기간, 분석 방법에 따라 배출권거래제의 감축 효과가 상이한 것으로 나타났다. 이에 배출권거래제의 3차 계획기간을 중심으로 이들 두 제도의 대상 집단에서 배출량 변화에 유의미한 차이가 존재했는지에 대한 검토가 진행되었다. 구체적으로는 유상할당 업종의 적용 비율과 벤치마크의 할당 범위가 확대된 3차 기간을 중심으로 배출량의 변화가 비교되었다. 이런 연구 목적을 달성하기 위해 2018년부터 2024년까지의 기업 패널자료가 활용되었으며, 3차 계획기간이 시작된 2021년을 기준으로 기업별․연도별 고정효과를 모두 포함한 이중차분 모형이 적용되었다. 분석 결과에 따르면, 매출액과 에너지 사용량을 통제한 전체모형에서 배출권거래제 적용 기업의 전후 배출량 변화는 목표관리제 대상 업체보다 6.42% 낮은 방향으로 추정되었으며, 두 집단의 차이는 통계적으로 유의미하지 않았다. 마찬가지로 통제변수를 포함하지 않은 기본모형과 매출액 및 에너지 사용량을 순차적으로 포함한 모형에서도 배출량 변화의 방향은 음수로 일관되었지만, 통제변수가 추가될수록 추정 계수의 절댓값과 통계적 유의성이 감소했다. 최종적으로 전체모형에서는 두 집단의 배출량 변화에 체계적인 차이가 나타났다고 판단할 수 없었다. 이 같은 연구 결과는 배출권거래제의 성과를 계획기간별로 점검하고 제도의 개선 방향을 모색해야 한다는 정책적 함의로 연결된다. 특히 기업의 배출량을 생산활동이나 에너지 사용량뿐만 아니라 배출권의 할당 및 거래 정보와 연계해서 분석한다면, 제도의 성과와 작동 경로의 구체적인 파악이 가능할 수 있다. 따라서 정부는 향후에 이처럼 실증적인 분석을 바탕으로 기업의 배출량 변화와 제도 운영 현황을 함께 검토해서, 그 결과를 제도 평가에 반영해야 할 것이다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003392073",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -1730,22 +1730,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374560",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "형식적 제도화와 실질적 지원의 탈동조화:3대 관변단체 지원 조례의 사후 추인 기능에 관한 패널 분석",
-                        "authors":  [
-                                        "유제웅",
-                                        "오정하"
-                                    ],
-                        "journal":  "지방정부연구",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구는 지방정부의 3대 관변단체 지원이 조례 제정과 경력 의원이라는 행위자의 개입에 의해 결정되는지, 아니면 지자체 수준에서 구조화된 경로의존의 산물인지를 분석하였다. 전국 226개 기초자치단체의 2017~2025년 세부사업별 세출현황에서 관변단체 보조금 이전액을 통계목 수준으로 추출하고, 지원 조례 및 지방의원 경력과 결합한 자치단체-단체유형-연도 패널에 2원 고정효과 모형과 사건연구를 적용하였다. 조례･경력 의원과 지원의 강한 연관은 지역 간 구조적 차이에 집중되었으며, 자치단체-단체유형 고정효과를 통제하면 조례 제정의 시점적 효과는 유의하지 않았다. 지원은 조례 제정에 선행하였고 법정운영비보조를 중심으로 제도화되어 있었다. 이는 형식적 제도인 조례가 실질적 지원과 느슨하게 결합되어, 지원의 원인이라기보다 이미 존재하는 관계를 사후적으로 정당화하는 장치에 가까움을 시사한다. 지원의 투명성을 높이려면 지급 단위의 실제 배분과 지속성을 함께 공시하고 심의할 필요가 있다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374560",
-                        "doi":  "http://dx.doi.org/10.20484/klog.30.2.6",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003374741",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1761,6 +1745,22 @@
                         "abstract":  "시민안전보험은 지방자치단체가 재난으로부터 시민을 보호하고 피해 복구를 지원하기 위해 보험사와 계약을 맺어 운영하는 보험으로, 지방자치단체 차원의 재난보장체계라는 점과 자연･사회재난을 아우르는 유일한 보험이라는 점에서 의의가 있다. 하지만 시행 이래 지역별 보장항목과 보장수준의 격차가 꾸준히 문제로 대두되었다. 본 연구는 퍼지셋 이상형 분석을 통해 17개 시･도 시민안전보험의 재난보장성을 지역 보장 포괄성과 급여 적정성을 기준으로 유형화하고 바람직한 재난보장 보험 형태를 제시하고자 했다. 분석 결과, 포괄보장형에 인천･대구･경북･울산, 형식･기초 보장형에 서울･대전･광주･제주, 임의･적정 보장형에 충북･충남･전남, 잔여보장형에 부산･세종･경기･강원이 분류되었다. 전북은 포괄보장형과 임의･적정 보장형, 경남은 임의･적정 보장형과 잔여보장형의 경계에 위치했다. 본 연구는 보장항목과 보장수준의 표준화, 재정적 지원 등을 통해 지방자치단체 간 형평성을 확보하고 보험의 공공성을 강화해야 함을 제언하였다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374741",
                         "doi":  "http://dx.doi.org/10.20484/klog.30.2.16",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374560",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "형식적 제도화와 실질적 지원의 탈동조화:3대 관변단체 지원 조례의 사후 추인 기능에 관한 패널 분석",
+                        "authors":  [
+                                        "유제웅",
+                                        "오정하"
+                                    ],
+                        "journal":  "지방정부연구",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구는 지방정부의 3대 관변단체 지원이 조례 제정과 경력 의원이라는 행위자의 개입에 의해 결정되는지, 아니면 지자체 수준에서 구조화된 경로의존의 산물인지를 분석하였다. 전국 226개 기초자치단체의 2017~2025년 세부사업별 세출현황에서 관변단체 보조금 이전액을 통계목 수준으로 추출하고, 지원 조례 및 지방의원 경력과 결합한 자치단체-단체유형-연도 패널에 2원 고정효과 모형과 사건연구를 적용하였다. 조례･경력 의원과 지원의 강한 연관은 지역 간 구조적 차이에 집중되었으며, 자치단체-단체유형 고정효과를 통제하면 조례 제정의 시점적 효과는 유의하지 않았다. 지원은 조례 제정에 선행하였고 법정운영비보조를 중심으로 제도화되어 있었다. 이는 형식적 제도인 조례가 실질적 지원과 느슨하게 결합되어, 지원의 원인이라기보다 이미 존재하는 관계를 사후적으로 정당화하는 장치에 가까움을 시사한다. 지원의 투명성을 높이려면 지급 단위의 실제 배분과 지속성을 함께 공시하고 심의할 필요가 있다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374560",
+                        "doi":  "http://dx.doi.org/10.20484/klog.30.2.6",
                         "pdf":  ""
                     },
                     {
@@ -1796,21 +1796,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003374567",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "통합돌봄 조례의 고부담 실행기제 격차와 지역 요인",
-                        "authors":  [
-                                        "이승원"
-                                    ],
-                        "journal":  "지방정부연구",
-                        "date":  "2026-08",
-                        "abstract":  "본 연구는 돌봄통합지원법 시행 전후 제정된 전국 223개 기초자치단체의 통합돌봄 조례를 대상으로, 주거지원과 접근창구의 명문화 수준에 나타난 지역 간 격차와 관련 요인을 분석하였다. 다섯 영역을 합산한 제도화지수는 평균 13.2점으로 상위 구간에 집중되었지만, 주거지원 약화는 91개(40.8%), 접근창구 미구체화는 188개(84.3%)로 나타났다. OLS에서는 기초생활수급률이 높을수록 고부담 실행기제 격차가 낮았고(b=-0.109), 재정자주도는 음의 방향에서 경계적 관련을 보였다(b=-0.013). 조항별 로지스틱 회귀에서도 주거지원 약화는 재정자주도･기초생활수급률과, 접근창구 미구체화는 고령화율･수도권 여부와 각각 관련되었다. 반면 전역적 공간군집과 회귀모형의 잔차 공간의존성은 확인되지 않았다. 이러한 결과는 통합돌봄 조례의 제도화를 단순한 제정 여부나 총점만으로 파악하기보다, 조례가 구체적인 실행책임을 어디까지 규정하고 있는지를 함께 살펴볼 필요가 있음을 보여준다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374567",
-                        "doi":  "http://dx.doi.org/10.20484/klog.30.2.7",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003374722",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1823,6 +1808,21 @@
                         "abstract":  "본 연구는 전남･광주 행정통합 의제의 장기적 정책변동과 제도화 과정을 단절적 균형이론의 관점에서 분석하였다. 특히 동일한 행정통합 의제에서 반복적으로 나타난 정책적 관심의 급부상 이후 서로 다른 정책변동 궤적이 어떻게 형성되었는지를 정책적 관심, 정책이미지 및 정책결정의 장을 중심으로 살펴보았다. 이를 위해 2016년 7월부터 2026년 6월까지 BIGKinds 뉴스자료를 정제하여 구축한 4,546건의 기사와 국회, 지방정부의 공식 정책자료를 활용하였다. 정책적 관심은 뉴스기사 빈도의 시계열 분석과 변화점 탐색을 통해 파악하였고, 정책이미지는 NMF 토픽모형의 대표어와 대표문서를 활용하여 해석하였으며, 정책결정의 장은 행정통합과 관련된 실질적인 정책기능 수행 여부를 기준으로 분석하였다. 분석결과, 전남･광주 행정통합에 대한 정책적 관심은 2020년 9월과 2025년 12월 말을 중심으로 두 차례 급부상하였으나 이후의 정책변동 경로는 서로 다르게 나타났다. 제1차 급부상기에는 행정통합의 필요성, 상생, 주민공감대 및 공론화가 중심적인 정책이미지를 형성하였고, 지역 수준의 공식 대응이 이루어진 이후 정책적 관심은 다시 감소하였다. 반면 제2차 급부상기에는 특별법, 권한이양, 재정지원, 행정구조 및 실행가능성을 중심으로 행정통합이 구체적인 제도설계의 문제로 재구성되었다. 그리고, 정책결정의 장이 중앙정부와 국회 등 국가 수준으로 확장되고 공식적인 입법･조정 과정이 진행되었다. 이러한 결과는 정책적 관심의 급격한 증가 자체가 곧 정책적 단절이나 제도화를 의미하지 않으며, 동일한 정책의제라도 정책이미지와 권위 있는 정책결정의 장, 제도적 대응이 어떻게 결합되는가에 따라 후속 정책변동의 궤적이 달라질 수 있음을 보여준다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374722",
                         "doi":  "http://dx.doi.org/10.20484/klog.30.2.14",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003374567",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "통합돌봄 조례의 고부담 실행기제 격차와 지역 요인",
+                        "authors":  [
+                                        "이승원"
+                                    ],
+                        "journal":  "지방정부연구",
+                        "date":  "2026-08",
+                        "abstract":  "본 연구는 돌봄통합지원법 시행 전후 제정된 전국 223개 기초자치단체의 통합돌봄 조례를 대상으로, 주거지원과 접근창구의 명문화 수준에 나타난 지역 간 격차와 관련 요인을 분석하였다. 다섯 영역을 합산한 제도화지수는 평균 13.2점으로 상위 구간에 집중되었지만, 주거지원 약화는 91개(40.8%), 접근창구 미구체화는 188개(84.3%)로 나타났다. OLS에서는 기초생활수급률이 높을수록 고부담 실행기제 격차가 낮았고(b=-0.109), 재정자주도는 음의 방향에서 경계적 관련을 보였다(b=-0.013). 조항별 로지스틱 회귀에서도 주거지원 약화는 재정자주도･기초생활수급률과, 접근창구 미구체화는 고령화율･수도권 여부와 각각 관련되었다. 반면 전역적 공간군집과 회귀모형의 잔차 공간의존성은 확인되지 않았다. 이러한 결과는 통합돌봄 조례의 제도화를 단순한 제정 여부나 총점만으로 파악하기보다, 조례가 구체적인 실행책임을 어디까지 규정하고 있는지를 함께 살펴볼 필요가 있음을 보여준다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374567",
+                        "doi":  "http://dx.doi.org/10.20484/klog.30.2.7",
                         "pdf":  ""
                     },
                     {
@@ -1876,6 +1876,22 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003394470",
+                        "topic":  "public-admin",
+                        "origin":  "KCI",
+                        "title":  "과학기술 인력의 심리적 안전감･지식공유와직무만족의 관계:공공연구기관과 민간기업의 비교",
+                        "authors":  [
+                                        "고영준",
+                                        "채선화"
+                                    ],
+                        "journal":  "한국인사행정학회보",
+                        "date":  "2026-09",
+                        "abstract":  "과학기술 분야의 인재 확보와 유지는 국가 혁신역량과 직결되는 정책적 과제이다. 특히 연구개발 조직은 높은 전문성, 불확실한 성과, 협업 의존성, 지속적 학습 요구를 특징으로 하므로 구성원이 경험하는 심리적･관계적 업무환경은 직무만족과 일-생활 균형 인식에 중요한 의미를 갖는다. 본 연구는 과학기술 분야 재직자를 대상으로 심리적 안전감과 조직 내 지식공유가 관계적 직무만족 및 일-생활 균형 만족과 어떠한 관련을 갖는지 분석하고, 이러한 관련성이 공공연구기관과 민간기업 사이에서 달라지는지 검토하였다. 분석에는 국가과학기술인력개발원의 ｢2023 KIRD 과학기술 인재개발 활동조사｣ 중 과학기술 분야 재직자 2,000명의 개인 단위 설문자료를 활용하였으며, 다중회귀분석과 상호작용항을 포함한 조절회귀분석을 실시하였다. 분석 결과, 심리적 안전감은 관계적 직무만족과 일-생활 균형 만족 모두와 유의한 정(+)의 관련성을 보였다. 지식공유는 관계적 직무만족과 유의한 정(+)의 관계를 보였으나, 일-생활 균형 만족과의 관련성은 통계적으로 유의하지 않았다. 공공연구기관 여부로 살펴본 조절효과 분석에서는 지식공유가 관계적 직무만족으로 연결되는 관련성이 민간기업보다 공공연구기관에서 더 강하게 나타났다. 반면 심리적 안전감과 일-생활 균형 만족의 관련성은 공공연구기관보다 민간기업에서 더 크게 나타났다. 이러한 결과는 과학기술 분야 조직에서 심리적 안전감과 지식공유가 동일한 방식으로 작동하지 않으며, 심리적 안전감과 지식공유가 관계적 직무만족 및 일-생활 균형 만족과 연결되는 양상이 달라질 수 있음을 보여준다. 본 연구는 과학기술 분야의 인사 관리 측면에서 공공조직은 지식공유와 협력적 학습 기반을, 민간조직은 심리적 안전감과 회복 가능한 업무환경을 세심하게 살필 필요가 있음을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394470",
+                        "doi":  "http://dx.doi.org/10.23243/kosppa.25.3.202609.93",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003394467",
                         "topic":  "public-admin",
                         "origin":  "KCI",
@@ -1904,22 +1920,6 @@
                         "abstract":  "공직사회의 학습 조직화를 위해 2007년에 도입한 상시학습제도(constant learning system)는 자기주도학습의 기반을 마련하고 인재개발의 양적 성장에 기여했다는 점에서 큰 의미를 지닌다. 하지만 현행 공무원 상시학습제도는 법정 의무 과정 이수에 매몰되어 수동적, 형식적 운영에 그치고 있다는 비판이 지속적으로 제기되어 왔다. 이 연구는 이러한 문제의식에서 출발하여, 현 공무원 상시학습제도의 자기주도성을 강화하기 위한 방안을 제시한다. 이를 위해 우선 공무원 상시학습제도에 관한 선행연구를 분석하고, 47개 중앙행정기관의 교육업무 담당자들을 대상으로 설문을 실시하여 운영실태를 분석하였다. 또한 자기주도학습을 활성화하고 있다고 평가되는 미국, 영국, 프랑스, 독일, 싱가포르 등의 사례를 분석하여 시사점을 도출하여, 이를 바탕으로 한국 공무원 상시학습제도의 자기주도성을 강화하기 위한 방안을 제시하였다. 이는 자기주도학습의 제도적 기반 강화와 법제화, AI 기술을 접목한 지능형 학습 플랫폼의 고도화와 맞춤형 콘텐츠 확대, 교육훈련 성과와 인사･성과평가 간의 실질적 연계 체계 구축, 리더십 역량 강화와 학습 친화적 조직문화의 근본적 개선 등의 네 가지이다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394468",
                         "doi":  "http://dx.doi.org/10.23243/kosppa.25.3.202609.47",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003394470",
-                        "topic":  "public-admin",
-                        "origin":  "KCI",
-                        "title":  "과학기술 인력의 심리적 안전감･지식공유와직무만족의 관계:공공연구기관과 민간기업의 비교",
-                        "authors":  [
-                                        "고영준",
-                                        "채선화"
-                                    ],
-                        "journal":  "한국인사행정학회보",
-                        "date":  "2026-09",
-                        "abstract":  "과학기술 분야의 인재 확보와 유지는 국가 혁신역량과 직결되는 정책적 과제이다. 특히 연구개발 조직은 높은 전문성, 불확실한 성과, 협업 의존성, 지속적 학습 요구를 특징으로 하므로 구성원이 경험하는 심리적･관계적 업무환경은 직무만족과 일-생활 균형 인식에 중요한 의미를 갖는다. 본 연구는 과학기술 분야 재직자를 대상으로 심리적 안전감과 조직 내 지식공유가 관계적 직무만족 및 일-생활 균형 만족과 어떠한 관련을 갖는지 분석하고, 이러한 관련성이 공공연구기관과 민간기업 사이에서 달라지는지 검토하였다. 분석에는 국가과학기술인력개발원의 ｢2023 KIRD 과학기술 인재개발 활동조사｣ 중 과학기술 분야 재직자 2,000명의 개인 단위 설문자료를 활용하였으며, 다중회귀분석과 상호작용항을 포함한 조절회귀분석을 실시하였다. 분석 결과, 심리적 안전감은 관계적 직무만족과 일-생활 균형 만족 모두와 유의한 정(+)의 관련성을 보였다. 지식공유는 관계적 직무만족과 유의한 정(+)의 관계를 보였으나, 일-생활 균형 만족과의 관련성은 통계적으로 유의하지 않았다. 공공연구기관 여부로 살펴본 조절효과 분석에서는 지식공유가 관계적 직무만족으로 연결되는 관련성이 민간기업보다 공공연구기관에서 더 강하게 나타났다. 반면 심리적 안전감과 일-생활 균형 만족의 관련성은 공공연구기관보다 민간기업에서 더 크게 나타났다. 이러한 결과는 과학기술 분야 조직에서 심리적 안전감과 지식공유가 동일한 방식으로 작동하지 않으며, 심리적 안전감과 지식공유가 관계적 직무만족 및 일-생활 균형 만족과 연결되는 양상이 달라질 수 있음을 보여준다. 본 연구는 과학기술 분야의 인사 관리 측면에서 공공조직은 지식공유와 협력적 학습 기반을, 민간조직은 심리적 안전감과 회복 가능한 업무환경을 세심하게 살필 필요가 있음을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394470",
-                        "doi":  "http://dx.doi.org/10.23243/kosppa.25.3.202609.93",
                         "pdf":  ""
                     },
                     {
@@ -3199,21 +3199,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003382821",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "A Grounded Situation Awareness and Reporting Platform for Drone Surveillance Videos",
-                        "authors":  [
-                                        "Chae Whan LIM"
-                                    ],
-                        "journal":  "인공지능연구",
-                        "date":  "2026-09",
-                        "abstract":  "This paper proposes an integrated simulation platform that quantitatively evaluates human detection and tracking performance under variations in weather and geometric conditions in drone surveillance videos, performs physical-space-based situation awareness by combining reconstructed three-dimensional ground coordinates with regions of interest (ROI Zones), and reports the resulting situations in explainable, grounded natural language. The proposed platform integrates the following components into a unified computational framework: (1) low-light and fog simulation based on alpha–gamma transformation and atmospheric scattering; (2) 2D-to-3D ground-coordinate transformation using pinhole and fisheye projection models together with ray casting; (3) background-feature-based global motion compensation (GMC) and noise-suppressed trajectory smoothing; (4) situation awareness based on Zone separation distance, zone-relative radial velocity, and a three-condition loitering criterion; (5) complete-link clustering; and (6) person-specific event graph encoding and automatic generation of grounded natural-language reports with hallucination suppression. The proposed platform provides a precise experimental foundation for systematically evaluating the effects of environmental degradation and geometric distortion, as well as the accuracy of situation-awareness methods.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382821",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003390183",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3225,6 +3210,21 @@
                         "date":  "2026-09",
                         "abstract":  "Super-resolution (SR) is widely used to enhance low-resolution images, yet its benefit for downstream image classification remains unclear and strongly domain-dependent. While many studies report accuracy improvements after SR, others observe marginal gains or even performance degradation due to artifact sensitivity and hallucinated details. This paper presents a quantitative cross-domain review of 19 experimental studies that explicitly evaluate the impact of SR on image classification across medical imaging, remote sensing, agriculture, geological imaging, and general computer vision. We summarize absolute performance changes in percentage points (Δ pp) by directly comparing SR-enhanced inputs with low-resolution baselines. The analysis shows that SR’s effectiveness varies dramatically by domain. Agriculture and remote sensing consistently benefit, with gains reaching +30 pp in some studies. Medical imaging shows mixed outcomes, including occasional performance drops. Larger scaling factors often provide limited benefit beyond 2× to 4×, and Sequential pipelines tend to produce larger gains, whereas Joint or task-aware training yields smaller but more stable improvements. Overall, these findings suggest that SR should be treated as a conditional tool, rather than a default preprocessing step. The review also highlights the need for more realistic degradation settings, reporting both positive and negative outcomes, and task-aware evaluation for practical classification.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003390183",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382821",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "A Grounded Situation Awareness and Reporting Platform for Drone Surveillance Videos",
+                        "authors":  [
+                                        "Chae Whan LIM"
+                                    ],
+                        "journal":  "인공지능연구",
+                        "date":  "2026-09",
+                        "abstract":  "This paper proposes an integrated simulation platform that quantitatively evaluates human detection and tracking performance under variations in weather and geometric conditions in drone surveillance videos, performs physical-space-based situation awareness by combining reconstructed three-dimensional ground coordinates with regions of interest (ROI Zones), and reports the resulting situations in explainable, grounded natural language. The proposed platform integrates the following components into a unified computational framework: (1) low-light and fog simulation based on alpha–gamma transformation and atmospheric scattering; (2) 2D-to-3D ground-coordinate transformation using pinhole and fisheye projection models together with ray casting; (3) background-feature-based global motion compensation (GMC) and noise-suppressed trajectory smoothing; (4) situation awareness based on Zone separation distance, zone-relative radial velocity, and a three-condition loitering criterion; (5) complete-link clustering; and (6) person-specific event graph encoding and automatic generation of grounded natural-language reports with hallucination suppression. The proposed platform provides a precise experimental foundation for systematically evaluating the effects of environmental degradation and geometric distortion, as well as the accuracy of situation-awareness methods.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382821",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3343,6 +3343,74 @@
                         "pdf":  ""
                     },
                     {
+                        "id":  "kci:ART003382688",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "YOLO와 DeepSORT 기반 실시간 객체 검출 및 추적 기법의 성능 분석",
+                        "authors":  [
+                                        "강성관"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "본 논문에서는 YOLO(You Only Look Once)와 DeepSORT(Simple Online and Realtime Tracking with a Deep Association Metric)를 결합한 실시간 사람 객체 추적 기법을 구현하고, 실시간 사람 객체 추적 환경에서 성능을 분석하였다. 기존의 CNN 기반 객체 검출·추적은 높은 정확도와 자동 특징 학습이 장점이나, 연산량이 커 실시간 처리와 복잡한 환경 대응에는 한계가 있다. 이러한 문제를 해결하기 위하여 본 연구에서는 one-stage detector인 YOLO를 활용하여 입력 영상에서 사람 객체를 빠르게 검출하고, DeepSORT 알고리즘을 적용하여 각 객체의 고유 ID를 유지하면서 프레임 간 연속적인 추적을 수행하는 통합 구조를 설계하였다. 특히 DeepSORT는 칼만 필터 기반의 상태 예측과 appearance feature 기반의 데이터 연관(Data Association)을 결합함으로써 객체 간 혼동을 최소화하고 추적 안정성을 향상시킨다. 실험 결과, 제안 방법은 기존 Faster R-CNN 기반 방법 대비 약 4배 이상의 처리 속도(FPS)를 향상시키면서도 유사한 수준의 검출 정확도(mAP)를 유지하는 것을 확인하였다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382688",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.002",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382697",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "웨어러블 기반 신체활동과 건강 인식을 통한 청년층의 잠재적 건강 취약성 평가",
+                        "authors":  [
+                                        "강진호",
+                                        "맹규호",
+                                        "최다빈",
+                                        "박준모",
+                                        "박캐서린"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "웨어러블 기반 건강 모니터링은 예방의학 분야에서 활용이 확대되고 있으나, 대부분 고령층을 대상으로 수행되어 젊은 성인에 대한 객관적 건강 모니터링 연구는 부족하다. 젊은 성인은 저위험군으로 간주되어 건강 평가가 자가보고에 의존하는 경향이 있다. 본 연구는 젊은 성인의 예방적 건강 모니터링 필요성을 탐색하고자 성인 56명을 대상으로 48시간 동안 수집한 관성측정장치(IMU) 기반 신체활동 데이터와 자가보고식 건강 평가를 활용하여 연령집단 간 객관적 신체활동과 주관적 건강 인식을 탐색적으로 비교하고 잠재적 건강 취약성을 평가하였다. 분석 결과, 젊은 성인(40세 미만)은 만성질환 유병률이 낮았음에도 성별 보정 후 중고령 성인(40세 이상)보다 중강도 신체활동 및 중강도-고강도 신체활동(MVPA) 비율이 낮고 저강도 신체활동 비율은 높았으며, EQ-5D-5L로 평가한 기능적 건강 상태는 더 양호하였다. 반면, 보행 수와 EQ-VAS의 집단 간 차이는 성별 보정 후 유의하지 않았다. 이러한 결과는 본 연구의 젊은 성인 표본에서 활동 강도 구성의 잠재적 취약성을 시사하며, 웨어러블 기반 예방적 건강 모니터링에 대한 추가 검증의 필요성을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382697",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.011",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382694",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "IoT기반 스마트 옷장 설계 및 구현을 통한 의류 케어 시스템 연구",
+                        "authors":  [
+                                        "하예솔",
+                                        "노혜련",
+                                        "권구주"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "패스트 패션의 확산은 의류의 대량 생산과 소비를 가속화하였으며 이로 인해 의류 폐기물 증가와 환경 오염 문제가 심화되고 있다. 또한 의류 보관 과정에서 발생할 수 있는 습기, 악취, 세균 번식 문제는 의류의 품질 저하뿐 아니라 개인 위생 측면에서도 관리가 필요한 요소로 인식되고 있다. 이에 따라 단순한 의류 보관 기능을 넘어 의류의 상태를 체계적으로 관리하고 사용자 편의성을 높일 수 있는 스마트 옷장 시스템의 필요성이 증가하고 있다. 본 연구에서는 아두이노 기반의 IoT 기술을 활용해 옷장 내부의 습도를 제어하고 UV 살균 기능을 수행할 수 있는 스마트 옷장을 설계하고 구현하였다. 제안 시스템은 온습도 센서를 통해 옷장 내부 환경을 실시간으로 모니터링하고, 사용자가 설정한 조건에 따라 제습 또는 가습 장치를 제어하며, UV 램프를 이용해 위생적인 보관 환경을 제공한다. 또한 NFC를 활용해 의류의 소재, 색상, 계절성, 세탁 방법 등의 정보를 저장하고, 이를 바탕으로 날씨 기반 옷차림 추천 기능과 세탁 정보 제공 기능을 구현하였다. 아울러 본 연구는 현재 구현된 IoT 기반 기능을 바탕으로 향후 AI 기술을 접목한 확장 가능성을 함께 제안한다. 의류 이미지 인식, 개인화 추천, 세탁 및 살균 시점 예측과 같은 AI 기반 기능은 사용자의 수동 입력 부담을 줄이고, 보다 정교한 의류 관리 서비스를 제공하는 방향으로 발전할 수 있다. 따라서 본 연구는 의류 보관 환경 개선, 위생 관리, 사용자 편의성 향상, 지속 가능한 의류 소비 인식 제고에 기여할 수 있는 스마트 의류 관리 시스템의 가능성을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382694",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.008",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003382691",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "랜덤포레스트를 통한 작업형태별 안전모 자이로센서 기준값 설정",
+                        "authors":  [
+                                        "이상수",
+                                        "손윤정",
+                                        "김웅식"
+                                    ],
+                        "journal":  "인공지능융합기술연구",
+                        "date":  "2026-09",
+                        "abstract":  "본 논문은 안전을 위해 보호 목적으로 착용 중인 안전모에 장착된 자이로센서 데이터를 기반으로 수집된 IM-AccGyro 데이터 셋을 활용하여 작업 동작 별 목 부위 부담 여부를 판단하는 IMU 기반 기준값을 예측하였다. 대부분의 센서류는 중국산 제품으로 제조사에서 기준값을 결정하기 위한 정보를 충분히 제공하지 않아 IoT 기기나 각종 측정기를 제작할 때 어려움을 경험한다. 모든 항목의 기준값 설정에 도움이 되기엔 제한적이지만 본 연구에서의 센서 및 유사 제품의 경우 이를 활용하여, 추정함으로써, 안전 확보에 대한 신뢰도를 높이고, 각종 센서가 적용된 안전 보호구류의 성능 향상에 도움이 될 것으로 생각된다. 추가로 다양한 데이터 셋을 활용한 분석으로 연구가 이뤄진다면, 많은 후행 연구자에게 도움이 될 것으로 생각된다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382691",
+                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.005",
+                        "pdf":  ""
+                    },
+                    {
                         "id":  "kci:ART003394995",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3384,6 +3452,21 @@
                         "date":  "2026-09",
                         "abstract":  "AI-based music composition has evolved from explicit rule encoding and local symbolic prediction to end-to-end generation of integrated musical audio. This historical review examines representative systems that either introduced a distinct generative paradigm or achieved practical deployment. It traces the progression from rule-based and stochastic models through recurrent networks and Transformers to waveform, latent-audio, diffusion, flow-matching, hybrid, and multimodal approaches. Early models reproduced local transitions among notes, chords, and rhythms but struggled with long-range form and thematic development. Recurrent and attention-based architectures expanded temporal context, yet largely remained within symbolic prediction. Audio-level models shifted the generative target from musical instructions to sound itself, enabling joint modeling of structure, performance, timbre, texture, and acoustic realization. The review argues that the key historical transition was not simply an increase in model capacity, but a change in representational scope: from decomposing music into human-defined units to learning high-dimensional relationships more holistically. Current systems still face unresolved problems in long-term planning, fine-grained control, editability, and human–AI collaboration. Nevertheless, their development reflects a broader movement from automating compositional procedures toward modeling increasingly integrated stages of musical ideation and sound formation.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003395169",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003394888",
+                        "topic":  "ai-ml",
+                        "origin":  "KCI",
+                        "title":  "간호대학생의 인공지능 리터러시가 인공지능 윤리인식에 미치는 영향 : 공감능력의 매개효과",
+                        "authors":  [
+                                        "임이랑"
+                                    ],
+                        "journal":  "인공지능연구 논문지",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 간호대학생의 인공지능 리터러시가 인공지능 윤리인식에 미치는 영향에서 공감능력의 매개효과를 확인하기 위해 시도되었다. 연구대상자는 설문에 참여한 간호대학생 127명이었으며, 자료 수집은 2025년 12월 1일부터 15일까지 시행되었다. 수집된 자료는 빈도, 평균, t-test, ANOVA 및 Pearson’s correlation으로 분석하였으며, 매개효과는 Baron과 Kenny의 단계적 회귀분석 및 Sobel test를 활용하였다. 연구 결과, 인공지능 리터러시는 성별(t=2.099, p=0.038), 연령(F=7.896, p=0.001), 사용 빈도(F=4.828, p=0.01)에 따라 유의한 차이를 보였다. 인공지능 윤리인식은 연령(F=4.894, p=0.009)에 따라 유의한 차이가 있었다. 또한 인공지능 윤리인식은 공감능력(r=0.540, p\u003c0.001) 및 인공지능 리터러시(r=0.428, p\u003c0.001)와 유의한 정적 상관관계가 확인되었다. 마지막으로 인공지능 리터러시와 윤리인식의 관계에서 공감능력의 부분매개효과가 입증되었다(Z=3.93, p\u003c0.001). 이상의 결과를 토대로 예비 간호사의 인공지능 윤리인식을 고취하기 위해서는 단순한 기술 활용 교육을 넘어, 타인의 권리를 존중하고 가치를 고려하는 공감능력 배양 교육이 반드시 병행되어야 함을 제언한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394888",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3464,89 +3547,6 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003382688",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "YOLO와 DeepSORT 기반 실시간 객체 검출 및 추적 기법의 성능 분석",
-                        "authors":  [
-                                        "강성관"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "본 논문에서는 YOLO(You Only Look Once)와 DeepSORT(Simple Online and Realtime Tracking with a Deep Association Metric)를 결합한 실시간 사람 객체 추적 기법을 구현하고, 실시간 사람 객체 추적 환경에서 성능을 분석하였다. 기존의 CNN 기반 객체 검출·추적은 높은 정확도와 자동 특징 학습이 장점이나, 연산량이 커 실시간 처리와 복잡한 환경 대응에는 한계가 있다. 이러한 문제를 해결하기 위하여 본 연구에서는 one-stage detector인 YOLO를 활용하여 입력 영상에서 사람 객체를 빠르게 검출하고, DeepSORT 알고리즘을 적용하여 각 객체의 고유 ID를 유지하면서 프레임 간 연속적인 추적을 수행하는 통합 구조를 설계하였다. 특히 DeepSORT는 칼만 필터 기반의 상태 예측과 appearance feature 기반의 데이터 연관(Data Association)을 결합함으로써 객체 간 혼동을 최소화하고 추적 안정성을 향상시킨다. 실험 결과, 제안 방법은 기존 Faster R-CNN 기반 방법 대비 약 4배 이상의 처리 속도(FPS)를 향상시키면서도 유사한 수준의 검출 정확도(mAP)를 유지하는 것을 확인하였다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382688",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.002",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382697",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "웨어러블 기반 신체활동과 건강 인식을 통한 청년층의 잠재적 건강 취약성 평가",
-                        "authors":  [
-                                        "강진호",
-                                        "맹규호",
-                                        "최다빈",
-                                        "박준모",
-                                        "박캐서린"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "웨어러블 기반 건강 모니터링은 예방의학 분야에서 활용이 확대되고 있으나, 대부분 고령층을 대상으로 수행되어 젊은 성인에 대한 객관적 건강 모니터링 연구는 부족하다. 젊은 성인은 저위험군으로 간주되어 건강 평가가 자가보고에 의존하는 경향이 있다. 본 연구는 젊은 성인의 예방적 건강 모니터링 필요성을 탐색하고자 성인 56명을 대상으로 48시간 동안 수집한 관성측정장치(IMU) 기반 신체활동 데이터와 자가보고식 건강 평가를 활용하여 연령집단 간 객관적 신체활동과 주관적 건강 인식을 탐색적으로 비교하고 잠재적 건강 취약성을 평가하였다. 분석 결과, 젊은 성인(40세 미만)은 만성질환 유병률이 낮았음에도 성별 보정 후 중고령 성인(40세 이상)보다 중강도 신체활동 및 중강도-고강도 신체활동(MVPA) 비율이 낮고 저강도 신체활동 비율은 높았으며, EQ-5D-5L로 평가한 기능적 건강 상태는 더 양호하였다. 반면, 보행 수와 EQ-VAS의 집단 간 차이는 성별 보정 후 유의하지 않았다. 이러한 결과는 본 연구의 젊은 성인 표본에서 활동 강도 구성의 잠재적 취약성을 시사하며, 웨어러블 기반 예방적 건강 모니터링에 대한 추가 검증의 필요성을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382697",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.011",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382694",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "IoT기반 스마트 옷장 설계 및 구현을 통한 의류 케어 시스템 연구",
-                        "authors":  [
-                                        "하예솔",
-                                        "노혜련",
-                                        "권구주"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "패스트 패션의 확산은 의류의 대량 생산과 소비를 가속화하였으며 이로 인해 의류 폐기물 증가와 환경 오염 문제가 심화되고 있다. 또한 의류 보관 과정에서 발생할 수 있는 습기, 악취, 세균 번식 문제는 의류의 품질 저하뿐 아니라 개인 위생 측면에서도 관리가 필요한 요소로 인식되고 있다. 이에 따라 단순한 의류 보관 기능을 넘어 의류의 상태를 체계적으로 관리하고 사용자 편의성을 높일 수 있는 스마트 옷장 시스템의 필요성이 증가하고 있다. 본 연구에서는 아두이노 기반의 IoT 기술을 활용해 옷장 내부의 습도를 제어하고 UV 살균 기능을 수행할 수 있는 스마트 옷장을 설계하고 구현하였다. 제안 시스템은 온습도 센서를 통해 옷장 내부 환경을 실시간으로 모니터링하고, 사용자가 설정한 조건에 따라 제습 또는 가습 장치를 제어하며, UV 램프를 이용해 위생적인 보관 환경을 제공한다. 또한 NFC를 활용해 의류의 소재, 색상, 계절성, 세탁 방법 등의 정보를 저장하고, 이를 바탕으로 날씨 기반 옷차림 추천 기능과 세탁 정보 제공 기능을 구현하였다. 아울러 본 연구는 현재 구현된 IoT 기반 기능을 바탕으로 향후 AI 기술을 접목한 확장 가능성을 함께 제안한다. 의류 이미지 인식, 개인화 추천, 세탁 및 살균 시점 예측과 같은 AI 기반 기능은 사용자의 수동 입력 부담을 줄이고, 보다 정교한 의류 관리 서비스를 제공하는 방향으로 발전할 수 있다. 따라서 본 연구는 의류 보관 환경 개선, 위생 관리, 사용자 편의성 향상, 지속 가능한 의류 소비 인식 제고에 기여할 수 있는 스마트 의류 관리 시스템의 가능성을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382694",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.008",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003382691",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "랜덤포레스트를 통한 작업형태별 안전모 자이로센서 기준값 설정",
-                        "authors":  [
-                                        "이상수",
-                                        "손윤정",
-                                        "김웅식"
-                                    ],
-                        "journal":  "인공지능융합기술연구",
-                        "date":  "2026-09",
-                        "abstract":  "본 논문은 안전을 위해 보호 목적으로 착용 중인 안전모에 장착된 자이로센서 데이터를 기반으로 수집된 IM-AccGyro 데이터 셋을 활용하여 작업 동작 별 목 부위 부담 여부를 판단하는 IMU 기반 기준값을 예측하였다. 대부분의 센서류는 중국산 제품으로 제조사에서 기준값을 결정하기 위한 정보를 충분히 제공하지 않아 IoT 기기나 각종 측정기를 제작할 때 어려움을 경험한다. 모든 항목의 기준값 설정에 도움이 되기엔 제한적이지만 본 연구에서의 센서 및 유사 제품의 경우 이를 활용하여, 추정함으로써, 안전 확보에 대한 신뢰도를 높이고, 각종 센서가 적용된 안전 보호구류의 성능 향상에 도움이 될 것으로 생각된다. 추가로 다양한 데이터 셋을 활용한 분석으로 연구가 이뤄진다면, 많은 후행 연구자에게 도움이 될 것으로 생각된다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003382691",
-                        "doi":  "http://dx.doi.org/10.23374/jaict.2026.6.3.005",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003394888",
-                        "topic":  "ai-ml",
-                        "origin":  "KCI",
-                        "title":  "간호대학생의 인공지능 리터러시가 인공지능 윤리인식에 미치는 영향 : 공감능력의 매개효과",
-                        "authors":  [
-                                        "임이랑"
-                                    ],
-                        "journal":  "인공지능연구 논문지",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 간호대학생의 인공지능 리터러시가 인공지능 윤리인식에 미치는 영향에서 공감능력의 매개효과를 확인하기 위해 시도되었다. 연구대상자는 설문에 참여한 간호대학생 127명이었으며, 자료 수집은 2025년 12월 1일부터 15일까지 시행되었다. 수집된 자료는 빈도, 평균, t-test, ANOVA 및 Pearson’s correlation으로 분석하였으며, 매개효과는 Baron과 Kenny의 단계적 회귀분석 및 Sobel test를 활용하였다. 연구 결과, 인공지능 리터러시는 성별(t=2.099, p=0.038), 연령(F=7.896, p=0.001), 사용 빈도(F=4.828, p=0.01)에 따라 유의한 차이를 보였다. 인공지능 윤리인식은 연령(F=4.894, p=0.009)에 따라 유의한 차이가 있었다. 또한 인공지능 윤리인식은 공감능력(r=0.540, p\u003c0.001) 및 인공지능 리터러시(r=0.428, p\u003c0.001)와 유의한 정적 상관관계가 확인되었다. 마지막으로 인공지능 리터러시와 윤리인식의 관계에서 공감능력의 부분매개효과가 입증되었다(Z=3.93, p\u003c0.001). 이상의 결과를 토대로 예비 간호사의 인공지능 윤리인식을 고취하기 위해서는 단순한 기술 활용 교육을 넘어, 타인의 권리를 존중하고 가치를 고려하는 공감능력 배양 교육이 반드시 병행되어야 함을 제언한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394888",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
                         "id":  "kci:ART003374368",
                         "topic":  "ai-ml",
                         "origin":  "KCI",
@@ -3559,52 +3559,6 @@
                         "abstract":  "생성형 AI의 급격한 확산은 예술 창작의 지형을 재편하며 창의성의 본질에 대한 새로운 질문을 제기하고 있다. 이와 관련해 본 연구는 AI가 산출하는 ‘기술적 우발성’에 주목한다. 이는 그 자체로 예술적 가치를 담보하는 것이 아니라, 인간 창작자의 감각적 안목에 기반한 반복적 개입을 통해 창의적 결과물로 전환된다. 이러한 인식 위에서 본고는 기존의 공학적 접근과 차별화되는 ‘프롬프트 노동(prompt labor)’의 개념을 정립한다. 개념이 과잉 포괄되는 것을 방지하고자, 그 정의를 알고리즘적 제약과 마찰하는 ‘협상’과 무수한 산출물 중 가치를 가려내는 ‘비평적 선별’의 실천으로 압축하였다. 본 연구는 이 재귀적 실천을 소외되지 않은 창조적 노동의 층위에서 탐색한다. 분석의 투명성을 확보하고자 ‘MNT2B 프로젝트’를 사례로 선정하였다. 이는 15개월간 5,000여 장의 원천 생성 이미지 모집단에서 330개의 최종 발표작을 도출해 낸 프로젝트이다. 연구 방법으로는 ‘프롬프트-산출 이미지-성찰 노트’의 삼항쌍을 분석 단위로 삼아, 보존된 창작 기록에 대한 주제 분석에 기반한 자문화기술지적 연구를 수행하였다. 음악 데이터를 시각 이미지로 번역하는 창작 과정을 심층 분석한 결과, 디퓨전 모델의 노이즈, 확률적 샘플링, 추론 기능 등 AI의 기술적 특성은 인간의 해석적⋅큐레이션⋅교육적⋅맥락화⋅협상적 노동과 유기적으로 결합되었다. 그리고 이 결합을 통해 ‘협업적 창의성’이 구성됨을 확인하였다. 이 과정에서 AI는 단순한 도구를 넘어, 인간의 의도를 확장하고 새로운 가능성을 모색하는 협력적 파트너로서 기능한다. 한편 인간 창작자는 AI 시스템의 생성 루프 안으로 깊숙이 개입하여 의미의 방향을 조율하고 최종적으로 결정하는 주체적 역할을 수행한다. 본 연구는 AI 창작을 자동화된 결과가 아닌 능동적인 과정과 ‘노동’의 산물로 재정의함으로써, 기술 결정론을 극복하고 인간 주체성의 새로운 위치를 성찰한다. 다만 단일 사례 연구가 지닌 일반화의 한계는 인정한다. 그럼에도 본 연구의 프레임워크가 AI 기반의 텍스트나 음악 생성 등 타 영역에 적용될 수 있다는 구조적 가설을 후속 연구 과제로 제안함으로써, 미래 AI 창작에 대한 이론적ㆍ실천적 단초를 제공하고자 한다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003374368",
                         "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003386010",
-                        "topic":  "e-gov",
-                        "origin":  "KCI",
-                        "title":  "공공행정 AI 도입에 대한 과장급 공무원의 인식 유형 연구: AI 도입의 전제조건과 우선순위에 관한 Q방법론적 탐색",
-                        "authors":  [
-                                        "김란",
-                                        "김세헌"
-                                    ],
-                        "journal":  "정보화정책",
-                        "date":  "2026-09",
-                        "abstract":  "공공부문에서 인공지능(AI) 도입과 활용이 본격화되고 있으나, 도입의 실질적 실행을 조정하는 중간관리자의 인식에 대한 체계적 연구는 여전히 충분하지 않다. 이에 본 연구는 정책 기획과 현장 집행을 연결하는 과장급 공무원 42명을 대상으로 Q방법론을 적용하여 AI 도입의 전제조건과 우선순위에 관한 인식 유형을 탐색하였다. 분석 결과, 단순·반복 업무를 시작으로 한 단계적 확산을 지지하는 ‘위험 최소화 수용형’, 법적·제도적 기반의 정비를 우선시하는 ‘제도 우선형’, 처리 과정의 검증 시스템과 신뢰 확보를 중시하는 ‘신뢰성 우선형’, 규제 완화와 성과 중심의 신속한 도입을 강조하는 ‘성과 우선형’의 네 가지 유형이 도출되었다. 이는 공무원들이 기술 자체에 대한 일률적 찬반이 아니라, 각자가 중시하는 행정 가치에 따라 AI 도입의 속도와 전제조건에 서로 다른 우선순위를 부여함을 보여준다.본 연구는 공공부문 AI 도입 전략 수립에서 기술적 준비도뿐 아니라 관리자의 인식적 준비도를 함께 고려하는 맞춤형 포트폴리오 접근의 필요성을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003386010",
-                        "doi":  "http://dx.doi.org/10.22693/NIAIP.2026.33.3.035",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003386103",
-                        "topic":  "e-gov",
-                        "origin":  "KCI",
-                        "title":  "AI 알고리즘 기술과 민주주의: 구조모형 분석",
-                        "authors":  [
-                                        "김정연"
-                                    ],
-                        "journal":  "정보화정책",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구에서는 AI 알고리즘 기반 정치 기술 확산이 시민의 민주주의 평가와 기대 인식에 미치는 영향을 분석하였다. 2025년 조사 전문 기관 리서치앤리서치에서 실시한 설문조사 자료를 활용, 민주주의 구성요소인 기본권 보장, 절차적 정당성, 실질적 민주성을 잠재변수로 설정하여 구조방정식 모형을 적용하였다. 분석 결과, AI 기술 발전은 민주성 기능 측면에서 부정성 인식을 발생시키는 한편, 민주주의 발전에 대한 기대감을 높이는 상반된 경로를 보였다. 이는 기술적 효용에 대한 기대와 민주주의 가치 훼손에 대한 우려가 공존하는 이중적 구조가 있음을 의미한다. 또한, 시민들의 인식 유형을 잠재프로파일분석으로 살펴보았는데, 민주주의 고신뢰형 · 부분적 신뢰형 · 불신형의 세 집단으로 분화되었다. 이러한 집단 소속은 AI 인식 수준과 인구통계학적 요인에 의해 유의미하게 예측되는 것으로 나타났다. 이는 AI 기술이 시민들의 민주주의 인식과 제도 신뢰를 균질하게 변화시키기보다는, 개인의 인지 구조에 따라 차별화된 반응을 유도함을 시사한다. 본 연구에서는 책임성, 투명성, 인간의 개입 등 AI 거버넌스 핵심 원칙이 시민의 민주주의 인식에 실질적 영향을 미칠 수 있음을 확인함으로써, 향후 민주적 기술 활용을 위한 제도 설계의 필요성을 뒷받침한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003386103",
-                        "doi":  "http://dx.doi.org/10.22693/NIAIP.2026.33.3.018",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003385901",
-                        "topic":  "e-gov",
-                        "origin":  "KCI",
-                        "title":  "생성형 AI가 사용자 인지역량에 미치는 영향과 정책적 시사점",
-                        "authors":  [
-                                        "임일"
-                                    ],
-                        "journal":  "정보화정책",
-                        "date":  "2026-09",
-                        "abstract":  "대규모 언어 모델(Large Language Model, LLM)을 비롯한 생성형 AI의 급격한 확산은 지식 노동과 학습 환경에 전례 없는 생산성 향상을 제공하지만, 이와 동시에 인지적 외주화(cognitive offloading)를 유도하여 인간 고유의 비판적 사고, 독립적 추론, 장기 기억 능력을 저해할 위험을 안고 있다. 본 논문은 정보시스템(Information Systems: IS), 심리학, 인간-컴퓨터 상호작용(Human-Computer Interaction: HCI), 신경과학 및 교육학 분야의 최신 문헌을 종합하여 LLM이 인간의 인지역량에 미치는 영향에 대하여 이론적, 실증적 연구 결과를 조사하고 통합적인 재해석을 제시하였다. 종합하면, 습관적인 AI 의존은 (1) ‘인지 부(cognitive debt)’의 누적, (2) 메타인지적 게으름(metacognitive laziness)과 시간 단축의 착각(speedup illusion), (3) ‘주권의 함정(sovereignty trap)’과 신념의 외주화(belief offloading), (4) 스키마 형성 붕괴에 따른 ‘속 빈 마음(hollowed mind)’ 상태를 초래할 수 있는 것으로 나타났다. 본 연구에서는 이러한 인지적 쇠퇴 완화를 위한 방안으로 AI 설계 측면과 AI를 활용한 교육 측면에서 몇 가지 방안을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003385901",
-                        "doi":  "http://dx.doi.org/10.22693/NIAIP.2026.33.3.003",
                         "pdf":  ""
                     },
                     {
@@ -3638,17 +3592,65 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003384312",
+                        "id":  "kci:ART003386103",
                         "topic":  "e-gov",
                         "origin":  "KCI",
-                        "title":  "영상 플랫폼 공적가치 인식에 따른 수용자 유형과 특성",
+                        "title":  "AI 알고리즘 기술과 민주주의: 구조모형 분석",
                         "authors":  [
-                                        "오하영"
+                                        "김정연"
+                                    ],
+                        "journal":  "정보화정책",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구에서는 AI 알고리즘 기반 정치 기술 확산이 시민의 민주주의 평가와 기대 인식에 미치는 영향을 분석하였다. 2025년 조사 전문 기관 리서치앤리서치에서 실시한 설문조사 자료를 활용, 민주주의 구성요소인 기본권 보장, 절차적 정당성, 실질적 민주성을 잠재변수로 설정하여 구조방정식 모형을 적용하였다. 분석 결과, AI 기술 발전은 민주성 기능 측면에서 부정성 인식을 발생시키는 한편, 민주주의 발전에 대한 기대감을 높이는 상반된 경로를 보였다. 이는 기술적 효용에 대한 기대와 민주주의 가치 훼손에 대한 우려가 공존하는 이중적 구조가 있음을 의미한다. 또한, 시민들의 인식 유형을 잠재프로파일분석으로 살펴보았는데, 민주주의 고신뢰형 · 부분적 신뢰형 · 불신형의 세 집단으로 분화되었다. 이러한 집단 소속은 AI 인식 수준과 인구통계학적 요인에 의해 유의미하게 예측되는 것으로 나타났다. 이는 AI 기술이 시민들의 민주주의 인식과 제도 신뢰를 균질하게 변화시키기보다는, 개인의 인지 구조에 따라 차별화된 반응을 유도함을 시사한다. 본 연구에서는 책임성, 투명성, 인간의 개입 등 AI 거버넌스 핵심 원칙이 시민의 민주주의 인식에 실질적 영향을 미칠 수 있음을 확인함으로써, 향후 민주적 기술 활용을 위한 제도 설계의 필요성을 뒷받침한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003386103",
+                        "doi":  "http://dx.doi.org/10.22693/NIAIP.2026.33.3.018",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003385901",
+                        "topic":  "e-gov",
+                        "origin":  "KCI",
+                        "title":  "생성형 AI가 사용자 인지역량에 미치는 영향과 정책적 시사점",
+                        "authors":  [
+                                        "임일"
+                                    ],
+                        "journal":  "정보화정책",
+                        "date":  "2026-09",
+                        "abstract":  "대규모 언어 모델(Large Language Model, LLM)을 비롯한 생성형 AI의 급격한 확산은 지식 노동과 학습 환경에 전례 없는 생산성 향상을 제공하지만, 이와 동시에 인지적 외주화(cognitive offloading)를 유도하여 인간 고유의 비판적 사고, 독립적 추론, 장기 기억 능력을 저해할 위험을 안고 있다. 본 논문은 정보시스템(Information Systems: IS), 심리학, 인간-컴퓨터 상호작용(Human-Computer Interaction: HCI), 신경과학 및 교육학 분야의 최신 문헌을 종합하여 LLM이 인간의 인지역량에 미치는 영향에 대하여 이론적, 실증적 연구 결과를 조사하고 통합적인 재해석을 제시하였다. 종합하면, 습관적인 AI 의존은 (1) ‘인지 부(cognitive debt)’의 누적, (2) 메타인지적 게으름(metacognitive laziness)과 시간 단축의 착각(speedup illusion), (3) ‘주권의 함정(sovereignty trap)’과 신념의 외주화(belief offloading), (4) 스키마 형성 붕괴에 따른 ‘속 빈 마음(hollowed mind)’ 상태를 초래할 수 있는 것으로 나타났다. 본 연구에서는 이러한 인지적 쇠퇴 완화를 위한 방안으로 AI 설계 측면과 AI를 활용한 교육 측면에서 몇 가지 방안을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003385901",
+                        "doi":  "http://dx.doi.org/10.22693/NIAIP.2026.33.3.003",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003386010",
+                        "topic":  "e-gov",
+                        "origin":  "KCI",
+                        "title":  "공공행정 AI 도입에 대한 과장급 공무원의 인식 유형 연구: AI 도입의 전제조건과 우선순위에 관한 Q방법론적 탐색",
+                        "authors":  [
+                                        "김란",
+                                        "김세헌"
+                                    ],
+                        "journal":  "정보화정책",
+                        "date":  "2026-09",
+                        "abstract":  "공공부문에서 인공지능(AI) 도입과 활용이 본격화되고 있으나, 도입의 실질적 실행을 조정하는 중간관리자의 인식에 대한 체계적 연구는 여전히 충분하지 않다. 이에 본 연구는 정책 기획과 현장 집행을 연결하는 과장급 공무원 42명을 대상으로 Q방법론을 적용하여 AI 도입의 전제조건과 우선순위에 관한 인식 유형을 탐색하였다. 분석 결과, 단순·반복 업무를 시작으로 한 단계적 확산을 지지하는 ‘위험 최소화 수용형’, 법적·제도적 기반의 정비를 우선시하는 ‘제도 우선형’, 처리 과정의 검증 시스템과 신뢰 확보를 중시하는 ‘신뢰성 우선형’, 규제 완화와 성과 중심의 신속한 도입을 강조하는 ‘성과 우선형’의 네 가지 유형이 도출되었다. 이는 공무원들이 기술 자체에 대한 일률적 찬반이 아니라, 각자가 중시하는 행정 가치에 따라 AI 도입의 속도와 전제조건에 서로 다른 우선순위를 부여함을 보여준다.본 연구는 공공부문 AI 도입 전략 수립에서 기술적 준비도뿐 아니라 관리자의 인식적 준비도를 함께 고려하는 맞춤형 포트폴리오 접근의 필요성을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003386010",
+                        "doi":  "http://dx.doi.org/10.22693/NIAIP.2026.33.3.035",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003384113",
+                        "topic":  "e-gov",
+                        "origin":  "KCI",
+                        "title":  "QoS 기반 전국민안심요금제의 실효성에 대한 연구: 사용자 체감 품질(QoE) 분석을 중심으로",
+                        "authors":  [
+                                        "홍석주",
+                                        "이대호",
+                                        "김민서"
                                     ],
                         "journal":  "정보통신정책연구",
                         "date":  "2026-09",
-                        "abstract":  "이 연구는 TV 방송채널, 국내 OTT, 글로벌 OTT, 유튜브에 대한 수용자의 공적가치 인식을 비교하고, 그 인식에 따라 수용자를 유형화하였다. 기존 연구가 공영방송을 공적가치 실현의 주체이자 평가 대상으로 삼아 왔다면, 여러 플랫폼이 병존하는 환경에서 수용자가 그 가치를 어디에서 제공받는다고 인식하는지에 주목하였다. 이를 위해 성인 973명의 설문 응답 자료를 분석하였다. 다양성, 뉴스⋅시사, 품질⋅범위, 수용자 관련성, 사회적 대화, 국민적 공유 등 여섯 가지 공적가치를 공통 기준 삼아 각 플랫폼이 해당 가치에 부합하는 콘텐츠를 얼마나 잘 제공한다고 인식하는지 측정하였으며, 그 평가 조합을 바탕으로 군집분석을 실시하였다. 연구 결과, 수용자는 TV 방송채널과 국내 OTT를 높게 평가하는 ‘국내 플랫폼 고평가형’, 유튜브만을 높게 평가하는 ‘유튜브 단독 고평가형’, 글로벌 OTT와 유튜브를 높게 평가하는 ‘글로벌 플랫폼 고평가형’으로 구분되었다. 수용자는 방송을 넘어 OTT와 유튜브 역시 공적가치 제공처로 인식하고, 플랫폼에 대한 평가는 수용자 집단에 따라 다르게 나타난다. 이는 수용자가 공적가치를 제공받는다고 인식하는 플랫폼이 공적 책무를 부여받은 주체에 한정되지 않음을 의미하며, 공적가치를 제공할 책무가 누구에게 있는가와 수용자가 어느 플랫폼을 그 가치의 제공처로 인식하는가가 구별될 수 있음을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384312",
+                        "abstract":  "본 연구는 전국민안심요금제에서 데이터 소진 이후 적용되는 QoS(Quality of Service) 속도 기준이 실제 사용자 체감 품질(QoE, Quality of Experience)을 충분히 반영하는지에 대해 정량적으로 분석한다. 기존 통신 정책 논의는 주로 네트워크 성능을 나타내는 속도 중심의 QoS 지표에 기반하고 있으나, 이는 이용자가 실제로 경험하는 서비스 품질을 충분히 설명하지 못하는 한계를 가진다. 이에 본 연구는 국제전기통신연합(ITU-T)의 표준 QoE 평가 모형을 적용하여, 정책적으로 논의되는 두 가지 속도 수준(400kbps, 1Mbps)이 비디오 스트리밍, 웹 브라우징, 인스턴트 메신저의 세 가지 주요 서비스에서 어떠한 체감 품질 차이를 유발하는지를 시뮬레이션 방식으로 분석하였다. 분석 결과, 400kbps 환경에서는 통합 QoE가 ‘나쁨(Poor)’ 수준에 머무르며 실질적인 서비스 이용에 제약이 발생하는 반면, 1Mbps 환경에서는 ‘보통(Fair)’ 이상의 수준으로 개선되어 일상적 서비스 이용이 가능한 임계값으로 작용하는 것으로 나타났다. 또한 서비스 유형에 따라 QoE 민감도가 상이하게 나타나, 단일 속도 기준이 사용자 경험을 충분히 반영하지 못함을 확인하였다. 본 연구는 QoS 중심의 속도 규제가 사용자 후생을 충분히 설명하지 못한다는 점을 실증적으로 제시하며, 향후 통신 정책이 QoE 기반의 사용자 경험 중심으로 전환될 필요가 있음을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384113",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3685,65 +3687,17 @@
                         "pdf":  ""
                     },
                     {
-                        "id":  "kci:ART003384113",
+                        "id":  "kci:ART003384312",
                         "topic":  "e-gov",
                         "origin":  "KCI",
-                        "title":  "QoS 기반 전국민안심요금제의 실효성에 대한 연구: 사용자 체감 품질(QoE) 분석을 중심으로",
+                        "title":  "영상 플랫폼 공적가치 인식에 따른 수용자 유형과 특성",
                         "authors":  [
-                                        "홍석주",
-                                        "이대호",
-                                        "김민서"
+                                        "오하영"
                                     ],
                         "journal":  "정보통신정책연구",
                         "date":  "2026-09",
-                        "abstract":  "본 연구는 전국민안심요금제에서 데이터 소진 이후 적용되는 QoS(Quality of Service) 속도 기준이 실제 사용자 체감 품질(QoE, Quality of Experience)을 충분히 반영하는지에 대해 정량적으로 분석한다. 기존 통신 정책 논의는 주로 네트워크 성능을 나타내는 속도 중심의 QoS 지표에 기반하고 있으나, 이는 이용자가 실제로 경험하는 서비스 품질을 충분히 설명하지 못하는 한계를 가진다. 이에 본 연구는 국제전기통신연합(ITU-T)의 표준 QoE 평가 모형을 적용하여, 정책적으로 논의되는 두 가지 속도 수준(400kbps, 1Mbps)이 비디오 스트리밍, 웹 브라우징, 인스턴트 메신저의 세 가지 주요 서비스에서 어떠한 체감 품질 차이를 유발하는지를 시뮬레이션 방식으로 분석하였다. 분석 결과, 400kbps 환경에서는 통합 QoE가 ‘나쁨(Poor)’ 수준에 머무르며 실질적인 서비스 이용에 제약이 발생하는 반면, 1Mbps 환경에서는 ‘보통(Fair)’ 이상의 수준으로 개선되어 일상적 서비스 이용이 가능한 임계값으로 작용하는 것으로 나타났다. 또한 서비스 유형에 따라 QoE 민감도가 상이하게 나타나, 단일 속도 기준이 사용자 경험을 충분히 반영하지 못함을 확인하였다. 본 연구는 QoS 중심의 속도 규제가 사용자 후생을 충분히 설명하지 못한다는 점을 실증적으로 제시하며, 향후 통신 정책이 QoE 기반의 사용자 경험 중심으로 전환될 필요가 있음을 시사한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384113",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003394523",
-                        "topic":  "e-gov",
-                        "origin":  "KCI",
-                        "title":  "도서지역 거주 여부와 디지털 활용 편익 인식의 관계: 디지털 역량 인식과 디지털 활용의 매개효과를 중심으로",
-                        "authors":  [
-                                        "유상미"
-                                    ],
-                        "journal":  "한국지역정보화학회지",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 전라남도 서남권 도서지역 거주 여부와 디지털 활용 편익 인식 간의 관계를 분석하고, 그 과 정에서 디지털 역량 인식과 디지털 활용의 매개효과를 실증적으로 검증하는 것을 목적으로 하였다. 이를 위해 전라남도 서남권 도서지역과 비도서지역 주민 462명을 대상으로 수집한 설문자료를 활용하여 독립 표본 t-검정, 확인적 요인분석(CFA), 구조방정식모형(SEM) 및 Bootstrap(5,000회) 분석을 실시하였다. 분석 결과, 첫째, 도서지역 주민은 비도서지역 주민보다 디지털 역량 인식, 디지털 활용 및 디지털 활용 편익 인식 수준이 모두 유의하게 낮았다. 둘째, 인구사회학적 특성을 통제한 구조모형에서 도서지역 거주 여부는 디지털 역량 인식과 유의한 부(-)의 관련성을 보였으나, 디지털 활용 및 디지털 활용 편익 인식과의 직접경로는 유의하지 않았다. 반면 디지털 역량 인식은 디지털 활용 및 디지털 활용 편익 인식과 유의한 정 (+)의 관련성을 보였다. 셋째, Bootstrap 분석 결과, 도서지역 거주 여부와 디지털 활용 편익 인식 간의 관 계에서 디지털 역량 인식을 통한 간접효과만 유의하였으며, 디지털 활용만을 통한 간접효과와 순차적 간접 효과는 유의하지 않았다. 이상의 결과는 도서지역 거주 여부와 디지털 활용 편익 인식 간의 관계에서 디지털 역량 인식이 중요한 간접경로로 작용할 가능성을 시사한다. 또한 본 연구는 도서지역이라는 공간적 맥락에서 디지털 역량 인식 과 디지털 활용 편익 인식 간의 관계를 실증적으로 검토하고, 제3수준 디지털 정보격차 논의와 관련하여 개인이 인식하는 디지털 활용 편익의 차원을 분석하였다는 점에서 학술적 의의를 가진다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394523",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003394521",
-                        "topic":  "e-gov",
-                        "origin":  "KCI",
-                        "title":  "생성형 인공지능의 법적 쟁점과 규제에 관한 연구",
-                        "authors":  [
-                                        "이우철"
-                                    ],
-                        "journal":  "한국지역정보화학회지",
-                        "date":  "2026-09",
-                        "abstract":  "생성형 인공지능 기술은 세계 각국의 산업과 개인의 생활 구조를 획기적으로 변화시킨 범용기술로서 사 회 전반에 다양한 효율성을 제공하고 있다. 그러나 Open AI의 ChatGPT, Google의 Gemini 등과 같은 거대 언어모델의 발전과 더불어 데이터를 순차적으로 처리하던 기존의 순환 신경망 방식이 트랜스포머 알고리즘에 기반한 비가역적 데이터 처리 구조 방식으로 변화하며 전통적 데이터 처리방식과 투명한 정보 흐 름을 전제로 설계된 개인정보보호 체계에 마찰이 나타나고 있다. 이에 본 연구에서는 생성형 AI의 법적 쟁점 부분을 입력, 내재화, 출력의 3단계로 구분하여 각 단계에서 발생하는 규범적 쟁점과 한계를 살펴보고 정보 주체의 실질적 통제권이 어떻게 상실되고 있는지를 분석하였다. 정보의 수집 단계에서는 사전동의 패러다임이 형해화되고, 내재화 단계에서는 개인정보가 파라미터 가중치로 분산･저장되어 열람권 및 삭제권 의 기술적 이행 불능 상태가 발생하였으며, 출력 단계에서는 환각 현상과 딥페이크 생성물 등 인공지능 출력물에 의한 개인의 권리 침해가 확산되고 있다. 이러한 기술적 한계와 구조적 위험을 넘어 정보 주체인 개 인이 자기 정보에 대한 실질적 통제권을 확보하기 위해서는 설명 가능한 AI의 법제화를 통한 투명성 확보 가 이루어져야 하고, 인공지능의 의사결정 과정에 인간 개입을 통한 최종승인권이 보장되어 인공지능 시스 템 운용의 감독자로서 인간의 자율성을 보장해야 한다. 또한, 개인정보의 정정 및 삭제권 보장을 위해 물리 적 파기를 대체할 수 있는 기능적 억제 방향으로의 유연한 규범 적용과 기술적 표준 정립을 통한 법적 표준 화도 필요하다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394521",
-                        "doi":  "",
-                        "pdf":  ""
-                    },
-                    {
-                        "id":  "kci:ART003394522",
-                        "topic":  "e-gov",
-                        "origin":  "KCI",
-                        "title":  "지방정부 AI 전환에서 공공가치 위험과 협력 거버넌스: 예산군 고령운전자 이륜차 사고자동신고 시스템 사례를 기반으로",
-                        "authors":  [
-                                        "장은희",
-                                        "윤상오"
-                                    ],
-                        "journal":  "한국지역정보화학회지",
-                        "date":  "2026-09",
-                        "abstract":  "본 연구는 AI 도입이 확산되는 가운데, 지역 특성을 반영한 AI 정책이 주민의 생명과 안전이라는 공공가치를 실현하고 협력적 거버넌스를 형성하는 과정을 분석한다. 충남 예산군의 고령 운전자 이륜차 사고자동 신고 시스템을 사례로 Moore(1995)의 전략적 삼각형에 따라 목표가치, 정당성과 지지, 운영역량을 살펴 보았다. 이 시스템은 관성센서 데이터와 AI 모델로 사고 유무를 1차 판별하고 관제인력의 다단계 확인을 거쳐 신속한 구조를 지원한다. 그러나 도입 초기에는 고령자의 디지털 접근 제약과 위치정보 노출 우려, 외부 시행사에 대한 낮은 신뢰, 오신고 가능성에 대한 협력기관의 우려 등이 공공가치 위험으로 나타났다. 주민의 기술 수용에 영향을 미치는 요인과 협력기관의 우려를 파악하고, 운영방식과 대응 방법을 조정하였 다. 이때 마을 이장은 신뢰와 관계망이라는 사회적 자본을 바탕으로 시행사와 주민･공공기관을 연결하여 신뢰와 수용성을 높이고 협력적 거버넌스의 형성에 기여하였다. 본 연구는 AI가 기술에 머물지 않고 지역 정책으로 정착하기 위해서는 지역공동체 기반의 협력체계와 디지털 포용성, 그리고 이를 지속하기 위한 거버넌스 비용의 제도화가 필요함을 제시한다.",
-                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394522",
+                        "abstract":  "이 연구는 TV 방송채널, 국내 OTT, 글로벌 OTT, 유튜브에 대한 수용자의 공적가치 인식을 비교하고, 그 인식에 따라 수용자를 유형화하였다. 기존 연구가 공영방송을 공적가치 실현의 주체이자 평가 대상으로 삼아 왔다면, 여러 플랫폼이 병존하는 환경에서 수용자가 그 가치를 어디에서 제공받는다고 인식하는지에 주목하였다. 이를 위해 성인 973명의 설문 응답 자료를 분석하였다. 다양성, 뉴스⋅시사, 품질⋅범위, 수용자 관련성, 사회적 대화, 국민적 공유 등 여섯 가지 공적가치를 공통 기준 삼아 각 플랫폼이 해당 가치에 부합하는 콘텐츠를 얼마나 잘 제공한다고 인식하는지 측정하였으며, 그 평가 조합을 바탕으로 군집분석을 실시하였다. 연구 결과, 수용자는 TV 방송채널과 국내 OTT를 높게 평가하는 ‘국내 플랫폼 고평가형’, 유튜브만을 높게 평가하는 ‘유튜브 단독 고평가형’, 글로벌 OTT와 유튜브를 높게 평가하는 ‘글로벌 플랫폼 고평가형’으로 구분되었다. 수용자는 방송을 넘어 OTT와 유튜브 역시 공적가치 제공처로 인식하고, 플랫폼에 대한 평가는 수용자 집단에 따라 다르게 나타난다. 이는 수용자가 공적가치를 제공받는다고 인식하는 플랫폼이 공적 책무를 부여받은 주체에 한정되지 않음을 의미하며, 공적가치를 제공할 책무가 누구에게 있는가와 수용자가 어느 플랫폼을 그 가치의 제공처로 인식하는가가 구별될 수 있음을 시사한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003384312",
                         "doi":  "",
                         "pdf":  ""
                     },
@@ -3776,6 +3730,52 @@
                         "date":  "2026-09",
                         "abstract":  "본 연구는 공공부문의 인공지능 도입이 확산되는 상황에서, 조직 공정성, 능력주의, 조직 냉소주의의 인공지능 수용성에 대한 영향을 확인하였다. 특히 인공지능 수용성을 제고하는 측면에 초점을 두기보다는 조직 구성원이 어떠한 인식에서 인공지능 도입을 수용하려고 하는지를 확인하고자 하였다. 이러한 접근은 인공지능 기술 자체에 대한 개인 및 조직 인식을 중심으로 한 기존 연구와는 차별화된다. 분석대상은 중앙정 부와 지방정부 소속 공무원 725명에 대한 응답내용을 활용하였다. 분석결과 다중회귀분석에서는 능력주의가 채용, 업무, 성과평가 분야의 인공지능 수용성 모두에 대해 양의 영향을 끼쳤다. 조절효과분석에서는 조절변수 조직 냉소주의는 채용, 업무, 성과평가 모두에 직접적으로 긍정적인 영향을 끼쳤다. 조절효과분석에서 분배적 공정성과 능력주의와의 상호작용항은 양의 영향을 보이고, 상호작용 공정성과의 상호작용 항은 채용, 업무, 성과평가에 대해 부의 영향을 보였다.",
                         "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394520",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003394522",
+                        "topic":  "e-gov",
+                        "origin":  "KCI",
+                        "title":  "지방정부 AI 전환에서 공공가치 위험과 협력 거버넌스: 예산군 고령운전자 이륜차 사고자동신고 시스템 사례를 기반으로",
+                        "authors":  [
+                                        "장은희",
+                                        "윤상오"
+                                    ],
+                        "journal":  "한국지역정보화학회지",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 AI 도입이 확산되는 가운데, 지역 특성을 반영한 AI 정책이 주민의 생명과 안전이라는 공공가치를 실현하고 협력적 거버넌스를 형성하는 과정을 분석한다. 충남 예산군의 고령 운전자 이륜차 사고자동 신고 시스템을 사례로 Moore(1995)의 전략적 삼각형에 따라 목표가치, 정당성과 지지, 운영역량을 살펴 보았다. 이 시스템은 관성센서 데이터와 AI 모델로 사고 유무를 1차 판별하고 관제인력의 다단계 확인을 거쳐 신속한 구조를 지원한다. 그러나 도입 초기에는 고령자의 디지털 접근 제약과 위치정보 노출 우려, 외부 시행사에 대한 낮은 신뢰, 오신고 가능성에 대한 협력기관의 우려 등이 공공가치 위험으로 나타났다. 주민의 기술 수용에 영향을 미치는 요인과 협력기관의 우려를 파악하고, 운영방식과 대응 방법을 조정하였 다. 이때 마을 이장은 신뢰와 관계망이라는 사회적 자본을 바탕으로 시행사와 주민･공공기관을 연결하여 신뢰와 수용성을 높이고 협력적 거버넌스의 형성에 기여하였다. 본 연구는 AI가 기술에 머물지 않고 지역 정책으로 정착하기 위해서는 지역공동체 기반의 협력체계와 디지털 포용성, 그리고 이를 지속하기 위한 거버넌스 비용의 제도화가 필요함을 제시한다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394522",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003394523",
+                        "topic":  "e-gov",
+                        "origin":  "KCI",
+                        "title":  "도서지역 거주 여부와 디지털 활용 편익 인식의 관계: 디지털 역량 인식과 디지털 활용의 매개효과를 중심으로",
+                        "authors":  [
+                                        "유상미"
+                                    ],
+                        "journal":  "한국지역정보화학회지",
+                        "date":  "2026-09",
+                        "abstract":  "본 연구는 전라남도 서남권 도서지역 거주 여부와 디지털 활용 편익 인식 간의 관계를 분석하고, 그 과 정에서 디지털 역량 인식과 디지털 활용의 매개효과를 실증적으로 검증하는 것을 목적으로 하였다. 이를 위해 전라남도 서남권 도서지역과 비도서지역 주민 462명을 대상으로 수집한 설문자료를 활용하여 독립 표본 t-검정, 확인적 요인분석(CFA), 구조방정식모형(SEM) 및 Bootstrap(5,000회) 분석을 실시하였다. 분석 결과, 첫째, 도서지역 주민은 비도서지역 주민보다 디지털 역량 인식, 디지털 활용 및 디지털 활용 편익 인식 수준이 모두 유의하게 낮았다. 둘째, 인구사회학적 특성을 통제한 구조모형에서 도서지역 거주 여부는 디지털 역량 인식과 유의한 부(-)의 관련성을 보였으나, 디지털 활용 및 디지털 활용 편익 인식과의 직접경로는 유의하지 않았다. 반면 디지털 역량 인식은 디지털 활용 및 디지털 활용 편익 인식과 유의한 정 (+)의 관련성을 보였다. 셋째, Bootstrap 분석 결과, 도서지역 거주 여부와 디지털 활용 편익 인식 간의 관 계에서 디지털 역량 인식을 통한 간접효과만 유의하였으며, 디지털 활용만을 통한 간접효과와 순차적 간접 효과는 유의하지 않았다. 이상의 결과는 도서지역 거주 여부와 디지털 활용 편익 인식 간의 관계에서 디지털 역량 인식이 중요한 간접경로로 작용할 가능성을 시사한다. 또한 본 연구는 도서지역이라는 공간적 맥락에서 디지털 역량 인식 과 디지털 활용 편익 인식 간의 관계를 실증적으로 검토하고, 제3수준 디지털 정보격차 논의와 관련하여 개인이 인식하는 디지털 활용 편익의 차원을 분석하였다는 점에서 학술적 의의를 가진다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394523",
+                        "doi":  "",
+                        "pdf":  ""
+                    },
+                    {
+                        "id":  "kci:ART003394521",
+                        "topic":  "e-gov",
+                        "origin":  "KCI",
+                        "title":  "생성형 인공지능의 법적 쟁점과 규제에 관한 연구",
+                        "authors":  [
+                                        "이우철"
+                                    ],
+                        "journal":  "한국지역정보화학회지",
+                        "date":  "2026-09",
+                        "abstract":  "생성형 인공지능 기술은 세계 각국의 산업과 개인의 생활 구조를 획기적으로 변화시킨 범용기술로서 사 회 전반에 다양한 효율성을 제공하고 있다. 그러나 Open AI의 ChatGPT, Google의 Gemini 등과 같은 거대 언어모델의 발전과 더불어 데이터를 순차적으로 처리하던 기존의 순환 신경망 방식이 트랜스포머 알고리즘에 기반한 비가역적 데이터 처리 구조 방식으로 변화하며 전통적 데이터 처리방식과 투명한 정보 흐 름을 전제로 설계된 개인정보보호 체계에 마찰이 나타나고 있다. 이에 본 연구에서는 생성형 AI의 법적 쟁점 부분을 입력, 내재화, 출력의 3단계로 구분하여 각 단계에서 발생하는 규범적 쟁점과 한계를 살펴보고 정보 주체의 실질적 통제권이 어떻게 상실되고 있는지를 분석하였다. 정보의 수집 단계에서는 사전동의 패러다임이 형해화되고, 내재화 단계에서는 개인정보가 파라미터 가중치로 분산･저장되어 열람권 및 삭제권 의 기술적 이행 불능 상태가 발생하였으며, 출력 단계에서는 환각 현상과 딥페이크 생성물 등 인공지능 출력물에 의한 개인의 권리 침해가 확산되고 있다. 이러한 기술적 한계와 구조적 위험을 넘어 정보 주체인 개 인이 자기 정보에 대한 실질적 통제권을 확보하기 위해서는 설명 가능한 AI의 법제화를 통한 투명성 확보 가 이루어져야 하고, 인공지능의 의사결정 과정에 인간 개입을 통한 최종승인권이 보장되어 인공지능 시스 템 운용의 감독자로서 인간의 자율성을 보장해야 한다. 또한, 개인정보의 정정 및 삭제권 보장을 위해 물리 적 파기를 대체할 수 있는 기능적 억제 방향으로의 유연한 규범 적용과 기술적 표준 정립을 통한 법적 표준 화도 필요하다.",
+                        "url":  "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003394521",
                         "doi":  "",
                         "pdf":  ""
                     },
