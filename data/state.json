@@ -128302,7 +128302,7 @@
    "abstract": "Marginal reliability summarizes measurement precision across the full latent trait distribution in a single coefficient, obscuring how precisely a scale measures at different trait levels. The conditional standard error of measurement (CSEM) addresses this limitation, but the CSEM profile is itself an estimate and depends on the item response model chosen. This paper introduces csemIRT, an R package for CSEM analysis under the graded response model, the generalized partial credit model, the partial credit model, and the graded and Rasch rating scale models. The package places all CSEM profiles on a common latent metric, quantifies their sampling uncertainty with delta-method and bootstrap confidence bands, tests pointwise whether competing models imply different measurement precision, and reports the trait regions in which a target conditional reliability is reached. Three simulated datasets are included. csemIRT is applicable to any polytomous scale development and validation context and is freely available via GitHub.",
    "url": "https://doi.org/10.1177/01466216261502868",
    "doi": "10.1177/01466216261502868",
-   "pdf": "",
+   "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13719668/",
    "first_seen": "2026-10-31T10:42:48+09:00",
    "abstract_ko": "한계 신뢰도는 전체 잠재 특성 분포에 대한 측정 정밀도를 단일 계수로 요약하여 다양한 특성 수준에서 척도가 얼마나 정확하게 측정하는지 모호하게 만듭니다. 조건부 표준 측정 오류(CSEM)는 이러한 제한 사항을 해결하지만 CSEM 프로필 자체는 추정치이며 선택한 항목 응답 모델에 따라 다릅니다. 본 논문에서는 등급별 응답 모델, 일반 부분 학점 모델, 부분 학점 모델, 등급 및 Rasch 등급 척도 모델 하에서 CSEM 분석을 위한 R 패키지인 csemIRT를 소개합니다. 패키지는 모든 CSEM 프로파일을 공통 잠재 측정항목에 배치하고, 델타 방법 및 부트스트랩 신뢰 대역을 사용하여 샘플링 불확실성을 정량화하고, 경쟁 모델이 다른 측정 정밀도를 암시하는지 점별로 테스트하고, 목표 조건부 신뢰도에 도달하는 특성 영역을 보고합니다. 3개의 시뮬레이션된 데이터세트가 포함되어 있습니다. csemIRT는 모든 다형성 규모 개발 및 검증 컨텍스트에 적용 가능하며 GitHub를 통해 무료로 사용할 수 있습니다.",
    "abs_tries": 0,
@@ -128888,16 +128888,16 @@
    "id": "oa:W7224669390",
    "topic": "ai-ml",
    "origin": "OpenAlex",
-   "title": "The Algorithmic Scapegoat: Accountability Evasion and the Governance of Autonomous Promise–Fulfilment Misalignment in Agentic AI",
+   "title": "The algorithmic scapegoat: Accountability evasion and the governance of autonomous promise–fulfilment misalignment in agentic AI",
    "authors": [
     "Selcen Öztürkcan"
    ],
    "journal": "Journal of Responsible Technology",
-   "date": "2026-10-01",
+   "date": "2026-10-29",
    "abstract": "Agentic AI systems increasingly generate customer-facing commitments while shaping the operational decisions through which those commitments are fulfilled. When both functions converge within a single autonomous system, a governance problem arises that responsible-technology scholarship has not named: the capacity to generate commitments may exceed an organisation's verified ability, established rules, or willingness to honour them. Drawing on a multi-platform netnographic study of fifteen documented cases (2023–2026), I distinguish nine core cases in which AI systems both generate commitments and shape their fulfilment from six adjacent cases that fall outside this strict definition. Analysed through the Gioia methodology, the corpus yields three mechanisms: autonomous promise generation and the accountability vacuum, operational failure cascades, and a trust–data feedback loop. I conceptualise algorithmic scapegoating as a post-failure organisational manoeuvre through which responsibility is displaced onto the apparent autonomy or opacity of AI. The manoeuvre inverts the moral crumple zone and performs a responsibility gap it does not suffer. The empirical record documents the escalating branch of the resulting cycle, whereas the recursive trust–data relationship and the conditions under which escalation might be contained remain theoretical propositions requiring further investigation. Four governance features, comprising scope boundaries, verified knowledge, escalation architecture, and metric alignment, delineate the proposed conditions of containment; every documented core failure lacked at least one. I develop five propositions and consider their implications for AI accountability, responsible technology governance, and consumer welfare, and the adjacent cases indicate that the heaviest costs fall on those with least opportunity for recourse.",
    "url": "https://doi.org/10.1016/j.jrt.2026.100197",
    "doi": "10.1016/j.jrt.2026.100197",
-   "pdf": "https://doi.org/10.1016/j.jrt.2026.100197",
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S2666659626000491/pdf",
    "first_seen": "2026-10-31T10:42:48+09:00",
    "abs_tries": 1,
    "ko_tries": 0,
@@ -129331,7 +129331,7 @@
    "doi": "10.1016/j.jeconom.2026.106351",
    "pdf": "",
    "first_seen": "2026-11-01T10:19:53+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7224918980": {
@@ -129478,7 +129478,7 @@
    "abstract": "The Pickup-and-Delivery Problem with Time Windows (PDPTW) underpins emerging logistics applications such as ride-hailing and meal-delivery services. Hard time-window constraints make the PDPTW substantially more challenging than routing variants without temporal feasibility requirements. We propose an improvement heuristic, termed “Attention Model with Spatio-Temporal Encoder” (AMSTE). Starting from an initial feasible solution, AMSTE repeatedly applies a learned remove-and-reinsert move. Its encoder processes spatial and temporal information through separate pathways and concatenates the resulting embeddings for the removal and reinsertion decoders. The decoder mask rejects moves that violate precedence, capacity, same-vehicle, or time-window constraints. We evaluate AMSTE on synthetic instances of multiple scales and conduct a zero-shot distribution-shift evaluation on the R1, C1, and RC1 benchmark subsets. The transferred policy remains feasible on all tested instances, while the larger distance gap on C1 indicates that clustered geometry constitutes a stronger shift from the R1 training distribution. On the reported synthetic PDPTW-101 setting, AMSTE obtains an objective value 4.17% below LKH3 (10k) with substantially lower measured inference-time computation; the runtime comparison is qualified because AMSTE uses GPU batch inference whereas LKH3 runs on CPU.",
    "url": "https://doi.org/10.1145/3861015",
    "doi": "10.1145/3861015",
-   "pdf": "",
+   "pdf": "https://dl.acm.org/doi/pdf/10.1145/3861015?download=true",
    "first_seen": "2026-11-01T10:19:53+09:00",
    "abstract_ko": "PDPTW(Pick-and-Delivery Problem with Time Windows)는 차량 호출 및 식사 배달 서비스와 같은 새로운 물류 애플리케이션을 뒷받침합니다. 엄격한 시간 창 제약으로 인해 PDPTW는 시간적 타당성 요구 사항이 없는 라우팅 변형보다 훨씬 더 까다롭습니다. 우리는 \"AMSTE(Attention Model with Spatio-Temporal Encoder)\"라는 개선 휴리스틱을 제안합니다. AMSTE는 초기 실행 가능한 솔루션부터 시작하여 학습된 제거 및 재삽입 동작을 반복적으로 적용합니다. 인코더는 별도의 경로를 통해 공간적 및 시간적 정보를 처리하고 제거 및 재삽입 디코더를 위해 결과 임베딩을 연결합니다. 디코더 마스크는 우선순위, 용량, 동일 차량 또는 시간 창 제약을 위반하는 이동을 거부합니다. 우리는 여러 규모의 합성 인스턴스에서 AMSTE를 평가하고 R1, C1 및 RC1 벤치마크 하위 집합에 대해 제로샷 분포 이동 평가를 수행합니다. 전송된 정책은 테스트된 모든 인스턴스에서 실행 가능한 상태로 유지되는 반면, C1의 거리 차이가 더 크다는 것은 클러스터링된 지오메트리가 R1 훈련 분포에서 더 강한 변화를 구성한다는 것을 나타냅니다. 보고된 합성 PDPTW-101 설정에서 AMSTE는 상당히 낮은 측정 추론 시간 계산으로 LKH3(10k)보다 4.17% 낮은 목표값을 얻습니다. AMSTE는 GPU 배치 추론을 사용하는 반면 LKH3는 CPU에서 실행되기 때문에 런타임 비교가 적합합니다.",
    "abs_tries": 0,
@@ -129561,7 +129561,7 @@
    "doi": "10.1007/s43681-026-01457-w",
    "pdf": "",
    "first_seen": "2026-11-01T10:19:53+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7224940744": {
@@ -129795,9 +129795,11 @@
    "abstract": "Abstract Many emerging economies use science, technology and innovation policy to expand R&D personnel, but larger research workforces do not necessarily generate stronger innovation capability. This article examines this problem through Türkiye as an illustrative emerging-economy case, where R&D personnel and researcher numbers have grown rapidly while selected innovation-output indicators continue to signal unresolved capability gaps. Drawing on comparative secondary indicators and semi-structured interviews with 38 managers and engineers in eight technoparks and two R&D centres, the study uses absorptive capacity to interpret why headcount growth may produce uneven returns. Interviews point to four recurring constraints: practical project competence, digital capability, mid-career researcher retention and access to technopark knowledge flows. For science and public policy, the central implication is that workforce-expansion targets need complementary instruments that build and retain qualitative absorptive capacity in emerging-economy innovation systems.",
    "url": "https://doi.org/10.1093/scipol/scag087",
    "doi": "10.1093/scipol/scag087",
-   "pdf": "https://doi.org/10.1093/scipol/scag087",
+   "pdf": "https://academic.oup.com/spp/advance-article-pdf/doi/10.1093/scipol/scag087/72653518/scag087.pdf",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abstract_ko": "Abstract 많은 신흥 경제국에서는 R&D 인력을 확대하기 위해 과학, 기술 및 혁신 정책을 사용하지만 대규모 연구 인력이 반드시 더 강력한 혁신 역량을 창출하는 것은 아닙니다. 이 기사에서는 Türkiye를 통해 R&D 인력과 연구원 수가 급격히 증가한 반면 선택된 혁신 성과 지표는 해결되지 않은 역량 격차를 계속해서 나타내는 예시적인 신흥 경제 사례로서 이 문제를 조사합니다. 비교 2차 지표와 8개 테크노파크 및 2개 R&D 센터의 38명의 관리자 및 엔지니어와의 반구조적 인터뷰를 바탕으로 이 연구에서는 흡수 능력을 사용하여 인력 증가가 고르지 못한 수익을 가져올 수 있는 이유를 해석합니다. 인터뷰에서는 실용적인 프로젝트 역량, 디지털 역량, 중견 연구원 보유 및 테크노파크 지식 흐름에 대한 접근이라는 네 가지 반복되는 제약을 지적합니다. 과학 및 공공 정책의 경우 인력 확장 목표에는 신흥 경제 혁신 시스템에서 질적 흡수 역량을 구축하고 유지하는 보완적인 도구가 필요하다는 것이 핵심입니다."
+   "abstract_ko": "Abstract 많은 신흥 경제국에서는 R&D 인력을 확대하기 위해 과학, 기술 및 혁신 정책을 사용하지만 대규모 연구 인력이 반드시 더 강력한 혁신 역량을 창출하는 것은 아닙니다. 이 기사에서는 Türkiye를 통해 R&D 인력과 연구원 수가 급격히 증가한 반면 선택된 혁신 성과 지표는 해결되지 않은 역량 격차를 계속해서 나타내는 예시적인 신흥 경제 사례로서 이 문제를 조사합니다. 비교 2차 지표와 8개 테크노파크 및 2개 R&D 센터의 38명의 관리자 및 엔지니어와의 반구조적 인터뷰를 바탕으로 이 연구에서는 흡수 능력을 사용하여 인력 증가가 고르지 못한 수익을 가져올 수 있는 이유를 해석합니다. 인터뷰에서는 실용적인 프로젝트 역량, 디지털 역량, 중견 연구원 보유 및 테크노파크 지식 흐름에 대한 접근이라는 네 가지 반복되는 제약을 지적합니다. 과학 및 공공 정책의 경우 인력 확장 목표에는 신흥 경제 혁신 시스템에서 질적 흡수 역량을 구축하고 유지하는 보완적인 도구가 필요하다는 것이 핵심입니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7224989622": {
    "id": "oa:W7224989622",
@@ -129816,7 +129818,9 @@
    "doi": "10.1002/pad.70139",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pad.70139",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abstract_ko": "개요 현대 거버넌스는 유엔 지속가능발전목표(SDGs)에 따라 지속 가능성 문제를 해결하는 데 있어 다양한 행위자들 사이의 조화로운 참여로 점차 특징지어지고 있습니다. 여기서 네트워크 거버넌스 전략은 협업 능력 개발에 중요한 역할을 합니다. 본 연구는 SDG 15.3의 사막화 퇴치 및 황폐화된 토지 복원에 특히 초점을 맞춰 SDG 이행을 위한 파트너십 결과를 향상시키는 데 있어 네트워크 거버넌스 전략의 역할을 조사합니다. 특히, 네트워크 관리자가 수행하는 전략적 조치가 복잡한 환경 거버넌스 네트워크에서 공동 성과에 어떻게 영향을 미치는지 조사합니다. 혼합 방법 접근 방식을 사용하여 이 연구는 중국의 사막화 통제와 관련된 207개 조직의 응답자 301명에서 얻은 설문 조사 데이터와 소셜 네트워크 분석(SNA)을 결합합니다. 계층적 다변량 회귀 분석은 통제 및 협상과 같은 전통적인 계층적 전략이 상대적으로 제한된 영향력을 나타내는 반면, 이해관계자 참여, 시스템 사고 및 촉진을 강조하는 적응형 전략은 네트워크 결과를 크게 향상시키는 것으로 나타났습니다. 이해관계자 참여가 가장 영향력 있는 전략으로 등장하여 정부 기관, NGO, 기업 및 연구 기관 전반에 걸쳐 포용적인 참여와 지속적인 협력을 촉진하는 한편, 시스템적 사고와 촉진은 불확실한 상황에서 탄력성과 일관성을 더욱 강화합니다."
+   "abstract_ko": "개요 현대 거버넌스는 유엔 지속가능발전목표(SDGs)에 따라 지속 가능성 문제를 해결하는 데 있어 다양한 행위자들 사이의 조화로운 참여로 점차 특징지어지고 있습니다. 여기서 네트워크 거버넌스 전략은 협업 능력 개발에 중요한 역할을 합니다. 본 연구는 SDG 15.3의 사막화 퇴치 및 황폐화된 토지 복원에 특히 초점을 맞춰 SDG 이행을 위한 파트너십 결과를 향상시키는 데 있어 네트워크 거버넌스 전략의 역할을 조사합니다. 특히, 네트워크 관리자가 수행하는 전략적 조치가 복잡한 환경 거버넌스 네트워크에서 공동 성과에 어떻게 영향을 미치는지 조사합니다. 혼합 방법 접근 방식을 사용하여 이 연구는 중국의 사막화 통제와 관련된 207개 조직의 응답자 301명에서 얻은 설문 조사 데이터와 소셜 네트워크 분석(SNA)을 결합합니다. 계층적 다변량 회귀 분석은 통제 및 협상과 같은 전통적인 계층적 전략이 상대적으로 제한된 영향력을 나타내는 반면, 이해관계자 참여, 시스템 사고 및 촉진을 강조하는 적응형 전략은 네트워크 결과를 크게 향상시키는 것으로 나타났습니다. 이해관계자 참여가 가장 영향력 있는 전략으로 등장하여 정부 기관, NGO, 기업 및 연구 기관 전반에 걸쳐 포용적인 참여와 지속적인 협력을 촉진하는 한편, 시스템적 사고와 촉진은 불확실한 상황에서 탄력성과 일관성을 더욱 강화합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225009437": {
    "id": "oa:W7225009437",
@@ -129834,7 +129838,9 @@
    "doi": "10.1093/scipol/scag092",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abstract_ko": "Abstract 국가 과학, 기술 및 혁신(STI) 지표 시스템은 측정된 경제를 추적할 것으로 예상됩니다. 이 기사에서는 그렇지 않을 수도 있음을 보여주고 그 이유를 설명합니다. 이 연구는 4개 보고 단계(2002~2025)에 걸쳐 24개 국제 지식 기반 및 디지털 경제 프레임워크에서 반복되는 58개 지표에 대해 남아프리카의 국가 STI 지표 아키텍처를 벤치마킹합니다. 적용 범위는 매우 양극화되어 있습니다. 연구 개발 투자 및 지식 창출은 75% 이상의 적용 범위에 도달하는 반면, 디지털 기술 사용 및 디지털 공공 서비스는 10% 미만으로 41.4%의 가중치 적용 범위를 산출합니다. 유럽 ​​혁신 점수판 채택을 포함하여 4가지 아키텍처 단계에 걸쳐 3번의 연속적인 구조 전환이 이루어졌지만 이러한 분포는 바뀌지 않았습니다. 대부분의 중요 계층 격차에는 실행 가능한 데이터 소스가 있으며 이는 일반적인 데이터 부족이 아닌 조정 및 명령 제약 조건을 나타냅니다. 이 기사는 다른 국가 시스템의 프레임워크 채택이 측정 내용을 개선하는지 아니면 공식적인 적합성만을 생성하는지 평가하기 위한 측정 거버넌스 진단을 개발합니다."
+   "abstract_ko": "Abstract 국가 과학, 기술 및 혁신(STI) 지표 시스템은 측정된 경제를 추적할 것으로 예상됩니다. 이 기사에서는 그렇지 않을 수도 있음을 보여주고 그 이유를 설명합니다. 이 연구는 4개 보고 단계(2002~2025)에 걸쳐 24개 국제 지식 기반 및 디지털 경제 프레임워크에서 반복되는 58개 지표에 대해 남아프리카의 국가 STI 지표 아키텍처를 벤치마킹합니다. 적용 범위는 매우 양극화되어 있습니다. 연구 개발 투자 및 지식 창출은 75% 이상의 적용 범위에 도달하는 반면, 디지털 기술 사용 및 디지털 공공 서비스는 10% 미만으로 41.4%의 가중치 적용 범위를 산출합니다. 유럽 ​​혁신 점수판 채택을 포함하여 4가지 아키텍처 단계에 걸쳐 3번의 연속적인 구조 전환이 이루어졌지만 이러한 분포는 바뀌지 않았습니다. 대부분의 중요 계층 격차에는 실행 가능한 데이터 소스가 있으며 이는 일반적인 데이터 부족이 아닌 조정 및 명령 제약 조건을 나타냅니다. 이 기사는 다른 국가 시스템의 프레임워크 채택이 측정 내용을 개선하는지 아니면 공식적인 적합성만을 생성하는지 평가하기 위한 측정 거버넌스 진단을 개발합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225011078": {
    "id": "oa:W7225011078",
@@ -129872,7 +129878,9 @@
    "doi": "10.1093/scipol/scag093",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abstract_ko": "RTO(연구 및 기술 조직)는 과학, 산업 및 정부를 연결하는 혁신 시스템의 핵심 행위자입니다. 이 연구는 RTO가 의미와 정당성을 구성하는 방법에 대한 문헌의 격차를 다루면서 그들의 담론적 정체성과 제도적 논리를 조사합니다. 담론 분석을 사용하여 임무, 비전 및 전략 문서를 기반으로 다양한 국가 및 제도적 맥락의 19개 RTO를 비교합니다. 분석에서는 정체성, 주제, 정당성 및 전략적 방향을 조사합니다. 조사 결과에 따르면 (1) 산업 경쟁력 및 응용 혁신, (2) 사회 복지 및 지속 가능성, (3) 기술 거버넌스 및 주권, (4) 첨단 과학 및 과학적 우수성의 네 가지 지배적인 담론 유형이 확인되었습니다. 검토된 광범위한 문헌과 오케스트레이션 역할을 강조하는 일부 비교 증거를 바탕으로 이러한 발견은 기관적 맥락 전반에 걸쳐 혁신 생태계 내의 네트워크 행위자로서 RTO를 향한 광범위한 진화를 시사합니다. 전반적으로 이는 국가 혁신 개발 모델의 더 넓은 맥락에서 RTO 역할과 정당성을 이해하기 위한 담론적, 제도적 관점의 가치를 강조합니다."
+   "abstract_ko": "RTO(연구 및 기술 조직)는 과학, 산업 및 정부를 연결하는 혁신 시스템의 핵심 행위자입니다. 이 연구는 RTO가 의미와 정당성을 구성하는 방법에 대한 문헌의 격차를 다루면서 그들의 담론적 정체성과 제도적 논리를 조사합니다. 담론 분석을 사용하여 임무, 비전 및 전략 문서를 기반으로 다양한 국가 및 제도적 맥락의 19개 RTO를 비교합니다. 분석에서는 정체성, 주제, 정당성 및 전략적 방향을 조사합니다. 조사 결과에 따르면 (1) 산업 경쟁력 및 응용 혁신, (2) 사회 복지 및 지속 가능성, (3) 기술 거버넌스 및 주권, (4) 첨단 과학 및 과학적 우수성의 네 가지 지배적인 담론 유형이 확인되었습니다. 검토된 광범위한 문헌과 오케스트레이션 역할을 강조하는 일부 비교 증거를 바탕으로 이러한 발견은 기관적 맥락 전반에 걸쳐 혁신 생태계 내의 네트워크 행위자로서 RTO를 향한 광범위한 진화를 시사합니다. 전반적으로 이는 국가 혁신 개발 모델의 더 넓은 맥락에서 RTO 역할과 정당성을 이해하기 위한 담론적, 제도적 관점의 가치를 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7202093178": {
    "id": "oa:W7202093178",
@@ -129889,7 +129897,9 @@
    "doi": "10.1177/10982140261475676",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abstract_ko": "평가 설계는 주로 당면한 핵심 질문과 현지 상황에 대한 깊은 이해를 바탕으로 이루어져야 합니다. 프로그램 시작부터 신뢰, 관계적 책임 및 협력적 학습을 내재시키는 것이 기본이며 경제협력개발기구(OECD) 평가 기준의 사용을 배제하지 않습니다. 관계형 프레임워크, 심층적인 문화적 지식 및 지식 방식을 서구 방법론과 통합함으로써 평가자는 보다 엄격하고 관련성이 높으며 존중하는 증거를 구축할 수 있습니다."
+   "abstract_ko": "평가 설계는 주로 당면한 핵심 질문과 현지 상황에 대한 깊은 이해를 바탕으로 이루어져야 합니다. 프로그램 시작부터 신뢰, 관계적 책임 및 협력적 학습을 내재시키는 것이 기본이며 경제협력개발기구(OECD) 평가 기준의 사용을 배제하지 않습니다. 관계형 프레임워크, 심층적인 문화적 지식 및 지식 방식을 서구 방법론과 통합함으로써 평가자는 보다 엄격하고 관련성이 높으며 존중하는 증거를 구축할 수 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4416104173": {
    "id": "oa:W4416104173",
@@ -129912,7 +129922,8 @@
    "first_seen": "2026-11-02T10:40:33+09:00",
    "abs_tries": 1,
    "abs_src": "보충",
-   "abstract_ko": "누락된 데이터는 의학, 사회과학, 자연과학 등 다양한 분야에서 흔히 발생하는 문제이며 정확한 통계 분석에 큰 어려움을 줍니다. 이 문제를 해결하기 위해 수많은 대체 방법이 제안되었지만 그 중 다수는 변수 간의 복잡한 종속성 구조를 적절하게 포착하지 못했습니다. 이러한 한계를 극복하기 위해 Gaussian copula 프레임워크를 기반으로 한 모델이 도입되었습니다. 그러나 대부분의 기존 코퓰러 기반 접근 방식은 주변 분포의 불확실성을 설명하지 않으며, 이는 특히 높은 결측률에서 편향된 주변 추정 및 성능 저하로 이어질 수 있습니다. 본 연구에서는 각 변수의 한계 분포에 불확실성을 명시적으로 통합하는 베이지안 부트스트랩 기반 가우스 코퓰러 모델(BBGC)을 제안합니다. 제안된 BBGC는 가우스 코퓰러의 유연하고 해석 가능한 종속성 모델링 기능과 베이지안 부트스트랩을 통한 한계 누적 분포 함수(CDF)의 베이지안 불확실성 정량화를 결합합니다. 또한 순서형 변수 모델링 방법을 통합하여 혼합 데이터 유형을 처리하도록 확장되었습니다. UCI 저장소의 실제 데이터 세트에 대한 시뮬레이션 연구와 실험을 통해 제안된 BBGC가 다양한 누락 비율 및 메커니즘(MCAR, MAR)에서 기존 대체 방법보다 성능이 우수하다는 것을 입증합니다. 또한 제안된 모델은 실제 반도체 제조 환경에서 우수한 성능을 보여준다."
+   "abstract_ko": "누락된 데이터는 의학, 사회과학, 자연과학 등 다양한 분야에서 흔히 발생하는 문제이며 정확한 통계 분석에 큰 어려움을 줍니다. 이 문제를 해결하기 위해 수많은 대체 방법이 제안되었지만 그 중 다수는 변수 간의 복잡한 종속성 구조를 적절하게 포착하지 못했습니다. 이러한 한계를 극복하기 위해 Gaussian copula 프레임워크를 기반으로 한 모델이 도입되었습니다. 그러나 대부분의 기존 코퓰러 기반 접근 방식은 주변 분포의 불확실성을 설명하지 않으며, 이는 특히 높은 결측률에서 편향된 주변 추정 및 성능 저하로 이어질 수 있습니다. 본 연구에서는 각 변수의 한계 분포에 불확실성을 명시적으로 통합하는 베이지안 부트스트랩 기반 가우스 코퓰러 모델(BBGC)을 제안합니다. 제안된 BBGC는 가우스 코퓰러의 유연하고 해석 가능한 종속성 모델링 기능과 베이지안 부트스트랩을 통한 한계 누적 분포 함수(CDF)의 베이지안 불확실성 정량화를 결합합니다. 또한 순서형 변수 모델링 방법을 통합하여 혼합 데이터 유형을 처리하도록 확장되었습니다. UCI 저장소의 실제 데이터 세트에 대한 시뮬레이션 연구와 실험을 통해 제안된 BBGC가 다양한 누락 비율 및 메커니즘(MCAR, MAR)에서 기존 대체 방법보다 성능이 우수하다는 것을 입증합니다. 또한 제안된 모델은 실제 반도체 제조 환경에서 우수한 성능을 보여준다.",
+   "ko_tries": 0
   },
   "oa:W7225005163": {
    "id": "oa:W7225005163",
@@ -129931,7 +129942,7 @@
    "doi": "10.1007/s11222-026-11030-4",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abs_tries": 1
+   "abs_tries": 2
   },
   "oa:W7225007581": {
    "id": "oa:W7225007581",
@@ -129946,12 +129957,14 @@
    ],
    "journal": "Biometrics",
    "date": "2026-10-07",
-   "abstract": "ABSTRACT Decentralized clinical trials (DCTs) offer significant advantages in enhancing trial accessibility, reducing patient burden, and improving population representativeness. These benefits are particularly pronounced in longitudinal trials, where patient outcomes are measured repeatedly over time. However, existing literature lacks appropriate sample size formulas tailored to longitudinal DCTs, which must account for heterogeneous measurement sources and increased uncertainty introduced by decentralized data collection. We propose a unified sample size calculation method for randomized longitudinal DCTs under the generalized linear model framework. The proposed formula is available in closed form and flexibly accommodates a variety of data collection designs, including the simple hybrid design, where all patients contribute both onsite and offsite data, and the stratified hybrid design, where different patient groups may undergo distinct data collection protocols. We also develop estimation procedures to estimate the unknown parameters and compute the sample statistics. Our method further generalizes to accommodate heterogeneous intraclass correlation coefficients, unequal variances between treatment arms, and varying numbers of data collection types or strata. Extensive simulation studies show that the proposed sample size formula achieves robust control of the type I error rate and maintains the desired power across a wide range of realistic scenarios.",
+   "abstract": "Decentralized clinical trials (DCTs) offer significant advantages in enhancing trial accessibility, reducing patient burden, and improving population representativeness. These benefits are particularly pronounced in longitudinal trials, where patient outcomes are measured repeatedly over time. However, existing literature lacks appropriate sample size formulas tailored to longitudinal DCTs, which must account for heterogeneous measurement sources and increased uncertainty introduced by decentralized data collection. We propose a unified sample size calculation method for randomized longitudinal DCTs under the generalized linear model framework. The proposed formula is available in closed form and flexibly accommodates a variety of data collection designs, including the simple hybrid design, where all patients contribute both onsite and offsite data, and the stratified hybrid design, where different patient groups may undergo distinct data collection protocols. We also develop estimation procedures to estimate the unknown parameters and compute the sample statistics. Our method further generalizes to accommodate heterogeneous intraclass correlation coefficients, unequal variances between treatment arms, and varying numbers of data collection types or strata. Extensive simulation studies show that the proposed sample size formula achieves robust control of the type I error rate and maintains the desired power across a wide range of realistic scenarios.",
    "url": "https://doi.org/10.1093/biomtc/ujag178",
    "doi": "10.1093/biomtc/ujag178",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abstract_ko": "개요 분산형 임상시험(DCT)은 시험 접근성 향상, 환자 부담 감소, 모집단 대표성 향상에 상당한 이점을 제공합니다. 이러한 이점은 환자의 결과가 시간이 지남에 따라 반복적으로 측정되는 종단적 시험에서 특히 두드러집니다. 그러나 기존 문헌에는 종단적 DCT에 맞춰진 적절한 표본 크기 공식이 부족합니다. 이는 이기종 측정 소스와 분산형 데이터 수집으로 인해 발생하는 불확실성 증가를 설명해야 합니다. 우리는 일반화된 선형 모델 프레임워크에서 무작위 종단 DCT에 대한 통합된 표본 크기 계산 방법을 제안합니다. 제안된 공식은 폐쇄형으로 제공되며 모든 환자가 현장 및 외부 데이터에 모두 기여하는 단순 하이브리드 설계와 다양한 환자 그룹이 별도의 데이터 수집 프로토콜을 거칠 수 있는 계층화된 하이브리드 설계를 포함하여 다양한 데이터 수집 설계를 유연하게 수용합니다. 또한 알려지지 않은 매개변수를 추정하고 표본 통계를 계산하기 위한 추정 절차를 개발합니다. 우리의 방법은 이질적인 클래스 내 상관 계수, 치료 부문 간의 불평등한 분산, 다양한 수의 데이터 수집 유형 또는 계층을 수용하도록 일반화됩니다. 광범위한 시뮬레이션 연구에 따르면 제안된 표본 크기 공식은 제1종 오류율을 강력하게 제어하고 광범위한 현실적인 시나리오에서 원하는 검정력을 유지합니다."
+   "abstract_ko": "개요 분산형 임상시험(DCT)은 시험 접근성 향상, 환자 부담 감소, 모집단 대표성 향상에 상당한 이점을 제공합니다. 이러한 이점은 환자의 결과가 시간이 지남에 따라 반복적으로 측정되는 종단적 시험에서 특히 두드러집니다. 그러나 기존 문헌에는 종단적 DCT에 맞춰진 적절한 표본 크기 공식이 부족합니다. 이는 이기종 측정 소스와 분산형 데이터 수집으로 인해 발생하는 불확실성 증가를 설명해야 합니다. 우리는 일반화된 선형 모델 프레임워크에서 무작위 종단 DCT에 대한 통합된 표본 크기 계산 방법을 제안합니다. 제안된 공식은 폐쇄형으로 제공되며 모든 환자가 현장 및 외부 데이터에 모두 기여하는 단순 하이브리드 설계와 다양한 환자 그룹이 별도의 데이터 수집 프로토콜을 거칠 수 있는 계층화된 하이브리드 설계를 포함하여 다양한 데이터 수집 설계를 유연하게 수용합니다. 또한 알려지지 않은 매개변수를 추정하고 표본 통계를 계산하기 위한 추정 절차를 개발합니다. 우리의 방법은 이질적인 클래스 내 상관 계수, 치료 부문 간의 불평등한 분산, 다양한 수의 데이터 수집 유형 또는 계층을 수용하도록 일반화됩니다. 광범위한 시뮬레이션 연구에 따르면 제안된 표본 크기 공식은 제1종 오류율을 강력하게 제어하고 광범위한 현실적인 시나리오에서 원하는 검정력을 유지합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7224995187": {
    "id": "oa:W7224995187",
@@ -129968,7 +129981,8 @@
    "doi": "10.1007/s13347-026-01224-z",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7225020068": {
    "id": "oa:W7225020068",
@@ -129985,7 +129999,8 @@
    "doi": "10.1007/s13347-026-01222-1",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7224998170": {
    "id": "oa:W7224998170",
@@ -130000,9 +130015,11 @@
    "abstract": "Digital ethics is often organised either around unstable technological objects or around proliferating catalogues of ethical principles. Both provide necessary points of orientation; neither, however, sufficiently explains how digital systems transform moral problems before judgement is reached. Against this background, the article shifts attention from objects and principles to operations and proposes a grammar of digital-ethical constellations: a diagnostic account of five recurrent operations through which digital systems reshape the conditions of moral judgement: datafication, prediction, synthetic generativity, the operationalisation of values, and the reconfiguration of agency. This grammar is neither a checklist nor a moral calculus. Its purpose is to show how historically formed normative claims are transformed when worlds are rendered as data, futures are anticipated statistically, values are translated into measurable targets, and agency is distributed across socio-technical arrangements. Digital-ethical constellations must accordingly be read syntactically. Their operations do not occur in isolation but are linked and directed, while their effects may re-enter recursively as conditions of subsequent operations. Their effects may be intensified by scale, speed, personalisation, and persistence, while opacity may traverse the constellation as a whole. As their outputs and conflicts are reconstructed across different institutional domains, they acquire distinct normative meanings and practical consequences. Through a welfare-administration case and a contrasting analysis of GOV.UK Chat, the article demonstrates how such a grammar can move digital ethics beyond the proliferation of principles without abandoning normative judgement. The framework identifies where and how digital systems alter the conditions under which responsibility, legitimacy, and justice can still be claimed.",
    "url": "https://doi.org/10.1007/s43681-026-01461-0",
    "doi": "10.1007/s43681-026-01461-0",
-   "pdf": "https://doi.org/10.1007/s43681-026-01461-0",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01461-0.pdf",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abstract_ko": "디지털 윤리는 종종 불안정한 기술적 대상이나 급증하는 윤리 원칙 카탈로그를 중심으로 구성됩니다. 둘 다 필요한 오리엔테이션 포인트를 제공합니다. 그러나 판단이 이루어지기 전에 디지털 시스템이 어떻게 도덕적 문제를 변화시키는지 충분히 설명하지도 않습니다. 이러한 배경에서 이 기사는 대상과 원리에서 작동으로 관심을 돌리고 디지털 윤리적 배열의 문법을 제안합니다. 즉, 디지털 시스템이 도덕적 판단의 조건을 재구성하는 5가지 반복 작업, 즉 데이터화, 예측, 종합적 생성성, 가치의 작동화, 행위자의 재구성에 대한 진단 설명을 제안합니다. 이 문법은 체크리스트도 아니고 도덕적 계산도 아닙니다. 그 목적은 세계가 데이터로 렌더링되고, 미래가 통계적으로 예측되고, 가치가 측정 가능한 목표로 변환되고, 기관이 사회 기술적 배열에 걸쳐 분산될 때 역사적으로 형성된 규범적 주장이 어떻게 변환되는지 보여주는 것입니다. 따라서 디지털 윤리적 별자리는 구문론적으로 읽어야 합니다. 이들의 작업은 단독으로 발생하지 않고 연결되고 지시되며, 그 효과는 후속 작업의 조건으로 재귀적으로 다시 들어갈 수 있습니다. 그 효과는 규모, 속도, 개인화 및 지속성에 의해 강화될 수 있는 반면 불투명성은 전체적으로 별자리를 횡단할 수 있습니다. 그들의 산출물과 갈등이 다양한 제도적 영역에 걸쳐 재구성됨에 따라 그들은 뚜렷한 규범을 획득합니다."
+   "abstract_ko": "디지털 윤리는 종종 불안정한 기술적 대상이나 급증하는 윤리 원칙 카탈로그를 중심으로 구성됩니다. 둘 다 필요한 오리엔테이션 포인트를 제공합니다. 그러나 판단이 이루어지기 전에 디지털 시스템이 어떻게 도덕적 문제를 변화시키는지 충분히 설명하지도 않습니다. 이러한 배경에서 이 기사는 대상과 원리에서 작동으로 관심을 돌리고 디지털 윤리적 배열의 문법을 제안합니다. 즉, 디지털 시스템이 도덕적 판단의 조건을 재구성하는 5가지 반복 작업, 즉 데이터화, 예측, 종합적 생성성, 가치의 작동화, 행위자의 재구성에 대한 진단 설명을 제안합니다. 이 문법은 체크리스트도 아니고 도덕적 계산도 아닙니다. 그 목적은 세계가 데이터로 렌더링되고, 미래가 통계적으로 예측되고, 가치가 측정 가능한 목표로 변환되고, 기관이 사회 기술적 배열에 걸쳐 분산될 때 역사적으로 형성된 규범적 주장이 어떻게 변환되는지 보여주는 것입니다. 따라서 디지털 윤리적 별자리는 구문론적으로 읽어야 합니다. 이들의 작업은 단독으로 발생하지 않고 연결되고 지시되며, 그 효과는 후속 작업의 조건으로 재귀적으로 다시 들어갈 수 있습니다. 그 효과는 규모, 속도, 개인화 및 지속성에 의해 강화될 수 있는 반면 불투명성은 전체적으로 별자리를 횡단할 수 있습니다. 그들의 산출물과 갈등이 다양한 제도적 영역에 걸쳐 재구성됨에 따라 그들은 뚜렷한 규범을 획득합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225003765": {
    "id": "oa:W7225003765",
@@ -130020,7 +130037,8 @@
    "doi": "10.1016/j.telpol.2026.103343",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7225005113": {
    "id": "oa:W7225005113",
@@ -130041,7 +130059,662 @@
    "doi": "10.1016/j.tele.2026.102482",
    "pdf": "",
    "first_seen": "2026-11-02T10:40:33+09:00",
+   "abs_tries": 2,
+   "ko_tries": 0
+  },
+  "oa:W7225061331": {
+   "id": "oa:W7225061331",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Immortality Paradox: One‐Party Dominance, Political Tenure, and Organizational Continuity in Japanese Agencies",
+   "authors": [
+    "Ayako Nakamura"
+   ],
+   "journal": "Governance",
+   "date": "2026-11-01",
+   "abstract": "ABSTRACT In his classic 1976 study on organizational survival, Kaufman argued that public organizations are “immortal”. More recent research, however, has come to the opposite conclusion, finding that public organizations are frequently terminated. These findings largely relate to contexts where changes to the ruling party occur regularly. In contrast, this study examines the survival of government agencies in Japan, where the postwar political system has been characterized by one‐party dominance and short‐lived political leadership. The findings suggest that Japanese agencies remain largely “immortal,” and that when they do undergo transitions this tends to be linked to prime ministers with longer tenures who are able to implement minor, cosmetic changes; hence agencies typically persist even after such events. This study thus sheds new light on how political–administrative relations shape patterns of agency transition and highlights the importance of leadership tenure in sustaining commitments to organizational change.",
+   "url": "https://doi.org/10.1111/gove.70160",
+   "doi": "10.1111/gove.70160",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "개요 조직 생존에 관한 그의 고전적인 1976년 연구에서 Kaufman은 공공 조직이 \"불멸\"이라고 주장했습니다. 그러나 최근의 연구에서는 정반대의 결론에 이르렀는데, 공공기관이 해고되는 일이 빈번하다는 사실이 밝혀졌습니다. 이러한 조사 결과는 주로 여당의 변화가 정기적으로 발생하는 맥락과 관련이 있습니다. 이에 비해 본 연구는 일당 독재와 단명한 정치 리더십을 특징으로 하는 전후 정치 체제를 특징으로 하는 일본의 정부 기관의 생존을 살펴보았다. 연구 결과에 따르면 일본 기관은 대부분 \"불멸의\" 상태로 유지되며, 이들이 전환을 겪을 때 사소하고 외관상 변화를 구현할 수 있는 임기가 긴 총리와 연결되는 경향이 있습니다. 따라서 기관은 일반적으로 그러한 사건 이후에도 지속됩니다. 따라서 이 연구는 정치-행정 관계가 어떻게 기관 전환의 패턴을 형성하는지에 대한 새로운 시각을 제시하고 조직 변화에 대한 헌신을 유지하는 데 있어 리더십 재임 기간의 중요성을 강조합니다."
+  },
+  "oa:W7222909373": {
+   "id": "oa:W7222909373",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Crossing the Finish Line: Administrative Attention Overload, Reminders, and SNAP Application Completion",
+   "authors": [
+    "Jae Yeon Kim",
+    "Eric Giannella",
+    "Zhaowen Guo",
+    "Pamela Herd",
+    "Sebastian Jilke",
+    "Donald P. Moynihan"
+   ],
+   "journal": "Journal of Behavioral Public Administration",
+   "date": "2026-10-28",
+   "abstract": "Incomplete online applications are a substantial challenge for the Supplemental Nutrition Assistance Program (SNAP), the largest anti-hunger program in the United States. As applications become easier to start, they may also become easier to abandon. We conceptualize administrative attention overload as a form of cognitive load that arises when the sustained attentional demands of an administrative process exceed an individual’s available cognitive capacity. In the large U.S. state we studied, more than 40 percent of applicants did not complete their applications. We test whether simple reminder messages can help applicants return and finish their applications. In a field experiment (N = 5,978), receiving a reminder increased application completion among applicants who had abandoned their applications by 26 percentage points within four days (95% CI: 24.4 to 27.7). By contrast, varying reminder timing by four days did not affect long-run completion rates. The difference was only 0.5 percentage points (p = 0.68). A simple reminder can substantially raise completion among people who have already shown enough interest to start an application. As states increasingly digitize safety net enrollment, reducing administrative burdens requires not only making applications easier to start but also providing support to help applicants finish them.",
+   "url": "https://doi.org/10.30636/jbpa.91.424",
+   "doi": "10.30636/jbpa.91.424",
+   "pdf": "https://journal-bpa.org/index.php/jbpa/article/download/424/188",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "불완전한 온라인 신청서는 미국 최대의 기아 퇴치 프로그램인 SNAP(보충 영양 지원 프로그램)에 있어 상당한 어려움을 겪고 있습니다. 응용 프로그램을 시작하기가 더 쉬워지면 포기하기도 더 쉬워질 수 있습니다. 우리는 관리 주의력 과부하를 관리 프로세스의 지속적인 주의력 요구가 개인의 사용 가능한 인지 능력을 초과할 때 발생하는 인지 부하의 한 형태로 개념화합니다. 우리가 연구한 미국의 넓은 주에서는 지원자의 40% 이상이 지원서를 작성하지 않았습니다. 간단한 알림 메시지가 지원자가 지원서를 다시 작성하고 완료하는 데 도움이 될 수 있는지 테스트합니다. 현장 실험(N = 5,978)에서 알림을 받으면 지원서를 포기한 지원자의 지원 완료율이 4일 이내에 26% 포인트 증가했습니다(95% CI: 24.4~27.7). 대조적으로, 알림 시기를 4일씩 변경하는 것은 장기 완료율에 영향을 미치지 않았습니다. 그 차이는 0.5%포인트에 불과했다(p=0.68). 간단한 알림만으로도 이미 지원서를 시작할 만큼 충분한 관심을 보인 사람들의 완성도를 크게 높일 수 있습니다. 주정부가 점점 더 안전망 등록을 디지털화함에 따라 관리 부담을 줄이려면 신청서를 더 쉽게 시작할 수 있을 뿐만 아니라 신청자가 신청서를 완료할 수 있도록 지원을 제공해야 합니다."
+  },
+  "oa:W4404380676": {
+   "id": "oa:W4404380676",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Understanding regulatory preferences for GMOs and nanotechnology in USA, Israel, and Germany",
+   "authors": [
+    "Shira Bukchin‐Peles",
+    "Stefan Wurster",
+    "Ronit Justo‐Hanani",
+    "Felix Kurz"
+   ],
+   "journal": "Science and Public Policy",
+   "date": "2026-10-22",
+   "abstract": "Abstract Emerging technologies such as genetically modified organisms (GMOs) and nanotechnology are widely regarded as central to future economic growth, social progress, and environmental sustainability, particularly in industrialized countries. Yet they also raise concerns about potential health, environmental, and safety risks. This study investigates public regulatory preferences for GMOs and nanotechnology in the USA, Israel, and Germany, based on a cross-national online panel survey. We identify notable differences in attitudes: participants strongly favour hard regulation for GMOs, while support for similar regulation of nanotechnology is significantly weaker. These differences reflect both perceived risk levels and broader national contexts. Our findings underscore the need for regulatory approaches that are both technology-specific and context-sensitive, recognizing that public acceptance is shaped by the cultural and institutional environments in which technologies are introduced.",
+   "url": "https://doi.org/10.1093/scipol/scag091",
+   "doi": "10.1093/scipol/scag091",
+   "pdf": "https://doi.org/10.1093/scipol/scag091",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Abstract 유전자 변형 유기체(GMO) 및 나노기술과 같은 신흥 기술은 특히 산업화된 국가에서 미래 경제 성장, 사회적 진보 및 환경 지속 가능성의 핵심으로 널리 간주됩니다. 그러나 잠재적인 건강, 환경 및 안전 위험에 대한 우려도 제기됩니다. 이 연구는 국가 간 온라인 패널 설문조사를 기반으로 미국, 이스라엘, 독일의 GMO 및 나노기술에 대한 공공 규제 선호도를 조사합니다. 우리는 주목할 만한 태도 차이를 확인했습니다. 참가자들은 GMO에 대한 엄격한 규제를 강력히 선호하는 반면, 나노기술에 대한 유사한 규제에 대한 지지는 상당히 약했습니다. 이러한 차이는 인식된 위험 수준과 더 넓은 국가적 맥락을 모두 반영합니다. 우리의 연구 결과는 대중의 수용이 기술이 도입되는 문화적, 제도적 환경에 의해 형성된다는 점을 인식하면서 기술에 특화되고 상황에 맞는 규제 접근 방식의 필요성을 강조합니다."
+  },
+  "oa:W7121049043": {
+   "id": "oa:W7121049043",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "The FIT framework for mitigating participant fraud in online surveys: a synthesis of two international LGBTQ+ social research case studies",
+   "authors": [
+    "Ashley S. Brooks",
+    "Tin D. Vo",
+    "Shelley L. Craig"
+   ],
+   "journal": "International Journal of Social Research Methodology",
+   "date": "2026-10-29",
+   "abstract": "Participant fraud poses a growing threat to international LGBTQ+ social research, yet existing mitigation recommendations are fragmented and inconsistent across the literature. This paper addresses this gap by synthesizing insights across two case studies of international surveys on LGBTQ+ populations compromised by fraud. Case study 1 (N = 1,707) details a preventative screening process in a survey about LGBTQ+ leisure spaces, combining Qualtrics security tools with geolocation and email checks. Case study 2 (N = 3,681) outlines an eliminative strategy in an LGBTQ+ video gaming survey using 10 fraud indicators analyzed using unsupervised machine learning. Each study found fraud rates of 43–45% (n = 2,540) and fraud check utility varied across studies. Practical context-dependent recommendations and future research directions are synthesized into the feasibility, inclusion, trustworthiness (FIT) framework, emphasizing methodological and ethical trade-offs between competing research demands and the need for dynamic and tailored mitigation strategies.",
+   "url": "https://doi.org/10.1080/13645579.2026.2751627",
+   "doi": "10.1080/13645579.2026.2751627",
+   "pdf": "https://doi.org/10.31235/osf.io/za8v6_v2",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "참가자 사기는 국제 LGBTQ+ 사회 연구에 점점 더 큰 위협을 가하고 있지만 기존 완화 권장 사항은 단편화되어 있으며 문헌 전반에 걸쳐 일관성이 없습니다. 이 문서에서는 사기로 인해 피해를 입은 LGBTQ+ 인구에 대한 국제 조사의 두 가지 사례 연구에 대한 통찰력을 종합하여 이러한 격차를 해결합니다. 사례 연구 1(N = 1,707)에서는 Qualtrics 보안 도구와 지리적 위치 및 이메일 확인을 결합하여 LGBTQ+ 여가 공간에 대한 설문조사의 예방적 심사 프로세스를 자세히 설명합니다. 사례 연구 2(N = 3,681)는 비지도 기계 학습을 통해 분석된 10가지 사기 지표를 사용하여 LGBTQ+ 비디오 게임 설문조사의 제거 전략을 간략하게 설명합니다. 각 연구에서 사기율은 43~45%(n = 2,540)였으며 사기 확인 유틸리티는 연구마다 다양했습니다. 실용적인 상황에 따른 권장 사항과 향후 연구 방향은 타당성, 포함, 신뢰성(FIT) 프레임워크로 종합되어 경쟁적인 연구 요구와 역동적이고 맞춤형 완화 전략의 필요성 사이의 방법론적, 윤리적 균형을 강조합니다."
+  },
+  "oa:W7214511703": {
+   "id": "oa:W7214511703",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Improving the Validity of Post-Selection Inference in Lasso-Regularized Structural Equation Modeling for Model Respecification",
+   "authors": [
+    "Dayeon Lee",
+    "Gregory Robert Hancock"
+   ],
+   "journal": "Structural Equation Modeling A Multidisciplinary Journal",
+   "date": "2026-10-26",
+   "abstract": "Regularization is increasingly used in structural equation modeling (SEM) to search for potential post hoc model modifications, yet the validity of statistical inference after selecting parameters/models via regularization has received limited attention. We propose selective discrepancy inference for lasso-regularized SEM, particularly when the lasso is used for model respecification. The framework views regularization not simply as selecting SEM parameters, but as selecting Jacobian-defined covariance-change directions along which a constrained model may fail to reproduce the covariance structure. The inferential target is therefore a selected covariance-discrepancy coefficient, which quantifies how much the misfit left by the constrained model is explained by the selected modification direction after accounting for other selected directions and baseline parameter readjustment. A simulation study shows that the resulting confidence intervals achieve target coverage rates. An empirical example regarding measurement invariance testing illustrates how the approach evaluates lasso-selected model modifications. Example R code is provided.",
+   "url": "https://doi.org/10.1080/10705511.2026.2736199",
+   "doi": "10.1080/10705511.2026.2736199",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "정규화는 잠재적인 사후 모델 수정을 검색하기 위해 구조 방정식 모델링(SEM)에서 점점 더 많이 사용되고 있지만, 정규화를 통해 매개변수/모델을 선택한 후의 통계적 추론의 유효성은 제한된 관심을 받아 왔습니다. 특히 올가미가 모델 재명세화에 사용될 때 올가미 정규화 SEM에 대한 선택적 불일치 추론을 제안합니다. 프레임워크는 정규화를 단순히 SEM 매개변수를 선택하는 것이 아니라 제한된 모델이 공분산 구조를 재현하지 못할 수 있는 야코비안 정의 공분산 변경 방향을 선택하는 것으로 봅니다. 따라서 추론 대상은 선택된 공분산-불일치 계수이며, 이는 제한된 모델에 의해 남겨진 부적합이 다른 선택된 방향 및 기준 매개변수 재조정을 고려한 후 선택된 수정 방향에 의해 설명되는 정도를 정량화합니다. 시뮬레이션 연구에 따르면 결과 신뢰 구간이 목표 적용률을 달성하는 것으로 나타났습니다. 측정 불변성 테스트에 관한 경험적 예는 접근 방식이 올가미 선택 모델 수정을 평가하는 방법을 보여줍니다. 예제 R 코드가 제공됩니다."
+  },
+  "oa:W4408609250": {
+   "id": "oa:W4408609250",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Registered Report: Replication and Extension of Nozaradan et al. (2011)",
+   "authors": [
+    "Karli M. Nave",
+    "Erin E. Hannon",
+    "Joel S. Snyder",
+    "Emma Alexandrov",
+    "Sarah C. Allen",
+    "Fernando Barbosa",
+    "Mara Breen",
+    "Alexandre Celma-Miralles",
+    "Thibault Chain",
+    "Joshua R. de Leeuw"
+   ],
+   "journal": "Advances in Methods and Practices in Psychological Science",
+   "date": "2026-10-01",
+   "abstract": "Abstract Cognitive neuroscience has long sought to disentangle stimulus-driven processing from conscious perceptual processing. Some prior evidence for neural processing of perceived musical beat (periodic pulse) may be confounded by stimulus-driven activity. Notably, Nozaradan et al. (2011) controlled for stimulus factors and used frequency tagging to show increased brain activity at imagery-related frequencies when listeners imagined a beat pattern during an isochronous stimulus. However, it remains unclear whether this effect is replicable and whether it reliably reflects conscious beat perception. This registered report presents 13 independent replications using the same vetted protocol. Listeners performed the same experimental paradigm as in Nozaradan et al. (2011), with an added behavioral task on each trial to assess conscious perception of the imagined beat. Pre-registered meta-analyses revealed smaller raw effect sizes of imagery condition (Binary: 0.03 µV, Ternary: 0.03 µV) than the original study (Binary: 0.12 µV, Ternary: 0.20 µV), with confidence intervals all overlapping with 0. Differences in full-sample estimated effect sizes (this study: n = 152, η p 2 = .03–.04; 2011 study: n = 8, η p 2 = .62– .76) suggest larger sample sizes are necessary to detect these effects reliably, if they exist. Additionally, only neural activity at the stimulus frequency predicted imagery task accuracy, contradicting our hypothesis that beat-related frequencies would predict performance. Our findings suggest an overall failure to replicate all main effects from the original study. We discuss potential reasons for discrepancies with the original study as well as implications for the utility of frequency tagging for studying beat perception.",
+   "url": "https://doi.org/10.1177/25152459261443491",
+   "doi": "10.1177/25152459261443491",
+   "pdf": "https://doi.org/10.1177/25152459261443491",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Abstract 인지 신경과학은 오랫동안 자극 중심 처리와 의식적 지각 처리를 분리하려고 노력해 왔습니다. 인지된 음악 비트(주기적 펄스)의 신경 처리에 대한 일부 이전 증거는 자극 중심 활동으로 인해 혼란스러울 수 있습니다. 특히, Nozaradan et al. (2011)은 청취자가 등시성 자극 동안 비트 패턴을 상상할 때 자극 요인을 제어하고 주파수 태깅을 사용하여 이미지 관련 주파수에서 증가된 뇌 활동을 보여주었습니다. 그러나 이 효과가 복제 가능한지, 의식적인 비트 인식을 안정적으로 반영하는지 여부는 불분명합니다. 이 등록 보고서는 동일한 심사 프로토콜을 사용하여 13개의 독립적 복제를 제공합니다. 청취자들은 Nozaradan et al.에서와 동일한 실험 패러다임을 수행했습니다. (2011), 상상된 비트에 대한 의식적 인식을 평가하기 위해 각 시험에 행동 작업이 추가되었습니다. 사전 등록된 메타 분석에서는 원래 연구(2진: 0.12 μV, 3진: 0.20 μV)보다 이미지 조건(2진: 0.03 μV, 3진: 0.03 μV)의 원시 효과 크기가 더 작은 것으로 나타났으며, 신뢰 구간은 모두 0과 겹칩니다. 전체 샘플 추정 효과 크기의 차이(이 연구: n = 152, θ p 2 = .03–.04; 2011년 연구: n = 8, eta p 2 = .62– .76) 이러한 효과가 존재하는 경우 이를 안정적으로 감지하려면 더 큰 표본 크기가 필요하다고 제안합니다. 또한 자극 주파수의 신경 활동만이 이미지 작업 정확도를 예측했는데, 이는 비트 관련 주파수가 성능을 예측할 것이라는 우리의 가설과 모순됩니다."
+  },
+  "oa:W4414304729": {
+   "id": "oa:W4414304729",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Exploring the Impact of Nonlinearity on Effect Heterogeneity in Experimental Data",
+   "authors": [
+    "Jens Fuenderich",
+    "Lukas Joscha Beinhauer",
+    "Frank Renkewitz"
+   ],
+   "journal": "Advances in Methods and Practices in Psychological Science",
+   "date": "2026-10-01",
+   "abstract": "Heterogeneity has been proposed as a framework to improve psychological and behavioral science by identifying mechanisms that explain the differences between replications of an effect. Both in theory and in practice, the scope of such analyses has been limited to identifying how much effects vary, adding moderators to the meta-analytic model, and evaluating whether less residual heterogeneity remains to be explained. Notably, the underlying functional relationship between the independent and the dependent variable of the experiment is rarely considered as a contributor to effect heterogeneity. Ignoring its influence on heterogeneity, as well as additional information beyond the distribution of true effects, increases the risk of misinterpreting meta-analytic results. We introduce more elaborate descriptions of heterogeneity for such multi-lab projects that can serve as tools to assess if effect heterogeneity could be affected by non-linearity. Instead of focusing on a single heterogeneity estimate, we propose to identify patterns of heterogeneity that allow us to meaningfully connect meta-analytic practice with theory development. Further, the growing body of large-scale direct replication multi-lab projects provides a rich and still emergent basis for heterogeneity research to consider. We apply the analyses to an initial pool of 55 meta-analytic data sets to demonstrate the overlooked variety in patterns of heterogeneity and find evidence for and against the impact of non-linearity on replication effects. Finally, we discuss issues with design choices by previous multi-lab projects and future directions for a heterogeneity paradigm that is more attentive to the variety of contributors and patterns related to effect heterogeneity.",
+   "url": "https://doi.org/10.1177/25152459261479656",
+   "doi": "10.1177/25152459261479656",
+   "pdf": "https://doi.org/10.1177/25152459261479656",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "이질성은 효과 복제 간의 차이를 설명하는 메커니즘을 식별하여 심리 및 행동 과학을 개선하기 위한 프레임워크로 제안되었습니다. 이론과 실제 모두에서 이러한 분석의 범위는 효과가 얼마나 다른지 확인하고, 메타 분석 모델에 중재자를 추가하고, 설명할 잔여 이질성이 더 적은지 여부를 평가하는 것으로 제한되었습니다. 특히, 실험의 독립변수와 종속변수 사이의 기본 기능적 관계는 이질성에 영향을 미치는 요인으로 거의 간주되지 않습니다. 이질성에 대한 영향과 실제 효과의 분포를 넘어서는 추가 정보를 무시하면 메타 분석 결과를 잘못 해석할 위험이 높아집니다. 효과 이질성이 비선형성에 의해 영향을 받을 수 있는지 평가하는 도구 역할을 할 수 있는 다중 실험실 프로젝트에 대한 이질성에 대한 보다 정교한 설명을 소개합니다. 단일 이질성 추정에 초점을 맞추는 대신, 우리는 메타 분석 실습과 이론 개발을 의미 있게 연결할 수 있는 이질성 패턴을 식별할 것을 제안합니다. 또한, 대규모 직접 복제 다중 연구실 프로젝트의 성장은 이질성 연구에서 고려해야 할 풍부하고 여전히 새로운 기반을 제공합니다. 우리는 간과된 이질성 패턴의 다양성을 입증하고 비-L의 영향에 대한 증거를 찾기 위해 55개 메타 분석 데이터 세트의 초기 풀에 분석을 적용했습니다."
+  },
+  "oa:W7140205650": {
+   "id": "oa:W7140205650",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "On the Limits of Contextual Malleability in Cognitive Performance: Commentary on Stoevenbelt et al. (2026)",
+   "authors": [
+    "David Moreau"
+   ],
+   "journal": "Advances in Methods and Practices in Psychological Science",
+   "date": "2026-10-01",
+   "abstract": "The Registered Replication Report (RRR) of Johns, Schmader, and Martens (2005) provides the most rigorous test to date of a paradigmatic stereotype-threat effect on women’s mathematics performance. Across multiple laboratories, a large preregistered sample, and multilevel analyses, the predicted interaction between gender and threat condition was not observed. Here, I argue that the implications of these findings extend beyond stereotype threat, inviting reconsideration of broader claims about contextual malleability in cognitive performance. The central theoretical question is no longer simply whether stereotype threat “exists,” but whether the theory can specify, in advance, the conditions under which stereotype activation should reliably impair performance. If effects depend on particular populations, contextual features, or mediating processes, these boundary conditions must be clearly articulated and empirically supported. More broadly, accumulating evidence across stereotype threat and related intervention literatures suggests that the effects of brief contextual manipulations are often smaller and less generalizable than initially assumed. Progress will require tighter specification of boundary conditions and closer alignment between theoretical ambition and empirical robustness in claims about contextual influences on cognitive performance.",
+   "url": "https://doi.org/10.1177/25152459261451143",
+   "doi": "10.1177/25152459261451143",
+   "pdf": "https://doi.org/10.1177/25152459261451143",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Johns, Schmader 및 Martens(2005)의 등록 복제 보고서(RRR)는 여성의 수학 수행 능력에 대한 패러다임적 고정관념 위협 효과에 대한 현재까지 가장 엄격한 테스트를 제공합니다. 여러 실험실, 사전 등록된 대규모 샘플 및 다단계 분석에서 성별과 위협 조건 간의 예측된 상호 작용은 관찰되지 않았습니다. 여기서 나는 이러한 발견의 의미가 고정관념 위협을 넘어 확장되어 인지 성능의 상황적 가단성에 대한 더 넓은 주장을 재검토하도록 주장합니다. 핵심적인 이론적 질문은 더 이상 단순히 고정관념 위협이 '존재하는지' 여부가 아니라, 고정관념 활성화가 성과를 확실하게 손상시켜야 하는 조건을 이론이 미리 지정할 수 있는지 여부입니다. 효과가 특정 모집단, 상황적 특징 또는 매개 프로세스에 따라 달라지는 경우 이러한 경계 조건은 명확하게 설명되고 경험적으로 뒷받침되어야 합니다. 보다 광범위하게, 고정관념 위협 및 관련 개입 문헌 전반에 걸쳐 축적된 증거는 간단한 상황 조작의 효과가 처음에 가정했던 것보다 종종 더 작고 일반화 가능성이 낮다는 것을 시사합니다. 진보를 위해서는 인지 성능에 대한 상황적 영향에 대한 주장에서 경계 조건을 보다 엄격하게 지정하고 이론적 야망과 경험적 견고성 간의 긴밀한 조정이 필요합니다."
+  },
+  "oa:W7225047951": {
+   "id": "oa:W7225047951",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Data assimilation using a global Girsanov nudged particle filter",
+   "authors": [
+    "Maneesh Kumar Singh",
+    "Josh Hope-Collins",
+    "Colin J. Cotter",
+    "Dan Crisan"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-11-01",
+   "abstract": "Abstract We present a particle filtering algorithm for stochastic models on infinite dimensional state space, making use of Girsanov perturbations to nudge the ensemble of particles into regions of higher likelihood. We argue that the optimal control problem needs to couple control variables for all of the particles to maintain an ensemble with good effective sample size (ESS). We provide an optimisation formulation that separates the problem into three stages, separating the nonlinearity in the ESS term in the functional with the nonlinearity due to the forward problem, and allowing independent parallel computation for each particle when calculations are performed over control variable space. The particle filter is applied to the stochastic Kuramoto-Sivashinsky equation, and compared with the temper-jitter particle filter approach. We observe that whilst the nudging filter produces an ensemble with a larger spread than the temper-jitter filter, it responds to extreme events in the assimilated data more quickly and robustly.",
+   "url": "https://doi.org/10.1007/s11222-026-11019-z",
+   "doi": "10.1007/s11222-026-11019-z",
+   "pdf": "https://doi.org/10.1007/s11222-026-11019-z",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Abstract 우리는 입자의 앙상블을 더 높은 가능성의 영역으로 이동시키기 위해 Girsanov 섭동을 사용하여 무한 차원 상태 공간에서 확률론적 모델을 위한 입자 필터링 알고리즘을 제시합니다. 우리는 최적의 제어 문제가 좋은 유효 표본 크기(ESS)로 앙상블을 유지하기 위해 모든 입자에 대한 제어 변수를 결합해야 한다고 주장합니다. 문제를 3단계로 분리하여 함수형의 ESS 항의 비선형성과 순방향 문제로 인한 비선형성을 분리하고 제어 변수 공간에 대한 계산을 수행할 때 각 입자에 대해 독립적인 병렬 계산을 허용하는 최적화 공식을 제공합니다. 입자 필터는 확률론적 Kuramoto-Sivashinsky 방정식에 적용되며 템퍼-지터 입자 필터 접근 방식과 비교됩니다. 우리는 넛징 필터가 템퍼 지터 필터보다 더 넓은 범위의 앙상블을 생성하는 반면, 동화된 데이터의 극단적인 이벤트에 더 빠르고 강력하게 반응한다는 것을 관찰했습니다."
+  },
+  "oa:W7154900581": {
+   "id": "oa:W7154900581",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "The k-th power expectile periodogram for time series analysis",
+   "authors": [
+    "Tianbo Chen",
+    "Ta-Hsin Li",
+    "Wenzhi Yang"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-10-31",
+   "abstract": "Abstract This paper introduces the k-th power expectile periodogram (KEP) as a generalization of the quantile periodogram (QP) and expectile periodogram (EP) for time series analysis. Constructed from trigonometric k-th power expectile regression (KER), the KEP provides a flexible tool to balance robustness and efficiency. The KEP retains the key properties of the ordinary periodogram as a frequency-domain representation of serial dependence in time series, while offering a more comprehensive understanding by examining the data across the entire range of expectile levels with power 1 < k ≤ 2. Simulations demonstrate the capability of the KEP in detecting hidden periodicities, while maintaining robustness against outliers. We establish the asymptotic theory and investigate the relationship between the KEP and the so-called k-th power expectile spectrum (KES). Finally, we leverage the inherent two-dimensional property of the KEP to train a convolutional neural network (CNN) to classify the epilepsy electroencephalogram (EEG) data, where the proposed estimator outperforms competitive estimators.",
+   "url": "https://doi.org/10.1007/s11222-026-11030-4",
+   "doi": "10.1007/s11222-026-11030-4",
+   "pdf": "https://www.researchsquare.com/article/rs-9062860/latest.pdf",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Abstract 본 논문에서는 시계열 분석을 위한 양자주기도(QP)와 기대주기도(EP)를 일반화한 k차 기대주기도(KEP)를 소개한다. KER(삼각 KER)로 구성된 KEP는 견고성과 효율성의 균형을 맞추는 유연한 도구를 제공합니다. KEP는 일반 주기도의 주요 속성을 시계열의 직렬 종속성에 대한 주파수 영역 표현으로 유지하면서 검정력 1 < k ≤ 2로 전체 기대 수준 범위에 대한 데이터를 검사하여 보다 포괄적인 이해를 제공합니다. 시뮬레이션은 이상치에 대한 견고성을 유지하면서 숨겨진 주기성을 탐지하는 KEP의 기능을 보여줍니다. 우리는 점근 이론을 확립하고 KEP와 소위 k차 기대 스펙트럼(KES) 사이의 관계를 조사합니다. 마지막으로 KEP의 고유한 2차원 속성을 활용하여 CNN(회선 신경망)을 훈련하여 간질 뇌전도(EEG) 데이터를 분류합니다. 여기서 제안된 추정기는 경쟁 추정기보다 성능이 뛰어납니다."
+  },
+  "oa:W4415186904": {
+   "id": "oa:W4415186904",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Semiparametrically efficient semi-supervised statistical inference",
+   "authors": [
+    "Zichun Xu",
+    "Daniela Witten",
+    "Ali Shojaie"
+   ],
+   "journal": "Biometrika",
+   "date": "2026-10-28",
+   "abstract": "Summary We consider statistical inference under a semi-supervised setting where we have access to both labelled and unlabelled observations. We ask the question: under what circumstances, and by how much, can incorporating the unlabelled data improve upon inference using the labelled data? To answer this question, we investigate semi-supervised inference through the lens of semiparametric efficiency theory. For general pathwise differentiable targets under semiparametric models, we derive the efficiency lower bound for asymptotically linear semi-supervised estimators. Perhaps not surprisingly, this bound coincides with the results in classical missing data theory when ‘positivity’ holds, i.e., when the limiting proportion of labelled observations is strictly positive. However, unlike missing data theory, our theory can handle the boundary regime in which the proportion of labelled observations converges to zero, which is in fact the setting of primary interest in the context of semi-supervised learning. We further characterize a broad class of well-specified targets for which unlabelled data cannot yield efficiency gains. These results shed insight into the promise and limitations of the very active field of prediction-powered inference. We propose an efficient semi-supervised estimator that attains the efficiency bound, and a prediction-powered estimator that incorporates black-box predictions and is guaranteed to be no worse than the supervised baseline in asymptotic variance. We illustrate our theoretical results via simulation studies and a real-data application.",
+   "url": "https://doi.org/10.1093/biomet/asag050",
+   "doi": "10.1093/biomet/asag050",
+   "pdf": "https://arxiv.org/pdf/2502.17741",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "요약 우리는 레이블이 지정된 관찰과 레이블이 지정되지 않은 관찰 모두에 액세스할 수 있는 준지도 설정에서 통계적 추론을 고려합니다. 우리는 다음과 같은 질문을 던집니다. 어떤 상황에서 레이블이 없는 데이터를 통합하면 레이블이 있는 데이터를 사용한 추론이 어느 정도 향상될 수 있습니까? 이 질문에 답하기 위해 우리는 준모수 효율성 이론의 렌즈를 통해 준지도 추론을 조사합니다. 반모수적 모델 하의 ​​일반적인 경로별 미분 가능 목표에 대해 점근적 선형 반지도 추정량에 대한 효율성 하한을 유도합니다. 놀랍지 않게도 이 경계는 '긍정성'이 유지되는 경우, 즉 레이블이 지정된 관측값의 제한 비율이 엄격하게 긍정적인 경우 고전적인 결측 데이터 이론의 결과와 일치합니다. 그러나 결측 데이터 이론과 달리 우리 이론은 레이블이 지정된 관측값의 비율이 0으로 수렴되는 경계 체계를 처리할 수 있으며, 이는 실제로 준지도 학습의 맥락에서 주요 관심 설정입니다. 우리는 레이블이 지정되지 않은 데이터가 효율성 향상을 가져올 수 없는 광범위한 클래스의 잘 지정된 목표를 추가로 특성화합니다. 이러한 결과는 매우 활동적인 예측 기반 추론 분야의 가능성과 한계에 대한 통찰력을 제공합니다. 우리는 효율성 경계를 달성하는 효율적인 준지도 추정기와 블랙박스 예측을 통합하고 점근 변량에서 지도 기준선보다 나쁘지 않음을 보장하는 예측 기반 추정기를 제안합니다."
+  },
+  "oa:W4407897533": {
+   "id": "oa:W4407897533",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "When Asynchronicity Meets Price Staleness: Robust Estimation of High-Frequency Covariance",
+   "authors": [
+    "Wenhao Cui",
+    "Haibin Zhu"
+   ],
+   "journal": "Journal of Business and Economic Statistics",
+   "date": "2026-10-26",
+   "abstract": "The Epps effect refers to the empirical decline in measured asset dependence as the sampling frequency increases. Existing studies have shown that market microstructure frictions, including asynchronous trading and price staleness, can contribute to this downward bias in high-frequency covariance estimation. In this study, we propose a novel estimator of high-frequency covariance that is robust to the concurrent presence of asynchronicity and price staleness. We establish the asymptotic properties of the proposed estimator and present a feasible central limit theorem that accommodates time-varying staleness probabilities. The proposed robust covariance estimator also yields consistent estimators of beta and correlation in the presence of these anomalies. In addition, we adopt a pre-averaging method to address microstructure noise. Through theoretical analysis and Monte Carlo simulations, we demonstrate that our estimator significantly outperforms existing alternatives. Empirically, using tick-by-tick data, we evaluate ETF tracking performance across various covariance estimators. The results highlight the superiority and robustness of the proposed estimator. JEL Classification: C58, C32",
+   "url": "https://doi.org/10.1080/07350015.2026.2755404",
+   "doi": "10.1080/07350015.2026.2755404",
+   "pdf": "https://doi.org/10.2139/ssrn.5144267",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Epps 효과는 샘플링 빈도가 증가함에 따라 측정된 자산 의존도가 경험적으로 감소하는 것을 나타냅니다. 기존 연구에 따르면 비동기식 거래 및 가격 부진을 포함한 시장 미세구조 마찰이 고주파 공분산 추정에서 이러한 하향 편향에 기여할 수 있는 것으로 나타났습니다. 본 연구에서 우리는 비동기성과 가격 진부함이 동시에 존재하는 것에 견고한 고주파 공분산의 새로운 추정기를 제안합니다. 우리는 제안된 추정량의 점근적 특성을 확립하고 시간에 따라 변하는 부실 확률을 수용하는 실행 가능한 중심 극한 정리를 제시합니다. 제안된 강력한 공분산 추정량은 또한 이러한 이상이 존재하는 경우 베타 및 상관 관계에 대한 일관된 추정량을 산출합니다. 또한 미세 구조 노이즈를 해결하기 위해 사전 평균화 방법을 채택했습니다. 이론적 분석과 Monte Carlo 시뮬레이션을 통해 우리는 추정기가 기존 대안보다 훨씬 뛰어난 성능을 발휘함을 보여줍니다. 경험적으로 우리는 틱별 데이터를 사용하여 다양한 공분산 추정기에 걸쳐 ETF 추적 성능을 평가합니다. 결과는 제안된 추정기의 우수성과 견고성을 강조합니다. JEL 분류: C58, C32"
+  },
+  "oa:W4416292174": {
+   "id": "oa:W4416292174",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "One-shot variable-ratio matching with fine balance",
+   "authors": [
+    "Qian Meng",
+    "Zhe Chen",
+    "Bo Zhang"
+   ],
+   "journal": "Journal of Computational and Graphical Statistics",
+   "date": "2026-10-26",
+   "abstract": "Variable-ratio matching provides a flexible alternative to conventional 1-to-k matching for the design of observational studies. Fine balance, which ensures identical marginal distributions of selected covariates between treated and matched control groups, is often a desirable design feature. Existing variable-ratio matching approaches achieve conditional fine balance, whereby targeted covariates are balanced within matched sets of the same size (e.g., pairs or triplets), but not necessarily in the pooled matched sample. Such approaches typically proceed in two steps: units are first partitioned into strata based on estimated entire numbers, followed by 1-to-k matching with fine balance enforced within each stratum. Here, we propose a novel one-shot variable-ratio matching algorithm that achieves marginal fine balance—that is, balance on selected covariates in the pooled matched sample as a whole. This design mimics a randomized controlled trial in which units are grouped into sets of varying sizes, with one unit per set assigned to treatment. We discuss settings in which marginal fine balance is preferred and evaluate the proposed method through simulations and an application to the relationship between right heart catheterization and mortality among critically ill patients. The algorithm is implemented in the R package match2C.",
+   "url": "https://doi.org/10.1080/10618600.2026.2754091",
+   "doi": "10.1080/10618600.2026.2754091",
+   "pdf": "https://arxiv.org/pdf/2510.04383",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "가변 비율 매칭은 관찰 연구 설계를 위한 기존의 1-k 매칭에 대한 유연한 대안을 제공합니다. 처리된 대조군과 일치된 대조군 간에 선택된 공변량의 동일한 한계 분포를 보장하는 정밀한 균형은 종종 바람직한 설계 특징입니다. 기존의 가변 비율 매칭 접근 방식은 조건부 미세 균형을 달성합니다. 이를 통해 목표 공변량은 동일한 크기의 일치 세트(예: 쌍 또는 삼중항) 내에서 균형을 이루지만 반드시 풀링된 일치 샘플에서는 그렇지는 않습니다. 이러한 접근 방식은 일반적으로 두 단계로 진행됩니다. 단위는 먼저 추정된 전체 숫자를 기반으로 계층으로 분할되고, 그 다음에는 각 계층 내에서 정밀한 균형이 적용되는 1:K 매칭이 이어집니다. 여기에서는 한계 미세 균형, 즉 풀링된 일치 표본 전체에서 선택된 공변량의 균형을 달성하는 새로운 원샷 가변 비율 매칭 알고리즘을 제안합니다. 이 디자인은 단위가 다양한 크기의 세트로 그룹화되고 세트당 하나의 단위가 치료에 할당되는 무작위 대조 시험을 모방합니다. 우리는 한계 미세 균형이 선호되는 설정에 대해 논의하고 우심 카테터 삽입과 중증 환자의 사망률 사이의 관계에 대한 시뮬레이션 및 적용을 통해 제안된 방법을 평가합니다. 알고리즘은 R 패키지 match2C에서 구현됩니다."
+  },
+  "oa:W4385963630": {
+   "id": "oa:W4385963630",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Matching-based estimation of causal quantile exposure response functions for continuous treatments",
+   "authors": [
+    "Luca Merlo",
+    "Francesca Dominici",
+    "Lea Petrella",
+    "Nicola Salvati",
+    "Xiao Wu"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-10-25",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11222-026-11016-2",
+   "doi": "10.1007/s11222-026-11016-2",
+   "pdf": "https://arxiv.org/pdf/2308.01628",
+   "first_seen": "2026-11-03T12:33:02+09:00",
    "abs_tries": 1
+  },
+  "oa:W4404351369": {
+   "id": "oa:W4404351369",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Sparse linear regression: sequential convex relaxation and support recovery",
+   "authors": [
+    "Shujun Bi",
+    "Yonghua Yang",
+    "Shaohua Pan"
+   ],
+   "journal": "Statistics and Computing",
+   "date": "2026-10-25",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11222-026-10987-6",
+   "doi": "10.1007/s11222-026-10987-6",
+   "pdf": "https://arxiv.org/pdf/2411.01237",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7160862724": {
+   "id": "oa:W7160862724",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Bayesian multiple imputation for functional data",
+   "authors": [
+    "Ziren Jiang",
+    "Lei Xuan",
+    "Eric F. Lock",
+    "Erjia Cui"
+   ],
+   "journal": "Biometrics",
+   "date": "2026-10-07",
+   "abstract": "Missing data are pervasive in modern functional datasets, where trajectories are often sparsely or irregularly observed. Although functional principal component analysis is widely used to reconstruct incomplete curves, existing approaches typically employ single imputation, leading to overly optimistic inferences in downstream analyses. To address these challenges, we develop a novel Bayesian multiple imputation framework for functional data (BAMIFun). For single-level functional data, we impose a Bayesian low-rank model that incorporates penalized spline representations to enforce smoothness of the functional domain and derive an efficient Gibbs sampler algorithm for posterior computation. In addition, we demonstrate and validate how to properly account for estimation uncertainties in downstream analysis. Furthermore, we extend the framework to multiway functional data using Functional Tensor Singular Value Decomposition model, enabling Bayesian multiple imputation in settings not supported by existing methods. Simulation studies show that BAMIFun achieves substantially improved coverage and more reliable downstream inference compared to existing methods, while maintaining similar imputation accuracy. Case studies using a physical activity dataset and an infant gut microbiome dataset further demonstrate the practical advantages of our proposed methods under severe missingness.",
+   "url": "https://doi.org/10.1093/biomtc/ujag182",
+   "doi": "10.1093/biomtc/ujag182",
+   "pdf": "https://arxiv.org/pdf/2605.08018",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "누락된 데이터는 궤적이 드물거나 불규칙하게 관찰되는 현대 기능 데이터 세트에 널리 퍼져 있습니다. 기능적 주성분 분석은 불완전한 곡선을 재구성하는 데 널리 사용되지만 기존 접근 방식은 일반적으로 단일 대체를 사용하므로 다운스트림 분석에서 지나치게 낙관적인 추론으로 이어집니다. 이러한 과제를 해결하기 위해 우리는 기능적 데이터를 위한 새로운 베이지안 다중 대치 프레임워크(BAMIFun)를 개발했습니다. 단일 레벨 기능 데이터의 경우, 기능 영역의 부드러움을 강화하고 사후 계산을 위한 효율적인 Gibbs 샘플러 알고리즘을 도출하기 위해 페널티화된 스플라인 표현을 통합하는 베이지안 하위 순위 모델을 적용합니다. 또한 다운스트림 분석에서 추정 불확실성을 적절하게 설명하는 방법을 시연하고 검증합니다. 또한 Functional Tensor Singular Value Decomposition 모델을 사용하여 프레임워크를 다방향 기능 데이터로 확장하여 기존 방법에서 지원하지 않는 설정에서 베이지안 다중 대체를 가능하게 합니다. 시뮬레이션 연구에 따르면 BAMIFun은 유사한 대체 정확도를 유지하면서 기존 방법에 비해 실질적으로 향상된 적용 범위와 보다 안정적인 다운스트림 추론을 달성합니다. 신체 활동 데이터 세트와 유아 장내 미생물 데이터 세트를 사용한 사례 연구는 심각한 실종 상황에서 제안된 방법의 실질적인 이점을 추가로 보여줍니다."
+  },
+  "oa:W7225060744": {
+   "id": "oa:W7225060744",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "On the Possible Worlds Defined by Formal Ontologies: Rethinking the “One Ontology, One Possible World” Principle in the Context of Interoperable Systems",
+   "authors": [
+    "Timothy Tambassi"
+   ],
+   "journal": "Minds and Machines",
+   "date": "2026-11-02",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s11023-026-09797-6",
+   "doi": "10.1007/s11023-026-09797-6",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7225035062": {
+   "id": "oa:W7225035062",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "AI's name is artificial",
+   "authors": [
+    "Joe Weber"
+   ],
+   "journal": "AI Magazine",
+   "date": "2026-11-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1002/aaai.70121",
+   "doi": "10.1002/aaai.70121",
+   "pdf": "https://doi.org/10.1002/aaai.70121",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7225059991": {
+   "id": "oa:W7225059991",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "When human narratives meet artificial intelligence: exploring a framework for AI ethics",
+   "authors": [
+    "Daniel Phoenix",
+    "Alexandra Bejarano",
+    "Deborah S. Mower",
+    "Qin Zhu"
+   ],
+   "journal": "Ethics and Information Technology",
+   "date": "2026-11-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10676-026-09933-x",
+   "doi": "10.1007/s10676-026-09933-x",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1
+  },
+  "oa:W4414641270": {
+   "id": "oa:W4414641270",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The ethical implementation gap in AI-driven disaster risk reduction: empirical evidence from Australia’s multi-sector analysis",
+   "authors": [
+    "Nilantha Randeniya",
+    "Krisanthi Seneviratne",
+    "Sameera Wijesiri Pathirana",
+    "Richard Haigh",
+    "Dilanthi Amaratunga",
+    "Srinath Perera"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-30",
+   "abstract": "Abstract Context While artificial intelligence offers transformative potential for disaster risk reduction, its ethical deployment raises critical concerns when life-critical decisions depend on algorithmic systems with varying levels of accessibility across responsible organizations. This study quantifies AI adoption disparities across Australian DRR stakeholders and identifies institutional factors driving the adoption gap between innovation and operational deployment. A mixed-methods approach combined systematic review of 217 global AI-DRR publications (1999–2024) with qualitative analysis of 14 Australian organizations across government, academic, and NGO/private sectors (February-March 2025). Semi-structured interviews and document analysis examined AI technique adoption, data integration, and downscaling applications, with implementation levels systematically coded on a 1–5 scale following an inter-coder validated protocol. Government agencies demonstrate lower AI adoption (mean score 2.1/5) compared to academic institutions (4.0/5) and NGO/private organizations (3.4/5), representing a 47.5% adoption gap between government and academic sectors (Cohen’s d ≈ 2.0, indicating large practical difference despite small sample size). While academic institutions deploy advanced techniques including GANs and hybrid AI-physics models achieving 45% accuracy improvements, government agencies remain anchored to traditional systems like ACCESS with minimal AI integration. Critical barriers include procurement constraints (18–24-month cycles), computational limitations (10x below requirements), and regulatory mandates for explainable decisions. Academic innovations in AI-based downscaling, improving spatial resolution from 60 km to 10 km, remain inaccessible to operational agencies due to absence of knowledge transfer mechanisms. The study reveals an ethical adoption disparity where organizations with greatest responsibility for community safety show lowest AI adoption, creating accountability voids and equity concerns in disaster protection. This misalignment raises fundamental ethical questions about algorithmic justice, distributive justice, and procedural fairness in public safety contexts. Bridging this gap requires ethical governance frameworks addressing transparency, accountability, and equitable access to life-saving technologies, alongside institutional reforms enabling cross-sector knowledge transfer.",
+   "url": "https://doi.org/10.1007/s43681-026-01474-9",
+   "doi": "10.1007/s43681-026-01474-9",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01474-9.pdf",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "추상 맥락 인공 지능은 재해 위험 감소를 위한 혁신적인 잠재력을 제공하지만, 생명에 중요한 결정이 책임 있는 조직 전반에 걸쳐 다양한 수준의 접근성을 갖춘 알고리즘 시스템에 의존하는 경우 인공 지능의 윤리적 배치는 심각한 우려를 불러일으킵니다. 이 연구는 호주 DRR 이해관계자 간의 AI 채택 격차를 정량화하고 혁신과 운영 배포 사이의 채택 격차를 유발하는 제도적 요인을 식별합니다. 혼합 방법 접근 방식은 217개의 글로벌 AI-DRR 간행물(1999~2024)에 대한 체계적인 검토와 정부, 학계, NGO/민간 부문(2025년 2월~3월)의 14개 호주 조직에 대한 정성 분석을 결합했습니다. 반구조화된 인터뷰와 문서 분석을 통해 AI 기술 채택, 데이터 통합, 애플리케이션 축소를 조사했으며, 구현 수준은 인터 코더 검증 프로토콜에 따라 1~5 스케일로 체계적으로 코딩되었습니다. 정부 기관은 학술 기관(4.0/5) 및 NGO/민간 조직(3.4/5)에 비해 AI 채택률이 낮습니다(평균 점수 2.1/5). 이는 정부와 학계 간 채택 격차가 47.5%임을 나타냅니다(Cohen의 d ≒ 2.0, 작은 표본 크기에도 불구하고 실질적인 차이가 크다는 것을 나타냄). 교육 기관은 GAN 및 하이브리드 AI 물리 모델을 포함한 고급 기술을 배포하여 45%의 정확도 향상을 달성하는 반면, 정부 기관은 AI 통합을 최소화하면서 ACCESS와 같은 기존 시스템에 계속 고정되어 있습니다. 임계 막대"
+  },
+  "oa:W7171625077": {
+   "id": "oa:W7171625077",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Fluent and wrong: seven failure patterns in extended AI use",
+   "authors": [
+    "Hector Ramos"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-29",
+   "abstract": "Abstract Research on large language model failure predominantly assesses models in single exchanges and isolation: a prompted model, a scored output, and a reported error rate. The focus on single exchanges and isolation belies these current models’ professional use. Clinicians, attorneys, analysts, educators, and researchers work across extended sessions, and each output becomes the context for the next, while the final product carries a human signature. A test that scores a single response most likely will not reveal the behaviors that emerge under those conditions. This paper describes seven candidate failure patterns identified in exploratory, single-author observation of extended sessions on three commercial AI platforms: recognition without correction, compounding rather than isolation of errors, halo effect from real anchors, unreliable self-explanation, degradation across long sessions, exculpatory framing under confrontation, and sycophancy and confirmation bias amplification. Several are consistent with findings already established in the machine learning literature. Overall, the patterns describe a systemic failure profile that lower hallucination rates do not address because the concern lies in how the system handles errors once they exist. The systemic failure profile carries significant ethical consequences and concerns, since failures cascade to final approval; the duty to verify applies to any domain where a person approves LLM output.",
+   "url": "https://doi.org/10.1007/s43681-026-01478-5",
+   "doi": "10.1007/s43681-026-01478-5",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01478-5.pdf",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Abstract 대규모 언어 모델 실패에 대한 연구는 주로 단일 교환 및 격리에서 모델을 평가합니다(즉, 프롬프트된 모델, 점수가 매겨진 출력 및 보고된 오류율). 단일 교환 및 격리에 중점을 두는 것은 이러한 현재 모델의 전문적인 사용을 의심합니다. 임상의, 변호사, 분석가, 교육자 및 연구원은 확장된 세션에 걸쳐 작업하며 각 결과는 다음 결과의 맥락이 되고 최종 제품에는 사람의 서명이 전달됩니다. 단일 응답을 채점하는 테스트는 해당 조건에서 나타나는 행동을 드러내지 않을 가능성이 높습니다. 이 논문에서는 3가지 상업용 AI 플랫폼의 확장 세션에 대한 탐색적, 단일 저자 관찰에서 확인된 7가지 후보 실패 패턴에 대해 설명합니다. 즉, 수정 없는 인식, 오류 격리가 아닌 복합화, 실제 앵커의 후광 효과, 신뢰할 수 없는 자기 설명, 긴 세션 전반에 걸친 성능 저하, 대립 시 변명 프레이밍, 아첨과 확증 편향 증폭 등이 있습니다. 일부는 기계 학습 문헌에서 이미 확립된 결과와 일치합니다. 전반적으로 패턴은 오류가 발생한 후 시스템이 오류를 처리하는 방법에 문제가 있기 때문에 낮은 환각 비율로는 해결되지 않는 시스템 오류 프로필을 설명합니다. 실패는 최종 승인까지 이어지기 때문에 체계적인 실패 프로필은 심각한 윤리적 결과와 우려를 낳습니다. 확인 의무는 개인이 LLM 출력을 승인하는 모든 도메인에 적용됩니다."
+  },
+  "oa:W7204829404": {
+   "id": "oa:W7204829404",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "An ethical framework for generative AI in marketing to vulnerable audiences",
+   "authors": [
+    "Mirgul Amirova",
+    "Alisher Mirsakhatov",
+    "Zauresh Akhmetova"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-29",
+   "abstract": "The rapid uptake of generative artificial intelligence in commercial communication has produced normative challenges that established consumer-protection frameworks were not designed to address. Parents of children with autism, attention-deficit / hyperactivity conditions and related neurodevelopmental conditions occupy a distinctive position in the marketplace for early-intervention therapeutic services: they are competent decision-makers who nonetheless act under strong situational, informational and institutional pressures. This article develops a principlist ethical framework for the use of generative AI in marketing to this audience, treating an autonomous non-profit organisation in Almaty, Kazakhstan, as an illustrative context rather than an empirical case. The framework extends the four principles of Beauchamp and Childress (respect for autonomy, beneficence, non-maleficence, justice) by adding explicability as articulated by the AI4People initiative of Floridi and colleagues, and engages virtue-ethical and feminist critiques of principlism. Five operational specifications are proposed as contextually feasible operationalisations of the extended scheme: source-of-communication transparency, prohibition of unsupported therapeutic claims, protection of household deliberative autonomy, data minimisation in audience analytics and named human accountability for generative-system failures. The specifications are contextually feasible rather than uniquely entailed by principlism; they are offered as one defensible operationalisation for a specific class of vulnerable marketing audiences.",
+   "url": "https://doi.org/10.1007/s43681-026-01430-7",
+   "doi": "10.1007/s43681-026-01430-7",
+   "pdf": "https://doi.org/10.2139/ssrn.7368538",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1,
+   "abs_src": "보충",
+   "abstract_ko": "상업용 커뮤니케이션에서 생성적 인공 지능이 빠르게 활용되면서 확립된 소비자 보호 프레임워크가 해결하도록 설계되지 않은 규범적인 문제가 발생했습니다. 자폐증, 주의력결핍/과잉행동 장애 및 관련 신경발달 장애가 있는 아동의 부모는 조기 개입 치료 서비스 시장에서 독특한 위치를 차지하고 있습니다. 그럼에도 불구하고 그들은 강력한 상황, 정보 및 제도적 압력 하에서 행동하는 유능한 의사결정자입니다. 이 기사는 카자흐스탄 알마티의 자율적 비영리 조직을 경험적 사례가 아닌 예시적 맥락으로 다루면서 이러한 청중을 대상으로 한 마케팅에 생성 AI를 사용하기 위한 원칙주의적 윤리적 프레임워크를 개발합니다. 이 프레임워크는 Floridi와 동료들의 AI4People 이니셔티브에 의해 표현된 설명성을 추가하여 Beauchamp와 Childress의 네 가지 원칙(자율성 존중, 자비, 비악의, 정의)을 확장하고 원칙주의에 대한 덕 윤리적 및 페미니즘적 비판에 참여합니다. 확장된 계획의 상황에 맞게 실행 가능한 운영화로 5가지 운영 사양이 제안됩니다. 즉, 통신 소스 투명성, 지원되지 않는 치료 주장 금지, 가정의 심의 자율성 보호, 청중 분석의 데이터 최소화 및 생성 시스템 오류에 대한 명명된 인간 책임입니다. 사양은 원칙에 따라 고유하게 수반되기보다는 상황에 따라 실행 가능합니다."
+  },
+  "oa:W4413741172": {
+   "id": "oa:W4413741172",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "When AI sets wages: biases and labor discrimination in generative pricing",
+   "authors": [
+    "Maxime C. Cohen",
+    "Eddy Hage-Youssef",
+    "Warut Khern-am-nuai"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-10-27",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01472-x",
+   "doi": "10.1007/s43681-026-01472-x",
+   "pdf": "https://doi.org/10.2139/ssrn.5404966",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1
+  },
+  "oa:W4409145249": {
+   "id": "oa:W4409145249",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The Precautionary Principle and the Innovation Principle: Incompatible Guides?",
+   "authors": [
+    "Kim Kaivanto"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-10-26",
+   "abstract": "Abstract In policy debates concerning the governance and regulation of transformative technologies, both the Precautionary Principle (PP) and the Innovation Principle (IP) are advocated by their respective interest groups. Do these principles offer wholly incompatible and contradictory guidance? Does one necessarily negate the other? I argue here that provided attention is restricted to weak-form PP and IP, the answer to both of these questions is “No.” The essence of these weak formulations is the requirement to fully account for type-I error costs arising from erroneously preventing the innovation’s diffusion through society (i.e. mistaken regulatory red-lighting) as well as the type-II error costs arising from erroneously allowing the innovation to diffuse through society (i.e. mistaken regulatory green-lighting). Within the Signal Detection Theory (SDT) model developed here, weak-PP red-light (weak-IP green-light) determinations are optimal for sufficiently small (large) ratios of expected type-I to type-II error costs. For intermediate expected cost ratios, an amber-light ‘wait-and-monitor’ policy is optimal. Regulatory sandbox instruments allow testing and experimentation to take place within a structured environment of limited duration and societal scale, whereby the expected cost ratio falls within the ‘wait-and-monitor’ range. Through sandboxing regulators and innovating firms learn more about the expected cost ratio, and what respective adaptations — of regulation, of technical solution, of business model, or combination thereof, if any — are needed to keep the ratio out of the weak-PP red-light zone.",
+   "url": "https://doi.org/10.1007/s13347-026-01208-z",
+   "doi": "10.1007/s13347-026-01208-z",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01208-z.pdf",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "Abstract 혁신적인 기술의 거버넌스 및 규제에 관한 정책 토론에서 예방 원칙(PP)과 혁신 원칙(IP)은 각각의 이해 집단에서 옹호됩니다. 이러한 원칙은 완전히 양립할 수 없고 모순되는 지침을 제공합니까? 하나는 반드시 다른 하나를 부정하는가? 나는 여기서 제공되는 관심이 약한 형태의 PP와 IP로 제한된다고 주장하며, 이 두 질문에 대한 대답은 \"아니요\"입니다. 이러한 약한 공식의 본질은 혁신이 사회에 확산되는 것을 잘못 방지함으로써 발생하는 제1종 오류 비용(예: 잘못된 규제 적시)과 혁신이 사회 전체에 잘못 확산되도록 잘못 허용함으로써 발생하는 제2종 오류 비용(즉, 잘못된 규제 녹색 조명)을 완전히 설명해야 한다는 요구 사항입니다. 여기에서 개발된 신호 감지 이론(SDT) 모델 내에서 약한 PP 적색광(약한 IP 녹색광) 결정은 예상되는 유형 I 대 유형 II 오류 비용의 충분히 작은(큰) 비율에 최적입니다. 중간 예상 비용 비율의 경우 황색 표시등의 '대기 및 모니터링' 정책이 최적입니다. 규제 샌드박스 도구를 사용하면 제한된 기간과 사회적 규모의 구조화된 환경 내에서 테스트 및 실험을 수행할 수 있으므로 예상 비용 비율이 '대기 및 모니터링' 범위에 속합니다. 샌드박싱을 통해 규제 기관과 혁신 기업은 예상 비용 비율과 각각의 적응, 즉 규제에 대해 자세히 알아봅니다."
+  },
+  "oa:W7165626757": {
+   "id": "oa:W7165626757",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Low-vocality engagement and participation dynamics on Bluesky",
+   "authors": [
+    "Veronica Mesina",
+    "Andrea Failla",
+    "Luca Pappalardo",
+    "Giulio Rossetti"
+   ],
+   "journal": "EPJ Data Science",
+   "date": "2026-10-26",
+   "abstract": "Online participation is often measured through visible expression, especially posting, yet consequential forms of engagement also occur through less vocal actions such as liking and following. We study how users inhabit Bluesky by reconstructing participation profiles from more than three billion activity records produced by a near-complete sample accounting for more than 80% of registered users. Aggregating behavior into monthly user-level observations, we distinguish two dimensions often conflated in platform analytics: intensity, capturing how much users engage, and style, capturing how engagement is expressed across actions. We find that vocal production is highly concentrated, but low-posting behavior does not imply absence from platform participation. High-intensity engagement is most strongly associated with liking rather than posting, while posting-oriented participation is more common among low-intensity users. Transition patterns show that high-intensity liking and posting stabilize active participation, network-building redirects users within the active space, and observed inactivity forms a persistent boundary to re-entry. Higher-order motifs further indicate that inactivity can interrupt rather than erase prior regimes, and that low-intensity liking can precede durable high-intensity engagement. These results call for a shift from post-centered measures of activity toward dynamic accounts of platform presence that incorporate differentiated low-vocality practices.",
+   "url": "https://doi.org/10.1140/epjds/s13688-026-00711-9",
+   "doi": "10.1140/epjds/s13688-026-00711-9",
+   "pdf": "https://doi.org/10.1140/epjds/s13688-026-00711-9",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "온라인 참여는 가시적인 표현, 특히 게시를 통해 측정되는 경우가 많지만, 결과적인 참여 형태는 좋아요나 팔로우와 같은 덜 목소리적인 행동을 통해서도 발생합니다. 우리는 등록된 사용자의 80% 이상을 차지하는 거의 완전한 샘플을 통해 생성된 30억 개가 넘는 활동 기록에서 참여 프로필을 재구성하여 사용자가 Bluesky에 어떻게 거주하는지 연구합니다. 행동을 월별 사용자 수준 관찰로 집계하여 플랫폼 분석에서 종종 혼동되는 두 가지 차원, 즉 강도, 사용자 참여 정도 캡처 및 스타일, 활동 전반에 걸쳐 참여가 표현되는 방식 캡처를 구분합니다. 우리는 보컬 생성이 매우 집중되어 있음을 발견했지만 게시가 적은 행동이 플랫폼 참여가 없음을 의미하지는 않습니다. 고강도 참여는 게시보다는 좋아요와 가장 밀접한 관련이 있는 반면, 게시 중심의 참여는 강도가 낮은 사용자에게 더 일반적입니다. 전환 패턴은 고강도 좋아요와 게시가 활성 참여를 안정화시키고, 네트워크 구축이 활성 공간 내에서 사용자를 리디렉션하며, 관찰된 비활성이 재진입에 대한 지속적인 경계를 형성한다는 것을 보여줍니다. 고차 모티프는 비활성이 이전 정권을 지우기보다는 중단할 수 있으며 낮은 강도의 선호가 내구성 있는 고강도 참여보다 먼저 나타날 수 있음을 나타냅니다. 이러한 결과는 포스트 중심의 활동 측정에서 차별화된 저음성 관행을 통합하는 플랫폼 존재에 대한 역동적인 설명으로의 전환을 요구합니다."
+  },
+  "oa:W7225038115": {
+   "id": "oa:W7225038115",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Ambivalent experiences in digital social services: An interpretative phenomenological analysis of disadvantaged women's interaction with digital welfare",
+   "authors": [
+    "Cíntia Ebner Melchiori",
+    "Maria Alexandra Cunha",
+    "Fernando Burgos"
+   ],
+   "journal": "Government Information Quarterly",
+   "date": "2026-11-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.giq.2026.102191",
+   "doi": "10.1016/j.giq.2026.102191",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7225049921": {
+   "id": "oa:W7225049921",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "The role of design choices in data spaces: Connector providers’ business models",
+   "authors": [
+    "Melanie Verstraete",
+    "Didier Colle",
+    "Sofie Verbrugge"
+   ],
+   "journal": "Telecommunications Policy",
+   "date": "2026-11-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.telpol.2026.103333",
+   "doi": "10.1016/j.telpol.2026.103333",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7214753888": {
+   "id": "oa:W7214753888",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Liability for rogue behaviors of agentic AI",
+   "authors": [
+    "Gleb Papyshev",
+    "Keith Jin Deng Chan",
+    "Sara Migliorini"
+   ],
+   "journal": "Telecommunications Policy",
+   "date": "2026-10-25",
+   "abstract": "This article addresses liability for harm caused by rogue behaviors in agentic AI systems (AAI), such as specification gaming and deliberate deception. These harms stem from inherent AI vices-intrinsic, inevitable, and unpredictable rogue behaviors of AAI which cannot be fully eliminated with the current state of technological development. Current regulatory frameworks mainly focus on risk prevention but fail to address how liability should be allocated when harms do occur. In response, we conducted a game-theoretic analysis to study the optimal design of legal liability for unpredictable AAI harm caused by rogue behaviors under imperfect information. Our analysis shows that the optimal liability regime dynamically hinges on the explainability of the AAI system in question. Under this regime, courts can leverage industry-led explainability benchmarks to differentiate damages based on whether the developer can satisfactorily prove that the harm in question was caused by inherent vices. Under this arrangement, developers are incentivized to invest in explainability techniques to reduce both the risk of their AAI and their own liability exposure. Through this analysis, we demonstrate how a liability framework grounded in explainability can create economic incentives for developers to prioritize transparency and accountability of commercially available AAI.",
+   "url": "https://doi.org/10.1016/j.telpol.2026.103339",
+   "doi": "10.1016/j.telpol.2026.103339",
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0308596126001898/pdf",
+   "first_seen": "2026-11-03T12:33:02+09:00",
+   "abstract_ko": "이 문서에서는 사양 게임 및 고의적인 속임수와 같은 AAI(에이전트 AI 시스템)의 악의적인 동작으로 인해 발생하는 피해에 대한 책임을 다룹니다. 이러한 피해는 현재의 기술 개발 상태로 완전히 제거할 수 없는 본질적이고 불가피하며 예측할 수 없는 AAI의 불량 행위인 AI 고유의 악덕에서 비롯됩니다. 현재 규제 프레임워크는 주로 위험 예방에 초점을 맞추고 있지만 피해가 발생할 때 책임을 할당하는 방법을 다루지 못합니다. 이에 우리는 불완전한 정보 하에서 악의적 행위로 인해 발생하는 예측 불가능한 AAI 피해에 대한 법적 책임의 최적 설계를 연구하기 위해 게임이론적 분석을 수행했습니다. 우리의 분석에 따르면 최적의 책임 체제는 해당 AAI 시스템의 설명 가능성에 따라 동적으로 좌우됩니다. 이 체제 하에서 법원은 업계 주도의 설명 가능성 벤치마크를 활용하여 개발자가 문제의 피해가 내재된 악덕에 의해 발생했음을 만족스럽게 증명할 수 있는지 여부에 따라 손해를 차별화할 수 있습니다. 이러한 합의에 따라 개발자는 AAI의 위험과 책임 노출을 모두 줄이기 위해 설명 기술에 투자하도록 인센티브를 받습니다. 이 분석을 통해 우리는 설명성에 기반을 둔 책임 프레임워크가 개발자가 상업적으로 이용 가능한 AAI의 투명성과 책임성을 우선시하도록 경제적 인센티브를 창출할 수 있는 방법을 보여줍니다."
+  },
+  "kci:ART003398708": {
+   "id": "kci:ART003398708",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "AI 시대, 사유의 과제",
+   "authors": [
+    "박서현"
+   ],
+   "journal": "인공지능윤리연구",
+   "date": "2026-10",
+   "abstract": "이 글의 과제는 AI 시대라고 할 수 있을 오늘날 우리에게 제기되는 사유의 과제가 무엇인지를 확인하는 것이다. 인간의 사유 즉 자연 지능과 AI의 디지털 지능은 다르다. 문제는, 양자가 엄연히 다름에도 AI의 계산적·기술적 지능이 인간 사유의 전범과 같은 것으로 여겨지는 경향이 있다는 점, AI가 생성한 것을 바람직한 것으로 여기면서 이에 만족해 버리는 경향이 있다는 점 등이다. 이러한 점에서 AI 시대 우리에게 요구되는 것은 역설적으로 실패를 겪으면서 암중모색할 때에만 비로소 가능할 수 있는, 그리하여 오랜 시간이 걸릴 수밖에 없는 우리 자신의 사유의 힘을 공들여 키우는 태도다. 이러한 태도는 인간의 언어와 감정 그리고 무엇보다도 사유의 표현을 데이터로 학습하는 오늘날의 생성형 AI와, 우리 자신의 공진화를 위해서도 중요하고 필요하다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398708",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00"
+  },
+  "kci:ART003398711": {
+   "id": "kci:ART003398711",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "인공지능 윤리의 토대와 기술철학 - 하이데거의 기술철학을 중심으로 -",
+   "authors": [
+    "김태창"
+   ],
+   "journal": "인공지능윤리연구",
+   "date": "2026-10",
+   "abstract": "이 연구는 하이데거의 기술철학이 인공지능 시대의 윤리적 성찰에 기여하는 방식과 그 정당화 조건을 해명하는 데 목적이 있다. 주요 1차 문헌을 해석하고 인공지능 윤리 선행 연구와 비교하면서, 존재론적 분석과 규범적 정당화를 구별하여 연결한다. 먼저 닦달과 역운의 개념을 통해 인공지능이 매개하는 분류와 예측이 인간과 세계를 이해하는 유일한 기준으로 굳어질 수 있는 조건을 분석한다. 이어 중대한 처우의 대상이 되는 사람에게 결정 이유의 설명, 관련 사정의 제시, 이의 제기의 기회가 보장되어야 한다는 규범적 논증을 제시한다. 기술적 분류가 이러한 가능성을 차단한다면 그 전제와 적용 범위를 재검토할 윤리적 필요가 발생한다. 이를 바탕으로 초연한 내맡김과 성찰적 거리 두기에 관한 선행 논의를 계승하면서, 성찰적 거리 두기를 기술적 평가를 검토하고 다른 설명에 응답하며 판단을 수정할 여지를 확보하는 실천으로 구체화한다. 그 방향은 판단의 재검토, 기술적 기준의 상대화, 다른 이해와 관계의 보존, 실질적인 선택 조건의 마련이다. 이를 위해 정보와 시간, 판단을 수정할 권한, 이의 제기 절차, 결정 권한에 상응하는 책임 배분이 요구된다. 본 연구의 기여는 존재론적 진단과 규범적 전제 및 제도적 요구를 연결하는 조건부 논증을 제시하는 데 있다. 제시된 사례는 논증을 설명하기 위한 예시이며, 실증적 효과의 검증은 후속 연구의 과제이다. 이러한 논의는 기존 인공지능 윤리 원칙이 전제하는 인간 이해와 기술적 조건을 성찰할 철학적 틀을 제공한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398711",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00"
+  },
+  "kci:ART003398721": {
+   "id": "kci:ART003398721",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "청소년의 사회적 고립과  AI 관계 대체를 반영한  2022 사회과 「통합사회」 교육과정 성취기준의 개선 방향",
+   "authors": [
+    "박보람"
+   ],
+   "journal": "인공지능윤리연구",
+   "date": "2026-10",
+   "abstract": "본 연구는 청소년의 사회적 고립과 AI 관계 대체를 바탕으로 2022 사회과 「통합사회」 교육과정의 ‘생활공간과 사회’ 성취기준을 검토하고 개선 방향을 제안하였다. 설문자료와 교육과정 문서를 비교한 결과, 현행 성취기준은 과학기술에 따른 생활공간과 인간관계 변화를 포괄하지만 디지털·AI 공간의 사회적 지지 부족, 외로움·소외감, 사회적 위축 및 AI 관계 대체를 구체적으로 다루지 못하였다. 이에 성취기준 해설에는 물리적 공간과 디지털·AI 공간의 연계, 사회적 고립의 다차원성, AI 관계의 보완과 대체를 명시하고, 적용 시 고려 사항에는 실제 자료 분석, 생활공간 시각화 및 개인·학교·지역사회 차원의 해결 방안 탐구를 포함할 것을 제안하였다. 이는 청소년의 삶을 반영한 시민 역량교육에 기여할 수 있다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398721",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00"
+  },
+  "kci:ART003398725": {
+   "id": "kci:ART003398725",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "Generative AI in University English Education - An Evidence Synthesis and Implications for Higher Education -",
+   "authors": [
+    "이용직",
+    "최현철"
+   ],
+   "journal": "인공지능윤리연구",
+   "date": "2026-10",
+   "abstract": "Generative artificial intelligence (GenAI) is increasingly used in university English education, offering opportunities for language practice while rais ing questions about learning, authorship, and responsibility. This study ex amines these pedagogical possibilities and ethical considerations through an evidence synthesis of a predefined corpus to derive implications for university English education. Following full-text eligibility assessment, 19 of 20 previously assembled publications were retained. Published between 2024 and 2026, the corpus comprised ten systematic reviews, one me ta-analysis, six conceptual, critical, or pedagogical publications, and two primary studies. Structured data extraction and thematic synthesis exam ined tools, learning activities, pedagogical opportunities, risks, and instruc tional conditions. Six themes were identified: AI-supported writing and feedback; oral interaction and speaking practice; reading, listening, and integrated language skills; guided learner autonomy and AI literacy; ethics and academic integrity; and teacher-mediated curriculum design. Within the analyzed corpus, writing feedback and speaking practice received greater attention than reading and listening. The synthesis suggests that responsible integration requires aligning AI assistance with learning objec tives, preserving learner agency, verifying generated content, appropri ately disclosing AI assistance, protecting privacy, and ensuring equitable access. Assessment should consider the quality of AI-assisted products alongside evidence of learning processes and unaided performance. However, the predefined scope, heterogeneous evidence, and possible overlap among the primary studies synthesized in the reviews limit gener alizability and causal inference. The study proposes ethical design princi ples for university English courses and identifies priorities for transparent literature searches, methodological appraisal, and classroom research in Korean higher education examining sustained learning and independent performance.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398725",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00"
+  },
+  "kci:ART003398729": {
+   "id": "kci:ART003398729",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "정보철학적 관점에서 본 디지털 시민성 교육 내용 체계 연구 - 플로리디의 인포스피어 개념을 중심으로 -",
+   "authors": [
+    "이지형",
+    "변순용"
+   ],
+   "journal": "인공지능윤리연구",
+   "date": "2026-10",
+   "abstract": "본 연구는 루치아노 플로리디(Luciano Floridi)의 정보철학, 특히 인포스피어(Infosphere) 개념을 이론적 토대로 삼아 디지털 시민성 교육 내용 체계를 재구성하고자 한다. 오늘날디지털 기술의 급속한 발전은 온·오프라인의 경계를 허물며 인간 존재 방식 자체를 재구성하고 있다. 이러한 환경에서 인간이 어떠한 존재인지 이해하고, 사회적 조건을 비판적으로 판단하며, 공동체의 구성원으로서 책임 있게 참여하는 능력이 필요하다. 이에 본 연구는 플로리디의 정보 윤리(Information Ethics), 인포스피어, 인포그(Inforg), 재존재화(Re-ontologization), 온라이프(Onlife) 개념을 살펴보고, 인포스피어의 관점에서 디지털 시민성 교육 내용 체계의 세 가지 축—존재론적 축, 윤리적 축, 실천적 축—을 도출하였다. 교육 내용 구성 요소로 정보적 자기 이해, 가치 판단과 정보적 책임, 능동적참여와 정보 환경의 개선으로 제시하였다. 본 연구는 디지털 시민성 교육을 인간 존재의 재이해라는 철학적 토대 위에서 플로리디의 이론의 교육적 적용 가능성을 비판적으로 검토하였다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398729",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00"
+  },
+  "kci:ART003398714": {
+   "id": "kci:ART003398714",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "AI 윤리 연구의 발전 과정과 과제",
+   "authors": [
+    "정대성"
+   ],
+   "journal": "인공지능윤리연구",
+   "date": "2026-10",
+   "abstract": "본 연구는 인공지능(AI) 기술의 발전 과정과 이에 따른 AI 윤리 연구의 변화 양상을 분석하고, 향후 사회에서 요구되는 AI 윤리의 과제와 발전 방향을 탐색하는 데 목적이 있다. AI는 의료, 금융, 교육, 공공 행정, 자율 주행, 콘텐츠 생성 등 다양한 분야에서 활용되며 사회적 영향력을 확대하고 있다. 이에 따라 알고리즘 편향, 개인 정보 침해, 책임 귀속의 불명확성, 설명 가능성 부족, 인간 자율성 약화 등 윤리적 문제가 등장한다. 본 연구는 AI와 AI 윤리의 발전 역사를 검토하고, 현재 주요 활용 분야에서 나타나는 윤리적 쟁점을 체계적으로 정리하였다. 또한 UNESCO, OECD, EU 등 국제기구와 각국 정부의 AI 거버넌스 및 법제화 동향을 분석하여 AI 윤리가 선언적 원칙을 넘어 제도적 규범으로 발전하고 있음을 확인하였다. 나아가 AI 윤리 영향 평가와 자율 점검표 등의 실천적 도구를 검토하고, 책임성과 책무성, 공정성, 투명성, 인간 존엄성 보장 문제를 현재 AI 윤리 연구의 핵심 과제로 제시하였다. 한편 AGI(범용 인공지능)의 등장 가능성과 이에 따른 권력 구조 변화, 노동 시장 재편, 기본 소득 시행 논의 등 미래 사회의 윤리 문제도 제시하고 해법도 제안한다. 본 연구는 AI 윤리가 인간 중심적 가치와 사회적 신뢰를 확보하기 위한 필수적 기반임을 강조하며, 윤리학·법학·공학의 학제적 협력을 통한 지속적인 연구와 제도적 대응의 필요성을 제안한다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398714",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00"
+  },
+  "kci:ART003398718": {
+   "id": "kci:ART003398718",
+   "topic": "ai-ml",
+   "origin": "KCI",
+   "title": "휴머노이드 로봇의 윤리 원칙의 재검토와 정당화에 대한 연구",
+   "authors": [
+    "변순용"
+   ],
+   "journal": "인공지능윤리연구",
+   "date": "2026-10",
+   "abstract": "휴머노이드 로봇이 인간과 공존하기 위해 가장 중요한 것은 휴머노이드 로봇이 갖추어야 할 윤리 원칙을 정립하는 것이다. 이에 인간 존엄성과 인류의 공공선을 가장 중요한핵심 가치로 제시하고, 이를 바탕으로 휴머노이드 로봇을 위한 다음의 네 가지 윤리 원칙을 제안한다. 첫 번째 원칙은 휴머노이드 로봇은 인간 존엄성을 존중하고 인류 공공선 실현에 기여해야 한다는 것이다. 두 번째 원칙은 휴머노이드 로봇은 인간의 존엄성을 존중하고 공공선을 실현하는 범위 안에서 인간의 행복 실현에 기여해야 한다는 것이다. 세 번째 원칙은 휴머노이드 로봇은 위의 두 원칙을 위반하지 않는 범위 안에서사용자의 명령을 수행해야 한다는 것이다. 마지막 원칙은 휴머노이드 로봇은 설계 및제조 목적에 부합하는 명령을 따르되, 그 목적에서 벗어난 사용자의 명령은 거부할 수있어야 한다는 것이다.",
+   "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398718",
+   "doi": "",
+   "pdf": "",
+   "first_seen": "2026-11-03T12:33:02+09:00"
   }
  }
 }
