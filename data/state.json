@@ -43683,7 +43683,7 @@
    "abstract": "The representation of word meanings by positions in a vector space is now widely used across a range of psychological models and technological applications. There exist many different approaches for creating such vectors, with distributional semantic vectors (DSVs) often produced directly or indirectly from word co-occurrence statistics derived from large corpora of natural language. One of the most widely used methods for testing and comparing their performance is the vocabulary multiple-choice question (VMCQ) test, in which the best synonym of each tested word has to be identified from among a set of distractor words. By manipulating the details of the questions, they can also be used to explore finer-grained aspects of performance, in particular the effect of word frequency. Many such tests have already been created for testing human linguistic ability, and they are easily applied to DSVs by basing the choice on simple vector distances. This paper demonstrates that, while the general VMCQ approach is useful for testing DSVs, designing VMCQs specifically for DSVs provides better results than using existing tests created for humans. To do that, an improved VMCQ scoring method is first developed that provides considerably more statistically reliable results, and that allows a series of new evaluation methods to be introduced that enable improved explorations of the effect of word frequency on DSVs and VMCQs. These eventually lead to the identification of an improved general VMCQ approach for exploring frequency effects in DSVs, which is successfully tested on a representative set of nine previously published DSVs.",
    "url": "https://doi.org/10.3758/s13428-026-03143-5",
    "doi": "10.3758/s13428-026-03143-5",
-   "pdf": "https://doi.org/10.31234/osf.io/98d4n_v1",
+   "pdf": "https://doi.org/10.31234/osf.io/98d4n_v2",
    "first_seen": "2026-08-16T07:45:38+09:00",
    "abstract_ko": "벡터 공간의 위치에 따른 단어 의미 표현은 이제 다양한 심리학 모델과 기술 응용 분야에서 널리 사용됩니다. 이러한 벡터를 생성하기 위한 다양한 접근 방식이 존재하며, DSV(분포 의미론적 벡터)는 대규모 자연어 말뭉치에서 파생된 단어 동시 발생 통계에서 직접 또는 간접적으로 생성되는 경우가 많습니다. 성능을 테스트하고 비교하기 위해 가장 널리 사용되는 방법 중 하나는 어휘 객관식 질문(VMCQ) 테스트로, 테스트된 각 단어의 가장 좋은 동의어가 산만한 단어 세트 중에서 식별되어야 합니다. 질문의 세부 사항을 조작함으로써 성능의 보다 세부적인 측면, 특히 단어 빈도의 효과를 탐색하는 데 사용할 수도 있습니다. 이러한 많은 테스트는 인간의 언어 능력을 테스트하기 위해 이미 만들어졌으며 간단한 벡터 거리를 기반으로 선택하여 DSV에 쉽게 적용됩니다. 이 문서에서는 일반적인 VMCQ 접근 방식이 DSV 테스트에 유용하지만 DSV용으로 특별히 VMCQ를 설계하면 인간을 위해 만들어진 기존 테스트를 사용하는 것보다 더 나은 결과를 제공한다는 것을 보여줍니다. 이를 위해 통계적으로 훨씬 더 신뢰할 수 있는 결과를 제공하고 DSV 및 VMCQ에 대한 단어 빈도의 영향에 대한 향상된 탐색을 가능하게 하는 일련의 새로운 평가 방법을 도입할 수 있는 향상된 VMCQ 채점 방법이 먼저 개발되었습니다. 이는 결국 향상된 일반 VM의 식별로 이어집니다.",
    "abs_tries": 0,
@@ -87474,7 +87474,7 @@
    "abstract": "Word embeddings are a powerful tool for measuring cultural meaning using large text corpora. In sociology, applications commonly estimate the meanings of concepts by projecting keywords onto axes constructed from pairs of opposing anchor keywords. At present, there are no established metrics for assessing axis reliability from embedding data. We investigate three potentially relevant forms of reliability: parallelism between offsets, synonymy between same-endpoint anchors, and antonymy between opposed anchors. Using an original N = 1 , 750 survey of respondents’ ratings of several hundred terms along 36 semantic dimensions plus existing ratings for 3 more, we find that parallelism robustly outperforms the other metrics in predicting the accuracy of 39,000 axes that operationalize these dimensions. Our decomposition of the parallelism–accuracy relationship between and within latent dimensions and anchor sets further shows that, while reliability is robustly related to axis accuracy at all levels, it provides a relatively weak guide for selecting specific keywords. Instead, the primary utility of parallelism may lie at higher levels of methodological decision-making: strongly identifying the most empirically tractable semantic dimension and, secondarily, suggesting the best embedding model for an anchor set.",
    "url": "https://doi.org/10.1177/00491241261467930",
    "doi": "10.1177/00491241261467930",
-   "pdf": "https://osf.io/576h3/download",
+   "pdf": "https://doi.org/10.31235/osf.io/576h3_v2",
    "first_seen": "2026-09-20T09:13:08+09:00",
    "abstract_ko": "단어 임베딩은 큰 텍스트 말뭉치를 사용하여 문화적 의미를 측정하는 강력한 도구입니다. 사회학에서 애플리케이션은 일반적으로 반대되는 앵커 키워드 쌍으로 구성된 축에 키워드를 투영하여 개념의 의미를 추정합니다. 현재 내장 데이터에서 축 신뢰성을 평가하기 위한 확립된 측정항목은 없습니다. 우리는 잠재적으로 관련된 세 가지 형태의 신뢰성, 즉 오프셋 간의 병렬성, 동일한 끝점 앵커 간의 동의어, 반대 앵커 간의 반의어를 조사합니다. 36개의 의미 차원에 따른 수백 개의 용어에 대한 응답자의 평가에 대한 원래 N = 1, 750 설문조사와 3개 이상의 기존 평가를 사용하여 병렬성이 이러한 차원을 운용하는 39,000개 축의 정확도를 예측하는 데 있어 다른 측정항목보다 훨씬 뛰어난 성능을 보인다는 사실을 발견했습니다. 잠재 차원과 앵커 세트 간의 병렬성-정확도 관계에 대한 분해는 신뢰성이 모든 수준에서 축 정확도와 강력하게 관련되어 있지만 특정 키워드를 선택하는 데 상대적으로 약한 가이드를 제공한다는 것을 추가로 보여줍니다. 대신, 병렬성의 주요 유용성은 더 높은 수준의 방법론적 의사 결정에 있을 수 있습니다. 즉, 가장 경험적으로 다루기 쉬운 의미 차원을 ​​강력하게 식별하고, 두 번째로 앵커 세트에 대한 최상의 임베딩 모델을 제안합니다.",
    "abs_tries": 0,
@@ -124328,7 +124328,7 @@
    "abstract": "In the natural world, higher-level visual features (e.g., scenes and objects) systematically covary with specific lower-level constituent features (e.g., textures and patterns). This natural covariation makes it difficult to isolate aspects of behavior or brain activity that are specific to a single level of the feature hierarchy. For example, a particular neural or behavioral response may reflect recognition of a \"jungle\" scene, or it may reflect sensitivity to the lower-level features - leaf textures, dense vertical lines, etc. - that constitute jungle scenes. To address this challenge, we developed a novel approach for partially decoupling higher- and lower-level features in naturalistic images. We employed a Stable Diffusion image generation framework to create a naturalistic image set in which setting-object pairings and texture-pattern pairings are factorially combined, enabling systematic manipulation of higher-level and lower-level image content. To validate our approach, we used state-of-the-art image-processing models to confirm that higher-level features are represented similarly regardless of their lower-level constituents and, conversely, that lower-level features are represented similarly regardless of the higher-level objects/settings they constitute. We then confirmed that human participants can readily and rapidly categorize these features in our generated images. We present the image generation framework and introduce the SPOT (Settings, Patterns, Objects, Textures) Grid, a publicly available stimulus set accompanied by image-specific metrics (upon request: forms.gle/X2HpzRYUGigFS1S27). This resource provides new opportunities for investigating hierarchical visual representations, feature binding, and abstraction across perception, behavior, and the brain.",
    "url": "https://doi.org/10.3758/s13428-026-03211-w",
    "doi": "10.3758/s13428-026-03211-w",
-   "pdf": "https://doi.org/10.31234/osf.io/unv5g_v2",
+   "pdf": "https://doi.org/10.31234/osf.io/unv5g_v3",
    "first_seen": "2026-10-25T09:26:01+09:00",
    "abs_tries": 3,
    "ko_tries": 0,
@@ -130154,7 +130154,7 @@
    "abstract": "Participant fraud poses a growing threat to international LGBTQ+ social research, yet existing mitigation recommendations are fragmented and inconsistent across the literature. This paper addresses this gap by synthesizing insights across two case studies of international surveys on LGBTQ+ populations compromised by fraud. Case study 1 (N = 1,707) details a preventative screening process in a survey about LGBTQ+ leisure spaces, combining Qualtrics security tools with geolocation and email checks. Case study 2 (N = 3,681) outlines an eliminative strategy in an LGBTQ+ video gaming survey using 10 fraud indicators analyzed using unsupervised machine learning. Each study found fraud rates of 43–45% (n = 2,540) and fraud check utility varied across studies. Practical context-dependent recommendations and future research directions are synthesized into the feasibility, inclusion, trustworthiness (FIT) framework, emphasizing methodological and ethical trade-offs between competing research demands and the need for dynamic and tailored mitigation strategies.",
    "url": "https://doi.org/10.1080/13645579.2026.2751627",
    "doi": "10.1080/13645579.2026.2751627",
-   "pdf": "https://doi.org/10.31235/osf.io/za8v6_v2",
+   "pdf": "https://doi.org/10.31235/osf.io/za8v6_v3",
    "first_seen": "2026-11-03T12:33:02+09:00",
    "abstract_ko": "참가자 사기는 국제 LGBTQ+ 사회 연구에 점점 더 큰 위협을 가하고 있지만 기존 완화 권장 사항은 단편화되어 있으며 문헌 전반에 걸쳐 일관성이 없습니다. 이 문서에서는 사기로 인해 피해를 입은 LGBTQ+ 인구에 대한 국제 조사의 두 가지 사례 연구에 대한 통찰력을 종합하여 이러한 격차를 해결합니다. 사례 연구 1(N = 1,707)에서는 Qualtrics 보안 도구와 지리적 위치 및 이메일 확인을 결합하여 LGBTQ+ 여가 공간에 대한 설문조사의 예방적 심사 프로세스를 자세히 설명합니다. 사례 연구 2(N = 3,681)는 비지도 기계 학습을 통해 분석된 10가지 사기 지표를 사용하여 LGBTQ+ 비디오 게임 설문조사의 제거 전략을 간략하게 설명합니다. 각 연구에서 사기율은 43~45%(n = 2,540)였으며 사기 확인 유틸리티는 연구마다 다양했습니다. 실용적인 상황에 따른 권장 사항과 향후 연구 방향은 타당성, 포함, 신뢰성(FIT) 프레임워크로 종합되어 경쟁적인 연구 요구와 역동적이고 맞춤형 완화 전략의 필요성 사이의 방법론적, 윤리적 균형을 강조합니다.",
    "abs_tries": 0,
@@ -132469,7 +132469,7 @@
    "abstract": "ABSTRACT The Multiple Streams Framework (MSF) has gained increasing traction in Latin America, yet its theoretical development in the region remains limited. Building on Sanjurjo (2020), this chapter incorporates new findings to further assess the framework's capacity to explain agenda‐setting and policy decision‐making within the distinctive political contexts of Latin America, characterized by delegative democracies, weak and dependent states, and profound social inequalities. Our analysis confirms the portability of the MSF while also identifying challenges that suggest the need for theoretical modification. We argue that the political stream must be reformulated to reflect the dominant role of presidential coalitions and powerful interest groups, with public opinion or the “selectorate's mood” relegated to a secondary position. Moreover, the framework struggles to account for informal institutions of corruption, where illicit practices such as bribery, threats, and clientelism enable policy entrepreneurs to bypass traditional windows of opportunity and decision‐making processes. These new findings underscore the importance of refining the MSF and of developing further case studies that adapt the framework more effectively to the realities of Latin American policymaking.",
    "url": "https://doi.org/10.1111/lamp.70082",
    "doi": "10.1111/lamp.70082",
-   "pdf": "",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/lamp.70082",
    "first_seen": "2026-11-06T11:40:16+09:00",
    "abstract_ko": "개요 다중 스트림 프레임워크(MSF)는 라틴 아메리카에서 점점 더 많은 관심을 받고 있지만 이 지역에서의 이론적 발전은 여전히 ​​제한적입니다. Sanjurjo(2020)를 바탕으로 이 장에서는 위임 민주주의, 약하고 종속적인 국가, 심각한 사회적 불평등으로 특징지어지는 라틴 아메리카의 독특한 정치적 맥락 내에서 의제 설정 및 정책 의사 결정을 설명하는 프레임워크의 역량을 추가로 평가하기 위한 새로운 연구 결과를 통합합니다. 우리의 분석은 MSF의 이식성을 확인하는 동시에 이론적 수정의 필요성을 시사하는 과제를 식별합니다. 우리는 여론이나 \"선출자의 분위기\"를 부차적인 입장으로 두고, 대통령 연합과 강력한 이해 집단의 지배적인 역할을 반영하도록 정치 흐름을 재구성해야 한다고 주장합니다. 더욱이 프레임워크는 뇌물 수수, 위협, 후견주의와 같은 불법 관행으로 인해 정책 기업가가 전통적인 기회 창구와 의사 결정 프로세스를 우회할 수 있는 비공식 부패 기관을 설명하는 데 어려움을 겪고 있습니다. 이러한 새로운 발견은 MSF를 개선하고 라틴 아메리카 정책 입안의 현실에 프레임워크를 보다 효과적으로 적용하는 추가 사례 연구 개발의 중요성을 강조합니다.",
    "abs_tries": 0,
@@ -133494,7 +133494,7 @@
    "doi": "10.1080/12294659.2026.2761148",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2
+   "abs_tries": 3
   },
   "oa:W7225310458": {
    "id": "oa:W7225310458",
@@ -133950,7 +133950,7 @@
    "doi": "10.1007/s11222-026-11024-2",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225305450": {
@@ -133969,7 +133969,7 @@
    "doi": "10.1007/s11222-026-11003-7",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225328219": {
@@ -134052,7 +134052,7 @@
    "doi": "10.1007/s43681-026-01484-7",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225307744": {
@@ -134070,7 +134070,7 @@
    "doi": "10.1007/s43681-026-01508-2",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225307815": {
@@ -134111,7 +134111,7 @@
    "doi": "10.1002/aaai.70118",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70118",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225321098": {
@@ -134129,7 +134129,7 @@
    "doi": "10.1007/s43681-026-01511-7",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225328097": {
@@ -134148,7 +134148,7 @@
    "doi": "10.1007/s10614-026-11457-x",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225330451": {
@@ -134167,7 +134167,7 @@
    "doi": "10.1007/s43681-026-01482-9",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225332486": {
@@ -134186,7 +134186,7 @@
    "doi": "10.1007/s43681-026-01486-5",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225341206": {
@@ -134204,7 +134204,7 @@
    "doi": "10.1007/s13347-026-01217-y",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225346243": {
@@ -134229,7 +134229,7 @@
    "doi": "10.1007/s10614-026-11462-0",
    "pdf": "",
    "first_seen": "2026-11-07T11:07:34+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7225338236": {
@@ -134320,7 +134320,7 @@
    "abstract": "Predicting cognitive performance from brain imaging is limited by the weak links between resting-state signals and specific abilities, while task scans can be difficult to acquire in some populations. R2T-Net learns shared representations from paired resting-state and task-based functional MRI (fMRI) and predicts performance using resting-state scans alone. In the Human Connectome Project, it outperformed the evaluated prediction pipelines and representation models for working memory and relational reasoning. Model relevance maps overlapped with task-evoked activation patterns, and predictions generalized to an independent Chinese cohort. In the Alzheimer's Disease Neuroimaging Initiative (ADNI), the frozen encoder produced predicted scores that differed across diagnostic groups and representations that supported diagnostic classification. These results support using task-informed representations to extract cognitive information from resting-state scans. Prospective validation is needed to establish their clinical utility.",
    "url": "https://doi.org/10.1016/j.patter.2026.101715",
    "doi": "10.1016/j.patter.2026.101715",
-   "pdf": "https://doi.org/10.1016/j.patter.2026.101715",
+   "pdf": "https://www.cell.com/patterns/pdf/S2666-3899(26)00224-2.pdf",
    "first_seen": "2026-11-07T11:07:34+09:00",
    "abs_tries": 1,
    "ko_tries": 0,
@@ -134478,9 +134478,11 @@
    "abstract": "The university sector in the UK is large, comprising over 160 institutions. Their range in terms of size is considerable, including, for example, large providers, such as the University of Manchest...",
    "url": "https://doi.org/10.1080/09540962.2026.2755533",
    "doi": "10.1080/09540962.2026.2755533",
-   "pdf": "https://doi.org/10.1080/09540962.2026.2755533",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/09540962.2026.2755533?needAccess=true",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "영국의 대학 부문은 규모가 크며 160개 이상의 기관으로 구성되어 있습니다. 예를 들어 맨체스터 대학교와 같은 대규모 제공업체를 포함하여 규모 측면에서 이들의 범위는 상당합니다."
+   "abstract_ko": "영국의 대학 부문은 규모가 크며 160개 이상의 기관으로 구성되어 있습니다. 예를 들어 맨체스터 대학교와 같은 대규모 제공업체를 포함하여 규모 측면에서 이들의 범위는 상당합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225379872": {
    "id": "oa:W7225379872",
@@ -134495,9 +134497,11 @@
    "abstract": "This article interrogates dominant anti-corruption evaluation models by foregrounding the integration between Anti-Corruption Agencies (ACAs) and whistleblower systems as a critical yet underexamined determinant of institutional effectiveness. Drawing on institutional theory, regulatory governance, and structured cross-country comparison, it develops a four-part typology of ACA–whistleblower integration regimes (complementary, substitutive, fragmented, and minimalist) based on document-based qualitative evaluation across 13 countries. The findings suggest that institutional coordination and interoperability, rather than the formal existence of anti-corruption institutions alone, are consistently associated with stronger enforcement capacity, greater institutional legitimacy, and higher public trust. The study challenges checklist-based global evaluation models that privilege institutional presence over institutional interaction and proposes an integration-centred framework for assessing integrity systems. By shifting attention from institutional design to institutional integration, the study offers a context-sensitive diagnostic approach for evaluating anti-corruption governance across diverse political and administrative settings.",
    "url": "https://doi.org/10.1080/14719037.2026.2747054",
    "doi": "10.1080/14719037.2026.2747054",
-   "pdf": "https://doi.org/10.1080/14719037.2026.2747054",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14719037.2026.2747054?needAccess=true",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "이 기사에서는 부패방지기관(ACA)과 내부고발자 시스템 간의 통합을 제도적 효율성에 대한 중요하지만 충분히 검토되지 않은 결정 요인으로 전경화하여 지배적인 부패 방지 평가 모델을 조사합니다. 제도적 이론, 규제 거버넌스 및 구조화된 국가 간 비교를 바탕으로 13개국에 걸친 문서 기반 질적 평가를 기반으로 ACA 내부고발자 통합 체제(보완적, 대체적, 단편적, 최소형)의 4부분 유형을 개발합니다. 연구 결과는 반부패 기관의 공식적인 존재보다는 제도적 조정 및 상호 운용성이 더 강력한 집행 능력, 더 큰 제도적 정당성 및 더 높은 대중 신뢰와 지속적으로 연관되어 있음을 시사합니다. 이 연구는 제도적 상호 작용보다 제도적 존재를 우선시하는 체크리스트 기반 글로벌 평가 모델에 도전하고 무결성 시스템을 평가하기 위한 통합 중심 프레임워크를 제안합니다. 제도적 설계에서 제도적 통합으로 관심을 전환함으로써 이 연구는 다양한 정치적, 행정적 환경에서 반부패 거버넌스를 평가하기 위한 상황에 맞는 진단 접근 방식을 제공합니다."
+   "abstract_ko": "이 기사에서는 부패방지기관(ACA)과 내부고발자 시스템 간의 통합을 제도적 효율성에 대한 중요하지만 충분히 검토되지 않은 결정 요인으로 전경화하여 지배적인 부패 방지 평가 모델을 조사합니다. 제도적 이론, 규제 거버넌스 및 구조화된 국가 간 비교를 바탕으로 13개국에 걸친 문서 기반 질적 평가를 기반으로 ACA 내부고발자 통합 체제(보완적, 대체적, 단편적, 최소형)의 4부분 유형을 개발합니다. 연구 결과는 반부패 기관의 공식적인 존재보다는 제도적 조정 및 상호 운용성이 더 강력한 집행 능력, 더 큰 제도적 정당성 및 더 높은 대중 신뢰와 지속적으로 연관되어 있음을 시사합니다. 이 연구는 제도적 상호 작용보다 제도적 존재를 우선시하는 체크리스트 기반 글로벌 평가 모델에 도전하고 무결성 시스템을 평가하기 위한 통합 중심 프레임워크를 제안합니다. 제도적 설계에서 제도적 통합으로 관심을 전환함으로써 이 연구는 다양한 정치적, 행정적 환경에서 반부패 거버넌스를 평가하기 위한 상황에 맞는 진단 접근 방식을 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225387416": {
    "id": "oa:W7225387416",
@@ -134513,9 +134517,11 @@
    "abstract": "IMPACTEuropean governments are expanding defence budgets at a pace unseen in decades, yet most procurement systems have been developed under peacetime conditions. This article shows how defence procurement systems (DPS) can change when facing military pressure. Drawing on Ukraine’s experience, it identifies defining features of wartime procurement, such as absorbing rapid budget expansion, inter-actor co-ordination, external funding, and recalibrating oversight without pausing execution. These lessons are relevant to policy-makers and military professionals working with military acquisition in response to a deteriorating security environment.",
    "url": "https://doi.org/10.1080/09540962.2026.2755531",
    "doi": "10.1080/09540962.2026.2755531",
-   "pdf": "https://doi.org/10.1080/09540962.2026.2755531",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/09540962.2026.2755531?needAccess=true",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "영향유럽 정부는 지난 수십 년 동안 볼 수 없었던 속도로 국방 예산을 확대하고 있지만 대부분의 조달 시스템은 평시 상황에서 개발되었습니다. 이 기사에서는 군사적 압력에 직면할 때 국방 조달 시스템(DPS)이 어떻게 변할 수 있는지 보여줍니다. 우크라이나의 경험을 바탕으로 신속한 예산 확대 흡수, 행위자 간 조정, 외부 자금 조달, 실행 중단 없이 감독 재조정 등 전시 조달의 정의적인 특징을 식별합니다. 이러한 교훈은 악화되는 보안 환경에 대응하여 군사 획득 작업을 수행하는 정책 입안자 및 군사 전문가와 관련이 있습니다."
+   "abstract_ko": "영향유럽 정부는 지난 수십 년 동안 볼 수 없었던 속도로 국방 예산을 확대하고 있지만 대부분의 조달 시스템은 평시 상황에서 개발되었습니다. 이 기사에서는 군사적 압력에 직면할 때 국방 조달 시스템(DPS)이 어떻게 변할 수 있는지 보여줍니다. 우크라이나의 경험을 바탕으로 신속한 예산 확대 흡수, 행위자 간 조정, 외부 자금 조달, 실행 중단 없이 감독 재조정 등 전시 조달의 정의적인 특징을 식별합니다. 이러한 교훈은 악화되는 보안 환경에 대응하여 군사 획득 작업을 수행하는 정책 입안자 및 군사 전문가와 관련이 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225390191": {
    "id": "oa:W7225390191",
@@ -134530,12 +134536,13 @@
    ],
    "journal": "International Public Management Journal",
    "date": "2026-11-06",
-   "abstract": "",
+   "abstract": "Public services often struggle to reach stigmatized populations, as professionals may lack the trust, cultural knowledge, or standing needed to engage them effectively. Peer workers—people involved in service delivery who share an identity or lived experience with the population served—are increasingly used to bridge this gap. This study investigates these bridge-making benefits of peer workers through the lens of symbolic representation and co-production. Specifically, we analyze which approaches of “symbolic peer co-production” enable peer workers to engage effectively with both professionals and stigmatized groups, and the variety of roles played by peer workers with different identities as bridge-makers. Using a case study of HIV prevention in São Paulo, we conducted a documentary and social media analysis to examine how symbolic representation and lived experience help peer workers to act as bridge-makers between professionals and stigmatized groups. The findings suggest that peer workers enhance service accessibility by leveraging shared identities and experiences, reducing stigma, and building trusting relationships. This study contributes a novel theoretical framework integrating symbolic representation and co-production, and offers insights for designing more inclusive public services for stigmatized populations.",
    "url": "https://doi.org/10.1080/10967494.2026.2728693",
    "doi": "10.1080/10967494.2026.2728693",
-   "pdf": "https://doi.org/10.1080/10967494.2026.2728693",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10967494.2026.2728693?needAccess=true",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7225402438": {
    "id": "oa:W7225402438",
@@ -134552,7 +134559,9 @@
    "doi": "10.1080/09540962.2026.2754915",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "IMPACT공공 관리자는 AI를 채택하는 데 있어 AI를 사용하여 거래 시스템을 가속화할 것인지 아니면 관계 및 공공 가치를 중심으로 공공 서비스를 재설계할 것인지에 대한 근본적인 선택에 직면합니다. 기존 절차에 AI를 추가하면 감시가 강화되고 전문적 재량권이 약화되며 시민들이 의사결정에서 멀어질 수 있습니다. 따라서 거버넌스는 조달보다 우선해야 합니다. 공공 기관은 공공 목적을 정의하고 위험을 평가하며 설계에 최전선 직원과 시민을 참여시켜야 합니다. 책임에는 자동화 시스템의 투명성, 경쟁 가능성 및 감독이 포함되어야 합니다. 평가는 효율성을 넘어 신뢰, 평등, 접근성 및 시민 참여를 포함해야 합니다. 관계형 AI는 전문가를 지원하고 서비스 격차를 식별하며 협업을 강화할 수 있지만 그 가치는 인간의 판단을 유지하는 데 달려 있습니다. AI는 중립적이지 않습니다. 권력을 재분배하고 책임성을 재구성합니다. 효과적인 개혁을 위해서는 기술 혁신을 민주적 가치와 연계하는 참여형 거버넌스가 필요합니다."
+   "abstract_ko": "IMPACT공공 관리자는 AI를 채택하는 데 있어 AI를 사용하여 거래 시스템을 가속화할 것인지 아니면 관계 및 공공 가치를 중심으로 공공 서비스를 재설계할 것인지에 대한 근본적인 선택에 직면합니다. 기존 절차에 AI를 추가하면 감시가 강화되고 전문적 재량권이 약화되며 시민들이 의사결정에서 멀어질 수 있습니다. 따라서 거버넌스는 조달보다 우선해야 합니다. 공공 기관은 공공 목적을 정의하고 위험을 평가하며 설계에 최전선 직원과 시민을 참여시켜야 합니다. 책임에는 자동화 시스템의 투명성, 경쟁 가능성 및 감독이 포함되어야 합니다. 평가는 효율성을 넘어 신뢰, 평등, 접근성 및 시민 참여를 포함해야 합니다. 관계형 AI는 전문가를 지원하고 서비스 격차를 식별하며 협업을 강화할 수 있지만 그 가치는 인간의 판단을 유지하는 데 달려 있습니다. AI는 중립적이지 않습니다. 권력을 재분배하고 책임성을 재구성합니다. 효과적인 개혁을 위해서는 기술 혁신을 민주적 가치와 연계하는 참여형 거버넌스가 필요합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225403505": {
    "id": "oa:W7225403505",
@@ -134572,7 +134581,9 @@
    "doi": "10.1080/09540962.2026.2755876",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "영향이 기사에서는 인도네시아의 이슬람 주립 대학이 글로벌 위험 관리 명령을 현지 종교 거버넌스 프레임워크로 변환한 방법에 대해 설명합니다. 인도네시아의 경험은 문화 번역의 중요성과 세속적인 기업 지표를 뿌리 깊은 제도적 가치와 일치시켜야 할 필요성을 강조합니다. 이 기사는 특히 중요한 이슬람 종교 기관이 있는 인구가 많고 민주주의 국가에서 고등 교육 거버넌스 및 위험 관리 개혁과 관련된 공공 부문 관리자, 대학 관리자 및 정책 입안자를 다루고 있습니다. 위험 관리 및 책임 시스템을 합법화하고 공식적으로 포함시키기 위해 종교적 인식론, 특히 무아말라 패러다임을 활용하는 실용적인 통찰력을 제공합니다. 또한 이는 규범적인 국가 지침과 지역 기관의 정체성 사이의 역동적인 상호작용에 대한 더 깊은 이해를 장려합니다. 이 기사에서는 위험 관리 시스템의 공식적인 수용을 지원하고 순전히 상징적인 규정 준수의 위험을 줄이기 위해 글로벌 관리 도구를 상황에 맞게 조정하는 것이 중요하다는 점을 강조합니다."
+   "abstract_ko": "영향이 기사에서는 인도네시아의 이슬람 주립 대학이 글로벌 위험 관리 명령을 현지 종교 거버넌스 프레임워크로 변환한 방법에 대해 설명합니다. 인도네시아의 경험은 문화 번역의 중요성과 세속적인 기업 지표를 뿌리 깊은 제도적 가치와 일치시켜야 할 필요성을 강조합니다. 이 기사는 특히 중요한 이슬람 종교 기관이 있는 인구가 많고 민주주의 국가에서 고등 교육 거버넌스 및 위험 관리 개혁과 관련된 공공 부문 관리자, 대학 관리자 및 정책 입안자를 다루고 있습니다. 위험 관리 및 책임 시스템을 합법화하고 공식적으로 포함시키기 위해 종교적 인식론, 특히 무아말라 패러다임을 활용하는 실용적인 통찰력을 제공합니다. 또한 이는 규범적인 국가 지침과 지역 기관의 정체성 사이의 역동적인 상호작용에 대한 더 깊은 이해를 장려합니다. 이 기사에서는 위험 관리 시스템의 공식적인 수용을 지원하고 순전히 상징적인 규정 준수의 위험을 줄이기 위해 글로벌 관리 도구를 상황에 맞게 조정하는 것이 중요하다는 점을 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225403761": {
    "id": "oa:W7225403761",
@@ -134591,7 +134602,9 @@
    "doi": "10.1080/09540962.2026.2756571",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "영향공공 부문 조직(PSO)은 전통적인 정책 도구만으로는 해결할 수 없는 복잡한 사회적 과제에 점점 더 직면하고 있습니다. 사회 혁신은 종종 공공 가치를 향한 경로로 제시되지만, 그 결과는 자동적이지도 않고 한결같이 긍정적이지도 않습니다. 이 기사는 제도적 대응과 집단적 대응의 다양한 조합이 뚜렷한 거버넌스 구성을 생성하여 공공 가치 공동 창출을 위한 기회와 긴장을 모두 생성한다는 것을 보여줍니다. 연구 결과에 따르면 사회 혁신과 공공 가치 사이의 관계는 공공 부문 조직이 이러한 프로세스에 참여하고, 지원하고, 관리하는 방식에 따라 달라집니다. 저자들은 특히 제도적 공백과 불확실성이 특징인 상황에서 지역적으로 생성된 가치가 지속적이고 시스템 전반에 걸친 공공 결과에 기여할 수 있도록 하는 거버넌스 조건에 더 많은 관심을 기울일 것을 촉구합니다."
+   "abstract_ko": "영향공공 부문 조직(PSO)은 전통적인 정책 도구만으로는 해결할 수 없는 복잡한 사회적 과제에 점점 더 직면하고 있습니다. 사회 혁신은 종종 공공 가치를 향한 경로로 제시되지만, 그 결과는 자동적이지도 않고 한결같이 긍정적이지도 않습니다. 이 기사는 제도적 대응과 집단적 대응의 다양한 조합이 뚜렷한 거버넌스 구성을 생성하여 공공 가치 공동 창출을 위한 기회와 긴장을 모두 생성한다는 것을 보여줍니다. 연구 결과에 따르면 사회 혁신과 공공 가치 사이의 관계는 공공 부문 조직이 이러한 프로세스에 참여하고, 지원하고, 관리하는 방식에 따라 달라집니다. 저자들은 특히 제도적 공백과 불확실성이 특징인 상황에서 지역적으로 생성된 가치가 지속적이고 시스템 전반에 걸친 공공 결과에 기여할 수 있도록 하는 거버넌스 조건에 더 많은 관심을 기울일 것을 촉구합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225425264": {
    "id": "oa:W7225425264",
@@ -134610,7 +134623,9 @@
    "doi": "10.1017/s0957876526000975",
    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C73411499FD890617E83A27EF874DB75/S0957876526000975a.pdf/div-class-title-individuals-prosocial-behaviors-in-the-aftermath-of-the-2024-flood-in-poland-the-role-of-empathy-norm-activation-and-moral-emotions-div.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 이 3단계 연구는 홍수 피해자를 돕는 네 가지 형태(금전 기부, 현물 기부, 거주지 자원 봉사, 홍수 현장 자원 봉사)의 심리적 상관 관계를 조사했습니다. 이 연구는 공감-이타주의 가설과 규범 활성화 모델을 활용했습니다. 데이터는 2025년 2월, 4월, 6월에 폴란드 성인 1,028명(M ​​= 48.85, SD = 13.68)으로부터 수집되었습니다. 결과는 정서적, 인지적 공감과 자부심이 금전적 및 현물 기부와 긍정적인 연관이 있음을 보여주었습니다. 결과에 대한 인식은 두 형태의 기부 모두와 긍정적인 관련이 있었고, 현장 자원 봉사와는 부정적인 관련이 있었습니다. 책임부여와 개인적 규범은 참가자 거주지에서의 기부 및 자원봉사와 긍정적인 관련이 있었다. 죄책감은 현장 자원봉사와 긍정적인 연관이 있었습니다. 대부분의 파동×공변량 상호작용은 통계적으로 유의하지 않았습니다. 연구 결과에 따르면 재난 관련 지원 형태에 따라 심리적 상관관계가 다르며 이러한 행동을 별도로 조사하는 것의 가치가 강조됩니다."
+   "abstract_ko": "Abstract 이 3단계 연구는 홍수 피해자를 돕는 네 가지 형태(금전 기부, 현물 기부, 거주지 자원 봉사, 홍수 현장 자원 봉사)의 심리적 상관 관계를 조사했습니다. 이 연구는 공감-이타주의 가설과 규범 활성화 모델을 활용했습니다. 데이터는 2025년 2월, 4월, 6월에 폴란드 성인 1,028명(M ​​= 48.85, SD = 13.68)으로부터 수집되었습니다. 결과는 정서적, 인지적 공감과 자부심이 금전적 및 현물 기부와 긍정적인 연관이 있음을 보여주었습니다. 결과에 대한 인식은 두 형태의 기부 모두와 긍정적인 관련이 있었고, 현장 자원 봉사와는 부정적인 관련이 있었습니다. 책임부여와 개인적 규범은 참가자 거주지에서의 기부 및 자원봉사와 긍정적인 관련이 있었다. 죄책감은 현장 자원봉사와 긍정적인 연관이 있었습니다. 대부분의 파동×공변량 상호작용은 통계적으로 유의하지 않았습니다. 연구 결과에 따르면 재난 관련 지원 형태에 따라 심리적 상관관계가 다르며 이러한 행동을 별도로 조사하는 것의 가치가 강조됩니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225425891": {
    "id": "oa:W7225425891",
@@ -134629,7 +134644,9 @@
    "doi": "10.1080/09540962.2026.2747848",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "IMPACT공공 관리자와 비영리 실무자는 실제 회의, 온라인 상호 작용 및 비동기 문서 작업을 혼합하여 공동 제작 서비스를 조직해야 하는 필요성이 점점 더 커지고 있습니다. 이탈리아의 지방 자치 사회 서비스 사례를 바탕으로 이 기사는 거리가 가치를 더하는 시기와 공동 생산을 약화시킬 위험이 있는 시기를 결정하기 위한 실용적인 지침을 제공합니다. 저자는 하이브리드 공동제작이 조정, 보고, 모니터링, 문서 작업 등 원격으로 조직될 수 있는 활동과 특히 관계적이고 민감하며 갈등이 많고 사용자를 대면하는 활동과 같은 존재가 필요한 활동을 구별하여 설계해야 한다고 제안합니다. 또한 이 기사에서는 공유 작업에 대한 명시적인 책임, 작업별 촉진, 문서 거버넌스, 차별화된 커뮤니케이션 및 소규모 비영리 조직을 위한 역량 지원 등 하이브리드 배열에 필요한 관리적 보호 장치를 강조합니다."
+   "abstract_ko": "IMPACT공공 관리자와 비영리 실무자는 실제 회의, 온라인 상호 작용 및 비동기 문서 작업을 혼합하여 공동 제작 서비스를 조직해야 하는 필요성이 점점 더 커지고 있습니다. 이탈리아의 지방 자치 사회 서비스 사례를 바탕으로 이 기사는 거리가 가치를 더하는 시기와 공동 생산을 약화시킬 위험이 있는 시기를 결정하기 위한 실용적인 지침을 제공합니다. 저자는 하이브리드 공동제작이 조정, 보고, 모니터링, 문서 작업 등 원격으로 조직될 수 있는 활동과 특히 관계적이고 민감하며 갈등이 많고 사용자를 대면하는 활동과 같은 존재가 필요한 활동을 구별하여 설계해야 한다고 제안합니다. 또한 이 기사에서는 공유 작업에 대한 명시적인 책임, 작업별 촉진, 문서 거버넌스, 차별화된 커뮤니케이션 및 소규모 비영리 조직을 위한 역량 지원 등 하이브리드 배열에 필요한 관리적 보호 장치를 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225427147": {
    "id": "oa:W7225427147",
@@ -134644,9 +134661,11 @@
    "abstract": "IMPACTThis article introduces a new theoretical lens grounded in liberal intergovernmentalism (LI) to explain public sector accounting (PSA) reforms and standard-setting outcomes in multi-level governance systems. It provides an actor-centred explanation for the extent to which PSA reforms achieve deeper integration into wider governance systems. This perspective enables scholars and practitioners to better understand why and under what conditions PSA reforms lead to deeper integration and practice convergence across jurisdictions or entities, or instead result in fragmented and weakly harmonized outcomes.",
    "url": "https://doi.org/10.1080/09540962.2026.2755534",
    "doi": "10.1080/09540962.2026.2755534",
-   "pdf": "https://doi.org/10.1080/09540962.2026.2755534",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/09540962.2026.2755534?needAccess=true",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "영향이 기사에서는 공공 부문 회계(PSA) 개혁과 다단계 거버넌스 시스템의 표준 설정 결과를 설명하기 위해 자유주의 정부간주의(LI)에 기반을 둔 새로운 이론적 렌즈를 소개합니다. 이는 PSA 개혁이 더 넓은 거버넌스 시스템에 더 깊이 통합되는 정도에 대해 행위자 중심의 설명을 제공합니다. 이러한 관점을 통해 학자와 실무자는 PSA 개혁이 왜 그리고 어떤 조건에서 관할 구역이나 단체에 걸쳐 더 깊은 통합과 실천 수렴으로 이어지거나 대신 파편화되고 약하게 조화된 결과를 초래하는지 더 잘 이해할 수 있습니다."
+   "abstract_ko": "영향이 기사에서는 공공 부문 회계(PSA) 개혁과 다단계 거버넌스 시스템의 표준 설정 결과를 설명하기 위해 자유주의 정부간주의(LI)에 기반을 둔 새로운 이론적 렌즈를 소개합니다. 이는 PSA 개혁이 더 넓은 거버넌스 시스템에 더 깊이 통합되는 정도에 대해 행위자 중심의 설명을 제공합니다. 이러한 관점을 통해 학자와 실무자는 PSA 개혁이 왜 그리고 어떤 조건에서 관할 구역이나 단체에 걸쳐 더 깊은 통합과 실천 수렴으로 이어지거나 대신 파편화되고 약하게 조화된 결과를 초래하는지 더 잘 이해할 수 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225392978": {
    "id": "oa:W7225392978",
@@ -134665,7 +134684,9 @@
    "doi": "10.1111/1467-8500.70075",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8500.70075",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "개요 정책 파트너십은 퍼스트 네이션 사람들이 건강 프로그램을 스스로 결정할 수 있는 권리를 제정하는 중요한 메커니즘입니다. 호주에서는 퍼스트 네이션 대표와 정부 간의 정책 파트너십을 통해 의사 결정 공유를 목표로 하며 건강 결과의 '격차 해소'에 초점을 맞춘 국가 개혁을 뒷받침합니다. 이 문서는 파트너십의 질을 평가하기 위한 프레임워크와 다중 구성원 건강 개혁을 성공적으로 공동 설계하는 데 필요한 전략을 종합합니다. 이 프레임워크는 호주 지역에 새로운 원주민이 관리하는 보건 위원회의 설립 단계에 적용되며, 개혁에 참여하는 이해관계자와의 인터뷰 및 포커스 그룹을 활용합니다. 파트너십의 강점에는 특히 이해관계자 공동 설계와 프로세스를 안내하는 새로운 정보를 위한 전용 자금이 포함되었습니다. 퍼스트 네이션스 대표와 정부가 보여주는 헌신과 유연성은 실행 가능한 조직 간 관계를 유지하고 결합된 결과를 제공하는 데 핵심이었습니다. 독립적인 퍼스트 네이션스 의사결정 포럼의 창설은 지역사회 대표들이 정책을 공동 설계하는 데 중요한 역량을 제공했습니다. 그러나 정부 파트너가 개혁의 여러 요소에 걸쳐 전략적 목표를 추구할 때 심각한 문제가 발생했습니다. 퍼스트 네이션스 대표들은 정부가 새로운 조직의 구조와 거버넌스를 스스로 결정하기 위해 지역 사회 지도자들에게 권한을 위임해야 한다고 생각했습니다. 실무자에 대한 포인트 T"
+   "abstract_ko": "개요 정책 파트너십은 퍼스트 네이션 사람들이 건강 프로그램을 스스로 결정할 수 있는 권리를 제정하는 중요한 메커니즘입니다. 호주에서는 퍼스트 네이션 대표와 정부 간의 정책 파트너십을 통해 의사 결정 공유를 목표로 하며 건강 결과의 '격차 해소'에 초점을 맞춘 국가 개혁을 뒷받침합니다. 이 문서는 파트너십의 질을 평가하기 위한 프레임워크와 다중 구성원 건강 개혁을 성공적으로 공동 설계하는 데 필요한 전략을 종합합니다. 이 프레임워크는 호주 지역에 새로운 원주민이 관리하는 보건 위원회의 설립 단계에 적용되며, 개혁에 참여하는 이해관계자와의 인터뷰 및 포커스 그룹을 활용합니다. 파트너십의 강점에는 특히 이해관계자 공동 설계와 프로세스를 안내하는 새로운 정보를 위한 전용 자금이 포함되었습니다. 퍼스트 네이션스 대표와 정부가 보여주는 헌신과 유연성은 실행 가능한 조직 간 관계를 유지하고 결합된 결과를 제공하는 데 핵심이었습니다. 독립적인 퍼스트 네이션스 의사결정 포럼의 창설은 지역사회 대표들이 정책을 공동 설계하는 데 중요한 역량을 제공했습니다. 그러나 정부 파트너가 개혁의 여러 요소에 걸쳐 전략적 목표를 추구할 때 심각한 문제가 발생했습니다. 퍼스트 네이션스 대표들은 정부가 새로운 조직의 구조와 거버넌스를 스스로 결정하기 위해 지역 사회 지도자들에게 권한을 위임해야 한다고 생각했습니다. 실무자에 대한 포인트 T",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225409436": {
    "id": "oa:W7225409436",
@@ -134683,7 +134704,9 @@
    "doi": "10.1177/00910260261499850",
    "pdf": "https://doi.org/10.1177/00910260261499850",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "팬데믹 이후 사무실 복귀 정책은 협업, 멘토링, 조정 및 결속을 위한 물리적 공존의 가치로 정당화되는 경우가 많습니다. 그러나 많은 직원과 관리자는 여전히 같은 직장에 있는 동료들과 가상 회의에 참석하면서 현장으로 돌아갑니다. 이 문서에서는 이러한 무시된 구성을 SSVM(동일 사이트 가상 회의)으로 개념화합니다. SSVM은 최소 한 명의 다른 참가자가 실제로 동일한 작업 현장에 있을 때 직장에서 참여하는 가상 회의로 정의됩니다. 직무 요구-자원 모델을 바탕으로 이 기사는 SSVM이 디지털 중재와 사용 가능한 물리적 근접성을 결합하여 미디어 장소 불일치, 인지 부하, 주의력 단편화 및 공존의 부족을 유발하기 때문에 SSVM을 별개의 직무 요구로 이론화합니다. 퀘벡 공공 부문 관리자의 원래 설문 조사 데이터를 사용하여 이 연구는 극단적인 삼원수 설계 내에서 역확률 가중치를 적용하여 업무 관련 및 동료 관련 소진의 두 가지 귀인 형태에 대한 높은 SSVM 노출의 영향을 추정합니다. 높은 SSVM 노출은 높은 업무 관련 소진과 유의미한 관련이 있지만 동료 관련 소진과는 관련이 없습니다. 이러한 결과는 SSVM이 주로 관계형 요구가 아닌 조직으로 작동함을 시사합니다. 이 연구는 사무실 복귀의 이점을 훼손할 수 있는 전염병 이후 회의 관행을 식별함으로써 하이브리드 작업 연구 및 공공 인사 관리의 과학에 기여합니다."
+   "abstract_ko": "팬데믹 이후 사무실 복귀 정책은 협업, 멘토링, 조정 및 결속을 위한 물리적 공존의 가치로 정당화되는 경우가 많습니다. 그러나 많은 직원과 관리자는 여전히 같은 직장에 있는 동료들과 가상 회의에 참석하면서 현장으로 돌아갑니다. 이 문서에서는 이러한 무시된 구성을 SSVM(동일 사이트 가상 회의)으로 개념화합니다. SSVM은 최소 한 명의 다른 참가자가 실제로 동일한 작업 현장에 있을 때 직장에서 참여하는 가상 회의로 정의됩니다. 직무 요구-자원 모델을 바탕으로 이 기사는 SSVM이 디지털 중재와 사용 가능한 물리적 근접성을 결합하여 미디어 장소 불일치, 인지 부하, 주의력 단편화 및 공존의 부족을 유발하기 때문에 SSVM을 별개의 직무 요구로 이론화합니다. 퀘벡 공공 부문 관리자의 원래 설문 조사 데이터를 사용하여 이 연구는 극단적인 삼원수 설계 내에서 역확률 가중치를 적용하여 업무 관련 및 동료 관련 소진의 두 가지 귀인 형태에 대한 높은 SSVM 노출의 영향을 추정합니다. 높은 SSVM 노출은 높은 업무 관련 소진과 유의미한 관련이 있지만 동료 관련 소진과는 관련이 없습니다. 이러한 결과는 SSVM이 주로 관계형 요구가 아닌 조직으로 작동함을 시사합니다. 이 연구는 사무실 복귀의 이점을 훼손할 수 있는 전염병 이후 회의 관행을 식별함으로써 하이브리드 작업 연구 및 공공 인사 관리의 과학에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225430306": {
    "id": "oa:W7225430306",
@@ -134701,7 +134724,9 @@
    "doi": "10.1177/08997640261495473",
    "pdf": "https://doi.org/10.1177/08997640261495473",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "규제에 대한 관심이 자선 서비스 성과 보고 및 외부 감사로 확대되었지만 두 가지 모두 의무화되었을 때 자선 단체가 어떻게 대응하는지에 대해서는 알려진 바가 거의 없습니다. 뉴질랜드의 대형 자선단체에서 발행한 120개 보고서에 대한 문서 분석과 작성자 및 감사자와의 인터뷰를 바탕으로 우리는 이러한 의무에 대한 응답을 조사합니다. 디커플링 이론을 사용하여 우리는 상당한 공식적인 준수를 발견했지만 서비스 성과에 대한 감사된 설명은 검증 가능한 정량적 출력에 의해 지배되는 반면 정성적 결과 및 영향 중심 정보는 덜 일반적이었습니다. 감사 프로세스는 보고 루틴을 강화하여 정책-실무 격차를 줄였으나 정량적 정보에 대한 의존을 장려하고 정성적 정보를 자발적인 보고 메커니즘으로 전환함으로써 수단-목적 긴장을 야기했습니다. 의무사항에 대한 자선단체의 즉각적이고 의도적인 대응을 보여줌으로써 감사가 보고 관행과 응답의 의도를 어떻게 형성하는지 밝힙니다."
+   "abstract_ko": "규제에 대한 관심이 자선 서비스 성과 보고 및 외부 감사로 확대되었지만 두 가지 모두 의무화되었을 때 자선 단체가 어떻게 대응하는지에 대해서는 알려진 바가 거의 없습니다. 뉴질랜드의 대형 자선단체에서 발행한 120개 보고서에 대한 문서 분석과 작성자 및 감사자와의 인터뷰를 바탕으로 우리는 이러한 의무에 대한 응답을 조사합니다. 디커플링 이론을 사용하여 우리는 상당한 공식적인 준수를 발견했지만 서비스 성과에 대한 감사된 설명은 검증 가능한 정량적 출력에 의해 지배되는 반면 정성적 결과 및 영향 중심 정보는 덜 일반적이었습니다. 감사 프로세스는 보고 루틴을 강화하여 정책-실무 격차를 줄였으나 정량적 정보에 대한 의존을 장려하고 정성적 정보를 자발적인 보고 메커니즘으로 전환함으로써 수단-목적 긴장을 야기했습니다. 의무사항에 대한 자선단체의 즉각적이고 의도적인 대응을 보여줌으로써 감사가 보고 관행과 응답의 의도를 어떻게 형성하는지 밝힙니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225434581": {
    "id": "oa:W7225434581",
@@ -134721,7 +134746,9 @@
    "doi": "10.1177/08997640261495463",
    "pdf": "https://doi.org/10.1177/08997640261495463",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "자원봉사가 더 높은 웰빙과 연관되어 있다면 왜 그럴까요? 발표된 상관관계는 자원봉사가 웰빙에 미치는 영향, 웰빙이 자원봉사에 미치는 영향, 또는 두 방향의 영향을 모두 반영할 수 있습니다. 더욱이, 자원봉사 동기는 경계 조건으로 작용할 수 있으며, 자기 지향적 목표보다 타인 지향적 목표가 웰빙과 더 긍정적으로 연관되어 있습니다. 그러나 이러한 맥락에서 동기충족은 아직 검토되지 않았다. 우리는 선정된 영어권 국가에서 Prolific에 등록된 현재 자원봉사자 406명을 대상으로 3개월 간격으로 설문조사를 실시하여 자원 봉사 동기, 성격, T1의 네 가지 유형의 웰빙, T2의 동기 충족 및 웰빙을 평가했습니다. 우리는 중요한 타인 지향적 동기의 더 큰 성취가 중요한 자기 지향적 동기의 더 큰 성취보다 T2의 행복과 훨씬 더 긍정적으로 연관되어 있음을 발견했습니다. 성격과 주로 T1 웰빙을 통제할 때 결과는 여전히 중요했습니다. 우리는 자원 봉사 활동에서 중요한 타인 지향적 목표를 달성하는 것이 더 높은 복지와 관련이 있다는 결론을 내렸습니다."
+   "abstract_ko": "자원봉사가 더 높은 웰빙과 연관되어 있다면 왜 그럴까요? 발표된 상관관계는 자원봉사가 웰빙에 미치는 영향, 웰빙이 자원봉사에 미치는 영향, 또는 두 방향의 영향을 모두 반영할 수 있습니다. 더욱이, 자원봉사 동기는 경계 조건으로 작용할 수 있으며, 자기 지향적 목표보다 타인 지향적 목표가 웰빙과 더 긍정적으로 연관되어 있습니다. 그러나 이러한 맥락에서 동기충족은 아직 검토되지 않았다. 우리는 선정된 영어권 국가에서 Prolific에 등록된 현재 자원봉사자 406명을 대상으로 3개월 간격으로 설문조사를 실시하여 자원 봉사 동기, 성격, T1의 네 가지 유형의 웰빙, T2의 동기 충족 및 웰빙을 평가했습니다. 우리는 중요한 타인 지향적 동기의 더 큰 성취가 중요한 자기 지향적 동기의 더 큰 성취보다 T2의 행복과 훨씬 더 긍정적으로 연관되어 있음을 발견했습니다. 성격과 주로 T1 웰빙을 통제할 때 결과는 여전히 중요했습니다. 우리는 자원 봉사 활동에서 중요한 타인 지향적 목표를 달성하는 것이 더 높은 복지와 관련이 있다는 결론을 내렸습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225382496": {
    "id": "oa:W7225382496",
@@ -134738,7 +134765,9 @@
    "doi": "10.1111/psj.70173",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psj.70173",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "개요 의회는 복잡한 문제를 모니터링하기 위해 세분화된 관료제에 의존하고 있으며, 효과적인 정책 결정에 필요한 다양한 정보를 통합할 수 있는지에 대한 우려를 불러일으킵니다. 나는 기관과 서로 다른 제도적 관계를 맺고 있는 위원회 간의 경쟁이 어떤 조정 기구 없이도 정보의 다양성을 창출해야 한다고 주장합니다. 1973년부터 2021년까지 131개 기관에 걸쳐 92,375건의 기관 증언 사례를 분석한 결과, 문제를 조사하는 더 많은 수의 위원회가 정보를 제공하는 더 광범위하고 덜 집중된 기관과 지속적으로 연관되어 있음을 발견했습니다. 나는 이 연관성이 공적 중요성에 의해 체계적으로 조정된다는 증거를 거의 찾지 못했습니다."
+   "abstract_ko": "개요 의회는 복잡한 문제를 모니터링하기 위해 세분화된 관료제에 의존하고 있으며, 효과적인 정책 결정에 필요한 다양한 정보를 통합할 수 있는지에 대한 우려를 불러일으킵니다. 나는 기관과 서로 다른 제도적 관계를 맺고 있는 위원회 간의 경쟁이 어떤 조정 기구 없이도 정보의 다양성을 창출해야 한다고 주장합니다. 1973년부터 2021년까지 131개 기관에 걸쳐 92,375건의 기관 증언 사례를 분석한 결과, 문제를 조사하는 더 많은 수의 위원회가 정보를 제공하는 더 광범위하고 덜 집중된 기관과 지속적으로 연관되어 있음을 발견했습니다. 나는 이 연관성이 공적 중요성에 의해 체계적으로 조정된다는 증거를 거의 찾지 못했습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225420584": {
    "id": "oa:W7225420584",
@@ -134755,7 +134784,9 @@
    "doi": "10.1111/psj.70174",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psj.70174",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "개요 정책 문서에서 증거의 사용은 시간이 지남에 따라 어떻게 변하며, 증거 사용의 안정적, 점진적, 갑작스러운 변화 간의 차이점을 설명하는 것은 무엇입니까? 이 연구는 의회 조사국(CRS) 보고서 전반에 걸쳐 증거 사용의 변화를 평가하기 위한 계산 프레임워크를 소개합니다. 대규모 언어 모델과 지도형 기계 학습의 조합을 사용하여 각 문서는 증거 기반 정책 결정 원칙과 일치하는지에 따라 점수를 매기고 정책 주제 수준으로 집계됩니다. 결과는 대부분의 정책 영역이 점진적인 변화를 보이는 반면, 단속적인 변화는 덜 일반적이고 매우 가변적이라는 것을 보여줍니다. 대중의 두드러짐은 단속적인 증거 사용 궤적과 관련이 있는 반면, 미디어와 경영진의 관심은 주로 점진적인 변화와 관련이 있습니다. 관심과 제도적 요구가 고려되면 당파 통제는 제한된 역할을 합니다. 거시경제학과 정부 운영과 같은 영역에서는 증거 사용 점수가 상대적으로 높은 분산을 보이는 등 정책 주제 전반에 걸쳐 상당한 차이가 남아 있습니다. 이러한 결과는 정책 결정에서 증거 사용이 시간이 지남에 따라 역동적이고 주의에 민감하다는 것을 보여줍니다."
+   "abstract_ko": "개요 정책 문서에서 증거의 사용은 시간이 지남에 따라 어떻게 변하며, 증거 사용의 안정적, 점진적, 갑작스러운 변화 간의 차이점을 설명하는 것은 무엇입니까? 이 연구는 의회 조사국(CRS) 보고서 전반에 걸쳐 증거 사용의 변화를 평가하기 위한 계산 프레임워크를 소개합니다. 대규모 언어 모델과 지도형 기계 학습의 조합을 사용하여 각 문서는 증거 기반 정책 결정 원칙과 일치하는지에 따라 점수를 매기고 정책 주제 수준으로 집계됩니다. 결과는 대부분의 정책 영역이 점진적인 변화를 보이는 반면, 단속적인 변화는 덜 일반적이고 매우 가변적이라는 것을 보여줍니다. 대중의 두드러짐은 단속적인 증거 사용 궤적과 관련이 있는 반면, 미디어와 경영진의 관심은 주로 점진적인 변화와 관련이 있습니다. 관심과 제도적 요구가 고려되면 당파 통제는 제한된 역할을 합니다. 거시경제학과 정부 운영과 같은 영역에서는 증거 사용 점수가 상대적으로 높은 분산을 보이는 등 정책 주제 전반에 걸쳐 상당한 차이가 남아 있습니다. 이러한 결과는 정책 결정에서 증거 사용이 시간이 지남에 따라 역동적이고 주의에 민감하다는 것을 보여줍니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225394185": {
    "id": "oa:W7225394185",
@@ -134774,7 +134805,9 @@
    "doi": "10.1093/scipol/scag085",
    "pdf": "https://doi.org/10.1093/scipol/scag085",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract EU의 전략적 자율성에 대한 관심이 높아지면서 인과 같은 핵심 원자재에 대한 의존도에 대한 관심도 높아졌습니다. 독일은 순환성을 배경으로 인 회수를 의무화하는 규정을 도입했지만 시행 속도는 더디다. 우리는 이 규정이 미치는 영향과 이 규정이 아직 원하는 변화를 가져오지 못한 이유를 분석합니다. 이론적으로 우리는 비료 산업의 규모를 재조정하려는 노력에서 행위자와 산업 간의 시간적 불일치에 초점을 맞춰 규모 조정, 기회 공간 및 기대의 사회학에 관한 문헌을 결합합니다. 다양한 이해관계자(정책 행위자, 비료 회사, 복구 회사 및 폐수 처리장)와의 인터뷰(N = 37)를 통해 행위자가 규제 일정에 대해 어떻게 다르게 해석하고 대응하는지, 그리고 이것이 경로 생성을 어떻게 제한하는지 분석합니다. 우리는 산업 변화를 제약하고 방해하는 다양한 유형의 시간적 불일치에 대해 간략하게 설명하고 효과적인 혁신 정책 및 (지속 가능성 지향) 산업 변화의 적절한 시기를 위한 역할에 대해 논의합니다."
+   "abstract_ko": "Abstract EU의 전략적 자율성에 대한 관심이 높아지면서 인과 같은 핵심 원자재에 대한 의존도에 대한 관심도 높아졌습니다. 독일은 순환성을 배경으로 인 회수를 의무화하는 규정을 도입했지만 시행 속도는 더디다. 우리는 이 규정이 미치는 영향과 이 규정이 아직 원하는 변화를 가져오지 못한 이유를 분석합니다. 이론적으로 우리는 비료 산업의 규모를 재조정하려는 노력에서 행위자와 산업 간의 시간적 불일치에 초점을 맞춰 규모 조정, 기회 공간 및 기대의 사회학에 관한 문헌을 결합합니다. 다양한 이해관계자(정책 행위자, 비료 회사, 복구 회사 및 폐수 처리장)와의 인터뷰(N = 37)를 통해 행위자가 규제 일정에 대해 어떻게 다르게 해석하고 대응하는지, 그리고 이것이 경로 생성을 어떻게 제한하는지 분석합니다. 우리는 산업 변화를 제약하고 방해하는 다양한 유형의 시간적 불일치에 대해 간략하게 설명하고 효과적인 혁신 정책 및 (지속 가능성 지향) 산업 변화의 적절한 시기를 위한 역할에 대해 논의합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7149890949": {
    "id": "oa:W7149890949",
@@ -134793,9 +134826,11 @@
    "abstract": "Abstract Understanding how semantics are processed at the lexical level has been a key aim for the cognitive sciences, with large-scale semantic rating studies in different languages playing a crucial role in facilitating the advancement and development of theories of lexical processing, as well as providing valuable methodological resources that can be used in empirical investigations. In this paper, we present the CzeLex database, a megastudy of 9601 Czech words that have been normed along five psycholinguistic dimensions from a large sample of 4405 Czech-speaking participants. We provide individual rating data at the item and participant levels, as well as aggregated data from both mean ratings and latent means derived using cumulative-link mixed modeling, along with a comprehensive analysis comparing aggregation methods. We demonstrate that the dataset has good reliability and that specific dimensions predict lexical processing measures in a lexical decision task, regardless of the aggregation method used. These norms are the largest available subjective rating resource for Czech and further contribute to the growing body of languages with openly available data on these dimensions. We hope that the dataset will be a valuable resource for researchers working on Czech, in addition to opening up new opportunities for cross-linguistic semantic investigations. All data, code, and analyses are available at https://osf.io/tqxfm .",
    "url": "https://doi.org/10.3758/s13428-026-03217-4",
    "doi": "10.3758/s13428-026-03217-4",
-   "pdf": "https://doi.org/10.3758/s13428-026-03217-4",
+   "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03217-4.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 어휘 수준에서 의미가 어떻게 처리되는지 이해하는 것은 인지 과학의 핵심 목표였으며, 다양한 언어의 대규모 의미 평가 연구는 어휘 처리 이론의 발전과 발전을 촉진하고 실증적 조사에 사용할 수 있는 귀중한 방법론적 자원을 제공하는 데 중요한 역할을 했습니다. 이 논문에서 우리는 4405명의 체코어 사용자로 구성된 대규모 샘플에서 5가지 심리언어적 차원에 따라 규범화된 9601개의 체코어 단어에 대한 대규모 연구인 CzeLex 데이터베이스를 제시합니다. 우리는 항목 및 참가자 수준의 개별 등급 데이터뿐만 아니라 누적 링크 혼합 모델링을 사용하여 파생된 평균 등급 및 잠재 평균의 집계 데이터와 함께 집계 방법을 비교하는 포괄적인 분석을 제공합니다. 우리는 데이터 세트가 좋은 신뢰성을 가지고 있으며 사용된 집계 방법에 관계없이 특정 차원이 어휘 결정 작업에서 어휘 처리 측정을 예측한다는 것을 보여줍니다. 이러한 규범은 체코어에 대해 이용 가능한 가장 큰 주관적 평가 리소스이며, 더욱이 이러한 차원에 대한 공개적으로 이용 가능한 데이터를 통해 언어 부문의 성장에 기여합니다. 우리는 이 데이터세트가 체코어 연구자들에게 귀중한 리소스가 될 뿐만 아니라 교차 언어 의미론적 조사를 위한 새로운 기회를 열어주기를 바랍니다. 모든 데이터, 코드 및 분석은 https://osf.io/tqxfm에서 확인할 수 있습니다."
+   "abstract_ko": "Abstract 어휘 수준에서 의미가 어떻게 처리되는지 이해하는 것은 인지 과학의 핵심 목표였으며, 다양한 언어의 대규모 의미 평가 연구는 어휘 처리 이론의 발전과 발전을 촉진하고 실증적 조사에 사용할 수 있는 귀중한 방법론적 자원을 제공하는 데 중요한 역할을 했습니다. 이 논문에서 우리는 4405명의 체코어 사용자로 구성된 대규모 샘플에서 5가지 심리언어적 차원에 따라 규범화된 9601개의 체코어 단어에 대한 대규모 연구인 CzeLex 데이터베이스를 제시합니다. 우리는 항목 및 참가자 수준의 개별 등급 데이터뿐만 아니라 누적 링크 혼합 모델링을 사용하여 파생된 평균 등급 및 잠재 평균의 집계 데이터와 함께 집계 방법을 비교하는 포괄적인 분석을 제공합니다. 우리는 데이터 세트가 좋은 신뢰성을 가지고 있으며 사용된 집계 방법에 관계없이 특정 차원이 어휘 결정 작업에서 어휘 처리 측정을 예측한다는 것을 보여줍니다. 이러한 규범은 체코어에 대해 이용 가능한 가장 큰 주관적 평가 리소스이며, 더욱이 이러한 차원에 대한 공개적으로 이용 가능한 데이터를 통해 언어 부문의 성장에 기여합니다. 우리는 이 데이터세트가 체코어 연구자들에게 귀중한 리소스가 될 뿐만 아니라 교차 언어 의미론적 조사를 위한 새로운 기회를 열어주기를 바랍니다. 모든 데이터, 코드 및 분석은 https://osf.io/tqxfm에서 확인할 수 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225375551": {
    "id": "oa:W7225375551",
@@ -134813,7 +134848,9 @@
    "doi": "10.1177/0282423x261496589",
    "pdf": "https://doi.org/10.1177/0282423x261496589",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "이 작업은 사회경제적 또는 지리적 그룹 전반에 걸쳐 부의 불평등을 측정하기 위한 QRI(분위수 비율 지수)의 소규모 영역 추정에 대한 지침을 제공합니다. 부는 극단적인 양의 왜도를 나타내며, 이는 극단적인 가치에 매우 민감하기 때문에 전통적인 불평등 척도를 신뢰할 수 없게 만듭니다. 이 현상에 대한 QRI의 견고성은 이 문제를 해결하므로 작은 영역 추정 문제에 특히 흥미를 줍니다. 우리는 잘 정립된 방법을 사용하여 편향 보정된 역변환이 포함된 로짓 변환된 영역 수준 모델을 사용하고 모델 기반 시뮬레이션을 통해 이를 검증한 후 이를 이탈리아 가계 소득 및 자산 조사 데이터에 적용합니다. 결과는 이제 전통적인 지표보다 훨씬 더 강력한 지표를 기반으로 지방자치단체와 가구 그룹 전반에 걸쳐 부의 불평등이 예상되는 강력한 이질성을 확인합니다. 따라서 이 작업은 정책 관련 영역에서 신뢰할 수 있는 부의 불평등 추정치를 생성하기 위해 강력한 불평등 측정과 작은 영역 추정 기술을 결합하는 실질적인 가치를 강조합니다."
+   "abstract_ko": "이 작업은 사회경제적 또는 지리적 그룹 전반에 걸쳐 부의 불평등을 측정하기 위한 QRI(분위수 비율 지수)의 소규모 영역 추정에 대한 지침을 제공합니다. 부는 극단적인 양의 왜도를 나타내며, 이는 극단적인 가치에 매우 민감하기 때문에 전통적인 불평등 척도를 신뢰할 수 없게 만듭니다. 이 현상에 대한 QRI의 견고성은 이 문제를 해결하므로 작은 영역 추정 문제에 특히 흥미를 줍니다. 우리는 잘 정립된 방법을 사용하여 편향 보정된 역변환이 포함된 로짓 변환된 영역 수준 모델을 사용하고 모델 기반 시뮬레이션을 통해 이를 검증한 후 이를 이탈리아 가계 소득 및 자산 조사 데이터에 적용합니다. 결과는 이제 전통적인 지표보다 훨씬 더 강력한 지표를 기반으로 지방자치단체와 가구 그룹 전반에 걸쳐 부의 불평등이 예상되는 강력한 이질성을 확인합니다. 따라서 이 작업은 정책 관련 영역에서 신뢰할 수 있는 부의 불평등 추정치를 생성하기 위해 강력한 불평등 측정과 작은 영역 추정 기술을 결합하는 실질적인 가치를 강조합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225391960": {
    "id": "oa:W7225391960",
@@ -134831,7 +134868,9 @@
    "doi": "10.1177/0282423x261498277",
    "pdf": "https://doi.org/10.1177/0282423x261498277",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "본 논문은 시설 웹 설문조사에서 지각 및 무응답자를 위한 자동화된 대화형 설득 기능을 구현하기 위한 전략을 제안합니다. 시설 웹 설문조사의 응답률은 지속적인 압력을 받고 있으며 소규모 시설에 동기를 부여하는 전략은 특히 비용이 많이 듭니다. 결과적으로, 면접관이 진행하는 설문조사에서 전화 후속 조치 접근 방식을 모방하는 테스트된 설문 조사 설계 기능은 이러한 단점을 해결하기 위한 잠재적으로 새롭고 실용적이며 비용 효율적인 전략을 제공합니다. 잘 정립된 스위스 웹 조사에서 무작위로 선택된 샘플과 무응답 시설(n = 3,000)에게 주요 무응답 이유를 표시하도록 요청한 다음 세 가지 이의 제기 유형 중 하나로 무작위로 할당했습니다. (1) 이전에 표시된 무응답 이유를 다루는 대상 이의 제기, (2) 연구의 표준 알림 서한과 동일한 이유를 다루는 일반 이의 제기, 또는 (3) 무응답의 주된 이유인 \"부족\"을 다루는 주요 이의 제기 시간.” 조사 결과에 따르면 이의제기 유형은 응답이나 데이터 품질에 큰 영향을 미치지 않는 반면, 무응답 이유와 설문조사 기간 내 시점은 영향을 미칩니다. 설문 조사 설계 연구에 대한 이러한 결과의 의미가 논의됩니다."
+   "abstract_ko": "본 논문은 시설 웹 설문조사에서 지각 및 무응답자를 위한 자동화된 대화형 설득 기능을 구현하기 위한 전략을 제안합니다. 시설 웹 설문조사의 응답률은 지속적인 압력을 받고 있으며 소규모 시설에 동기를 부여하는 전략은 특히 비용이 많이 듭니다. 결과적으로, 면접관이 진행하는 설문조사에서 전화 후속 조치 접근 방식을 모방하는 테스트된 설문 조사 설계 기능은 이러한 단점을 해결하기 위한 잠재적으로 새롭고 실용적이며 비용 효율적인 전략을 제공합니다. 잘 정립된 스위스 웹 조사에서 무작위로 선택된 샘플과 무응답 시설(n = 3,000)에게 주요 무응답 이유를 표시하도록 요청한 다음 세 가지 이의 제기 유형 중 하나로 무작위로 할당했습니다. (1) 이전에 표시된 무응답 이유를 다루는 대상 이의 제기, (2) 연구의 표준 알림 서한과 동일한 이유를 다루는 일반 이의 제기, 또는 (3) 무응답의 주된 이유인 \"부족\"을 다루는 주요 이의 제기 시간.” 조사 결과에 따르면 이의제기 유형은 응답이나 데이터 품질에 큰 영향을 미치지 않는 반면, 무응답 이유와 설문조사 기간 내 시점은 영향을 미칩니다. 설문 조사 설계 연구에 대한 이러한 결과의 의미가 논의됩니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402618731": {
    "id": "oa:W4402618731",
@@ -134850,7 +134889,9 @@
    "doi": "10.1093/jssam/smag046",
    "pdf": "https://arxiv.org/pdf/2407.17848",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 소규모 추정에서는 벤치마킹 추정과 그에 따른 위험도 평가의 문제가 실질적으로 중요하다. 베이지안 방법이 소규모 영역 추정에 널리 채택되었지만 기존 벤치마킹 접근 방식은 제약 조건을 충족하기 위해 각 마르코프 체인 몬테 카를로 그리기를 투영하는 것과 같이 임시적인 경우가 많습니다. 대조적으로, 우리의 연구는 벤치마킹된 사후 분포를 정의하는 보다 원칙적인 방법을 제공하는 엔트로피 기울기에 기반한 통일된 베이지안 공식을 제공합니다. 이 접근법은 일관성 있는 불확실성 정량화와 함께 벤치마크된 점 추정치를 산출합니다. 우리는 먼저 계층적 베이지안 접근 방식에서 벤치마킹된 사후를 얻기 위한 일반적인 몬테 카를로 방법을 소개한 다음 경험적 베이지안 프레임워크에서 벤치마킹된 사후를 일부 작은 영역 모델에 대한 분석 형식으로 얻을 수 있음을 보여줍니다. 시뮬레이션과 실증적 연구를 통해 제안된 방법의 유용성을 입증한다."
+   "abstract_ko": "Abstract 소규모 추정에서는 벤치마킹 추정과 그에 따른 위험도 평가의 문제가 실질적으로 중요하다. 베이지안 방법이 소규모 영역 추정에 널리 채택되었지만 기존 벤치마킹 접근 방식은 제약 조건을 충족하기 위해 각 마르코프 체인 몬테 카를로 그리기를 투영하는 것과 같이 임시적인 경우가 많습니다. 대조적으로, 우리의 연구는 벤치마킹된 사후 분포를 정의하는 보다 원칙적인 방법을 제공하는 엔트로피 기울기에 기반한 통일된 베이지안 공식을 제공합니다. 이 접근법은 일관성 있는 불확실성 정량화와 함께 벤치마크된 점 추정치를 산출합니다. 우리는 먼저 계층적 베이지안 접근 방식에서 벤치마킹된 사후를 얻기 위한 일반적인 몬테 카를로 방법을 소개한 다음 경험적 베이지안 프레임워크에서 벤치마킹된 사후를 일부 작은 영역 모델에 대한 분석 형식으로 얻을 수 있음을 보여줍니다. 시뮬레이션과 실증적 연구를 통해 제안된 방법의 유용성을 입증한다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4409841178": {
    "id": "oa:W4409841178",
@@ -134867,9 +134908,11 @@
    "abstract": "Abstract We consider the common correlated effects estimation of a three-dimensional panel data model with heterogeneous slope coefficients and multi-level interactive fixed effects. We study the asymptotic properties of the heterogeneous slope coefficient estimators and the mean group (MG) estimators. We find that bias correction is indispensable for the MG estimator and show that the MG estimators exhibit different convergence rates depending on the degree of heterogeneity in the slope coefficients. We propose a bias correction procedure and inference method that is uniformly valid irrespective of the degree of slope heterogeneity. We conduct Monte Carlo simulations to evaluate the performance of our estimators and inference methods in finite samples. We apply our new methods to international trade data and find significant heterogeneity in the gravity model even after we control for the multi-level factors.",
    "url": "https://doi.org/10.1017/s0266466626100735",
    "doi": "10.1017/s0266466626100735",
-   "pdf": "https://doi.org/10.2139/ssrn.5232175",
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EB476E642BABFD60EF073ECED760AEAD/S0266466626100735a.pdf/div-class-title-on-the-cce-estimation-of-three-dimensional-panels-with-multi-level-factors-div.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 우리는 이질적인 기울기 계수와 다단계 상호작용 고정 효과를 갖는 3차원 패널 데이터 모델의 공통 상관 효과 추정을 고려합니다. 우리는 이종 기울기 계수 추정기와 평균 그룹(MG) 추정기의 점근적 특성을 연구합니다. 우리는 MG 추정기에 편향 보정이 필수적이라는 것을 확인하고, MG 추정기가 기울기 계수의 이질성 정도에 따라 서로 다른 수렴률을 나타냄을 보여줍니다. 우리는 기울기 이질성 정도에 관계없이 균일하게 유효한 편향 보정 절차 및 추론 방법을 제안합니다. 우리는 몬테카를로 시뮬레이션을 수행하여 유한 표본에서 추정기 및 추론 방법의 성능을 평가합니다. 우리는 국제 무역 데이터에 새로운 방법을 적용하고 다단계 요인을 통제한 후에도 중력 모델에서 상당한 이질성을 발견합니다."
+   "abstract_ko": "Abstract 우리는 이질적인 기울기 계수와 다단계 상호작용 고정 효과를 갖는 3차원 패널 데이터 모델의 공통 상관 효과 추정을 고려합니다. 우리는 이종 기울기 계수 추정기와 평균 그룹(MG) 추정기의 점근적 특성을 연구합니다. 우리는 MG 추정기에 편향 보정이 필수적이라는 것을 확인하고, MG 추정기가 기울기 계수의 이질성 정도에 따라 서로 다른 수렴률을 나타냄을 보여줍니다. 우리는 기울기 이질성 정도에 관계없이 균일하게 유효한 편향 보정 절차 및 추론 방법을 제안합니다. 우리는 몬테카를로 시뮬레이션을 수행하여 유한 표본에서 추정기 및 추론 방법의 성능을 평가합니다. 우리는 국제 무역 데이터에 새로운 방법을 적용하고 다단계 요인을 통제한 후에도 중력 모델에서 상당한 이질성을 발견합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4416374065": {
    "id": "oa:W4416374065",
@@ -134887,7 +134930,9 @@
    "doi": "10.1007/s11222-026-10990-x",
    "pdf": "https://doi.org/10.1007/s11222-026-10990-x",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 가우스 랜덤장은 다양한 과학 분야의 공간 현상에 대한 유비쿼터스 모델입니다. 그 근사치는 시뮬레이션, 추론 및 불확실성 정량화의 계산 타당성에 중요한 경우가 많습니다. Karhunen-Loéve 확장은 (공간) 확률론적 과정의 최적의 하위 순위 표현을 제공하지만 실제 구현은 기본 공분산 구조가 지정되는 방식에 크게 의존합니다. 본 연구에서는 정규화된 박판 스플라인 연산자의 역함수를 공식화하여 공간 공분산을 구성하는 regTPS라는 새로운 접근 방식을 제안합니다. 정규화된 이중조화 연산자의 고유 분해를 계산함으로써 regTPS는 공간 주파수에 걸쳐 분산을 계층적으로 할당하기 전에 매끄러움을 유도합니다. 우리는 두 가지 다른 시뮬레이션 설계에서 MCMC 알고리즘 내에서 확립된 확률론적 편미분 방정식 접근 방식과 관련하여 regTPS의 통계적 성능과 계산 효율성을 평가합니다. 다양한 시뮬레이션 시나리오에서 regTPS 방법은 SPDE 접근 방식에 필적하는 예측 정확도를 달성했습니다. 더욱이, regTPS는 유효 매개변수 차원을 크게 줄였으며, 큰 표본 크기의 경우 약 43~52% 감소했습니다. 또한 메쉬 독립 시뮬레이션 설정 내에서 regTPS는 Matérn 및 지수 공분산 함수 모두에서 예측 정확도를 일관되게 유지하여 기본 차원 축소와 샘플링 간의 최적 균형을 유지합니다."
+   "abstract_ko": "Abstract 가우스 랜덤장은 다양한 과학 분야의 공간 현상에 대한 유비쿼터스 모델입니다. 그 근사치는 시뮬레이션, 추론 및 불확실성 정량화의 계산 타당성에 중요한 경우가 많습니다. Karhunen-Loéve 확장은 (공간) 확률론적 과정의 최적의 하위 순위 표현을 제공하지만 실제 구현은 기본 공분산 구조가 지정되는 방식에 크게 의존합니다. 본 연구에서는 정규화된 박판 스플라인 연산자의 역함수를 공식화하여 공간 공분산을 구성하는 regTPS라는 새로운 접근 방식을 제안합니다. 정규화된 이중조화 연산자의 고유 분해를 계산함으로써 regTPS는 공간 주파수에 걸쳐 분산을 계층적으로 할당하기 전에 매끄러움을 유도합니다. 우리는 두 가지 다른 시뮬레이션 설계에서 MCMC 알고리즘 내에서 확립된 확률론적 편미분 방정식 접근 방식과 관련하여 regTPS의 통계적 성능과 계산 효율성을 평가합니다. 다양한 시뮬레이션 시나리오에서 regTPS 방법은 SPDE 접근 방식에 필적하는 예측 정확도를 달성했습니다. 더욱이, regTPS는 유효 매개변수 차원을 크게 줄였으며, 큰 표본 크기의 경우 약 43~52% 감소했습니다. 또한 메쉬 독립 시뮬레이션 설정 내에서 regTPS는 Matérn 및 지수 공분산 함수 모두에서 예측 정확도를 일관되게 유지하여 기본 차원 축소와 샘플링 간의 최적 균형을 유지합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4407679549": {
    "id": "oa:W4407679549",
@@ -134903,9 +134948,11 @@
    "abstract": "Summary Over the past decades, the increasing dimensionality of data has increased the need for effective data decomposition methods. Existing approaches, however, often rely on linear models or lack sufficient interpretability or flexibility. To address this issue, we introduce a novel nonlinear decomposition technique called the principal nested submanifolds, which builds on the foundational concepts of principal component analysis. This method exploits the local geometric information of data sets by projecting samples onto a series of nested principal submanifolds with progressively decreasing dimensions. It effectively isolates complex information within the data in a backward stepwise manner by targeting variations associated with smaller eigenvalues in local covariance matrices. The fitted structures are smooth nested manifolds rather than linear or special-shape subspaces. Simulation studies and an analysis of single-cell RNA-sequencing data illustrate how the method summarizes locally varying nonlinear structure while retaining a compatible hierarchy across dimensions. It provides flexible subspace constraints that facilitate the extraction of data components and noise reduction. This approach advances the non-Euclidean statistical analysis of data with low-dimensional intrinsic structure within Euclidean spaces and offers a complementary perspective for high-dimensional noisy data sets in fields such as bioinformatics and machine learning.",
    "url": "https://doi.org/10.1093/biomet/asag071",
    "doi": "10.1093/biomet/asag071",
-   "pdf": "https://doi.org/10.1093/biomet/asag071",
+   "pdf": "https://academic.oup.com/biomet/advance-article-pdf/doi/10.1093/biomet/asag071/73252875/asag071.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "요약 지난 수십 년 동안 데이터의 차원이 증가함에 따라 효과적인 데이터 분해 방법에 대한 필요성이 높아졌습니다. 그러나 기존 접근 방식은 선형 모델에 의존하거나 해석 가능성이나 유연성이 부족한 경우가 많습니다. 이 문제를 해결하기 위해 주성분 분석의 기본 개념을 기반으로 하는 주 중첩 하위 다양체라는 새로운 비선형 분해 기술을 소개합니다. 이 방법은 점진적으로 감소하는 치수를 사용하여 일련의 중첩된 주요 하위 다양체에 샘플을 투영하여 데이터 세트의 로컬 기하학적 정보를 활용합니다. 이는 지역 공분산 행렬의 더 작은 고유값과 관련된 변형을 대상으로 하여 역방향 단계적 방식으로 데이터 내의 복잡한 정보를 효과적으로 격리합니다. 피팅된 구조는 선형 또는 특수 모양의 부분 공간이 아닌 매끄럽게 중첩된 다양체입니다. 시뮬레이션 연구와 단일 세포 RNA 시퀀싱 데이터 분석은 이 방법이 여러 차원에 걸쳐 호환 가능한 계층 구조를 유지하면서 국지적으로 다양한 비선형 구조를 요약하는 방법을 보여줍니다. 이는 데이터 구성 요소 추출과 노이즈 감소를 용이하게 하는 유연한 부분 공간 제약 조건을 제공합니다. 이 접근 방식은 유클리드 공간 내에서 저차원 고유 구조를 가진 데이터의 비유클리드 통계 분석을 발전시키고 생물정보학 및 기계 학습과 같은 분야의 고차원 시끄러운 데이터 세트에 대한 보완적인 관점을 제공합니다."
+   "abstract_ko": "요약 지난 수십 년 동안 데이터의 차원이 증가함에 따라 효과적인 데이터 분해 방법에 대한 필요성이 높아졌습니다. 그러나 기존 접근 방식은 선형 모델에 의존하거나 해석 가능성이나 유연성이 부족한 경우가 많습니다. 이 문제를 해결하기 위해 주성분 분석의 기본 개념을 기반으로 하는 주 중첩 하위 다양체라는 새로운 비선형 분해 기술을 소개합니다. 이 방법은 점진적으로 감소하는 치수를 사용하여 일련의 중첩된 주요 하위 다양체에 샘플을 투영하여 데이터 세트의 로컬 기하학적 정보를 활용합니다. 이는 지역 공분산 행렬의 더 작은 고유값과 관련된 변형을 대상으로 하여 역방향 단계적 방식으로 데이터 내의 복잡한 정보를 효과적으로 격리합니다. 피팅된 구조는 선형 또는 특수 모양의 부분 공간이 아닌 매끄럽게 중첩된 다양체입니다. 시뮬레이션 연구와 단일 세포 RNA 시퀀싱 데이터 분석은 이 방법이 여러 차원에 걸쳐 호환 가능한 계층 구조를 유지하면서 국지적으로 다양한 비선형 구조를 요약하는 방법을 보여줍니다. 이는 데이터 구성 요소 추출과 노이즈 감소를 용이하게 하는 유연한 부분 공간 제약 조건을 제공합니다. 이 접근 방식은 유클리드 공간 내에서 저차원 고유 구조를 가진 데이터의 비유클리드 통계 분석을 발전시키고 생물정보학 및 기계 학습과 같은 분야의 고차원 시끄러운 데이터 세트에 대한 보완적인 관점을 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7163080990": {
    "id": "oa:W7163080990",
@@ -134922,9 +134969,11 @@
    "abstract": "Summary We show that strong log-concavity emerges in probit regression likelihoods without ridge penalization (i.e. Gaussian priors), unlike for the logistic case. Specifically, we provide: (a) a non-asymptotic characterization of strong log-concavity for fixed designs, similar to that for the existence of the maximum likelihood estimator (MLE) and (b) an asymptotic analysis for random designs, in the proportional regime when the sample size 𝑛 and the number of covariates 𝑑 grow proportionally d/𝑛 → 𝑟 ∈ [0, 1). In the latter case we show that, provided r is small enough, the resulting condition number is finite and bounded independently of 𝑛, d, r with high-probability. Numerically tractable estimates are given in case r = 0. Thus, probit regression provides a non-trivial example of a high-dimensional, well-conditioned log-concave objective.",
    "url": "https://doi.org/10.1093/biomet/asag072",
    "doi": "10.1093/biomet/asag072",
-   "pdf": "https://doi.org/10.1093/biomet/asag072",
+   "pdf": "https://academic.oup.com/biomet/advance-article-pdf/doi/10.1093/biomet/asag072/73257302/asag072.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "요약 우리는 로지스틱 사례와 달리 리지 페널티(즉, 가우시안 사전확률) 없이 프로빗 회귀 가능성에서 강력한 로그 오목성이 나타난다는 것을 보여줍니다. 구체적으로 우리는 다음을 제공합니다: (a) 최대 우도 추정기(MLE)의 존재와 유사한 고정 설계에 대한 강한 로그 오목성의 비점근적 특성화 및 (b) 표본 크기 𝑛 및 공변량 𝑑이 d/𝑛 → 𝑟 ∈ [0, 1)에 비례하여 증가하는 비례 체제에서 무작위 설계에 대한 점근 분석. 후자의 경우 r이 충분히 작으면 결과 조건수는 유한하고 높은 확률로 𝑛, d, r과 독립적으로 경계가 지정됨을 보여줍니다. r = 0인 경우 수치적으로 다루기 쉬운 추정치가 제공됩니다. 따라서 프로빗 회귀는 조건이 잘 맞는 로그 오목 목적의 고차원의 중요한 예를 제공합니다."
+   "abstract_ko": "요약 우리는 로지스틱 사례와 달리 리지 페널티(즉, 가우시안 사전확률) 없이 프로빗 회귀 가능성에서 강력한 로그 오목성이 나타난다는 것을 보여줍니다. 구체적으로 우리는 다음을 제공합니다: (a) 최대 우도 추정기(MLE)의 존재와 유사한 고정 설계에 대한 강한 로그 오목성의 비점근적 특성화 및 (b) 표본 크기 𝑛 및 공변량 𝑑이 d/𝑛 → 𝑟 ∈ [0, 1)에 비례하여 증가하는 비례 체제에서 무작위 설계에 대한 점근 분석. 후자의 경우 r이 충분히 작으면 결과 조건수는 유한하고 높은 확률로 𝑛, d, r과 독립적으로 경계가 지정됨을 보여줍니다. r = 0인 경우 수치적으로 다루기 쉬운 추정치가 제공됩니다. 따라서 프로빗 회귀는 조건이 잘 맞는 로그 오목 목적의 고차원의 중요한 예를 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4384918105": {
    "id": "oa:W4384918105",
@@ -134939,12 +134988,14 @@
    ],
    "journal": "Journal of Econometrics",
    "date": "2026-11-01",
-   "abstract": "We derive a novel canonical decomposition of factor models encompassing both the static factor model - where factors are loaded only contemporaneously - and the Generalised Dynamic Factor Model - where factors are loaded with lags. This decomposition features a new term: the weak common component, defined as the difference between the dynamic and static common components. It is driven by (possibly infinitely many) non-pervasive weak factors which belong to the dynamically common space. Through theoretical and empirical examples - both on U.S. macroeconomic indicators and global financial volatilities - we show that, in general, the weak common component shall not be neglected. Furthermore, we show that, by accounting for the presence of weak common components, we are likely to obtain Impulse Response Functions with more plausible shapes than those obtained from purely static approaches. In addition, we provide consistent estimators for all terms of the canonical decomposition and for the weak factors.",
+   "abstract": "We derive a novel canonical decomposition of factor models encompassing both the static factor model—where factors are loaded only contemporaneously—and the Generalised Dynamic Factor Model—where factors are loaded with lags. This decomposition features a new term: the weak common component, defined as the difference between the dynamic and static common components. It is driven by (possibly infinitely many) non-pervasive weak factors which belong to the dynamically common space. Through theoretical and empirical examples—both on U.S. macroeconomic indicators and global financial volatilities—we show that, in general, the weak common component shall not be neglected. Furthermore, we show that, by accounting for the presence of weak common components, we are likely to obtain Impulse Response Functions with more plausible shapes than those obtained from purely static approaches. In addition, we provide consistent estimators for all terms of the canonical decomposition and for the weak factors.",
    "url": "https://doi.org/10.1016/j.jeconom.2026.106353",
    "doi": "10.1016/j.jeconom.2026.106353",
-   "pdf": "https://doi.org/10.1016/j.jeconom.2026.106353",
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0304407626001739/pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "우리는 요인이 동시에 로드되는 정적 요인 모델과 요인이 시차로 로드되는 일반 동적 요인 모델을 모두 포함하는 요인 모델의 새로운 정식 분해를 도출합니다. 이 분해에는 동적 공통 구성 요소와 정적 공통 구성 요소 간의 차이로 정의되는 약한 공통 구성 요소라는 새로운 용어가 사용됩니다. 이는 동적으로 공통 공간에 속하는 (아마도 무한히 많은) 비침범성 약점 요소에 의해 구동됩니다. 미국 거시경제 지표와 글로벌 금융 변동성에 대한 이론적, 경험적 사례를 통해 우리는 일반적으로 약한 공통 요소가 무시되어서는 안 된다는 점을 보여줍니다. 또한, 약한 공통 구성 요소의 존재를 설명함으로써 순전히 정적 접근 방식에서 얻은 것보다 더 그럴듯한 모양의 임펄스 응답 함수를 얻을 가능성이 있음을 보여줍니다. 또한, 우리는 정규 분해의 모든 항과 약한 요인에 대해 일관된 추정치를 제공합니다."
+   "abstract_ko": "우리는 요인이 동시에 로드되는 정적 요인 모델과 요인이 시차로 로드되는 일반 동적 요인 모델을 모두 포함하는 요인 모델의 새로운 정식 분해를 도출합니다. 이 분해에는 동적 공통 구성 요소와 정적 공통 구성 요소 간의 차이로 정의되는 약한 공통 구성 요소라는 새로운 용어가 사용됩니다. 이는 동적으로 공통 공간에 속하는 (아마도 무한히 많은) 비침범성 약점 요소에 의해 구동됩니다. 미국 거시경제 지표와 글로벌 금융 변동성에 대한 이론적, 경험적 사례를 통해 우리는 일반적으로 약한 공통 요소가 무시되어서는 안 된다는 점을 보여줍니다. 또한, 약한 공통 구성 요소의 존재를 설명함으로써 순전히 정적 접근 방식에서 얻은 것보다 더 그럴듯한 모양의 임펄스 응답 함수를 얻을 가능성이 있음을 보여줍니다. 또한, 우리는 정규 분해의 모든 항과 약한 요인에 대해 일관된 추정치를 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4414683351": {
    "id": "oa:W4414683351",
@@ -134959,9 +135010,11 @@
    "abstract": "Abstract We study the importance-tempered random-walk Metropolis algorithm on <?TeX \\mathbb{R}^{d} ?>, which targets the tempered density <?TeX \\pi_{\\beta}(x)\\propto\\pi(x)^{\\beta} ?>, with <?TeX \\beta\\in(0,1) ?>, and corrects for the resulting bias by importance weighting. The dynamics of this sampler can be described by a continuous-time Markov chain whose embedded chain is the tempered random-walk Metropolis. We prove that, when the tails of <?TeX \\pi ?> decay at rate <?TeX \\|x\\|^{-\\gamma} ?>, this continuous-time chain is uniformly ergodic if and only if <?TeX d/\\gamma < \\beta < (\\gamma-2)/\\gamma ?>. Furthermore, the global spectral gap of this chain can be controlled via the spectral gap of the chain restricted to a ball with radius growing polynomially in <?TeX d ?>. Our theoretical results and simulation studies show that, with a suitable choice of <?TeX \\beta ?>, importance tempering can substantially reduce sensitivity to initialization and significantly improve efficiency over the standard random-walk Metropolis.",
    "url": "https://doi.org/10.1093/biomet/asag068",
    "doi": "10.1093/biomet/asag068",
-   "pdf": "https://doi.org/10.1093/biomet/asag068",
+   "pdf": "https://academic.oup.com/biomet/advance-article-pdf/doi/10.1093/biomet/asag068/73259168/asag068.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 우리는 <?TeX \\beta\\in(0,1) ?>를 사용하여 강화된 밀도 <?TeX \\pi_{\\beta}(x)\\propto\\pi(x)^{\\beta} ?>를 목표로 하는 <?TeX \\mathbb{R}^{d} ?>에 대한 중요도 강화 랜덤 워크 메트로폴리스 알고리즘을 연구하고 중요도 가중치를 통해 결과 편향을 수정합니다. 이 샘플러의 역학은 강화된 랜덤 워크 메트로폴리스인 내장 체인이 있는 연속 시간 Markov 체인으로 설명할 수 있습니다. 우리는 <?TeX \\pi ?>의 꼬리가 <?TeX \\|x\\|^{-\\gamma} ?> 비율로 붕괴할 때, 이 연속 시간 체인이 <?TeX d/\\gamma < \\beta < (\\gamma-2)/\\gamma ?>인 경우에만 균일 에르고딕임을 증명합니다. 더욱이, 이 체인의 전체 스펙트럼 갭은 <?TeX d ?>에서 다항식으로 증가하는 반경을 갖는 볼로 제한된 체인의 스펙트럼 갭을 통해 제어될 수 있습니다. 우리의 이론적 결과와 시뮬레이션 연구에 따르면 <?TeX \\beta ?>를 적절하게 선택하면 중요도 조절이 초기화에 대한 민감도를 크게 줄이고 표준 랜덤 워크 메트로폴리스에 비해 효율성을 크게 향상시킬 수 있습니다."
+   "abstract_ko": "Abstract 우리는 <?TeX \\beta\\in(0,1) ?>를 사용하여 강화된 밀도 <?TeX \\pi_{\\beta}(x)\\propto\\pi(x)^{\\beta} ?>를 목표로 하는 <?TeX \\mathbb{R}^{d} ?>에 대한 중요도 강화 랜덤 워크 메트로폴리스 알고리즘을 연구하고 중요도 가중치를 통해 결과 편향을 수정합니다. 이 샘플러의 역학은 강화된 랜덤 워크 메트로폴리스인 내장 체인이 있는 연속 시간 Markov 체인으로 설명할 수 있습니다. 우리는 <?TeX \\pi ?>의 꼬리가 <?TeX \\|x\\|^{-\\gamma} ?> 비율로 붕괴할 때, 이 연속 시간 체인이 <?TeX d/\\gamma < \\beta < (\\gamma-2)/\\gamma ?>인 경우에만 균일 에르고딕임을 증명합니다. 더욱이, 이 체인의 전체 스펙트럼 갭은 <?TeX d ?>에서 다항식으로 증가하는 반경을 갖는 볼로 제한된 체인의 스펙트럼 갭을 통해 제어될 수 있습니다. 우리의 이론적 결과와 시뮬레이션 연구에 따르면 <?TeX \\beta ?>를 적절하게 선택하면 중요도 조절이 초기화에 대한 민감도를 크게 줄이고 표준 랜덤 워크 메트로폴리스에 비해 효율성을 크게 향상시킬 수 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4416437117": {
    "id": "oa:W4416437117",
@@ -134979,7 +135032,9 @@
    "doi": "10.1093/biomtc/ujag184",
    "pdf": "https://arxiv.org/pdf/2511.01412",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "관찰 연구에서 노출과 관심 결과 사이의 관찰된 연관성은 관찰되지 않은 교란으로 인해 왜곡될 수 있습니다. 인과 민감도 분석은 잠재적인 관찰되지 않은 교란에 대한 관찰된 연관성의 견고성을 평가하는 데 사용될 수 있습니다. 이벤트 발생 시간 결과의 경우 기존 민감도 분석 방법은 관찰되지 않은 혼란변수의 구조에 대한 모수적 가정과 결과 회귀를 위한 Cox 비례 위험 모델에 의존합니다. 이러한 가정이 유지되지 않으면 민감도 분석의 결론이 유효한지 여부가 불분명합니다. 또한 위험 비율의 인과적 해석도 어렵습니다. 이러한 한계를 해결하기 위해 본 논문에서는 이벤트 발생 시간 데이터에 대한 비모수적 민감도 분석 프레임워크를 개발합니다. 구체적으로, 우리는 관찰된 생존 곡선과 반사실적 생존 곡선 간의 차이에 대한 비모수적 경계를 도출하고 반모수적 효율성 이론을 사용하여 이러한 경계에 대한 추정 및 추론을 제안합니다. 우리는 또한 관찰된 평균 생존 시간과 반대실적 제한된 평균 생존 시간 간의 차이에 대한 비모수적 경계와 추론을 제공합니다. 우리는 수치 연구와 고급 이하선 암종 환자의 사망률에 대한 선택적 목 해부의 인과 효과 분석을 사용하여 제안된 방법의 성능을 입증합니다."
+   "abstract_ko": "관찰 연구에서 노출과 관심 결과 사이의 관찰된 연관성은 관찰되지 않은 교란으로 인해 왜곡될 수 있습니다. 인과 민감도 분석은 잠재적인 관찰되지 않은 교란에 대한 관찰된 연관성의 견고성을 평가하는 데 사용될 수 있습니다. 이벤트 발생 시간 결과의 경우 기존 민감도 분석 방법은 관찰되지 않은 혼란변수의 구조에 대한 모수적 가정과 결과 회귀를 위한 Cox 비례 위험 모델에 의존합니다. 이러한 가정이 유지되지 않으면 민감도 분석의 결론이 유효한지 여부가 불분명합니다. 또한 위험 비율의 인과적 해석도 어렵습니다. 이러한 한계를 해결하기 위해 본 논문에서는 이벤트 발생 시간 데이터에 대한 비모수적 민감도 분석 프레임워크를 개발합니다. 구체적으로, 우리는 관찰된 생존 곡선과 반사실적 생존 곡선 간의 차이에 대한 비모수적 경계를 도출하고 반모수적 효율성 이론을 사용하여 이러한 경계에 대한 추정 및 추론을 제안합니다. 우리는 또한 관찰된 평균 생존 시간과 반대실적 제한된 평균 생존 시간 간의 차이에 대한 비모수적 경계와 추론을 제공합니다. 우리는 수치 연구와 고급 이하선 암종 환자의 사망률에 대한 선택적 목 해부의 인과 효과 분석을 사용하여 제안된 방법의 성능을 입증합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7169689250": {
    "id": "oa:W7169689250",
@@ -135002,7 +135057,9 @@
    "doi": "10.1093/biomtc/ujag185",
    "pdf": "https://academic.oup.com/biometrics/article-pdf/82/4/ujag185/73188327/ujag185.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "목표 상태에 대한 완벽한 진단 테스트가 없는 경우 하나 이상의 불완전한 테스트를 사용하여 임상 진단에 도달할 수 있습니다. 잠재 클래스 분석은 테스트 정확도 및 목표 조건 확산을 추정하기 위한 목적으로 불완전한 테스트의 데이터를 모델링하는 데 사용할 수 있습니다. 이러한 모델은 일반적으로 관찰된 데이터 대상 조건 양성 및 대상 조건 음성의 기본이 되는 2개의 잠재 클래스가 있다고 가정합니다. 그러나 우리가 설명하는 것처럼 관찰된 테스트 중 하나라도 목표 조건과 다른 측정량이 있는 경우 이는 지나치게 단순화된 것입니다. 관찰된 불완전한 테스트 결과, 잠재 측정량, 잠재 목표 조건, 관찰 또는 잠재 변수에 영향을 미치는 공변량, 조건부 의존성의 원인 등 관련 변수 간의 관계를 설명하기 위해 방향성 비순환 그래프를 사용할 수 있는 방법을 보여줍니다. 그런 다음 기본 잠재 클래스와 해당 레이블을 결정하는 방법을 보여줍니다. 마지막으로, 각 테스트의 측정량을 고려하는 것이 잠재 클래스 모델의 가능성과 식별 가능성에 어떻게 영향을 미치는지 조사합니다. 시뮬레이션 연구를 사용하여 목표 조건과 다른 측정량을 무시하면 잠재 클래스의 라벨이 잘못 지정될 수 있음을 보여줍니다. 우리는 이전에 발표된 소아 결핵 및 렙토스피라증 테스트의 잠재 클래스 분석에 사용된 2개의 데이터 세트를 재분석하여 제안된 접근 방식의 가치를 설명합니다."
+   "abstract_ko": "목표 상태에 대한 완벽한 진단 테스트가 없는 경우 하나 이상의 불완전한 테스트를 사용하여 임상 진단에 도달할 수 있습니다. 잠재 클래스 분석은 테스트 정확도 및 목표 조건 확산을 추정하기 위한 목적으로 불완전한 테스트의 데이터를 모델링하는 데 사용할 수 있습니다. 이러한 모델은 일반적으로 관찰된 데이터 대상 조건 양성 및 대상 조건 음성의 기본이 되는 2개의 잠재 클래스가 있다고 가정합니다. 그러나 우리가 설명하는 것처럼 관찰된 테스트 중 하나라도 목표 조건과 다른 측정량이 있는 경우 이는 지나치게 단순화된 것입니다. 관찰된 불완전한 테스트 결과, 잠재 측정량, 잠재 목표 조건, 관찰 또는 잠재 변수에 영향을 미치는 공변량, 조건부 의존성의 원인 등 관련 변수 간의 관계를 설명하기 위해 방향성 비순환 그래프를 사용할 수 있는 방법을 보여줍니다. 그런 다음 기본 잠재 클래스와 해당 레이블을 결정하는 방법을 보여줍니다. 마지막으로, 각 테스트의 측정량을 고려하는 것이 잠재 클래스 모델의 가능성과 식별 가능성에 어떻게 영향을 미치는지 조사합니다. 시뮬레이션 연구를 사용하여 목표 조건과 다른 측정량을 무시하면 잠재 클래스의 라벨이 잘못 지정될 수 있음을 보여줍니다. 우리는 이전에 발표된 소아 결핵 및 렙토스피라증 테스트의 잠재 클래스 분석에 사용된 2개의 데이터 세트를 재분석하여 제안된 접근 방식의 가치를 설명합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4416610394": {
    "id": "oa:W4416610394",
@@ -135024,7 +135081,9 @@
    "doi": "10.1145/3861021",
    "pdf": "https://arxiv.org/pdf/2505.23283",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "위조된 원격 감지 이미지를 탐지하는 것은 환경 모니터링과 국가 안보에 대한 신뢰를 유지하는 데 중요합니다. 확산 모델은 매우 현실적인 위조를 가능하게 했지만, 적절한 벤치마크가 부족하여 법의학 시스템에 미치는 영향은 여전히 ​​과소평가되어 있습니다. 기존 데이터세트는 일반적으로 규모가 작고 GAN 중심이므로 최신 생성 모델의 복잡성을 표현하지 못합니다. 이러한 격차를 해소하기 위해 우리는 500K 실제 이미지와 500K 위조 이미지를 포함하는 포괄적인 백만 규모 벤치마크인 RSFAKE-1M을 소개합니다. 6가지 다양한 생성 조건(예: 텍스트-이미지, 인페인팅)에서 10가지 서로 다른 확산 모델의 샘플을 통합하여 광범위한 위조 흔적을 포착합니다. 벤치마크의 유용성을 입증하고 새로운 감지 패러다임을 탐색하기 위해 기존 감지기에 대한 체계적인 평가를 수행하고 토큰 확률을 활용하여 지속적인 감지 점수를 도출하는 탐색적 MLLM 기반 기준인 RSFAKE-bench를 도입합니다. RSFAKE-1M에 대한 우리의 광범위한 실험은 교차 생성기 일반화에서 현재 특수 검출기의 한계를 드러내는 반면, MLLM 기반 탐색은 RSFAKE-bench가 판단에 대한 지리적, 물리적 불일치를 설명하는 사람이 읽을 수 있는 이유를 추가로 제공할 수 있음을 나타냅니다. 우리는 차세대 포렌식 솔루션을 개발하고 엄격하게 평가하기 위한 기본 리소스 역할을 하기 위해 RSFAKE-1M을 출시합니다. 데이터 세트는 https://huggingface.co/datasets/TZHSW/에서 사용할 수 있습니다."
+   "abstract_ko": "위조된 원격 감지 이미지를 탐지하는 것은 환경 모니터링과 국가 안보에 대한 신뢰를 유지하는 데 중요합니다. 확산 모델은 매우 현실적인 위조를 가능하게 했지만, 적절한 벤치마크가 부족하여 법의학 시스템에 미치는 영향은 여전히 ​​과소평가되어 있습니다. 기존 데이터세트는 일반적으로 규모가 작고 GAN 중심이므로 최신 생성 모델의 복잡성을 표현하지 못합니다. 이러한 격차를 해소하기 위해 우리는 500K 실제 이미지와 500K 위조 이미지를 포함하는 포괄적인 백만 규모 벤치마크인 RSFAKE-1M을 소개합니다. 6가지 다양한 생성 조건(예: 텍스트-이미지, 인페인팅)에서 10가지 서로 다른 확산 모델의 샘플을 통합하여 광범위한 위조 흔적을 포착합니다. 벤치마크의 유용성을 입증하고 새로운 감지 패러다임을 탐색하기 위해 기존 감지기에 대한 체계적인 평가를 수행하고 토큰 확률을 활용하여 지속적인 감지 점수를 도출하는 탐색적 MLLM 기반 기준인 RSFAKE-bench를 도입합니다. RSFAKE-1M에 대한 우리의 광범위한 실험은 교차 생성기 일반화에서 현재 특수 검출기의 한계를 드러내는 반면, MLLM 기반 탐색은 RSFAKE-bench가 판단에 대한 지리적, 물리적 불일치를 설명하는 사람이 읽을 수 있는 이유를 추가로 제공할 수 있음을 나타냅니다. 우리는 차세대 포렌식 솔루션을 개발하고 엄격하게 평가하기 위한 기본 리소스 역할을 하기 위해 RSFAKE-1M을 출시합니다. 데이터 세트는 https://huggingface.co/datasets/TZHSW/에서 사용할 수 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7133689312": {
    "id": "oa:W7133689312",
@@ -135050,7 +135109,9 @@
    "doi": "10.1038/s42256-026-01317-6",
    "pdf": "https://doi.org/10.32942/x2vm1z",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "생태학은 유기체가 공간과 시간에 걸쳐 서로 및 환경과 상호 작용하는 방식을 설명하고 예측하는 것을 목표로 합니다. 그러나 생태학적 데이터와 이론은 모두 단편화되어 있어 특정 시스템이나 규모를 넘어서는 일반화가 잘 안되는 모델로 이어집니다. 경험적 증거는 다양한 양상, 해결책 및 맥락에 걸쳐 있는 반면, 이론은 단일 예측 모델 내에 거의 통합되지 않는 부분적으로 겹치는 프레임워크에 분산되어 있습니다. 우리는 대규모 다중 모드 생태학적 데이터세트에 대해 훈련되고 생태학적 이론에 기초한 생태학적 기초 모델(ecoFM)이 공통 프레임워크 내에서 데이터와 이론을 통합하는 경로를 제공한다고 주장합니다. 생태학에 대한 과학적 가치 외에도 ecoFM은 기계 학습을 위한 도전적이고 결과적인 테스트베드를 제시하며 다중 모드 표현 학습, 이론 기반 모델링 및 불확실성 인식 추론의 발전을 요구합니다. 유기체, 환경 및 상호 작용의 공유 표현을 학습함으로써 ecoFM은 일반화를 개선하고 패턴을 처리에 연결하며 생태학적 하위 분야 전반에 걸쳐 합성을 가능하게 할 수 있습니다. 우리는 데이터 인프라, 모델 아키텍처, 평가 전략 및 거버넌스에 대한 요구 사항을 포함하여 ecoFM 개발을 위한 로드맵을 간략하게 설명하고 현재 기계 학습 및 생태학적 접근 방식이 부족한 부분을 평가합니다. 생태 실무자 및 기타 행위자들과 책임감 있게 협력하여 개발한다면, ecoFM은 새로운 분석 방식을 가능하게 하고 생태학적 예측을 강화할 수 있습니다."
+   "abstract_ko": "생태학은 유기체가 공간과 시간에 걸쳐 서로 및 환경과 상호 작용하는 방식을 설명하고 예측하는 것을 목표로 합니다. 그러나 생태학적 데이터와 이론은 모두 단편화되어 있어 특정 시스템이나 규모를 넘어서는 일반화가 잘 안되는 모델로 이어집니다. 경험적 증거는 다양한 양상, 해결책 및 맥락에 걸쳐 있는 반면, 이론은 단일 예측 모델 내에 거의 통합되지 않는 부분적으로 겹치는 프레임워크에 분산되어 있습니다. 우리는 대규모 다중 모드 생태학적 데이터세트에 대해 훈련되고 생태학적 이론에 기초한 생태학적 기초 모델(ecoFM)이 공통 프레임워크 내에서 데이터와 이론을 통합하는 경로를 제공한다고 주장합니다. 생태학에 대한 과학적 가치 외에도 ecoFM은 기계 학습을 위한 도전적이고 결과적인 테스트베드를 제시하며 다중 모드 표현 학습, 이론 기반 모델링 및 불확실성 인식 추론의 발전을 요구합니다. 유기체, 환경 및 상호 작용의 공유 표현을 학습함으로써 ecoFM은 일반화를 개선하고 패턴을 처리에 연결하며 생태학적 하위 분야 전반에 걸쳐 합성을 가능하게 할 수 있습니다. 우리는 데이터 인프라, 모델 아키텍처, 평가 전략 및 거버넌스에 대한 요구 사항을 포함하여 ecoFM 개발을 위한 로드맵을 간략하게 설명하고 현재 기계 학습 및 생태학적 접근 방식이 부족한 부분을 평가합니다. 생태 실무자 및 기타 행위자들과 책임감 있게 협력하여 개발한다면, ecoFM은 새로운 분석 방식을 가능하게 하고 생태학적 예측을 강화할 수 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225376508": {
    "id": "oa:W7225376508",
@@ -135065,9 +135126,11 @@
    "abstract": "Abstract Large language models are increasingly taken to be capable of semantic practices. Debate about what to make of this has largely been conducted as a dispute about understanding. I argue that these standard framings, whichever side one takes, leave out an essential component of discursive reasoning: responsibility. To assert something is to make oneself answerable for what is claimed, to stand ready to defend it, and to give up a previously-asserted claim that cannot be defended. What settles whether a system is a participant in discursive practice is therefore not merely whether it understands, nor merely how well it performs, but whether it can be held to what it has claimed. Drawing on Brandom’s inferentialism, I develop five criteria for responsible reasoning, each of which admits of degrees. What they track is not independence from a community, since no speaker’s discursive capacities are independent of the community that institutes the norms she is answerable to, but the degree to which an agent does its own deontic scorekeeping. The central thesis I defend is accordingly agent-neutral: an agent whose performances fail these criteria is not, to that extent, reasoning responsibly.",
    "url": "https://doi.org/10.1007/s13347-026-01234-x",
    "doi": "10.1007/s13347-026-01234-x",
-   "pdf": "https://doi.org/10.1007/s13347-026-01234-x",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01234-x.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 대형 언어 모델은 점점 더 의미론적 실행이 가능하다는 인식이 높아지고 있습니다. 이를 무엇으로 할 것인가에 대한 논쟁은 대체로 이해의 논쟁으로 진행되어 왔다. 나는 어느 쪽을 선택하든 이러한 표준 프레임이 담론적 추론의 필수 구성 요소인 책임을 생략한다고 주장합니다. 무언가를 주장한다는 것은 주장된 내용에 대해 책임을 지고, 이를 방어할 준비가 되어 있으며, 방어할 수 없는 이전 주장을 포기하는 것입니다. 따라서 시스템이 담론적 실천에 참여하는지 여부를 결정하는 것은 단순히 시스템이 이해하는지, 시스템이 얼마나 잘 수행되는지가 아니라 시스템이 주장한 내용을 유지할 수 있는지 여부입니다. Brandom의 추론주의를 활용하여 나는 책임감 있는 추론을 위한 다섯 가지 기준을 개발했으며, 각 기준은 정도를 인정합니다. 그들이 추적하는 것은 커뮤니티로부터의 독립성이 아닙니다. 왜냐하면 화자의 담론 능력은 그녀가 책임져야 할 규범을 제정하는 커뮤니티로부터 독립적이지 않고 에이전트가 자체 의무적 점수 기록을 수행하는 정도이기 때문입니다. 따라서 내가 옹호하는 중심 논제는 행위자 중립적입니다. 즉, 이러한 기준에 부합하지 않는 행위를 수행하는 행위자는 그 정도까지는 책임감 있게 추론하지 않습니다."
+   "abstract_ko": "Abstract 대형 언어 모델은 점점 더 의미론적 실행이 가능하다는 인식이 높아지고 있습니다. 이를 무엇으로 할 것인가에 대한 논쟁은 대체로 이해의 논쟁으로 진행되어 왔다. 나는 어느 쪽을 선택하든 이러한 표준 프레임이 담론적 추론의 필수 구성 요소인 책임을 생략한다고 주장합니다. 무언가를 주장한다는 것은 주장된 내용에 대해 책임을 지고, 이를 방어할 준비가 되어 있으며, 방어할 수 없는 이전 주장을 포기하는 것입니다. 따라서 시스템이 담론적 실천에 참여하는지 여부를 결정하는 것은 단순히 시스템이 이해하는지, 시스템이 얼마나 잘 수행되는지가 아니라 시스템이 주장한 내용을 유지할 수 있는지 여부입니다. Brandom의 추론주의를 활용하여 나는 책임감 있는 추론을 위한 다섯 가지 기준을 개발했으며, 각 기준은 정도를 인정합니다. 그들이 추적하는 것은 커뮤니티로부터의 독립성이 아닙니다. 왜냐하면 화자의 담론 능력은 그녀가 책임져야 할 규범을 제정하는 커뮤니티로부터 독립적이지 않고 에이전트가 자체 의무적 점수 기록을 수행하는 정도이기 때문입니다. 따라서 내가 옹호하는 중심 논제는 행위자 중립적입니다. 즉, 이러한 기준에 부합하지 않는 행위를 수행하는 행위자는 그 정도까지는 책임감 있게 추론하지 않습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225382567": {
    "id": "oa:W7225382567",
@@ -135084,7 +135147,8 @@
    "doi": "10.1007/s43681-026-01493-6",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7225383678": {
    "id": "oa:W7225383678",
@@ -135101,7 +135165,8 @@
    "doi": "10.1007/s43681-026-01471-y",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7225384545": {
    "id": "oa:W7225384545",
@@ -135120,7 +135185,8 @@
    "doi": "10.1007/s43681-026-01504-6",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7225394785": {
    "id": "oa:W7225394785",
@@ -135137,7 +135203,9 @@
    "doi": "10.1007/s11023-026-09807-7",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s11023-026-09807-7.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "디지털 정신의 위상은 우리 권리의 위상과 양립할 수 없습니다. 내일 선거가 있고 알파가 투표권을 갖는다고 상상해 보세요. 오늘 밤, 알파는 두 개의 동일하게 연속적인 후계자인 베타와 감마로 나뉩니다. 누가 투표를 하게 되나요? 둘 다에서 그것을 보류하면 투표가 종료됩니다. 둘 다에게 주면 배가됩니다. 한 사람에게 주는데, 어떤 근거로 주나요? 자유주의 질서는 재산 소유권, 투표권, 개인 관련 형사 책임과 같은 권리를 기반으로 합니다. 나는 이러한 사건을 통시적이고 분할할 수 없으며 단일 중심적이고 배타적인(DIME) 사건이라고 부릅니다. 핵분열 후 DIME 사건의 할당은 여러 가지 방법으로 수행할 수 있습니다. 제가 간략하게 설명했지만 모든 선택에는 비용이 듭니다. 권리가 증식하거나 사라지거나, 권리를 보존하려는 헛된 노력으로 법정화폐로 처리됩니다. AI 권리에 대한 논쟁은 일반적으로 기계 의식이나 감각에 초점을 맞춥니다. 나는 그러한 골치 아픈 문제가 해결된 후에도 권리에 대한 문제는 여전히 남아 있다고 주장합니다. 이것이 분기의 어려운 문제입니다."
+   "abstract_ko": "디지털 정신의 위상은 우리 권리의 위상과 양립할 수 없습니다. 내일 선거가 있고 알파가 투표권을 갖는다고 상상해 보세요. 오늘 밤, 알파는 두 개의 동일하게 연속적인 후계자인 베타와 감마로 나뉩니다. 누가 투표를 하게 되나요? 둘 다에서 그것을 보류하면 투표가 종료됩니다. 둘 다에게 주면 배가됩니다. 한 사람에게 주는데, 어떤 근거로 주나요? 자유주의 질서는 재산 소유권, 투표권, 개인 관련 형사 책임과 같은 권리를 기반으로 합니다. 나는 이러한 사건을 통시적이고 분할할 수 없으며 단일 중심적이고 배타적인(DIME) 사건이라고 부릅니다. 핵분열 후 DIME 사건의 할당은 여러 가지 방법으로 수행할 수 있습니다. 제가 간략하게 설명했지만 모든 선택에는 비용이 듭니다. 권리가 증식하거나 사라지거나, 권리를 보존하려는 헛된 노력으로 법정화폐로 처리됩니다. AI 권리에 대한 논쟁은 일반적으로 기계 의식이나 감각에 초점을 맞춥니다. 나는 그러한 골치 아픈 문제가 해결된 후에도 권리에 대한 문제는 여전히 남아 있다고 주장합니다. 이것이 분기의 어려운 문제입니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225403142": {
    "id": "oa:W7225403142",
@@ -135153,9 +135221,11 @@
    "abstract": "Abstract Artificial Intelligence (AI) and the proliferation of conversational agents have brought transformative changes in education but pose challenges in ensuring the academic integrity of assessments. This article proposes ‘affirmation vivas’ as a potent response to reasonable doubts about the authorship of assessed student work. It draws on a case-study of the first affirmation viva conducted at the University of Glasgow, conducted after ChatGPT “confessed” to generating part of a student dissertation. During the viva, while acknowledging experimenting with AI chatbots, the student successfully demonstrated understanding and ownership of their work. The article reviews practical and ethical issues involved in responding to suspected AI misuse and develops a principled framework for affirmation vivas. We conceptualise these vivas as a means of affirming student understanding rather than detecting AI misuse or presuming misconduct. We derive five principles for their fair and proportionate implementation, including a high threshold for convening them, a presumption of innocence throughout the process and for marking to take place only after the viva, avoiding biases that derive from assuming a student’s guilt.",
    "url": "https://doi.org/10.1007/s43681-026-01505-5",
    "doi": "10.1007/s43681-026-01505-5",
-   "pdf": "https://doi.org/10.1007/s43681-026-01505-5",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01505-5.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 인공 지능(AI)과 대화형 에이전트의 확산은 교육에 혁신적인 변화를 가져왔지만 평가의 학문적 무결성을 보장하는 데에는 어려움이 있습니다. 이 기사는 평가된 학생 작업의 저자에 대한 합리적인 의심에 대한 강력한 대응으로 '확증 비바스'를 제안합니다. ChatGPT가 학생 논문의 일부를 생성했다고 \"고백\"한 후 글래스고 대학에서 실시된 첫 번째 확인 비바에 대한 사례 연구를 바탕으로 합니다. 비바 기간 동안 학생은 AI 챗봇 실험을 인정하면서 자신의 작업에 대한 이해와 주인의식을 성공적으로 입증했습니다. 이 기사는 의심되는 AI 오용에 대응하는 것과 관련된 실용적이고 윤리적인 문제를 검토하고 확증 조건에 대한 원칙적인 프레임워크를 개발합니다. 우리는 이러한 비바를 AI 오용을 감지하거나 위법 행위를 추정하기보다는 학생의 이해를 확인하는 수단으로 개념화합니다. 우리는 소집을 위한 높은 기준, 과정 전반에 걸친 무죄 추정, 학생의 유죄 추정에서 파생되는 편견을 피하면서 비바 이후에만 표시하는 등 공정하고 비례적인 구현을 위한 5가지 원칙을 도출합니다."
+   "abstract_ko": "Abstract 인공 지능(AI)과 대화형 에이전트의 확산은 교육에 혁신적인 변화를 가져왔지만 평가의 학문적 무결성을 보장하는 데에는 어려움이 있습니다. 이 기사는 평가된 학생 작업의 저자에 대한 합리적인 의심에 대한 강력한 대응으로 '확증 비바스'를 제안합니다. ChatGPT가 학생 논문의 일부를 생성했다고 \"고백\"한 후 글래스고 대학에서 실시된 첫 번째 확인 비바에 대한 사례 연구를 바탕으로 합니다. 비바 기간 동안 학생은 AI 챗봇 실험을 인정하면서 자신의 작업에 대한 이해와 주인의식을 성공적으로 입증했습니다. 이 기사는 의심되는 AI 오용에 대응하는 것과 관련된 실용적이고 윤리적인 문제를 검토하고 확증 조건에 대한 원칙적인 프레임워크를 개발합니다. 우리는 이러한 비바를 AI 오용을 감지하거나 위법 행위를 추정하기보다는 학생의 이해를 확인하는 수단으로 개념화합니다. 우리는 소집을 위한 높은 기준, 과정 전반에 걸친 무죄 추정, 학생의 유죄 추정에서 파생되는 편견을 피하면서 비바 이후에만 표시하는 등 공정하고 비례적인 구현을 위한 5가지 원칙을 도출합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225408909": {
    "id": "oa:W7225408909",
@@ -135178,9 +135248,11 @@
    "abstract": "Abstract The rise of agentic AI and so-called AI companions introduces a shift in the modes of interactions between humans and machines. The exact contours of this shift remain unclear, but early signs of social, affective, and even romantic engagements demonstrate areas of potential benefit and potent harms to individuals and to the broader social fabric. A full appreciation of these benefits and harms demands a multi-perspectival account not only of technological innovation and emerging modalities of human-machine interaction, but also of the historical, socio-cultural, psychological, and ethical aspects of companionship. This essay provides such as account through a pragmatist perspective that considers the material, institutional, and psycho-social conditions behind the rise of AI. From this perspective, the essay broadens the notion of “alignment” as one between means and ends rather than the commonly accepted formulation between design goals and outputs. We argue that AI companionship blurs the boundaries between tools and social actors—a dynamic that emerges from the interplay of technical architectures, intentional design practices, user psychology, and political-economic forces. Given that interplay, a set of interrelated questions arise, which we address in three clusters (supply, demand, mediation), highlighting the emerging social and ethical dilemmas, and suggesting pragmatic interventions to inform public discourse and policymaking. In so doing, we hope to curtail the tremendous fallouts that have become evident in other domains such as social media only in retrospect, and ​to contribute to the creation of an environment conducive to social cohesion and individual wellbeing.",
    "url": "https://doi.org/10.1007/s43681-026-01506-4",
    "doi": "10.1007/s43681-026-01506-4",
-   "pdf": "https://doi.org/10.1007/s43681-026-01506-4",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01506-4.pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "Abstract 에이전트 AI와 소위 AI 동반자의 등장은 인간과 기계 간의 상호 작용 모드에 변화를 가져옵니다. 이러한 변화의 정확한 윤곽은 불분명하지만, 사회적, 정서적, 심지어 낭만적인 참여의 초기 징후는 개인과 더 넓은 사회 구조에 잠재적인 이익과 잠재적인 해를 끼칠 수 있는 영역을 보여줍니다. 이러한 이점과 해악을 충분히 이해하려면 기술 혁신과 인간-기계 상호 작용의 새로운 양식뿐만 아니라 동반자 관계의 역사적, 사회 문화적, 심리적, 윤리적 측면에 대한 다각적 설명이 필요합니다. 이 에세이는 AI 부상의 이면에 있는 물질적, 제도적, 심리사회적 조건을 고려하는 실용주의적 관점을 통해 이러한 설명을 제공합니다. 이러한 관점에서 이 에세이는 디자인 목표와 결과 사이에서 일반적으로 받아들여지는 공식화보다는 수단과 목적 사이의 하나로 \"정렬\"이라는 개념을 확장합니다. 우리는 AI 동반이 도구와 사회적 행위자 사이의 경계를 모호하게 만든다고 주장합니다. 이는 기술 아키텍처, 의도적인 디자인 관행, 사용자 심리학 및 정치 경제적 힘의 상호 작용에서 나타나는 역동성입니다. 이러한 상호 작용을 고려할 때, 우리는 세 가지 클러스터(공급, 수요, 중재)에서 다루는 일련의 상호 연관된 질문이 발생하여 새로운 사회적 및 윤리적 딜레마를 강조하고 공개 담론 및 정책 결정에 정보를 제공하기 위한 실용적인 개입을 제안합니다. 그렇게 함으로써 우리는"
+   "abstract_ko": "Abstract 에이전트 AI와 소위 AI 동반자의 등장은 인간과 기계 간의 상호 작용 모드에 변화를 가져옵니다. 이러한 변화의 정확한 윤곽은 불분명하지만, 사회적, 정서적, 심지어 낭만적인 참여의 초기 징후는 개인과 더 넓은 사회 구조에 잠재적인 이익과 잠재적인 해를 끼칠 수 있는 영역을 보여줍니다. 이러한 이점과 해악을 충분히 이해하려면 기술 혁신과 인간-기계 상호 작용의 새로운 양식뿐만 아니라 동반자 관계의 역사적, 사회 문화적, 심리적, 윤리적 측면에 대한 다각적 설명이 필요합니다. 이 에세이는 AI 부상의 이면에 있는 물질적, 제도적, 심리사회적 조건을 고려하는 실용주의적 관점을 통해 이러한 설명을 제공합니다. 이러한 관점에서 이 에세이는 디자인 목표와 결과 사이에서 일반적으로 받아들여지는 공식화보다는 수단과 목적 사이의 하나로 \"정렬\"이라는 개념을 확장합니다. 우리는 AI 동반이 도구와 사회적 행위자 사이의 경계를 모호하게 만든다고 주장합니다. 이는 기술 아키텍처, 의도적인 디자인 관행, 사용자 심리학 및 정치 경제적 힘의 상호 작용에서 나타나는 역동성입니다. 이러한 상호 작용을 고려할 때, 우리는 세 가지 클러스터(공급, 수요, 중재)에서 다루는 일련의 상호 연관된 질문이 발생하여 새로운 사회적 및 윤리적 딜레마를 강조하고 공개 담론 및 정책 결정에 정보를 제공하기 위한 실용적인 개입을 제안합니다. 그렇게 함으로써 우리는",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7167917957": {
    "id": "oa:W7167917957",
@@ -135192,12 +135264,14 @@
    ],
    "journal": "Telecommunications Policy",
    "date": "2026-11-06",
-   "abstract": "Public Key Infrastructures (PKIs) are transnational institutions organized around a collectively recognized trust hierarchy. A product of the commercialization and de-militarization of digital cryptography, they play a critical role in protecting the security and integrity of online communications. This paper investigates the formation of PKIs from the 1990s to the present, showing how they diverged from the hierarchical structure of nation-state sovereignty. Despite early efforts by states to bring encryption technology into conformity with existing governmental power hierarchies, private actors supplanted state actors in the formation of PKIs. Understanding this divergence contributes to our understanding of how digitization has altered the global political economy and illuminates current debates over 'digital sovereignty' (or the lack thereof).",
+   "abstract": "Public Key Infrastructures (PKIs) are transnational institutions organised around a collectively recognized trust hierarchy. A product of the commercialization and de-militarization of digital cryptography, they play a critical role in protecting the security and integrity of online communications. This paper investigates the formation of PKIs from the 1990s to the present, showing how they diverged from the hierarchical structure of nation-state sovereignty. Despite early efforts by states to bring encryption technology into conformity with existing governmental power hierarchies, private actors supplanted state actors in the formation of PKIs. Understanding this divergence contributes to our understanding of how digitisation has altered the global political economy and illuminates current debates over 'digital sovereignty'.",
    "url": "https://doi.org/10.1016/j.telpol.2026.103344",
    "doi": "10.1016/j.telpol.2026.103344",
-   "pdf": "https://doi.org/10.1016/j.telpol.2026.103344",
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0308596126001941/pdf",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "공개 키 인프라(PKI)는 집합적으로 인정된 신뢰 계층 구조를 중심으로 구성된 초국적 기관입니다. 디지털 암호화의 상용화 및 비군사화의 산물인 암호화폐는 온라인 통신의 보안과 무결성을 보호하는 데 중요한 역할을 합니다. 본 논문은 1990년대부터 현재까지 PKI의 형성 과정을 조사하여 이들이 국민국가 주권의 위계적 구조에서 어떻게 갈라졌는지를 보여준다. 암호화 기술을 기존 정부 권력 계층에 부합시키려는 국가의 초기 노력에도 불구하고 PKI 형성에서 민간 행위자가 국가 행위자를 대체했습니다. 이러한 차이를 이해하는 것은 디지털화가 글로벌 정치 경제를 어떻게 변화시켰는지 이해하는 데 도움이 되며 '디지털 주권'(또는 디지털 주권의 부족)에 대한 현재 논쟁을 조명합니다."
+   "abstract_ko": "공개 키 인프라(PKI)는 집합적으로 인정된 신뢰 계층 구조를 중심으로 구성된 초국적 기관입니다. 디지털 암호화의 상용화 및 비군사화의 산물인 암호화폐는 온라인 통신의 보안과 무결성을 보호하는 데 중요한 역할을 합니다. 본 논문은 1990년대부터 현재까지 PKI의 형성 과정을 조사하여 이들이 국민국가 주권의 위계적 구조에서 어떻게 갈라졌는지를 보여준다. 암호화 기술을 기존 정부 권력 계층에 부합시키려는 국가의 초기 노력에도 불구하고 PKI 형성에서 민간 행위자가 국가 행위자를 대체했습니다. 이러한 차이를 이해하는 것은 디지털화가 글로벌 정치 경제를 어떻게 변화시켰는지 이해하는 데 도움이 되며 '디지털 주권'(또는 디지털 주권의 부족)에 대한 현재 논쟁을 조명합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225377136": {
    "id": "oa:W7225377136",
@@ -135215,9 +135289,11 @@
    "abstract": "Smart governance is a recent concept that aims to improve public services and the management of cities and territories through an open government to civil society and the intensive and intelligent use of ICT. However, despite the availability of legal frameworks and technologies, citizen participation is still occasional, is not integrated into the comprehensive public policy cycle, and is not based on data or knowledge. Thus, there is a risk that public decisions and services are not aligned with citizens’ needs, are costly, or are of low quality. Based on literature insights, we hypothesized that the lack of knowledge-based and comprehensive solutions, as well as conceptual frameworks, system models and technological tools, could be hindering the smart governance implementation. To validate our hypothesis, we decided to study the real state of smart governance implementation in local governments of Seville province (Spain) through the expert opinion of public managers. Previously its key aspects and implementation barriers were identified in the literature. To this end, we conducted anonymous surveys of 19 public employees (experts in citizen participation and e-government) in successive rounds in search of consensus (Delphi method) on these issues in relation to how they were addressing them and how they would like to improve them. The results showed consensus in low citizen participation and collaborative decision-making, and the desire to improve it in frequency and depth, involving the business and professional sectors. Furthermore, it revealed a lack of specialized personnel, tools and technical resources to carry out participatory processes and collaboration among stakeholders, especially for complex and integrated processes based on data and shared knowledge. Furthermore a great variability of these processes was evidenced. Therefore, we could conclude that providing technological resources for smart governance, such as implementation frameworks, models and tools, would help institutions and ICT providers to develop integrated smart governance solutions in the complex and variable context of the e-government ecosystem. Our study is original since it focuses on the implementation problem, both how it is and how it should be, reviews the needs of specific types of participatory processes (e.g., participatory budgeting or citizen consultations), government areas, and considers localities of different sizes. So, it provides valuable insights to guide smart governance implementation in a general way in local governments.",
    "url": "https://doi.org/10.1145/3860056",
    "doi": "10.1145/3860056",
-   "pdf": "https://doi.org/10.1145/3860056",
+   "pdf": "https://dl.acm.org/doi/pdf/10.1145/3860056?download=true",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "스마트 거버넌스는 시민 사회에 대한 열린 정부와 ICT의 집중적이고 지능적인 사용을 통해 공공 서비스와 도시 및 지역의 관리를 개선하는 것을 목표로 하는 최근 개념입니다. 그러나 법적 프레임워크와 기술의 가용성에도 불구하고 시민 참여는 여전히 간헐적이며 포괄적인 공공 정책 주기에 통합되지 않고 데이터나 지식을 기반으로 하지 않습니다. 따라서 공공의 결정과 서비스가 시민의 요구와 일치하지 않거나, 비용이 많이 들거나, 품질이 낮을 위험이 있습니다. 문헌 통찰력을 바탕으로 우리는 개념적 프레임워크, 시스템 모델 및 기술 도구뿐만 아니라 지식 기반의 포괄적인 솔루션이 부족하여 스마트 거버넌스 구현을 방해할 수 있다는 가설을 세웠습니다. 우리는 가설을 검증하기 위해 공공 관리자의 전문가 의견을 통해 스페인 세비야 지방 정부의 스마트 거버넌스 구현 실태를 연구하기로 결정했습니다. 이전에는 주요 측면과 구현 장벽이 문헌에서 확인되었습니다. 이를 위해 우리는 19명의 공무원(시민참여 및 전자정부 전문가)을 대상으로 이러한 문제를 어떻게 해결하고 개선하고 싶은지에 대한 합의(델파이 방식)를 찾기 위해 순차적으로 익명 설문조사를 실시했습니다. 그 결과, 낮은 시민참여와 협력적 의사결정에 공감대가 나타났고, 이를 빈도와 부서에서 개선하고자 하는 의지가 나타났다."
+   "abstract_ko": "스마트 거버넌스는 시민 사회에 대한 열린 정부와 ICT의 집중적이고 지능적인 사용을 통해 공공 서비스와 도시 및 지역의 관리를 개선하는 것을 목표로 하는 최근 개념입니다. 그러나 법적 프레임워크와 기술의 가용성에도 불구하고 시민 참여는 여전히 간헐적이며 포괄적인 공공 정책 주기에 통합되지 않고 데이터나 지식을 기반으로 하지 않습니다. 따라서 공공의 결정과 서비스가 시민의 요구와 일치하지 않거나, 비용이 많이 들거나, 품질이 낮을 위험이 있습니다. 문헌 통찰력을 바탕으로 우리는 개념적 프레임워크, 시스템 모델 및 기술 도구뿐만 아니라 지식 기반의 포괄적인 솔루션이 부족하여 스마트 거버넌스 구현을 방해할 수 있다는 가설을 세웠습니다. 우리는 가설을 검증하기 위해 공공 관리자의 전문가 의견을 통해 스페인 세비야 지방 정부의 스마트 거버넌스 구현 실태를 연구하기로 결정했습니다. 이전에는 주요 측면과 구현 장벽이 문헌에서 확인되었습니다. 이를 위해 우리는 19명의 공무원(시민참여 및 전자정부 전문가)을 대상으로 이러한 문제를 어떻게 해결하고 개선하고 싶은지에 대한 합의(델파이 방식)를 찾기 위해 순차적으로 익명 설문조사를 실시했습니다. 그 결과, 낮은 시민참여와 협력적 의사결정에 공감대가 나타났고, 이를 빈도와 부서에서 개선하고자 하는 의지가 나타났다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225402939": {
    "id": "oa:W7225402939",
@@ -135243,7 +135319,9 @@
    "doi": "10.1145/3859276",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "파킨슨병(PD)은 전 세계적으로 두 번째로 흔한 신경퇴행성 질환으로, 특히 노인에게 영향을 미칩니다. PD의 조기 진단은 증상의 미묘한 발병으로 인해 여전히 어렵습니다. MDS-UPDRS와 같은 전통적인 운동 평가 도구는 종종 객관성과 감도가 부족합니다. 이 연구에서는 파킨슨병과 관련된 보행 이상을 감지하기 위해 웨어러블 관성 측정 장치 IMU 센서와 결합된 기계 학습(ML) 및 딥 러닝(DL) 기술을 평가합니다. 여러 얕은 ML 모델과 DL 아키텍처는 주제 수준에서 분할된 전처리된 IMU 보행 데이터에 대해 훈련되었습니다. 정보 유출 없이 클래스 불균형을 해결하기 위해 데이터 증강 기술이 훈련 데이터 세트에만 적용되었습니다. 증강된 시간 신호에 대해 훈련된 LSTM 모델은 정확도 93.79%, 재현율 94.84%, 균형 정확도 93.78%, 매튜스 상관 계수(MCC) 0.876에 도달하여 가장 높은 성능을 달성했습니다. DWT 기능을 갖춘 MLP 및 Random Forest는 정확도 92.48%, 재현율 93.55%, MCC 0.850을 달성했습니다. 모델 견고성은 LSTM을 달성한 독립적인 교차 사이트 코호트에서 추가로 확인되었습니다. 정확도 93.10%, 재현율 94.16%; MLP: 92.13% 정확도, 93.07% 재현율. 또한, explainable AI는 모델 결정이 주로 손목 회전 역학에 의해 주도되어 비대칭 팔 스윙 감소를 생리학적으로 확증한다는 사실을 밝혔습니다."
+   "abstract_ko": "파킨슨병(PD)은 전 세계적으로 두 번째로 흔한 신경퇴행성 질환으로, 특히 노인에게 영향을 미칩니다. PD의 조기 진단은 증상의 미묘한 발병으로 인해 여전히 어렵습니다. MDS-UPDRS와 같은 전통적인 운동 평가 도구는 종종 객관성과 감도가 부족합니다. 이 연구에서는 파킨슨병과 관련된 보행 이상을 감지하기 위해 웨어러블 관성 측정 장치 IMU 센서와 결합된 기계 학습(ML) 및 딥 러닝(DL) 기술을 평가합니다. 여러 얕은 ML 모델과 DL 아키텍처는 주제 수준에서 분할된 전처리된 IMU 보행 데이터에 대해 훈련되었습니다. 정보 유출 없이 클래스 불균형을 해결하기 위해 데이터 증강 기술이 훈련 데이터 세트에만 적용되었습니다. 증강된 시간 신호에 대해 훈련된 LSTM 모델은 정확도 93.79%, 재현율 94.84%, 균형 정확도 93.78%, 매튜스 상관 계수(MCC) 0.876에 도달하여 가장 높은 성능을 달성했습니다. DWT 기능을 갖춘 MLP 및 Random Forest는 정확도 92.48%, 재현율 93.55%, MCC 0.850을 달성했습니다. 모델 견고성은 LSTM을 달성한 독립적인 교차 사이트 코호트에서 추가로 확인되었습니다. 정확도 93.10%, 재현율 94.16%; MLP: 92.13% 정확도, 93.07% 재현율. 또한, explainable AI는 모델 결정이 주로 손목 회전 역학에 의해 주도되어 비대칭 팔 스윙 감소를 생리학적으로 확증한다는 사실을 밝혔습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225407891": {
    "id": "oa:W7225407891",
@@ -135255,12 +135333,13 @@
    ],
    "journal": "Journal of Urban Technology",
    "date": "2026-11-06",
-   "abstract": "",
+   "abstract": "The escalating demand for urban transportation amid rapid urbanization requires sustainable solutions that optimize energy consumption across multiple transportation modes. Although recent studies have applied Artificial Intelligence (AI) to public transportation, electric vehicles (EVs), or Mobility-as-a-Service (MaaS) individually, limited research has addressed the integrated optimization of mixed transport systems. This article proposes the Mixed Transport Energy Optimizer (MTEO), an AI-IoT framework integrating Multi-Agent Reinforcement Learning (MARL), Graph Neural Networks (GNNs), Long Short-Term Memory (LSTM) networks, IoT-based sensing, and edge computing for real-time optimization of routing, scheduling, and energy management across high-capacity public transport and low-capacity on-demand mobility. The framework dynamically adapts to passenger demand, traffic conditions, energy pricing, and environmental factors, while leveraging V2G-enabled energy management and predictive demand forecasting. MTEO is evaluated using the Mumbai mixed transportation network through SUMO and MATLAB/Simulink simulations, supported by a preliminary corridor-level pilot validation. The proposed framework achieves 23 percent reduction in daily energy consumption (4.2–3.24 GWh), 26 percent reduction in operational cost, 25 percent reduction in CO₂ emissions, and 28 percent reduction in passenger delay compared with conventional transportation systems. These improvements demonstrate the effectiveness of coordinated cross-modal optimization for sustainable urban mobility. The proposed MTEO framework provides a scalable solution for intelligent transportation systems (ITS), supporting Sustainable Development Goals (SDGs) and advancing the transition toward net-zero smart cities.",
    "url": "https://doi.org/10.1080/10630732.2026.2726160",
    "doi": "10.1080/10630732.2026.2726160",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7225427358": {
    "id": "oa:W7225427358",
@@ -135278,9 +135357,11 @@
    "abstract": "This study investigates measures that cities take to address the digital divide. It examines the extent to which cities’ strategy documents contain measures designed to ensure digital participation and prevent exclusion. The research is based on a survey of digitalization and Smart City strategy documents from 55 medium-sized German cities. A multi-stage methodological approach was applied, combining automated text extraction, systematic key-word searches, and qualitative content analysis for inductive category development. Our analysis reveals widespread rhetorical commitment to digital inclusion, but significant variation in the specificity of measures. An imbalance between symbolic objectives and actionable strategies is observed. A typology of six measure types was developed. The distribution of these measure types shows that most cities prioritize implementation-level actions, particularly communication-oriented instruments. Structural and institutional measures are mentioned far less frequently. Our research provides an analytical model that differentiates between strategic vs. operational and normative vs. concrete approaches to address the digital divide. It offers policymakers and researchers a systematic tool for evaluating and developing inclusive digital transformation strategies in an era of rapid digital developments in the fields of AI and the CitiVerse, which, despite their potential, are also capable of deepening the digital divide.",
    "url": "https://doi.org/10.1145/3859483",
    "doi": "10.1145/3859483",
-   "pdf": "",
+   "pdf": "https://dl.acm.org/doi/pdf/10.1145/3859483?download=true",
    "first_seen": "2026-11-08T10:40:13+09:00",
-   "abstract_ko": "본 연구에서는 디지털 격차를 해결하기 위해 도시가 취하는 조치를 조사합니다. 도시의 전략 문서에 디지털 참여를 보장하고 배제를 방지하기 위해 고안된 조치가 포함되어 있는 정도를 조사합니다. 이번 연구는 독일 55개 중규모 도시의 디지털화 및 스마트 시티 전략 문서에 대한 조사를 기반으로 합니다. 귀납적 카테고리 개발을 위해 자동화된 텍스트 추출, 체계적인 키워드 검색, 질적 콘텐츠 분석을 결합하는 다단계 방법론적 접근 방식이 적용되었습니다. 우리의 분석은 디지털 포용에 대한 광범위한 수사적 약속을 보여주지만 조치의 구체적 측면에서는 상당한 차이가 있습니다. 상징적 목표와 실행 가능한 전략 사이의 불균형이 관찰됩니다. 6가지 측정 유형의 유형이 개발되었습니다. 이러한 조치 유형의 분포는 대부분의 도시가 구현 수준 조치, 특히 의사소통 중심 도구를 우선시한다는 것을 보여줍니다. 구조적, 제도적 조치는 훨씬 덜 자주 언급됩니다. 우리의 연구는 디지털 격차를 해결하기 위해 전략적 접근 방식과 운영적 접근 방식, 규범적 접근 방식과 구체적인 접근 방식을 구별하는 분석 모델을 제공합니다. 이는 잠재력에도 불구하고 디지털 격차를 심화시킬 수 있는 AI 및 CitiVerse 분야의 급속한 디지털 발전 시대에 정책 입안자와 연구자들에게 포괄적인 디지털 변혁 전략을 평가하고 개발하기 위한 체계적인 도구를 제공합니다."
+   "abstract_ko": "본 연구에서는 디지털 격차를 해결하기 위해 도시가 취하는 조치를 조사합니다. 도시의 전략 문서에 디지털 참여를 보장하고 배제를 방지하기 위해 고안된 조치가 포함되어 있는 정도를 조사합니다. 이번 연구는 독일 55개 중규모 도시의 디지털화 및 스마트 시티 전략 문서에 대한 조사를 기반으로 합니다. 귀납적 카테고리 개발을 위해 자동화된 텍스트 추출, 체계적인 키워드 검색, 질적 콘텐츠 분석을 결합하는 다단계 방법론적 접근 방식이 적용되었습니다. 우리의 분석은 디지털 포용에 대한 광범위한 수사적 약속을 보여주지만 조치의 구체적 측면에서는 상당한 차이가 있습니다. 상징적 목표와 실행 가능한 전략 사이의 불균형이 관찰됩니다. 6가지 측정 유형의 유형이 개발되었습니다. 이러한 조치 유형의 분포는 대부분의 도시가 구현 수준 조치, 특히 의사소통 중심 도구를 우선시한다는 것을 보여줍니다. 구조적, 제도적 조치는 훨씬 덜 자주 언급됩니다. 우리의 연구는 디지털 격차를 해결하기 위해 전략적 접근 방식과 운영적 접근 방식, 규범적 접근 방식과 구체적인 접근 방식을 구별하는 분석 모델을 제공합니다. 이는 잠재력에도 불구하고 디지털 격차를 심화시킬 수 있는 AI 및 CitiVerse 분야의 급속한 디지털 발전 시대에 정책 입안자와 연구자들에게 포괄적인 디지털 변혁 전략을 평가하고 개발하기 위한 체계적인 도구를 제공합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225380344": {
    "id": "oa:W7225380344",
@@ -135301,7 +135382,169 @@
    "doi": "10.1016/j.tele.2026.102485",
    "pdf": "",
    "first_seen": "2026-11-08T10:40:13+09:00",
+   "abs_tries": 2,
+   "ko_tries": 0
+  },
+  "oa:W7225454942": {
+   "id": "oa:W7225454942",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Policy Integration in the Federal Governance of Food Security in Mexico",
+   "authors": [
+    "Ruben D. Ramírez-Ramírez",
+    "Jaime Sainz-Santamaría",
+    "Mario Graff"
+   ],
+   "journal": "Latin American Policy",
+   "date": "2026-11-07",
+   "abstract": "ABSTRACT This article analyzes the degree of public policy integration in the federal governance of food security in Mexico. Drawing on the policy integration framework proposed by Candel and Biesbroek, the study examines four key dimensions: (1) policy frame, (2) subsystem involvement, (3) policy goals, and (4) policy instruments. The analysis reveals a partial recognition of the multifunctional nature of food security, but this recognition does not translate into fully integrated policy design or implementation. Instead, food security interventions remain fragmented, concentrated within a limited number of institutions, and disproportionately focused on food utilization, to the detriment of availability and accessibility. Weak coordination across sectors and levels of government is further reinforced by a highly centralized financial architecture, which constrains policy coherence, limits instrument complementarity, and restricts the capacity of subnational actors to engage in coordinated action. Although many initiatives are formally aligned with national and international frameworks, implementation often remains rhetorical rather than operational. To address these limitations, the article argues for a shift toward polycentric governance supported by a reconfigured financial architecture and balanced policy instrument mixes. Finally, the study highlights the role of evaluation as a critical mechanism for advancing toward more integrated, coherent, and sustainable food security policies in Mexico. 摘要 本文分析了墨西哥在联邦层面治理粮食安全时的公共政策整合程度。基于Candel和Biesbroek提出的政策整合框架, 本研究考察了四个关键维度:(1)政策框架, (2)子系统参与, (3)政策目标, 以及(4)政策工具。分析表明, 尽管人们在一定程度上认识到了粮食安全的多功能性, 但这种认识并未转化为完全整合的政策设计或实施。相反, 粮食安全干预措施依然处于碎片化状态, 集中在少数几个机构手中, 且过度侧重于“粮食利用”环节, 从而忽视了“粮食供应”与“获取能力”方面的问题。高度集中的财政体制进一步加剧了跨部门及跨层级政府间协调不力的问题, 这不仅制约了政策的一致性与工具间的互补性, 还限制了地方主体开展协同行动的能力。尽管许多举措在形式上与国内及国际框架保持一致, 但在实际执行中往往流于形式, 缺乏实质性的操作落实。针对上述局限性, 本文主张转向多中心治理模式, 并辅以重构的财政体制与均衡的政策工具组合。最后, 本研究强调了评估机制的关键作用, 认为它是推动墨西哥建立更具整合性、一致性和可持续性的粮食安全政策体系的重要手段。",
+   "url": "https://doi.org/10.1111/lamp.70077",
+   "doi": "10.1111/lamp.70077",
+   "pdf": "",
+   "first_seen": "2026-11-09T10:48:42+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7225458049": {
+   "id": "oa:W7225458049",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Governance, Infrastructure, and Multidimensional Poverty Policies: Comparative Insights From Global Studies",
+   "authors": [
+    "Septiawan Ardiputra",
+    "Laila Qadrini",
+    "Mu'man Nuryana",
+    "Burhanuddin",
+    "Thamrin Pawalluri",
+    "Milyan",
+    "Ul Qadri",
+    "Ratu Noorita A",
+    "Sri Astuty Ratnasari Manggu"
+   ],
+   "journal": "Administration & Society",
+   "date": "2026-11-06",
+   "abstract": "Poverty remains a persistent global challenge driven by social inequality, limited access to essential services, and environmental risks. Despite progress in reducing extreme poverty, inclusive and sustainable alleviation requires effective governance, infrastructure development, and multidimensional policy interventions. This study employs a mixed-methods review design that combines bibliometric analysis with a systematic literature review (SLR) using the PRISMA framework. The bibliometric analysis was conducted on 1,017 records retrieved from Scopus to examine publication trends, geographical patterns, key contributors, and thematic evolution, while the SLR synthesized 51 eligible peer-reviewed articles published between 2015 and 2024 for in-depth examination of governance, infrastructure, policy interventions, and multidimensional poverty. Findings reveal growing scholarly attention, with China leading empirical research and Western countries advancing conceptual and methodological innovations. Bibliometric mapping identifies emerging signals related to big data-driven analysis, climate and environmental risks, social inclusion, gender, and targeted poverty alleviation, and the SLR indicates that gender-related research remains substantively underrepresented. The study highlights a shift from rural development toward interdisciplinary, evidence-based, and context-sensitive approaches, offering insights for policymakers and researchers in advancing strategies aligned with Sustainable Development Goal 1 (No Poverty).",
+   "url": "https://doi.org/10.1177/00953997261495484",
+   "doi": "10.1177/00953997261495484",
+   "pdf": "",
+   "first_seen": "2026-11-09T10:48:42+09:00",
+   "ko_tries": 1
+  },
+  "oa:W4416735199": {
+   "id": "oa:W4416735199",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Two‐stage least squares as a mean and covariance structure estimator: Reconciling econometric and psychometric formulations",
+   "authors": [
+    "Alberto Maydeu‐Olivares",
+    "Yves Rosseel"
+   ],
+   "journal": "British Journal of Mathematical and Statistical Psychology",
+   "date": "2026-11-07",
+   "abstract": "Abstract Instrumental variables regression is increasingly used in psychology and is the basis of model‐implied instrumental variables structural equation modelling (MIIV‐SEM), yet econometric and psychometric formulations use different statistical representations and terminology. We develop a general theory of multi‐stage weighted least squares estimation for mean and covariance structures and show that classical two‐stage least squares (2SLS) is the second stage of a three‐stage procedure. The first stage estimates predictive equations for the explanatory variables; the second estimates the structural intercept and regression coefficients; and the third estimates the remaining disturbance variance and covariances, propagating uncertainty from earlier stages. For structural parameters, the normal‐theory and asymptotically distribution‐free covariance estimators reduce exactly to conventional homoscedastic and heteroscedasticity‐robust 2SLS estimators. With model‐based covariance matrices, Browne's normal‐theory goodness‐of‐fit statistic equals Sargan's overidentification statistic, and its ADF counterpart equals Wooldridge's heteroscedasticity‐robust score statistic. Third‐stage disturbance covariances quantify endogeneity and yield Wald tests asymptotically equivalent, under the null, to the Hausman OLS–2SLS contrast and Wooldridge's robust exogeneity test, respectively. The results place MIIV‐SEM estimators, standard errors, and tests within a coherent multi‐stage statistical theory.",
+   "url": "https://doi.org/10.1111/bmsp.70083",
+   "doi": "10.1111/bmsp.70083",
+   "pdf": "https://doi.org/10.1111/bmsp.70083",
+   "first_seen": "2026-11-09T10:48:42+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7225452875": {
+   "id": "oa:W7225452875",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "The Goldilocks Regression Discontinuity Design: A Dual-Threshold Framework for Evaluating Interventions Outside an Optimal Range",
+   "authors": [
+    "Brian G. Moss"
+   ],
+   "journal": "Evaluation Review",
+   "date": "2026-11-06",
+   "abstract": "Regression discontinuity designs (RDDs) are widely used to estimate causal effects when treatment assignment is determined by a threshold on a continuous running variable. Many interventions, however, target individuals at both ends of a continuum, with treatment assigned when values fall either below a lower threshold or above an upper threshold. This paper introduces the Goldilocks Regression Discontinuity Design (GRDD), a dual-threshold framework for evaluating such interventions. GRDD estimates two locally identified treatment effects, one at each threshold, while allowing both effects to be interpreted within a common intervention framework. Separate local, simultaneous, and spline-based estimation strategies are presented. A 10-condition Monte Carlo simulation evaluates estimator performance across differences in sample size, functional form, heteroskedasticity, running-variable density, and treatment-effect magnitude. Results demonstrate an important tradeoff between precision and robustness. Simultaneous estimation provides substantial precision gains when the common functional form is correctly specified but can produce substantial bias and poor confidence interval coverage under misspecification. Separate local estimation is more consistently robust across conditions, while spline-based estimation was generally robust under nonlinear relationships. A semi-synthetic application using data from the National Health and Nutrition Examination Survey (NHANES) illustrates implementation of the framework at lower and upper body mass index thresholds. GRDD extends the application of RDD to dual-threshold interventions while preserving local identification at each cutoff and providing a unified framework for comparing intervention effects across distinct regions of need.",
+   "url": "https://doi.org/10.1177/0193841x261504243",
+   "doi": "10.1177/0193841x261504243",
+   "pdf": "",
+   "first_seen": "2026-11-09T10:48:42+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7225450483": {
+   "id": "oa:W7225450483",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Public perceptions of infrastructural digital nudging: an experience-based study in a quasi-public setting",
+   "authors": [
+    "Yuki Kubota",
+    "Kazushi Maruya",
+    "Maki Ogawa",
+    "Taiki Fukiage",
+    "Takumi Yokosaka",
+    "Yuri Mikawa"
+   ],
+   "journal": "AI & Society",
+   "date": "2026-11-07",
+   "abstract": "Abstract Digital nudging increasingly shapes behavior, impressions, and decision-making in public spaces. However, existing empirical research has largely focused on nudging in relation to individualized decision-making, offering limited insight into how diverse publics interpret such technologies when embedded in public infrastructures—what we refer to here as infrastructural digital nudging. In such settings, the influence of digital nudging may become less visible and less easily avoidable, while asymmetries between those who design the technology and those who encounter it may become more consequential. These conditions, together with the possibility that public expectations and social implications extend beyond expert-defined frameworks, highlight the need for early engagement. In this study, we investigate public perceptions of infrastructural digital nudging based on multi-display signage through a demonstration conducted at a national science museum in Japan. We used a convergent mixed-methods design that combined quantitative analyses of structured questionnaire responses with qualitative analyses of open-ended questionnaire responses and sticky notes. This research design enabled both statistical analysis and fine-grained interpretation of participants’ concerns, interests, and imagined uses. Our results show that, at an aggregate level, participants prioritized understanding the technology’s mechanisms, purposes, and social impacts over canonical ethical categories such as autonomy and transparency. However, qualitative analyses revealed considerable heterogeneity: some participants expressed strong concerns about unconscious influence, manipulation, and misuse. Co-occurrence analyses further indicated that participants’ evaluations were structured around different perspectives, including science-focused assessment and social concerns. These findings suggest that public perceptions of infrastructural digital nudging are heterogeneous and organized around multiple perspectives, not reducible to expert-defined categories. This underscores the importance of empirically examining how such technologies are interpreted when encountered in environments approximating real-world situations.",
+   "url": "https://doi.org/10.1007/s00146-026-03370-6",
+   "doi": "10.1007/s00146-026-03370-6",
+   "pdf": "https://doi.org/10.1007/s00146-026-03370-6",
+   "first_seen": "2026-11-09T10:48:42+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7225451808": {
+   "id": "oa:W7225451808",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Data Pricing Model Integrating Beluga Whale Optimization with XGBoost and SHAP Explainability Analysis",
+   "authors": [
+    "Jian Yang",
+    "Wenyu Jia",
+    "Nan Cao",
+    "Yali Lv",
+    "Jie Zhang"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-11-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11469-7",
+   "doi": "10.1007/s10614-026-11469-7",
+   "pdf": "",
+   "first_seen": "2026-11-09T10:48:42+09:00",
    "abs_tries": 1
+  },
+  "oa:W7225454443": {
+   "id": "oa:W7225454443",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Climate Risk Transmission to African Financial Markets: Evidence from Cross-Quantilogram",
+   "authors": [
+    "Achraf Yahia",
+    "Yassine Mouhssine",
+    "Fadoua EL Meslouhi",
+    "Abdelkader El Alaoui"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-11-07",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11468-8",
+   "doi": "10.1007/s10614-026-11468-8",
+   "pdf": "",
+   "first_seen": "2026-11-09T10:48:42+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7225457501": {
+   "id": "oa:W7225457501",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Dreams of rebirth: revisiting China's AI imaginaries in the post-DeepSeek era",
+   "authors": [
+    "Jindong Leo-Liu",
+    "Yang Yi",
+    "Qiming Gu"
+   ],
+   "journal": "Big Data & Society",
+   "date": "2026-11-07",
+   "abstract": "This study examines how Chinese AI practitioners construct sociotechnical imaginaries around AI development in China amid intensifying the U.S.–China technological competition following DeepSeek's emergence in early 2025. Based on expert interviews ( N = 33), podcast analysis ( N = 65), and fieldwork across Beijing, Shanghai, Shenzhen, and Hong Kong, we find that DeepSeek's breakthrough catalyzed a reconfiguration of imaginaries across national, organizational, and individual scales: renewed confidence in China's capacity for technological advancement despite geopolitical constraints, revived technological idealism centered on young startup teams, and a reclamation of individual agency among entrepreneurs and tech workers. We conceptualize this emergent configuration as rebirthism—a historically situated sociotechnical imaginary emerging from Chinese technological development and cultural narratives through the demystification of the Silicon Valley supremacy and remystification of domestic innovation.",
+   "url": "https://doi.org/10.1177/20539517261500657",
+   "doi": "10.1177/20539517261500657",
+   "pdf": "https://doi.org/10.1177/20539517261500657",
+   "first_seen": "2026-11-09T10:48:42+09:00",
+   "ko_tries": 1
   }
  }
 }
