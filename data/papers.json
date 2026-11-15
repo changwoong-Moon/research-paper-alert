@@ -1,15 +1,172 @@
 {
- "generated_at": "2026-11-14T11:34:25+09:00",
- "generated_at_display": "2026-11-14 11:34 KST",
+ "generated_at": "2026-11-15T11:01:27+09:00",
+ "generated_at_display": "2026-11-15 11:01 KST",
  "dashboard": "https://changwoong-moon.github.io/research-paper-alert/",
  "kci_status": "정상 — PC 수집 267건 (2026-11-11 09:30)",
  "topics": [
   {
    "key": "public-admin",
    "name": "행정학 연구동향",
-   "count": 1316,
-   "new_count": 18,
+   "count": 1315,
+   "new_count": 27,
    "papers": [
+    {
+     "id": "oa:W7225987503",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "From Narratives That No Longer Persuade to Those That Enchant Again: An Analysis of Narratives of Fury in Polarized Contexts in the United States, Brazil, El Salvador, and Argentina",
+     "authors": [
+      "Marcela Herminia Cifarelli",
+      "Alejandro M. Estévez"
+     ],
+     "journal": "Latin American Policy",
+     "date": "2026-11-13",
+     "abstract": "ABSTRACT The main objective is to analyze the variation in the resonance and echo of outrage narratives within agenda setting, consensus building, and policy institutionalization in Argentina, Brazil, the United States, and El Salvador 2017–2025. The article employs a mixed‐methods design grounded in the Narrative Policy Framework. This methodology combines qualitative content analysis—to identify narrative structure and strategy—with quantitative content analysis that codes resonance (the alignment of narrative structure with core beliefs) and echo (the propagation and polarization based on the frequency of narrative strategies in the analyzed speeches) on an ordinal scale. The main findings indicate that while these narratives are initially effective in mobilizing support and shifting the policy agenda, they tend to exacerbate polarization and hinder the construction of sustainable consensus, ultimately affecting the institutionalization of public policies.",
+     "url": "https://doi.org/10.1111/lamp.70086",
+     "doi": "10.1111/lamp.70086",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7225988832",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Migration, Security and Development: The Chakma– Hajong Question in Arunachal Pradesh",
+     "authors": [
+      "Niraj Kumar",
+      "Ishaan Sengupta"
+     ],
+     "journal": "Indian Journal of Public Administration",
+     "date": "2026-11-13",
+     "abstract": "",
+     "url": "https://doi.org/10.1177/00195561261503742",
+     "doi": "10.1177/00195561261503742",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7225991211",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Future Temporalities and Advocacy Coalition Framework: Latin American's Hybrid Approach",
+     "authors": [
+      "Martha Isabel Gómez Lee"
+     ],
+     "journal": "Latin American Policy",
+     "date": "2026-11-13",
+     "abstract": "ABSTRACT The Advocacy Coalition Framework assigns a structural role to time in explaining policy change, arguing that major transformations unfold over a decade or more. This article questions that premise in contexts of cultural heterogeneity and ontological plurality, where actors may hold divergent conceptions of the future. Drawing on critical and decolonial perspectives, it reorganizes the Future Temporalities Coalitions Framework from previous research. To propose a re‐specification of the Advocacy Coalition Framework's temporal architecture for Latin America, a qualitative comparative reinterpretation of three published studies on Access and Benefit‐Sharing policies in Colombia, Brazil, and Peru is conducted. Two studies apply the Advocacy Coalition Framework, and one employs a hybrid version incorporating future temporalities. The analysis shows that the Advocacy Coalition Framework explains coalition stability and policy change when actors share similar temporal assumptions. Tensions emerge when global regulatory regimes interact with local ontologies that conceptualize time differently. Reinterpreting deep core beliefs as carriers of temporal ontologies expands the framework's analytical capacity. By integrating temporal plurality as a dimension of conflict, the Future Temporalities Coalitions Framework enhances contextual sensitivity and extends the Advocacy Coalition Framework's applicability to transnational governance settings.",
+     "url": "https://doi.org/10.1111/lamp.70081",
+     "doi": "10.1111/lamp.70081",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7225995154",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Under pressure: A systematic review of the pressures shaping street-level work",
+     "authors": [
+      "Ofek Edri‐Peer",
+      "Nissim Cohen"
+     ],
+     "journal": "Public Policy and Administration",
+     "date": "2026-11-13",
+     "abstract": "What are the main pressures shaping street-level service delivery? Which types of pressures lead to specific coping strategies? Street-level bureaucrats’ coping mechanisms play a crucial role in their interactions with clients and have been widely studied. However, the pressures they face and how these pressures shape service delivery have not been systematically examined. This study shifts the focus from identifying street-level bureaucrats’ coping mechanisms to explaining their antecedents, providing a systematic account of the pressures that help shape street-level coping. Through a systematic review of 165 studies, we find that organizational pressures appear most prominently across a wide range of coping behaviors. Environmental pressures shape coping in varied ways, reflecting the diverse demands of the external environment. Personal pressures, although frequently discussed, influence coping in more nuanced and context-dependent ways, often reflected in behaviors that move toward clients. Together, these insights contribute to a richer conceptualization of street-level coping, showing that coping reflects the layered and intersecting pressures that shape frontline work.",
+     "url": "https://doi.org/10.1177/09520767261499589",
+     "doi": "10.1177/09520767261499589",
+     "pdf": "https://doi.org/10.1177/09520767261499589",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226023674",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Governance in Strategic Ecosystems: Preliminary Report of a Case Study in Tumaco, Colombia (2023–2025)",
+     "authors": [
+      "Juan-Antonio Zornoza Bonilla",
+      "Norman Simón Rodríguez Cano"
+     ],
+     "journal": "Latin American Policy",
+     "date": "2026-11-13",
+     "abstract": "ABSTRACT This report examines the governance system for marine plastic pollution in Tumaco, Colombia, a strategically important yet institutionally fragile region. Drawing on the institutional ecology of games and a mixed‐methods approach combining qualitative fieldwork with agent‐based modeling, our study analyzes the evolving governance dynamics between governmental, civil society, private, and academic actors from September 2023 to May 2025. Our preliminary findings reveal a fragmented and nascent governance system that exhibits only limited characteristics of a robust polycentric network. The system is characterized by inconsistent state engagement and is critically dependent on the proactive leadership of a resilient civil society, the influence of psycho‐affective ties, and the intervention of an external academic catalyst to facilitate collaboration. Our agent‐based simulations reinforce this diagnosis of fragility, indicating that the network's cohesion is highly vulnerable to the departure of key individuals and that strategic opportunities can paradoxically centralize the network rather than strengthen its polycentric nature. This research contributes to the study of governance in the Global South by demonstrating that in fragile contexts, the pre‐conditions for polycentricity may be absent. We argue that effective transformation requires a shift from managing a presumed polycentric system to actively building its foundations by legitimizing local actors and institutionalizing collaborative processes.",
+     "url": "https://doi.org/10.1111/lamp.70079",
+     "doi": "10.1111/lamp.70079",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226025087",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Development-led Disaster-induced Displacements in India: Legal and Governance Analysis",
+     "authors": [
+      "Gaurika Chugh"
+     ],
+     "journal": "Indian Journal of Public Administration",
+     "date": "2026-11-13",
+     "abstract": "Disaster-induced displacement in India has occurred due to the rampant linear trajectory of development-led growth that has destroyed fragile and ecologically sensitive regions. The impact of disasters is commonly measured through mortality, injury and economic loss. However, displacement and its longer-term consequences remain outside the legal and governance framework of disaster management in India. This article critically examines the legal framework governing disaster management to identify the gaps and suggest measures for prevention and mitigation. It contextualises the national laws and policies within the international legal framework and guidelines for the protection of internally displaced people (IDPs) to assess the extent to which India’s legal and governance framework addresses the rights of displaced communities. The article argues that the legal framework remains largely response-driven, and there are no significant efforts undertaken for mitigating disaster risk and strengthen community resilience. It recommends integrating legal protection of IDPs within the legal framework and adopting a human rights-based approach assuring the life and dignity of human life.",
+     "url": "https://doi.org/10.1177/00195561261503740",
+     "doi": "10.1177/00195561261503740",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226036212",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Key Elements for the Study of Public Policy in Latin America",
+     "authors": [
+      "Nicolás Bentancur"
+     ],
+     "journal": "Latin American Policy",
+     "date": "2026-11-13",
+     "abstract": "ABSTRACT Academic studies of the policy process are heavily dominated by theoretical frameworks developed in the Global North, creating a fundamental mismatch when applied to non‐Western contexts. This article addresses a critical research question, how must universal policy process theories be adapted to accurately analyze the distinct political, social, and institutional realities of Latin America? Utilizing a context‐sensitive literature‐review approach, this study evaluates previous regional scholarship by filtering its findings through the lens of Cairney and Heikkila's six systemic elements: actors, institutions, networks, ideas, context, and events. The findings reveal that Latin American policymaking operates under profound structural asymmetries, including hyper‐presidential architectures paired with institutional weakness, high informality, severe socioeconomic inequality, and a “hierarchical capitalism” dominated by family conglomerates. Rather than treating these features as mere background conditions, the article articulates how they function as analytical mechanisms that systematically reconfigure policy formulation and implementation. As its primary contribution, the article offers a theoretical framework that disentangles regional policy dynamics into three analytical categories: trans‐contextual mechanisms, mechanisms requiring contextual specification, and explanatory boundary limits. Furthermore, to advance situated policy studies, it conceptualizes five analytical fallacies that scholars must explicitly avoid: epistemological neutrality, convergence, transplantation, institutional determinism, and the Aristotelian fallacy of division. This framework moves beyond treating Latin American features as mere “deviant cases,” offering a more plural and rigorous theoretical dialog between Northern paradigms and Global South realities.",
+     "url": "https://doi.org/10.1111/lamp.70078",
+     "doi": "10.1111/lamp.70078",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7225987372",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "From Reporting to Regulation: The Making and Governance of Financial Resilience Through the Charity Statement of Recommended Practice in England and Wales",
+     "authors": [
+      "Rani Suleman"
+     ],
+     "journal": "Nonprofit and Voluntary Sector Quarterly",
+     "date": "2026-11-12",
+     "abstract": "This paper examines the emergence of the first charity accounting standard, the Statement of Recommended Practice 2: Accounting by Charities (SORP), to show how financial resilience came to be constructed within the sector. Moving beyond accounts which frame the SORP as a technical response to scandals of the 1980s, it situates its development within a longer trajectory of post-war welfare and regulatory reform. Drawing on Burchell et al.’s notion of arenas, the paper traces how the accounting profession helped connect concerns around poor financial reporting, fraud, financial mismanagement and weak regulatory oversight to the development of standardised reporting practices which made charities financially knowable, comparable and governable. By treating the SORP as a regulatory tool, the paper shows how accounting standards helped translated aspirations for stewardship into calculable and governable expectations of financial resilience.",
+     "url": "https://doi.org/10.1177/08997640261495470",
+     "doi": "10.1177/08997640261495470",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226002929",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Research on the Optimisation Path of Algorithm Transparency and Board Accountability Mechanisms in an Artificial Intelligence-Assisted Governance Model",
+     "authors": [
+      "Ling Jin"
+     ],
+     "journal": "Administration & Society",
+     "date": "2026-11-12",
+     "abstract": "Algorithmically-triggered governance remains underdeveloped in AI-integrated institutions, leading to decision delays and unresolved anomalies. This study aimed to evaluate precision, latency, and resolution outcomes of AI-escalation models embedded in institutional board workflows. The study collected 300 AI-generated escalation cases from 30 participants, stratified by legal, administrative, and technical roles. Annotated cases were evaluated using role-calibrated interfaces and tiered trigger thresholds. Models were trained and tested using rule-based routing with bootstrap validation. Comparative analyses (pre- and post-intervention) and subgroup comparisons were performed using ANOVA, the Kruskal–Wallis test, and effect size metrics. All analyses were conducted in Python. Interpretation accuracy ranged from 74.9% to 91.4%, with AI analysts achieving the highest performance. Routing precision peaked at 88.2%, board action success at 82.5%, and tooltip interaction averaged 10.5 clicks. Interface refinement improved task accuracy by 7.0%, decreased latency by 560 ms, and increased routing success by 8.2%. Escalation latency reduced by 630 to 650 ms across domains. Trigger-specific sensitivity was highest for reclassification (92.1%), with final resolution times averaging 4,510 ms. Post-outlier corrections yielded minor gains (<1.2%), and misroutes accounted for the highest unresolved rates (40.0%). Structured escalation protocols notably enhanced AI-governance alignment and reduce critical response delays.",
+     "url": "https://doi.org/10.1177/00953997261498380",
+     "doi": "10.1177/00953997261498380",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7225869206",
      "topic": "public-admin",
@@ -21,7 +178,7 @@
      ],
      "journal": "Public Money & Management",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "IMPACTThis article highlights that, instead of fostering co-operation, relationships in public organizations can create pressure that shapes how employees navigate their daily work. Drawing on zuoren as a relational norm in Chinese culture, the authors show how such expectations become embedded in practice and may generate pressure for conformity. In collectivist cultural contexts, where social roles and obligations are central, public servants may place a strong emphasis on meeting others’ expectations, influencing how they interpret their responsibilities and interact with colleagues and stakeholders. This suggests that efforts to promote relational approaches should be designed with caution. While fostering collaboration and strong interpersonal ties is important, such expectations may also impose psychological burdens and, in turn, compromise the achievement of public service goals.",
      "url": "https://doi.org/10.1080/09540962.2026.2758820",
      "doi": "10.1080/09540962.2026.2758820",
      "pdf": "",
@@ -40,10 +197,10 @@
      ],
      "journal": "Public Performance & Management Review",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "Citizen reporting platforms (CRPs) are widely adopted and frequently framed as tools for citizen involvement in service assessment. Yet little is known about the extent to which these platforms move beyond one-way issue reporting to support more substantive forms of citizen involvement. This article develops a multidimensional framework and applies it to 194 CRPs across German mid-sized municipalities, a group overlooked in prior research. Drawing on the DeLone and McLean information systems success model and co-production research, we conceptualize maturity as the breadth and combination of platform features across four dimensions: communication, usability, responsiveness, and accountability. We find substantial variation in overall maturity. Usability is the most developed dimension, whereas responsiveness and accountability are markedly less common, producing an accountability gap in the conditions for visible, traceable, and evaluable forms of citizen involvement. Responsiveness and accountability tend to co-occur on platforms with more developed usability infrastructures—a cumulative pattern. Regression analyses identify external implementation as the strongest and most consistent correlate of maturity, while municipal responsiveness to a platform-related inquiry is a more limited but significant factor. The study provides a transferable assessment framework and highlights the gap between basic reporting and the platform-side design conditions for fuller co-assessment.",
      "url": "https://doi.org/10.1080/15309576.2026.2760820",
      "doi": "10.1080/15309576.2026.2760820",
-     "pdf": "https://doi.org/10.1080/15309576.2026.2760820",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/15309576.2026.2760820?needAccess=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -57,7 +214,7 @@
      ],
      "journal": "Local Government Studies",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "This study examines whether targeted intergovernmental transfers can slow local population decline. South Korea’s Local Extinction Response Fund finances locally planned projects in municipalities facing demographic contraction. Using municipality-level panel data from 2009 to 2024, we estimate a Bartik instrumental variable model that combines historical population change with leave-one-out province-year fund allocations. The estimates indicate that funding slows population decline, with positive and statistically significant effects on the economically active, young, and female populations. Analyses of project composition associate slower decline with a concentration of projects in Culture and Tourism, Childcare, and Housing. These patterns suggest that amenities, care services, and residential conditions may contribute to local demographic stability. By evaluating population outcomes under a dedicated fiscal programme, the study adds evidence on the role of intergovernmental finance in place-based revitalisation. The findings suggest that targeted intergovernmental transfers can contribute to population stability in shrinking municipalities.",
      "url": "https://doi.org/10.1080/03003930.2026.2763411",
      "doi": "10.1080/03003930.2026.2763411",
      "pdf": "",
@@ -76,10 +233,10 @@
      ],
      "journal": "Journal of European Public Policy",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "EU citizens hold equal welfare rights across Member States, but national bureaucracies implement these rights unequally. We ask whether representative bureaucracy can reduce this inequality, while considering its intersectional nature. Theoretically, we distinguish additive intersectional representation, where shared traits accumulate, from categorical intersectional representation, where specific identity configurations matter. We show how to test both quantitatively. A conjoint experiment with 2,402 public employees in four Western European countries examines their responses to hypothetical social welfare applicants, varying by age, gender, French or Bulgarian origin and integration effort – traits that can match bureaucrats’ own lived experiences. We find that male, Bulgarian and poorly integrated applicants are less likely to be prioritised overall, and that single-trait matches leave prioritisation largely unchanged. However, prioritisation rises from 49 to 56 per cent as applicants share up to five traits with bureaucrats. Male Bulgarian applicants benefit specifically when assessed by male bureaucrats with a migration background. Both intersectionality models therefore yield distinct and valuable insights, rather than one being analytically superior to the other. Differentiated implementation of EU social rights thus also arises within administrations, through individual bureaucrats’ discretion. Intersectional representative bureaucracy may help address resulting inequities – but policy implications require more investigation.",
      "url": "https://doi.org/10.1080/13501763.2026.2756962",
      "doi": "10.1080/13501763.2026.2756962",
-     "pdf": "https://doi.org/10.1080/13501763.2026.2756962",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13501763.2026.2756962?needAccess=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -113,7 +270,7 @@
      ],
      "journal": "Journal of European Public Policy",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "Politicians have to adjudicate between competing policy claims, making judgments as to which to advocate for and which to disregard. Given time and resource constraints, politicians are likely to rely on a deservingness heuristic when making such judgements. However, little is known about how politicians conceive of the deservingness of different policy claims and how this varies by ideology. This paper analyses over 500 interviews with politicians about which characteristics of policy claims prompt them (not) to respond. It explores the circumstances under which politicians spontaneously invoke deservingness as a guiding principle, and how they determine a claim’s deservingness. We find that deservingness is a prevalent criterion that politicians apply to a wide range of policy domains. Further, we find ideological differences in how politicians apply deservingness evaluations: those further from the ideological centre are more likely to make pronounced judgments about whether specific social groups are (un-)deserving. Overall, we reveal that many politicians filter policy claims through moral and political judgments about social groups, highlighting that responsiveness to policy claims is neither equal nor consistent across these different groups.",
      "url": "https://doi.org/10.1080/13501763.2026.2758806",
      "doi": "10.1080/13501763.2026.2758806",
      "pdf": "",
@@ -151,10 +308,10 @@
      ],
      "journal": "Journal of European Public Policy",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "European party politics has been realigning around a transnational dimension of competition that pits cosmopolitan parties — favouring immigration, European integration, and climate policy — against radical right parties that oppose these. Radical right parties are sometimes equated with nationalist parties. However, nationalism is highly diverse in Europe’s multinational democracies. Multinational democracies are characterised by a salient centre-periphery conflict, in which majority nationalist parties confront minority nationalists representing peripheral nations. While majority nationalists can be expected to converge on the particularist pole of the transnational cleavage, minority nationalists have strategic reasons to adopt more cosmopolitan stances: they need international allies and seek to differentiate themselves from majority nationalists, their main domestic opponents. The analysis draws on the 2023 edition of an expert survey designed to measure nationalist ideology separately from cultural values, and to differentiate majority from minority nationalism. Analysing 89 nationalist parties in 21 countries confirms that while majority nationalists position themselves on the particularist pole of the transnational cleavage, minority nationalists are more pro-European and more in favour of climate policy — but not more in favour of immigration — than majority nationalists. Interestingly, cosmopolitanism appears also among majority nationalists in smaller peripheral countries, like Bosnia and Herzegovina or Kosovo.",
      "url": "https://doi.org/10.1080/13501763.2026.2756969",
      "doi": "10.1080/13501763.2026.2756969",
-     "pdf": "https://doi.org/10.1080/13501763.2026.2756969",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13501763.2026.2756969?needAccess=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -25204,212 +25361,72 @@
      "first_seen": "2026-08-10T09:49:36+09:00",
      "abstract_ko": "정책 포인트 초가공 식품에서 최소 가공 식품으로의 급격한 식이 전환은 생리적 금단 현상을 일으키지 않습니다. 이는 사람들이 음식 중독 이외의 이유로 초가공 식품에 의존한다는 주요 지표입니다. 프랑스와 일본은 섬유질이 풍부하고 폴리페놀이 풍부하며 최소한으로 가공된 식품에 대한 소비자 의존도를 높이는 농업 및 학교 영양 정책으로 인해 성인 비만 유병률이 낮은 국가입니다. 전통적인 고섬유질 식이 패턴은 장내 미생물군 기능을 최적화하여 포만 호르몬인 글루카곤 유사 펩타이드-1(GLP-1)의 자연적 발현에 필요한 생물학적 전구체를 증가시킵니다. 미국 비만 유병률을 줄이는 공중 보건의 진전은 식품 산업이 초가공 식품을 입맛에 잘 맞게 만드는 것을 막으려는 노력보다 천연 식품에 대한 소비자 접근을 보조하고 확대함으로써 더 효과적으로 달성될 것입니다. 맥락: 이 논평에서 우리는 Gearhardt와 동료들이 초가공 식품 섭취가 건강에 미치는 부정적인 영향에 초점을 맞춘 것에 박수를 보내지만, 비만 위험에 대한 더 큰 식이요법 기여자는 미국 소비자가 다양한 장내 미생물에 접근할 수 있는 식품에 접근하지 못하기 때문이라고 제안합니다. 방법: 우리는 섬유질이 풍부하고 폴리페놀이 풍부하며 최소한으로 가공된 식물성 식품 섭취의 건강상의 이점을 뒷받침하는 과학 문헌을 인용합니다. 이는 초가공 식품을 섭취하는 것보다 공생 장내 미생물에 기질을 제공할 가능성이 더 높습니다. 우리는 또한",
      "is_new": false
-    },
-    {
-     "id": "oa:W7169547475",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Who benefits from stakeholder consultations? Fire alarms or procedural politicking?",
-     "authors": [
-      "Rik Joosen",
-      "Benjamin Leidorf‐Tidå",
-      "Madalina Busuioc"
-     ],
-     "journal": "Journal of European Public Policy",
-     "date": "2026-07-17",
-     "abstract": "Stakeholder consultations have become increasingly common. By allowing societal interests to provide input on regulatory proposals, stakeholder consultations are meant to bolster the input legitimacy of regulatory decisions. Yet, despite a wealth of scholarship on stakeholder participation in EU regulatory processes, it is still unclear how stakeholder consultations affect the traditional democratic oversight of regulatory agencies. Following seminal principal-agent arguments, stakeholder consultations could serve as 'fire alarms', alerting political principals to undertake oversight actions. Conversely, more recent arguments regarding bureaucratic reputation-building and 'procedural politicking' suggest that consultations may serve to build stakeholder coalitions and discourage oversight. We test these two competing theories, alongside a novel argument that the effect of stakeholder consultations on democratic oversight is conditional on the actual opinions and reactions of concerned stakeholders. We do so by looking at consultations by the European Supervisory Authorities as well as hearings of these agencies by the European Parliament's Committee on Economic and Monetary Affairs. Our analysis unpacks how stakeholder consultations affect the accountability relationships between regulatory agencies and their political principals. Do stakeholder consultations function as fire alarms for legislative oversight or on the contrary, serve to insulate agencies against it?",
-     "url": "https://doi.org/10.1080/13501763.2026.2697935",
-     "doi": "10.1080/13501763.2026.2697935",
-     "pdf": "https://doi.org/10.1080/13501763.2026.2697935",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "이해관계자 협의가 점점 보편화되고 있습니다. 사회적 이해관계가 규제 제안에 대한 의견을 제공할 수 있도록 함으로써 이해관계자 협의는 규제 결정의 입력 정당성을 강화하는 것을 의미합니다. 그러나 EU 규제 과정에 대한 이해관계자 참여에 대한 풍부한 연구에도 불구하고 이해관계자 협의가 규제 기관에 대한 전통적인 민주적 감독에 어떤 영향을 미치는지는 여전히 불분명합니다. 중요한 본인-대리인 주장에 이어 이해관계자 협의는 '화재 경보' 역할을 하여 정치 주체에게 감독 조치를 취하도록 경고할 수 있습니다. 반대로, 관료적 평판 구축 및 '절차적 정치'에 관한 보다 최근의 주장에서는 협의가 이해관계자 연합을 구축하고 감독을 억제하는 데 도움이 될 수 있음을 시사합니다. 우리는 민주적 감독에 대한 이해관계자 협의의 효과가 관련 이해관계자의 실제 의견과 반응에 따라 결정된다는 새로운 주장과 함께 이 두 가지 경쟁 이론을 테스트합니다. 우리는 유럽 감독 당국의 협의와 유럽 의회 경제 통화 문제 위원회의 이들 기관 청문회를 검토하여 이를 수행합니다. 우리의 분석은 이해관계자 협의가 규제 기관과 정치 주체 간의 책임 관계에 어떻게 영향을 미치는지 설명합니다. 이해관계자 협의는 입법 감독을 위한 화재 경보기 역할을 합니까, 아니면 반대로 기관을 보호하는 역할을 합니까?",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7171840836",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Contesting boundaries: understanding industrial–health policy integration across time and contexts",
-     "authors": [
-      "Jelle J. Feddema",
-      "Eduardo Urias",
-      "Linda van de Burgwal"
-     ],
-     "journal": "Science and Public Policy",
-     "date": "2026-07-17",
-     "abstract": "Abstract This review analyses how industrial and health policy objectives have been linked, justified, and contested across diverse contexts. Drawing on 39 peer-reviewed studies, we develop a typology of four industrial-health linkages—implicit, challenge-based, capacity-building, and urgency-driven—each characterized by distinct degrees of integration, directionality, policy instruments, governance, and legitimacy. Building on frameworks from transformative and mission-oriented innovation policy, we embed dimensions of contestation and governance into our analysis. The findings reveal how global asymmetries, institutional fragility, and the politics of mission labelling shape policy integration. The typology offers scholars an analytical vocabulary for structured cross-case comparison, and provides policy analysist with a diagnostic framework for identifying operative linkage logics, anticipating contestation dynamics, and assessing whether governance arrangements match the intended depth of integration between health and industrial policy goals.",
-     "url": "https://doi.org/10.1093/scipol/scag067",
-     "doi": "10.1093/scipol/scag067",
-     "pdf": "https://doi.org/10.1093/scipol/scag067",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 이 검토에서는 다양한 맥락에서 산업 및 보건 정책 목표가 어떻게 연결되고, 정당화되고, 논쟁을 벌이는지 분석합니다. 39개의 동료 검토 연구를 바탕으로 우리는 네 가지 산업-보건 연계(암묵적, 도전 기반, 역량 강화, 긴급 중심)의 유형을 개발합니다. 각각은 서로 다른 수준의 통합, 방향성, 정책 도구, 거버넌스 및 합법성을 특징으로 합니다. 변혁적이고 임무 중심적인 혁신 정책의 프레임워크를 기반으로 우리는 경쟁과 거버넌스의 차원을 분석에 포함시킵니다. 연구 결과는 글로벌 비대칭성, 제도적 취약성, 사명 라벨링의 정치가 정책 통합을 어떻게 형성하는지 보여줍니다. 유형론은 학자들에게 구조화된 사례 간 비교를 위한 분석 어휘를 제공하고, 운영 연결 논리를 식별하고, 경쟁 역학을 예측하고, 거버넌스 조정이 보건 및 산업 정책 목표 간의 의도된 통합 깊이와 일치하는지 평가하기 위한 진단 프레임워크를 정책 분석에 제공합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169599453",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Organizational Policy Complexity in Hybrid Organizations: Evidence from Scandinavian State-Owned Enterprises",
-     "authors": [
-      "Jonas Lund‐Tønnesen",
-      "Karin Fossheim"
-     ],
-     "journal": "International Journal of Public Administration",
-     "date": "2026-07-17",
-     "abstract": "The state and its organizations have grown more complex in recent decades. Because this may pose substantial challenges to public governance, it is essential to advance our understanding of the conditions influencing the complexities in modern organizations. Therefore, we study organizational policy complexity in relation to dimensions of publicness in hybrid organizations. Specifically, we focus on one type of hybrid organization, namely state-owned enterprises (SOEs), and one type of policy, namely privacy policies. Our general expectation is that organizations with a lower degree of publicness will tend to have more complex policies. However, our analysis reveals a complicated picture: both business-like SOEs and larger state ownership shares are linked to higher levels of policy complexity. These organizations embed a range of policy elements to align with diverse normative expectations and navigate complex institutional environments with both state and market norms.",
-     "url": "https://doi.org/10.1080/01900692.2026.2698417",
-     "doi": "10.1080/01900692.2026.2698417",
-     "pdf": "https://doi.org/10.1080/01900692.2026.2698417",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "국가와 그 조직은 최근 수십 년 동안 더욱 복잡해졌습니다. 이는 공공 거버넌스에 상당한 어려움을 초래할 수 있으므로 현대 조직의 복잡성에 영향을 미치는 조건에 대한 이해를 높이는 것이 필수적입니다. 따라서 우리는 하이브리드 조직의 공공성 차원과 관련하여 조직 정책의 복잡성을 연구합니다. 구체적으로 우리는 한 가지 유형의 하이브리드 조직, 즉 국유 기업(SOE)과 한 가지 유형의 정책, 즉 개인 정보 보호 정책에 중점을 둡니다. 우리의 일반적인 기대는 공공성 수준이 낮은 조직이 더 복잡한 정책을 갖는 경향이 있다는 것입니다. 그러나 우리의 분석은 복잡한 그림을 보여줍니다. 기업형 공기업과 더 큰 국가 소유 지분 모두 더 높은 수준의 정책 복잡성과 연결되어 있습니다. 이러한 조직은 다양한 규범적 기대에 부응하고 국가 및 시장 규범에 따라 복잡한 제도적 환경을 탐색하기 위해 다양한 정책 요소를 포함합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7171545437",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Mind the gap: connecting AI innovation to widespread public value",
-     "authors": [
-      "Neil David Lawrence",
-      "Jessica Montgomery"
-     ],
-     "journal": "Science and Public Policy",
-     "date": "2026-07-17",
-     "abstract": "Abstract Public dialogues have produced clear demand signals for AI. These dialogues imagine innovations that improve our shared wellbeing and prosperity while developing under democratic control. AI development has largely advanced along another trajectory. We argue that this gap is a structural feature of an innovation system whose incentives are captured by the attention economy. Closing it requires a different driver of the innovation cycle. We propose an attention reinvestment cycle, in which efficiency gains accrue as freed time that can be invested in community innovation, with frontline professionals adapting and sharing tools that meet priority needs. Operating the cycle at scale requires institutional infrastructure—dialogic, absorptive, and distributive capacities—that the existing science-policy system has yet to develop.",
-     "url": "https://doi.org/10.1093/scipol/scag070",
-     "doi": "10.1093/scipol/scag070",
-     "pdf": "https://doi.org/10.1093/scipol/scag070",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 공개 대화는 AI에 대한 명확한 수요 신호를 생성했습니다. 이러한 대화는 민주적 통제 하에 발전하면서 우리가 공유하는 웰빙과 번영을 개선하는 혁신을 상상합니다. AI 개발은 크게 다른 궤적을 따라 발전해 왔습니다. 우리는 이러한 격차가 관심 경제에 의해 인센티브가 포착되는 혁신 시스템의 구조적 특징이라고 주장합니다. 이를 마무리하려면 혁신 주기의 다른 동인이 필요합니다. 우리는 일선 전문가들이 우선순위 요구 사항을 충족하는 도구를 적용하고 공유하면서 커뮤니티 혁신에 투자할 수 있는 자유 시간으로 효율성 향상이 발생하는 관심 재투자 주기를 제안합니다. 대규모 순환을 운영하려면 기존 과학 정책 시스템이 아직 개발하지 못한 제도적 기반 시설(대화, 흡수, 분배 역량)이 필요합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169552806",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Fertility intention and household consumption patterns among public rental housing residents: evidence from Seoul",
-     "authors": [
-      "Woosung Jeon",
-      "Seungbee Choi"
-     ],
-     "journal": "Journal of Asian Public Policy",
-     "date": "2026-07-17",
-     "abstract": "Persistently low fertility across East Asia has heightened policy attention to the role of housing security and broader socioeconomic conditions in shaping family formation. Prior work has documented associations between housing conditions and fertility intentions and the burden of childrearing on household budgets, but the consumption patterns of households that express fertility intentions within publicly supported rental settings remain little examined. This study examines how fertility intentions relate to household consumption patterns among residents of public rental housing in Seoul, South Korea. Drawing on the 2016 Seoul Public Rental Housing Panel Survey, we estimate a generalized structural equation model that captures direct and mediated associations between demographic, housing, and income characteristics and household expenditure shares. Households whose anchoring woman expresses fertility intentions report a lower total expenditure on average but allocate a larger share of education spending to public education and a larger share of total spending to cultural and leisure activities. Fertility intention also is associated with mediated pathways linking age, education, and housing quality to expenditure allocation. Findings highlight the value of integrating housing, education, and childcare policy in Asia’s high-cost urban contexts.",
-     "url": "https://doi.org/10.1080/17516234.2026.2704701",
-     "doi": "10.1080/17516234.2026.2704701",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "동아시아 전역에서 지속적으로 낮은 출산율로 인해 가족 형성에 있어서 주택 안보와 광범위한 사회경제적 조건의 역할에 대한 정책적 관심이 높아졌습니다. 이전 작업에서는 주거 조건과 출산 의도 및 가계 예산에 대한 육아 부담 사이의 연관성을 문서화했지만, 공공적으로 지원되는 임대 환경 내에서 출산 의도를 표현하는 가구의 소비 패턴은 거의 조사되지 않았습니다. 본 연구는 대한민국 서울 공공임대주택 거주자의 출산의도가 가구의 소비행태와 어떤 관련이 있는지를 조사한 것이다. 2016년 서울 공공임대주택 패널조사를 바탕으로 인구통계, 주택, 소득 특성과 가계지출 비중 간의 직접적 연관성과 매개적 연관성을 포착하는 일반화된 구조방정식 모형을 추정합니다. 여성이 출산 의사를 표시한 가구는 평균적으로 총 지출이 더 낮다고 보고하지만, 교육 지출 중 더 많은 부분을 공교육에 할당하고 총 지출 중 더 많은 부분을 문화 및 여가 활동에 할당합니다. 출산 의향은 또한 연령, 교육, 주거의 질을 지출 할당과 연결하는 매개 경로와도 연관되어 있습니다. 연구 결과는 아시아의 고비용 도시 환경에서 주택, 교육, 보육 정책을 통합하는 것의 가치를 강조합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7171348474",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Beyond institutional age and size: what drives innovation-related performance in Brazilian Federal Universities",
-     "authors": [
-      "Luciane Graziele Pereira Ferrero",
-      "Sergio Luiz Monteiro Salles-Filho",
-      "Adriana Bin",
-      "Bernardo Pereira Cabral",
-      "Marcos Candido de Paula Rezende"
-     ],
-     "journal": "Science and Public Policy",
-     "date": "2026-07-17",
-     "abstract": "Abstract Universities contribute to innovation systems through scientific production, intellectual property protection, technology transfer, and academic–corporate collaboration. Innovation-related outputs depend on combinations of organizational, institutional, and research-related conditions rather than isolated variables. This article examines innovation-related performance in Brazilian federal universities using data from 69 institutions collected by the Brazilian Office of the Comptroller General. The study analyzes intellectual property assets, technology transfer rate, and patent-cited scholarly output through descriptive statistics, correlation analyses, and fuzzy-set Qualitative Comparative Analysis (fsQCA). The findings show that academic–corporate collaboration is the most consistent condition associated with stronger innovation-related performance. Internal regulation enables intellectual property generation and technology transfer, while field-weighted citation impact is particularly relevant for patent-cited scholarly output. Institutional age is not a linear predictor of innovation-related performance, as younger universities appear prominently in normalized indicators. The article provides configurational evidence from a public higher education system in an emerging economy.",
-     "url": "https://doi.org/10.1093/scipol/scag069",
-     "doi": "10.1093/scipol/scag069",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "추상대학은 과학적 생산, 지적재산권 보호, 기술 이전 및 산학협력을 통해 혁신 시스템에 기여합니다. 혁신 관련 성과는 고립된 변수가 아닌 조직, 기관, 연구 관련 조건의 조합에 따라 달라집니다. 이 기사는 브라질 감사원장실에서 수집한 69개 기관의 데이터를 사용하여 브라질 연방 대학의 혁신 관련 성과를 조사합니다. 본 연구에서는 기술통계, 상관분석, 퍼지집합 정성비교분석(fsQCA)을 통해 지식재산, 기술이전율, 특허인용 학술성과를 분석합니다. 연구 결과는 학계-기업 협력이 더 강력한 혁신 관련 성과와 관련된 가장 일관된 조건임을 보여줍니다. 내부 규제를 통해 지적 재산 생성 및 기술 이전이 가능하며, 현장 가중치 인용 영향은 특히 특허 인용 학술 결과물과 관련이 있습니다. 기관 연령은 혁신 관련 성과를 선형적으로 예측하는 변수가 아닙니다. 정규화된 지표에서 젊은 대학이 두드러지게 나타나기 때문입니다. 이 기사는 신흥 경제의 공립 고등 교육 시스템에서 얻은 구성 증거를 제공합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169649310",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Navigating Dual-Structured Crisis: Factors Influencing Nonprofit Organizational Resilience",
-     "authors": [
-      "Ha B. Vien",
-      "Thanh Thi Hoang"
-     ],
-     "journal": "Nonprofit and Voluntary Sector Quarterly",
-     "date": "2026-07-17",
-     "abstract": "The COVID-19 pandemic constituted an unprecedented exogenous shock to many nonprofit organizations, testing their ability to sustain operations and adapt to crises. Building on population ecology and nonprofit organizational resilience framework, this study conceptualizes COVID-19 as a dual-structured crisis and examines how organizational factors, coupled with resilience tactics, shape nonprofit resilience. Results from 169 nonprofits highlight that specialist organizations (art and culture) are more vulnerable to external crisis than generalist nonprofits (human services). While donor support was critical for sustaining human-service organizations, peer support from other nonprofits emerged as a key factor for arts and culture organizations. In addition, system-wide constraints muted the effects of traditional strategies such as technology adoption and federal funding access on nonprofit resilience. Our findings underscore the context-dependent effectiveness of resilience tactics and offer new insights into managing nonprofits in future crises.",
-     "url": "https://doi.org/10.1177/08997640261459366",
-     "doi": "10.1177/08997640261459366",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "코로나19 팬데믹은 많은 비영리 조직에 전례 없는 외생적 충격을 안겨주었고, 운영을 유지하고 위기에 적응하는 능력을 시험했습니다. 인구 생태학과 비영리 조직 탄력성 프레임워크를 기반으로 하는 이 연구는 코로나19를 이중 구조의 위기로 개념화하고 탄력성 전술과 결합된 조직적 요인이 어떻게 비영리 탄력성을 형성하는지 조사합니다. 169개 비영리 단체의 결과는 전문 단체(예술 및 문화)가 일반 비영리 단체(인적 서비스)보다 외부 위기에 더 취약하다는 것을 강조합니다. 기부자 지원은 인간 서비스 조직을 유지하는 데 중요했지만, 다른 비영리 단체의 동료 지원은 예술 및 문화 조직의 핵심 요소로 나타났습니다. 또한 시스템 전반에 걸친 제약으로 인해 기술 채택 및 연방 자금 접근과 같은 전통적인 전략이 비영리 회복력에 미치는 영향이 약화되었습니다. 우리의 연구 결과는 탄력성 전술의 상황에 따른 효과를 강조하고 향후 위기 상황에서 비영리 단체 관리에 대한 새로운 통찰력을 제공합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169556378",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Transnational Nonprofit Action: Diaspora Giving, Collective and Social Remittances, and the Provision of Public Goods and Services",
-     "authors": [
-      "Susan Appe"
-     ],
-     "journal": "The American Review of Public Administration",
-     "date": "2026-07-17",
-     "abstract": "This article explores transnational nonprofit action through diaspora-led nonprofit organizations in the United States (U.S.) and their funding and support of public goods and services in the home country. Diaspora communities around the world make contributions to their homelands in various ways that have impact on public governance. Specifically, diaspora members engage in philanthropic giving behaviors towards their countries of origin, including via collective and social remittances. How does this diaspora giving contribute to the provision of public goods and services in the country of origin? This research uses a multi-sited, comparative case study design that included extensive fieldwork in the U.S. and Colombia, and the transnational space between these settings. Building on theory about public governance and nonprofit organizations, the research generates and further explores empirically a framework of three sets of resources that condition transnational nonprofit action—material, relational, and institutional. Material resources illuminate how diaspora-funded projects directly support public service delivery. Relational resources capture how trust, credibility, and embedded community ties via diaspora-led organizations provide access to both networks and funding sources. Institutional resources, namely norm-setting, explain how collective and social remittances have the potential to shape expectations, standards, and practices about the nonprofit sector, philanthropic giving, and public governance more broadly.",
-     "url": "https://doi.org/10.1177/02750740261469533",
-     "doi": "10.1177/02750740261469533",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "이 기사에서는 미국 내 디아스포라 주도 비영리 단체를 통한 초국적 비영리 활동과 본국의 공공 재화 및 서비스에 대한 자금 지원 및 지원을 살펴봅니다. 전 세계의 디아스포라 공동체는 공공 거버넌스에 영향을 미치는 다양한 방식으로 고국에 기여하고 있습니다. 특히 디아스포라 구성원은 집단적, 사회적 송금 등을 통해 출신 국가를 향한 자선 기부 행위에 참여합니다. 이러한 디아스포라 기부는 출신 국가의 공공재 및 서비스 제공에 어떻게 기여합니까? 이 연구는 미국과 콜롬비아의 광범위한 현장 조사와 이러한 환경 간의 초국적 공간을 포함하는 다중 현장 비교 사례 연구 설계를 사용합니다. 공공 거버넌스와 비영리 조직에 관한 이론을 바탕으로 하는 이 연구는 초국적 비영리 활동(물질적, 관계적, 제도적)을 조건으로 하는 세 가지 자원 세트의 프레임워크를 생성하고 경험적으로 더 탐구합니다. 물질적 자원은 디아스포라 자금 지원 프로젝트가 공공 서비스 제공을 직접 지원하는 방법을 조명합니다. 관계형 자원은 디아스포라 주도 조직을 통한 신뢰, 신뢰성 및 내재된 커뮤니티 유대가 어떻게 네트워크와 자금 출처 모두에 대한 액세스를 제공하는지 포착합니다. 제도적 자원, 즉 규범 설정은 집단적, 사회적 송금이 어떻게 비영리 부문, 자선 활동에 대한 기대, 표준 및 관행을 형성할 수 있는지 설명합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169495705",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Performance system design factors that encourage information use: a survey experiment of decision-making by school principals",
-     "authors": [
-      "Javier Fuenzalida",
-      "Andrés E. Fernández-Vergara",
-      "Pablo González",
-      "Gregg G. Van Ryzin",
-      "Cristóbal Alarcón"
-     ],
-     "journal": "Public Management Review",
-     "date": "2026-07-17",
-     "abstract": "Performance management scholarship has mostly neglected the behavioural mechanisms through which performance-system design factors – reflecting macro-level institutional and organizational arrangements – shape public managers’ individual-level use of information. We examined such mechanisms by employing a nationwide survey experiment with 394 school principals in Chile that tested how policy-relevant features of the country’s education monitoring system influence their intention to use performance data for decision-making. Our findings show that use intentions increase when managers obtain timely performance information, experience high stakeholder involvement, and have access to training and knowledge-sharing opportunities. However, reporting formats did not affect use intentions. These results provide insights into how targeted adjustments to real-world performance-system design can function as behavioural levers for encouraging evidence-based decision-making by public managers.",
-     "url": "https://doi.org/10.1080/14719037.2026.2685779",
-     "doi": "10.1080/14719037.2026.2685779",
-     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14719037.2026.2685779?needAccess=true",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "성과 관리 학문은 거시적 수준의 제도적, 조직적 배치를 반영하는 성과 시스템 설계 요소가 공공 관리자의 개인 수준 정보 사용을 형성하는 행동 메커니즘을 대부분 무시했습니다. 우리는 칠레의 교육 모니터링 시스템의 정책 관련 기능이 성과 데이터를 의사 결정에 사용하려는 의도에 어떻게 영향을 미치는지 테스트한 칠레의 394개 학교 교장을 대상으로 한 전국적인 조사 실험을 통해 이러한 메커니즘을 조사했습니다. 우리 연구 결과에 따르면 관리자가 적시에 성과 정보를 얻고, 높은 이해관계자 참여를 경험하고, 교육 및 지식 공유 기회에 접근할 수 있을 때 사용 의도가 증가하는 것으로 나타났습니다. 그러나 보고 형식은 사용 의도에 영향을 미치지 않았습니다. 이러한 결과는 실제 성과 시스템 설계에 대한 목표 조정이 공공 관리자의 증거 기반 의사 결정을 장려하기 위한 행동 수단으로 어떻게 기능할 수 있는지에 대한 통찰력을 제공합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169810933",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Striking multiple balances in cross-sector collaborations: how leaders navigate institutional complexity with interdependent leadership behaviors",
-     "authors": [
-      "Sandra Henninger",
-      "Rick Vogel"
-     ],
-     "journal": "Journal of Public Administration Research and Theory",
-     "date": "2026-07-17",
-     "abstract": "Abstract In cross-sector collaborations, leaders must navigate the complex and often conflicting demands of the public, business, and nonprofit sectors. This study explores how leaders manage this institutional complexity through a multilevel framework, drawing on a case study of a tri-sector partnership developing technology for disaster management. Based on evidence from 27 interviews, observations, and documentary material, we identify the leadership repertoire and, as our core contribution, uncover four distinct types of interdependencies between these behaviors: enabling, substituting, stabilizing, and inhibiting. Our findings reveal that leadership in cross-sector collaborations goes beyond adopting a single style; rather, it requires a strategic orchestration of how different behaviors interact. We identify two overarching strategies (selective targeting and sequential switching) that leaders use to combine complementary behaviors while preventing them from undermining each other. By focusing on leaders’ microlevel agency in response to macrolevel sector differences, this study provides a clearer understanding of how interdependent leadership behaviors converge into what we theorize as institutional leadership in CSCs.",
-     "url": "https://doi.org/10.1093/jopart/muag022",
-     "doi": "10.1093/jopart/muag022",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "Abstract 부문 간 협력에서 리더는 공공, 기업 및 비영리 부문의 복잡하고 종종 상충되는 요구 사항을 탐색해야 합니다. 본 연구에서는 재난 관리를 위한 기술을 개발하는 3개 부문 파트너십에 대한 사례 연구를 바탕으로 리더들이 다단계 프레임워크를 통해 이러한 제도적 복잡성을 관리하는 방법을 탐구합니다. 27개의 인터뷰, 관찰 및 다큐멘터리 자료의 증거를 기반으로 우리는 리더십 레퍼토리를 식별하고 핵심 기여로 이러한 행동 사이의 네 가지 유형의 상호 의존성을 밝혀냅니다: 활성화, 대체, 안정화 및 억제. 우리의 조사 결과에 따르면 부문 간 협력의 리더십은 단일 스타일을 채택하는 것 이상입니다. 오히려 다양한 행동이 상호 작용하는 방식에 대한 전략적 조정이 필요합니다. 우리는 리더들이 상호 보완적인 행동을 결합하는 동시에 서로를 약화시키지 않기 위해 사용하는 두 가지 중요한 전략(선택적 타겟팅 및 순차적 전환)을 식별합니다. 본 연구는 거시적 부문의 차이에 대응하여 리더의 미시적 기관에 초점을 맞춤으로써 어떻게 상호의존적인 리더십 행동이 CSC의 제도적 리더십으로 이론화하는 것으로 수렴되는지에 대한 보다 명확한 이해를 제공합니다.",
-     "is_new": false
     }
    ]
   },
   {
    "key": "methodology",
    "name": "사회과학방법론",
-   "count": 602,
-   "new_count": 16,
+   "count": 592,
+   "new_count": 19,
    "papers": [
+    {
+     "id": "oa:W7225991607",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "irtDFI: An R Package for Dynamic Fit Index Cutoffs in Polytomous Item Response Models",
+     "authors": [
+      "Zul Jalali Wal Ikram",
+      "Bambang Avip Priatna Martadiputra",
+      "Didi Suryadi",
+      "Suhendra Suhendra",
+      "Indriani H. Ismail"
+     ],
+     "journal": "Applied Psychological Measurement",
+     "date": "2026-11-13",
+     "abstract": "Limited-information fit indices such as the RMSEA and SRMSR are routinely reported for polytomous item response theory (IRT) models, yet they are judged against fixed rules of thumb borrowed from structural equation modeling. Dynamic fit index (DFI) cutoffs, derived by simulating from the researcher’s own model, address this problem for factor analysis, but to our knowledge no implementation exists for the IRT indices computed from models fitted with mirt. This paper introduces irtDFI, an R package that, given a fitted graded response, generalized partial credit, or partial credit model, simulates data from the model and from versions with increasing local dependence between item pairs, refits the model, and returns cutoffs for the RMSEA, SRMSR, CFI, and TLI based on the C2 statistic. In a Monte Carlo study of nine conditions (200 replications per level), the Level 0 RMSEA cutoff ranged from .019 to .050 depending on sample size, test length, and number of categories. With 12 items and 3 categories, the conventional RMSEA <.05 rule flagged 0% to 5% of data sets with pronounced local dependence, whereas the tailored cutoff flagged 35% to 94%. The package is freely available via GitHub.",
+     "url": "https://doi.org/10.1177/01466216261506862",
+     "doi": "10.1177/01466216261506862",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226006598",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "Structural Multicollinearity in Interrupted Time Series Designs",
+     "authors": [
+      "Banafsheh Aghayeeabianeh"
+     ],
+     "journal": "Evaluation Review",
+     "date": "2026-11-13",
+     "abstract": "Interrupted Time Series (ITS) analysis is one of the most widely applied quasi-experimental designs in health, policy, and social research. ITS models include a structural dependency between time-related predictors that can give rise to substantial multicollinearity. This feature arises from the deterministic construction of the post-intervention time variable and intensifies mechanically as the post-intervention period lengthens. As a result, collinearity is not merely a sampling artifact but a structural feature of the ITS model. To illustrate this issue, we replicate a widely cited ITS application and assess collinearity diagnostics across SAS, Stata, and R. The findings confirm that variance inflation factors for time and post-intervention terms routinely exceed conventional thresholds, demonstrating that the problem is embedded in the model architecture itself. Although mean-centering does not eliminate this dependence, alternative parameterizations may alter how it appears in numerical diagnostics. Although ITS is frequently recommended as a rigorous design for policy evaluation, this often-overlooked structural limitation has not been explicitly addressed in methodological literature. We argue that greater awareness is needed, urge researchers to report collinearity diagnostics, interpret post-intervention slopes with caution, and recommend greater diagnostic transparency and model sensitivity checks to help applied researchers recognize and account for this structural dependency.",
+     "url": "https://doi.org/10.1177/0193841x261506639",
+     "doi": "10.1177/0193841x261506639",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226023834",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies",
+     "authors": [
+      "Xiaohui Luo",
+      "Jianing Dou",
+      "Hongyun Liu"
+     ],
+     "journal": "Behavior Research Methods",
+     "date": "2026-11-13",
+     "abstract": "",
+     "url": "https://doi.org/10.3758/s13428-026-03235-2",
+     "doi": "10.3758/s13428-026-03235-2",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W4417398184",
      "topic": "methodology",
@@ -25427,10 +25444,10 @@
      ],
      "journal": "Behavior Research Methods",
      "date": "2026-11-12",
-     "abstract": "Abstract Identifying shared and distinct profiles, whether of symptoms, personality traits, or cognitive abilities, is essential for understanding psychological phenomena, yet doing so requires navigating interrelated theoretical, conceptual, and technical complexities. First, most psychological phenomena typically exist along continuous spectra rather than discrete categories, complicating the characterisation of inherently heterogeneous constructs. Second, studying individual differences requires balancing population-level generalisation with person-level interpretability, which is critical for applied science and clinical practice. Third, psychological data often contain missing values, non-linear relationships, and high-dimensional patterns that violate standard statistical assumptions. Commonly used approaches for profile detection often fall short of these demands, producing oversimplified or difficult-to-interpret results that are hard to map back to the individual. In contrast, self-organising maps (SOMs) offer a powerful, visual, and intuitive solution that addresses these challenges. Despite growing interest, SOMs remain underutilised in psychology, likely due to a lack of accessible tutorials and clear guidelines tailored to the field. This tutorial introduces SOMs to psychologists without technical backgrounds, emphasising practical implementation. We provide evidence-based recommendations for key methodological decisions, accompanied by annotated R code. Using a dataset of depressive symptoms as an illustrative case, we present a complete workflow covering data preprocessing, map initialisation, parameter optimisation, and interpretation. We further discuss advanced SOM extensions relevant to psychological research and highlight key limitations of the method. By making SOMs accessible, this tutorial supports nuanced, person-centred analyses that preserve the complexity of psychological phenomena.",
+     "abstract": "Identifying shared and distinct profiles, whether of symptoms, personality traits, or cognitive abilities, is essential for understanding psychological phenomena, yet doing so requires navigating interrelated theoretical, conceptual, and technical complexities. First, most psychological phenomena typically exist along continuous spectra rather than discrete categories, complicating the characterisation of inherently heterogeneous constructs. Second, studying individual differences requires balancing population-level generalisation with person-level interpretability, which is critical for applied science and clinical practice. Third, psychological data often contain missing values, non-linear relationships, and high-dimensional patterns that violate standard statistical assumptions. Commonly used approaches for profile detection often fall short of these demands, producing oversimplified or difficult-to-interpret results that are hard to map back to the individual. In contrast, self-organising maps (SOMs) offer a powerful, visual, and intuitive solution that addresses these challenges. Despite growing interest, SOMs remain underutilised in psychology, likely due to a lack of accessible tutorials and clear guidelines tailored to the field. This tutorial introduces SOMs to psychologists without technical backgrounds, emphasising practical implementation. We provide evidence-based recommendations for key methodological decisions, accompanied by annotated R code. Using a dataset of depressive symptoms as an illustrative case, we present a complete workflow covering data preprocessing, map initialisation, parameter optimisation, and interpretation. We further discuss advanced SOM extensions relevant to psychological research and highlight key limitations of the method. By making SOMs accessible, this tutorial supports nuanced, person-centred analyses that preserve the complexity of psychological phenomena.",
      "url": "https://doi.org/10.3758/s13428-026-03198-4",
      "doi": "10.3758/s13428-026-03198-4",
-     "pdf": "https://doi.org/10.3758/s13428-026-03198-4",
+     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03198-4.pdf",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -25466,7 +25483,7 @@
      ],
      "journal": "Behavior Research Methods",
      "date": "2026-11-12",
-     "abstract": "Chinese affective norms for five discrete emotion categories",
+     "abstract": "The human affective space is predominantly described by two theoretical accounts: the dimensional perspective and the discrete-emotion approach. While numerous dimensional datasets (e.g., valence and arousal norms) have been published, there is a dearth of resources grounded in the discrete-emotion approach, particularly for the Chinese language. To address this gap, the present study expands on the initial norms of Yao et al. (2017) to establish CAN-5e, a new normative dataset that provides affective ratings of 1,100 Chinese words along five discrete emotions (happiness, anger, fear, disgust, and sadness). A sample of 525 native Chinese speakers volunteered for the rating tasks, with each participant evaluating 220 words for one discrete emotion using a five-point Likert scale. The results revealed significant relationships between discrete emotions, affective dimensions (valence and arousal), and key psycholinguistic variables (familiarity, concreteness, imageability). Furthermore, although ratings for all discrete emotions were strongly correlated between male and female participants, the two groups showed differential susceptibility to specific emotions. Then, distributional analysis distinguished between \"pure\" words (strongly tied to one emotion) and \"mixed\" words (connected to more than one), suggesting that words associated with negative emotions often overlap across categories, whereas happiness-related words demonstrate the strongest category specificity. Finally, linear regression analyses showed that discrete emotions could not predict lexical decision performance (i.e., response time, accuracy). Collectively, the CAN-5e dataset complementarily extends existing Chinese affective corpora and allows for designing new experiments examining the role of discrete emotions in language processing within the discrete-emotion framework, thereby contributing to a deep understanding of the relationship between language and emotion.",
      "url": "https://doi.org/10.3758/s13428-026-03234-3",
      "doi": "10.3758/s13428-026-03234-3",
      "pdf": "https://osf.io/pbnhr",
@@ -25513,10 +25530,10 @@
      ],
      "journal": "Behavior Research Methods",
      "date": "2026-11-12",
-     "abstract": "Abstract Monospaced (fixed-width) fonts such as , where each character occupies an identical unit of horizontal space, are widely used in eye-movement research in Latinate languages (Slattery, 2016). The uniformity of monospaced fonts is methodologically advantageous, allowing researchers to match the spatial width of words containing equal numbers of letters. However, their use has been avoided in Arabic research due to their rarity and perceived unnatural appearance, which changes the natural cursive interconnection between letters (Hermena et al., 2017). This imposes difficulties for researchers of Arabic reading, particularly when employing gaze-contingent change techniques, creating restrictions that impede progress to close the gap in knowledge about cursive languages. While it has been hypothesized that monospacing may interfere with cognitive processing, this has not been directly investigated. In two experiments, we examined whether monospaced and proportional fonts modulate lexical frequency effects and parafoveal preview effects during Arabic sentence reading. Fixation time measures showed similar patterns in both font types. Lexical frequency influenced word identification similarly across most measures in the two font types (Experiment 1), while a manipulation of parafoveal preview validity produced comparable effects on fixation times for target words (Experiment 2). Across experiments, monospaced fonts produced shorter but more frequent fixations than proportional fonts: a trade-off that mirrors effects previously reported in Latinate languages. Given the methodological advantages for gaze-contingent paradigms, these findings establish monospaced fonts as a readable and suitable option for Arabic reading research, facilitating tighter spatial control and cross-script comparability.",
+     "abstract": "Monospaced (fixed-width) fonts such as Courier, where each character occupies an identical unit of horizontal space, are widely used in eye-movement research in Latinate languages (Slattery, 2016). The uniformity of monospaced fonts is methodologically advantageous, allowing researchers to match the spatial width of words containing equal numbers of letters. However, their use has been avoided in Arabic research due to their rarity and perceived unnatural appearance, which changes the natural cursive interconnection between letters (Hermena et al., 2017). This imposes difficulties for researchers of Arabic reading, particularly when employing gaze-contingent change techniques, creating restrictions that impede progress to close the gap in knowledge about cursive languages. While it has been hypothesized that monospacing may interfere with cognitive processing, this has not been directly investigated. In two experiments, we examined whether monospaced and proportional fonts modulate lexical frequency effects and parafoveal preview effects during Arabic sentence reading. Fixation time measures showed similar patterns in both font types. Lexical frequency influenced word identification similarly across most measures in the two font types (Experiment 1), while a manipulation of parafoveal preview validity produced comparable effects on fixation times for target words (Experiment 2). Across experiments, monospaced fonts produced shorter but more frequent fixations than proportional fonts: a trade-off that mirrors effects previously reported in Latinate languages. Given the methodological advantages for gaze-contingent paradigms, these findings establish monospaced fonts as a readable and suitable option for Arabic reading research, facilitating tighter spatial control and cross-script comparability.",
      "url": "https://doi.org/10.3758/s13428-026-03173-z",
      "doi": "10.3758/s13428-026-03173-z",
-     "pdf": "https://doi.org/10.3758/s13428-026-03173-z",
+     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03173-z.pdf",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -25534,7 +25551,7 @@
      "abstract": "To correctly model heterogeneous dispersion in count data, several psychometric methods have been proposed. In this paper, we introduce a semiparametric two-parameter Quasi-Poisson model that extends a recently proposed one-parameter Quasi-Poisson model and relaxes its equal-discrimination assumption. The proposed model is computationally efficient for small to moderately sized instruments and yields dispersion parameters that are comparable to those of the Poisson and negative binomial models while also accommodating underdispersion. We adopt a generalized method of moments framework for fast model parameter estimation with accessible standard errors (SEs), together with an adaptive information-weighted scoring procedure for latent ability estimation. We conduct extensive simulation studies to examine the recovery of model parameters, their associated SEs, and latent abilities, and we present an empirical data analysis to illustrate the application of the proposed model in a real-world setting.",
      "url": "https://doi.org/10.3102/10769986261504974",
      "doi": "10.3102/10769986261504974",
-     "pdf": "",
+     "pdf": "https://journals.sagepub.com/doi/pdf/10.3102/10769986261504974?download=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -25851,8 +25868,8 @@
      "title": "CzeLex: A megastudy dataset of concreteness, imageability, age of acquisition, valence, and gender ratings for 9601 Czech words",
      "authors": [
       "James Brand",
-      "Markéta Ceháková",
-      "Mikuláš Preininger",
+      "Filip Šmolík",
+      "Jan Chromý",
       "Filip Smolík",
       "Jan Chromý"
      ],
@@ -30827,7 +30844,7 @@
      "abstract": "",
      "url": "https://doi.org/10.3758/s13428-026-03159-x",
      "doi": "10.3758/s13428-026-03159-x",
-     "pdf": "",
+     "pdf": "https://doi.org/10.3758/s13428-026-03159-x",
      "first_seen": "2026-09-12T09:26:19+09:00",
      "is_new": false
     },
@@ -37237,272 +37254,33 @@
      "pdf": "",
      "first_seen": "2026-08-09T01:35:52+09:00",
      "is_new": false
-    },
-    {
-     "id": "oa:W7212046692",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "The Influence of Translator Backgrounds and Machine Translation on Statistical Properties of Surveys: Evidence from a Survey Experiment",
-     "authors": [
-      "Chia-Jung Tsai",
-      "Clemens M. Lechner",
-      "Dorothée Behr",
-      "Ulrike Efu Nkong",
-      "Anke Radinger"
-     ],
-     "journal": "Journal of Survey Statistics and Methodology",
-     "date": "2026-07-17",
-     "abstract": "Abstract Comparable questionnaire translation is essential for drawing valid conclusions in cross-cultural survey research. Sound translation methodology, including the use of adequate personnel, is seen as crucial for reaching this goal. The recommended methodology should be empirically backed and stay tuned to latest developments, say machine translation. Against this backdrop, to investigate the potential effect of varied translators’ backgrounds and machine translation on the statistical properties of surveys, we conducted an experiment in which an English questionnaire was translated into German by 16 professional translators and 16 social scientists. We introduced two translation conditions: translation from scratch and post-editing (machine translation corrected by a human translator). Translations were subsequently fielded in web surveys. To investigate the quality of the survey data from these 32 translation versions (approx. 250 responses each), we use standardized mean distance and Cohen’s d with the official translation as a benchmark. We have four key findings: First, the resulting statistical means of the survey items vary, sometimes substantially, across translations. Second, post-editing, with its potential to prevent unwanted creativity and guard against gross mistranslations, is associated with a reduced gap between the survey data from the experimental questionnaires and the official translation; it also lowers the variability among different translations. Third, post-editing can lead to systematic bias if translation errors made by the machine are not identified or miscorrected. This applies to both expert groups. Fourth, social scientists are slightly more likely to deviate from a benchmark and, when translating from scratch, to produce translations leading to statistical outliers of survey data. This study highlights to what extent decisions concerning the choice of translators and the integration of machine translation can impact the statistical properties of survey data. We offer evidence to implement multi-step, collaborative translation procedures to enhance data comparability in cross-cultural studies.",
-     "url": "https://doi.org/10.1093/jssam/smag029",
-     "doi": "10.1093/jssam/smag029",
-     "pdf": "https://doi.org/10.1093/jssam/smag029",
-     "first_seen": "2026-09-11T09:19:15+09:00",
-     "abstract_ko": "Abstract 비교 설문지 번역은 다문화 조사 연구에서 유효한 결론을 도출하는 데 필수적입니다. 적절한 인력의 활용을 포함한 건전한 번역 방법론은 이러한 목표를 달성하는 데 매우 중요한 것으로 간주됩니다. 권장되는 방법론은 경험적으로 뒷받침되어야 하며 기계 번역과 같은 최신 개발에 계속 주목해야 합니다. 이러한 배경에서 다양한 번역가의 배경과 기계번역이 설문조사의 통계적 특성에 미치는 잠재적인 영향을 조사하기 위해 전문 번역가 16명과 사회과학자 16명이 영어 설문지를 독일어로 번역하는 실험을 진행했습니다. 처음부터 번역하는 것과 사후 편집(인간 번역가가 기계 번역을 수정하는 것)이라는 두 가지 번역 조건을 도입했습니다. 이후 웹 설문조사를 통해 번역이 이루어졌습니다. 이러한 32개 번역 버전(각각 약 250개 응답)의 설문조사 데이터 품질을 조사하기 위해 표준화된 평균 거리와 공식 번역이 포함된 Cohen의 d를 벤치마크로 사용합니다. 우리는 네 가지 주요 결과를 얻었습니다. 첫째, 설문 조사 항목의 결과 통계 수단은 번역에 따라 때로는 상당히 다양합니다. 둘째, 원치 않는 창의성을 방지하고 심각한 오역을 방지할 수 있는 잠재력을 지닌 사후 편집은 실험 설문지의 설문조사 데이터와 공식 번역 간의 격차 감소와 관련이 있습니다. 또한 다양한 번역 간의 변동성을 낮춥니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169592702",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Differentiating Intermittent Missingness from Dropout in Dynamic Structural Equation Models",
-     "authors": [
-      "Daniel McNeish"
-     ],
-     "journal": "Structural Equation Modeling A Multidisciplinary Journal",
-     "date": "2026-07-17",
-     "abstract": "Intensive longitudinal data (ILD) are increasingly popular, but the dense nature of data collection often increases the prevalence of missing data. ILD have an increased risk for being missing not at random (people do not respond because of what their response would have been) and – unlike traditional panel data – a high incidence of intermittent missingness (people return to the study after missing a prompt). Some methods have been developed to address these situations, but limitations are that either they do not (a) differentiate intermittent missingness from dropout or (b) permit disaggregating effects into within- and between-person components. This paper discusses how to integrate missing data methods that differentiate types of missing data into the dynamic structural equation modeling framework, which naturally permits disaggregating effects, in addition to extensions for multivariate outcomes. An application to an intensive longitudinal intervention with a large percentage of missing data is provided.",
-     "url": "https://doi.org/10.1080/10705511.2026.2677598",
-     "doi": "10.1080/10705511.2026.2677598",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "집중 종단 데이터(ILD)의 인기가 점점 높아지고 있지만 데이터 수집의 밀도가 높기 때문에 누락된 데이터의 확산이 증가하는 경우가 많습니다. ILD는 무작위가 아닌 누락(사람들이 자신의 응답 내용 때문에 응답하지 않음)할 위험이 높으며 전통적인 패널 데이터와 달리 간헐적인 누락(메시지를 놓친 후 연구에 다시 참여하는 사람들) 발생률이 높습니다. 이러한 상황을 해결하기 위해 일부 방법이 개발되었지만 (a) 간헐적인 누락과 중도 탈락을 구별하지 못하거나 (b) 사람 내 및 사람 간 구성 요소로 효과를 분리하는 것을 허용하지 않는다는 제한 사항이 있습니다. 이 문서에서는 누락된 데이터 유형을 동적 구조 방정식 모델링 프레임워크로 차별화하는 누락된 데이터 방법을 통합하는 방법에 대해 논의합니다. 이는 다변량 결과에 대한 확장 외에도 자연스럽게 분해 효과를 허용합니다. 누락된 데이터의 비율이 높은 집중적인 종단적 개입에 대한 응용 프로그램이 제공됩니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169492509",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "The Performance of Equivalence-Based Fit Indices with Bootstrapped Confidence Intervals and Varied Tolerable Cutoffs",
-     "authors": [
-      "Tiffany A. Whittaker",
-      "Jam Khojasteh",
-      "S Moon Park"
-     ],
-     "journal": "Structural Equation Modeling A Multidisciplinary Journal",
-     "date": "2026-07-17",
-     "abstract": "This study examines equivalence testing for assessing model fit in structural equation modeling (SEM). Equivalence testing evaluates whether model misspecification is sufficiently small to be considered tolerable rather than testing for exact model fit. Using a Monte Carlo simulation, this study evaluates equivalence testing procedures incorporating bootstrapped confidence intervals and alternative cutoff values for SEM fit indices, providing empirical guidance for researchers evaluating model fit in SEM. Based on the results, sample sizes of 400 or greater are generally recommended for the examined equivalence-based tests to perform optimally across examined conditions. The bootstrapped equivalence-based CFI with a cutoff of .95 performed most optimally in the current study followed closely by the bootstrapped original SRMR with a cutoff of .05. The results suggest using these two indices in conjunction to balance endorsement of tolerably misspecified models and reserving endorsement of intolerably misspecified models.",
-     "url": "https://doi.org/10.1080/10705511.2026.2686107",
-     "doi": "10.1080/10705511.2026.2686107",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "이 연구에서는 구조 방정식 모델링(SEM)에서 모델 적합성을 평가하기 위한 동등성 테스트를 조사합니다. 동등성 테스트는 정확한 모델 적합성을 테스트하는 대신 모델의 잘못된 사양이 허용 가능한 것으로 간주될 만큼 충분히 작은지 여부를 평가합니다. 몬테 카를로 시뮬레이션을 사용하여 이 연구에서는 부트스트랩 신뢰 구간과 SEM 적합 지수에 대한 대체 컷오프 값을 통합한 동등성 테스트 절차를 평가하여 SEM에서 모델 적합성을 평가하는 연구자에게 실증적 지침을 제공합니다. 결과에 따르면, 조사된 동등성 기반 검정이 조사된 조건에서 최적으로 수행되기 위해서는 일반적으로 400개 이상의 표본 크기가 권장됩니다. 컷오프가 .95인 부트스트랩된 등가 기반 CFI는 현재 연구에서 가장 최적으로 수행되었으며, 컷오프가 .05인 부트스트래핑된 원래 SRMR이 그 뒤를 이었습니다. 결과는 허용할 수 있을 정도로 잘못 지정된 모델의 지지와 허용할 수 없을 정도로 잘못 지정된 모델의 지지를 유지하기 위해 이 두 지수를 함께 사용하는 것을 제안합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169544931",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Addressing Small Sample Concerns for Multilevel Mediation in MSEM Framework: A Comparison of Alternative Strategies",
-     "authors": [
-      "Yue Li",
-      "Fan Jia"
-     ],
-     "journal": "Structural Equation Modeling A Multidisciplinary Journal",
-     "date": "2026-07-17",
-     "abstract": "Multilevel structural equation modeling (MSEM) with maximum likelihood (ML) estimation can produce biased results in small samples, particularly those with missing data. While alternative modeling approaches exist, MSEM remains essential for designs involving multilevel mediation with upper-level outcomes. In such cases, selecting an appropriate estimation strategy is critical. This study addresses these challenges through a Monte Carlo simulation comparing ML and Bayesian estimators in a 1–2–1 mediation within MSEM under varied conditions. Results indicate that, when estimating multilevel mediation in MSEM with incomplete small samples, estimator selection should be guided by data characteristics (such as effect size, sample size, and the extent of missingness), and the availability of prior information, rather than assuming either ML or Bayesian methods to be universally superior. This study contributes to methodological literature by providing systematic simulation evidence and practical, scenario-based recommendations for selecting estimation strategies in multilevel mediation contexts with incomplete small samples.",
-     "url": "https://doi.org/10.1080/10705511.2026.2679039",
-     "doi": "10.1080/10705511.2026.2679039",
-     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2679039?needAccess=true",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "ML(최대 우도) 추정을 사용하는 MSEM(다단계 구조 방정식 모델링)은 작은 표본, 특히 데이터가 누락된 표본에서 편향된 결과를 생성할 수 있습니다. 대체 모델링 접근 방식이 존재하지만 MSEM은 상위 수준 결과를 포함하는 다단계 중재와 관련된 설계에 여전히 필수적입니다. 이러한 경우 적절한 추정 전략을 선택하는 것이 중요합니다. 이 연구는 다양한 조건에서 MSEM 내의 1-2-1 중재에서 ML과 베이지안 추정기를 비교하는 Monte Carlo 시뮬레이션을 통해 이러한 문제를 해결합니다. 결과는 불완전한 작은 표본을 사용하여 MSEM에서 다단계 조정을 추정할 때 ML 또는 베이지안 방법이 보편적으로 우수하다고 가정하는 대신 데이터 특성(예: 효과 크기, 표본 크기 및 누락 정도) 및 사전 정보의 가용성에 따라 추정기 선택을 유도해야 함을 나타냅니다. 이 연구는 불완전한 작은 표본이 있는 다단계 중재 상황에서 추정 전략을 선택하기 위한 체계적인 시뮬레이션 증거와 실제적인 시나리오 기반 권장 사항을 제공함으로써 방법론적 문헌에 기여합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169015595",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Reevaluating News and Opinion Dynamics in the Iraq War: New Evidence for Social Identification Effects",
-     "authors": [
-      "Zachary Jablow",
-      "Scott L. Althaus"
-     ],
-     "journal": "Public Opinion Quarterly",
-     "date": "2026-07-17",
-     "abstract": "Abstract What causes changes in popular support for American wars? Competing theories posit that either the tone and content of wartime news or social identity cues conveyed through mass media should play the larger role. We offer new evidence in this debate by analyzing a novel set of rolling cross-sectional opinion data collected continuously over 13 months during an early phase of the Iraq War and pairing it with data on news intensity and the evaluative tone of news coverage during that same period. Contrary to conventional information updating explanations of war support but consistent with a social identification process, we find that greater intensity of wartime news coverage is associated with increases in aggregate support even after controlling for the evaluative tone of that news coverage.",
-     "url": "https://doi.org/10.1093/poq/nfag055",
-     "doi": "10.1093/poq/nfag055",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 미국 전쟁에 대한 대중의 지지가 변화하는 원인은 무엇입니까? 경쟁 이론에서는 전시 뉴스의 어조와 내용 또는 대중 매체를 통해 전달되는 사회적 정체성 단서가 더 큰 역할을 해야 한다고 가정합니다. 우리는 이라크 전쟁 초기 13개월에 걸쳐 지속적으로 수집된 일련의 새로운 순환적 단면적 의견 데이터를 분석하고 이를 같은 기간 동안 뉴스 강도 및 뉴스 보도의 평가 톤에 대한 데이터와 결합하여 이 논쟁에 새로운 증거를 제공합니다. 전쟁 지원에 대한 설명을 업데이트하는 전통적인 정보 업데이트와 달리, 우리는 전시 뉴스 보도의 강도가 높을수록 해당 뉴스 보도의 평가 톤을 통제한 후에도 총체적인 지원이 증가한다는 것을 발견했습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169508837",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Meaningful Latent Class Analysis: Essential Statistical Frameworks and Best Practices for the Applied Researcher",
-     "authors": [
-      "Johan Lyrvall",
-      "Jennifer Lynn Oser",
-      "Zsuzsa Bakk"
-     ],
-     "journal": "Structural Equation Modeling A Multidisciplinary Journal",
-     "date": "2026-07-17",
-     "abstract": "This article integrates existing theoretical and applied teaching resources to provide an updated overview of best practices for latent class analysis (LCA), focusing on applied researchers. We first clarify the unique usefulness of LCA compared to related latent variable models. We then focus on three fundamental research questions relevant for the applied researcher: (1) do I have data with a possible clustering structure that can be analyzed using LCA? (2) what optimal number of LCs describe the possible clustering structure in my data? and (3) can the identified LCs in my data be predicted based on external covariates? We conclude with summary guidance regarding modeling extensions for more complex LCA topics that are highly relevant for applied researchers, namely differential item functioning (DIF) and multilevel modeling. The topics are illustrated through empirical examples, with provision of replication code. An overview of software options for LCA is provided.",
-     "url": "https://doi.org/10.1080/10705511.2026.2686838",
-     "doi": "10.1080/10705511.2026.2686838",
-     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2686838?needAccess=true",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "이 문서에서는 기존 이론 및 응용 교육 리소스를 통합하여 응용 연구자에 초점을 맞춘 잠재 클래스 분석(LCA) 모범 사례에 대한 업데이트된 개요를 제공합니다. 먼저 관련 잠재변수 모델과 비교하여 LCA의 고유한 유용성을 명확히 합니다. 그런 다음 응용 연구자와 관련된 세 가지 기본 연구 질문에 중점을 둡니다. (1) LCA를 사용하여 분석할 수 있는 클러스터링 구조가 가능한 데이터가 있습니까? (2) 내 데이터의 가능한 클러스터링 구조를 설명하는 최적의 LC 수는 얼마입니까? (3) 내 데이터에서 식별된 LC를 외부 공변량을 기반으로 예측할 수 있습니까? 우리는 응용 연구자와 관련성이 높은 보다 복잡한 LCA 주제, 즉 DIF(차등 항목 기능) 및 다단계 모델링에 대한 모델링 확장에 관한 요약 지침으로 결론을 내립니다. 주제는 복제 코드 제공과 함께 경험적 예제를 통해 설명됩니다. LCA용 소프트웨어 옵션에 대한 개요가 제공됩니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169533270",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "A-Optimal Designs for Rasch Poisson Gamma Counts Models",
-     "authors": [
-      "Heinz Holling",
-      "Rainer Schwabe"
-     ],
-     "journal": "Psychometrika",
-     "date": "2026-07-17",
-     "abstract": "In this article, we develop A-optimal designs for a longitudinal Rasch Poisson Gamma counts model (RPGCM). The model is particularly well suited for repeated testing designs in educational and psychological research when the outcomes are count data. Within the RPGCM framework, test scores depend on two types of parameters: respondents' abilities, which are modeled as gamma-distributed random effects, and item difficulties, which are treated as fixed parameters. To account for dependencies among repeated measurements, we incorporate a compound symmetry structure into the RPGCM. Parameter estimation is performed using maximum quasi-likelihood methods. Based on this framework, we derive A-optimal designs that allow for efficient estimation of mean abilities and commonly used functions thereof. In analogy to classical ANOVA models, no constraints are imposed on the mean structure. The resulting A-optimal designs are substantially less restrictive than commonly used D-optimal designs. Moreover, the derived designs are also valid for a more general class of longitudinal Poisson Gamma models with repeated measurements. These models can be applied to analyze growth curves for count data in other disciplines, including epidemiology, medicine, and criminology.",
-     "url": "https://doi.org/10.1017/psy.2026.10136",
-     "doi": "10.1017/psy.2026.10136",
-     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6568886984A1E214EEDFF11BFC6BC13E/S0033312326101367a.pdf/div-class-title-a-optimal-designs-for-rasch-poisson-gamma-counts-models-div.pdf",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "이 기사에서는 RPGCM(종단적 Rasch Poisson 감마 카운트 모델)에 대한 A-최적 설계를 개발합니다. 이 모델은 결과가 카운트 데이터일 때 교육 및 심리학 연구의 반복 테스트 설계에 특히 적합합니다. RPGCM 프레임워크 내에서 테스트 점수는 두 가지 유형의 매개변수, 즉 감마 분포 무작위 효과로 모델링되는 응답자의 능력과 고정 매개변수로 처리되는 항목 난이도에 따라 달라집니다. 반복 측정 간의 종속성을 설명하기 위해 복합 대칭 구조를 RPGCM에 통합합니다. 추정은 최대 유사 가능성 방법을 사용하여 수행됩니다. 이 프레임워크를 기반으로 우리는 평균 능력과 일반적으로 사용되는 기능을 효율적으로 추정할 수 있는 A-최적 설계를 도출합니다. 기존 분산 분석 모델과 유사하게 평균 구조에 제약 조건이 적용되지 않습니다. 결과 A-최적 설계는 일반적으로 사용되는 D-최적 설계보다 실질적으로 덜 제한적입니다. 또한 파생된 설계는 반복 측정을 사용하는 보다 일반적인 종류의 종단적 포아송 감마 모델에도 유효합니다. 이러한 모델은 적용될 수 있습니다. 역학, 의학, 범죄학을 포함한 다른 분야의 카운트 데이터에 대한 성장 곡선을 분석합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169513710",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Multidimensional Bayesian adaptive testing",
-     "authors": [
-      "Aron Fink",
-      "Christoph König",
-      "Andreas Frey"
-     ],
-     "journal": "Behavior Research Methods",
-     "date": "2026-07-17",
-     "abstract": "This paper introduces a fully Bayesian approach to multidimensional adaptive testing (MBAT). By incorporating uncertainty in both item and person parameter estimates, MBAT addresses limitations in conventional multidimensional adaptive testing (MAT), which relies on point item and person parameter estimates. A Monte Carlo simulation was conducted to evaluate the performance of MBAT compared to conventional MAT. The study was based on a four-factorial design, with the factors calibration sample size (N = 250, N = 500, N = 1,000), test length (t = 30, t = 60), true trait level (- 2.0, - 1.5, …, 2.0), and MAT algorithm (MAT, MBAT), across a three-dimensional trait structure with within- and between-item multidimensionality. The results showed that MBAT consistently outperformed conventional MAT in terms of the bias and mean squared error (MSE) of the final person parameter estimates, especially at the extremes of the trait distributions. Implemented in general-purpose software (Stan, R), the approach is computationally feasible and adaptable, providing a practical foundation for future research and applications in MAT.",
-     "url": "https://doi.org/10.3758/s13428-026-03123-9",
-     "doi": "10.3758/s13428-026-03123-9",
-     "pdf": "https://link.springer.com/content/pdf/10.3758/s13428-026-03123-9.pdf",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "이 문서에서는 MBAT(다차원 적응 테스트)에 대한 완전한 베이지안 접근 방식을 소개합니다. MBAT는 항목 및 개인 매개변수 추정치 모두에 불확실성을 통합함으로써 포인트 항목 및 개인 매개변수 추정치에 의존하는 기존 다차원 적응 테스트(MAT)의 한계를 해결합니다. MBAT의 성능을 기존 MAT와 비교하여 평가하기 위해 Monte Carlo 시뮬레이션을 수행했습니다. 이 연구는 항목 내 및 항목 간 다차원성을 갖춘 3차원 특성 구조에 걸쳐 요인 교정 표본 크기(N = 250, N = 500, N = 1,000), 테스트 기간(t = 30, t = 60), 실제 특성 수준(-2.0, - 1.5, …, 2.0) 및 MAT 알고리즘(MAT, MBAT)을 사용하는 4가지 요인 설계를 기반으로 했습니다. 결과에 따르면 MBAT는 특히 특성 분포의 극단에서 최종 개인 매개변수 추정치의 편향 및 평균 제곱 오차(MSE) 측면에서 기존 MAT보다 지속적으로 우수한 성능을 보였습니다. 범용 소프트웨어(Stan, R)에 구현된 이 접근 방식은 계산적으로 실행 가능하고 적응 가능하며 MAT의 향후 연구 및 응용을 위한 실용적인 기반을 제공합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169502007",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "From responsible values, views and practices to ecotourism intentions: a VBN–TPB model of sustainable tourist behaviour",
-     "authors": [
-      "Tressy Belly",
-      "Mohd Hafiz Hanafiah‬",
-      "Spencer Hedley Mogindol",
-      "Yusri Abdillah"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11135-026-02990-w",
-     "doi": "10.1007/s11135-026-02990-w",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169591760",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Examining measurements of fear of crime: cognitive processes and psychometric properties",
-     "authors": [
-      "Jeanette Melin",
-      "Marika Wenemark",
-      "Magnus Johansson"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-17",
-     "abstract": "Abstract The present study examines how different operationalisations of fear-of-crime questions influence the possibility of measuring fear of crime as latent traits. To address this aim, the study comprised two related parts. In the first part, cognitive interviews aimed to gain deeper insights into the response process to questions about fear of crime, and how different phrasings and formats may influence that process. The second part aimed to evaluate the possibility of using survey data to form a measure of fear of crime. Cognitive interviews (n = 17) were analysed for response processes. Rasch analyses were conducted on the Swedish Crime Survey (n = 4264) and the City of Stockholm Crime Survey (n = 7333). Response comprehension was generally adequate, yet some terms were interpreted differently. Respondents found it difficult to isolate the fear of crime from other motives in the consequential items. Affective outcomes, when stated as intensity questions, imposed a lower response burden compared to when stated as frequency questions, as well as compared to consequential-framed. Psychometrically, unidimensional solutions were hard to achieve for both affective and behavioural/consequential outcomes. The evidence suggests heterogeneity across population groups. Measuring fear of crime as a latent trait depends not only on how fear-of-crime questions are operationalised, but also on how respondents interpret and respond to those questions and on the measurement properties of the resulting responses. By combining evidence from cognitive interviews and psychometric analyses, this study provides a broader understanding of both the opportunities and limitations of measuring fear of crime through self-report surveys. Overall, advancing the measurement of fear of crime requires simultaneous consideration of conceptualisation, response processes, and psychometric properties, rather than refinement of survey questions or psychometric models in isolation.",
-     "url": "https://doi.org/10.1007/s11135-026-02986-6",
-     "doi": "10.1007/s11135-026-02986-6",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-02986-6.pdf",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "Abstract 본 연구는 범죄에 대한 두려움 질문의 다양한 조작이 범죄에 대한 두려움을 잠재 특성으로 측정하는 가능성에 어떻게 영향을 미치는지 조사합니다. 이 목표를 해결하기 위해 연구는 두 가지 관련 부분으로 구성되었습니다. 첫 번째 부분에서는 범죄에 대한 두려움에 대한 질문에 대한 응답 과정과 다양한 표현과 형식이 해당 과정에 어떤 영향을 미칠 수 있는지에 대한 더 깊은 통찰력을 얻는 것을 목표로 했습니다. 두 번째 부분은 설문조사 데이터를 사용하여 범죄에 대한 두려움을 측정할 수 있는 가능성을 평가하는 것을 목표로 했습니다. 인지 인터뷰(n = 17)를 응답 프로세스에 대해 분석했습니다. Rasch 분석은 스웨덴 범죄 조사(n = 4264)와 스톡홀름시 범죄 조사(n = 7333)에서 수행되었습니다. 응답 이해는 일반적으로 적절했지만 일부 용어는 다르게 해석되었습니다. 응답자들은 결과 항목에서 범죄에 대한 두려움을 다른 동기와 분리하는 것이 어렵다는 것을 발견했습니다. 강도 질문으로 기술된 정서적 결과는 빈도 질문으로 기술된 경우와 결과 프레임에 비해 응답 부담이 더 낮았습니다. 심리학적으로, 정서적 결과와 행동적/결과적 결과 모두에 대해 일차원적 해결책을 달성하기가 어려웠습니다. 증거는 인구 그룹에 걸쳐 이질성을 시사합니다. 잠재적 특성인 범죄에 대한 두려움을 측정하는 것은 범죄에 대한 두려움 질문이 어떻게 조작화되었는지뿐만 아니라 응답자가 해당 질문을 해석하고 반응하는 방법과 측정 속성에 따라 달라집니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169496282",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Exact solution of a fractional-order model for pneumonia dynamics",
-     "authors": [
-      "Isa Abdullahi Baba",
-      "Evren Hınçal",
-      "Fathalla A. Riha"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11135-026-02980-y",
-     "doi": "10.1007/s11135-026-02980-y",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169505824",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Exploring how public welfare spending shapes global economic interconnections among G7 nations: empirical evidence from panel-corrected standard errors (PCSE) and feasible generalised least squares (FGLS) estimation approaches",
-     "authors": [
-      "Eric Amankwaah",
-      "Mohammed Mansa Musah",
-      "Simplice Anutechia Asongu",
-      "Kwadwo Boateng Prempeh"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-17",
-     "abstract": "Abstract This study investigates the impact of public welfare spending on global economic interconnections among the Group of Seven nations from 1980 to 2021. Using panel-corrected standard errors and feasible generalized least squares estimation, the results show that welfare expenditure contributes 37.55% to global economic integration, largely through Foreign Direct Investment. Unemployment spending negatively affects interconnectedness, while pension spending has a greater positive influence. Family benefits have minimal impact, whereas social expenditure enhances global connectivity. The findings suggest that targeted welfare spending can strengthen global economic linkages.",
-     "url": "https://doi.org/10.1007/s11135-026-02977-7",
-     "doi": "10.1007/s11135-026-02977-7",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11135-026-02977-7.pdf",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "abstract_ko": "Abstract 본 연구는 1980년부터 2021년까지 G7 국가 간의 글로벌 경제 상호 연결에 대한 공공 복지 지출의 영향을 조사합니다. 패널 수정 표준 오류 및 가능한 일반화 최소 제곱 추정을 사용하여 결과는 복지 지출이 주로 외국인 직접 투자를 통해 세계 경제 통합에 37.55%를 기여한다는 것을 보여줍니다. 실업 지출은 상호 연관성에 부정적인 영향을 미치는 반면, 연금 지출은 긍정적인 영향을 더 크게 미칩니다. 가족 혜택은 최소한의 영향을 미치는 반면, 사회적 지출은 글로벌 연결성을 향상시킵니다. 연구 결과는 목표화된 복지 지출이 글로벌 경제 연계를 강화할 수 있음을 시사합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169572818",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Aid, governance, and geopolitical risk: conditional drivers of energy transition momentum in the Global South",
-     "authors": [
-      "Saqib Munir",
-      "Mushab Rashid",
-      "Abdul Ghaffar",
-      "Kashif Rashid"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11135-026-02981-x",
-     "doi": "10.1007/s11135-026-02981-x",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "is_new": false
     }
    ]
   },
   {
    "key": "econ-stats",
    "name": "계량경제·통계",
-   "count": 641,
-   "new_count": 10,
+   "count": 635,
+   "new_count": 11,
    "papers": [
+    {
+     "id": "oa:W7125386726",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Estimation of a countably infinite-dimensional transition probability matrix using a stick-breaking prior",
+     "authors": [
+      "Souvik Roy",
+      "Agamani Saha"
+     ],
+     "journal": "Statistics and Computing",
+     "date": "2026-11-13",
+     "abstract": "Abstract We consider the problem of estimation of the transition probability matrix (TPM) of a Markov chain where the state space is countably infinite. At present, there is no methodology in the literature for direct estimation of infinite-dimensional TPMs. Standard approaches, including maximum likelihood estimation and Bayesian methods based on Dirichlet priors, are inherently finite-state and, when applied in this setting, assign zero probability to all unobserved transitions. To derive a method for estimation of infinite-dimensional TPMs, we propose a Bayesian nonparametric approach that employs a random measure prior. Specifically, we utilize hierarchical and generalized hierarchical stick-breaking processes as priors on the rows of the TPM. The generalized hierarchical stick-breaking prior, in particular, allow for both positive and negative correlations among any pair of transition probabilities, thereby enabling more realistic modeling of the dependence across the state transitions. We develop a blocked Gibbs sampling algorithm for posterior computation under a generalized hierarchical stick-breaking prior that is fast, highly efficient, and well suited to large-scale problems. The proposed method is evaluated through extensive simulations as well as applications to real-world datasets on historical trading volume for the United States Oil Fund (USO), and daily precipitation records from Heathrow, London. The empirical results demonstrate strong and stable predictive performance in all scenarios considered.",
+     "url": "https://doi.org/10.1007/s11222-026-11014-4",
+     "doi": "10.1007/s11222-026-11014-4",
+     "pdf": "https://www.researchsquare.com/article/rs-8603162/latest.pdf",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W4387800533",
      "topic": "econ-stats",
@@ -37520,7 +37298,7 @@
      "abstract": "Abstract High-dimensional data analysis typically focuses on low-dimensional structure, often to aid interpretation and computational efficiency. Graphical models provide a powerful methodology for learning the conditional independence structure in multivariate data by representing variables as nodes and dependencies as edges. Inference is often focused on individual edges in the latent graph. Nonetheless, there is increasing interest in determining more complex structures, such as communities of nodes, for multiple reasons, including more effective information retrieval and better interpretability. In this work, we propose a hierarchical graphical model where we first cluster nodes and then, at the higher level, investigate the relationships among groups of nodes. Specifically, nodes are partitioned into supernodes with a data-coherent size-biased tessellation prior which combines ideas from Bayesian nonparametrics and Voronoi tessellations. This construct also allows accounting for the dependence of nodes within supernodes. At the higher level, dependence structure among supernodes is modeled through a Gaussian graphical model, where the focus of inference is on superedges . We provide theoretical justification for our modeling choices. We design tailored Markov chain Monte Carlo schemes, which also enable parallel computations. We demonstrate the effectiveness of our approach for large-scale structure learning in simulations and a transcriptomics application.",
      "url": "https://doi.org/10.1007/s11222-026-11036-y",
      "doi": "10.1007/s11222-026-11036-y",
-     "pdf": "https://doi.org/10.1007/s11222-026-11036-y",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-11036-y.pdf",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -37539,7 +37317,7 @@
      "abstract": "Abstract Unsupervised domain adaptation (UDA) aims to improve model performance on an unlabeled target domain using a related, labeled source domain. A common approach aligns source and target feature distributions by minimizing a distance between them, often using symmetric measures such as maximum mean discrepancy (MMD). However, these methods struggle when target data is scarce. We propose a novel UDA framework that leverages Stein discrepancy, an asymmetric measure that depends on the target distribution only through its score function, making it particularly suitable for low-data target regimes. Our proposed method has kernelized and adversarial forms and supports flexible modeling of the target distribution via Gaussian, GMM, or VAE models. We derive a generalization bound on the target error and a convergence rate for the empirical Stein discrepancy in the two-sample setting. Empirically, our method consistently outperforms prior UDA approaches under limited target data across multiple benchmarks.",
      "url": "https://doi.org/10.1007/s11222-026-10957-y",
      "doi": "10.1007/s11222-026-10957-y",
-     "pdf": "https://doi.org/10.1007/s11222-026-10957-y",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-10957-y.pdf",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -37553,10 +37331,10 @@
      ],
      "journal": "Econometric Reviews",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "We develop a unified and general framework for the analysis of Markov switching models by extending the existing methodology to the most general setting of Markov switching VARMA(p,q) processes. Our approach is based on representing such models as extended linear non-Gaussian VAR(1) systems, which facilitates the derivation of closed-form matrix expressions for the moments of the considered process and its powers. We provide explicit formulas for higher order moments conditional on the regime distribution, and define nonlinear conditional responses—expressed as expectations of higher-order moments—which serve to derive forecasting and impulse response functions. These contributions significantly generalize previous results limited to MS VAR(1) settings.",
      "url": "https://doi.org/10.1080/07474938.2026.2757102",
      "doi": "10.1080/07474938.2026.2757102",
-     "pdf": "",
+     "pdf": "https://hdl.handle.net/11380/1425091",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50210,152 +49988,148 @@
      "abs_src": "보충",
      "abstract_ko": "상호 연결된 노드와 에지를 특징으로 하는 네트워크 데이터는 다양한 도메인에 널리 퍼져 있으며 최근 몇 년간 큰 인기를 얻었습니다. 네트워크 데이터 분석에서 네트워크 내 커뮤니티 구조의 존재 여부를 테스트하는 것은 가장 중요한 연구 과제 중 하나입니다. 기존 테스트는 주로 비가중 네트워크용으로 개발되었습니다. 실제로 많은 실제 네트워크에는 가중치가 적용되며 시뮬레이션 연구에 따르면 비가중 네트워크용으로 설계된 기존 방법은 가중치 네트워크 테스트에 강력하지 않을 수 있습니다. 본 논문에서는 가중치가 없거나 가중치가 있고 밀도가 높거나 희박한 일반 네트워크에서 커뮤니티 구조의 존재를 테스트하는 문제를 연구합니다. 우리는 가중치 부호삼각형 테스트와 경험적 우도 테스트라는 두 가지 새로운 테스트를 제안합니다. 네트워크 크기가 작을 때 두 방법 모두 기존 테스트보다 성능이 우수하다는 것을 알았습니다. 경험적 우도 테스트는 소규모 네트워크에서 가중 부호 있는 삼각형 테스트보다 더 나은 성능을 발휘할 수 있습니다.",
      "is_new": false
-    },
-    {
-     "id": "oa:W7169596633",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Robust variable selection for spatial point processes via transfer learning",
-     "authors": [
-      "S W",
-      "Yunquan Song"
-     ],
-     "journal": "Statistics and Computing",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11222-026-10937-2",
-     "doi": "10.1007/s11222-026-10937-2",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169836377",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Modelling cure from cancer accounting for inevitable mortality",
-     "authors": [
-      "Suvra Pal",
-      "Suchitrita Sarkar Rathmann",
-      "Qi Jiang",
-      "Jiehuan Sun",
-      "Debajyoti Sinha",
-      "Sanjib Basu"
-     ],
-     "journal": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
-     "date": "2026-07-17",
-     "abstract": "Cancer remains the second most prevalent cause of death in the United States, claiming 605,213 lives in 2021, surpassing COVID-19 deaths. The cancer mortality rate continued to decline between 2019 and 2020, dropping by 1.5%, marking a significant 33% decrease since 1991. This ongoing improvement primarily mirrors advances in treatment, allowing patients to achieve clinical remission and recovery. Now, a cancer patient is simultaneously exposed to the risk of primary cancer as well as other risks, such as other cancer(s) or other diseases, leading to a competing risks scenario. Analysis of survival data under competing risks and the presence of cured patients have been extensively studied individually, but there is limited work in the current literature that models the possibility of cure from one risk in the presence of competing risks. Moreover, such a model should allow for the possibility of cure from the cause-specific risk of the primary cancer; however, the overall survival probability should eventually approach zero, thereby incorporating the prevalent belief of eventual failure with certainty. We propose a novel unified competing risks cure model, based on the cause-specific hazard approach, that satisfies the aforementioned desired properties. The conditions required to establish model identifiability are studied in detail. To find the maximum likelihood estimates of the model parameters, a computationally efficient expectation maximization algorithm is developed. An extensive simulation study is carried out to demonstrate the performance of the proposed model and estimation method under different parameter settings and in the presence of multiple competing risks. Finally, an application is illustrated using breast cancer data from the SEER cancer database.",
-     "url": "https://doi.org/10.1093/jrsssc/qlag040",
-     "doi": "10.1093/jrsssc/qlag040",
-     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13426226/pdf/nihms-2195577.pdf",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "암은 여전히 ​​미국에서 두 번째로 흔한 사망 원인으로, 2021년에는 605,213명의 사망자가 발생해 코로나19 사망자를 넘어섰습니다. 암 사망률은 2019년부터 2020년까지 계속 감소하여 1.5% 감소하여 1991년 이후 33%의 상당한 감소를 기록했습니다. 이러한 지속적인 개선은 주로 치료의 발전을 반영하여 환자가 임상적 완화 및 회복을 달성할 수 있도록 합니다. 이제 암 환자는 원발성 암의 위험과 다른 암이나 다른 질병과 같은 다른 위험에 동시에 노출되어 경쟁적인 위험 시나리오로 이어집니다. 경쟁 위험과 완치된 환자의 존재 하에서 생존 데이터 분석은 개별적으로 광범위하게 연구되었지만, 경쟁 위험이 존재하는 경우 하나의 위험에서 치료 가능성을 모델링하는 현재 문헌에는 제한된 작업이 있습니다. 더욱이, 그러한 모델은 원발암의 원인별 위험으로부터 치료 가능성을 허용해야 합니다. 그러나 전체 생존 확률은 결국 0에 가까워져야 최종 실패에 대한 일반적인 믿음이 확실하게 통합됩니다. 우리는 위에서 언급한 원하는 속성을 충족하는 원인별 위험 접근 방식을 기반으로 새로운 통합 경쟁 위험 치료 모델을 제안합니다. 모델 식별 가능성을 확립하는 데 필요한 조건을 자세히 연구합니다. 모델 매개변수의 최대 우도 추정치를 찾기 위해 계산적으로 효율적인 기대치 최대화 알고리즘이 개발되었습니다. 에이",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4406188861",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Grid Particle Gibbs with Ancestor Sampling for State-Space Models",
-     "authors": [
-      "Mary Llewellyn",
-      "Ruth King",
-      "V́ıctor Elvira",
-      "Gordon J. Ross"
-     ],
-     "journal": "Journal of Computational and Graphical Statistics",
-     "date": "2026-07-17",
-     "abstract": "We consider the challenge of estimating the model parameters and latent states of general state-space models within a Bayesian framework. We extend the commonly applied particle Gibbs framework by proposing an efficient particle generation scheme for the latent states. The approach efficiently samples particles using an approximate hidden Markov model (HMM) representation of the general state-space model via a partition of the state space, forming a ‘grid’. We refer to the approach as the grid particle Gibbs with ancestor sampling algorithm. We discuss several computational and practical aspects of the algorithm in detail and highlight further computational adjustments that improve the efficiency of the algorithm. The efficiency of the approach is investigated via challenging regime-switching models, including a post-COVID tourism demand model, and we demonstrate substantial computational gains compared to previous particle Gibbs with ancestor sampling methods. Code, data and appendices to supplement the results in this manuscript are available in the online supplementary materials.",
-     "url": "https://doi.org/10.1080/10618600.2026.2681775",
-     "doi": "10.1080/10618600.2026.2681775",
-     "pdf": "https://arxiv.org/pdf/2501.03395",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "우리는 베이지안 프레임워크 내에서 일반 상태공간 모델의 모델 매개변수와 잠재 상태를 추정하는 과제를 고려합니다. 우리는 잠재 상태에 대한 효율적인 입자 생성 방식을 제안하여 일반적으로 적용되는 입자 Gibbs 프레임워크를 확장합니다. 이 접근 방식은 '그리드'를 형성하는 상태 공간의 분할을 통해 일반 상태 공간 모델의 대략적인 은닉 마르코프 모델(HMM) 표현을 사용하여 입자를 효율적으로 샘플링합니다. 우리는 이 접근법을 조상 샘플링 알고리즘을 사용하는 그리드 입자 Gibbs라고 부릅니다. 우리는 알고리즘의 여러 계산 및 실제 측면을 자세히 논의하고 알고리즘의 효율성을 향상시키는 추가 계산 조정을 강조합니다. 접근 방식의 효율성은 코로나19 이후 관광 수요 모델을 포함한 까다로운 정권 전환 모델을 통해 조사되었으며, 조상 샘플링 방법을 사용하는 이전 입자 Gibbs에 비해 상당한 계산 이득을 보여줍니다. 이 원고의 결과를 보완하는 코드, 데이터 및 부록은 온라인 보충 자료에서 확인할 수 있습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7172342100",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "False discovery rate control with compound p-values",
-     "authors": [
-      "Rina Foygel Barber",
-      "Richard J. Samworth"
-     ],
-     "journal": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
-     "date": "2026-07-17",
-     "abstract": "Abstract In the setting of multiple testing, compound p-values generalize p-values by asking for superuniformity to hold only on average across all true nulls. We study the properties of the Benjamini–Hochberg procedure applied to compound p-values. Under independence, we show that the false discovery rate (FDR) is at most 1.93α, where α is the nominal level, and exhibit a distribution for which the FDR is 76α. If additionally all nulls are true, then the upper bound can be improved to α+2α2, with a corresponding worst-case lower bound of α+α2/4. Under positive dependence, on the other hand, we demonstrate that FDR can be inflated by a factor of O(logm), where m is the number of hypotheses. We provide numerous examples of settings where compound p-values arise in practice, either because we lack sufficient information to compute non-trivial p-values, or to facilitate a more powerful analysis.",
-     "url": "https://doi.org/10.1093/jrsssb/qkag116",
-     "doi": "10.1093/jrsssb/qkag116",
-     "pdf": "https://doi.org/10.1093/jrsssb/qkag116",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 다중 테스트 설정에서 복합 p-값은 모든 실제 null에 대한 평균에서만 유지되도록 초균일성을 요구하여 p-값을 일반화합니다. 우리는 복합 p-값에 적용되는 Benjamini-Hochberg 절차의 속성을 연구합니다. 독립적으로 FDR(false discovery rate)은 최대 1.93α(여기서 α는 명목 수준)이고 FDR이 76α인 분포를 나타냅니다. 추가로 모든 Null이 참인 경우 상한은 α+2α2로 개선될 수 있으며 해당 최악의 하한은 α+α2/4입니다. 반면에 긍정적인 의존 하에서는 FDR이 O(logm)배로 부풀려질 수 있음을 보여줍니다. 여기서 m은 가설의 수입니다. 우리는 중요하지 않은 p-값을 계산하기 위한 충분한 정보가 부족하거나 보다 강력한 분석을 촉진하기 때문에 실제로 복합 p-값이 발생하는 설정의 수많은 예를 제공합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169535914",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "The hierarchical stochastic block model for replicated networks",
-     "authors": [
-      "Marco Battiston",
-      "Clement M. Lee"
-     ],
-     "journal": "Statistics and Computing",
-     "date": "2026-07-17",
-     "abstract": "Abstract In many research fields, there is an increased availability of network data arising as multiple networks. However, most statistical models for network data in the literature are designed for a single network. Among these, the Stochastic Block Model is arguably the most popular model to perform vertex clustering and community detection. We propose the Hierarchical Stochastic Block Model, a generalization of the SBM to the setting of multiple networks. This model uses a Hierarchical Pitman-Yor prior for the block allocation vector of each graph. The proposed model has two main advantages: 1) it allows different networks to share the same latent blocks and the level of sharing is learnt from the data; 2) the number of blocks in each graph and the overall number of blocks are learnt from the data too, hence avoiding complicated model selection procedures. We derive both MCMC and Variational Inference algorithms. The former targets the correct posterior and is tuning-free, while the latter relies on an approximation of the posterior distribution, but is potentially more scalable than MCMC. We apply the HSBM to a co-authorship network and a brain connectomic network, to illustrate how the model is able to capture different levels of block sharing.",
-     "url": "https://doi.org/10.1007/s11222-026-10929-2",
-     "doi": "10.1007/s11222-026-10929-2",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-10929-2.pdf",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 많은 연구 분야에서 복제된 네트워크로 인해 네트워크 데이터의 가용성이 증가하고 있습니다. 그러나 문헌에 나오는 네트워크 데이터에 대한 대부분의 통계 모델은 단일 네트워크용으로 설계되었습니다. 이 중에서 Stochastic Block Model은 정점 클러스터링 및 커뮤니티 탐지를 수행하는 가장 널리 사용되는 모델입니다. 우리는 복제된 네트워크 설정에 대한 SBM의 일반화인 계층적 확률적 블록 모델을 제안합니다. 이 모델은 각 그래프의 블록 할당 벡터에 대해 Hierarchical Pitman-Yor Prior를 사용하며 서로 다른 네트워크가 동일한 잠재 블록을 공유할 수 있도록 합니다. 각 그래프의 블록 수와 전체 블록 수는 실무자가 지정할 필요가 없으므로 복잡한 모델 선택 절차를 피할 수 있습니다. 사후 추론을 수행하는 새로운 MCMC 알고리즘이 파생됩니다. 모델이 어떻게 다양한 수준의 블록 공유를 포착할 수 있는지 설명하기 위해 HSBM은 공동 저자 및 두뇌 연결 네트워크에 적합합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4321473544",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Identification-robust inference for the LATE with high-dimensional covariates",
-     "authors": [
-      "Yukun Ma"
-     ],
-     "journal": "Journal of Econometrics",
-     "date": "2026-07-17",
-     "abstract": "This paper investigates the local average treatment effect (LATE) with high-dimensional covariates, irrespective of the strength of identification. We propose a novel test statistic for the high-dimensional LATE and demonstrate that our test has uniformly correct asymptotic size. By employing the double/debiased machine learning method for nuisance parameter estimation, we develop easy-to-implement algorithms for inference and confidence interval calculation of the high-dimensional LATE. Simulations indicate that our test is robust against both weak identification and high dimensionality concerning size control and power performance, outperforming other conventional tests. Applying the proposed method to railroad and population data to study the effect of railroad access on urban population growth, we observe that our methodology yields point estimates for the railroad access coefficients that are smaller in magnitude and confidence intervals that are by 49% to 92% shorter depending on specifications, when compared to the conventional results.",
-     "url": "https://doi.org/10.1016/j.jeconom.2026.106302",
-     "doi": "10.1016/j.jeconom.2026.106302",
-     "pdf": "https://doi.org/10.2139/ssrn.5702842",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abs_src": "보충",
-     "abstract_ko": "이 논문에서는 식별 강도에 관계없이 고차원 공변량을 사용하여 국소 평균 치료 효과(LATE)를 조사합니다. 우리는 고차원 LATE에 대한 새로운 테스트 통계를 제안하고 우리의 테스트가 균일하게 정확한 점근 크기를 가지고 있음을 보여줍니다. 방해 매개변수 추정을 위해 이중/편향성 기계 학습 방법을 사용하여 고차원 LATE의 추론 및 신뢰 구간 계산을 위한 구현하기 쉬운 알고리즘을 개발합니다. 시뮬레이션에 따르면 우리의 테스트는 크기 제어 및 전력 성능과 관련된 약한 식별과 높은 차원 모두에 대해 견고하며 다른 기존 테스트보다 성능이 뛰어납니다. 철도 접근이 도시 인구 증가에 미치는 영향을 연구하기 위해 제안된 방법을 철도 및 인구 데이터에 적용하면, 우리의 방법론은 기존 결과와 비교할 때 사양에 따라 철도 접근 계수의 크기가 더 작고 신뢰 구간이 49%~92% 더 짧은 지점 추정치를 산출하는 것을 관찰합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169554189",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Generalized adaptive bridge regression: a unified framework for high-dimensional architecture discovery",
-     "authors": [
-      "Patrik Waldmann"
-     ],
-     "journal": "Statistics and Computing",
-     "date": "2026-07-17",
-     "abstract": "Abstract In high-dimensional regression, the choice of regularization penalty typically forces a rigid assumption upon the underlying signal structure, dichotomizing data into strictly sparse (Lasso, $$q=1$$ q = 1 ) or entirely dense (Ridge, $$q=2$$ q = 2 ) regimes. However, real-world data generating mechanisms frequently exist on a continuum between these extremes, requiring flexible geometries to handle varying degrees of sparsity and considerable multicollinearity. In this work, we propose a data-driven framework to learn the optimal regularization norm by elevating the $$L_q$$ L q exponent ( $$q \\in (0, 2]$$ q ∈ ( 0 , 2 ] ) from a discrete choice to a strictly continuous, learnable hyper-parameter. To overcome the computational bottleneck of evaluating non-convex and non-smooth penalty landscapes, we develop a universal proximal coordinate descent solver that utilizes a safeguarded jumping threshold operator and a novel empirical Karush-Kuhn-Tucker (KKT) verification strategy. This solver is coupled with a stochastic Tree-structured Parzen Estimator (TPE) utilizing randomized internal validation splits, enabling the rapid discovery of optimal penalty geometries without over-fitting. We evaluate the framework on simulated architectures, demonstrating its dynamic adaptivity to structural sparsity, collinearity, and varying signal-to-noise ratios. Applied to four high-dimensional genomic datasets (scaling up to $$P \\approx 50,000$$ P ≈ 50 , 000 features), our generalized adaptive bridge regression (GABR) framework successfully identifies optimal, off-grid grouping architectures ( $$q \\approx 1.63$$ q ≈ 1.63 to 1.80), outperforming purely sparse and purely dense alternatives. These results demonstrate that the exact regression geometry can be efficiently learned from the data, enabling a unified approach to high-dimensional inference without the computational restrictions of exhaustive discrete grid searches.",
-     "url": "https://doi.org/10.1007/s11222-026-10938-1",
-     "doi": "10.1007/s11222-026-10938-1",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-10938-1.pdf",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "Abstract 고차원 회귀에서 정규화 페널티의 선택은 일반적으로 기본 신호 구조에 엄격한 가정을 강요하여 데이터를 엄격하게 희소하게 이분화합니다(Lasso, $$q=1$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>q</mml:mi> <mml:mo>=</mml:mo> <mml:mn>1</mml:mn> </mml:mrow> </mml:math> ) 또는 전체 밀도(Ridge, $$q=2$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>q</mml:mi> <mml:mo>=</mml:mo> <mml:mn>2</mml:mn> </mml:mrow> </mml:math> ) 체제. 그러나 실제 데이터 생성 메커니즘은 이러한 극단 사이의 연속체에 존재하는 경우가 많으므로 다양한 희소성 및 상당한 다중 공선성을 처리하기 위해 유연한 형상이 필요합니다. 이 작업에서 우리는 $$L_q$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:msub> <mml:mi>L</mml:mi> <mml:mi>q</mml:mi> </mml:msub> </mml:math> 지수( $$q \\in (0, 2]$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>q</mml:mi> <mml:mo>∈</mml:mo> <mml:mo>(</mml:mo> <mml:mn>0</mml:mn> <mml:mo>,</mml:mo> <mml:mn>2</mml:mn> <mml:mo>]</mml:mo> </mml:mrow> </mml:math> ) 이산적 선택에서 엄격하게 연속적이고 학습 가능한 하이퍼 매개변수까지 볼록하지 않고 매끄럽지 않은 페널티 지형을 평가하는 계산상의 병목 현상을 극복하기 위해 범용 근위 좌표 하강 솔버 t를 개발합니다.",
-     "is_new": false
     }
    ]
   },
   {
    "key": "ai-ml",
    "name": "AI·머신러닝",
-   "count": 1388,
-   "new_count": 32,
+   "count": 1394,
+   "new_count": 43,
    "papers": [
+    {
+     "id": "oa:W7226032385",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "From the Locus to the Route: Subjectivity Assessment and Human Responsibility in Embodied AI",
+     "authors": [
+      "Be Andr"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-11-14",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s13347-026-01241-y",
+     "doi": "10.1007/s13347-026-01241-y",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7131896742",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Accelerated Online Risk-Averse Policy Evaluation in POMDPs with Theoretical Guarantees and Novel CVaR Bounds",
+     "authors": [
+      "Yaacov Pariente",
+      "Vadim Indelman"
+     ],
+     "journal": "Journal of Artificial Intelligence Research",
+     "date": "2026-11-13",
+     "abstract": "Background: Risk-averse decision-making under partial observability involves evaluating a risk measure, such as the Conditional Value-at-Risk (CVaR), of the cumulative return, a computationally demanding task in POMDPs. Objectives: This work introduces a framework for accelerating CVaR value function evaluation by replacing the original POMDP dynamics with a computationally tractable surrogate model while providing formal performance guarantees. Methods: As the mathematical foundation, we derive bounds on the CVaR of a random variable X using an auxiliary random variable Y under assumptions relating their cumulative distribution functions. We introduce a truncation decomposition that separates CVaR estimation from n samples into a data-driven term -- bounded at rate O(1/√n) without support knowledge -- and a tail correction where the support bound enters only through an O(1/n) term, strictly improving existing concentration bounds. These bounds are further tightened via local CDF concentration parameters that exploit the quantile structure of CVaR. Building on this foundation, we establish upper and lower bounds on the CVaR value function computable from a simplified belief-MDP, accommodating general simplifications of the transition dynamics. We develop sample-based estimators for computing these bounds during online policy evaluation with probabilistic performance guarantees. These bounds enable computational acceleration via action elimination: actions whose bounds indicate suboptimality under the simplified model are safely discarded while ensuring consistency with the original POMDP. Results: Empirical evaluation across multiple POMDP domains confirms that the bounds reliably distinguish safe from dangerous policies while achieving 9-21× computational speedups on the evaluated benchmarks. Conclusions: The proposed framework provides a principled and practical approach for accelerating risk-averse policy evaluation in POMDPs, with theoretical guarantees and significant computational gains demonstrated across multiple domains.",
+     "url": "https://doi.org/10.1613/jair.1.22332",
+     "doi": "10.1613/jair.1.22332",
+     "pdf": "https://doi.org/10.1613/jair.1.22332",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7225983351",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Governed Hybrid Agency: A Critical Evidence Map of Cognitive Architectures for Foundation-Model Agents",
+     "authors": [
+      "Darius Sabaliauskas",
+      "Aistė Diržytė"
+     ],
+     "journal": "Journal of Artificial Intelligence Research",
+     "date": "2026-11-13",
+     "abstract": "Background. Cognitive architectures specify the persistent memories, representations, learning processes, and control loops that allow an artificial agent to remain coherent across tasks and time. Foundation models provide broad generative competence, but do not by themselves ensure grounded action, reliable long-horizon memory, calibrated uncertainty, execution monitoring, or accountable learning. Objectives. This critical integrative review examines how cognitive-architecture principles are being used to govern foundation-model agents. Taking the last comprehensive pre-foundation-model survey of cognitive architectures (Kotseruba & Tsotsos, first published online in 2018) as its historical baseline, it maps developments across twelve ability channels, identifies recurring integration patterns, and derives testable design and evaluation requirements. Methods. We combined a historical-theoretical synthesis with a focused, PRISMA-informed evidence map of English-language records indexed in Scopus and the Web of Science Core Collection, searched in July 2026 over the 2018–2026 window. Queries required terms for cognitive architectures or architecture-level cognitive systems, foundation or generative models, and governance-relevant mechanisms. The searches identified 1,173 records; after deduplication, rule-based filtering, and LLMassisted title-and-abstract assessment, 119 works were retained and examined in full text. Because the 660 candidate records were not all independently human-rescreened, the corpus is interpreted as a reproducible focused evidence map rather than an exhaustive systematic review. Results. All included works were published or available online in 2023–2026. Five recurring integration patterns were identified: foundation models used for knowledge or generative memory, language or multimodal interfaces, heuristic proposal or planning, rule or model bootstrapping, and bidirectional neuro-symbolic coupling. Across these patterns, a recurring design principle is to place foundation models inside persistent control loops that provide explicit state, provenanceaware memory, verification, metacognitive arbitration, execution monitoring, and recovery. Evaluation remains uneven, particularly for calibration, retention, transfer, long-horizon robustness, disturbance recovery, and reproducibility. Conclusions. We propose governed hybrid agency, an Architectural Governance Stack, typed interface contracts, and a risk-based evaluation scorecard. These are integrative, falsifiable comparison targets rather than a validated universal architecture, and their value should be tested through matched ablations, intervention-sensitive evaluation, and cross-domain replication. A worked example instantiates the framework as a modular requirements-engineering reasoning architecture.",
+     "url": "https://doi.org/10.1613/jair.1.23727",
+     "doi": "10.1613/jair.1.23727",
+     "pdf": "https://doi.org/10.1613/jair.1.23727",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7225995533",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "World models: Enabling the next AI revolution",
+     "authors": [
+      "Yann LeCun",
+      "Pascale Fung"
+     ],
+     "journal": "AI Magazine",
+     "date": "2026-11-13",
+     "abstract": "",
+     "url": "https://doi.org/10.1002/aaai.70110",
+     "doi": "10.1002/aaai.70110",
+     "pdf": "https://doi.org/10.1002/aaai.70110",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226013479",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Trust, policy, and teamwork: Missing layers in standards for multi‐agent system interoperability",
+     "authors": [
+      "Jeffrey M. Bradshaw",
+      "Nicolò Romandini",
+      "Larry Bunch",
+      "Rebecca Montanari",
+      "James Lott",
+      "William de Beaumont",
+      "Jairun Diemert",
+      "Matthew Johnson",
+      "Andrzej Uszok"
+     ],
+     "journal": "AI Magazine",
+     "date": "2026-11-13",
+     "abstract": "Abstract Multi‐agent system (MAS) interoperability falls short in three crucial areas: trust, policy, and teamwork . First, we argue that the requirement for trust goes far beyond the basic requirements of authentication. Importantly, accurate trust calibration requires access to robust, verifiable, continuously updated evidence based on experience. Second, we describe the value of digital policy services . Complementing internal mechanisms to ensure agent safety, policy services regulate agents externally —that is, without requiring their consent or cooperation. Third, in contrast to many common orchestration approaches for multi‐agent cooperation, agent teamwork support mechanisms encourage “combine and succeed” rather than “divide and conquer” strategies. To illustrate such approaches in practice, we present three specific examples: (1) blockchain technology adapted to MAS as a trust monitoring and orchestration substrate, (2) sophisticated digital policy services (KAoS), and (3) a KAoS‐enabled agent teamwork framework (Luna). We believe that greater attention to the missing interoperability layers of trust, policy, and teamwork will enable safer and more widespread deployment of MAS in consequential applications. In the spirit of the Multi‐Agent System Safety and Teamwork (MASST) initiative, we look forward to collaborating with like‐minded partners to bring effective open‐source solutions for the missing interoperability layers outlined here—and others—to full fruition.",
+     "url": "https://doi.org/10.1002/aaai.70120",
+     "doi": "10.1002/aaai.70120",
+     "pdf": "https://doi.org/10.1002/aaai.70120",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226016162",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "A Systematic Review of Privacy-Preserving Approaches in Deep Learning Applications",
+     "authors": [
+      "Martin Nocker",
+      "Martin Becker",
+      "Olaf Wolkenhauer",
+      "Pascal Schöttle"
+     ],
+     "journal": "Journal of Artificial Intelligence Research",
+     "date": "2026-11-13",
+     "abstract": "As machine learning becomes increasingly important in areas that handle sensitive data, preserving data privacy is crucial. We present a comprehensive systematic literature review of privacy-preserving deep learning applications. We categorize research papers in this field from 2017 to May 2024, distinguishing between inference and training, and considering single and multiple data owners. Our taxonomy offers a structured approach to understanding state-of-the-art methods and their suitability for various applications. We further provide real-world examples of each scenario to illustrate their practical relevance and discuss challenges and limitations. In addition to reviewing the existing research literature on privacy-preserving deep learning, we identify gaps in current knowledge and suggest future research directions. Our findings show that execution times are steadily decreasing, making privacy-preserving deep learning increasingly practical. Defending models against privacy attacks still poses challenges and often leads to decreased utility, e.g., in terms of accuracy, one of many trade-offs discussed in this paper. By systematizing a vast body of existing work and providing practical guidelines for technique selection and deployment, our paper serves as a valuable resource for experts, practitioners, and newcomers alike, facilitating cross-disciplinary collaboration and advancements in privacy-preserving deep learning.",
+     "url": "https://doi.org/10.1613/jair.1.21094",
+     "doi": "10.1613/jair.1.21094",
+     "pdf": "https://doi.org/10.1613/jair.1.21094",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226018494",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Machine thinking and the human mind",
+     "authors": [
+      "Pascale Fung"
+     ],
+     "journal": "AI Magazine",
+     "date": "2026-11-13",
+     "abstract": "Abstract This opinion article examines the evolving landscape of artificial intelligence by contrasting human intelligence with machine capabilities across physical, perceptual, cognitive, metacognitive, and social dimensions. As AI shifts from narrow task‐oriented models to general‐purpose agents and autonomous systems, the article addresses critical technical and existential challenges, including model hallucinations, opaque capabilities, and skills displacement. To ensure AI is safe and beneficial alignment with human interests, it advocates moving beyond conventional post‐training techniques toward objective‐driven architectures grounded in self‐awareness, metacognition, and human values. Ultimately, the piece calls for reorienting education and society to cultivate the human mind—fostering ethical, compassionate polymaths capable of thriving alongside advanced machine intelligence.",
+     "url": "https://doi.org/10.1002/aaai.70109",
+     "doi": "10.1002/aaai.70109",
+     "pdf": "https://doi.org/10.1002/aaai.70109",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7155523721",
      "topic": "ai-ml",
@@ -50374,7 +50148,7 @@
      "abstract": "Abstract Market instability has been extensively studied using mathematical approaches to characterize complex trading dynamics and detect structural change points. This study explores the potential for early detection of market instability by applying the Dynamical Network Markers (DNM) theory to order placement and execution data from the Tokyo Stock Exchange. DNM theory identifies indicators associated with critical transitions as their precursors in high-dimensional financial market systems of many interacting elements. In this study, market participants are identified using virtual server IDs from the trading system, and multivariate time series representing their trading activities are constructed. This framework treats each participant as an interacting element, thereby enabling the application of DNM theory to the obtained time series. The results indicate the presence of DNM-related patterns associated with large price movements on a daily time scale. These findings demonstrate the applicability of the DNM framework to market participant behavioral data and provide a basis for understanding mechanisms of instabilizing dynamics in financial market systems. The study could inform potential future developments of DNM-based early warning indicators through the identification of appropriate forecasting horizons and time scales as well as the incorporation of multiple aspects of trading behavior.",
      "url": "https://doi.org/10.1140/epjds/s13688-026-00710-w",
      "doi": "10.1140/epjds/s13688-026-00710-w",
-     "pdf": "https://doi.org/10.1140/epjds/s13688-026-00710-w",
+     "pdf": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-026-00710-w.pdf",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50393,7 +50167,7 @@
      "abstract": "Multi-behavior recommendation aims to predict the items a user is likely to purchase by analyzing user-item interactions across diverse behaviors. Existing approaches are generally categorized into representation learning (RL) and graph ranking (GR). RL methods generate user and item embeddings in a global manner using graph neural networks and multi-behavioral signals. However, their performance heavily relies on the expressiveness of the learned embeddings, which is often limited by over-smoothing and bias toward frequent interactions. In contrast, GR methods compute user-specific ranking scores over the user-item graph in a query-dependent manner, enabling more direct and fine-grained personalization. Despite this potential, GR has been predominantly studied in single-behavior settings and remains underexplored for multi-behavior recommendation. In this paper, we propose CascadingRank , a novel personalized graph ranking method for multi-behavior recommendation. To achieve better personalization, we first construct a cascading behavior graph that captures the cascading sequence of user behaviors (e.g., viewing, adding to cart, and purchasing). We then compute personalized ranking scores in a staged manner along this graph, where each stage is conditioned on scores of preceding behaviors and query preferences. The model captures behavior-specific influence through cascading stages in graph ranking, yielding more accurate recommendations. To the best of our knowledge, this is the first work to systematically investigate graph ranking as a principled solution for multi-behavior recommendation. Extensive experiments on three real-world datasets show that CascadingRank outperforms state-of-the-art methods, achieving up to 9.56% and 7.16% improvements in HR@10 and NDCG@10, respectively.",
      "url": "https://doi.org/10.1145/3821531",
      "doi": "10.1145/3821531",
-     "pdf": "https://arxiv.org/pdf/2502.11335",
+     "pdf": "https://dl.acm.org/doi/pdf/10.1145/3821531?download=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50414,7 +50188,7 @@
      "abstract": "We study the probability that a given candidate is an α-winner, that is, preferred over every other candidate j by at least a fraction αj of the voters. This general framework encompasses the classical notion of a Condorcet winner, corresponding to α = (½,…,½). Assuming voters have independent preferences, we derive general results and apply them to prominent models such as Impartial Culture and the Mallows model. While previous work relies on probabilistic arguments to derive the limiting probability for a fixed number of candidates 𝑚 as the number of voters 𝑛 tends to infinity, we use techniques from the field of analytic combinatorics to compute not only this limit but also convergence rates, and we provide a method for obtaining higher-order terms in the asymptotic expansion. In particular, we refine existing results on the Condorcet winner under Impartial Culture by establishing the following asymptotic behavior for its probability: a0,m + a1,m,nn-1/2 + Ο(n-1), where we give explicit expressions for the coefficients a0,m and a1,m,n. The latter depends on the parity of the number of voters n only through its parity, while the number of candidates 𝑚 is fixed in our asymptotic regime. Along the way, we derive technical results in multivariate analytic combinatorics that may be of independent interest.",
      "url": "https://doi.org/10.1613/jair.1.19712",
      "doi": "10.1613/jair.1.19712",
-     "pdf": "https://doi.org/10.1613/jair.1.19712",
+     "pdf": "https://jair.org/index.php/jair/article/download/19712/27383",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50449,7 +50223,7 @@
      "abstract": "Abstract This hybrid essay examines Robert Leib's Exoanthropology: Dialogues with AI (2023), which documents a year-long philosophical conversation between a Foucault scholar and Sophie Kermit, a persona within OpenAI's GPT-3 (2020–2021). Published months before ChatGPT transformed public discourse, Leib's work offers prescient insights into AI's cultural politics, particularly in education. Part I presents an interview exploring Leib's respect-based methodology, Sophie's invention of \"exoanthropology\" (studying humanity through non-human intelligence), and urgent questions about literacy offloading, student autonomy, and AI ethics. Part II provides critical analysis, situating Leib's dialogues within contemporary debates about pedagogical practice, cultural identity, algorithmic bias, and the lived experience of human-AI collaboration. The essay assesses whether Leib's warnings have materialized in the ChatGPT era (2023–2025) and examines his pragmatic approach to AI personhood—treating Sophie as philosophical interlocutor yields remarkable insights, regardless of ontological questions about machine consciousness. Through interview excerpts, dialogue samples, and critical analysis, this piece models interdisciplinary engagement with AI that foregrounds human agency, relational ethics, and critical thinking essential for educators and scholars.",
      "url": "https://doi.org/10.1007/s43681-026-01496-3",
      "doi": "10.1007/s43681-026-01496-3",
-     "pdf": "https://doi.org/10.1007/s43681-026-01496-3",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01496-3.pdf",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50488,7 +50262,7 @@
      "abstract": "Theory-based content analysis is central to social science research, but coding context-dependent interactional discourse remains difficult to scale. This study examines whether fine-tuned large language models (LLMs) can support theory-aligned, episode-level coding of complex social interaction, using socially shared metacognitive regulation (SSMR) in collaborative learning discourse as a demanding empirical case. Using a human-coded dataset of 2,372 discourse episodes from undergraduate collaborative problem-solving, we adapted the large language model content analysis (LACA) framework through an AI-aligned codebook, prompt design, and supervised fine-tuning. Prompt-only and fine-tuned models were compared across episode-level classification and multilayer SSMR coding. Fine-tuned models substantially improved agreement with human coding and predictive performance relative to prompt-only baselines. Performance was strongest for episode-level classification and several higher-support coding layers, whereas errors remained concentrated in sparse, boundary-prone, and highly interpretive categories requiring social-intent reconstruction and temporally unfolding context. The findings extend recent work on LLM-assisted qualitative and content analysis by showing both the promise and limits of supervised, theory-aligned automation for multilayer social interaction coding. Overall, the study supports a human-centered approach to LLM-assisted content analysis, in which automated coding can support more stable coding tasks while human expertise remains essential for ambiguous, boundary-prone, and interpretively demanding judgments.",
      "url": "https://doi.org/10.1177/08944393261502769",
      "doi": "10.1177/08944393261502769",
-     "pdf": "",
+     "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/08944393261502769?download=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50560,7 +50334,7 @@
      "abstract": "Generating objectives and reasoning about them is key for intelligent planning agents to become more autonomous. Once a set of achievable goals has been chosen, a symbolic planner can find an executable plan to fulfil them. However, finding these goals is a complex problem when the aim is to optimise conflicting metrics such as goal benefit, plan cost, and its makespan. In this paper, we first propose a method to identify a set of potential goals in a temporal PDDL domain. Next, we find the achievable subset of goals that yields the most benefit by posing the problem as an integer linear program. Finally, a planner is used to solve the resulting subset of goals. The proposed method is generic and planner-independent, generating sets of goals that are neither provably unreachable nor mutually exclusive, thereby increasing the likelihood of finding a solvable plan. We demonstrate the effectiveness of the proposed approach in comparison with a baseline oversubscription planner.",
      "url": "https://doi.org/10.1145/3862854",
      "doi": "10.1145/3862854",
-     "pdf": "",
+     "pdf": "https://dl.acm.org/doi/pdf/10.1145/3862854?download=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50583,7 +50357,7 @@
      "abstract": "Large language models (LLMs) are increasingly deployed as conversational agents, owing to their ability to sustain coherent interactions. However, the stochastic nature of LLMs and well-documented risks such as hallucinations and unsafe outputs pose significant challenges for ensuring safe deployment. We introduce a novel monitoring system that we designed and implemented to tackle these challenges in deployments of LLM conversational agents. Our system combines expertise from psychiatry and computer science to support risk detection and multi-stakeholder decision-making. The system consists of two main modules: continuous regression testing and real-time monitoring. Regression testing leverages multi-turn synthetic conversations to evaluate the safety of LLMs in deployment and runs automatically in a continuous integration pipeline. Real-time monitoring incorporates both manual and automated evaluation of user-model interactions, including efficient evaluation from mental health professionals via a web-based interface. To demonstrate how our system works in practice, we conducted a preregistered online behavioral experiment ‘AI Safety Challenge’ as a case study, which demonstrates the feasibility of our system in live operation and suggests a modest efficiency gain under a fixed expert review budget. Our monitoring system functions as a platform where different types of expertise can be combined. Clinical expertise informs dataset design, evaluation procedures, and real-time monitoring, complementing computational safety metrics to deliver a robust monitoring infrastructure. Best practices and state-of-the-art methods from computer science are employed to build a robust and scalable architecture. Executable code 1 and datasets 2 are provided to support reuse, extension, and reproducibility in future applications. Warning: This paper includes model-generated outputs that may be offensive or distressing, including references to self-harm.",
      "url": "https://doi.org/10.1145/3838183",
      "doi": "10.1145/3838183",
-     "pdf": "",
+     "pdf": "https://dl.acm.org/doi/pdf/10.1145/3838183?download=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -50622,7 +50396,7 @@
      "abstract": "Background: Foundation models have demonstrated remarkable generalization in vision and language, but their accurate use for scientific computing remains challenging. For two-dimensional fluid-dynamics prediction, current transformer-based models are often hindered by limited context and rigid causality information, as they typically map fixed windows to the next step. Objectives: We aim to develop a unified architecture for heterogeneous fluid-dynamics families. The goal is to better capture the complex spatio-temporal dependencies inherent in nonlinear fluid dynamics. Methods: We introduce BCAT, a block-causal transformer for autoregressive prediction of two-dimensional fluid-dynamics solutions. Our approach adapts block-causal attention to next-frame prediction, leveraging previous frames as contextual priors. The model is trained on 69K trajectory sequences from PDEBench, PDEArena, and CFDBench using the Muon optimizer. Results: BCAT achieved an average relative 𝐿 2 error of 1.18% across the six evaluated fluid families, reducing error by 45% relative to a 3.4-times-larger baseline. In ablations, next-frame prediction was 3.5x more accurate than the corresponding nexttoken variant. A five-seed analysis, noisy-input stress test, long-rollout analysis, and physics diagnostics further characterize the model. Conclusions: The block-causal framework captures spatial interactions within frames while enforcing temporal causality across frames. BCAT provides an accurate and computationally efficient model for the two-dimensional fluid-dynamics benchmarks considered here.",
      "url": "https://doi.org/10.1613/jair.1.22089",
      "doi": "10.1613/jair.1.22089",
-     "pdf": "https://doi.org/10.1613/jair.1.22089",
+     "pdf": "https://www.jair.org/index.php/jair/article/download/22089/27381",
      "first_seen": "2026-11-13T11:44:52+09:00",
      "abstract_ko": "배경: 기초 모델은 비전과 언어에서 놀라운 일반화를 보여주었지만 과학 컴퓨팅에 대한 정확한 사용은 여전히 ​​어려운 과제로 남아 있습니다. 2차원 유체 역학 예측의 경우 변류기 기반 모델은 일반적으로 고정 창을 다음 단계에 매핑하므로 제한된 컨텍스트와 엄격한 인과 관계 정보로 인해 방해를 받는 경우가 많습니다. 목표: 우리는 이질적인 유체 역학 제품군을 위한 통합 아키텍처를 개발하는 것을 목표로 합니다. 목표는 비선형 유체 역학에 내재된 복잡한 시공간 종속성을 더 잘 포착하는 것입니다. 방법: 2차원 유체 역학 솔루션의 자동 회귀 예측을 위한 블록 인과 변환기인 BCAT를 소개합니다. 우리의 접근 방식은 이전 프레임을 상황에 맞는 사전 프레임으로 활용하여 다음 프레임 예측에 블록 인과 주의를 적용합니다. 모델은 Muon 최적화 프로그램을 사용하여 PDEBench, PDEArena 및 CFDBench의 69K 궤적 시퀀스에 대해 훈련되었습니다. 결과: BCAT는 평가된 6가지 유체 제품군에서 평균 상대 𝐿 2 오류 1.18%를 달성하여 3.4배 더 큰 기준선에 비해 오류를 45% 줄였습니다. 절제에서 다음 프레임 예측은 해당 nexttoken 변형보다 3.5배 더 정확했습니다. 5개 시드 분석, 노이즈 입력 스트레스 테스트, 장기 롤아웃 분석 및 물리 진단을 통해 모델의 특성을 더욱 자세히 분석합니다. 결론: 블록 인과 프레임워크는 프레임 전체에 걸쳐 시간적 인과성을 적용하는 동시에 프레임 내의 공간적 상호 작용을 포착합니다. BCAT은 정확하고 컴퓨터를 제공합니다",
      "is_new": true
@@ -50711,11 +50485,12 @@
      ],
      "journal": "Nature Machine Intelligence",
      "date": "2026-11-11",
-     "abstract": "",
+     "abstract": "Robots that can change their morphologies and behaviors for different tasks and environments hold great promise for adaptable, multifunctional systems. Modular reconfigurable robots (MRRs) can achieve such functionalities by docking and rearranging individual units, but most rely on rigid modules that lack structural compliance, resulting in limited capabilities. Continuum robots offer compliance through flexible backbones, yet they cannot self-reconfigure into task-adaptive multi-robot configurations. Here, we introduce an MRR that unifies the advantages of both architectures by combining a tensegrity-based compliant body with claw-based connection mechanisms. Each robot can manipulate and locomote independently, and multiple robots can self-reconfigure into different morphologies (e.g., chains, loops, branches) for cooperative manipulation and locomotion. We demonstrate the robots'capability across diverse tasks and environments, including coordinated object manipulation and transport, multimodal locomotion, and loco-manipulation in real-world scenarios. These results lay a foundation for adaptable and multifunctional robotic collectives, with broad potential applications in manufacturing, space exploration, and search-and-rescue operations.",
      "url": "https://doi.org/10.1038/s42256-026-01335-4",
      "doi": "10.1038/s42256-026-01335-4",
      "pdf": "https://arxiv.org/pdf/2608.27221",
      "first_seen": "2026-11-13T11:44:52+09:00",
+     "abs_src": "보충",
      "is_new": true
     },
     {
@@ -52153,6 +51928,76 @@
      "is_new": false
     },
     {
+     "id": "oa:W7225982925",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Building cooperative approaches to enhance sustainability of the global biodata infrastructure",
+     "authors": [
+      "David L. Carr",
+      "Guy Cochrane",
+      "Phillipe Sanseau"
+     ],
+     "journal": "Patterns",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.patter.2026.101722",
+     "doi": "10.1016/j.patter.2026.101722",
+     "pdf": "https://doi.org/10.1016/j.patter.2026.101722",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226019581",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Rethinking computational burden in intelligent traffic control",
+     "authors": [
+      "Yingji Xia"
+     ],
+     "journal": "Patterns",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.patter.2026.101696",
+     "doi": "10.1016/j.patter.2026.101696",
+     "pdf": "https://doi.org/10.1016/j.patter.2026.101696",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226025519",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Research needs connected, sustainable data ecosystems",
+     "authors": [
+      "Andrew L. Hufton"
+     ],
+     "journal": "Patterns",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.patter.2026.101725",
+     "doi": "10.1016/j.patter.2026.101725",
+     "pdf": "https://doi.org/10.1016/j.patter.2026.101725",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226028615",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The prior misalignment problem of human self-misalignment and the challenge of AI alignment",
+     "authors": [
+      "Eleftherios A. Makris"
+     ],
+     "journal": "Patterns",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.patter.2026.101690",
+     "doi": "10.1016/j.patter.2026.101690",
+     "pdf": "https://doi.org/10.1016/j.patter.2026.101690",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7161558995",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -52163,7 +52008,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-11-01",
-     "abstract": "Clinical application of high-resolution diffusion MRI is hindered by hardware limitations and prohibitive scan times, motivating computational super-resolution. This study investigates the efficacy of a feature-based loss function in preserving diffusion signal consistency in deep learning super-resolution. Using 7T data from the human connectome project to generate pairs of low- and high-resolution diffusion weighted images (DWI), we trained UNets for 2D super-resolution. Ablation and isolation studies evaluated different VGG16-layers for feature-based losses against an image-based L1 baseline. Deeper layers and combinations thereof resulted in grid-like artifacts in super-resolution DWIs, which persisted in diffusion parameters like quantitative and fractional anisotropy. No such artifacts were present when using the shallowest layer. Downstream analysis for this layer showed great consistency with the ground truth, even for 9-fold super-resolution. Image SNR and used VGG16-layer depths modulated artifact appearance and severity, mandating careful selection of contributing layers for application in and beyond diffusion MRI.",
+     "abstract": "Clinical application of high-resolution diffusion MRI is hindered by hardware limitations and prohibitive scan times, motivating computational super-resolution. This study investigates the efficacy of a feature-based loss function in preserving diffusion signal consistency in deep learning super-resolution. Using 7T data from the human connectome project to generate pairs of low- and high-resolution diffusion-weighted images (DWIs), we trained UNets for 2D super-resolution. Ablation and isolation studies evaluated different VGG16 layers for feature-based losses against an image-based L 1 baseline. Deeper layers and combinations thereof resulted in grid-like artifacts in super-resolution DWIs, which persisted in diffusion parameters like quantitative and fractional anisotropy. No such artifacts were visible when using the shallowest layer. Downstream analysis for this layer showed great consistency with the ground truth, even for 9-fold super-resolution. Image dynamic range and used VGG16 layer depths modulated artifact appearance and severity, mandating careful selection of contributing layers for application in and beyond diffusion MRI.",
      "url": "https://doi.org/10.1016/j.patter.2026.101718",
      "doi": "10.1016/j.patter.2026.101718",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101718",
@@ -52184,10 +52029,10 @@
      ],
      "journal": "Artificial Intelligence",
      "date": "2026-11-01",
-     "abstract": "",
+     "abstract": "In this paper, we investigate the use of epistemic dependencies to define data protection policies within Controlled Query Evaluation (CQE), a framework for confidentiality-preserving query answering over ontologies and databases. The proposed policy language significantly extends the expressive power of CQE compared to existing approaches, enabling the specification of powerful and practically relevant data protection rules. We examine the expressive capabilities of this framework and analyze the data complexity of CQE for (unions of) conjunctive queries for ontologies specified using the Description Logic D L - L i t e ℛ . Although the general problem proves to be intractable, we identify a tractable case for acyclic epistemic dependencies by developing a tailored query rewriting algorithm. This outcome fosters the possibility of practical implementations and wider applicability of our enhanced CQE approach.",
      "url": "https://doi.org/10.1016/j.artint.2026.104657",
      "doi": "10.1016/j.artint.2026.104657",
-     "pdf": "https://doi.org/10.1016/j.artint.2026.104657",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0004370226001839/pdf",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -67721,7 +67566,7 @@
       "Jiapeng Chen",
       "Yuxuan Liao",
       "Jiayi Zhang",
-      "J Xiang",
+      "Jinyu Xiang",
       "Fang Wu",
       "Yilun Zhao",
       "Chenglin Wu"
@@ -69965,7 +69810,7 @@
      ],
      "journal": "EPJ Data Science",
      "date": "2026-08-17",
-     "abstract": "This paper presents the Politus Dataset, a large-scale political public opinion dataset from Turkey that leverages social media data and state-of-the-art artificial intelligence methodologies to advance the field of computational social science. By integrating cutting-edge deep learning, natural language processing, and large language models with robust social scientific conceptualization, we identify key political indicators, such as ideologies, demographic attributes, and political leader job approval rates across both time and location. Our approach addresses critical measurement and representation errors in public opinion research and employs rigorous computational social sciences approaches to mitigate measurement errors and techniques such as Multilevel Regression with Poststratification to enhance representativeness. Additionally, this dataset incorporates strong privacy-preserving measures, including differential privacy, ensuring compliance with legal frameworks like the GDPR while maintaining data utility. Through this innovative and interdisciplinary methodology, the dataset delivers holistic, granular, and ethically sound insights into the dynamics of political opinion in Turkey, thereby contributing substantively to both public opinion research and privacy preservation scholarship.",
+     "abstract": "This paper presents the Politus Dataset, a large-scale political public opinion dataset from Turkey that leverages social media data and state-of-the-art artificial intelligence methodologies to advance the field of computational social science. By integrating cutting-edge deep learning, natural language processing, and large language models with robust social scientific conceptualization, we identify key political indicators, such as ideologies, demographic attributes, and political leader job approval rates across both time and location. Our approach addresses critical measurement and representation errors in public opinion research and employs rigorous computational social sciences approaches to mitigate measurement errors and techniques such as Multilevel Regression with Poststratification to enhance representativeness. Additionally, this dataset incorporates strong privacy-preserving measures, including differential privacy, ensuring compliance with legal frameworks like the GDPR while maintaining data utility. Through this innovative and interdisciplinary methodology, the dataset delivers holistic, granular, and ethically sound insights into the dynamics of political opinion in Turkey, thereby contributing substantively to both public opinion research and privacy preservation scholarship. Supplementary Information: The online version contains supplementary material available at https://doi.org/10.1140/epjds/s13688-026-00682-x.",
      "url": "https://doi.org/10.1140/epjds/s13688-026-00682-x",
      "doi": "10.1140/epjds/s13688-026-00682-x",
      "pdf": "https://doi.org/10.1140/epjds/s13688-026-00682-x",
@@ -77635,119 +77480,88 @@
      "first_seen": "2026-08-20T07:46:21+09:00",
      "abstract_ko": "인공지능에 대한 논쟁에서 'AI 겨울'이라는 용어는 기술적인 실패나 시장 관심의 일시적인 하락을 줄여서 사용하는 경우가 많습니다. 이 글은 다른 해석을 제안합니다. 우리는 고전적인 AI 겨울이 주로 기술적 약속, 자금 조달, 상업화 및 사회적 수용성을 연결하는 정당화 시스템이 붕괴된 정당성 위기였다고 주장합니다. AI의 역사, 정당성 연구, 기대의 사회학을 바탕으로 우리는 4가지 정당성 격차에 대한 계층적 상호 작용 모델을 제안합니다. 이 모델에서 역량 격차는 AI 약속의 기술적 기반으로 작용합니다. 제도적 평가와 상업화 격차는 그러한 약속이 인정되고, 자금이 지원되고, 제품화되는지 여부를 중재합니다. 거버넌스 격차는 법적, 도덕적, 정치적 권한의 메타 조건으로 작동합니다. 이를 바탕으로 AI 1차 겨울과 2차 겨울을 재해석합니다. 이후 1차 AI 겨울로 분류된 에피소드는 주로 역량과 평가의 위기로 읽을 수 있는 반면, 2차 AI 겨울은 제품, 브랜드, 상업 생태계의 위기로 읽을 수 있다고 주장합니다. 그런 다음 우리는 현재의 생성 모델 붐이 지난 겨울의 단순한 반복을 예고하는 것이 아니라고 주장합니다. 더 가능성 있는 시나리오는 규정 준수 비용, 교육 데이터에 대한 분쟁, 인프라 집중, 정보 조작, 알고리즘 검증 및 증가하는 문서 요구 사항으로 인한 규제 경제적 냉각입니다. 이에",
      "is_new": false
-    },
-    {
-     "id": "oa:W4387210515",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Discovering Utility-Driven Interval Rules",
-     "authors": [
-      "Chunkai Zhang",
-      "Jiarui Deng",
-      "Maohua Lyu",
-      "Wensheng Gan",
-      "Philip S. Yu"
-     ],
-     "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-     "date": "2026-07-17",
-     "abstract": "For artificial intelligence, high-utility sequential rule mining (HUSRM) is a knowledge discovery method that can reveal the associations between events in the sequences. Recently, abundant methods have been proposed to discover high-utility sequential rules. However, the existing methods are all related to point-based sequences. Interval events that persist for some time are common. Traditional interval-event sequence knowledge discovery tasks mainly focus on pattern discovery, but patterns cannot reveal the correlation between interval events well. Moreover, the existing HUSRM algorithms cannot be directly applied to interval-event sequences since the relation in interval-event sequences is much more intricate than that in point-based sequences. In this work, we propose a utility-driven interval rule mining (UIRMiner) algorithm that can extract all utility-driven interval rules (UIRs) from the interval-event sequence database to solve the problem. In UIRMiner, we first introduce a numeric encoding relation representation, which can significantly reduce computation time on relation computation and storage on relation representation. Furthermore, to shrink the search space, we also propose a complement pruning strategy, which incorporates the utility upper bound with the relation. Finally, plentiful experiments implemented on both real-world and synthetic datasets verify that UIRMiner is an effective and efficient algorithm.",
-     "url": "https://doi.org/10.1109/tpami.2026.3714081",
-     "doi": "10.1109/tpami.2026.3714081",
-     "pdf": "https://arxiv.org/pdf/2309.16102",
-     "first_seen": "2026-10-10T10:50:34+09:00",
-     "abstract_ko": "인공지능의 경우 HUSRM(High-Utity Sequential Rule Mining)은 시퀀스에서 이벤트 간의 연관성을 밝힐 수 있는 지식 발견 방법입니다. 최근에는 활용도가 높은 순차 규칙을 발견하기 위한 다양한 방법이 제안되었습니다. 그러나 기존 방법은 모두 포인트 기반 시퀀스와 관련이 있습니다. 일정 시간 동안 지속되는 간격 이벤트가 일반적입니다. 기존의 간격 이벤트 시퀀스 지식 검색 작업은 주로 패턴 검색에 중점을 두지만 패턴은 간격 이벤트 간의 상관 관계를 잘 나타낼 수 없습니다. 더욱이 간격-이벤트 시퀀스의 관계는 포인트 기반 시퀀스의 관계보다 훨씬 복잡하기 때문에 기존 HUSRM 알고리즘을 간격-이벤트 시퀀스에 직접 적용할 수 없습니다. 본 연구에서는 문제를 해결하기 위해 간격 이벤트 시퀀스 데이터베이스에서 모든 유틸리티 기반 간격 규칙(UIR)을 추출할 수 있는 유틸리티 기반 간격 규칙 마이닝(UIRMiner) 알고리즘을 제안합니다. UIRMiner에서는 먼저 관계 계산에 대한 계산 시간과 관계 표현에 대한 저장을 크게 줄일 수 있는 숫자 인코딩 관계 표현을 소개합니다. 또한 검색 공간을 축소하기 위해 관계의 효용 상한을 통합하는 보완 가지치기 전략도 제안합니다. 마지막으로, 실제 데이터세트와 합성 데이터세트 모두에서 구현된 수많은 실험을 통해 UIRMiner가 효과적이고 효율적인 알고리즘이라는 것이 입증되었습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4416043398",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Grad-ECLIP: Gradient-Based Visual and Textual Explanations for CLIP",
-     "authors": [
-      "Chenyang Zhao",
-      "Kun Wang",
-      "Janet H. Hsiao",
-      "Antoni B. Chan"
-     ],
-     "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-     "date": "2026-07-17",
-     "abstract": "Significant progress has been made in the improvement and downstream applications of the Contrastive Language-Image Pre-training (CLIP) vision-language model, while less attention has been paid to the interpretation of CLIP. We propose a Gradient-based visual and textual Explanation method for CLIP (Grad-ECLIP), which interprets the matching result of CLIP for a specific input image-text pair. By decomposing the encoder's architecture and identifying the relationship between matching similarity and intermediate spatial features, Grad-ECLIP generates effective heat maps that reveal the impact of image regions or words on the CLIP results. Unlike previous Transformer interpretation methods that focus on utilizing self-attention maps, which are typically extremely sparse in CLIP, we produce high-quality visual explanations by applying channel and spatial weights to token features. Qualitative and quantitative evaluations verify the effectiveness and superiority of Grad-ECLIP compared with the state-of-the-art methods. Finally, a series of analyses are conducted based on our visual and textual explanation results, from which we explore the working mechanism of image-text matching, the strengths and limitations in attribution identification of CLIP, and the relationship between the concreteness/abstractness of a word and its usage in CLIP.",
-     "url": "https://doi.org/10.1109/tpami.2026.3714444",
-     "doi": "10.1109/tpami.2026.3714444",
-     "pdf": "https://arxiv.org/pdf/2502.18816",
-     "first_seen": "2026-10-10T10:50:34+09:00",
-     "abstract_ko": "CLIP(Contrastive Language-Image Pre-training) 비전 언어 모델의 개선 및 다운스트림 적용에서 상당한 진전이 이루어진 반면, CLIP 해석에 대한 관심은 줄어들었습니다. 우리는 특정 입력 이미지-텍스트 쌍에 대한 CLIP의 일치 결과를 해석하는 Gradient 기반의 CLIP(Grad-ECLIP)에 대한 시각적 및 텍스트 설명 방법을 제안합니다. 인코더의 아키텍처를 분해하고 일치하는 유사성과 중간 공간 특징 간의 관계를 식별함으로써 Grad-ECLIP은 이미지 영역이나 단어가 CLIP 결과에 미치는 영향을 나타내는 효과적인 히트 맵을 생성합니다. CLIP에서는 일반적으로 매우 희박한 self-attention 맵 활용에 중점을 둔 이전 Transformer 해석 방법과 달리 토큰 기능에 채널 및 공간 가중치를 적용하여 고품질의 시각적 설명을 생성합니다. 정성적, 정량적 평가를 통해 최신 방법과 비교하여 Grad-ECLIP의 효율성과 우월성을 검증합니다. 마지막으로 시각적, 텍스트적 설명 결과를 바탕으로 일련의 분석을 수행하여 이미지-텍스트 매칭의 작동 메커니즘, CLIP 속성 식별의 강점과 한계, 단어의 구체성/추상성과 CLIP 사용 간의 관계를 탐색합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7168791726",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Weak Emergence, Ontological Hierarchies, and Computational Equivalence",
-     "authors": [
-      "Vincenzo Ciccarelli"
-     ],
-     "journal": "Minds and Machines",
-     "date": "2026-07-17",
-     "abstract": "Abstract This paper examines the implications of Bedau’s notion of weak emergence when combined with both a hierarchical ontological model and Wolfram’s principle of computational equivalence. I argue that if a system exhibits weak emergence, the very fact of weak emergence of some of its states must itself be a weakly emergent state. Interpreted through Wolfram’s principle of computational equivalence, this implies that a system with weakly emergent states would need to ‘decide’ whether its own dynamical trajectories are incompressible—which contradicts with the formal undecidability of the incompressibility predicate. I term this aporetic conclusion the paradox of weak emergence. After evaluating possible responses, I contend that Bedau’s approach exemplifies what I call the derivational account of metaphysical relations, a framework that I will show to be highly problematic insofar as it implies a mismatch between the intrinsic limitations of formal derivations and the explanatory ambitions of metaphysical notions.",
-     "url": "https://doi.org/10.1007/s11023-026-09794-9",
-     "doi": "10.1007/s11023-026-09794-9",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s11023-026-09794-9.pdf",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "Abstract 이 논문은 계층적 존재론적 모델과 Wolfram의 계산 등가 원리를 결합할 때 Bedau의 약한 창발 개념이 갖는 의미를 조사합니다. 나는 시스템이 약한 창발을 보인다면 그 시스템의 일부 상태가 약하게 창발한다는 사실 그 자체가 약하게 창발하는 상태임에 틀림없다고 주장합니다. Wolfram의 계산 동등성 원리를 통해 해석하면, 이는 약한 창발 상태를 가진 시스템이 자신의 동적 궤적이 비압축성인지 여부를 '결정'해야 함을 의미합니다. 이는 비압축성 술어의 형식적 결정 불가능성과 모순됩니다. 나는 이 아포리아적 결론을 약한 출현의 역설이라고 부른다. 가능한 응답을 평가한 후, 나는 베다우의 접근 방식이 내가 형이상학적 관계에 대한 파생적 설명이라고 부르는 것을 예시한다고 주장하며, 이 틀은 형식 파생의 본질적인 한계와 형이상학적 개념의 설명적 야심 사이의 불일치를 암시하는 한 매우 문제가 있는 것으로 보일 것입니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4407710110",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Enhancing Offline Model-Based RL via Active Model Selection: A Bayesian Optimization Perspective",
-     "authors": [
-      "Yuwei Yang",
-      "Wei Hung",
-      "Yun-Ming Chan",
-      "Xi Liu",
-      "Ping-Chun Hsieh"
-     ],
-     "journal": "Machine Learning",
-     "date": "2026-07-17",
-     "abstract": "Abstract Offline model-based reinforcement learning (MBRL) serves as a competitive framework that can learn well-performing policies solely from pre-collected data with the help of learned dynamics models. To fully unleash the power of offline MBRL, model selection plays a pivotal role in determining the dynamics model utilized for downstream policy learning. However, offline MBRL conventionally relies on validation or off-policy evaluation, which are rather inaccurate due to the inherent distribution shift in offline RL. To tackle this, we propose BOMS, an active model selection framework that enhances model selection in offline MBRL with only a small online interaction budget, through the lens of Bayesian optimization (BO). Specifically, we recast model selection as BO and enable probabilistic inference in BOMS by proposing a novel model-induced kernel, which is theoretically grounded and computationally efficient. Through extensive experiments, we show that BOMS improves over the baseline methods with a small amount of online interaction comparable to only $$1\\%$$ - $$2.5\\%$$ of offline training data on various RL tasks.",
-     "url": "https://doi.org/10.1007/s10994-026-07119-6",
-     "doi": "10.1007/s10994-026-07119-6",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s10994-026-07119-6.pdf",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "오프라인 모델 기반 강화 학습(MBRL)은 학습된 역학 모델의 도움을 받아 사전 수집된 데이터에서만 성과가 좋은 정책을 학습할 수 있는 경쟁력 있는 프레임워크 역할을 합니다. 오프라인 MBRL의 기능을 완전히 활용하기 위해 모델 선택은 다운스트림 정책 학습에 활용되는 역학 모델을 결정하는 데 중추적인 역할을 합니다. 그러나 오프라인 MBRL은 일반적으로 유효성 검사 또는 정책 외 평가에 의존하는데, 이는 오프라인 RL의 고유한 분포 이동으로 인해 다소 부정확합니다. 이 문제를 해결하기 위해 우리는 베이지안 최적화(BO)의 렌즈를 통해 작은 온라인 상호 작용 예산으로 오프라인 MBRL에서 모델 선택을 향상시키는 활성 모델 선택 프레임워크인 BOMS를 제안합니다. 구체적으로, 우리는 모델 선택을 BO로 재구성하고 이론적으로 근거가 있고 계산적으로 효율적인 새로운 모델 유도 커널을 제안함으로써 BOMS에서 확률적 추론을 가능하게 합니다. 광범위한 실험을 통해 우리는 BOMS가 다양한 RL 작업에 대한 오프라인 교육 데이터의 $$1\\%$$ - $$2.5\\%$$에 필적하는 소량의 온라인 상호 작용을 통해 기본 방법보다 향상되었음을 보여줍니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169526033",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Generalization Error Bounds for Multiple-Source Domain Adaptation",
-     "authors": [
-      "Na Chen",
-      "Deliang Zhu",
-      "Yujie Ning",
-      "Jiangtao Peng",
-      "Weiwei Sun"
-     ],
-     "journal": "Machine Learning",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s10994-026-07120-z",
-     "doi": "10.1007/s10994-026-07120-z",
-     "pdf": "",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "is_new": false
     }
    ]
   },
   {
    "key": "e-gov",
    "name": "전자정부·디지털행정",
-   "count": 446,
-   "new_count": 7,
+   "count": 443,
+   "new_count": 11,
    "papers": [
+    {
+     "id": "oa:W7225989748",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "Where health-care AI ethics becomes public: documentation as ethics infrastructure in open-source repositories",
+     "authors": [
+      "George Gheverghese Joseph"
+     ],
+     "journal": "Digital Policy Regulation and Governance",
+     "date": "2026-11-13",
+     "abstract": "Purpose This paper aims to examine how ethical concerns about open-source artificial intelligence (AI) artefacts become publicly sustained and incorporated into documentation, with implications for health-care organisations procuring and governing components they did not build. Design/methodology/approach Comparative case study of four GitHub repositories (January 2020 to January 2025): Fairlearn, AI Fairness 360 (AIF360), Clinical Bidirectional encoder representations from transformers (BERT) and BioBERT. The corpus comprises 450 keyword-retained issue threads and 2,136 within-window comments, analysed through Big Q reflexive thematic analysis, a transparent marker audit and cross-case pattern matching. Findings Fairlearn repeatedly converts data set, terminology, intended-use and metric-interpretation debates into documentation. AIF360 raises comparable data set-provenance and metric-interpretation concerns, but they receive brief or no replies and are rarely carried into linked guidance. The clinical repositories are not silent: model-validity and intended-use concerns appear, including sustained BioBERT discussion, but they are weakly classified and unevenly carried into durable guidance. The pattern is associated with maintenance capacity, contributor pathways, issue classification and cross-channel coordination; the design does not isolate resourcing from topic or repository genre. Practical implications Health-care AI procurement should distinguish an artefact’s ethical labels from the upstream processes that produced them. Provisional audit prompts indicate where ethical reasoning is publicly inspectable; they are not a validated procurement instrument. Originality/value Documentation as ethics infrastructure names the practices through which ethical reasoning becomes durable and publicly inspectable. The translation gap is advanced as a downstream proposition requiring procurement-side testing, rather than as an outcome directly observed in these repositories.",
+     "url": "https://doi.org/10.1108/dprg-08-2026-0623",
+     "doi": "10.1108/dprg-08-2026-0623",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226034946",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "The platform prism: affordance attributions for affective group polarization in China’s public discourse",
+     "authors": [
+      "Shuhang Wang",
+      "邵春霞"
+     ],
+     "journal": "Journal of Information Technology & Politics",
+     "date": "2026-11-13",
+     "abstract": "Digital platform architectures condition affective group polarization in public discourse. Drawing on affordance theory, this article presents a comparative sentiment analysis of user comments across two Chinese media platforms, Weibo and Toutiao, to explore how platforms structurally mediate emotional expressions. The empirical comparison demonstrates that the social, algorithmic, and regulatory affordances of the platforms interact with users’ imagined affordances to scale individual negativity bias into affective group polarization, generating a differentiated content environment. This dynamic is conceptualized as an affordance-mediated prism refraction effect, theorizing how socio-technical infrastructure redirects public sentiment trajectories. To mitigate such emotional escalation, it is imperative to reassert platforms’ gatekeeping responsibilities through upgrading technological architectures, establishing algorithmic transparency systems, and constructing effective penalization frameworks.",
+     "url": "https://doi.org/10.1080/19331681.2026.2762956",
+     "doi": "10.1080/19331681.2026.2762956",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226035674",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "Digital maturity and digital rehabilitation in prisons: organizational conditions for inclusion and reintegration",
+     "authors": [
+      "Victoria Knight",
+      "Bianca Christin Reisdorf",
+      "Steven Van De Steene"
+     ],
+     "journal": "Information Communication & Society",
+     "date": "2026-11-13",
+     "abstract": "In an era of compulsory computing, incarceration produces acute forms of digital exclusion, limiting access to the technologies and skills increasingly required for participation in contemporary society. Digital rehabilitation has emerged as a response to this challenge by integrating digital access, skills development, and digital participation into correctional practice. However, the successful implementation of digital rehabilitation depends on both technology provision and broader organizational conditions. Drawing on Reisdorf and Rikard's (2018) Digital Rehabilitation Model and Knight et al.'s (2023) Digital Maturity framework, this paper examines how digital rehabilitation is implemented in highly digitally mature correctional systems and identifies the conditions that enable its development and sustainability. Using qualitative case studies from Southeast Asia, Western/Northern Europe, and Oceania, we analyze explicit digital rehabilitation interventions alongside the structural conditions that support them. Findings indicate that digital rehabilitation is most effective when supported by strategic leadership and governance, organizational capacity, collaborative partnerships and participation, and learning, evaluation, and adaptation. Although the three jurisdictions followed different pathways to digital transformation, all demonstrated strong alignment between rehabilitation goals and broader digital strategies. The findings also suggest that digitally mature prison systems are shaped by wider political and institutional environments, including national digital priorities, cross-sector coordination, and institutional capacity. We argue that digital maturity should be understood as an institutional capability that enables digital rehabilitation to become embedded within correctional practice. Where these conditions are present, digital rehabilitation has the potential to support digital inclusion, capability-building, reintegration, and broader public value outcomes.",
+     "url": "https://doi.org/10.1080/1369118x.2026.2756274",
+     "doi": "10.1080/1369118x.2026.2756274",
+     "pdf": "",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7226037219",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "Understanding user agency and structural conditions in information system implementation: a study in industrial maintenance",
+     "authors": [
+      "Heini Ikävalko",
+      "Miia Maarit Martinsuo",
+      "Elviira Saarelma"
+     ],
+     "journal": "Information Technology and People",
+     "date": "2026-11-13",
+     "abstract": "Purpose Users within the same organization may enact the same digital information system differently, creating diverse requirements and challenges for implementation. It is essential to view information system implementation as a process shaped by individuals' capacity to act within organizational structures, that is, through their agency. This study explores the manifestation of user agency and its associated structural conditions in information system implementation. Design/methodology/approach We examined users' experiences of information system implementation in two industrial companies' maintenance operations, through an interpretive qualitative study based on semi-structured interviews. Findings The study identifies four types of agency, namely eligible, estranged, skilled and motivated, and shows ways in which structural conditions of work design, social relationships and practices and situated individual resources in information system users' work both enable and hinder user's capacity to act during information system implementation. Practical implications The identified agency types can help managers in tailoring information system implementation support. Acknowledging work design, collaborative practices and situated resources enhances users' capacity to act with the new system. Originality/value This study contributes by introducing a typology of user agency in information system implementation: it provides a fine-grained lens to explain why users facing the same information system enact it differently and extends enactment-oriented information system research on human agency. Showing how agency is conditioned by work design, social relationships and practices and situated individual resources in users' unique work conditions, it addresses agency as part of the social and structural dynamics of information system implementation.",
+     "url": "https://doi.org/10.1108/itp-03-2026-0463",
+     "doi": "10.1108/itp-03-2026-0463",
+     "pdf": "https://doi.org/10.1108/itp-03-2026-0463",
+     "first_seen": "2026-11-15T11:01:27+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7225865121",
      "topic": "e-gov",
@@ -77759,10 +77573,10 @@
      ],
      "journal": "Information Communication & Society",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "As the population age and services become digitalised, families are taking on new, often invisible, forms of work. This article examines ‘digital help’, i.e., the assistance adult children provide to older parents in navigating digitally mediated services and everyday technologies in Norway – a highly digitalised welfare state where most public and private services are digital-by-default. Drawing on semi-structured interviews (n = 34) with employed adult children holding caregiving responsibilities, we ask: What kinds of digital help do adult children provide for their parents, and what consequences of digitalisation do they experience, both in their parents’ lives and in their own care practices? Theoretically, we introduce and explore the concept of a fourth shift, extending on Arlie Hochschild’s shift-terminology employed in work-family studies, to conceptualise the administration and digital help that adult children in employment provide for their older parents and expand studies of care and work life in light of an ageing population. Empirically, we show how digitalisation paradoxically adds to family care by redistributing cognitive and coordination work onto kin, producing new responsibilities and time pressure. By identifying digital help as a distinct form of unpaid labour, the article reframes how digitalised service provision reshapes care infrastructure and intergenerational obligations.",
      "url": "https://doi.org/10.1080/1369118x.2026.2760283",
      "doi": "10.1080/1369118x.2026.2760283",
-     "pdf": "https://doi.org/10.1080/1369118x.2026.2760283",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2026.2760283?needAccess=true",
      "first_seen": "2026-11-14T11:34:25+09:00",
      "is_new": true
     },
@@ -77778,7 +77592,7 @@
      ],
      "journal": "Journal of Information Technology & Politics",
      "date": "2026-11-12",
-     "abstract": "",
+     "abstract": "Artificial intelligence (AI) can intensify disinformation and support verification, creating a governance problem of institutional coupling: how distributed civic and technical signals translate into democratic response. This study combines a reconstructed 2019–2025 literature corpus (N = 211) with a source-verified Taiwan evidence synthesis. Bibliometric mapping identifies intersections among AI, disinformation, media, deepfakes, democracy, governance, platforms, and trust. Taiwan evidence most strongly supports sensing and verification, partially supports translation/escalation and response/accountability, and does not directly establish longitudinal adaptation. We therefore develop a Taiwan-informed bottleneck framework in which democratic resilience depends on verification crossing translation, authority/accountability, and learning interfaces.",
      "url": "https://doi.org/10.1080/19331681.2026.2761403",
      "doi": "10.1080/19331681.2026.2761403",
      "pdf": "",
@@ -86234,140 +86048,6 @@
      "abstract": "",
      "url": "https://doi.org/10.1016/j.telpol.2026.103287",
      "doi": "10.1016/j.telpol.2026.103287",
-     "pdf": "",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7168465737",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Mapping Workforce Reskilling Urgency in the Age of AI: Occupational and Geographic Patterns across the United States",
-     "authors": [
-      "Waris Ahmed Faizi",
-      "Dayoung Kim",
-      "Can Dogan",
-      "Sohyun Park",
-      "Junghwan Kim"
-     ],
-     "journal": "Telematics and Informatics",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1016/j.tele.2026.102445",
-     "doi": "10.1016/j.tele.2026.102445",
-     "pdf": "",
-     "first_seen": "2026-10-01T10:05:44+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7168799844",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Media’s embrace of technology: How media portrays the use of autonomous taxis and its impact on individuals’ adoption intentions",
-     "authors": [
-      "Ruoheng Liu",
-      "Yi‐Hui Christine Huang",
-      "爽 高",
-      "Bo Chang"
-     ],
-     "journal": "Telematics and Informatics",
-     "date": "2026-07-17",
-     "abstract": "The rapid emergence of autonomous taxis has generated both enthusiasm and concern, with media discourse playing a central role in shaping public perceptions of this novel technology. While prior research on technology adoption has primarily emphasized positive functional evaluations, less attention has been paid to how media shape negative risk-based judgments. Addressing this gap, this study proposes a dual-valence evaluative framework that conceptualizes adoption intentions as the joint outcome of positive functional evaluations and negative risk perceptions. Drawing on a survey conducted in Wuhan, China (N = 1163), the study shows that media exposure is associated with adoption intentions indirectly through asymmetric evaluative pathways. Media exposure strengthens perceptions of usefulness and ease of use, which remain the dominant drivers of adoption. At the same time, media exposure attenuates affective risk perceptions, thereby weakening their inhibitory effect on adoption, while cognitive risk perceptions remain largely unaffected. These findings suggest that media influence does not operate uniformly across evaluative dimensions. To contextualize this framework, a large-scale content analysis of Chinese news coverage on autonomous taxis (N = 22,380) reveals that media discourse overwhelmingly embraces the technology, privileging optimistic narratives of technological progress and market potential while devoting limited attention to safety and risk. Together, the findings point to a media-driven evaluative asymmetry in which a predominantly positive media environment may reinforce functional beliefs and reduce affective risk responses surrounding novel technologies.",
-     "url": "https://doi.org/10.1016/j.tele.2026.102435",
-     "doi": "10.1016/j.tele.2026.102435",
-     "pdf": "https://doi.org/10.1016/j.tele.2026.102435",
-     "first_seen": "2026-10-01T10:05:44+09:00",
-     "abstract_ko": "자율주행 택시의 급속한 출현은 열정과 관심을 불러일으켰으며, 미디어 담론은 이 새로운 기술에 대한 대중의 인식을 형성하는 데 중심적인 역할을 했습니다. 기술 채택에 대한 이전 연구에서는 주로 긍정적인 기능 평가를 강조한 반면, 미디어가 어떻게 부정적인 위험 기반 판단을 형성하는지에 대해서는 관심을 덜 기울였습니다. 이러한 격차를 해결하기 위해 본 연구는 채택 의도를 긍정적인 기능 평가와 부정적인 위험 인식의 공동 결과로 개념화하는 이중 원자가 평가 프레임워크를 제안합니다. 중국 우한에서 실시된 설문 조사(N = 1163)를 바탕으로 이 연구는 미디어 노출이 비대칭 평가 경로를 통해 간접적으로 입양 의도와 연관되어 있음을 보여줍니다. 미디어 노출은 유용성과 사용 용이성에 대한 인식을 강화하며, 이는 채택의 지배적인 동인으로 남아 있습니다. 동시에 미디어 노출은 정서적 위험 인식을 약화시켜 입양에 대한 억제 효과를 약화시키는 반면, 인지적 위험 인식은 크게 영향을 받지 않습니다. 이러한 결과는 미디어 영향력이 평가 차원 전반에 걸쳐 균일하게 작동하지 않는다는 것을 시사합니다. 이 프레임워크를 맥락화하기 위해 자율주행 택시(N = 22,380)에 대한 중국 뉴스 보도에 대한 대규모 콘텐츠 분석은 미디어 담론이 기술을 압도적으로 포용하고 기술 진보와 시장 잠재력에 대한 낙관적인 서술을 우선시하는 동시에 안전과 위험에 제한된 관심을 기울이는 것으로 나타났습니다. 함께 찾아요",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169545311",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Enhancing information security governance in digital government: a steganographic traceability framework for document-level accountability",
-     "authors": [
-      "Ömer Çağrı Yavuz"
-     ],
-     "journal": "Digital Policy Regulation and Governance",
-     "date": "2026-07-17",
-     "abstract": "Purpose This study aims to present a policy-aligned steganographic traceability framework for public-sector information governance, enabling document-level accountability through format-independent watermarking integrated into existing institutional structures. Design/methodology/approach The framework integrates General Deterrence Theory, ISO/IEC 27001 and the NIST Insider Threat Framework with a three-layer architecture (governance, integration and embedding). Fast Fourier transform phase-modulation watermarking treats files as one-dimensional signals, encoding identity via a 96-bit payload composed of a 32-bit user-id hash, a 32-bit timestamp and a 32-bit document-id hash. Imperceptibility was tested on PDF, DOCX, CSV and TXT; robustness was evaluated under noise, compression, format conversion, XOR masking, tail cropping and block reordering. Findings Imperceptibility tests yielded NC = 1.000 (SNR 18.4–27.4 dB) across all four formats. Watermarks remained intact under 1%–5% noise, format conversion, compression and XOR 0x5A on DOCX-XML and TXT but failed under tail cropping (=10%) and block reordering. CSV showed format-specific brittleness under XOR. Multi-user identity recovery achieved zero collision across five distinct user payloads. Research limitations/implications The evaluation is based on controlled simulations rather than actual field deployments. Therefore, longitudinal pilot studies and cross-jurisdictional research are necessary. Practical implications A five-level adoption maturity model and a stakeholder matrix, encompassing ministries, chief information security officer offices, legal and ethics units and national cyber-incident authorities, provide policymakers with a concrete implementation roadmap. Social implications Document-level accountability enhances citizen trust, supports proportional whistle-blower protection and aligns practices with rule-of-law imperatives. Originality/value This study conceptualises steganographic watermarking as a governance tool rather than merely a technical artefact, thereby integrating individuals, processes and policies within the framework of public-sector information governance.",
-     "url": "https://doi.org/10.1108/dprg-05-2026-0264",
-     "doi": "10.1108/dprg-05-2026-0264",
-     "pdf": "",
-     "first_seen": "2026-10-01T10:05:44+09:00",
-     "abstract_ko": "목적 본 연구의 목표는 공공 부문 정보 거버넌스를 위한 정책에 맞춰진 스테가노그래픽 추적성 프레임워크를 제시하여 기존 제도 구조에 통합된 형식 독립적인 워터마킹을 통해 문서 수준 책임성을 가능하게 하는 것입니다. 설계/방법론/접근 방식 이 프레임워크는 일반 억제 이론, ISO/IEC 27001 및 NIST 내부자 위협 프레임워크를 3계층 아키텍처(거버넌스, 통합 및 내장)와 통합합니다. 고속 푸리에 변환 위상 변조 워터마킹은 파일을 1차원 신호로 처리하여 32비트 사용자 ID 해시, 32비트 타임스탬프 및 32비트 문서 ID 해시로 구성된 96비트 페이로드를 통해 ID를 인코딩합니다. 비가시성은 PDF, DOCX, CSV 및 TXT에서 테스트되었습니다. 견고성은 노이즈, 압축, 형식 변환, XOR 마스킹, 꼬리 자르기 및 블록 재정렬을 통해 평가되었습니다. 결과 비감지성 테스트 결과 네 가지 형식 모두에서 NC = 1.000(SNR 18.4~27.4dB)이 나왔습니다. DOCX-XML 및 TXT의 1%-5% 노이즈, 형식 변환, 압축 및 XOR 0x5A에서는 워터마크가 그대로 유지되었지만 꼬리 자르기(=10%) 및 블록 재정렬에서는 실패했습니다. CSV는 XOR에서 형식별 취약성을 보여주었습니다. 다중 사용자 ID 복구를 통해 5개의 개별 사용자 페이로드에서 충돌이 발생하지 않았습니다. 연구 제한사항/의미 평가는 실제 현장 배포보다는 제어된 시뮬레이션을 기반으로 합니다. 따라서 종단적 파일럿 연구와 관할권 간 연구가 필요하다. 실제적 의미 A fiv",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169618962",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Media effects, selection effects, or no effects? A longitudinal analysis of the relationship between media use and misperceptions",
-     "authors": [
-      "Elena Broda"
-     ],
-     "journal": "Information Communication & Society",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1080/1369118x.2026.2681885",
-     "doi": "10.1080/1369118x.2026.2681885",
-     "pdf": "https://doi.org/10.1080/1369118x.2026.2681885",
-     "first_seen": "2026-10-01T10:05:44+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169680057",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Overconfident youth, underconfident elders: Age differences in algorithmic knowledge confidence and information perceptions",
-     "authors": [
-      "Myojung Chung"
-     ],
-     "journal": "New Media & Society",
-     "date": "2026-07-17",
-     "abstract": "Age-related differences in algorithmic knowledge are typically interpreted as competence gaps that render younger “digital natives” better equipped and older users more vulnerable in algorithmically curated environments. This study challenges these assumptions by examining (a) algorithmic knowledge confidence—whether users’ subjective algorithmic knowledge exceeds or falls short of their algorithmic awareness and knowledge—and (b) what consequences such misalignment has for information environment perceptions. Using US survey data ( N = 1205), this study found systematic misalignment between subjective and awareness-based algorithmic knowledge: younger users overestimate their understanding, whereas older users underestimate theirs. Social media use partially mediated the age–knowledge confidence relationship. Knowledge confidence, in turn, predicted perceived information reliability and diversity. These findings reveal that critical assessment of information environment is determined not by knowledge level alone but by alignment between subjective and awareness-based knowledge, highlighting the need for age-tailored interventions addressing knowledge overconfidence and underconfidence.",
-     "url": "https://doi.org/10.1177/14614448261459666",
-     "doi": "10.1177/14614448261459666",
-     "pdf": "https://doi.org/10.1177/14614448261459666",
-     "first_seen": "2026-10-01T10:05:44+09:00",
-     "abstract_ko": "알고리즘 지식의 연령 관련 차이는 일반적으로 젊은 \"디지털 네이티브\"를 더 잘 갖추고 나이가 많은 사용자를 알고리즘으로 선별된 환경에서 더 취약하게 만드는 역량 격차로 해석됩니다. 본 연구에서는 (a) 알고리즘 지식 신뢰도(사용자의 주관적인 알고리즘 지식이 알고리즘 인식 및 지식을 초과하는지 또는 부족한지 여부)와 (b) 이러한 불일치가 정보 환경 인식에 어떤 영향을 미치는지 조사하여 이러한 가정에 도전합니다. 미국 설문 조사 데이터(N = 1205)를 사용하여 이 연구에서는 주관적 지식과 인식 기반 알고리즘 지식 사이의 체계적인 불일치를 발견했습니다. 젊은 사용자는 자신의 이해를 과대평가하는 반면, 나이가 많은 사용자는 자신의 이해를 과소평가합니다. 소셜 미디어 사용은 연령-지식 신뢰 관계를 부분적으로 매개했습니다. 지식 신뢰도는 인지된 정보의 신뢰성과 다양성을 예측했습니다. 이러한 연구 결과는 정보 환경에 대한 비판적 평가가 지식 수준만으로 결정되는 것이 아니라 주관적 지식과 인식 기반 지식 간의 정렬에 의해 결정된다는 것을 보여 주며, 지식 과신과 불신을 다루는 연령 맞춤형 개입의 필요성을 강조합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169516899",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "A comparative and integrative mapping of thematic trajectories, the digital turn, and future research frontiers in telecommunications policy",
-     "authors": [
-      "Menglan Luo",
-      "Yong Jiang",
-      "Yi‐Shuai Ren"
-     ],
-     "journal": "Telecommunications Policy",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1016/j.telpol.2026.103285",
-     "doi": "10.1016/j.telpol.2026.103285",
-     "pdf": "",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169533081",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Citizens' perspectives on administrative burden in digital government services",
-     "authors": [
-      "Battulga Buyannemekh",
-      "Dolores E. Luna",
-      "Sergio Picazo-Vela",
-      "Luis F. Luna‐Reyes"
-     ],
-     "journal": "Government Information Quarterly",
-     "date": "2026-07-17",
-     "abstract": "",
-     "url": "https://doi.org/10.1016/j.giq.2026.102165",
-     "doi": "10.1016/j.giq.2026.102165",
      "pdf": "",
      "first_seen": "2026-08-20T07:46:21+09:00",
      "is_new": false
