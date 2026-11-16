@@ -1,15 +1,65 @@
 {
- "generated_at": "2026-11-15T11:01:27+09:00",
- "generated_at_display": "2026-11-15 11:01 KST",
+ "generated_at": "2026-11-16T11:18:15+09:00",
+ "generated_at_display": "2026-11-16 11:18 KST",
  "dashboard": "https://changwoong-moon.github.io/research-paper-alert/",
  "kci_status": "정상 — PC 수집 267건 (2026-11-11 09:30)",
  "topics": [
   {
    "key": "public-admin",
    "name": "행정학 연구동향",
-   "count": 1315,
-   "new_count": 27,
+   "count": 1317,
+   "new_count": 24,
    "papers": [
+    {
+     "id": "oa:W7226643838",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Mobility-based transnational healthcare-seeking among resource-enabled older Hong Kong immigrants in Australia and Canada",
+     "authors": [
+      "Lucille Lok-Sun Ngan",
+      "Kit Wa Anita 陳潔華 Chan"
+     ],
+     "journal": "Journal of Asian Public Policy",
+     "date": "2026-11-13",
+     "abstract": "Research on older immigrants’ healthcare often overlooks transnational care, while transnationalism scholarship rarely examines why older immigrants mobilize cross-border ties for healthcare in their places of origin. Based on in-depth interviews with 24 predominantly female, able-bodied and resource-enabled Hong Kong immigrants aged 60+ in Australia and Canada, this study examines what shapes transnational health‑care seeking. We show that practical feasibility acts as a necessary precondition; once this practical feasibility threshold is met, economic, cultural/affective, social and moral–legal factors interactively shape such healthcare practices. Dissatisfaction with host-country systems – specifically limited alternative care, specialist waiting times and language barriers – drives informants to seek trusted, timely and Cantonese-compatible services in Hong Kong. These transnational practices are facilitated by public elderly benefits, family and social networks and a sense of entitlement grounded in dual nationality. Bridging transnationalism and ageing research, this study that distinguishes practical feasibility as a threshold condition from the economic, cultural/affective, social and moral-legal factors shaping transnational health‑care seeking in later life, while offering policy insights to improve health‑care access for ageing immigrant populations in Canada and Australia.",
+     "url": "https://doi.org/10.1080/17516234.2026.2763005",
+     "doi": "10.1080/17516234.2026.2763005",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7228050378",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Excellence in Refereeing Award Announcement",
+     "authors": [],
+     "journal": "Journal of Policy Analysis and Management",
+     "date": "2026-11-13",
+     "abstract": "",
+     "url": "https://doi.org/10.1002/pam.70142",
+     "doi": "10.1002/pam.70142",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7233030681",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Smart Cities, Slow Institutions: Implementation Gaps in India’s Smart Cities Mission—A Case Study of Sub-national Urban Governance",
+     "authors": [
+      "Ishaan Arora"
+     ],
+     "journal": "Indian Journal of Public Administration",
+     "date": "2026-11-13",
+     "abstract": "India’s Smart Cities Mission (SCM), launched in June 2015 to upgrade governance and infrastructure in 100 cities through technology-enabled, citizen-centric planning, formally concluded on 31 March 2025. Its record is uneven: Cities completed about 93% of the 8,063 projects undertaken, yet the institutional architecture meant to sustain these gains—collaborative governance between elected municipal bodies and special-purpose vehicles (SPVs), predictable inter-governmental financing and genuine citizen participation—lagged behind the physical infrastructure. Using a qualitative case-study method and secondary documentary evidence, this article traces three bottlenecks: fragmented authority between SPVs and urban local bodies; fiscal federalism frictions between central ambition and state/municipal capacity; and a participation deficit in which technology substituted for citizen voice. Evidence from Ahmedabad, Bhubaneswar and Dharamshala shows how SPVs and integrated command and control centres worked in a large corporation, a mid-sized state capital and a small hill town, and that delivery was most complete where municipal capacity was strongest. The Mission treated urban transformation as a project-management rather than an institutional task. The article concludes with fiscal, systemic and institutional reforms, with feedback for AMRUT 2.0 and the Urban Challenge Fund.",
+     "url": "https://doi.org/10.1177/00195561261503741",
+     "doi": "10.1177/00195561261503741",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7225987503",
      "topic": "public-admin",
@@ -24,7 +74,7 @@
      "abstract": "ABSTRACT The main objective is to analyze the variation in the resonance and echo of outrage narratives within agenda setting, consensus building, and policy institutionalization in Argentina, Brazil, the United States, and El Salvador 2017–2025. The article employs a mixed‐methods design grounded in the Narrative Policy Framework. This methodology combines qualitative content analysis—to identify narrative structure and strategy—with quantitative content analysis that codes resonance (the alignment of narrative structure with core beliefs) and echo (the propagation and polarization based on the frequency of narrative strategies in the analyzed speeches) on an ordinal scale. The main findings indicate that while these narratives are initially effective in mobilizing support and shifting the policy agenda, they tend to exacerbate polarization and hinder the construction of sustainable consensus, ultimately affecting the institutionalization of public policies.",
      "url": "https://doi.org/10.1111/lamp.70086",
      "doi": "10.1111/lamp.70086",
-     "pdf": "",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/lamp.70086",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -59,7 +109,7 @@
      "abstract": "ABSTRACT The Advocacy Coalition Framework assigns a structural role to time in explaining policy change, arguing that major transformations unfold over a decade or more. This article questions that premise in contexts of cultural heterogeneity and ontological plurality, where actors may hold divergent conceptions of the future. Drawing on critical and decolonial perspectives, it reorganizes the Future Temporalities Coalitions Framework from previous research. To propose a re‐specification of the Advocacy Coalition Framework's temporal architecture for Latin America, a qualitative comparative reinterpretation of three published studies on Access and Benefit‐Sharing policies in Colombia, Brazil, and Peru is conducted. Two studies apply the Advocacy Coalition Framework, and one employs a hybrid version incorporating future temporalities. The analysis shows that the Advocacy Coalition Framework explains coalition stability and policy change when actors share similar temporal assumptions. Tensions emerge when global regulatory regimes interact with local ontologies that conceptualize time differently. Reinterpreting deep core beliefs as carriers of temporal ontologies expands the framework's analytical capacity. By integrating temporal plurality as a dimension of conflict, the Future Temporalities Coalitions Framework enhances contextual sensitivity and extends the Advocacy Coalition Framework's applicability to transnational governance settings.",
      "url": "https://doi.org/10.1111/lamp.70081",
      "doi": "10.1111/lamp.70081",
-     "pdf": "",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/lamp.70081",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -129,7 +179,7 @@
      "abstract": "ABSTRACT Academic studies of the policy process are heavily dominated by theoretical frameworks developed in the Global North, creating a fundamental mismatch when applied to non‐Western contexts. This article addresses a critical research question, how must universal policy process theories be adapted to accurately analyze the distinct political, social, and institutional realities of Latin America? Utilizing a context‐sensitive literature‐review approach, this study evaluates previous regional scholarship by filtering its findings through the lens of Cairney and Heikkila's six systemic elements: actors, institutions, networks, ideas, context, and events. The findings reveal that Latin American policymaking operates under profound structural asymmetries, including hyper‐presidential architectures paired with institutional weakness, high informality, severe socioeconomic inequality, and a “hierarchical capitalism” dominated by family conglomerates. Rather than treating these features as mere background conditions, the article articulates how they function as analytical mechanisms that systematically reconfigure policy formulation and implementation. As its primary contribution, the article offers a theoretical framework that disentangles regional policy dynamics into three analytical categories: trans‐contextual mechanisms, mechanisms requiring contextual specification, and explanatory boundary limits. Furthermore, to advance situated policy studies, it conceptualizes five analytical fallacies that scholars must explicitly avoid: epistemological neutrality, convergence, transplantation, institutional determinism, and the Aristotelian fallacy of division. This framework moves beyond treating Latin American features as mere “deviant cases,” offering a more plural and rigorous theoretical dialog between Northern paradigms and Global South realities.",
      "url": "https://doi.org/10.1111/lamp.70078",
      "doi": "10.1111/lamp.70078",
-     "pdf": "",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/lamp.70078",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -421,7 +471,7 @@
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.70120",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "개요 부모가 되면서 가구의 우선순위, 시간 범위 및 공공 기관에 대한 노출이 바뀌지만 정치적 신뢰에 대한 결과는 여전히 불확실합니다. 시차차이차설계를 활용한 본 연구에서는 첫 출산 이후 지방공무원에 대한 신뢰도가 높아지는 것으로 나타났다. 사건 연구 테스트에서는 차등적 사전 추세에 대한 증거가 발견되지 않았으며 대체 클러스터링, 누적 DID 추정기, 임신 기반 치료 시기, 위약 테스트, 지역별 충격 및 추세 제어와 같은 견고성 테스트에서 결과가 안정적으로 유지되었습니다. 그 증가는 청렴성이나 사회보장 문제를 더 심각하게 인식하는 응답자 사이에서는 적었고, 남성 사이에서는 더 높았으며, 자녀가 건강 보험에 가입했거나 다른 가족 구성원이 높은 신뢰를 보고한 경우에는 더 높았습니다. 성별 패턴은 첫 출산이 여성의 고용 확률을 감소시키지만 남성의 경우는 감소시키지 않는다는 증거와 일치합니다. 이러한 연구 결과는 부모가 되는 것이 제도적 태도에 대한 결과적인 생애 과정의 사건임을 강조하고 정치적 신뢰의 관련 변화가 대중 지원의 인지된 질과 가시성에 따라 달라진다는 것을 보여줍니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225737454",
@@ -439,7 +489,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "영향 이 기사는 더 넓은 문화적 맥락에서 NPM(신공공관리)의 끈기를 설명합니다. 관계형 접근 방식을 내장하려면 새로운 관리 모델을 구현하는 것 이상의 것이 필요하다고 주장합니다. 가치 있고 타당하다고 여겨지는 것에 대한 뿌리 깊은 변화가 필요합니다. 즉, 맥락, 직접적인 경험, 인간의 판단에 더 많은 비중을 두는 것입니다. 하향식 계획, 절차, 지표와 같은 추상화는 귀중한 도구이지만 현재처럼 지배적이지는 않습니다. 실제로 이를 수행한다는 것은 모델과 데이터의 추상적 세계와 불확실성, 모순, 복잡성이 있는 지저분한 실제 경험 세계 사이를 탐색할 수 있는 '이중 언어'를 갖춘 공공 부문 리더를 채용하고 훈련하는 것을 의미합니다. 결정적으로 이는 모델과 지표보다는 관계, 직접적인 경험, 인간의 판단을 운전석에 두는 것을 의미합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225759793",
@@ -459,7 +509,7 @@
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pad.70138",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "개요 환경 정책 결과에 대한 정책 역량의 영향에 대한 경험적 증거는 개발도상국에서 여전히 제한적입니다. 본 연구는 조직 및 시스템 수준에서 정책 역량 개발 및 동원과 관련된 거버넌스 및 제도적 조건을 포착하는 세계 거버넌스 지표를 사용하여 거버넌스 기반 정책 역량 측정을 제안함으로써 이러한 격차를 해결합니다. 거버넌스 기반 정책 역량이 환경 정책 결과에 미치는 영향은 1996년부터 2022년까지 114개 개발도상국 패널을 대상으로 분석되었습니다. 실증적 결과는 패널 수정 표준 오류(PCSE)를 사용한 고정 효과 모델을 사용하여 추정된 환경 정책 결과에 대한 거버넌스 기반 정책 역량이 상당히 부정적인 영향을 미친다는 것을 보여줍니다. 환경 건강, 생태계 활력, 기후 변화를 포함하는 환경 정책 결과 지수와 거버넌스 기반 분석, 운영 및 정치적 역량으로 구성되는 거버넌스 기반 정책 역량 지수의 하위 차원에서 음의 관계가 일관됩니다. 결과는 경제적, 정치적 이익이 환경 보호보다 우선시될 때 강력한 거버넌스 정책 역량이 취약한 환경 결과와 공존할 수 있다는 새로운 주장을 뒷받침합니다. 천연자원 임대료, 시민권, 심의 민주주의의 질에 대한 상호작용 분석은 이러한 주장을 뒷받침합니다. 더욱 레브입니다",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225760164",
@@ -480,7 +530,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "본 연구에서는 한국의 현금 기반 생계급여가 저소득 가구의 식품 관련 지출과 연관되어 있는지 조사하고, 이러한 지출을 식생활의 질, 영양적 적절성, 칼로리 적절성, 식이 다양성 또는 가구의 식량 불안 경험에 대한 직접적인 척도가 아닌 식량 안보와 관련된 경제적 접근 지표로 취급합니다. 현금이전은 한국 전체 농식품 지원의 76.8%를 차지하는데, 이는 현금 중심의 지원 구조가 식품별 지출 반응을 낳는지에 대한 정책적 의문을 제기한다. 본 연구는 2024년 실시된 제19차 한국복지패널연구(KoWePS)의 단면 데이터를 활용하여 식품, 식료품, 외식, 비식품 지출에 대한 소득탄력성과 한계소비성향(MPC)을 추정하고, 조정총소득과 생계급여에 대한 반응을 비교합니다. 결과에 따르면 생계 혜택은 높은 식품 지출과 크게 관련이 없는 반면 비식품 MPC는 상당히 높습니다. 식비 지출을 세분화하면 식료품 MPC는 큰 차이가 없는 반면, 생계 혜택에 대한 외식 MPC는 크게 낮습니다. 이러한 연구 결과는 현금 기반 생계 혜택이 특정 식품 지출 도구보다 유연한 일반 복지 도구로 더 많이 기능한다는 것을 시사합니다. 이 연구에서는 실증적 테스트가 필요한 정책 옵션으로 식품 바우처 또는 하이브리드 모델을 논의합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225692810",
@@ -501,7 +551,7 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/12294659.2026.2753305?needAccess=true",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "동티모르는 최근 분쟁을 겪은 작은 개발도상국입니다. 디지털 혁신은 정부 서비스 제공의 여러 문제를 해결하고 건강, 교육, 은행을 포함한 광범위한 부문 이니셔티브를 지원할 수 있는 기회를 제공합니다. 그러나 인적 자본, 문화, 인프라, 교육, 입법 및 거버넌스 등 광범위한 장애물이 있습니다. 이러한 취약한 시작에도 불구하고 동티모르의 디지털 혁신은 지역적으로 개발된 디지털 시스템, 디지털 결제, AI 및 IoT 지원 서비스, 커뮤니티 기반 역량 이니셔티브 등 수많은 성공을 거두며 고르지 못하더라도 꾸준하게 진행되고 있습니다. 이번 연구 결과는 인적 자본, 신뢰, 인프라, 거버넌스, 위험도가 낮고 가치가 높은 디지털 서비스를 점진적으로 개발하는 점진적인 '부트스트래핑' 접근 방식을 뒷받침합니다. 동티모르의 경험은 소규모의 자원 제약이 심한 다른 행정부에 시사점을 제공할 수 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225729986",
@@ -519,7 +569,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "조언을 제공하는 것은 일반적으로 직원들이 직장 스트레스에 대처하기 위해 서로를 지원하는 방법으로 이해됩니다. 그러나 스트레스가 많은 업무에 대해 다른 사람에게 조언을 요청하면 조언자가 스스로 해결하지 못한 요구 사항을 고려하게 될 수도 있습니다. 직무 요구-자원 이론을 바탕으로 이 연구는 조언 요청이 공무원의 인지된 탄력성에 어떻게 영향을 미치는지 조사합니다. 공무원을 대상으로 한 무작위 대조 시험에서 참가자들은 직장 스트레스에 대한 조언을 제공하도록 요청 받았습니다. 조언을 제공한 사람들은 통제 그룹에 비해 탄력성이 낮다고 보고했습니다. 이 결과는 조언 요청이 조언자의 인지된 탄력성에 즉각적인 영향을 미칠 수 있음을 시사합니다. 이 연구는 조언을 제공하면 일반적으로 동료 지원 및 교환과 관련된 혜택과 다른 결과가 조언자에게 나타날 수 있음을 보여줌으로써 직원 지원에 대한 연구를 확장합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225612919",
@@ -25341,35 +25391,33 @@
      "first_seen": "2026-08-09T01:35:52+09:00",
      "abstract_ko": "개요 이 논문은 관료적 리더십이 모니터링하기 어려운 작업인 공립학교 학습의 서비스 제공 품질에 영향을 미치는지 테스트합니다. 인도 시골의 경험적 사례를 사용하여 동일한 공간 단위인 지구에 대해 시간 집약적인 설득에 참여할 수 있는 더 많은 권한이나 더 많은 능력을 가진 두 가지 유형의 관료로 구성된 행정 체제를 활용합니다. 10년 동안 가구 조사에서 얻은 독립적 학습 데이터와 연결된 관료적 게시물에 대한 차단된 무작위 추론 및 편향 보정 분산 분해를 활용하면 권한은 적지만 설득에 참여할 수 있는 능력이 더 많은 관료만이 학습에 영향을 미치는 것으로 나타났습니다. 새로운 인터뷰 데이터를 바탕으로 관료적 지도자가 주인-대리인 프레임워크에서 제안하는 것처럼 명령과 모니터링에 의존하기보다는 집단 행동 문제를 극복하기 위해 설득을 통해 부하 직원의 노력 수준을 높일 수 있는 방법을 보여줍니다. 연구 결과는 모니터링하기 어려운 작업의 경우 관리 강도와 지속성이 공식적인 권한보다 우선한다는 것을 보여줍니다.",
      "is_new": false
-    },
-    {
-     "id": "oa:W7169655061",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Food Industry Engineering Is Less Important Than Access to Gut Microbiota‐Accessible Foods for Preventing Chronic Disease",
-     "authors": [
-      "William J. McCarthy",
-      "Darren Lov",
-      "Frederick Ferguson"
-     ],
-     "journal": "Milbank Quarterly",
-     "date": "2026-07-18",
-     "abstract": "Policy Points Acute dietary switching from ultra-processed food to minimally processed food elicits no physiological withdrawal, a key indicator that people rely on ultra-processed foods for reasons other than food addiction. France and Japan are countries with low adult obesity prevalence attributable to agricultural and school nutrition policies that encourage greater consumer reliance on a diversity of fiber-rich, polyphenol-rich, minimally processed foods. Traditional, high-fiber dietary patterns optimize gut-microbiota function, elevating the biological precursors required for the natural expression of the satiety hormone glucagon-like peptide-1 (GLP-1). Public health progress in reducing US obesity prevalence will be more effectively achieved by subsidizing and expanding consumer access to whole foods than from efforts to prevent the food industry from making their ultra-processed food products hyperpalatable. CONTEXT: In this commentary, we applaud Gearhardt and colleagues' focus on the negative health effects of consuming ultra-processed foods but suggest that the bigger dietary contributor to obesity risk is American consumers' lack of access to a diverse range of gut microbiota-accessible foods. METHODS: We cite scientific literature supportive of the health benefits of consuming fiber-rich, polyphenol-rich, minimally processed plant foods, which are more likely to provide substrate to one's commensal gut microbes than would consuming ultra-processed foods. We also cite results from randomized, controlled feeding studies showing that study participants who were switched from an ultra-processed food condition to a minimally processed food condition did not report withdrawal symptoms or evidence of tolerance, thereby undermining Gearhardt and colleagues' thesis that consumers' overconsumption of calories could be attributed to the addictiveness of ultra-processed foods. FINDINGS: We cite scientific literature illustrating the health benefits of consuming traditional dietary patterns, such as the Mediterranean dietary pattern, which feature a diversity of fiber-rich, polyphenol-rich, minimally processed foods. CONCLUSIONS: We conclude that government agricultural and educational policies that increase consumer access to gut microbiota-accessible foods may be a more effective long-term approach to reducing nutrition-related chronic diseases than policies that limit the ability of the food industry to increase the hyper-palatability of ultra-processed foods.",
-     "url": "https://doi.org/10.1111/1468-0009.70111",
-     "doi": "10.1111/1468-0009.70111",
-     "pdf": "https://pubmed.ncbi.nlm.nih.gov/42470169/",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "정책 포인트 초가공 식품에서 최소 가공 식품으로의 급격한 식이 전환은 생리적 금단 현상을 일으키지 않습니다. 이는 사람들이 음식 중독 이외의 이유로 초가공 식품에 의존한다는 주요 지표입니다. 프랑스와 일본은 섬유질이 풍부하고 폴리페놀이 풍부하며 최소한으로 가공된 식품에 대한 소비자 의존도를 높이는 농업 및 학교 영양 정책으로 인해 성인 비만 유병률이 낮은 국가입니다. 전통적인 고섬유질 식이 패턴은 장내 미생물군 기능을 최적화하여 포만 호르몬인 글루카곤 유사 펩타이드-1(GLP-1)의 자연적 발현에 필요한 생물학적 전구체를 증가시킵니다. 미국 비만 유병률을 줄이는 공중 보건의 진전은 식품 산업이 초가공 식품을 입맛에 잘 맞게 만드는 것을 막으려는 노력보다 천연 식품에 대한 소비자 접근을 보조하고 확대함으로써 더 효과적으로 달성될 것입니다. 맥락: 이 논평에서 우리는 Gearhardt와 동료들이 초가공 식품 섭취가 건강에 미치는 부정적인 영향에 초점을 맞춘 것에 박수를 보내지만, 비만 위험에 대한 더 큰 식이요법 기여자는 미국 소비자가 다양한 장내 미생물에 접근할 수 있는 식품에 접근하지 못하기 때문이라고 제안합니다. 방법: 우리는 섬유질이 풍부하고 폴리페놀이 풍부하며 최소한으로 가공된 식물성 식품 섭취의 건강상의 이점을 뒷받침하는 과학 문헌을 인용합니다. 이는 초가공 식품을 섭취하는 것보다 공생 장내 미생물에 기질을 제공할 가능성이 더 높습니다. 우리는 또한",
-     "is_new": false
     }
    ]
   },
   {
    "key": "methodology",
    "name": "사회과학방법론",
-   "count": 592,
-   "new_count": 19,
+   "count": 588,
+   "new_count": 15,
    "papers": [
+    {
+     "id": "oa:W7231137961",
+     "topic": "methodology",
+     "origin": "OpenAlex",
+     "title": "A Two-Stage Approach to Detecting Differential Item Functioning: Combining Regularization with the Mantel–Haenszel Method (Reg-MH)",
+     "authors": [
+      "Kaiyu Gan",
+      "Hongyun Liu"
+     ],
+     "journal": "Applied Psychological Measurement",
+     "date": "2026-11-14",
+     "abstract": "Test bias is a critical concern in educational and psychological measurement. Differential item functioning (DIF) is widely used to identify potential test bias. Although regularization methods have shown promise in DIF detection, interpreting the resulting DIF parameters remains challenging. This study proposes a two-stage approach, termed Reg-MH, that combines regularization with the Mantel–Haenszel (MH) method. Specifically, regularization is first used to select anchor items, followed by MH testing to identify DIF items, combining the anchor selection advantages of regularization with the interpretability of MH. A pilot simulation study examined alternative regularization-based anchor selection strategies and the number of anchor items. A main simulation study evaluated the performance of Reg-MH against traditional MH and regularized DIF (Reg-DIF) methods across varying sample sizes, DIF magnitudes, DIF proportions, and ability distributions. An empirical illustration using PISA 2012 data further demonstrated its practical application. The simulation results showed that Reg-MH generally achieved a more favorable balance between Type I error control and statistical power than the competing methods. Compared with traditional MH, Reg-MH reduced Type I error rates while maintaining higher statistical power than Reg-DIF. Type I error rates generally increased with sample size, DIF magnitude, and DIF proportion, whereas statistical power increased with sample size and DIF magnitude but decreased as DIF proportion increased. Overall, Reg-MH provides a promising approach to DIF detection by integrating regularization-based anchor selection with conventional statistical testing.",
+     "url": "https://doi.org/10.1177/01466216261506348",
+     "doi": "10.1177/01466216261506348",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7225991607",
      "topic": "methodology",
@@ -25650,7 +25698,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "취약성 모델은 클러스터된 이벤트 시간 간의 종속성을 설명하기 위해 무작위 효과를 통합하여 반복되는 이벤트를 수용하도록 생존 분석 모델을 확장합니다. 행동 및 사회 과학 연구와의 관련성에도 불구하고 취약성 모델은 부분적으로 일반적으로 사용되는 분석 프레임워크와의 통합이 제한되어 있기 때문에 아직 활용도가 낮습니다. 이 논문은 다단계 및 다변량 모델 사양을 사용하여 구조 방정식 모델링(SEM) 프로그램에서 취약성 모델과 그 사양 및 추정에 대한 포괄적인 처리를 제시합니다. 우리는 이산시간 및 Cox 생존 모델을 검토하고 SEM 소프트웨어를 사용하여 각각이 어떻게 지정되는지 보여줍니다. 그런 다음 이러한 모델을 확장하여 무작위 효과를 포함하고 관련 데이터 구조와 함께 여러 사양 전략의 개요를 설명합니다. 청소년 수면 지연에 대한 경험적 데이터를 사용하여 우리는 6가지 대체 노쇠 모델 사양의 구현을 설명하고 해당 매개변수 추정치를 비교합니다. 모델 사양에 대한 권장 사항이 논의됩니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225710233",
@@ -25670,7 +25718,7 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2733987?needAccess=true",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "잠재 전환 분석(LTA)은 시간이 지남에 따라 잠재 클래스 간의 움직임을 연구하는 데 널리 사용되지만 말초 결과는 종종 최종 클래스 구성원의 함수로 모델링되어 동적 발달 과정을 상대적으로 정적으로 표현합니다. 원칙적으로 말단 결과는 잠재 클래스 변수 또는 전환 이력의 조합에 따라 조건이 지정될 수 있지만 이러한 사양은 제대로 사용되지 않거나 구현하기 어렵거나 문서화가 충분하지 않을 수 있습니다. 이 논문은 LTA의 종단적 전환 이력과 원위 결과를 연관시키기 위한 실용적이고 이론 기반 접근 방식을 제시합니다. 우리는 분류 불확실성을 조정하면서 Mplus 도트 언어 제약 조건을 사용하여 이론적으로 의미 있는 전환 패턴을 지정하는 그룹화된 패턴 접근 방식에 중점을 둡니다. 고등학교 전반의 수학과 과학 태도를 사용하여 안정성과 변화가 이후 STEM 경력 달성과 어떻게 관련되는지 설명합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225741254",
@@ -25691,7 +25739,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "종단적 소셜 미디어 텍스트 데이터는 시간이 지남에 따라 감정이 어떻게 변하는지 연구할 수 있는 중요한 기회를 제공하지만, 통계 모델링을 적용하기 전에 구조화되지 않은 텍스트 데이터를 분석 가능한 감정 점수로 변환해야 하기 때문에 방법론적인 문제도 발생합니다. 현재 연구는 종단적 감정 분석을 위한 실용적인 워크플로우를 제공하는 방법론적 튜토리얼로 설계되었습니다. 구체적으로 우리는 연구자들이 원시 소셜 미디어 게시물에서 정리된 텍스트로 이동하고, 어휘 기반 및 대규모 언어 모델(LLM) 기반 접근 방식을 모두 사용하여 감정 점수를 추출하고, 불규칙한 게시물 수준 점수를 개인 기간별 종단 데이터로 집계하고, 통계 모델을 적용하여 시간 경과에 따른 감정 궤적을 조사할 수 있는 방법을 설명합니다. 실증적 예로 종단적 Twitter/X 데이터를 사용하여 대표적인 감정 추출 방법으로 AFINN과 LLaMA를 비교하고 이분산 선형 혼합 모델(HLMM), 성장 곡선 모델(GCM), 1차 자기회귀 모델(AR(1)) 및 제안된 반복 자기상관 및 누적 이벤트 트리거 효과(TRACE)를 갖춘 궤도 모델을 포함한 여러 종단적 모델을 적용했습니다. 경험적 그림에서 AFINN 기반 감정 점수를 사용하여 TRACE는 세 가지 평가 기준(예: RMSE, WAIC 및 LOOIC)에서 기존 종단 모델보다 더 나은 성능을 보여주었습니다. 전반적으로 이러한 결과는 감정 추출 방법의 선택이 이후 통계 모델링에 영향을 미칠 수 있음을 시사합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225761527",
@@ -25717,7 +25765,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "탐색적 그래프 분석(EGA) 트리는 선험적 그룹 사양 없이 구성 비불변성을 감지하지만, 네트워크 차이(ND) 지수를 해석하는 것은 경험적 벤치마크가 부족하여 여전히 어려운 문제입니다. 이 문제를 해결하기 위해 우리는 ADEMP 프레임워크를 사용하여 대규모 Monte Carlo 시뮬레이션(18,500회 반복)을 수행하여 감지 민감도를 평가했습니다. 위반 유형, 강도(δ), 영향을 받은 항목 수 및 표본 크기(N)를 조작하여 탐지 확률을 ND 및 N의 함수로 모델링했습니다. 결과는 보수적인 경험적 제1종 오류율(.008)을 나타냈습니다. 결정적으로, 우리는 80% 통계력에 대한 샘플 크기별 임계 임계값(τND)을 도출하여 샘플 크기가 증가함에 따라 필요한 ND가 크게 감소한다는 것을 입증했습니다. 우리는 공통 구성 비불변성을 탐지하기 위한 최소 기능 기준선으로 N = 400(τND = .517)을 식별합니다. 연구 설계 및 측정 검증을 지원하기 위해 우리는 주석이 달린 R 코드와 단계별 튜토리얼로 이러한 벤치마크를 보완하여 경험적 및 교육적 애플리케이션에 바로 사용할 수 있는 리소스를 제공합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225761719",
@@ -25737,7 +25785,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "성장 혼합 모델(GMM)은 종단적 데이터에서 이질적인 발달 궤적을 식별하는 데 일반적으로 사용됩니다. 먼저 항목 반응 이론(IRT)을 통해 도구를 채점한 다음 혼합 모델을 맞추는 2단계 접근 방식을 사용하여 GMM을 추정하는 경우 점수 결정은 클래스 열거 및 성장 매개변수 추정에 영향을 미칠 수 있습니다. 해결되지 않은 방법론적 질문은 IRT 채점 단계에서 공변량을 통합해야 하는지 여부입니다. 몬테카를로 시뮬레이션과 경험적 응용을 사용하여 공변량 정보 채점이 무조건 채점에 비해 클래스 열거 및 매개변수 복구를 향상하는지 여부를 조사했습니다. 결과는 공변량이 측정 모델에 영향을 미칠 때 공변량 정보 채점이 이점을 제공한다는 것을 나타냅니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4412075669",
@@ -37162,107 +37210,71 @@
      "first_seen": "2026-08-10T09:49:36+09:00",
      "abstract_ko": "비전통적인 데이터 소스로의 전환으로 인해 MPD(모바일 위치 확인 데이터)가 보다 유연하고 확장 가능한 데이터 수집을 위한 핵심 도구가 되었습니다. 네트워크 공급자의 SMS-웹 초대를 활용함으로써 이 방법은 응답률, 응답자 부담 및 응답자 신뢰와 관련된 장애물에 직면하지만 적용 범위, 적시성 및 비용 효율성을 향상시킵니다. 본 연구에서는 2024년 디지털 국내 관광 설문조사의 응답자 피드백을 감성 분석 및 주제 모델링을 사용하여 분석합니다. 가장 많이 논의된 측면은 설문조사 애플리케이션 신뢰성(64.48%), 웹 설문지 제시(63.53%), 인지된 사용 용이성(63.09%), 설문지 내용(59.80%)이었습니다. 긍정적인 정서가 모든 측면을 지배하여 응답의 최소 61%를 차지하여 전반적으로 호의적인 인식을 나타냅니다. 설문조사 질문 변수의 주제 모델링은 0.4199의 일관성 점수를 산출했습니다. 부정적인 감정 데이터세트(0.4869)에 비해 긍정적인 감정 데이터세트(0.5447)에서 더 높은 일관성이 관찰되었으며, 이는 연구 프레임워크와 잘 구조화된 정렬을 시사합니다. 전반적으로 긍정적인 평가에도 불구하고 응답자의 부담을 줄이고 MPD 기반 SMS-웹 설문조사 참여를 강화하려면 애플리케이션 안정성, 설문지 디자인, 인센티브 명확성, 데이터 수집 방법 및 커뮤니케이션 전략에 개선이 필요합니다.",
      "is_new": false
-    },
-    {
-     "id": "oa:W7169683003",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Performing No More: Positionality, Power, and the Praxis of a Counter-Hegemonic Evaluation",
-     "authors": [
-      "Rosa Maria Acevedo"
-     ],
-     "journal": "American Journal of Evaluation",
-     "date": "2026-07-18",
-     "abstract": "Entanglements of power and individual and collective commitments remain persistent issues for evaluation's potential impact. Dominant approaches have long operated hegemonically, privileging singular ways of knowing. Thus, concentrating epistemic authority in ways that silence community knowledge traditions and reproduce the very inequities evaluation is charged with examining. The need to confront internalized oppression and reevaluate power dynamics to shift them is a persistent blockage in the potential impact of evaluation. Though the shortcomings of positionality statements as performative gestures have received scholarly attention, the material conditions that prevent evaluators from enacting positionality in practice, and what they might do differently, remain underexplored. In this article, I call for culturally responsive and community-engaged approaches that resist extractive and constricting traditions. To operationalize this call, I offer a stage-specific framework that situates positionality as praxis across the stages of evaluation, providing evaluators with concrete and actionable guidance for enacting relational accountability at every phase of their work. When evaluators move beyond identity statements toward sustained, community-accountable praxis, positionality becomes a tool for dismantling the very systems of power that evaluation has too often upheld.",
-     "url": "https://doi.org/10.1177/10982140261469535",
-     "doi": "10.1177/10982140261469535",
-     "pdf": "https://doi.org/10.1177/10982140261469535",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "권력과 개인 및 집단적 약속의 얽힘은 평가의 잠재적 영향에 대한 지속적인 문제로 남아 있습니다. 지배적인 접근 방식은 오랫동안 헤게모니적으로 작동해 왔으며, 단일한 지식 방식을 특권화했습니다. 따라서 공동체 지식 전통을 침묵시키고 바로 그 불평등 평가를 재생산하는 방식으로 인식론적 권위를 집중시키는 것이 검토의 임무를 맡는다. 내면화된 억압에 맞서고 권력 역학을 재평가하여 이를 변화시켜야 할 필요성은 평가의 잠재적 영향을 지속적으로 방해합니다. 수행적 제스처로서 위치성 진술의 단점이 학문적으로 주목을 받았음에도 불구하고 평가자가 실제로 위치성을 제정하는 것을 방해하는 물질적 조건과 평가자가 다르게 수행할 수 있는 사항은 여전히 ​​과소 탐구되어 있습니다. 이 글에서 나는 추출적이고 억압적인 전통에 저항하는 문화적으로 반응하고 공동체에 참여하는 접근 방식을 요구합니다. 이 요청을 운영화하기 위해 저는 평가 단계 전반에 걸쳐 위치성을 실천으로 배치하는 단계별 프레임워크를 제공하고 평가자에게 작업의 모든 단계에서 관계적 책임을 제정하기 위한 구체적이고 실행 가능한 지침을 제공합니다. 평가자가 정체성 진술을 넘어 지속적이고 지역사회에 책임이 있는 실천으로 나아갈 때 위치성은 평가가 너무 자주 지지해 온 바로 그 권력 시스템을 해체하는 도구가 됩니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169675498",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Factor Retention in Ordinal Data Under Local Item Dependence: A Monte Carlo Comparison of Correlation Estimators and Retention Methods",
-     "authors": [
-      "Abdullah Faruk Kılıç"
-     ],
-     "journal": "Educational and Psychological Measurement",
-     "date": "2026-07-18",
-     "abstract": "Local item dependence (LID) is a persistent threat to dimensionality assessment in ordinal data, yet its effects on factor retention methods remain incompletely understood. Five factor retention methods (minimum average partial [MAP], parallel analysis [PA], Exploratory Graph Analysis [EGA]-Walk, EGA-Leiden, EGA-TMFG) combined with six correlation matrix estimators (Pearson, polychoric, and four fuzzy-based variants) were evaluated in a Monte Carlo simulation spanning 900 conditions and 450,000 datasets. First, pairwise and testlet LID structures produced asymmetric effects on factor retention: pair-LID induced systematic overfactoring in GLASSO-based EGA methods and PA, while testlet-LID produced near-ceiling MAP accuracy (.99) through mechanical error compensation rather than correct structural identification. Second, correlation matrix choice had negligible influence on retention performance. All four fuzzy variants were statistically indistinguishable from Pearson across all conditions, while polychoric showed a condition-dependent profile, with modest advantages under local independence but poorer performance under severe testlet-LID. Third, threshold distribution shape exerted no meaningful influence on retention outcomes, either as a main effect or in interaction with LID condition. EGA-TMFG showed the strongest resilience and is recommended when local dependence is plausible. LID structure and factor loading strength were the primary determinants of retention accuracy; correlation matrix preprocessing provided no practical corrective benefit.",
-     "url": "https://doi.org/10.1177/00131644261465917",
-     "doi": "10.1177/00131644261465917",
-     "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/00131644261465917?download=true",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "LID(로컬 항목 의존성)는 순서 데이터의 차원 평가에 대한 지속적인 위협이지만 요인 유지 방법에 대한 영향은 아직 불완전하게 이해되어 있습니다. 6개의 상관 행렬 추정기(Pearson, 다형성 및 4개의 퍼지 기반 변형)와 결합된 5개의 요인 유지 방법(최소 평균 부분[MAP], 병렬 분석[PA], 탐색 그래프 분석[EGA]-Walk, EGA-Leiden, EGA-TMFG)이 900개 조건과 450,000개 데이터 세트에 걸쳐 있는 Monte Carlo 시뮬레이션에서 평가되었습니다. 첫째, pairwise 및 testlet LID 구조는 인자 유지에 비대칭 효과를 나타냈습니다. pair-LID는 GLASSO 기반 EGA 방법 및 PA에서 체계적인 오버팩토링을 유도한 반면, testlet-LID는 올바른 구조 식별보다는 기계적 오류 보상을 통해 천장 근처 MAP 정확도(.99)를 생성했습니다. 둘째, 상관관계 매트릭스 선택은 유지 성과에 미미한 영향을 미쳤습니다. 4개의 퍼지 변형은 모든 조건에서 Pearson과 통계적으로 구별할 수 없는 반면, 다합체는 조건 의존적 프로파일을 보여주었으며, 로컬 독립성에서는 약간의 이점이 있지만 심각한 testlet-LID에서는 성능이 떨어집니다. 셋째, 임계값 분포 형태는 주효과 또는 LID 조건과의 상호 작용으로 유지 결과에 의미 있는 영향을 미치지 않았습니다. EGA-TMFG는 가장 강한 회복력을 보였으며 국소 의존성이 타당할 때 권장됩니다. LID 구조와 인자 로딩 강도는 유지 정확도의 주요 결정 요인이었습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169668263",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Developing a gender-sensitive financial well-being scale for working women",
-     "authors": [
-      "Vineetha Mathew",
-      "Ajithakumari Vijayappan Nair Biju"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-18",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11135-026-02985-7",
-     "doi": "10.1007/s11135-026-02985-7",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169680671",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Redistribution preference and income level: comparison before and after COVID-19",
-     "authors": [
-      "Eiji Yamamura",
-      "Fumio Ohtake"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-18",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11135-026-02988-4",
-     "doi": "10.1007/s11135-026-02988-4",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169670550",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Intellectual capital, FinTech, and economic shocks: effects on productivity and financing costs in U.S. listed firms—a financial crisis theory perspective",
-     "authors": [
-      "Rabia Najaf",
-      "Khakan Najaf",
-      "Mohsen Brahmi",
-      "Osama F. Atayah"
-     ],
-     "journal": "Quality & Quantity",
-     "date": "2026-07-18",
-     "abstract": "",
-     "url": "https://doi.org/10.1007/s11135-026-02989-3",
-     "doi": "10.1007/s11135-026-02989-3",
-     "pdf": "",
-     "first_seen": "2026-08-09T01:35:52+09:00",
-     "is_new": false
     }
    ]
   },
   {
    "key": "econ-stats",
    "name": "계량경제·통계",
-   "count": 635,
-   "new_count": 11,
+   "count": 643,
+   "new_count": 15,
    "papers": [
+    {
+     "id": "oa:W4416255473",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Hierarchical importance sampling for estimating occupation time for SDE solutions",
+     "authors": [
+      "Eya Ben Amar",
+      "Nadhir Ben Rached",
+      "Raul F. Tempone"
+     ],
+     "journal": "Statistics and Computing",
+     "date": "2026-11-14",
+     "abstract": "Abstract This study considers the estimation of the complementary cumulative distribution function of the occupation time (i.e., the time spent below a threshold) for a process governed by a stochastic differential equation. The focus is on the right tail, where the underlying event becomes rare, and using variance reduction techniques is essential to obtain computationally efficient estimates. Building on recent developments that relate importance sampling (IS) to stochastic optimal control, this work develops an optimal single-level IS (SLIS) estimator based on the solution of an auxiliary Hamilton–Jacobi–Bellman (HJB) partial differential equation (PDE). The cost of solving the HJB-PDE is incorporated into the total computational work, and an optimized trade-off between preprocessing and sampling is proposed to minimize the overall cost. The SLIS approach is extended to the multilevel setting to enhance efficiency, yielding a multilevel IS (MLIS) estimator. Motivated by the zero-variance property of the ideal full-state continuous-time control, we study regimes in which the single-level variance decreases with refinement; this decay is assessed numerically for the implemented approximate control. This observation leads to the formulation of a necessary condition and a sufficient condition under which MLIS outperforms SLIS. To promote satisfaction of the sufficient condition, we introduce a smoothing of both the drift and the observable to enhance the variance decay rate, together with a novel common-likelihood MLIS formulation that is observed numerically to preserve this decay under IS. The classical multilevel Monte Carlo complexity theory can be extended to accommodate settings in which the variance on coarse levels depends on the target accuracy, a phenomenon for which the variance-decay behavior in the IS setting is a key example. Notably, the sampling work complexity of MLIS can be better than quadratic. Numerical experiments on fade-duration estimation demonstrate the effectiveness of the proposed approach and validate the theoretical analysis. In particular, the smoothing bias is estimated to be negligible relative to the prescribed tolerances, while the common-likelihood MLIS estimator achieves a substantial reduction in computational cost compared with SLIS.",
+     "url": "https://doi.org/10.1007/s11222-026-10995-6",
+     "doi": "10.1007/s11222-026-10995-6",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-10995-6.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7113608792",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "How do Macroeconomic Expectations React to Extreme Weather Shocks?",
+     "authors": [
+      "Andrew B Martinez"
+     ],
+     "journal": "Econometrics Journal",
+     "date": "2026-11-14",
+     "abstract": "Abstract I study how extreme weather events affect macroeconomic expectations to better understand the propagation of major shocks. I identify the immediate and dynamic effects of a Hurricane Katrina-sized shock on business economists’ expectations of GDP growth. While a shock immediately causes a downward revision in expected near-term growth, the total effect, which includes any dynamics due to forecast revision inefficiencies, is more than double the immediate revision. The effects of the shock are also expected to last for up to a year, which contrasts with forecasts from Federal Reserve Board staff and estimates of the actual economic impacts. The relative persistence of the response in expectations is consistent with models of delayed overshooting and highlights the importance of accounting for forecast revision dynamics.",
+     "url": "https://doi.org/10.1093/ectj/utag036",
+     "doi": "10.1093/ectj/utag036",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7229603012",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "A splicing approach to $$\\ell _0$$ trend filtering using inverse transformation",
+     "authors": [
+      "Tianhao Wang",
+      "Junxian Zhu",
+      "Xueqin Wang",
+      "Canhong Wen"
+     ],
+     "journal": "Statistics and Computing",
+     "date": "2026-11-14",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s11222-026-11046-w",
+     "doi": "10.1007/s11222-026-11046-w",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7125386726",
      "topic": "econ-stats",
@@ -37397,7 +37409,7 @@
      "pdf": "https://link.springer.com/content/pdf/10.1007/s11222-026-11008-2.pdf",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "추상 베이지안 추론은 확률적 추론을 위한 원칙적인 프레임워크를 제공합니다. 추론이 두 단계로 수행되는 경우 불확실성 전파는 모든 불확실성과 변동성의 원인을 설명하는 데 중요한 역할을 합니다. 이는 데이터 가변성으로 인한 우연적 불확실성과 불완전한 지식이나 누락된 데이터로 인해 발생하는 인식적 불확실성이 모두 존재할 때 특히 중요합니다. 예로는 대리 모델 및 누락된 데이터 문제가 있습니다. 대리 모델링에서 대리자는 리소스가 많이 들고 비용이 많이 드는 시뮬레이션의 단순화된 근사치로 사용됩니다. 대리 피팅 프로세스의 불확실성은 2단계 절차를 사용하여 전파될 수 있습니다. 누락된 데이터가 있는 모델링의 경우 MICE(Multivariate Imputation by Chained Equations)와 같은 방법은 대치 불확실성을 설명하기 위해 여러 데이터세트를 생성합니다. 그러나 이러한 접근 방식은 대리 매개변수 또는 귀속된 데이터세트에 여러 모델을 별도로 맞춰야 하기 때문에 계산 비용이 많이 듭니다. 이러한 문제를 해결하기 위해 우리는 정확성을 유지하면서 계산 오버헤드를 줄이는 효율적인 2단계 접근 방식을 제안합니다. 무승부 또는 대체의 대표적인 하위 집합을 선택함으로써 Pareto 평활 중요도 샘플링을 사용하여 원하는 사후를 근사화하는 혼합 분포를 구성합니다. 보다 복잡한 시나리오의 경우 이는 중요도 가중치 모멘트 일치와 더 나은 캡처를 위해 혼합물 분포를 넓히는 반복 절차를 통해 더욱 구체화됩니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225725357",
@@ -37415,7 +37427,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "이산 분포의 모멘트는 연산자 방법(연산자 계열 합산, 미분 연산자 적용 또는 생성 함수에 대한 미분 방정식의 반복 읽기)을 통해 여러 번 도출되었습니다. 나머지 접근법인 부분별 합산(유한 미적분학의 부분별 적분)은 반복적으로 사용되었지만 그 자체로 방법으로 사용된 적은 없습니다. 체계적으로 개발해 드립니다. 이항 계수에 대한 흡수 항등식과 함께 고전적인 이산 분포의 계승 모멘트를 각각 하나 또는 두 개의 선으로 계산하고 원시 모멘트는 스털링 수를 통해 기계적으로 따릅니다. 모멘트가 매개변수에 균일한 닫힌 형태를 가지지 않는 경우에도 계속 작동하여 정확한 동일성과 고정 매개변수 반복을 생성합니다. 그 과정에서 우리는 Fisher의 비중심 초기하 분포의 계승 적분에 대한 Kemp의 재발을 몇 줄로 다시 유도하여 중앙 사례를 제외하고 모든 계승 적분을 평균의 기본 함수로 만든다는 것을 보여줍니다. 우리는 또한 ν=2인 Conway-Maxwell-이항 분포가 비중심 초기하 분포임을 관찰하고, 가우스 분포의 중심 모멘트에 대한 고전적 회귀를 반영하여 푸아송 분포의 평균에 대한 계승 모멘트에 대해 표류 중심을 사용하여 재발을 얻습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225743984",
@@ -37433,7 +37445,7 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00031305.2026.2742878?needAccess=true",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "In reaction to the reproducibility crisis, principles of open science have gained ground in academic publishing. 새로 떠오르고 유망한 관행 중 하나는 저널이나 신뢰할 수 있는 제3자 기관이 수행하는 출판물의 기반이 되는 데이터 및 코드 평가, 즉 재현성 검토입니다. This article explores the adoption of reproducibility review policies across the social sciences, both conceptually and empirically. 나는 몇 가지 기여를 했습니다. 첫째, 재현성 검토가 세 가지 차원, 즉 데이터 및 코드 공유에 관한 요구 사항, 검토 범위 및 시기를 따라 정의될 수 있다고 주장하면서 재현성 검토를 개념화했습니다. 둘째, 사회과학 전반에 걸쳐 상위 저널(n = 134)의 정책을 조사한 결과 소수만이 재현성 검토를 수행하는 것으로 나타났습니다. 셋째, 나는 재현성 편집자로서 책임을 맡은 Political Communication(논문 n = 49)에서 2년간의 재현성 검토를 통해 경험적 통찰력을 제공합니다. 나는 필요한 입력(예: 필요한 시간)과 발견된 오류 수를 설명하고 다양한 상황별 변수와 일부 정성적 관찰을 통해 이러한 결과를 설명합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225756619",
@@ -37452,7 +37464,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "수익률 예측 가능성은 경험적 금융의 핵심 연구 주제를 구성하며, 전통적으로 매우 지속적인 금융 및 거시 경제 예측 변수에 대한 자산 초과 수익률의 예측 회귀를 통해 조사되었습니다. 수익률 예측 가능성에 대한 방대한 문헌에도 불구하고 기존 연구는 구조적 구성이나 제도적 정책 규칙에 의해 범위가 제한되는 표준 예측 변수의 고유한 경계 특성을 간과하고 있습니다. 더욱이, 예측 가능성 추론은 모델 혁신의 시간에 따른 무조건적 분산으로 인해 더욱 왜곡됩니다. 이 논문은 높은 예측 변수 지속성 및 내생성의 잘 문서화된 특징과 함께 예측 변수 경계성과 무조건적 이분산성을 동시에 수용함으로써 예측 회귀의 추론 문제를 해결합니다. 우리는 t 및 Wald 예측 가능성 테스트의 점근 분포가 예측 변수 경계 제약 조건과 이분산적 혁신의 영향을 공동으로 특성화하는 규제된 분산 변환 브라운 운동에 의존한다는 것을 확인했습니다. 실현 가능한 경험적 구현을 ​​용이하게 하기 위해 결과 비표준 널 제한 분포를 일관되게 근사하는 잔차 기반 와일드 부트스트랩 절차를 개발합니다. 광범위한 Monte Carlo 시뮬레이션을 통해 제안된 프레임워크의 우수한 유한 샘플 성능을 검증합니다. 미국 주식 프리미엄에 대한 적용에서 우리의 접근 방식은 다우존스 지수에 내재된 중요한 예측 콘텐츠를 식별합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4365600878",
@@ -38371,26 +38383,6 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10618600.2026.2756966?needAccess=true",
      "first_seen": "2026-10-31T10:42:48+09:00",
      "abstract_ko": "우리는 조건부 독립 구조가 알려진 베이지안 사후 분포의 구조화된 변이 근사치를 찾는 문제를 고려합니다. 주제에 대한 최근 문헌에서는 정밀 행렬을 통해 가우스 분포 또는 왜곡이 있는 가우스 분포 또는 비정규 한계 분포에 대한 간결한 매개변수화를 고려합니다. 이 연구에서는 변동 밀도의 헤시안 행렬을 포함하는 정밀 행렬의 일반화를 기반으로 구조화된 변동 근사를 개발합니다. 우리는 현 그래프에 해당하는 사후 조건부 독립 구조에 대한 임의 길이의 함수 구성 시퀀스를 기반으로 근사치를 구축하고 희소성을 유지하면서 그래픽적으로 동일한 구성 요소 함수가 반복될 수 있는 조건을 개발하기 위해 헤세 행렬에서 이 제약 조건을 인코딩하는 문제를 특성화합니다. 이 방법론은 축소 유도 사전 모델과 베이지안 로지스틱 무작위 절편 모델을 사용하는 베이지안 로지스틱 회귀의 사후 추론에 적용됩니다. 가우스 변동 근사치 및 정규화 흐름과의 비교를 통해 고차원 시뮬레이션 및 인기 벤치마크 데이터 세트에 대한 실증적 연구가 수행됩니다. 보충 자료는 온라인으로 제공됩니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4415186904",
-     "topic": "econ-stats",
-     "origin": "OpenAlex",
-     "title": "Semiparametrically efficient semi-supervised statistical inference",
-     "authors": [
-      "Zichun Xu",
-      "Daniela Witten",
-      "Ali Shojaie"
-     ],
-     "journal": "Biometrika",
-     "date": "2026-10-28",
-     "abstract": "Summary We consider statistical inference under a semi-supervised setting where we have access to both labelled and unlabelled observations. We ask the question: under what circumstances, and by how much, can incorporating the unlabelled data improve upon inference using the labelled data? To answer this question, we investigate semi-supervised inference through the lens of semiparametric efficiency theory. For general pathwise differentiable targets under semiparametric models, we derive the efficiency lower bound for asymptotically linear semi-supervised estimators. Perhaps not surprisingly, this bound coincides with the results in classical missing data theory when ‘positivity’ holds, i.e., when the limiting proportion of labelled observations is strictly positive. However, unlike missing data theory, our theory can handle the boundary regime in which the proportion of labelled observations converges to zero, which is in fact the setting of primary interest in the context of semi-supervised learning. We further characterize a broad class of well-specified targets for which unlabelled data cannot yield efficiency gains. These results shed insight into the promise and limitations of the very active field of prediction-powered inference. We propose an efficient semi-supervised estimator that attains the efficiency bound, and a prediction-powered estimator that incorporates black-box predictions and is guaranteed to be no worse than the supervised baseline in asymptotic variance. We illustrate our theoretical results via simulation studies and a real-data application.",
-     "url": "https://doi.org/10.1093/biomet/asag050",
-     "doi": "10.1093/biomet/asag050",
-     "pdf": "https://arxiv.org/pdf/2502.17741",
-     "first_seen": "2026-11-03T12:33:02+09:00",
-     "abstract_ko": "요약 우리는 레이블이 지정된 관찰과 레이블이 지정되지 않은 관찰 모두에 액세스할 수 있는 준지도 설정에서 통계적 추론을 고려합니다. 우리는 다음과 같은 질문을 던집니다. 어떤 상황에서 레이블이 없는 데이터를 통합하면 레이블이 있는 데이터를 사용한 추론이 어느 정도 향상될 수 있습니까? 이 질문에 답하기 위해 우리는 준모수 효율성 이론의 렌즈를 통해 준지도 추론을 조사합니다. 반모수적 모델 하의 ​​일반적인 경로별 미분 가능 목표에 대해 점근적 선형 반지도 추정량에 대한 효율성 하한을 유도합니다. 놀랍지 않게도 이 경계는 '긍정성'이 유지되는 경우, 즉 레이블이 지정된 관측값의 제한 비율이 엄격하게 긍정적인 경우 고전적인 결측 데이터 이론의 결과와 일치합니다. 그러나 결측 데이터 이론과 달리 우리 이론은 레이블이 지정된 관측값의 비율이 0으로 수렴되는 경계 체계를 처리할 수 있으며, 이는 실제로 준지도 학습의 맥락에서 주요 관심 설정입니다. 우리는 레이블이 지정되지 않은 데이터가 효율성 향상을 가져올 수 없는 광범위한 클래스의 잘 지정된 목표를 추가로 특성화합니다. 이러한 결과는 매우 활동적인 예측 기반 추론 분야의 가능성과 한계에 대한 통찰력을 제공합니다. 우리는 효율성 경계를 달성하는 효율적인 준지도 추정기와 블랙박스 예측을 통합하고 점근 변량에서 지도 기준선보다 나쁘지 않음을 보장하는 예측 기반 추정기를 제안합니다.",
      "is_new": false
     },
     {
@@ -39966,7 +39958,7 @@
      "abstract": "Abstract We examine the preferences of low-income households in Kenya over the structure of unconditional cash transfers. Most preferred lumpy transfers, and some preferred deferred receipt—in contrast to the typical structures of safety-net programs, but consistent with evidence on the financial challenges of poverty. Turning to consequences, receiving transfers later in the year raised income 1.5 years later—but willingness to defer receipt was sensitive to small changes in cash flow around the time of decision-making. Taken together, these results illustrate how adapting cash transfer design to the decision-making environment of those in poverty could improve financial choices and outcomes.",
      "url": "https://doi.org/10.1162/rest.a.1878",
      "doi": "10.1162/rest.a.1878",
-     "pdf": "",
+     "pdf": "https://ora.ox.ac.uk/objects/uuid:61ff7c49-c159-4e06-b85f-5051fffffeda/files/sqj72p9947",
      "first_seen": "2026-10-24T09:53:47+09:00",
      "abstract_ko": "Abstract 무조건 현금이체 구조에 대한 케냐 저소득 가구의 선호도를 조사하였다. 가장 선호되는 일괄 이전과 일부 선호되는 수령 연기는 안전망 프로그램의 일반적인 구조와 대조적이지만 빈곤으로 인한 재정적 어려움에 대한 증거와 일치합니다. 결과적으로, 연말에 양도를 받으면 1.5년 후 소득이 증가했지만, 수령을 연기하려는 의지는 의사 결정 당시 현금 흐름의 작은 변화에 민감했습니다. 종합적으로 말하자면, 이러한 결과는 빈곤층의 의사결정 환경에 현금 지급 설계를 적용하는 것이 어떻게 재정적 선택과 결과를 향상시킬 수 있는지를 보여줍니다.",
      "is_new": false
@@ -40874,6 +40866,26 @@
      "pdf": "https://academic.oup.com/biometrics/article-pdf/82/4/ujag190/72978745/ujag190.pdf",
      "first_seen": "2026-11-06T11:40:16+09:00",
      "abstract_ko": "생태학에서 종 집합을 모델링할 때 유사한 환경 반응을 보이는 종을 클러스터링하면 종 구성에 대한 보다 간결한 이해를 촉진하고 전체 공동체에 대한 예측을 향상시킬 수 있습니다. 이 아이디어를 구현하는 통계적 방법 중 하나는 종 원형 모델(SAM)입니다. 이는 종을 환경 반응의 형태에 따라 그룹화하는 회귀 모델의 유한 혼합 유형입니다. 그러나 현재 SAM의 단점은 계산이 복잡하여 수백 또는 수천 개의 사이트 및/또는 종이 관련된 경우 유용성을 방해한다는 것입니다. 본 논문에서는 이러한 단점을 극복하기 위해 근사적이고 확장 가능한 SAM(asSAM)을 제안합니다. asSAM의 핵심은 한계 가능성에 대한 개별 종의 원형 기여에 대한 2차 근사를 구성하는 데 있습니다. 그 결과 다변량 정규 밀도의 유한 혼합과 유사한 목적 함수가 생성되며, 이는 완전히 닫힌 형식의 반복 업데이트를 통해 최대화될 수 있습니다. 우리는 asSAM이 어떻게 부트스트래핑을 사용하여 빠른 불확실성 정량화를 촉진하고 추가적인 정규화 페널티를 통해 변수 선택을 촉진하는지 보여줍니다. 그레이트 배리어 리프 해저 생물 다양성 프로젝트의 230종 이상의 존재-부재 기록에 대한 시뮬레이션 연구와 적용은 asSAM이 강력한 추정, 선택 및 예측 성능을 달성할 수 있는 동시에 SAM을 맞추는 현재 방법보다 계산 속도가 훨씬 빠르다는 것을 보여줍니다. 이것은 asSAM을 홍보로 만듭니다.",
+     "is_new": false
+    },
+    {
+     "id": "oa:W4415186904",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Semiparametrically efficient semi-supervised statistical inference",
+     "authors": [
+      "Zichun Xu",
+      "Daniela Witten",
+      "Ali Shojaie"
+     ],
+     "journal": "Biometrika",
+     "date": "2026-10-07",
+     "abstract": "Summary We consider statistical inference under a semi-supervised setting where we have access to both labelled and unlabelled observations. We ask the question: under what circumstances, and by how much, can incorporating the unlabelled data improve upon inference using the labelled data? To answer this question, we investigate semi-supervised inference through the lens of semiparametric efficiency theory. For general pathwise differentiable targets under semiparametric models, we derive the efficiency lower bound for asymptotically linear semi-supervised estimators. Perhaps not surprisingly, this bound coincides with the results in classical missing data theory when ‘positivity’ holds, i.e., when the limiting proportion of labelled observations is strictly positive. However, unlike missing data theory, our theory can handle the boundary regime in which the proportion of labelled observations converges to zero, which is in fact the setting of primary interest in the context of semi-supervised learning. We further characterize a broad class of well-specified targets for which unlabelled data cannot yield efficiency gains. These results shed insight into the promise and limitations of the very active field of prediction-powered inference. We propose an efficient semi-supervised estimator that attains the efficiency bound, and a prediction-powered estimator that incorporates black-box predictions and is guaranteed to be no worse than the supervised baseline in asymptotic variance. We illustrate our theoretical results via simulation studies and a real-data application.",
+     "url": "https://doi.org/10.1093/biomet/asag050",
+     "doi": "10.1093/biomet/asag050",
+     "pdf": "https://arxiv.org/pdf/2502.17741",
+     "first_seen": "2026-11-03T12:33:02+09:00",
+     "abstract_ko": "요약 우리는 레이블이 지정된 관찰과 레이블이 지정되지 않은 관찰 모두에 액세스할 수 있는 준지도 설정에서 통계적 추론을 고려합니다. 우리는 다음과 같은 질문을 던집니다. 어떤 상황에서 레이블이 없는 데이터를 통합하면 레이블이 있는 데이터를 사용한 추론이 어느 정도 향상될 수 있습니까? 이 질문에 답하기 위해 우리는 준모수 효율성 이론의 렌즈를 통해 준지도 추론을 조사합니다. 반모수적 모델 하의 ​​일반적인 경로별 미분 가능 목표에 대해 점근적 선형 반지도 추정량에 대한 효율성 하한을 유도합니다. 놀랍지 않게도 이 경계는 '긍정성'이 유지되는 경우, 즉 레이블이 지정된 관측값의 제한 비율이 엄격하게 긍정적인 경우 고전적인 결측 데이터 이론의 결과와 일치합니다. 그러나 결측 데이터 이론과 달리 우리 이론은 레이블이 지정된 관측값의 비율이 0으로 수렴되는 경계 체계를 처리할 수 있으며, 이는 실제로 준지도 학습의 맥락에서 주요 관심 설정입니다. 우리는 레이블이 지정되지 않은 데이터가 효율성 향상을 가져올 수 없는 광범위한 클래스의 잘 지정된 목표를 추가로 특성화합니다. 이러한 결과는 매우 활동적인 예측 기반 추론 분야의 가능성과 한계에 대한 통찰력을 제공합니다. 우리는 효율성 경계를 달성하는 효율적인 준지도 추정기와 블랙박스 예측을 통합하고 점근 변량에서 지도 기준선보다 나쁘지 않음을 보장하는 예측 기반 추정기를 제안합니다.",
      "is_new": false
     },
     {
@@ -42870,6 +42882,61 @@
      "first_seen": "2026-09-20T09:13:08+09:00",
      "abstract_ko": "많은 실제 응용 프로그램에서는 실제 회귀 변수에 대한 시끄러운 프록시만 사용할 수 있으며 이는 일반적으로 감쇠 편향을 유발하는 것으로 간주됩니다. 그러나 평균 내 선형 모델에서는 추정된 동료 효과가 부풀려져 잠재적으로 잘못된 긍정이 발생할 수 있습니다. 이 논문은 점근적 편향이 개별 특성과 네트워크 링크 사이의 상호 작용에 달려 있음을 보여주고 추가적인 외부 정보 없이도 네트워크 구조가 어떻게 식별을 용이하게 할 수 있는지 보여줍니다. 이러한 식별 결과를 바탕으로 쉽게 구현할 수 있는 일관된 GMM 및 2SLS 추정기를 제시합니다. 우리의 결과는 몬테카를로 시뮬레이션을 통해 설명됩니다.",
      "is_new": false
+    },
+    {
+     "id": "oa:W4403463245",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Multifractal Volatility Models: Beyond the Binary Case",
+     "authors": [
+      "Maciej Augustyniak",
+      "Arnaud Dufays",
+      "Kassimou Abdoul Haki Maoude"
+     ],
+     "journal": "Journal of Financial Econometrics",
+     "date": "2026-09-17",
+     "abstract": "Abstract Factorial hidden Markov processes, which build volatility from independent two-state Markov chains, have become strong competitors to GARCH models. We show that they can be represented as multi-component stochastic volatility models with non-geometric sojourn times, providing a theoretical basis for their empirical performance. We introduce the Multifractal Discrete Stochastic Volatility (MDSV) process, which allows more than two states per component and a more flexible stationary distribution, and develop a filtering algorithm that substantially reduces the cost of likelihood evaluation. On VOLARE realized variances, the MDSV process delivers more accurate density and volatility tail-risk forecasts than log-HAR and ARFIMA benchmarks.",
+     "url": "https://doi.org/10.1093/jjfinec/nbag030",
+     "doi": "10.1093/jjfinec/nbag030",
+     "pdf": "https://doi.org/10.1093/jjfinec/nbag030",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7221105662",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Penalized Nonparametric Estimating Equations for Estimating Sparse Time-Varying Portfolio Choice",
+     "authors": [
+      "Chenxuan Zhao",
+      "Xinyi Zeng",
+      "Qiuhua Xu"
+     ],
+     "journal": "Journal of Financial Econometrics",
+     "date": "2026-09-17",
+     "abstract": "Abstract We study utility-based portfolio choice when optimal risky asset weights are state-dependent functions and only a subset of assets has nonzero weight functions. We propose a penalized nonparametric estimating-equation framework that augments kernel-weighted estimating equations derived from conditional Euler equations with a functional group penalty, so that asset-specific weight functions are selected directly. Under regularity conditions, we establish the existence of the proposed estimator and prove its oracle property. Simulations under quadratic and constant relative risk-aversion utilities are consistent with the theoretical results. Empirical applications to four monthly return datasets show that the proposed portfolios achieve competitive risk-adjusted performance and favorable out-of-sample quadratic utility while using substantially fewer active positions than benchmark strategies.",
+     "url": "https://doi.org/10.1093/jjfinec/nbag026",
+     "doi": "10.1093/jjfinec/nbag026",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7223124517",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "A Particle-Kalman Double Filtering Method for State Space Models with Superposed Latent States",
+     "authors": [
+      "Mengheng Li"
+     ],
+     "journal": "Journal of Financial Econometrics",
+     "date": "2026-09-17",
+     "abstract": "Abstract We address the inefficiency of particle filters in nonlinear and non-Gaussian state space models with superposed latent states, such as multi-component stochastic volatility and intensity models. Exploiting the superposition structure, we propose a simple two-step method: apply a particle filter to the superposed state, then recover individual components via a Kalman filter. This double filtering approach reduces the effective state dimension that can lead to particle degeneracy, and allows for likelihood-based inference. Simulation results show substantial gains in efficiency over particle filters that use the optimal proposal density but do not exploit the superposition. We apply the method to study different components in the common idiosyncratic volatility of stock returns and explore their pricing implications.",
+     "url": "https://doi.org/10.1093/jjfinec/nbag028",
+     "doi": "10.1093/jjfinec/nbag028",
+     "pdf": "https://academic.oup.com/jfec/article-pdf/24/5/nbag028/72256561/nbag028.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W4414460235",
@@ -46448,6 +46515,43 @@
      "is_new": false
     },
     {
+     "id": "oa:W7110696107",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Bond Risk Premia, Regime Shifts, and the Macroeconomy",
+     "authors": [
+      "Constantino Hevia",
+      "Iván Petrella",
+      "Martin Sola"
+     ],
+     "journal": "Journal of Financial Econometrics",
+     "date": "2026-08-19",
+     "abstract": "Abstract Traditional affine term structure models capture much of the variation in bond yields but struggle to generate risk premia that are consistently linked to macroeconomic conditions. We propose an arbitrage-free model that incorporates regime shifts in both the dynamics of risk factors and the stochastic discount factor, explicitly pricing regime-switching risk and accounting for the nonlinearities it creates. The model features four regimes generated by two independent Markov chains, which the data associate with monetary-tightening episodes and recessionary periods, respectively. Risk premia are strongly state-dependent: long-maturity premia are positive in calm periods but turn low or negative in high-volatility, low-slope regimes, reversing the usual maturity ordering. Expected excess returns are countercyclical, declining when inflation and industrial production rise, with effects that grow stronger at longer maturities. A macroaugmented specification uncovers a structural shift around 2000 after which inflation and bond risk premia move in opposite directions, consistent with Treasuries acquiring hedging value against macroeconomic downturns.",
+     "url": "https://doi.org/10.1093/jjfinec/nbag024",
+     "doi": "10.1093/jjfinec/nbag024",
+     "pdf": "https://repositorio.utdt.edu/handle/20.500.13098/14696",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7214987381",
+     "topic": "econ-stats",
+     "origin": "OpenAlex",
+     "title": "Sparse Time-Variation in Conditional Correlations via Penalized Vines: Evidence from Equity Markets",
+     "authors": [
+      "Etiënne Wijler",
+      "André Lucas"
+     ],
+     "journal": "Journal of Financial Econometrics",
+     "date": "2026-08-19",
+     "abstract": "Abstract We develop a data-driven procedure to identify which partial correlations in dynamic systems should be time-varying, constant, or zero. The method integrates a vine-based multivariate partial correlation model with sequential penalized estimation. Applied to fifty U.S. equities and systematic risk factors, results indicate that asset-level correlation dynamics are primarily induced by time-varying exposures to systematic risk factors. We further uncover persistent, non-zero, and occasionally time-varying partial correlations within industries, even after controlling for standard systematic risk and industry factors. Finally, we show how the new methodology can be used to explore the relevance of systematic risk factors in an impartial way.",
+     "url": "https://doi.org/10.1093/jjfinec/nbag025",
+     "doi": "10.1093/jjfinec/nbag025",
+     "pdf": "https://doi.org/10.1093/jjfinec/nbag025",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7204751589",
      "topic": "econ-stats",
      "origin": "OpenAlex",
@@ -49994,9 +50098,217 @@
   {
    "key": "ai-ml",
    "name": "AI·머신러닝",
-   "count": 1394,
-   "new_count": 43,
+   "count": 1415,
+   "new_count": 69,
    "papers": [
+    {
+     "id": "oa:W7226983243",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Space-to-Report: Transforming Spatial Layouts into Narrative Reports for Fluid Iterative Sensemaking",
+     "authors": [
+      "Xuxin Tang",
+      "Eric Krokos",
+      "Kirsten N. Whitley",
+      "Xuan Wang",
+      "Chris L. North"
+     ],
+     "journal": "ACM Transactions on Intelligent Systems and Technology",
+     "date": "2026-11-14",
+     "abstract": "Textual sensemaking in spatial layouts allows users to externalize complex mental models, yet synthesizing these unstructured arrangements into linear narratives remains a severe cognitive burden. Current LLM-assisted tools largely ignore the rich structural and semantic context embedded within 2D space. To address this, we introduce the Space-to-Report framework, a novel paradigm leveraging Space-Augmented Generation (SAG) to translate 2D spatial layouts into steerable constraints for continuous narrative generation. We instantiate this framework in ReSPIRE, a prototype that maps interactive spatial layouts to narrative reports to stimulate human reflection-in-action for iterative sensemaking. An empirical evaluation confirms that SAG achieves predictable, linear controllability over space-report alignment under controlled spatial inputs. Furthermore, a user study ( N = 12) shows that ReSPIRE effectively bridges the gap between human spatial thinking and LLM linear generation, significantly reducing cognitive load while accelerating iteration. Crucially, validated by empirical behavioral logs, the framework drives a fundamental workflow shift toward fluid, iterative sensemaking, positioning the human as a strategic “architect” and the LLM as an aligned “executor” within a shared cognitive space.",
+     "url": "https://doi.org/10.1145/3862851",
+     "doi": "10.1145/3862851",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7227031737",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "GraphRAG for the Chilean dictatorship: A knowledge graph approach to human rights archives",
+     "authors": [
+      "Darwin Sanhueza",
+      "Domingo Mery",
+      "Antonia Fonck Larraín",
+      "Hugo Rojas",
+      "Jocelyn Dunstan"
+     ],
+     "journal": "Big Data & Society",
+     "date": "2026-11-14",
+     "abstract": "Archival research on human rights history records in Spanish, such as historical documents, faces the challenges of noisy Optical Character Recognition (OCR), fragmented testimony, and unstructured text that impede reliable retrieval. We implement GraphRAG, an automated framework that couples retrieval-augmented generation with knowledge graph construction to turn noisy corpora into interactive, verifiable network representations. To validate our proposed method, we apply GraphRAG to historical files on the assassination of Orlando Letelier, a well-known case. The pipeline cleans the OCR text, segments it, and extracts entities and relations under a bespoke ontology; it then performs entity resolution, full-text and vector indexing, community detection, and produces grounded summaries that cite explicit graph evidence. Across six retrieval strategies—vector search, a hybrid vector and keyword method, Cypher property queries, and entity-enhanced variants—we evaluate answers produced by GPT-4o mini and o3 mini against a historian-curated gold standard. The results show that Cypher queries that use properties dramatically reduce hallucinations, while hybrid methods improve recall, achieving 95% precision in a set of gold standard questions. Another case study on disappeared detained archives reveals dense personal and institutional hubs and illustrates GraphRAG's ability to reconcile conflicting testimony into coherent narratives. Our open-source framework offers a scalable blueprint for digital archives, museums, and human rights organizations, reshaping how societies preserve, interrogate, and govern historical data-intensive workflows.",
+     "url": "https://doi.org/10.1177/20539517261490265",
+     "doi": "10.1177/20539517261490265",
+     "pdf": "https://doi.org/10.1177/20539517261490265",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7227516937",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Does Climate Policy Uncertainty Inhibit Corporate Environmental Protection Investment? Empirical Evidence from Chinese A-Share Listed Companies",
+     "authors": [
+      "Wangwang Ding",
+      "Yuhuan Sun",
+      "Ye Lv"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-11-14",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11481-x",
+     "doi": "10.1007/s10614-026-11481-x",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7227856733",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Climate Risk Governance Under Economic Policy Uncertainty: Technology Innovation, Carbon Market Development, and Non-Fossil Energy Transition Resilience in China",
+     "authors": [
+      "Lan Gao",
+      "Kaiyue Feng",
+      "He Haonan"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-11-14",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11488-4",
+     "doi": "10.1007/s10614-026-11488-4",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7228681212",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Analyzing the distributions of influential and susceptible members in a multi-agent model of text-based online communities",
+     "authors": [
+      "Ciro Pinto-Coelho",
+      "Alexander Straub",
+      "Addison Waller",
+      "Michel Cukier"
+     ],
+     "journal": "Journal of Computational Social Science",
+     "date": "2026-11-14",
+     "abstract": "Abstract The topic of influence has existed for millennia, as people have sought to convince, persuade, or coerce others into adopting a perspective or taking an action they would not have taken on their own. The internet has allowed influence practitioners to refine their craft in various ways, including through online social networks, online communities, and blogs. Typical studies of influence aim to identify the most influential community member but do not attempt to pinpoint those most susceptible to influence. In this work, we advocate exploring the distribution of both the probability of being influential and the probability of being susceptible to influence among members of text-based online communities. We employed an agent-based model of such communities to conduct our studies. We compared the distributions of the probability of being influential generated by our Influence Score algorithm with those produced by traditional Centrality and Link Analysis algorithms. Our findings revealed that our Influence Score algorithm produced a distribution that, at the 0.05 significance level, was like that produced by the Hubs Link Analysis algorithm. The other algorithms were shown, also at the 0.05 significance level, to be different. The distribution of the probability of being susceptible to influence showed very few members with probabilities matching those of the most susceptible, but indicated a greater likelihood that multiple members could be considered highly susceptible to influence. These results suggest areas for future research and present ideas for leaders or organizers of text-based online communities to consider as they contemplate how to protect their communities from influence schemes.",
+     "url": "https://doi.org/10.1007/s42001-026-00506-y",
+     "doi": "10.1007/s42001-026-00506-y",
+     "pdf": "https://doi.org/10.1007/s42001-026-00506-y",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7229797648",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Government Regulation and Enterprise Collaboration in Two-tier Public Data Development: An Evolutionary Game Analysis",
+     "authors": [
+      "Wenxiu Hu",
+      "Qinfeng Gao",
+      "Yazhou Liu",
+      "Jiaxing Duan"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-11-14",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11485-7",
+     "doi": "10.1007/s10614-026-11485-7",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7230457915",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Emotional Authorship is Not Solitary Authorship: A Contestability Test for Generative AI",
+     "authors": [
+      "João Miguel Alves Ferreira"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-11-14",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s13347-026-01242-x",
+     "doi": "10.1007/s13347-026-01242-x",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7230458090",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The Digital Commons and the Infrastructural Power of Generative AI",
+     "authors": [
+      "J.O.H. Stone"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-11-14",
+     "abstract": "Abstract The use and construction of generative AI reshape how information flows in society and who controls it. This paper investigates these changes and assesses their potential repercussions for the future of our shared information infrastructure. The findings elucidate an emergent social dilemma in which the use and construction of generative AI tend to degrade and compete with our existing infrastructure, while also layering atop the commons new infrastructure that is, by its current design, centralised and mediated. Yet, alternative futures that preserve the collective nature of our infrastructure remain possible. As a first step toward such futures, this paper concludes by exploring interventions to promote a decentralised and unmediated generative commons.",
+     "url": "https://doi.org/10.1007/s13347-026-01204-3",
+     "doi": "10.1007/s13347-026-01204-3",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01204-3.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7230506336",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "ProF-DXP: A Proxy-Based Fuzzy Framework for Data-Driven and Explainable Prediction of Life Satisfaction from Financial Satisfaction",
+     "authors": [
+      "Emerson R. Rico"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-11-14",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10614-026-11484-8",
+     "doi": "10.1007/s10614-026-11484-8",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7230554809",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "AI and the Responsibility-Bearing Status of Authorship",
+     "authors": [
+      "Caterina Moruzzi"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-11-14",
+     "abstract": "Abstract Generative AI has sharpened an old question: who, or what, can be an author? The central aim of this paper is to reconstruct the conception of authorship already implicit in copyright law. I argue that copyright encodes authorship as a responsibility-bearing status, constituted by a cluster of conditions: intentional agency, guided control, and relational expression (ACE). The paper’s contribution is to make that conception explicit, to show that the human-authorship rule is best understood as a proxy for those capacities, not a species predicate, and to explain why this generates a tension with recognizing current generative AI systems as authors unless one is prepared to attribute to them the thicker agential capacities ACE requires. On that basis, the paper also clarifies why AI-assisted works may still be human-authored, while some AI-generated outputs give rise to genuine authorship gaps.",
+     "url": "https://doi.org/10.1007/s13347-026-01235-w",
+     "doi": "10.1007/s13347-026-01235-w",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01235-w.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7231671254",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "A Two-Phase Framework for Cryptocurrency Portfolio Construction Under Deep Uncertainty: A Hybrid Approach Based on RR-DEA and Robust Optimization",
+     "authors": [
+      "Mohammadmahdi Taheri",
+      "Hossein Ghanbari",
+      "Ronald Ravinesh Kumar",
+      "Peter Josef Stauvermann"
+     ],
+     "journal": "Computational Economics",
+     "date": "2026-11-14",
+     "abstract": "Abstract Investment decision-making is a challenging problem in financial engineering, particularly when investors are presented with multiple investment options. The decision paths become more complex in the space of digital assets, where investors are faced with a huge number of assets to select from, before even deriving optimal allocations. Within virtual space, the market for cryptocurrencies is gaining traction among investors, especially due to its potential for substantial returns and diversification. However, the market for cryptocurrencies presents unique challenges due to its inherent volatility and uncertainty, underscoring the need for a robust and structured investment framework to guide decision-making. Noting this gap in the literature on cryptocurrency investment, we introduce an innovative two-phase framework for cryptocurrency portfolio construction, designed to address the complexities and uncertainties inherent in cryptocurrency markets. In a two-phased analysis, we start with a Robust Ratio Data Envelopment Analysis (RR-DEA) to screen and preselect the most efficient cryptocurrencies from a pool of available assets, followed by the application of a Robust Goal Programming (RGP) optimization procedure to allocate weights based on the investor’s risk preferences, return targets, and other relevant financial goals. The two-phased framework ensures that the final allocation is efficient and adaptable to the dynamics of the cryptocurrency market. We test our framework on 47 cryptocurrencies. Using the RR-DEA, we identify 24 cryptocurrencies. Applying the RGP procedure, we allocate weights and construct different portfolios under various scenarios, addressing uncertainties in the data and aligning with the investor’s objectives. The optimization process is carried out in Excel ® and GAMS ® . The proposed framework provides a robust and practical decision‑support tool for constructing cryptocurrency portfolios in highly volatile and uncertain market environments, enabling investors to systematically preselect efficient assets and derive resilient portfolio allocations that are aligned with their risk preferences, return objectives, and uncertainty considerations.",
+     "url": "https://doi.org/10.1007/s10614-026-11477-7",
+     "doi": "10.1007/s10614-026-11477-7",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s10614-026-11477-7.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7226032385",
      "topic": "ai-ml",
@@ -50046,7 +50358,7 @@
      "abstract": "Background. Cognitive architectures specify the persistent memories, representations, learning processes, and control loops that allow an artificial agent to remain coherent across tasks and time. Foundation models provide broad generative competence, but do not by themselves ensure grounded action, reliable long-horizon memory, calibrated uncertainty, execution monitoring, or accountable learning. Objectives. This critical integrative review examines how cognitive-architecture principles are being used to govern foundation-model agents. Taking the last comprehensive pre-foundation-model survey of cognitive architectures (Kotseruba & Tsotsos, first published online in 2018) as its historical baseline, it maps developments across twelve ability channels, identifies recurring integration patterns, and derives testable design and evaluation requirements. Methods. We combined a historical-theoretical synthesis with a focused, PRISMA-informed evidence map of English-language records indexed in Scopus and the Web of Science Core Collection, searched in July 2026 over the 2018–2026 window. Queries required terms for cognitive architectures or architecture-level cognitive systems, foundation or generative models, and governance-relevant mechanisms. The searches identified 1,173 records; after deduplication, rule-based filtering, and LLMassisted title-and-abstract assessment, 119 works were retained and examined in full text. Because the 660 candidate records were not all independently human-rescreened, the corpus is interpreted as a reproducible focused evidence map rather than an exhaustive systematic review. Results. All included works were published or available online in 2023–2026. Five recurring integration patterns were identified: foundation models used for knowledge or generative memory, language or multimodal interfaces, heuristic proposal or planning, rule or model bootstrapping, and bidirectional neuro-symbolic coupling. Across these patterns, a recurring design principle is to place foundation models inside persistent control loops that provide explicit state, provenanceaware memory, verification, metacognitive arbitration, execution monitoring, and recovery. Evaluation remains uneven, particularly for calibration, retention, transfer, long-horizon robustness, disturbance recovery, and reproducibility. Conclusions. We propose governed hybrid agency, an Architectural Governance Stack, typed interface contracts, and a risk-based evaluation scorecard. These are integrative, falsifiable comparison targets rather than a validated universal architecture, and their value should be tested through matched ablations, intervention-sensitive evaluation, and cross-domain replication. A worked example instantiates the framework as a modular requirements-engineering reasoning architecture.",
      "url": "https://doi.org/10.1613/jair.1.23727",
      "doi": "10.1613/jair.1.23727",
-     "pdf": "https://doi.org/10.1613/jair.1.23727",
+     "pdf": "https://www.jair.org/index.php/jair/article/download/23727/27384",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -50061,10 +50373,10 @@
      ],
      "journal": "AI Magazine",
      "date": "2026-11-13",
-     "abstract": "",
+     "abstract": "What distinguishes a cat that climbs a cabinet and turns a doorknob to exit a room from your favorite large language model (LLM) chatbot or agent?The cat possesses an intuitive understanding of physical laws-gravity, friction, its own body dynamics-and can plan and execute a sequence of actions without explicit instruction or prior training on that specific task.In contrast, an LLM chatbot generates responses token by token, trained on vast symbolic datasets but lacking three abilities: (1) an understanding of the physical world, (2) an ability to predict the consequences of its own actions, (3) an ability to plan a sequence of actions to accomplish a particular task.Future advanced machine intelligence must integrate the cat's embodied reasoning capabilities alongside the linguistic proficiency of current models.This paper argues that scaling token-generative architectures alone will not deliver the next AI revolution.Instead, progress requires a fundamental shift toward world models: Learned internal representations that encode the state of the environment, predict the outcomes of potential actions, and enable planning under explicit objectives and constraints.Contemporary AI systems remain surprisingly limited in the kinds of intelligence that humans and animals demonstrate effortlessly in physical settings (LeCun, 2022).Moreover, this worldmodel paradigm must extend to human-facing agents that comprehend users' knowledge, beliefs, goals, and social contexts (Fung et al., 2025).",
      "url": "https://doi.org/10.1002/aaai.70110",
      "doi": "10.1002/aaai.70110",
-     "pdf": "https://doi.org/10.1002/aaai.70110",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70110",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -50089,7 +50401,7 @@
      "abstract": "Abstract Multi‐agent system (MAS) interoperability falls short in three crucial areas: trust, policy, and teamwork . First, we argue that the requirement for trust goes far beyond the basic requirements of authentication. Importantly, accurate trust calibration requires access to robust, verifiable, continuously updated evidence based on experience. Second, we describe the value of digital policy services . Complementing internal mechanisms to ensure agent safety, policy services regulate agents externally —that is, without requiring their consent or cooperation. Third, in contrast to many common orchestration approaches for multi‐agent cooperation, agent teamwork support mechanisms encourage “combine and succeed” rather than “divide and conquer” strategies. To illustrate such approaches in practice, we present three specific examples: (1) blockchain technology adapted to MAS as a trust monitoring and orchestration substrate, (2) sophisticated digital policy services (KAoS), and (3) a KAoS‐enabled agent teamwork framework (Luna). We believe that greater attention to the missing interoperability layers of trust, policy, and teamwork will enable safer and more widespread deployment of MAS in consequential applications. In the spirit of the Multi‐Agent System Safety and Teamwork (MASST) initiative, we look forward to collaborating with like‐minded partners to bring effective open‐source solutions for the missing interoperability layers outlined here—and others—to full fruition.",
      "url": "https://doi.org/10.1002/aaai.70120",
      "doi": "10.1002/aaai.70120",
-     "pdf": "https://doi.org/10.1002/aaai.70120",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70120",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -50109,7 +50421,7 @@
      "abstract": "As machine learning becomes increasingly important in areas that handle sensitive data, preserving data privacy is crucial. We present a comprehensive systematic literature review of privacy-preserving deep learning applications. We categorize research papers in this field from 2017 to May 2024, distinguishing between inference and training, and considering single and multiple data owners. Our taxonomy offers a structured approach to understanding state-of-the-art methods and their suitability for various applications. We further provide real-world examples of each scenario to illustrate their practical relevance and discuss challenges and limitations. In addition to reviewing the existing research literature on privacy-preserving deep learning, we identify gaps in current knowledge and suggest future research directions. Our findings show that execution times are steadily decreasing, making privacy-preserving deep learning increasingly practical. Defending models against privacy attacks still poses challenges and often leads to decreased utility, e.g., in terms of accuracy, one of many trade-offs discussed in this paper. By systematizing a vast body of existing work and providing practical guidelines for technique selection and deployment, our paper serves as a valuable resource for experts, practitioners, and newcomers alike, facilitating cross-disciplinary collaboration and advancements in privacy-preserving deep learning.",
      "url": "https://doi.org/10.1613/jair.1.21094",
      "doi": "10.1613/jair.1.21094",
-     "pdf": "https://doi.org/10.1613/jair.1.21094",
+     "pdf": "https://www.jair.org/index.php/jair/article/download/21094/27385",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -50126,7 +50438,7 @@
      "abstract": "Abstract This opinion article examines the evolving landscape of artificial intelligence by contrasting human intelligence with machine capabilities across physical, perceptual, cognitive, metacognitive, and social dimensions. As AI shifts from narrow task‐oriented models to general‐purpose agents and autonomous systems, the article addresses critical technical and existential challenges, including model hallucinations, opaque capabilities, and skills displacement. To ensure AI is safe and beneficial alignment with human interests, it advocates moving beyond conventional post‐training techniques toward objective‐driven architectures grounded in self‐awareness, metacognition, and human values. Ultimately, the piece calls for reorienting education and society to cultivate the human mind—fostering ethical, compassionate polymaths capable of thriving alongside advanced machine intelligence.",
      "url": "https://doi.org/10.1002/aaai.70109",
      "doi": "10.1002/aaai.70109",
-     "pdf": "https://doi.org/10.1002/aaai.70109",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70109",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -50618,7 +50930,7 @@
      "doi": "10.1007/s13347-026-01227-w",
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225703649",
@@ -50639,7 +50951,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "초기 루머 탐지는 희박하고 불완전한 전파 단계에서 검증 라벨을 예측합니다. 클래스 조건부 토폴로지 확산과 Transformer 중재자를 결합한 접두사 조건부 프레임워크인 RumorDiffusion을 소개합니다. 생성기는 성숙한 훈련 단계에서 토폴로지 및 기능 분포를 학습합니다. 추론 시 관찰된 접두사를 사용하여 각 클래스 가설에 대한 잠재적인 벡터를 생성하고 중재자는 결과 벡터를 검증 확률로 변환합니다. 2단계 훈련 방식은 생성기를 사전 훈련한 다음 중재자가 판별 집계를 학습하는 동안 이를 동결합니다. 반복된 확률론적 예측은 평균 확률과 불일치 통계를 제공합니다. 검증 기반 온도 스케일링 및 신뢰도 임계값은 이러한 예측을 바탕으로 선별적인 조기 결정을 지원합니다. Twitter15, Twitter16, Weibo 및 PHEME에 대한 실험에서는 초기 관찰 기간 동안 분류, 구성요소 기여도, 보정, 샘플링 비용 및 소스 전용 전송을 평가합니다. RumorDiffusion은 4개의 주요 비교 중 3개와 초기 데이터 세트 창 비교 중 9개에서 가장 높은 정확도와 Macro-F1을 달성합니다. 주요 비교인 Macro-F1은 Twitter15에서 0.838, Twitter16에서 0.854, Weibo에서 0.908에 도달했습니다. 구성 요소 제거는 클래스 조건 표현의 기여도를 정량화합니다. 온도 스케일링은 Macro-F1을 유지하면서 예상 교정 오류(ECE)를 줄입니다. RumorDiffusion은 Mac에서도 가장 높은 전송률을 달성합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225715513",
@@ -50658,7 +50970,7 @@
      "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01487-4.pdf",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "Abstract 인공 지능(AI) 기반 추천 시스템은 점점 더 우리가 정보를 소비하고, 제품을 구매하고, 연결을 형성하는 방식을 중재합니다. 이 개념 논문에서 우리는 이러한 시스템이 즉각성과 자기 중심주의라는 두 가지 기본 편의성 차원을 조작화한다고 주장합니다. 이러한 편의성 차원은 사용자를 장기적이고 할당적인 관점과 디지털 기술에 대한 책임 있는 참여에 필요한 주체 보존에서 멀어지게 합니다. 분석의 틀을 잡기 위해 우리는 편의성과 배려라는 두 가지 반대 세력으로 형성된 심의 공간의 2차원 모델을 개발하고 AI 기반 추천 시스템의 윤리적 개발, 규제 및 사용을 위한 규범적 이상 및 개념적 프레임워크로서 책임 있는 편의성을 도입합니다. 해석학적 방법론과 내러티브 이론을 기반으로 구조화된 내러티브 참여가 어떻게 사용자, 개발자 및 규제 기관 사이의 윤리적 인식을 높이고 배려의 힘을 증폭시키고 편의성에 반하는 방식을 이론화합니다. 게리 슈테인가르트(Gary Shteyngart)의 소설 Super Sad True Love Story를 자세히 읽어보면 내러티브가 알고리즘을 통해 중재된 인간 연결의 장기적인 결과에 대한 숙고를 어떻게 촉발할 수 있는지 보여줍니다. 미래의 실증적 연구는 서술적 참여가 시간적, 대인 관계의 지평을 확장하고 돌봄을 행동, 설계 또는 규제 변화로 변환하는지 여부, 방법 및 제도적 조건 하에서 조사할 수 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225731339",
@@ -50677,7 +50989,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "\"환경 데이터 정의 미래\"라는 제목의 과학, 기술 및 인간 가치에 대한 이 주제 컬렉션은 환경 데이터 정의(EDJ)가 좋은/나쁜 데이터 바이너리를 뛰어넘기 위해 데이터 관행을 어떻게 중심화하고 맥락화하는지 조사합니다. 프레임워크로서 EDJ는 지역사회 기반 연구 및 실천에 뿌리를 두고 있으며 북미 환경 데이터 및 거버넌스 이니셔티브에서 출발하여 환경 정의와 데이터 정의 운동을 모두 활용합니다. EDJ의 지적 뿌리는 규제 시스템에 대한 비판과 무지의 생산을 강조하지만, 페미니스트와 원주민 세계관을 향한 움직임은 이러한 시스템 외부의 데이터 관행을 안내합니다. 이 기사는 EDJ의 주요 주제를 강조합니다: 공동체가 연구의 수용과 거부를 통해 인식론적 주체를 제정하는 방법; 실무자들이 결함이 있는 정부 데이터를 주의 깊게 수정할 수 있는 방법; 그리고 지역 사회가 불균형한 노출로 인해 혜택을 받는 사람들에게 증명의 부담과 알아야 할 의무를 어떻게 전가할 수 있는지에 대해 설명합니다. 전체적으로 EDJ는 데이터로 간주되는 것이 무엇인지, 대체 인프라에 어떻게 정보를 제공할 수 있는지를 적극적으로 재구성하는 살아있는 관행으로 참여하고 있습니다. 이 컬렉션은 EDJ가 단일 모델을 제공하기보다는 성찰적 관행을 통해 지속적으로 변화함에 따라 다양한 접근 방식과 약속을 반영합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7131289462",
@@ -51928,6 +52240,128 @@
      "is_new": false
     },
     {
+     "id": "oa:W4416058447",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The Hierarchical Barycenter: Conditional Probability Simulation with Structured and Unobserved Covariates",
+     "authors": [
+      "Esteban G. Tabak",
+      "Giulio Trigila",
+      "Wenjun Zhao"
+     ],
+     "journal": "Machine Learning",
+     "date": "2026-11-01",
+     "abstract": "A new methodology is presented for conditional probability density simulation, designed to work with unstructured data sets where not all data points have the same covariates, yet they share common information. Specific examples considered in this article fall into two main classes: homogeneous data with missing covariate values, and data sets divided into two or more groups with covariates that overlap only partially. The methodology, based on the mathematical theory of optimal transport, extends the optimal transport barycenter problem to a newly defined hierarchical barycenter problem. A data driven numerical procedure is developed for the solution of the hierarchical barycenter problem, which is used to illustrate the new problem’s advantages over the classical barycenter problem on synthetic and real world data sets.",
+     "url": "https://doi.org/10.1007/s10994-026-07186-9",
+     "doi": "10.1007/s10994-026-07186-9",
+     "pdf": "https://arxiv.org/pdf/2508.00206",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "abs_src": "보충",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7140210380",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Advancing Rotation and Scale-Invariant Trajectory Representations for Maritime and Aviation Mobility Data Analysis",
+     "authors": [
+      "Cristiano Landi",
+      "Natalia V. Andrienko",
+      "Gennady Andrienko",
+      "Riccardo Guidotti"
+     ],
+     "journal": "Machine Learning",
+     "date": "2026-11-01",
+     "abstract": "Spatiotemporal data from connected vehicles, sensors, and GPS-enabled devices increasingly support applications ranging from traffic management to environmental analysis. Whereas earlier studies relied on aggregated flows or coarse-grained movement representations, high-frequency data now enable the analysis of fine-grained individual motion and the geometric properties of trajectories. In movement-constrained settings such as road traffic, geometric detail may be of limited value, but in unconstrained environments such as maritime and aviation mobility data, movement geometry can provide important cues about underlying activities. Despite this potential, geometry-based trajectory analysis remains underexplored and is often constrained by rigid decision rules that limit real-world applicability. This paper introduces RoSITa , a spatiotemporal analytics framework that leverages rotation- and scale-invariant shape signatures derived from a relative Hough transform to cluster and structure subtrajectory patterns for intuitive visual exploration. We demonstrate how RoSITa supports visual inspection to identify similar trajectory segments and show that it outperforms existing approaches on a classification benchmark when the task is driven by movement geometry. Finally, we present two real-world case studies illustrating its ability to capture 2D and 3D motion dynamics, enable interpretable human-in-the-loop analysis, and facilitate the generation of labeled data for future machine learning applications.",
+     "url": "https://doi.org/10.1007/s10994-026-07199-4",
+     "doi": "10.1007/s10994-026-07199-4",
+     "pdf": "https://doi.org/10.1007/s10994-026-07199-4",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7227808199",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "STEANet: Efficiently learning spatio-temporal affective representations from videos",
+     "authors": [
+      "Jin Zhou",
+      "Yun Yi",
+      "Hanli Wang",
+      "Tinghua Wang",
+      "Wenyu Hu",
+      "Pengjie Tang"
+     ],
+     "journal": "Artificial Intelligence",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.artint.2026.104660",
+     "doi": "10.1016/j.artint.2026.104660",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7228438115",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The Power of Uniform Sampling for (k, z)-Clustering",
+     "authors": [
+      "Duanrui Chen",
+      "Lingxiao Huang",
+      "Shaofeng H.-C. Jiang",
+      "Jianing Lou"
+     ],
+     "journal": "Machine Learning",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10994-026-07184-x",
+     "doi": "10.1007/s10994-026-07184-x",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7228825641",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Query Selection with Proper Latent-Representation Similarity in Preference-Based Reinforcement Learning",
+     "authors": [
+      "Chunru Dong",
+      "Aoxiang Wang",
+      "Yang Wang",
+      "Qiang Hua",
+      "Feng Zhang"
+     ],
+     "journal": "Machine Learning",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1007/s10994-026-07197-6",
+     "doi": "10.1007/s10994-026-07197-6",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7229894539",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Efficient Extraction of EL+-Ontology Deductive Modules",
+     "authors": [
+      "Hui Yang",
+      "Yue Ma",
+      "Nicole Bidoit"
+     ],
+     "journal": "Artificial Intelligence",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.artint.2026.104658",
+     "doi": "10.1016/j.artint.2026.104658",
+     "pdf": "https://doi.org/10.1016/j.artint.2026.104658",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7225982925",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -51939,7 +52373,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-11-01",
-     "abstract": "",
+     "abstract": "The authors discuss the need to develop cooperative and sustainable funding approaches to support the global infrastructure of biodata resources that are critical to the global research endeavor in the life sciences. They highlight the work of the Global Biodata Coalition, which is seeking to bring together research funders, biodata resource leaders, and other stakeholders from around the world to characterize this infrastructure and pilot new funding models.",
      "url": "https://doi.org/10.1016/j.patter.2026.101722",
      "doi": "10.1016/j.patter.2026.101722",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101722",
@@ -51956,10 +52390,10 @@
      ],
      "journal": "Patterns",
      "date": "2026-11-01",
-     "abstract": "",
+     "abstract": "Intelligent traffic control systems collect real-time traffic data to optimize traffic signal timing strategies. However, the widespread over-deployment of traffic detectors often fails to deliver proportional improvements while incurring substantial computational resource waste. A more cautious and informed decision-making strategy is needed for traffic detector deployment and computational resource reallocation.",
      "url": "https://doi.org/10.1016/j.patter.2026.101696",
      "doi": "10.1016/j.patter.2026.101696",
-     "pdf": "https://doi.org/10.1016/j.patter.2026.101696",
+     "pdf": "https://www.cell.com/patterns/pdf/S2666-3899(26)00205-9.pdf",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -51973,7 +52407,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-11-01",
-     "abstract": "",
+     "abstract": "This month's issue of Patterns includes three papers related to the US National Institute of Health’s (NIH) Common Fund Data Ecosystem (CFDE), a major NIH initiative launched in 2019 that aims to promote scientific progress by integrating and making accessible data and knowledge resources generated across the NIH Common Fund programs.",
      "url": "https://doi.org/10.1016/j.patter.2026.101725",
      "doi": "10.1016/j.patter.2026.101725",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101725",
@@ -51990,7 +52424,7 @@
      ],
      "journal": "Patterns",
      "date": "2026-11-01",
-     "abstract": "",
+     "abstract": "AI alignment research often assumes that human values constitute a coherent target for optimization. This perspective argues that this assumption obscures two prior sources of target instability. First, humans exhibit systematic misalignment between stated values and revealed behavior across domains including environmental stewardship, health, and economic decision-making. Second, many of the values that AI systems may be asked to reflect are politically contested rather than merely being under-implemented. Drawing on moral psychology, behavioral economics, public health, and AI governance, I argue that the prior misalignment problem transforms AI alignment from a primarily technical challenge into one that also concerns human self-regulation, value pluralism, institutional legitimacy, and democratic contestation. Navigating the AI transition, therefore, requires not only better alignment algorithms but sustained attention to how humans form, fail to embody, dispute, and institutionalize their values.",
      "url": "https://doi.org/10.1016/j.patter.2026.101690",
      "doi": "10.1016/j.patter.2026.101690",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101690",
@@ -53418,6 +53852,43 @@
      "is_new": false
     },
     {
+     "id": "oa:W7223679208",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "A graph neural network approach to physical distress screening in subsidized housing",
+     "authors": [
+      "Nischal Subedi",
+      "Danush K. Wijekularathna"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-10-26",
+     "abstract": "Abstract Housing agencies must prioritize physical inspections across tens of thousands of subsidized properties while lacking systematic condition data for most. We demonstrate that Graph Attention Networks (GATs) can propagate distress signals from inspected to uninspected properties through ownership and spatial networks, substantially improving screening efficiency over conventional approaches. Ownership connections add predictive value beyond geographic proximity. Removing them lowers performance, and properties linked to owners with distressed properties elsewhere face elevated predicted risk, even within the same neighborhoods. This finding is consistent with theoretical claims that maintenance outcomes cluster at the portfolio level rather than merely reflecting neighborhood poverty. Cross-program validation also exposes important limitations. In a separate feature-based experiment, an XGBoost model trained on federally inspected Section 8 properties achieved near-random performance when applied to the available Low-Income Housing Tax Credit sample, with an AUC of 0.515. Because this experiment did not directly evaluate the GAT, it does not determine whether graph-based representations would improve cross-program transfer. The result nevertheless cautions against applying models trained on U.S. Department of Housing and Urban Development-inspected properties to other program contexts without program-specific validation. Integrating predictions with economic pressure measures, we identify properties facing compounded threats, including simultaneous physical distress, market exit pressure, contract expiration, and advanced age. These properties concentrate geographically, creating opportunities for targeted intervention. We contribute methodologically by demonstrating what graph neural networks can accomplish within an administratively coherent setting while identifying important limits to cross-program transfer across fragmented housing policy landscapes.",
+     "url": "https://doi.org/10.1017/dap.2026.10105",
+     "doi": "10.1017/dap.2026.10105",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/821DF520D3987E53C2FD73B4B6B81B39/S2632324926101059a.pdf/div-class-title-a-graph-neural-network-approach-to-physical-distress-screening-in-subsidized-housing-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7223685083",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Inequalities and over-indebtedness: the spatial patterns of County Court Judgments in England and Wales",
+     "authors": [
+      "Matthew Howard",
+      "Paul R. Williamson",
+      "Olga Gkountouna"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-10-26",
+     "abstract": "Abstract With rising costs of living, concerns over the stability of household finances dominate every level of decision-making, from individuals choosing which expenses to prioritise to government policy. Using County Court Judgment (CCJ) data (a record of defaults on unsecured debts acknowledged by the UK legal system) between 2016 and 2023, this paper explores the spatial distribution of households facing legal repercussions for debt arrears in England and Wales. We then provide high-resolution evidence of the shared socioeconomic characteristics of these areas. The results of this analysis demonstrate that areas facing the highest rates of CCJs are often those that are experiencing the greatest social and economic challenges. However, whilst general deprivation measures do broadly align with higher cases per capita, focusing on specific features provides a substantially more accurate picture of where the highest rates are found, with tenure type being found to have the greatest influence on expected indebtedness. We then consider an approach to relaxing the assumptions about spatial uniformity that underpin our initial model. A mixed-effects model demonstrates modest improvements, correcting for spatial concentrations of errors, whilst a regional model suggests significant sub-national variations in driver effects. Overall, the results presented use a novel data source to provide further support for a number of established theories about the drivers of indebtedness in England and Wales, whilst questioning the extent to which these theories apply equally across space.",
+     "url": "https://doi.org/10.1017/dap.2026.10104",
+     "doi": "10.1017/dap.2026.10104",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5BC70163ECB20916816FEA617B02BCFF/S2632324926101047a.pdf/div-class-title-inequalities-and-over-indebtedness-the-spatial-patterns-of-county-court-judgments-in-england-and-wales-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W4409145249",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -53943,6 +54414,25 @@
      "first_seen": "2026-10-24T09:53:47+09:00",
      "abstract_ko": "Abstract 편집 정책에서는 작성자에게 생성 AI의 실질적인 사용을 공개하도록 점점 더 요구하고 있지만 이러한 요구 사항은 일반적으로 모델이 사용되었는지, 어디서, 어떻게 사용되었는지에 초점을 맞춥니다. 기능별 공개조차도 그 결과가 어떻게 학문적 판단에 들어왔는지, 어떻게 평가되었는지, 또는 기여자가 해당 결과를 충분한 정당성으로 취급하지 않고 관련 추론을 재구성하고 결과 주장을 방어할 수 있는지 여부를 보여주지 않고 연구 또는 집필 과정에서 모델을 찾을 수 있습니다. 연구 윤리, AI 공개 정책, 인간-모델 상호 작용 및 연구자 형성을 바탕으로 이 기사에서는 공개 문서 모델 사용을 문서화하는 반면 책임 있는 사용에는 청구 수준의 권한 부여 보증, 즉 기여 내에서 청구를 이해하고 정당화하고 방어할 수 있는 기여자의 능력이 필요하다고 주장합니다. 이 기사에서는 모델 출력이 실질적인 선택, 해석 또는 정당화를 형성하는 인지적 위임을 일반적으로 판단의 내용과 관련이 없는 일상적 위임과 구별합니다. 그것의 개념적 기여는 판단을 형성하는 출력의 인식적 역할을 결정을 정당화하고 결과적인 주장에 대한 보증을 유지하는 데 필요한 기능에 적합한 평가와 연결하는 것입니다. 그런 다음 공개 범주를 주장에 민감한 사전 경험적 방법으로 다시 사용하여 6가지 반복 연구 기능을 위험, 감독 형태 및 인지적 위임을 인식하고 기능에 적합한 평가자를 선택하기 위한 형성 질문에 매핑합니다.",
      "is_new": false
+    },
+    {
+     "id": "oa:W7223186142",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The 10 billion travel world: Continuity and change in global transnational mobility (1995–2022)",
+     "authors": [
+      "Tobias Grohmann",
+      "Ettore Recchi",
+      "Luca Bernasconi"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-10-22",
+     "abstract": "Abstract Notwithstanding its size and importance in a globalized world, there is little systematic information about the volume and direction of human travel that considers both migration and other kinds of mobility. This article introduces new estimates of the volume of migratory and non-migratory human travel across country borders worldwide between 1995 and 2022. Building on pioneering work by Recchi et al. (2019, Estimating Transnational Human Mobility on a Global Scale), the estimates integrate information from three major sources: tourism data, air passenger data, and migration data. Our estimates reveal that total transnational mobility increased from 5.29 billion trips in 1995 to 10.66 billion in 2019, largely outpacing global population growth and telling a story of continued globalization in that period—or, more precisely, of regional integration, since four out of five cross-border travels occur within the same world region. Across the board, migration (i.e., travel followed by residence change) constitutes a tiny and decreasing fraction of international travel; less than 1% worldwide and as low as .12% in Europe. Amidst the sustained growth in volume, the global network of human cross-border mobility has experienced slow “tectonic shifts” in some of its major clusters, while maintaining a stable configuration in others.",
+     "url": "https://doi.org/10.1017/dap.2026.10102",
+     "doi": "10.1017/dap.2026.10102",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74F0546C6339043147DD1CB5602E5488/S2632324926101023a.pdf/div-class-title-the-10-billion-travel-world-continuity-and-change-in-global-transnational-mobility-1995-2022-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W4416056949",
@@ -54813,7 +55303,7 @@
      "abstract": "Despite growing interest in automation and clean energy transitions, previous research has largely ignored the heterogeneous relationship between robotics adoption and Sustainable Development Goal 7 (SDG 7), especially in rapidly industrializing economies such as China. This study addresses this gap by examining the robotics-SDG7 nexus using quarterly data for China from 2011Q1 to 2023Q4 and a wavelet quantile framework. The results show that the nexus is nonlinear, distribution-dependent, and time-varying. Wavelet quantile cointegration indicates that robotics adoption and SDG7 are cointegrated primarily in the short-term frequency band, establishing a stable equilibrium relationship that provides the empirical foundation for subsequent quantile regression analysis. Building on this foundation, the directional quantile estimates and CQR robustness checks reveal bidirectional effects, clean energy progress stimulates robotics adoption, particularly at higher quantiles, while robotics adoption improves SDG7 outcomes across most quantiles. Medium-term effects become more concentrated across specific quantiles, reflecting adjustment dynamics and potential rebound effects. In the long term, the directional relationship strengthens again, indicating that sustained robotics adoption and clean energy progress support structural shifts toward cleaner energy systems. The CQR robustness checks further validate the bidirectional and nonlinear relationship across the joint distribution. These findings highlight the need for coordinated policies that align industrial automation with renewable energy expansion to accelerate sustainable industrial transformation in China and other emerging economies.",
      "url": "https://doi.org/10.1016/j.jrt.2026.100196",
      "doi": "10.1016/j.jrt.2026.100196",
-     "pdf": "https://doi.org/10.1016/j.jrt.2026.100196",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S266665962600048X/pdf",
      "first_seen": "2026-10-19T09:19:23+09:00",
      "abstract_ko": "자동화 및 청정 에너지 전환에 대한 관심이 증가하고 있음에도 불구하고 이전 연구에서는 특히 중국과 같이 빠르게 산업화되는 경제에서 로봇 공학 채택과 지속 가능한 개발 목표 7(SDG 7) 간의 이질적인 관계를 대부분 무시했습니다. 이 연구는 2011년 1분기부터 2023년 4분기까지 중국의 분기별 데이터와 웨이블릿 분위수 프레임워크를 사용하여 로봇공학-SDG7 넥서스를 조사함으로써 이러한 격차를 해결합니다. 결과는 넥서스가 비선형적이고 분포에 따라 다르며 시간에 따라 변한다는 것을 보여줍니다. 웨이블릿 분위수 공적분은 로봇 공학 채택과 SDG7이 주로 단기 주파수 대역에서 공적분되어 후속 분위수 회귀 분석을 위한 실증적 기반을 제공하는 안정적인 평형 관계를 설정함을 나타냅니다. 이러한 기반을 바탕으로 방향성 분위수 추정 및 CQR 견고성 검사는 양방향 효과를 드러내고, 청정 에너지 발전은 특히 더 높은 분위수에서 로봇 공학 채택을 촉진하는 반면, 로봇 공학 채택은 대부분의 분위수에서 SDG7 결과를 향상시킵니다. 조정 역학 및 잠재적 반등 효과를 반영하여 중기 효과가 특정 분위수에 더욱 집중됩니다. 장기적으로 방향 관계가 다시 강화되어 지속적인 로봇 공학 채택과 청정 에너지 발전이 청정 에너지 시스템으로의 구조적 전환을 지원한다는 것을 나타냅니다. CQR 견고성 검사는 결합 분포 전반에 걸쳐 양방향 및 비선형 관계를 추가로 검증합니다.",
      "is_new": false
@@ -56193,6 +56683,23 @@
      "is_new": false
     },
     {
+     "id": "oa:W7220938239",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Towards a data-driven European twin transition: an analysis of the EU data sharing strategy from a conceptual lens of Pareto efficiency",
+     "authors": [
+      "Öznur Uğuz"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-10-08",
+     "abstract": "Abstract COVID-19, climate change, and Russia’s invasion of Ukraine have underscored the importance of environmental sustainability and digitalisation for maintaining the EU’s economic stability, social resilience, and global position. Green and digital transition strategies have emerged as a response to these immediate challenges, aiming to mitigate their negative impact on European citizens and businesses and ensure the EU’s smooth transition to an environmentally sustainable digital economy. While green and digital transitions are often viewed as separate issues of conflicting nature, their interaction presents an immense potential for the EU’s increased growth and global competitiveness, indicating the importance of a twin transition for the future of Europe. As an intersecting central element of both the green and digital transitions, data can play a critical role in the achievement of the European twin transition. Through regulation, data sharing can be used as an effective instrument to leverage data towards the EU’s mutually reinforcing green and digital transitions. Embracing this approach, this article first demonstrates how data as an economic good can be leveraged through regulation as a catalyst for the twin transition by using data sharing as a redistribution mechanism that reallocates the socio-economic value of data. It then adopts Pareto efficiency as a conceptual benchmark to analyse to what extent the current EU data strategy contributes to the twin transition based on this framework. Finally, the article concludes with a brief discussion on how the Digital Omnibus may affect the interplay between the EU’s data strategy and its twin transition.",
+     "url": "https://doi.org/10.1017/dap.2026.10103",
+     "doi": "10.1017/dap.2026.10103",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6B926518BC9CFD55875453CF2D399DEB/S2632324926101035a.pdf/div-class-title-towards-a-data-driven-european-twin-transition-an-analysis-of-the-eu-data-sharing-strategy-from-a-conceptual-lens-of-pareto-efficiency-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7125799927",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -57218,6 +57725,28 @@
      "abs_src": "보충",
      "abstract_ko": "디지털 플랫폼은 점점 더 상세한 협업 활동의 흔적을 제공하지만, 이러한 흔적은 기여가 대체로 독립적으로 유지되는지 또는 상호 작용을 통해 보다 구조화된 형태의 공동 작업이 나타나는지 직접적으로 나타내지 않습니다. 본 논문은 연구 대상 집단이 사전에 팀으로 정의되지 않은 경우 그러한 조직을 측정하는 방법론적 문제를 다룬다. 우리는 협력 활동이 팀워크와 관련된 속성을 표현하는 정도로 이해되는 팀성 측정을 위한 추적 기반 방법을 제안합니다. 이 방법은 확립된 팀워크 차원을 디지털 추적에서 복구할 수 있는 행동 지표로 변환합니다. 이러한 지표는 개별적으로 검사할 수 있으며 공동 표현의 복합 측정을 통해 요약할 수 있습니다. 사전 정의된 팀 멤버십이 필요하지 않으며 공동 작업 환경에 맞게 조정되도록 설계되었습니다. 우리는 영어 Wikipedia의 Medicine WikiProject에 있는 52,437개 기사의 개정 내역을 사용하여 방법을 설명합니다. 이 기사는 1천만 개 이상의 사람이 편집한 내용으로 구성됩니다. 기사-월을 관찰 단위로 사용하여 애플리케이션은 팀과 같은 조직의 다양한 차원이 뚜렷한 패턴을 표시하고 공동 표현이 시간이 지남에 따라 동일한 기사 내에서 달라질 수 있음을 보여줍니다. 기여는 행동 추적에서 직접 집단 조직의 등급 및 동적 형태를 검사하기 위한 일반적인 측정 프레임워크입니다.",
      "is_new": false
+    },
+    {
+     "id": "oa:W7215043646",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "AIMS-QA: a framework for scaling the assessment of corporate modern slavery statements beyond compliance with AI-driven question answering",
+     "authors": [
+      "Adriana-Eufrosina Bora",
+      "Duoyi Zhang",
+      "Hannah Thinyane",
+      "Md Abul Bashar",
+      "Richi Nayak",
+      "Kerrie Lee Mengersen"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-10-02",
+     "abstract": "Abstract The UK and Australian Modern Slavery Acts require large corporations to disclose annually how they address modern slavery risks in their operations and supply chains. Existing methods assess only a small proportion of these disclosures, or narrowly against explicit legal criteria, overlooking deeper indicators of corporate commitment. This paper presents AIMS-QA, an AI-driven framework for assessing modern slavery statements at scale and beyond compliance. It is built on a structured taxonomy synthesising 13 benchmarking methodologies from academic and civil-society analyses, consolidating 473 metrics into 209 streamlined questions across 115 thematic topics. From these, a 37-question priority framework captures the most widely used indicators while retaining key statutory requirements. The seven reporting criteria of the Australian Modern Slavery Act provide the analytic anchor, with each question tagged as either a statutory baseline requirement (reflecting jurisdiction-specific legal obligations) or a beyond compliance expectation (reflecting stakeholder, investor, and civil-society priorities). The paper then introduces a two-stage AI-driven question answering pipeline. The first stage uses a fine-tuned classification model to extract relevant evidence, which is passed to a large language model, guided by domain-specific prompts, to generate targeted answers. A second-stage retrieval-augmented generation (RAG) Watchdog intervenes where the classifier finds insufficient evidence or the language model cannot answer confidently. Designed for triage and screening rather than enforcement, with human-in-the-loop oversight, AIMS-QA gives policymakers, regulators, and stakeholders a research-informed means of strengthening the monitoring and impact of modern slavery legislation.",
+     "url": "https://doi.org/10.1017/dap.2026.10101",
+     "doi": "10.1017/dap.2026.10101",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B6D724B08D7CE33379D1E9DD3BB9862/S2632324926101011a.pdf/div-class-title-aims-qa-a-framework-for-scaling-the-assessment-of-corporate-modern-slavery-statements-beyond-compliance-with-ai-driven-question-answering-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W7215698865",
@@ -58454,6 +58983,25 @@
      "is_new": false
     },
     {
+     "id": "oa:W7214717387",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "The “missing link” in data-informed governance: An exploratory study of data-related capabilities",
+     "authors": [
+      "Fernando Fernández-Monge",
+      "Quinton Mayne",
+      "Jorrit de Jong"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-29",
+     "abstract": "Abstract Academics and practitioners recognize the importance of data to achieve critical public value outcomes: more effective services, more efficient use of resources, more equitably distributed benefits, and increased transparency and accountability of government action. Scholars are increasingly trying to understand the conditions that influence public organizations’ ability to use data to meet these goals, but existing research largely follows two separate approaches to studying this phenomenon. Some researchers take organizations as their main unit of analysis to understand how organizational configurations and resource endowments explain differences across governments. Other scholars study how individuals’ competencies and behaviors affect effective interpretation of data and its use to make decisions. Between these two poles lies a missing link: the collective and coordinated capabilities of groups of individuals responsible for collecting, processing, sharing, and using data in the service of tackling public problems. Using a comparative case-study design, we study teams leveraging data to tackle property distress and abandonment in three US cities. This exploratory empirical research allows us to derive insights into the main constitutive components of data-related capabilities, their enabling factors, and their effects. This understanding can advance future scholarship by providing researchers with a more operationalizable construct to study data capabilities, bridging an important gap between the main existing approaches to studying data-informed governance.",
+     "url": "https://doi.org/10.1017/dap.2026.10094",
+     "doi": "10.1017/dap.2026.10094",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/16C0A6EA92261AFC954551FF897B8C6B/S2632324926100947a.pdf/div-class-title-the-missing-link-in-data-informed-governance-an-exploratory-study-of-data-related-capabilities-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7214762186",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -59023,6 +59571,26 @@
      "is_new": false
     },
     {
+     "id": "oa:W7214286361",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "More than a ritual: the recursive dynamic between governance instruments for algorithmization and algorithmic risk",
+     "authors": [
+      "T. G. J. Schepers",
+      "Floris Bex",
+      "Shirley Kempeneer",
+      "Albert Jacob Meijer"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-25",
+     "abstract": "Abstract This article examines how governance instruments for algorithmic systems are developed and framed, to answer the question of how notions of risk are constructed and institutionalized in governance instruments for the governance of algorithmic systems. Focusing on the Dutch context, we conducted an abductive discourse analysis on media articles from five different newspapers, advisory reports, and parliamentary documents to understand how these governance instruments not only respond to risk but also actively construct and institutionalize specific notions of risk in algorithmic governance. From this analysis, we conclude that governance instruments that emphasize procedural compliance are often chosen over instruments that create more substantial solutions, partly driven by the mediatization of politics and the prioritization of visibility over effectiveness. However, more substantive governance instruments, such as the Fundamental Rights and Algorithms Impact Assessment or educational programs for civil servants, are increasingly being picked up and implemented, suggesting a shift in focus to underlying issues such as discrimination or a lack of accountability.",
+     "url": "https://doi.org/10.1017/dap.2026.10095",
+     "doi": "10.1017/dap.2026.10095",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0DC44C4A27CD640D8720189305A4F7F3/S2632324926100959a.pdf/div-class-title-more-than-a-ritual-the-recursive-dynamic-between-governance-instruments-for-algorithmization-and-algorithmic-risk-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7162438926",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -59275,6 +59843,42 @@
      "is_new": false
     },
     {
+     "id": "oa:W7214150858",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Performing trustworthiness: governance theatre versus governance maturity",
+     "authors": [
+      "Elizabeth Green",
+      "Felix Ritchie"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-24",
+     "abstract": "Abstract Universities, governments, and health research infrastructures increasingly invoke the language of “trusted,” “secure,” and “safe” research environments to legitimise access to sensitive data. While technical infrastructures such as Trusted Research Environments, Secure Data Environments, and cloud-based analytical platforms have expanded rapidly, equivalent growth in operational governance capability has not always followed. This article argues that contemporary research governance risks drifting towards “governance theatre”: the performance of trustworthiness through visible technical controls, secure branding, and procedural symbolism while comparatively less attention is devoted to disclosure expertise, behavioural governance, independent oversight, and operational maturity. Using recent controversies surrounding the UK Biobank as an illustrative governance stress test rather than an isolated institutional failure, this article examines tensions emerging across contemporary research practices—including platformisation, global collaboration, artificial intelligence, code sharing, and increasingly complex data systems. Drawing on the five safes framework, this article argues that trustworthy governance cannot be reduced to technical infrastructure or formal compliance alone. Governance maturity depends upon layered socio-technical systems capable of managing disclosure risk, researcher behaviour, and organisational accountability across the full research life cycle. Moving beyond governance theatre will require greater investment in governance literacy, disclosure expertise, independent output review, and reflexive oversight capable of adapting to rapidly evolving systems.",
+     "url": "https://doi.org/10.1017/dap.2026.10098",
+     "doi": "10.1017/dap.2026.10098",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/462A88F1C4FF04B000AF8018983F9AF7/S2632324926100984a.pdf/div-class-title-performing-trustworthiness-governance-theatre-versus-governance-maturity-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7214187104",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Governing the evidence base: An empirical framework of AI archetypes for policy analysis",
+     "authors": [
+      "Aleksei Turobov",
+      "Diane Coyle"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-24",
+     "abstract": "Abstract The practice of public administration is confronted by an overwhelming volume of unstructured textual data, creating a critical bottleneck that challenges the capacity for timely, evidence-based policymaking. While large language models (LLMs) offer a powerful solution, the academic and policy discourse on AI governance has primarily focused on the risks associated with quantitative, predictive models, leaving the governance of LLMs, which involve qualitative, interpretive analysis, critically underexplored. This article provides a systematic and empirical answer to this challenge. We evaluate four distinct archetypes for AI-assisted policy analysis: (1) traditional expert-driven analysis, (2) automated topic modelling, (3) human-in-the-loop LLM co-production (ChatGPT with prompting), and (4) institutional-scale API automation (ChatGPT via API), by applying them to a real-world corpus of 63 United Nations policy documents. Our results reveal the inherent trade-offs of each archetype in terms of analytical speed, cost, contextual depth, and the requisite level of human oversight, finding that the human-in-the-loop model offers the most effective balance. We conclude by presenting a durable framework to guide public institutions in making a strategic, evidence-based choice of analytical workflow, ensuring the adoption of AI strengthens, rather than erodes, the integrity of democratic governance.",
+     "url": "https://doi.org/10.1017/dap.2026.10100",
+     "doi": "10.1017/dap.2026.10100",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75D1AA7C09571B2B6022C6598AD1C8C5/S263232492610100Xa.pdf/div-class-title-governing-the-evidence-base-an-empirical-framework-of-ai-archetypes-for-policy-analysis-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7214165343",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -59521,6 +60125,23 @@
      "first_seen": "2026-09-26T09:44:52+09:00",
      "abstract_ko": "요 약 최근 AI 연구에서는 '인간 중심의 AI'를 넘어, AI 시스템이 비인간중심적 가치나 인간의 관심을 넘어서는 가치를 촉진해야 하는지, 어떻게 촉진해야 하는지 고민하는 움직임이 나타나고 있다. 그러나 자동화된 기계 학습(AutoML) 연구 영역은 이러한 변화에 뒤처져 있습니다. AutoML은 '인간 AI를 넘어서'를 촉진할 수 있는 특별한 잠재력을 갖고 있기 때문에 어떤 의미에서는 이는 놀라운 일입니다. 예를 들어, 일반적인 지도 딥러닝 알고리즘에 비해 AutoML 알고리즘은 훨씬 더 복잡한 의사결정 변수와 정확한 수학적 관계가 필요하지 않은 목적 함수를 처리할 수 있어 훨씬 더 유연합니다. 이 기사는 AutoML이 '인간을 뛰어넘는' AI 시스템 생성을 촉진할 수 있는 몇 가지 방식을 특성화하여 이론적으로 기여합니다. 먼저 AutoML을 소개하고 AutoML 연구 커뮤니티가 최근 특정 의미에서 인간 중심으로 나아가는 방향을 조사한 방법을 설명합니다. 다음으로, 최근 몇 년간 다양한 의미에서 인간 중심의 AI로 나아갔던 다른 AI 연구 커뮤니티들이 이제는 '인간을 넘어서는' 가치의 중요성을 고려하는 방향으로 나아가고 있는지 설명합니다. 그런 다음 기사에서는 AutoML 연구가 어떻게 '인간을 넘어' 나아갈 수 있는지에 대해 설명합니다. 투명성과 같은 인간 중심 AutoML의 여러 측면도 '인간' 가치를 넘어 발전할 수 있지만, 신뢰할 수 있는 방식으로 그렇게 하려면 인간 중심 AutoML을 넘어서야 합니다. 기사는 다음을 보여줍니다",
      "is_new": false
+    },
+    {
+     "id": "oa:W7214077521",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Gross domestic product without calibration: How invisible errors undermine governance in fragmented states and the National Product Uncertainty Loss model response",
+     "authors": [
+      "kreshnik hakrama"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-23",
+     "abstract": "Abstract Gross Domestic Product (GDP) remains the principal benchmark of economic performance; however, its interpretative value depends fundamentally on the reliability, traceability, and calibration of underlying measurement systems. Despite extensive debates on alternative indicators, limited attention has been given to the reliability of GDP as a measured construct. This study aims to operationalize measurement uncertainty as a governance-relevant variable within macroeconomic interpretation. To address this gap, this study introduces the National Product Uncertainty Loss (NPUL) model, a framework designed to quantify the economic implications of insufficiently calibrated measurement processes embedded within sectoral GDP components, thereby revealing hidden fiscal risks that remain unaccounted for in conventional economic indicators. Using Albania as a pilot case, complemented by comparative insights from Western Balkan economies, the analysis demonstrates how traceability gaps in sectors such as energy, healthcare, hydrocarbons, and construction translate into measurable fiscal exposure. Empirical simulations suggest that systemic measurement inefficiencies may generate baseline deviations of ~0.3–0.4% of GDP, with upper-bound scenarios reaching 1–2.2% under adverse conditions. The findings indicate that strengthening calibration infrastructures and improving uncertainty transparency are not merely technical refinements but core elements of institutional governance reform. By integrating measurement reliability into macroeconomic interpretation, NPUL enhances the policy relevance of GDP and contributes to ongoing debates on data governance, digital sovereignty, and evidence-based policymaking.",
+     "url": "https://doi.org/10.1017/dap.2026.10082",
+     "doi": "10.1017/dap.2026.10082",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/176400FD6B9852BB811AE3C6BA2364F1/S2632324926100820a.pdf/div-class-title-gross-domestic-product-without-calibration-how-invisible-errors-undermine-governance-in-fragmented-states-and-the-national-product-uncertainty-loss-model-response-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W7155164218",
@@ -59957,6 +60578,23 @@
      "pdf": "",
      "first_seen": "2026-09-23T09:48:10+09:00",
      "is_new": false
+    },
+    {
+     "id": "oa:W7213924426",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "An interpretable and adaptive AI governance framework",
+     "authors": [
+      "Ya Wang"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-21",
+     "abstract": "Abstract In recent years, the rapid development of artificial intelligence has raised a series of ethical issues. How to balance AI innovation and AI governance has attracted wide attention from society. Some principle-based and practical approaches have already emerged. However, these strategies mainly face problems of time, speed, and cost. They fail to fundamentally balance dynamic factors and the need for explainability. This study proposes an explainable and adaptive AI governance approach from the perspective of time to balance AI governance and AI innovation. Causal models have causal explanation capabilities. They meet the requirements of responsible innovation. They can improve governance speed and reduce governance and innovation costs. Taking Bayesian networks as an example, they have explainability and dynamic adaptation ability. Bayesian networks can be used as a governance step before a regulatory sandbox. Bayesian networks can implement a human-assisted regulatory approach. This approach can combine the EU Artificial Intelligence Act with scholars’ recommendations on quantifiable risk levels. The explainable and adaptive AI governance approach has three important meanings for AI governance. First, it can provide an inclusive governance path. Second, it can supplement static governance strategies. Third, it can automatically generate explainable value alignment schemes.",
+     "url": "https://doi.org/10.1017/dap.2026.10099",
+     "doi": "10.1017/dap.2026.10099",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/67399F35370FD17E5F8B6AD069B88508/S2632324926100996a.pdf/div-class-title-an-interpretable-and-adaptive-ai-governance-framework-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W7213897513",
@@ -61742,6 +62380,23 @@
      "is_new": false
     },
     {
+     "id": "oa:W7212967128",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Advancing data agency: A conceptual framework to support data sovereignty",
+     "authors": [
+      "Jaime Bernal"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-14",
+     "abstract": "Abstract The term data sovereignty —the principle that data is subject to the laws and governance of the country where it is collected or stored—faces implementation challenges. The legal deadlock over how to regulate transatlantic (E.U.–U.S.) data transfers reveal the difficulties of asserting “sovereignty” over data, a resource that flows transnationally through digital technologies. Among global regulatory efforts, the European Union’s struggle to ensure the supremacy of its data protection and privacy laws represents an interesting case from which to derive new theoretical and conceptual insights. This paper advances data agency —as agency mediated by data, not over it. The intention is to advance a term that moves beyond the limits of data sovereignty to explain how governance over data-driven systems is distributed and contested. The manuscript suggests pragmatic pathways for more effective governance as mere “control” over data is not enough to achieve meaningful insights derived from data technologies.",
+     "url": "https://doi.org/10.1017/dap.2026.10089",
+     "doi": "10.1017/dap.2026.10089",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E8C20AF67C03496D01C6ABB96B5D5986/S2632324926100893a.pdf/div-class-title-advancing-data-agency-a-conceptual-framework-to-support-data-sovereignty-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7204100203",
      "topic": "ai-ml",
      "origin": "OpenAlex",
@@ -62100,6 +62755,29 @@
      "first_seen": "2026-09-14T09:19:05+09:00",
      "abstract_ko": "Abstract 이 기사에서는 2020년부터 2025년 2월 사이에 출판된 인용 빈도가 높은 장학금이 인공 지능의 영향을 받아 창의성의 변화를 어떻게 구성하는지 살펴봅니다. 이 질문을 해결하기 위해 이 연구에서는 질적 해석적 합성과 결합된 인용 정보 기반 검토를 사용합니다. 기록은 Scopus 및 Web of Science에서 검색되었으며, PRISMA 정보 절차를 통해 선별되었으며, 중복 제거된 풀 내에서 인용 빈도에 따라 순위가 매겨져 최종 40개의 출판물이 탄생했습니다. ATLAS.ti에서 근거 이론(Grounded Theory)과 상수 비교 방법(Constant Comparative Method)을 통해 수행된 분석은 영향력 있는 연구가 AI가 창의적인지 여부에 대한 이분법적 질문을 넘어 창의성이 생산, 평가 및 합법화되는 조건을 보다 광범위하게 재구성하는 쪽으로 이동했음을 보여줍니다. 코퍼스 전반에 걸쳐 창의성은 인간 모델 상호 작용, 제도적 관문 관리, 인프라 비대칭 및 규범적 갈등에 의해 형성되는 사회 기술적 집합체로 나타납니다. AI는 생산성 확장, 빠른 반복 및 가능성 공간 확대와 관련되어 있지만, 동일한 문헌에서는 저자성, 독창성, 인식, 노동, 편견, 접근성, 합법성 및 지속 가능성에 대해 반복되는 긴장을 드러냅니다. 이 기사는 영향력이 큰 학문이 AI를 창의성을 변화시키는 것으로만 설명하는 것이 아니라고 주장합니다. 이는 또한 창의적 가치에 대한 영향력 있는 정의를 안정화하고, 인식 형태를 재분배하고, 전경화하는 데 도움이 됩니다.",
      "is_new": false
+    },
+    {
+     "id": "oa:W7212275275",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Who decides what and how data is reused? Lessons learned from youth engagement and co-design for responsible data reuse in services",
+     "authors": [
+      "Elena Murray",
+      "Moiz Raja Shaikh",
+      "Stefaan Verhulst",
+      "Hinali Doshi",
+      "Romeo Leapciuc",
+      "Perizat Mamutalieva",
+      "Mahadia Tunga"
+     ],
+     "journal": "Data & Policy",
+     "date": "2026-09-11",
+     "abstract": "Abstract As data-driven service delivery expands, data reuse holds significant potential to improve access to and quality of essential services for young people. However, limited youth involvement in decisions about how their data is reused risks perpetuating mistrust and deepening the inequalities that these services seek to address, particularly if young people choose to avoid seeking services or withhold critical information out of fear of misuse. Grounded in a social license approach, responsible data reuse aimed at enhancing service delivery therefore requires methodologies that meaningfully engage youth and reflect their preferences and expectations. This article presents findings from the NextGenData project, which developed and piloted a scalable methodology for engaging young people aged 19–24 in co-designing responsible data reuse strategies. Conducted as a year-long participatory action research initiative across India, Tanzania, Moldova, and Kyrgyzstan, the approach implemented youth assemblies, deliberative methods, and localised facilitation by national partners to engage young people. Through a cross-contextual analysis, this study emphasises the importance of context-sensitive, multi-phase engagement in supporting the development of a social license for data reuse and presents a publicly available toolkit designed to support the replication and adaptation of this engagement strategy in diverse contexts. Drawing on the findings, recommendations are presented for policymakers and practitioners to guide future initiatives.",
+     "url": "https://doi.org/10.1017/dap.2026.10092",
+     "doi": "10.1017/dap.2026.10092",
+     "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3F8269F7281A530C6CBAD7A81D658F7C/S2632324926100923a.pdf/div-class-title-who-decides-what-and-how-data-is-reused-lessons-learned-from-youth-engagement-and-co-design-for-responsible-data-reuse-in-services-div.pdf",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
     },
     {
      "id": "oa:W7154656409",
@@ -77289,206 +77967,70 @@
      "pdf": "https://philpapers.org/archive/SANMFM.pdf",
      "first_seen": "2026-08-20T07:46:21+09:00",
      "is_new": false
-    },
-    {
-     "id": "oa:W7169668699",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Coordinated Deception: Generative Agents for Multi-Agent Fake News Generation",
-     "authors": [
-      "Gian Marco Orlando",
-      "Diego Russo",
-      "Valerio La Gatta",
-      "Vincenzo Moscato"
-     ],
-     "journal": "ACM Transactions on Intelligent Systems and Technology",
-     "date": "2026-07-18",
-     "abstract": "The proliferation of Large Language Models (LLMs) has significantly lowered the barriers to generating sophisticated misinformation, posing unprecedented challenges to fake news detection systems. Although generative agents have shown promise in constructive applications like fact-checking workflows, their potential for collaborative fake news generation remains unexplored. This paper introduces the first multi-agent framework for fake news generation, where specialized LLM-powered agents collaboratively transform authentic news articles into falsified yet plausible versions. Our pipeline employs five specialized agents: a Semantic Analyzer that extracts information-dense components, a Salient Sentence Editor and Number Modifier that manipulate key textual and numerical elements, a Narrative Modifier that ensures overall coherence, and a Title Editor that generates contextually appropriate headlines. We evaluate this system on two benchmark datasets, the ISOT Fake News Dataset and the All The News Dataset, against six state-of-the-art detection models. Our results demonstrate that the proposed framework achieves deception success rates exceeding 90% while maintaining high semantic similarity to original articles. Notably, even smaller generative models can surpass 80% success against high-capacity detectors, highlighting critical vulnerabilities in current fake news detection systems and underscoring the urgent need for more robust defense mechanisms against coordinated generative AI attacks.",
-     "url": "https://doi.org/10.1145/3831690",
-     "doi": "10.1145/3831690",
-     "pdf": "",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "LLM(대형 언어 모델)의 확산으로 정교한 잘못된 정보 생성에 대한 장벽이 크게 낮아져 가짜 뉴스 탐지 시스템에 전례 없는 문제가 발생했습니다. 생성 에이전트는 사실 확인 워크플로와 같은 건설적인 애플리케이션에서 가능성을 보여주었지만 협력적인 가짜 뉴스 생성에 대한 잠재력은 아직 탐구되지 않은 상태입니다. 이 문서에서는 전문 LLM 기반 에이전트가 협력하여 실제 뉴스 기사를 위조되었지만 그럴듯한 버전으로 변환하는 가짜 뉴스 생성을 위한 최초의 다중 에이전트 프레임워크를 소개합니다. 우리 파이프라인은 정보 밀도가 높은 구성 요소를 추출하는 의미 분석기, 핵심 텍스트 및 숫자 요소를 조작하는 핵심 문장 편집기 및 숫자 수정자, 전체적인 일관성을 보장하는 내러티브 수정자, 상황에 맞게 적절한 헤드라인을 생성하는 제목 편집기 등 5가지 전문 에이전트를 사용합니다. 우리는 6개의 최첨단 탐지 모델에 대해 ISOT 가짜 뉴스 데이터세트와 All The News 데이터세트라는 두 개의 벤치마크 데이터세트에서 이 시스템을 평가합니다. 우리의 결과는 제안된 프레임워크가 원본 기사와 높은 의미 유사성을 유지하면서 90%를 초과하는 속임수 성공률을 달성한다는 것을 보여줍니다. 특히, 더 작은 생성 모델이라도 대용량 탐지기에 대해 80% 성공률을 초과할 수 있으며, 이는 현재 가짜 뉴스 탐지 시스템의 심각한 취약점을 강조하고 조정된 생성기에 대한 보다 강력한 방어 메커니즘의 긴급한 필요성을 강조합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4415031178",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Real-time Spatial Retrieval Augmented Generation for Urban Environments",
-     "authors": [
-      "David Nazareno Campo",
-      "Javier Conde",
-      "Álvaro Alonso",
-      "Gabriel Huecas",
-      "Joaquín Salvachúa",
-      "Pedro Reviriego"
-     ],
-     "journal": "ACM Transactions on Intelligent Systems and Technology",
-     "date": "2026-07-18",
-     "abstract": "The proliferation of Generative Artificial In t elligence (AI), especially Large Language Models, presents transformative opportunities for urban applications through Urban Foundation Models. However, base models face limitations, as they only contain the knowledge available at the time of training, and updating them is both time-consuming and costly. Retrieval Augmented Generation (RAG) has emerged in the literature as the preferred approach for injecting contextual information into Foundation Models. It prevails over techniques such as fine-tuning, which are less effective in dynamic, real-time scenarios like those found in urban environments. However, traditional RAG architectures, based on semantic databases, knowledge graphs, structured data, or AI-powered web searches, do not fully meet the demands of urban contexts. Urban environments are complex systems characterized by large volumes of interconnected data, frequent updates, real-time processing requirements, security needs, and strong links to the physical world. This work proposes a real-time spatial RAG architecture that defines the necessary components for the effective integration of generative AI into cities, leveraging temporal and spatial filtering capabilities through linked data. The proposed architecture is implemented using FIWARE, an ecosystem of software components to develop smart city solutions and digital twins. The design and implementation are demonstrated through the use case s of a tourism assistant and for the management of traffic lights and luminaires in the city of Madrid. The use case s serve to validate the correct integration of Foundation Models through the proposed RAG architecture. They also enable the analysis of current model limitations, such as their inability to handle large volumes of information, even when it fits within their context window, and the high latency of Large Language Models caused by transformer-based architectures, which generate output token by token.",
-     "url": "https://doi.org/10.1145/3831675",
-     "doi": "10.1145/3831675",
-     "pdf": "https://oa.upm.es/97418/",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "생성적 인공 지능(AI), 특히 대규모 언어 모델의 확산은 도시 기초 모델을 통해 도시 적용을 위한 혁신적인 기회를 제시합니다. 그러나 기본 모델에는 훈련 당시 사용할 수 있는 지식만 포함되어 있고 이를 업데이트하는 데 시간과 비용이 많이 들기 때문에 한계가 있습니다. RAG(Retrieval Augmented Generation)는 문맥 정보를 기초 모델에 주입하기 위한 선호되는 접근 방식으로 문헌에서 등장했습니다. 이는 도시 환경에서 발견되는 것과 같은 동적 실시간 시나리오에서 덜 효과적인 미세 조정과 같은 기술보다 우세합니다. 그러나 의미론적 데이터베이스, 지식 그래프, 구조화된 데이터 또는 AI 기반 웹 검색을 기반으로 하는 기존 RAG 아키텍처는 도시 상황의 요구 사항을 완전히 충족하지 못합니다. 도시 환경은 대량의 상호 연결된 데이터, 빈번한 업데이트, 실시간 처리 요구 사항, 보안 요구 사항 및 물리적 세계와의 강력한 연결을 특징으로 하는 복잡한 시스템입니다. 이 작업은 연결된 데이터를 통해 시간적 및 공간적 필터링 기능을 활용하여 생성 AI를 도시에 효과적으로 통합하는 데 필요한 구성 요소를 정의하는 실시간 공간 RAG 아키텍처를 제안합니다. 제안된 아키텍처는 스마트 시티 솔루션과 디지털 트윈을 개발하기 위한 소프트웨어 구성 요소 생태계인 FIWARE를 사용하여 구현됩니다. 관광 보조 장치의 사용 사례를 통해 설계 및 구현을 시연합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169662037",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "YSocial: An artificial intelligence powered social media virtual twin",
-     "authors": [
-      "Giulio Rossetti",
-      "Massimo Stella",
-      "Rémy Cazabet",
-      "Katherine Abramski",
-      "Salvatore Citraro",
-      "Erica Cau",
-      "Andrea Failla",
-      "Virginia Morini",
-      "Valentina Pansanella"
-     ],
-     "journal": "Big Data & Society",
-     "date": "2026-07-18",
-     "abstract": "This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.",
-     "url": "https://doi.org/10.1177/20539517261431576",
-     "doi": "10.1177/20539517261431576",
-     "pdf": "https://doi.org/10.1177/20539517261431576",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "이 문서에서는 온라인 소셜 미디어 플랫폼을 복제하도록 설계된 차세대 가상 트윈인 YSocial을 소개합니다. 디지털 및 가상 트윈은 고급 분석, 제어, 실험 및 시나리오 시뮬레이션을 허용하는 물리적 시스템의 가상 복제본입니다. 소셜 미디어의 경우 YSocial과 같은 가상 트윈은 연구자가 복잡한 온라인 상호 작용을 시뮬레이션하고 이해할 수 있는 강력한 도구를 제공합니다. YSocial은 최첨단 LLM(대형 언어 모델)을 활용하여 정교한 상담원 행동을 복제함으로써 사용자 상호 작용, 콘텐츠 배포 및 네트워크 역학을 정확하게 시뮬레이션할 수 있습니다. 이러한 측면을 통합함으로써 YSocial은 사용자 참여, 정보 확산 및 플랫폼 정책의 영향에 대한 귀중한 통찰력을 제공합니다. 또한 LLM을 통합하면 YSocial이 미묘한 텍스트 콘텐츠를 생성하고 사용자 반응을 예측하여 온라인 환경에서 나타나는 새로운 현상에 대한 연구를 촉진할 수 있습니다. YSocial을 더 잘 특성화하기 위해 우리는 구현의 근거를 설명하고 생성된 데이터에 대해 수행할 수 있는 분석의 예를 제공하며 다학문적 연구와의 관련성을 논의합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169592104",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Curated information frameworks and the Governance of artificial intelligence",
-     "authors": [
-      "Emily LaRosa"
-     ],
-     "journal": "AI and Ethics",
-     "date": "2026-07-18",
-     "abstract": "In this work, I introduce the Curated Information Framework (CIF) as a participatory model for governing artificial intelligence (AI) systems. I argue that meaningful AI governance must be understood as integrating practices of resistance to technological determinism, reclamation of community authority and sovereignty in technological use domains, and reimagining of a collaborative future rather than disclosure and use alone. Using agricultural AI as a central case, I show how prevailing transparency regimes often reinforce technocratic power by releasing information in forms that remain inaccessible or misaligned with the lived realities of those most affected. Drawing on participatory agricultural research and democratic epistemology, I reconceive transparency as epistemic curation: the role-specific, participatory, and iterative organization of information to support shared understanding across stakeholders. Through analysis of a case study involving an autonomous apple-picking system, I show how CIFs can redistribute interpretive authority among engineers, growers, farmworkers, and regulators, enabling communities not only to understand AI systems but to contest their terms of evaluation and deployment. I argue that such frameworks resist epistemic injustice, refuse extractive models of expertise, and reclaim governance authority for communities whose labor, land, and knowledge are entangled with AI systems. In doing so, I offer a practical and normative account of how AI governance can be re-imagined as a democratic, context-sensitive, and community-embedded process.",
-     "url": "https://doi.org/10.1007/s43681-026-01242-9",
-     "doi": "10.1007/s43681-026-01242-9",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01242-9.pdf",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "본 연구에서는 인공지능(AI) 시스템을 관리하기 위한 참여 모델로 CIF(Curated Information Framework)를 소개합니다. 나는 의미 있는 AI 거버넌스는 기술 결정론에 대한 저항, 기술 사용 영역에서 커뮤니티 권위 및 주권 회복, 공개 및 사용 단독이 아닌 협력적 미래의 재구상 등의 관행을 통합하는 것으로 이해되어야 한다고 주장합니다. 농업 AI를 중심 사례로 사용하여 저는 널리 퍼진 투명성 체제가 접근이 불가능하거나 가장 큰 영향을 받는 사람들의 실제 현실과 맞지 않는 형태로 정보를 공개함으로써 기술 권력을 강화하는 방법을 보여줍니다. 참여 농업 연구와 민주적 인식론을 바탕으로 저는 투명성을 인식론적 큐레이션, 즉 이해관계자 간의 공유된 이해를 지원하기 위한 역할별, 참여적, 반복적 정보 구성으로 재구성합니다. 자율 사과 따기 시스템과 관련된 사례 연구 분석을 통해 CIF가 엔지니어, 재배자, 농장 노동자 및 규제 기관 사이에 해석 권한을 재분배하여 커뮤니티가 AI 시스템을 이해할 뿐만 아니라 평가 및 배포 조건에 대해 이의를 제기할 수 있는 방법을 보여줍니다. 나는 그러한 프레임워크가 인식론적 불의에 저항하고, 전문 지식의 추출적 모델을 거부하며, 노동, 토지, 지식이 AI 시스템과 얽혀 있는 공동체에 대한 거버넌스 권한을 되찾는다고 주장합니다. 그렇게 함으로써 나는 AI가 어떻게 작동하는지에 대한 실용적이고 규범적인 설명을 제공합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169651620",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "SHAM-AI: A Self-Healing and Adaptive Multi-Modal Anomaly Intelligence Framework for Securing Cloud Digital Twins",
-     "authors": [
-      "Deepika Saxena",
-      "Charu Shukla",
-      "Ashutosh Kumar Singh"
-     ],
-     "journal": "ACM Transactions on Intelligent Systems and Technology",
-     "date": "2026-07-18",
-     "abstract": "Cloud-based Digital Twins (CDTs) enable real-time monitoring and control of complex cyber-physical systems but face critical security and reliability challenges due to multi-modal anomalies, evolving attack patterns, and cascading failures. To address these challenges, this article presents a Self-Healing and Adaptive Multi-Modal Anomaly Intelligence (SHAM-AI) framework for securing CDTs. SHAM-AI integrates four key components: (i) robust telemetry preprocessing to standardize heterogeneous CDT data, (ii) dual anomaly prediction using Isolation Forest for spatial deviations and Spiking Neural Network Autoencoders for temporal patterns, (iii) adaptive, context-aware decision fusion that dynamically weighs evidence from multiple modalities, and (iv) reinforcement learning-based mitigation for automated alerting, containment, and recovery. By jointly modeling spatial and temporal anomalies through self-healing adaptive policies, the proposed SHAM-AI framework achieves high detection accuracy, reduces false positives, and effectively mitigates threat propagation. Evaluations on realistic cloud-digital twin (cloud-DT) testbeds using a benchmark dataset confirm its ability to sustain secure, resilient, and adaptive CDT operations. Quantitative results further show that SHAM-AI outperforms state-of-the-art baselines by up to 21.8% in temporal anomaly prediction accuracy and 18.6% in spatial anomaly detection while attaining over 23.4% higher efficiency in handling and mitigating multi-modal anomalies across dynamic cloud environments.",
-     "url": "https://doi.org/10.1145/3832321",
-     "doi": "10.1145/3832321",
-     "pdf": "https://doi.org/10.1145/3832321",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "클라우드 기반 디지털 트윈(CDT)을 사용하면 복잡한 사이버 물리 시스템을 실시간으로 모니터링하고 제어할 수 있지만 다중 모드 이상, 진화하는 공격 패턴, 연속적인 오류로 인해 심각한 보안 및 안정성 문제에 직면해 있습니다. 이러한 문제를 해결하기 위해 이 문서에서는 CDT 보안을 위한 자가 치유 및 적응형 다중 모달 이상 정보(SHAM-AI) 프레임워크를 제시합니다. SHAM-AI는 (i) 이질적인 CDT 데이터를 표준화하기 위한 강력한 원격 측정 전처리, (ii) 공간적 편차를 위한 Isolation Forest 및 시간적 패턴을 위한 Spiking Neural Network Autoencoder를 사용한 이중 이상 예측, (iii) 여러 양식의 증거를 동적으로 평가하는 적응형 상황 인식 의사 결정 융합, (iv) 자동화된 경고, 격리 및 복구를 위한 강화 학습 기반 완화의 네 가지 주요 구성 요소를 통합합니다. 제안된 SHAM-AI 프레임워크는 자가 치유 적응형 정책을 통해 공간적 및 시간적 이상 현상을 공동으로 모델링함으로써 높은 탐지 정확도를 달성하고 오탐을 줄이며 위협 전파를 효과적으로 완화합니다. 벤치마크 데이터 세트를 사용한 현실적인 클라우드-디지털 트윈(cloud-DT) 테스트베드에 대한 평가를 통해 안전하고 탄력적이며 적응력이 뛰어난 CDT 운영을 유지할 수 있는 능력이 확인되었습니다. 정량적 결과에 따르면 SHAM-AI는 시간적 이상 예측 정확도에서 최대 21.8%, 공간적 이상 탐지에서 18.6%까지 최첨단 기준선을 능가하는 동시에 뮤 처리 및 완화에서 23.4% 이상 더 높은 효율성을 달성하는 것으로 나타났습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169658704",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "MILES++: A Generalizable Clustering-Based Ensemble Framework for Multiclass Imbalanced Learning",
-     "authors": [
-      "Bayu Adhi Tama",
-      "Ali Azari",
-      "Vandana Pursnani Janeja"
-     ],
-     "journal": "ACM Transactions on Intelligent Systems and Technology",
-     "date": "2026-07-18",
-     "abstract": "Imbalanced multiclass learning remains challenging due to skewed class distributions, class overlap, and heterogeneous within-class structure. We revisit the Multiclass Imbalance Learning in Ensembles through Selective Sampling (MILES) framework and study two clustering-based variants: MILES \\({}^{k}\\) , which uses \\( k \\) -means with an SSE-based heuristic for selecting the number of clusters, and MILES \\({}^{FF}\\) , which uses FarthestFirst to explore an alternative centroid-based partitioning strategy. Both variants combine clustering-guided selective sampling with resampling to construct diverse and more balanced training subsets, improving representation of difficult classes while preserving local decision structure. We evaluate MILES on eight real-world multiclass datasets spanning different imbalance regimes, overlap levels, and feature complexities. Across these experiments, MILES is consistently competitive in Multiclass Area Under the Curve ( \\(MAUC\\) ) and achieves its strongest gains in Macro-F1, with statistically significant improvements over several strong ensemble baselines. MILES also achieves strong Micro-F1 on multiple datasets, while its performance on Geometric Mean ( \\( G \\) -mean) is competitive but more dataset-dependent. Class-wise analysis further shows that the improvement arises from better recovery of hard classes and systematic reduction of dominant baseline confusion patterns, especially on Page and Satellite, while Hyperspectral highlights a limitation case where high dimensionality and stronger overlap reduce the benefits of centroid-based selective sampling. A glaciology case study on glacier algae prediction further demonstrates the practical utility of the framework. Overall, the results position MILES as a robust and generalizable alternative to conventional boosting, bagging, and cost-sensitive ensembles for multiclass imbalanced learning.",
-     "url": "https://doi.org/10.1145/3832312",
-     "doi": "10.1145/3832312",
-     "pdf": "https://doi.org/10.1145/3832312",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "불균형한 다중 수업 학습은 편향된 수업 분포, 수업 중복 및 이질적인 수업 내 구조로 인해 여전히 어려운 과제로 남아 있습니다. 우리는 MILES(Selective Sampling) 프레임워크를 통한 앙상블의 다중 클래스 불균형 학습을 재검토하고 두 가지 클러스터링 기반 변형을 연구합니다. \\( k \\)를 사용하는 MILES\\({}^{k}\\) - 클러스터 수를 선택하기 위해 SSE 기반 휴리스틱을 사용하는 것을 의미하고, MILES\\({}^{FF}\\)는 FarthestFirst를 사용하여 대체 중심 기반 분할 전략을 탐색합니다. 두 변형 모두 클러스터링 기반 선택적 샘플링과 리샘플링을 결합하여 다양하고 보다 균형 잡힌 훈련 하위 집합을 구성하고 로컬 의사결정 구조를 유지하면서 어려운 클래스의 표현을 개선합니다. 우리는 서로 다른 불균형 체제, 중복 수준 및 기능 복잡성을 포괄하는 8개의 실제 다중 클래스 데이터 세트에 대해 MILES를 평가합니다. 이러한 실험 전반에 걸쳐 MILES는 Multiclass Area Under the Curve( \\(MAUC\\) )에서 지속적으로 경쟁력을 갖추고 있으며 Macro-F1에서 가장 큰 이득을 얻었으며 여러 강력한 앙상블 기준에 비해 통계적으로 유의미한 개선을 이루었습니다. MILES는 또한 여러 데이터 세트에서 강력한 Micro-F1을 달성하는 반면, 기하 평균( \\( G \\) -평균)의 성능은 경쟁력이 있지만 데이터 세트에 더 의존적입니다. 클래스별 분석에서는 특히 페이지 및 위성에서 하드 클래스를 더 잘 복구하고 지배적인 기준 혼란 패턴을 체계적으로 감소시킴으로써 개선이 발생하는 것으로 나타났습니다. 반면 Hyperspectral은 다음을 강조합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169648542",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "BrickNN: Towards Brick-like Self-organizing Modular Neural Networks for Plastic and Collective AIoT Learning",
-     "authors": [
-      "Mingze Li",
-      "Bin Guo",
-      "Yasan Ding",
-      "Huan Zhou",
-      "Sicong Liu",
-      "Zhiwen Yu"
-     ],
-     "journal": "ACM Transactions on Intelligent Systems and Technology",
-     "date": "2026-07-18",
-     "abstract": "Large-scale neural models face significant deployment challenges in resource-constrained AIoT environments that demand computational efficiency and collaborative adaptability. Modular Neural Networks (MNNs) offer promising solutions but struggle with automatic construction of functionally differentiated modules and lack efficient decentralized collaboration mechanisms for distributed AIoT deployments. To address these challenges, we propose BrickNN, a self-organizing modular neural network framework for distributed AIoT systems. BrickNN consists of three key components. First, a constraint-guided module construction mechanism enables functional differentiation through Specialization-Biased Module Design, Routing-Induced Specialization Learning, and Partitioned Static Signature Initialization. Second, Input-Driven Hierarchical Routing generates routing decisions from input features and decouples semantic module selection from execution constraints, enabling efficient and adaptive routing under heterogeneous deployment conditions. Third, Task-aware Decentralized Collaboration performs reliability-aware module collaboration and selective aggregation, enabling efficient knowledge sharing without central coordination. Extensive experiments on visual recognition and IoT sensing benchmarks demonstrate that BrickNN consistently improves system efficiency, achieving up to 10.38%–497.27% gains over baseline methods under varying communication conditions. The code is available at https://github.com/limmodular/BrickNN .",
-     "url": "https://doi.org/10.1145/3831693",
-     "doi": "10.1145/3831693",
-     "pdf": "https://doi.org/10.1145/3831693",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "대규모 신경 모델은 컴퓨팅 효율성과 협업 적응성을 요구하는 리소스가 제한된 AIoT 환경에서 심각한 배포 문제에 직면해 있습니다. MNN(모듈형 신경망)은 유망한 솔루션을 제공하지만 기능적으로 차별화된 모듈의 자동 구성에 어려움을 겪고 있으며 분산 AIoT 배포를 위한 효율적인 분산 협업 메커니즘이 부족합니다. 이러한 문제를 해결하기 위해 우리는 분산 AIoT 시스템을 위한 자체 구성 모듈형 신경망 프레임워크인 BrickNN을 제안합니다. BrickNN은 세 가지 주요 구성 요소로 구성됩니다. 첫째, 제약 조건 기반 모듈 구성 메커니즘은 전문화 편향 모듈 설계, 라우팅 유도 전문화 학습 및 분할된 정적 서명 초기화를 통해 기능적 차별화를 가능하게 합니다. 둘째, 입력 기반 계층적 라우팅은 입력 기능에서 라우팅 결정을 생성하고 실행 제약 조건에서 의미론적 모듈 선택을 분리하여 이기종 배포 조건에서 효율적이고 적응 가능한 라우팅을 가능하게 합니다. 셋째, 작업 인식 분산 협업은 신뢰성 인식 모듈 협업과 선택적 집계를 수행하여 중앙 조정 없이 효율적인 지식 공유를 가능하게 합니다. 시각적 인식 및 IoT 감지 벤치마크에 대한 광범위한 실험에서는 BrickNN이 지속적으로 시스템 효율성을 개선하여 다양한 통신 조건에서 기본 방법에 비해 최대 10.38%~497.27%의 이득을 달성하는 것으로 나타났습니다. 코드는 https:",
-     "is_new": false
-    },
-    {
-     "id": "oa:W4415989315",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation",
-     "authors": [
-      "Chenduo Ying",
-      "Linkang Du",
-      "Cheng Peng",
-      "Yuanchao Shu"
-     ],
-     "journal": "ACM Transactions on Intelligent Systems and Technology",
-     "date": "2026-07-18",
-     "abstract": "Large language models (LLMs) demonstrate remarkable capabilities in reasoning and code generation, enabling robotic manipulation to be initiated with just a single instruction. The LLM carries out various tasks by generating policy code required to control the robot. Despite advances in LLMs, achieving reliable policy code generation remains a significant challenge due to the diverse requirements of real-world tasks and the inherent complexity of user instructions. In practice, different users may provide distinct instructions to drive the robot for the same task, which may cause the unreliability of policy code generation. To bridge this gap, we design RoboInspector , a pipeline to unveil and characterize the unreliability of the policy code for LLM-enabled robotic manipulation from two perspectives: the complexity of the manipulation task and the granularity of the instruction. We perform comprehensive experiments with 216 distinct combinations of tasks, instructions, and LLMs in two prominent frameworks. The RoboInspector identifies four main unreliable behaviors that lead to manipulation failure. We provide a detailed characterization of these behaviors and their underlying causes, giving insight for practical development to reduce unreliability. Furthermore, we introduce a refinement approach guided by failure policy code feedback that improves the reliability of policy code generation by up to 35% in LLM-enabled robotic manipulation, evaluated in both simulation and real-world environments.",
-     "url": "https://doi.org/10.1145/3831691",
-     "doi": "10.1145/3831691",
-     "pdf": "https://arxiv.org/pdf/2508.21378",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "LLM(대형 언어 모델)은 추론 및 코드 생성 분야에서 놀라운 기능을 보여주므로 단 한 번의 명령으로 로봇 조작을 시작할 수 있습니다. LLM은 로봇을 제어하는데 필요한 정책 코드를 생성하여 다양한 작업을 수행합니다. LLM의 발전에도 불구하고 실제 작업의 다양한 요구 사항과 사용자 지침의 본질적인 복잡성으로 인해 안정적인 정책 코드 생성을 달성하는 것은 여전히 ​​중요한 과제로 남아 있습니다. 실제로는 서로 다른 사용자가 동일한 작업에 대해 로봇을 구동하기 위해 서로 다른 지침을 제공할 수 있으며, 이로 인해 정책 코드 생성이 불안정해질 수 있습니다. 이러한 격차를 해소하기 위해 우리는 조작 작업의 복잡성과 명령의 세분성이라는 두 가지 관점에서 LLM 지원 로봇 조작에 대한 정책 코드의 신뢰성을 공개하고 특성화하는 파이프라인인 RoboInspector를 설계합니다. 우리는 두 가지 주요 프레임워크에서 작업, 지침 및 LLM의 216가지 고유한 조합을 사용하여 포괄적인 실험을 수행합니다. RoboInspector는 조작 실패로 이어지는 네 가지 주요 신뢰할 수 없는 동작을 식별합니다. 우리는 이러한 행동과 그 근본 원인에 대한 자세한 특성을 제공하여 신뢰성을 줄이기 위한 실질적인 개발에 대한 통찰력을 제공합니다. 또한 시뮬레이션과 실제 모두에서 평가된 LLM 지원 로봇 조작에서 정책 코드 생성의 신뢰성을 최대 35% 향상시키는 오류 정책 코드 피드백을 기반으로 하는 개선 접근 방식을 소개합니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169533233",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "AI winters as legitimacy crises. From the history of technological promises to governance models of generative AI",
-     "authors": [
-      "Mariusz Mazurek",
-      "Jacek Gurczyński"
-     ],
-     "journal": "AI and Ethics",
-     "date": "2026-07-18",
-     "abstract": "In the debate on artificial intelligence, the term “AI winter” is often used as shorthand for a technical failure or a temporary decline in market interest. This article proposes a different interpretation. We argue that the classical AI winters were primarily legitimacy crises, in which the system of justifications linking technical promise, funding, commercialization, and social acceptability collapsed. Drawing on the history of AI, legitimacy studies, and the sociology of expectations, we propose a hierarchical interaction model of four legitimacy gaps. In this model, the capability gap functions as the technical substrate of AI promises; the institutional assessment and commercialization gaps mediate whether those promises are credited, funded, and productized; and the governance gap operates as a meta-condition of legal, moral, and political authorization. On this basis, we reinterpret the first and second AI winters. We argue that the episodes later grouped under the first AI winter can be read primarily as a crisis of capability and assessment, whereas the second was a crisis of product, brand, and commercial ecosystem. We then argue that the contemporary boom of generative models does not herald a simple repeat of past winters. A more likely scenario is a regulatory-economic cooling driven by compliance costs, disputes over training data, infrastructure concentration, information manipulation, algorithmic verification, and increasing documentation requirements. In this scenario, generative AI becomes contested not only as an automation technology, but also as epistemic infrastructure involved in producing, verifying, ranking, and stabilizing public truth. In the final section, we formulate four implications for governance: promise restraint, evidence of deployment, documentation obligations, and greater infrastructural pluralization. This perspective shifts the debate from the question of whether AI works to the question of under what conditions its development remains politically and ethically legitimate.",
-     "url": "https://doi.org/10.1007/s43681-026-01276-z",
-     "doi": "10.1007/s43681-026-01276-z",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01276-z.pdf",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "인공지능에 대한 논쟁에서 'AI 겨울'이라는 용어는 기술적인 실패나 시장 관심의 일시적인 하락을 줄여서 사용하는 경우가 많습니다. 이 글은 다른 해석을 제안합니다. 우리는 고전적인 AI 겨울이 주로 기술적 약속, 자금 조달, 상업화 및 사회적 수용성을 연결하는 정당화 시스템이 붕괴된 정당성 위기였다고 주장합니다. AI의 역사, 정당성 연구, 기대의 사회학을 바탕으로 우리는 4가지 정당성 격차에 대한 계층적 상호 작용 모델을 제안합니다. 이 모델에서 역량 격차는 AI 약속의 기술적 기반으로 작용합니다. 제도적 평가와 상업화 격차는 그러한 약속이 인정되고, 자금이 지원되고, 제품화되는지 여부를 중재합니다. 거버넌스 격차는 법적, 도덕적, 정치적 권한의 메타 조건으로 작동합니다. 이를 바탕으로 AI 1차 겨울과 2차 겨울을 재해석합니다. 이후 1차 AI 겨울로 분류된 에피소드는 주로 역량과 평가의 위기로 읽을 수 있는 반면, 2차 AI 겨울은 제품, 브랜드, 상업 생태계의 위기로 읽을 수 있다고 주장합니다. 그런 다음 우리는 현재의 생성 모델 붐이 지난 겨울의 단순한 반복을 예고하는 것이 아니라고 주장합니다. 더 가능성 있는 시나리오는 규정 준수 비용, 교육 데이터에 대한 분쟁, 인프라 집중, 정보 조작, 알고리즘 검증 및 증가하는 문서 요구 사항으로 인한 규제 경제적 냉각입니다. 이에",
-     "is_new": false
     }
    ]
   },
   {
    "key": "e-gov",
    "name": "전자정부·디지털행정",
-   "count": 443,
+   "count": 444,
    "new_count": 11,
    "papers": [
+    {
+     "id": "oa:W7231379073",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "Decision-focused early screening of reported consumer-category moderation activity from DSA transparency records",
+     "authors": [
+      "XiaoXi Ma",
+      "Lu Chao"
+     ],
+     "journal": "Telecommunications Policy",
+     "date": "2026-11-15",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.telpol.2026.103357",
+     "doi": "10.1016/j.telpol.2026.103357",
+     "pdf": "",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7231287774",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "The Kuznets curve in the digital age: Understanding inequality dynamics in Europe",
+     "authors": [
+      "Angela Stefania Bergantino",
+      "Younes Nademi"
+     ],
+     "journal": "Telecommunications Policy",
+     "date": "2026-11-14",
+     "abstract": "Digitalization is often expected to broaden economic opportunity, yet its distributional effects may change as access spreads. This paper asks whether household internet access is associated with income inequality in a stage-dependent way across Europe. Using a harmonized Eurostat country panel, we compare fixed-effects threshold models with dynamic panel and semiparametric checks, while accounting for the conventional relationship between income and inequality and for a broad set of social, labor-market, demographic, and macroeconomic factors. The findings reveal a clear asymmetry. During the early phase of digital diffusion, wider access can coincide with greater inequality, although this pattern is sensitive to how the early period is identified. Once internet access becomes widespread, further diffusion is consistently associated with lower inequality. Dynamic panel estimates provide only partial support for this mature-diffusion result, whereas the semiparametric analysis confirms the same broad shape. The evidence suggests that digital policy should evolve with the stage of diffusion: expanding basic access and affordability where connectivity remains uneven, then shifting toward skills, meaningful use, and inclusive digital services where access is already widespread.",
+     "url": "https://doi.org/10.1016/j.telpol.2026.103354",
+     "doi": "10.1016/j.telpol.2026.103354",
+     "pdf": "https://doi.org/10.1016/j.telpol.2026.103354",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7233273055",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "Design Practices for Public Algorithmic Systems: Grounded in Technocratic and Businesslike Logics",
+     "authors": [
+      "Sem Nouws",
+      "Marijn Janssen",
+      "Roel Dobbe"
+     ],
+     "journal": "Information Polity",
+     "date": "2026-11-14",
+     "abstract": "Algorithmic and AI systems employed in public administration often manifest technocratic and efficiency premises which may conflict with the democratic and socio-technical fundaments of algorithmic practices in government. Partially, these premises are infused into these public algorithmic systems during the design process. This paper conducts a case study in a consortium of Dutch public organisations that reshapes design practices of algorithmic systems to uncover institutional logics underlying these practices. Our observations and interviews at the consortium of 13 public organisations revealed four design practices that deviate from sociotechnical design practices: (1) distance from politics, (2) underrate the input from non-technical experts, (3) operate on a procurement-oriented dynamic, and (4) follow a chronological phasing combined with agile or scrum practices. Through abductive reasoning, we derived the technocratic and businesslike logics that shaped these design practices. These institutional logics clash with the socio-technical, political, and material nature of public algorithmic systems. To arrive at more responsible, accountable and ethical use of these systems in government, public organisations need to modify their design practices. Our findings provide initial insights into the institutional logics required to change design practices, while also underscoring the complexity of altering routines and practices that are deeply rooted in organisational structures and cultures.",
+     "url": "https://doi.org/10.1177/15701255261500368",
+     "doi": "10.1177/15701255261500368",
+     "pdf": "https://doi.org/10.1177/15701255261500368",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7225989748",
      "topic": "e-gov",
@@ -77558,7 +78100,7 @@
      "abstract": "Purpose Users within the same organization may enact the same digital information system differently, creating diverse requirements and challenges for implementation. It is essential to view information system implementation as a process shaped by individuals' capacity to act within organizational structures, that is, through their agency. This study explores the manifestation of user agency and its associated structural conditions in information system implementation. Design/methodology/approach We examined users' experiences of information system implementation in two industrial companies' maintenance operations, through an interpretive qualitative study based on semi-structured interviews. Findings The study identifies four types of agency, namely eligible, estranged, skilled and motivated, and shows ways in which structural conditions of work design, social relationships and practices and situated individual resources in information system users' work both enable and hinder user's capacity to act during information system implementation. Practical implications The identified agency types can help managers in tailoring information system implementation support. Acknowledging work design, collaborative practices and situated resources enhances users' capacity to act with the new system. Originality/value This study contributes by introducing a typology of user agency in information system implementation: it provides a fine-grained lens to explain why users facing the same information system enact it differently and extends enactment-oriented information system research on human agency. Showing how agency is conditioned by work design, social relationships and practices and situated individual resources in users' unique work conditions, it addresses agency as part of the social and structural dynamics of information system implementation.",
      "url": "https://doi.org/10.1108/itp-03-2026-0463",
      "doi": "10.1108/itp-03-2026-0463",
-     "pdf": "https://doi.org/10.1108/itp-03-2026-0463",
+     "pdf": "https://www.emerald.com/itp/article-pdf/39/8/257/11967960/itp-03-2026-0463en.pdf",
      "first_seen": "2026-11-15T11:01:27+09:00",
      "is_new": true
     },
@@ -77633,10 +78175,10 @@
      "abstract": "City models are needed in which urban spaces serve society as a whole. The emotional state that a pedestrian experiences when crossing a road influences his/her behaviors. The physical characteristics of urban design have a strong relationship with individuals’ emotional perceptions of designs. This article analyzes how the characteristics of nighttime-focused urban design (vegetation, sidewalks, lighting) modify men’s and women’s emotional perceptions of the environment. For this purpose, an experimental study was carried out in which 314 participants (158 men and 156 women) viewed different virtual reality scenarios which they subsequently assessed in a questionnaire measuring valence and arousal dimensions. The results showed that nighttime urban design affects men and women differently, and that the various physical characteristics of the environment generated important emotional differences in men and women. The absence of vegetation and presence of wide sidewalks helped mitigate between-gender differences in valence and arousal. In addition, a lighting color temperature of 10,500 K produced similar levels of calmness in both men and women. These results are important at a methodological and practical level, as they take into account gender perspectives in environment studies and encourage designing inclusive urban spaces.",
      "url": "https://doi.org/10.1080/10630732.2026.2745568",
      "doi": "10.1080/10630732.2026.2745568",
-     "pdf": "",
+     "pdf": "http://hdl.handle.net/10498/40650",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "도시 공간이 사회 전체에 봉사하는 도시 모델이 필요합니다. 보행자가 도로를 횡단할 때 경험하는 감정 상태는 보행자의 행동에 영향을 미칩니다. 도시 디자인의 물리적 특성은 디자인에 대한 개인의 감성적 인식과 밀접한 관계가 있습니다. 이 글은 야간에 초점을 맞춘 도시 디자인의 특성(식물, 보도, 조명)이 환경에 대한 남성과 여성의 정서적 인식을 어떻게 변화시키는지 분석합니다. 이를 위해 314명의 참가자(남성 158명, 여성 156명)가 서로 다른 가상 현실 시나리오를 검토한 후 원자가와 각성 차원을 측정하는 설문지를 통해 평가하는 실험 연구가 수행되었습니다. 연구 결과, 야간 도시 디자인은 남성과 여성에게 서로 다른 영향을 미치며, 환경의 다양한 물리적 특성이 남성과 여성에게 중요한 정서적 차이를 발생시킨다는 사실이 밝혀졌습니다. 초목이 없고 넓은 보도가 있는 것은 성욕과 흥분의 성별 차이를 완화하는 데 도움이 되었습니다. 또한 조명 색온도 10,500K는 남성과 여성 모두 비슷한 수준의 차분함을 연출했습니다. 이러한 결과는 환경 연구에서 성별 관점을 고려하고 포용적인 도시 공간 설계를 장려하기 때문에 방법론적, 실무적 수준에서 중요합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225729195",
@@ -77655,7 +78197,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "목적 이 문서는 국방 부문 중소기업(SME)을 지원하는 실무자가 국립 표준 기술 연구소 특별 간행물 800-171, 사이버 보안 성숙도 모델 인증 프로그램, 계약 및 평가자의 핵심 규제 체계 내에서 인공 지능(AI) 거버넌스를 배치하는 방법을 검토하는 것을 목표로 합니다. 설계/방법론/접근법 공개 LinkedIn 게시물을 통해 모집된 38명의 실무자를 대상으로 한 탐색적 설문 조사에서는 위험-통제 제품군 매핑 작업, 아티팩트 타당성 등급 및 개방형 응답을 결합했습니다. 분석은 설명적이었고 탐색적 상관 관계는 다양성에 맞게 조정되었으며 한 연구원이 공개 텍스트를 코딩했습니다. 조사 결과 응답자들은 감사 및 책임, 위험 평가, 액세스 제어, 시스템 및 정보 무결성을 중심으로 증거가 있는 몇 가지 제어 제품군에 AI 위험을 집중시켰습니다. 인지된 규정 준수 부담은 높았고 준비 상태는 낮았습니다. 감사 추적 내보내기와 같이 기존 증거와 유사한 아티팩트가 가장 실현 가능한 것으로 평가되었습니다. 지침의 모호함이 주요 장벽이었습니다. 다중성에 대한 조정에서 살아남은 탐색적 연관성은 없습니다. 연구의 한계/의미 목적이 있는 표본과 자체 보고된 인식은 인구 추정치나 구현 결과에 대한 주장이 아닌 패턴 식별을 뒷받침합니다. 실제적 의미 평가자와 주요 계약자는 기존 제어 제품군에 매핑된 예시적인 AI 증거 아티팩트를 게시하여 SME의 부담을 줄일 수 있습니다. 독창",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225736259",
@@ -77674,7 +78216,7 @@
      "pdf": "",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "목적 은행 및 금융 서비스의 급속한 디지털 혁신으로 인해 사이버 사기가 중요한 거버넌스 문제로 대두되었습니다. 이러한 배경에서 이전 연구에서는 기술적, 행동적, 조직적, 규제적 측면에서 사이버 사기 거버넌스를 조사했지만 기존 정보는 여전히 고르지 않습니다. 본 연구의 목표는 문헌을 체계적으로 종합하고, 이러한 단편화가 사이버 사기 거버넌스에 미치는 영향을 평가하고, 사이버 사기 관리를 위한 프레임워크로서 수명 주기 불일치 관점(LMP)을 도입하는 것입니다. 설계/방법론/접근법 이 연구는 SPAR-4-SLR 프로토콜을 사용하여 899개 기록의 초기 풀에서 선택된 2008년부터 2024년 사이에 출판된 동료 검토 저널 논문 39개를 체계적으로 분석합니다. 분석 깊이를 위해 이 연구는 이론-맥락-특성-방법론(TCCM) 프레임워크를 분석 렌즈로 사용하여 수명 주기 기반 지식 개발을 조사하고 도메인 문헌 전반에 걸쳐 반복되는 단편화를 탐색합니다. 결과 검토 결과에 따르면 사이버 사기 연구가 다양한 이론적, 맥락적, 경험적, 방법론적 관점을 포괄하지만 이러한 영역 전반에 걸친 통합이 부족하다는 사실이 입증되었습니다. 교차차원적 합성은 TCCM 차원 전반에 걸쳐 6가지 반복되는 단편화 형태를 보여주며, 이는 LMP의 개발을 알려줍니다. 탐지-예방 정렬, 기술-행동 정렬, 조직-시스템 정렬, 예방-학습에 관한 6가지 명제가 도출되었습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225628977",
@@ -78172,6 +78714,24 @@
      "is_new": false
     },
     {
+     "id": "oa:W7228680940",
+     "topic": "e-gov",
+     "origin": "OpenAlex",
+     "title": "“It's not me, it's them”: Self–other perceptions of social media harm, perceived control, and digital well-being",
+     "authors": [
+      "Talía Gómez Yepes",
+      "Edgardo Etchezahar"
+     ],
+     "journal": "Telematics and Informatics",
+     "date": "2026-11-01",
+     "abstract": "",
+     "url": "https://doi.org/10.1016/j.tele.2026.102483",
+     "doi": "10.1016/j.tele.2026.102483",
+     "pdf": "https://doi.org/10.1016/j.tele.2026.102483",
+     "first_seen": "2026-11-16T11:18:15+09:00",
+     "is_new": true
+    },
+    {
      "id": "oa:W7225697807",
      "topic": "e-gov",
      "origin": "OpenAlex",
@@ -78191,7 +78751,7 @@
      "pdf": "https://doi.org/10.1016/j.tele.2026.102486",
      "first_seen": "2026-11-12T12:12:14+09:00",
      "abstract_ko": "소셜 미디어의 증오심 표현은 실제 편견을 반영하고 증폭시키며, 종종 오프라인 증오 범죄를 선행하거나 심화시킵니다. 그러나 여러 소수 집단, 다양한 팬데믹 단계에 걸쳐 증오심 표현을 조사하고 비교하거나 온라인 증오심과 실제 사건 사이의 잠재적인 관계를 조사한 연구는 거의 없습니다. 본 연구는 미국 내 혐오표현의 공간적, 시간적 역학과 이것이 코로나19 팬데믹 이전, 도중, 이후(2018년, 2020년, 2022년) 실제 증오범죄와의 연관성을 밝히는 것을 목표로 합니다. 5,800만 개 이상의 위치 태그가 지정된 트윗을 바탕으로 우리는 2단계 어휘 지원 AI 프레임워크를 사용했습니다. 이 프레임워크에서는 증오 관련 어휘 단서가 포함된 트윗을 먼저 검색한 다음 대규모 언어 모델과 BERT 모델의 조합을 사용하여 분류하여 아프리카계 미국인, 아시아인, 히스패닉, 브라운 등 4개의 소수 그룹을 대상으로 하는 424만 개의 증오 관련 지오트윗을 기반으로 상황에 따른 증오 표현과 비혐오 표현을 구별했습니다. 실제 증오범죄 기록을 통합해 온라인 증오심 표현과 오프라인 사건 사이의 상관관계와 잠재적 시차 효과를 조사했습니다. 공간적, 시간적 분석을 통해 미국 남동부와 동부 해안에서 증오심 표현이 지리적으로 밀집되어 있는 것으로 나타났으며, 아프리카계 미국인 그룹이 가장 빈번하게 표적이 되었습니다. 증오심 표현의 일시적인 정점은 주요 사회적 사건, 특히 2020년 6월에 코로나19 팬데믹, 조지 플로이드 살인, Black Lives Matter 시위에 해당하는 사건과 일치합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225380344",
@@ -80785,7 +81345,7 @@
      ],
      "journal": "Internet Policy Review",
      "date": "2026-09-24",
-     "abstract": "The metaverse disrupts long-settled allocations of legal authority by layering immersive virtual environments on top of distributed infrastructures that rarely map onto territory. This article argues that hierarchical, state-centric regulatory models cannot adequately govern such environments, because power is already distributed among states, platforms, protocol designers, and user communities. The article asks a precise legal question: how should legal authority be allocated across these actors to sustain rights, accountability, and coherence in immersive virtual worlds? To answer it, the article adopts a polycentric governance lens and develops a layered allocation-of-functions framework that distinguishes four governance layers (state law, platform governance, protocol architecture, and user and community norms) and specifies their cooperative, conflictual, and fallback interfaces, evaluated through the metrics of legality, legitimacy, efficacy, and auditability. Drawing comparatively on the GDPR’s cross-border enforcement architecture and on the wider literature on international law and cyberspace, including the Tallinn Manual process, the article identifies how multi-level governance can produce order without hierarchy. It concludes with calibrated near-term and medium-term reforms and a research agenda attentive to re-territorialisation pressures and Global South perspectives.",
+     "abstract": "The metaverse disrupts long-settled allocations of legal authority by layering immersive virtual environments on top of distributed infrastructures that rarely map onto territory. This article argues that hierarchical, state-centric regulatory models cannot adequately govern such environments, because power is already distributed among states, platforms, protocol designers, and user communities. The article asks a precise legal question: how should legal authority be allocated across these actors to sustain rights, accountability, and coherence in immersive virtual worlds? To answer it, the article adopts a polycentric governance lens and develops a layered allocation-of-functions framework that distinguishes four governance layers (state law, platform governance, protocol architecture, and user and community norms) and specifies their cooperative, conflictual, and fallback interfaces, evaluated through the metrics of legality, legitimacy, efficacy, and auditability. Drawing comparatively on the GDPR's cross-border enforcement architecture and on the wider literature on international law and cyberspace, including the Tallinn Manual process, the article identifies how multi-level governance can produce order without hierarchy. It concludes with calibrated near-term and medium-term reforms and a research agenda attentive to re-territorialisation pressures and Global South perspectives.",
      "url": "https://doi.org/10.14763/2026.3.2106",
      "doi": "10.14763/2026.3.2106",
      "pdf": "https://data.consilium.europa.eu/doc/document/ST-12092-2023-INIT/en/pdf",
@@ -85987,69 +86547,6 @@
      "pdf": "",
      "first_seen": "2026-10-01T10:05:44+09:00",
      "abstract_ko": "목적 이 문서는 구조화된 이해관계자 우선순위 지정이 어떻게 스마트 시티 정책 맥락에 대한 디지털 거버넌스의 조정, 투명성 및 합법성을 향상시킬 수 있는지 조사하는 것을 목표로 합니다. 이는 다양한 이해관계자 그룹이 공공 부문 의사결정에서 전략 및 운영 목표의 우선순위를 어떻게 정하는지 체계적으로 평가하기 위해 분석 계층 프로세스(AHP)를 사용하여 비교 프레임워크를 개발합니다. 설계/방법론/접근법 이 연구는 28개 스마트 시티 사례에 대한 국가 간 벤치마킹과 설문조사 기반 AHP 추정을 결합한 다단계 연구 설계를 채택했습니다. 한국의 423개 이해관계자 응답을 바탕으로 이 프레임워크는 삶의 질, 지속 가능성, 혁신 및 성장, 도시 경쟁력 등 4가지 전략 영역과 12가지 운영 하위 요소에 걸쳐 쌍별 우선순위 판단을 정량화합니다. 조사 결과 결과는 안전, 사회적 형평성 및 거버넌스 구조와 관련하여 공공 당국과 비공공 이해관계자 간의 상당한 차이와 함께 삶의 질과 지속 가능성에 대한 측정 가능한 수렴을 보여줍니다. 구조화된 AHP 프레임워크는 정당성에 민감한 우선순위 격차를 드러내고 경쟁 정책 목표 간의 균형을 명확히 합니다. 연구의 한계/의미 실증적 데이터는 한국인 응답자와 단면적 분석을 기반으로 하므로 문화 간 일반화 및 동적 해석이 제한됩니다. 향후 연구에서는 종단적 및 다국가 비교 설계를 통해 프레임워크를 확장할 수 있습니다. 실제적인 의미",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169675894",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Generative artificial intelligence adoption and employees' perspectives on AI at work: toward unalienated working life or AI-augmented alienation?",
-     "authors": [
-      "Visa Rantanen",
-      "Kathrin Komp"
-     ],
-     "journal": "Information Technology and People",
-     "date": "2026-07-18",
-     "abstract": "Purpose Generative artificial intelligence (AI) is making its way into our working lives. Previous research has explored topics such as AI-related fears among working people and AI technology adoption in companies, but people's perceptions of AI in the context of AI adoption are still not well understood. This article looks at the intersection of AI technology adoption and AI-related job concerns in one company. Design/methodology/approach A rapid ethnographic case study of a Finnish energy company during its introduction of a generative AI tool was conducted. This article explores: (1) How is AI technology adoption managed? (2) How do employees perceive AI-related social risks concerning their working lives? And (3) how are perceived risks related to AI accommodated? We utilized Marx's framework on alienation to analyze employees' AI-related job concerns and future perceptions, and improvisational change management theory to analyze technology adoption strategy. Findings AI-related concerns included both job security-related and job quality-related concerns. AI-related fears also manifest in rhetorics on the alienation-reducing potential of AI and digital automation. Employees' initiative is emphasized in technology adoption, which underlines the importance of their AI acceptance. Originality/value The article illustrates how AI acceptance is constructed in work culture, and it also shows how a classic theory can be relevant for analyzing AI perceptions. It demonstrates why employees' AI acceptance is central in the context of employee-led practices in AI technology adoption.",
-     "url": "https://doi.org/10.1108/itp-09-2025-1353",
-     "doi": "10.1108/itp-09-2025-1353",
-     "pdf": "https://doi.org/10.1108/itp-09-2025-1353",
-     "first_seen": "2026-10-01T10:05:44+09:00",
-     "abstract_ko": "목적 생성형 인공 지능(AI)이 우리의 업무 생활에 침투하고 있습니다. 이전 연구에서는 직장인들의 AI 관련 두려움, 기업의 AI 기술 도입 등의 주제를 탐구했지만, AI 도입 맥락에서 AI에 대한 사람들의 인식은 아직 잘 이해되지 않은 상태다. 이 기사에서는 한 회사의 AI 기술 채택과 AI 관련 직무 우려의 교차점을 살펴봅니다. 설계/방법론/접근법 생성 AI 도구를 도입하는 동안 핀란드 에너지 회사에 대한 신속한 민족지학적 사례 연구가 수행되었습니다. 이 기사에서는 다음을 탐구합니다. (1) AI 기술 채택은 어떻게 관리됩니까? (2) 직원들은 업무생활과 관련하여 AI 관련 사회적 리스크를 어떻게 인식하고 있나요? (3) AI와 관련하여 인지된 위험은 어떻게 수용됩니까? 소외에 대한 마르크스의 프레임워크를 활용하여 직원의 AI 관련 업무 우려와 미래 인식을 분석하고 즉흥적인 변화 관리 이론을 활용하여 기술 채택 전략을 분석했습니다. 조사 결과 AI 관련 우려 사항에는 직업 안정 관련 문제와 직업 품질 관련 문제가 모두 포함되었습니다. AI 관련 두려움은 AI와 디지털 자동화의 소외 감소 잠재력에 대한 수사에서도 나타납니다. 직원의 이니셔티브는 기술 채택에서 강조되며, 이는 AI 수용의 중요성을 강조합니다. 독창성/가치 이 기사는 직장 문화에서 AI 수용이 어떻게 구성되는지 설명하고, AI 인식 분석에 고전 이론이 어떻게 관련될 수 있는지도 보여줍니다. 이유를 보여줍니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169678967",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "An experiment in forecasting out-of-sample coup events with artificial intelligence",
-     "authors": [
-      "Cale Horne",
-      "Hannah Bult",
-      "Nathan Emerly",
-      "Patton Hickman",
-      "Kateryna Kadian",
-      "Isaac Leicht",
-      "Chandler Lines",
-      "Sebastian Rodriguez",
-      "Grace Seitz",
-      "Bryant White"
-     ],
-     "journal": "Journal of Information Technology & Politics",
-     "date": "2026-07-18",
-     "abstract": "Out-of-sample forecasting of political violence is now common among academics and security practitioners, with varying degrees of success. While forecasting methods range from informal expert estimates to “big data” algorithmic models, large-language models (LLMs) are only now emerging as a potential tool to supplement these established methods. LLMs, however, are known to be sensitive to variations in prompt narrative style, prompt syntax, randomization parameters (i.e. “temperature”), response length limits, whether the platform accesses its previous responses, and other manipulable variables. This experiment compares out-of-sample forecasts in ChatGPT-4 across 10 different prompt narratives designed to extract responses about Sub-Saharan African states most likely to experience coups beginning in May 2023, the first month past the LLM’s training data, through the end of the year. Two subsequent experiments take the most accurate forecasting prompts and re-test these with variations to the LLM’s temperature and response length; a final series of experiments examines language bias by comparing English to French inputs. Cumulatively, these experiments find significant but not conclusive support for AI’s potential as a political forecasting tool.",
-     "url": "https://doi.org/10.1080/19331681.2026.2697187",
-     "doi": "10.1080/19331681.2026.2697187",
-     "pdf": "",
-     "first_seen": "2026-10-01T10:05:44+09:00",
-     "abstract_ko": "정치적 폭력에 대한 표본 외 예측은 이제 다양한 수준의 성공을 거두면서 학계와 보안 실무자 사이에서 흔히 볼 수 있습니다. 예측 방법은 비공식 전문가 추정에서 \"빅 데이터\" 알고리즘 모델에 이르기까지 다양하지만, LLM(대형 언어 모델)은 이제 이러한 확립된 방법을 보완할 수 있는 잠재적인 도구로 떠오르고 있습니다. 그러나 LLM은 프롬프트 내러티브 스타일, 프롬프트 구문, 무작위 매개변수(예: \"온도\"), 응답 길이 제한, 플랫폼이 이전 응답에 액세스하는지 여부 및 기타 조작 가능한 변수의 변화에 ​​민감한 것으로 알려져 있습니다. 이 실험은 LLM의 훈련 데이터 이후 첫 달인 2023년 5월부터 연말까지 쿠데타를 경험할 가능성이 가장 높은 사하라 사막 이남 아프리카 국가에 대한 응답을 추출하도록 설계된 10개의 다양한 프롬프트 내러티브에 걸쳐 ChatGPT-4의 샘플 외부 예측을 비교합니다. 두 번의 후속 실험에서는 가장 정확한 예측 프롬프트를 사용하고 LLM의 온도 및 응답 길이를 변경하여 이를 다시 테스트합니다. 마지막 일련의 실험에서는 영어 입력과 프랑스어 입력을 비교하여 언어 편향을 조사합니다. 누적적으로, 이러한 실험은 정치적 예측 도구로서 AI의 잠재력에 대한 중요하지만 결정적이지는 않은 뒷받침을 찾아냅니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7169573623",
-     "topic": "e-gov",
-     "origin": "OpenAlex",
-     "title": "Working remotely, unequally: Evidence from a digitally divided labor market",
-     "authors": [
-      "José Wilmar Quintero-Peña"
-     ],
-     "journal": "Telecommunications Policy",
-     "date": "2026-07-18",
-     "abstract": "",
-     "url": "https://doi.org/10.1016/j.telpol.2026.103287",
-     "doi": "10.1016/j.telpol.2026.103287",
-     "pdf": "",
-     "first_seen": "2026-08-20T07:46:21+09:00",
      "is_new": false
     }
    ]
