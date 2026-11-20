@@ -76923,7 +76923,7 @@
     "Mark Trappmann"
    ],
    "journal": "Journal of Survey Statistics and Methodology",
-   "date": "2026-08-01",
+   "date": "2026-09-02",
    "abstract": "Abstract The transition to online data collection in general population surveys has accelerated in recent years. Although high-quality web surveys now achieve response rates comparable to those of telephone surveys, they frequently display greater educational bias. This study analyzes complete employment biographies of both respondents and non-respondents to address three key questions: (1) How do different stages of the online panel recruitment process contribute to educational bias? (2) Are specific subgroups within the lower-educated population underrepresented in online surveys? (3) Are there interaction effects between education and other predictors of nonresponse, such as age, nationality, or employment status? In 2023, the Institute for Employment Research (IAB) in Germany launched the IAB-OPAL online panel survey using a push-to-web approach. The sample was drawn from a comprehensive administrative database containing social security, unemployment insurance, and basic income records, allowing for detailed analyses of employment histories. Leveraging detailed employment histories enables a granular assessment of how educational bias emerges across recruitment stages and whether response tendencies within educational groups vary due to typically unobserved factors such as benefit receipt, occupational history, or wages. The results indicate that educational bias increases at each stage of the recruitment process. Nonresponse is particularly common among individuals with lower educational attainment, especially those aged 50 and above. Although response probabilities for foreigners and Germans without an educational degree are similar, the disparity between these groups increases by at least a factor of four among individuals with a university degree. Additionally, men are less likely to participate unless they possess advanced degrees or lack formal qualifications.",
    "url": "https://doi.org/10.1093/jssam/smag031",
    "doi": "10.1093/jssam/smag031",
@@ -78745,7 +78745,7 @@
    "abstract": "How do supreme court judges’ disagreements about international law (IL) align with broader judicial conflicts? Existing research tends to frame domestic judicial conflicts on international law as a tension between sovereigntism and supranationalism. However, given that judiciaries are often characterised by internal disagreement, this paper investigates how international law aligns with broader judicial conflicts. We expect that IL interacts with domestic judicial politics, such that familiar divisions, e.g., deference to government authority or broader ideological orientations, shape how judges approach IL cases. Taking the Supreme Court of Norway as our case, we analyse the content and structure of judicial dissents in cases citing the European Convention of Human Rights and European Union law from 1990 to 2020 using Optimal Classification. We find that judicial conflicts in IL law cases align with a broader conflict related to deference to public authorities and that the line of conflict shifts depending on the issue at stake. Our results demonstrate that employing general theories of judicial politics and decision making can advance the analysis of how national courts engage with international law, cautioning against modelling judges as torn between national interest and the supranational authority of IL.",
    "url": "https://doi.org/10.1080/13501763.2026.2725075",
    "doi": "10.1080/13501763.2026.2725075",
-   "pdf": "https://doi.org/10.1080/13501763.2026.2725075",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/13501763.2026.2725075?needAccess=true",
    "first_seen": "2026-09-07T09:08:26+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -82493,7 +82493,7 @@
    "abstract": "",
    "url": "https://doi.org/10.1007/s43681-026-01360-4",
    "doi": "10.1007/s43681-026-01360-4",
-   "pdf": "",
+   "pdf": "https://repository.uwl.ac.uk/id/eprint/15304/3/YuT_From%20responsibility%20gaps%20to%20meaningful%20human%20control_AM_PDFA.pdf",
    "first_seen": "2026-09-12T09:26:19+09:00",
    "abs_tries": 3,
    "ko_tries": 0
@@ -83299,7 +83299,7 @@
     "Zheyang Wu"
    ],
    "journal": "Journal of Computational and Graphical Statistics",
-   "date": "2026-09-11",
+   "date": "2026-11-18",
    "abstract": "Combining p-values from multiple independent tests is a fundamental task in statistical inference, but presents unique challenges when the p-values are discrete. We extend a recent optimal transport-based framework for combining discrete p-values, which constructs a continuous surrogate distribution by minimizing the Wasserstein distance between the transformed discrete null and its continuous analogue. We provide a unified approach for several classical combination methods, including Fisher’s, Pearson’s, George’s, Stouffer’s, and Edgington’s statistics. Our theoretical analysis and extensive simulations show that accurate Type I error control is achieved when the variance of the adjusted discrete statistic closely matches that of the continuous case. We further demonstrate that, when the likelihood ratio test is a monotonic function of a combination statistic, the proposed approximation achieves power comparable to the uniformly most powerful (UMP) test. The methodology is illustrated with a genetic association study of rare variants using case-control data, and is implemented in the R package DPComb.",
    "url": "https://doi.org/10.1080/10618600.2026.2732157",
    "doi": "10.1080/10618600.2026.2732157",
@@ -83343,7 +83343,7 @@
     "Hans‐Georg Müller"
    ],
    "journal": "Biometrika",
-   "date": "2026-09-08",
+   "date": "2026-09-11",
    "abstract": "Summary Difference-in-differences (DID) is a widely used quasi-experimental design for causal inference, traditionally applied to scalar or Euclidean outcomes, while extensions to outcomes residing in non-Euclidean spaces remain limited. Existing methods for such outcomes have primarily focused on univariate distributions, leveraging linear operations in the space of quantile functions, but these approaches cannot be directly extended to outcomes in general metric spaces. In this paper, we propose geodesic DID, a novel DID framework for outcomes in uniquely geodesic metric spaces that admit a geodesic transport structure, including distributions, networks, and manifold-valued data. To address the absence of algebraic operations in these spaces, we use geodesics as proxies for differences and introduce the geodesic average treatment effect on the treated (ATT) as the causal estimand. We establish the identification of the geodesic ATT and derive the convergence rate of its sample versions, employing tools from metric geometry and empirical process theory. This framework is further extended to the case of staggered DID settings, allowing for multiple time periods and varying treatment timings. To illustrate the practical utility of geodesic DID, we analyze health impacts of the Soviet Union’s collapse using age-at-death distributions and assess effects of U.S. electricity market liberalization on electricity generation compositions.",
    "url": "https://doi.org/10.1093/biomet/asag054",
    "doi": "10.1093/biomet/asag054",
@@ -84365,7 +84365,7 @@
    "abstract": "This paper introduces Bayesian mixed-effects models (BMM) for characterizing childhood BMI trajectories from birth to 13 years of age and proposes a Bayesian marginal posterior sampling approach to decompose BMI variance into residuals, fixed, and random effects contributions. This is one of the first studies to rigorously evaluate Fractional Polynomials (FP), Reed2 (R2), and Breakpoint (BP) models using data from three longitudinal cohorts, assessing performance based on bias, heteroskedasticity, and Bayesian goodness-of-fit.Results indicate that model choice matters, as FP and Reed2 models generally outperform BP models in capturing the complex non-linearity of BMI trajectories, with residual errors accounting for less than 10% of BMI variance. Among five likelihoods considered, the Laplace distribution provided the most robust fit. The residual correlation structures were complex and non-stationary. A normal likelihood with a stationary correlation function improved fit, but less so than an independent Laplace likelihood. Most BMI variance was explained by random effects, underscoring the importance of personalized approaches in childhood obesity.This study rigorously evaluates competing BMI trajectory models and introduces a robust BMM library that improves modeling of abnormal trajectories. These results may inform early identification of children at risk, targeted intervention selection, and intervention efficacy monitoring.",
    "url": "https://doi.org/10.1080/00031305.2026.2730371",
    "doi": "10.1080/00031305.2026.2730371",
-   "pdf": "https://doi.org/10.1080/00031305.2026.2730371",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00031305.2026.2730371?needAccess=true",
    "first_seen": "2026-09-16T09:37:12+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -84428,7 +84428,7 @@
    "abstract": "We develop a specification test for GMM and Minimum Distance (MD) inference that is: (i) robust to weak identification; (ii) easy to implement and broadly applicable; and (iii) has meaningful power. Our specification test is based on a conditional inference approach: information about the existence of strongly identified directions in the parameter space is exploited to define a data-dependent critical value, which, in turn, increases the power of the resulting specification test by reducing the conservativeness of the corresponding critical value used to carry out the approach. This conditional or coordinated testing approach relies on a novel test of weak identification that is more powerful than existing procedures and is compatible with mixed identification strengths - that is, subvector and/or directions in the parameters space that display different strengths of identification (e.g. weak and non-weak). Furthermore, we show that in both cases, specification testing and testing for weak identification, an empirical measure of identification strength can be used to enhance testing power by eliciting less conservative critical values when appropriate. This new testing approach is illustrated using three applications: discrete choice models with simultaneity and the New Keynesian Philips curve (in a GMM framework), as well as Asset Pricing models with stochastic volatility and leverage (in a MD framework).",
    "url": "https://doi.org/10.1016/j.jeconom.2026.106338",
    "doi": "10.1016/j.jeconom.2026.106338",
-   "pdf": "https://doi.org/10.1016/j.jeconom.2026.106338",
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0304407626001582/pdf",
    "first_seen": "2026-09-16T09:37:12+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -99305,7 +99305,7 @@
    "abstract": "As large language models increasingly provide advice and decision support, it is important to understand the response patterns expressed in their recommendations. We introduce a scenario-based framework, informed by philosophical accounts of human autonomy, for analyzing LLM advice across three types of dilemma: epistemic conflict, relational dilemmas, and normative self-governance. Using 120 structured scenarios spanning 20 domains, we evaluate 12 LLMs by measuring (i) option-selection distributions across three response orientations, deference (conformity), self-direction (assertion), and negotiation (compromise), and (ii) features of their one line justifications, including hedging, confidence, and moral, relational, and epistemic language. Across models, compromise-oriented selections are the most frequent, assertion-oriented selections occur less often, and conformity-oriented selections are the least frequent. We also observe role-related differences: scenarios framed from higher power roles produce more assertion-oriented and fewer conformity-oriented selections than scenarios framed from lower power roles. Compromise remains the most frequent orientation in both role conditions, although its frequency varies across dilemma types. Our evaluation characterizes model output patterns under controlled prompting and does not measure effects on users. The findings provide a basis for evaluating how LLMs provide advice in decision support systems where user autonomy matters.",
    "url": "https://doi.org/10.1145/3838184",
    "doi": "10.1145/3838184",
-   "pdf": "",
+   "pdf": "https://dl.acm.org/doi/pdf/10.1145/3838184?download=true",
    "first_seen": "2026-10-02T10:44:47+09:00",
    "abstract_ko": "대규모 언어 모델이 조언과 의사 결정 지원을 점점 더 많이 제공함에 따라 권장 사항에 표현된 응답 패턴을 이해하는 것이 중요합니다. 인식적 갈등, 관계형 딜레마, 규범적 자기 관리라는 세 가지 유형의 딜레마에 걸쳐 LLM 조언을 분석하기 위해 인간 자율성에 대한 철학적 설명을 바탕으로 한 시나리오 기반 프레임워크를 소개합니다. 20개 도메인에 걸쳐 있는 120개의 구조화된 시나리오를 사용하여 (i) 세 가지 응답 방향인 복종(순응), 자기 지시(주장) 및 협상(타협)에 대한 옵션 선택 분포와 (ii) 헤징, 자신감, 도덕적, 관계적 및 인식론적 언어를 포함한 한 줄 정당화의 특징을 측정하여 12개의 LLM을 평가합니다. 모델 전반에 걸쳐 타협 지향 선택이 가장 빈번하고 주장 지향 선택은 덜 자주 발생하며 적합성 지향 선택은 가장 적게 발생합니다. 우리는 또한 역할 관련 차이점을 관찰합니다. 즉, 더 높은 권한 역할로 구성된 시나리오는 더 낮은 권한 역할로 구성된 시나리오보다 더 많은 주장 지향적이고 적은 적합성 지향 선택을 생성합니다. 타협은 딜레마 유형에 따라 빈도가 다르지만 두 역할 조건 모두에서 가장 빈번한 방향으로 남아 있습니다. 우리의 평가는 통제된 프롬프트 하에서 모델 출력 패턴을 특성화하며 사용자에 대한 영향을 측정하지 않습니다. 이번 연구 결과는 사용자 자율성이 중요한 의사 결정 지원 시스템에서 LLM이 어떻게 조언을 제공하는지 평가하기 위한 기초를 제공합니다.",
    "abs_tries": 0,
@@ -100433,7 +100433,7 @@
    "origin": "OpenAlex",
    "title": "Unveiling the Dynamics of Chatbot Utilization in the Public Sector: A Framework of Users, Types, Conditions and Effects",
    "authors": [
-    "J. Ignacio Criado",
+    "Juan Ignacio Criado",
     "Carlos Jiménez Cid"
    ],
    "journal": "Information Polity",
@@ -115232,7 +115232,7 @@
     "Sunday Stein"
    ],
    "journal": "Harvard Data Science Review",
-   "date": "2026-10-12",
+   "date": "2026-11-16",
    "abstract": "AI-based tools, generative AI, and large language models (LLMs) are transforming what it means to work and learn within the data science profession. We argue that higher education instructors should consider if, how, and in what ways to adapt data science curricula and pedagogy so that students who aspire to become data scientists are aware of how AI-based tools are integrated into and influencing the profession. To gain a sense of what modifications should be made to data science curricula (and why), we interviewed data science professionals across a variety of industry domains. We asked them to describe their career preparation, current work, and how employers expect them to use artificial intelligence tools and LLMs. Our findings suggest a general consensus that frequent human-AI interaction is necessary. A growing presence of AI tools in the workforce signals a stronger shift toward data pipelining, stakeholder communication and collaboration, and knowledge of evaluating AI output with epistemic expertise. Data professionals posed suggestions about how higher education might incorporate AI, generative AI, and LLMs into curricula, assessment, and practice, although some recommendations (e.g., learning to code with AI agents) would require a careful re-examination of the epistemic goals of data science by instructors. We illustrate how we took up professionals’ suggestions and adapted an undergraduate data science course designed for AI-integration in response. We conclude with a reflection on data science instructional challenges and potential roles that industry-academia collaborations might play in the AI era.",
    "url": "https://doi.org/10.1162/99608f92.19a06712",
    "doi": "10.1162/99608f92.19a06712",
@@ -119777,7 +119777,7 @@
     "Junli Shi",
     "Taihong Wang",
     "Wenlong Si",
-    "Wenlong Si",
+    "Bowen Li",
     "Hanxiang He",
     "Zelong Liao",
     "Tianyu Wu",
@@ -127554,8 +127554,8 @@
     "Dag Arne Christensen"
    ],
    "journal": "Journal of Public Administration Research and Theory",
-   "date": "2026-10-27",
-   "abstract": "Abstract The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens' outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015-2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship with sickness absence. These findings suggest that employee responses to ownership change are shaped less by the public-private divide than by differences in organizational missions and values. More broadly, the study highlights organizational value congruence as a potential mechanism linking ownership arrangements to employee well-being, and suggests that the nonprofit-for-profit boundary may be more consequential for employees than the conventional public-private divide.",
+   "date": "2026-10-28",
+   "abstract": "Abstract The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens’ outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015–2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship with sickness absence. These findings suggest that employee responses to ownership change are shaped less by the public–private divide than by differences in organizational missions and values. More broadly, the study highlights organizational value congruence as a potential mechanism linking ownership arrangements to employee well-being, and suggests that the nonprofit-for-profit boundary may be more consequential for employees than the conventional public–private divide.",
    "url": "https://doi.org/10.1093/jopart/muag036",
    "doi": "10.1093/jopart/muag036",
    "pdf": "https://academic.oup.com/jpart/advance-article-pdf/doi/10.1093/jopart/muag036/72556261/muag036.pdf",
@@ -128872,7 +128872,7 @@
    "id": "oa:W7224627924",
    "topic": "ai-ml",
    "origin": "OpenAlex",
-   "title": "PASER: Patchified Spectral Representation Learning for Non-Stationary and Non-Periodic User Behavior Sequence",
+   "title": "PASER: Patchified spectral representation learning for non-stationary and non-periodic user behavior sequence",
    "authors": [
     "Hao Wang",
     "Zhichao Chen",
@@ -128885,7 +128885,7 @@
     "Zhouchen Lin"
    ],
    "journal": "Artificial Intelligence",
-   "date": "2026-10-01",
+   "date": "2026-10-29",
    "abstract": "",
    "url": "https://doi.org/10.1016/j.artint.2026.104646",
    "doi": "10.1016/j.artint.2026.104646",
@@ -129339,7 +129339,7 @@
    "abstract": "",
    "url": "https://doi.org/10.1016/j.jeconom.2026.106351",
    "doi": "10.1016/j.jeconom.2026.106351",
-   "pdf": "",
+   "pdf": "https://fba.um.edu.mo/wp-content/uploads/RePEc/doc/202527.pdf",
    "first_seen": "2026-11-01T10:19:53+09:00",
    "abs_tries": 3,
    "ko_tries": 0
@@ -131443,7 +131443,7 @@
    "abstract": "",
    "url": "https://doi.org/10.1038/s42256-026-01323-8",
    "doi": "10.1038/s42256-026-01323-8",
-   "pdf": "",
+   "pdf": "https://discovery.ucl.ac.uk/id/eprint/10233410/1/Model_Versioning__Commentary_.pdf",
    "first_seen": "2026-11-04T11:31:28+09:00",
    "abs_tries": 3,
    "ko_tries": 0
@@ -137934,7 +137934,7 @@
    "id": "oa:W7225893160",
    "topic": "ai-ml",
    "origin": "OpenAlex",
-   "title": "Controlled Query Evaluation under Epistemic Policies",
+   "title": "Controlled query evaluation under epistemic policies",
    "authors": [
     "Gianluca Cima",
     "Domenico Lembo",
@@ -137943,7 +137943,7 @@
     "Domenico Fabio Savo"
    ],
    "journal": "Artificial Intelligence",
-   "date": "2026-11-01",
+   "date": "2026-11-12",
    "abstract": "In this paper, we investigate the use of epistemic dependencies to define data protection policies within Controlled Query Evaluation (CQE), a framework for confidentiality-preserving query answering over ontologies and databases. The proposed policy language significantly extends the expressive power of CQE compared to existing approaches, enabling the specification of powerful and practically relevant data protection rules. We examine the expressive capabilities of this framework and analyze the data complexity of CQE for (unions of) conjunctive queries for ontologies specified using the Description Logic D L - L i t e ℛ . Although the general problem proves to be intractable, we identify a tractable case for acyclic epistemic dependencies by developing a tailored query rewriting algorithm. This outcome fosters the possibility of practical implementations and wider applicability of our enhanced CQE approach.",
    "url": "https://doi.org/10.1016/j.artint.2026.104657",
    "doi": "10.1016/j.artint.2026.104657",
@@ -138594,7 +138594,7 @@
    "abstract": "Test bias is a critical concern in educational and psychological measurement. Differential item functioning (DIF) is widely used to identify potential test bias. Although regularization methods have shown promise in DIF detection, interpreting the resulting DIF parameters remains challenging. This study proposes a two-stage approach, termed Reg-MH, that combines regularization with the Mantel-Haenszel (MH) method. Specifically, regularization is first used to select anchor items, followed by MH testing to identify DIF items, combining the anchor selection advantages of regularization with the interpretability of MH. A pilot simulation study examined alternative regularization-based anchor selection strategies and the number of anchor items. A main simulation study evaluated the performance of Reg-MH against traditional MH and regularized DIF (Reg-DIF) methods across varying sample sizes, DIF magnitudes, DIF proportions, and ability distributions. An empirical illustration using PISA 2012 data further demonstrated its practical application. The simulation results showed that Reg-MH generally achieved a more favorable balance between Type I error control and statistical power than the competing methods. Compared with traditional MH, Reg-MH reduced Type I error rates while maintaining higher statistical power than Reg-DIF. Type I error rates generally increased with sample size, DIF magnitude, and DIF proportion, whereas statistical power increased with sample size and DIF magnitude but decreased as DIF proportion increased. Overall, Reg-MH provides a promising approach to DIF detection by integrating regularization-based anchor selection with conventional statistical testing.",
    "url": "https://doi.org/10.1177/01466216261506348",
    "doi": "10.1177/01466216261506348",
-   "pdf": "",
+   "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13769714/",
    "first_seen": "2026-11-16T11:18:15+09:00",
    "ko_tries": 0,
    "abs_tries": 0
@@ -138632,7 +138632,7 @@
    "abstract": "Abstract I study how extreme weather events affect macroeconomic expectations to better understand the propagation of major shocks. I identify the immediate and dynamic effects of a Hurricane Katrina-sized shock on business economists’ expectations of GDP growth. While a shock immediately causes a downward revision in expected near-term growth, the total effect, which includes any dynamics due to forecast revision inefficiencies, is more than double the immediate revision. The effects of the shock are also expected to last for up to a year, which contrasts with forecasts from Federal Reserve Board staff and estimates of the actual economic impacts. The relative persistence of the response in expectations is consistent with models of delayed overshooting and highlights the importance of accounting for forecast revision dynamics.",
    "url": "https://doi.org/10.1093/ectj/utag036",
    "doi": "10.1093/ectj/utag036",
-   "pdf": "",
+   "pdf": "https://www2.gwu.edu/~forcpgm/2025-001.pdf",
    "first_seen": "2026-11-16T11:18:15+09:00",
    "ko_tries": 1,
    "abs_tries": 0
@@ -147210,12 +147210,12 @@
    ],
    "journal": "Public Money & Management",
    "date": "2026-11-16",
-   "abstract": "Redistribution has three main meanings that are often confused in discussions. The first meaning refers to transfer payments, where money is taken from one group of people and given to another. Governments use these payments for various reasons, including aiding those with low incomes, covering additional costs related to health or education, providing social inclusion through support for education, offering insurance for sickness, and compensating for accidents or special expenses like housing. The second meaning, which is less recognized, is linked to public services. These services often arise from people pooling their resources together, rather than from charity. This approach, known as 'solidarity', focuses on mutual responsibility and shared risks, allowing for collective benefits that individuals alone could not achieve, such as mutual insurance. However, as pension systems become more individualized, the importance of pooled resources can be overlooked. The third meaning of redistribution is more collectivist, where resources are viewed as community assets rather than individual ones. This form of distribution contributes to public goods like roads and schools, benefiting the community as a whole, even if individuals bear certain burdens. Finally, there is confusion between transfer payments, solidarity, and general public expenditures. Transfer payments are different from other public goods, as they do not inherently change the total money in the economy. The debate between funding welfare or defense assumes a fixed budget, but another option is to redistribute by raising personal income taxes.",
+   "abstract": "Redistribution, in its simplest form, happens whenever the person who pays for a good or service is not the same as the one who receives it. Richard Titmuss identified redistribution as one of the ...",
    "url": "https://doi.org/10.1080/09540962.2026.2757795",
    "doi": "10.1080/09540962.2026.2757795",
-   "pdf": "https://doi.org/10.1080/09540962.2026.2757795",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/09540962.2026.2757795?needAccess=true",
    "first_seen": "2026-11-18T12:45:41+09:00",
-   "ko_tries": 1,
+   "ko_tries": 0,
    "abs_tries": 0
   },
   "oa:W7233758097": {
@@ -147325,10 +147325,10 @@
    ],
    "journal": "Public Money & Management",
    "date": "2026-11-16",
-   "abstract": "",
+   "abstract": "The debate on artificial intelligence (AI) in public sector financial reporting is often framed through a series of either/or choices: Adoption or restraint.Augmentation or replacement.Efficiency o...",
    "url": "https://doi.org/10.1080/09540962.2026.2762503",
    "doi": "10.1080/09540962.2026.2762503",
-   "pdf": "https://doi.org/10.1080/09540962.2026.2762503",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/09540962.2026.2762503?needAccess=true",
    "first_seen": "2026-11-18T12:45:41+09:00",
    "abs_tries": 2,
    "ko_tries": 0
@@ -147482,7 +147482,7 @@
    ],
    "journal": "Educational and Psychological Measurement",
    "date": "2026-11-16",
-   "abstract": "Evaluating measurement invariance is essential for ensuring score comparability across individuals and groups. While unidimensional item response theory (IRT) models are commonly used, their assumption of local independence is often violated. Bifactor models provide an alternative by incorporating both a general factor and specific factors, making them suitable for assessments with locally dependent item clusters, such as reading comprehension tests based on shared text passages. This study examines measurement invariance in bifactor IRT models using marginal maximum likelihood (MML) estimation and likelihood ratio testing, with simulations motivated by the Norwegian National Reading Test (2022–2023). We first investigate the implications of using a misspecified unidimensional model to evaluate differential item functioning when data follow a bifactor structure. We then evaluate how alternative item parameter constraints in multiple-group bifactor models, constraining general slopes alone versus both general and specific slopes, impact invariance assessment. We further compare MML estimators for likelihood ratio testing, including adaptive Gauss–Hermite quadrature, Laplace approximation, and the expectation-maximization algorithm with dimension reduction. The results show that all methods yield accurate size when specific-factor slopes are the same across groups. However, when these slopes differ across groups, models that fail to account for such differences can produce inflated size.",
+   "abstract": "Evaluating measurement invariance is essential for ensuring score comparability across individuals and groups. While unidimensional item response theory (IRT) models are commonly used, their assumption of local independence is often violated. Bifactor models provide an alternative by incorporating both a general factor and specific factors, making them suitable for assessments with locally dependent item clusters, such as reading comprehension tests based on shared text passages. This study examines measurement invariance in bifactor IRT models using marginal maximum likelihood (MML) estimation and likelihood ratio testing, with simulations motivated by the Norwegian National Reading Test (2022-2023). We first investigate the implications of using a misspecified unidimensional model to evaluate differential item functioning when data follow a bifactor structure. We then evaluate how alternative item parameter constraints in multiple-group bifactor models, constraining general slopes alone versus both general and specific slopes, impact invariance assessment. We further compare MML estimators for likelihood ratio testing, including adaptive Gauss-Hermite quadrature, Laplace approximation, and the expectation-maximization algorithm with dimension reduction. The results show that all methods yield accurate size when specific-factor slopes are the same across groups. However, when these slopes differ across groups, models that fail to account for such differences can produce inflated size.",
    "url": "https://doi.org/10.1177/00131644261498237",
    "doi": "10.1177/00131644261498237",
    "pdf": "https://doi.org/10.1177/00131644261498237",
@@ -147507,7 +147507,7 @@
    "doi": "10.1177/0282423x261505751",
    "pdf": "https://doi.org/10.1177/0282423x261505751",
    "first_seen": "2026-11-18T12:45:41+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7138939182": {
@@ -147584,7 +147584,7 @@
    "abstract": "Abstract We propose a decomposition of the Environmental Kuznets Curve (EKC) based on a difference-of-sigmoid function with one for the economic-growth effect and one for the green-economy effect. This nonlinear function replaces the traditional quadratic specification in panel data models. We further extend the framework with unobserved stochastic trends to capture time-varying features such as evolving energy mixes and technological advances. The panel model can be represented in state-space form. We show that parameter estimation can be carried out by nonlinear regression and Kalman filter methods. In our empirical study, we consider a panel of pollution (CO2 emissions) and economic output variables for 15 major economies (G7, Australia and 7 emerging countries), representing approximately 75% of the global economy. We extract the common EKC where its parameters are pooled or partially pooled across all countries. The empirical results show statistically significant evidence of a globally relevant EKC.",
    "url": "https://doi.org/10.1093/ectj/utag037",
    "doi": "10.1093/ectj/utag037",
-   "pdf": "https://doi.org/10.1093/ectj/utag037",
+   "pdf": "https://academic.oup.com/ectj/advance-article-pdf/doi/10.1093/ectj/utag037/73684059/utag037.pdf",
    "first_seen": "2026-11-18T12:45:41+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -147623,7 +147623,7 @@
    "abstract": "Abstract We study the problem of offline changepoint localization in a distribution-free setting. One observes a vector of data with a single changepoint, assuming that the data before and after the changepoint are i.i.d. (or more generally exchangeable) from arbitrary and unknown distributions. The goal is to produce a finite-sample confidence set for the index at which the change occurs without making any other assumptions. Existing methods often rely on parametric assumptions, tail conditions, or asymptotic approximations, or only produce point estimates. In contrast, our distribution-free algorithm, CONformal CHangepoint localization (CONCH), only leverages exchangeability arguments to construct confidence sets with finite sample coverage. By proving a conformal Neyman–Pearson lemma, we derive principled score functions that yield informative (small) sets. Moreover, with such score functions, the normalized length of the confidence set shrinks to zero under weak assumptions. We also establish a universality result showing that any distribution-free changepoint localization method must be an instance of CONCH. Experiments suggest that CONCH delivers precise confidence sets even in challenging settings involving images or text.",
    "url": "https://doi.org/10.1093/biomet/asag074",
    "doi": "10.1093/biomet/asag074",
-   "pdf": "https://doi.org/10.1093/biomet/asag074",
+   "pdf": "https://academic.oup.com/biomet/advance-article-pdf/doi/10.1093/biomet/asag074/73521560/asag074.pdf",
    "first_seen": "2026-11-18T12:45:41+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -147746,7 +147746,7 @@
    "doi": "10.1007/s10994-026-07194-9",
    "pdf": "",
    "first_seen": "2026-11-18T12:45:41+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7234032753": {
@@ -147769,7 +147769,7 @@
    "doi": "10.1038/s42256-026-01327-4",
    "pdf": "",
    "first_seen": "2026-11-18T12:45:41+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7234060146": {
@@ -147833,7 +147833,7 @@
    "abstract": "Deep learning (DL) is rapidly being adopted for scientific imaging, but its reliability outside the mainstream RGB, human-perceptual domain remains uncertain. Here, we analyze DL for pathology, comparing RGB images of stained tissue versus the quantitative, information-rich biochemical signatures of infrared (IR) imaging. Despite IR's informational advantage, DL models trained on IR data paradoxically underperform. We investigate this discrepancy, revealing that IR priors interact poorly with DL's simplicity bias, causing models to catastrophically collapse to one-dimensional predictions. Notably, this problem persists even with state-of-the-art DL robustification strategies, which are primarily designed for RGB imagery and thus inherit the same prior-bias mismatch. This work warns against the naive adoption of generic DL frameworks in science—especially when signal priors differ drastically from RGB—and advocates for deliberate DL use and the study of modality-specific failure modes to guide the development of specialized, safe AI algorithms.",
    "url": "https://doi.org/10.1016/j.patter.2026.101724",
    "doi": "10.1016/j.patter.2026.101724",
-   "pdf": "https://doi.org/10.1016/j.patter.2026.101724",
+   "pdf": "https://www.cell.com/patterns/pdf/S2666-3899(26)00233-3.pdf",
    "first_seen": "2026-11-18T12:45:41+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -147873,7 +147873,7 @@
    "doi": "10.1016/j.tele.2026.102489",
    "pdf": "",
    "first_seen": "2026-11-18T12:45:41+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7233883367": {
@@ -147895,7 +147895,7 @@
    "doi": "10.1016/j.tele.2026.102487",
    "pdf": "https://doi.org/10.1016/j.tele.2026.102487",
    "first_seen": "2026-11-18T12:45:41+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7235541322": {
@@ -147913,9 +147913,10 @@
    "abstract": "Abstract This article examines how policy actors use narrative strategies to claim credit, attribute blame, and deflect responsibility. Building on the blame avoidance literature, it integrates the Narrative Policy Framework (NPF) to conceptualize presentational strategies as combinations of narrative causal mechanisms and devil–angel–solidarity shifts. Empirically, the study analyzes press releases by the Swiss government and the two major political parties during the Swiss–EU negotiations (2013–2025). The findings show that narrative strategies systematically align with credit and blame strategies: credit claiming and attribution are predominantly associated with intentional causal narratives and angel shifts, whereas blame attribution is linked to intentional causal mechanisms and devil shifts. Governmental actors primarily engage in credit claiming, while political parties focus on blame attribution. Credit claiming remains the predominant strategy of the government, even under declining policy support. The study contributes to the public policy literature by linking blame avoidance and NPF research, offering a novel measurement approach, and refining expectations about governmental communication under political contestation.",
    "url": "https://doi.org/10.1007/s11077-026-09636-6",
    "doi": "10.1007/s11077-026-09636-6",
-   "pdf": "https://doi.org/10.1007/s11077-026-09636-6",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s11077-026-09636-6.pdf",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W4410204816": {
    "id": "oa:W4410204816",
@@ -147931,9 +147932,10 @@
    "abstract": "Abstract Does the geography of authorship shape who produces knowledge in applied policy fields, what gets studied, and how much influence it accrues? We address this question using 3,229 articles published in Food Policy between 1975 and 2024. Combining descriptive bibliometrics, structural topic modelling, and negative binomial regression, we document three findings. First, Global North institutions accounted for more than 80% of first-authorships, but Global South’s share is stable at 9–13%. Second, authorship geography predicts topic specialization. Global South authors concentrate in agricultural production and food insecurity research, while consumer choice and labelling topics are a Global North preoccupation. Third, this division of labor does not translate into differential reception. Conditional on publication, Global South papers are cited at parity with Global North papers. Open access raises citations for all, does not differentially benefit Global South authors, and North–South collaboration earns no citation premium while reproducing, rather than transcending, the thematic divide.",
    "url": "https://doi.org/10.1093/scipol/scag094",
    "doi": "10.1093/scipol/scag094",
-   "pdf": "https://doi.org/10.1093/scipol/scag094",
+   "pdf": "https://academic.oup.com/spp/advance-article-pdf/doi/10.1093/scipol/scag094/73752581/scag094.pdf",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7225010061": {
    "id": "oa:W7225010061",
@@ -147949,9 +147951,10 @@
    "abstract": "Randomized Controlled Trials (RCTs) are often celebrated for causal inference, yet in practice they can clash with the realities of marginalized communities. Controls may feel unfair, blinding can erode trust, and outcomes may miss what matters to communities. This article introduces a framework for Culturally Responsive RCTs (CRRCTs) built on four pillars (Reflection, Reciprocity, Reach, and Relevance). Each retools standard trial features, from randomization to reporting, by incorporating community partnerships, culturally attuned recruitment, adapted interventions, and sovereignty-aligned dissemination. A 10-step workflow turns these ideas into a practical checklist for trialists. In doing so, CRRCTs demonstrate that rigor and cultural legitimacy are not competing aims, but jointly necessary for producing evidence that is both scientifically credible and socially meaningful.",
    "url": "https://doi.org/10.1177/10982140261491734",
    "doi": "10.1177/10982140261491734",
-   "pdf": "https://doi.org/10.31235/osf.io/xv2zt_v1",
+   "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/10982140261491734?download=true",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7234952610": {
    "id": "oa:W7234952610",
@@ -147968,7 +147971,8 @@
    "doi": "10.1093/poq/nfag059",
    "pdf": "",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7235069550": {
    "id": "oa:W7235069550",
@@ -147988,7 +147992,8 @@
    "doi": "10.1007/s11222-026-11005-5",
    "pdf": "",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7235438668": {
    "id": "oa:W7235438668",
@@ -148008,7 +148013,8 @@
    "doi": "10.1007/s11222-026-11035-z",
    "pdf": "",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W4388788977": {
    "id": "oa:W4388788977",
@@ -148026,9 +148032,10 @@
    "abstract": "Abstract We study regression adjustment with general function class approximations for estimating the average treatment effect in the design-based setting. Standard regression adjustment involves bias due to sample re-use, and controlling this bias either leads to suboptimal dependence on the sample size or requires restrictive assumptions. Our main contribution is to introduce a novel decorrelation approach that circumvents these issues. We prove guarantees, both asymptotic and nonasymptotic, relative to the oracle functions that are targeted by a given regression adjustment procedure. The same independence structure also yields conditional normal approximation bounds and finite-sample coverage guarantees that do not require consistency of the regression step. We illustrate our method by applying it to various high-dimensional and nonparametric problems, exhibiting improved sample complexity and weakened assumptions relative to known approaches.",
    "url": "https://doi.org/10.1093/jrsssb/qkag145",
    "doi": "10.1093/jrsssb/qkag145",
-   "pdf": "https://doi.org/10.1093/jrsssb/qkag145",
+   "pdf": "https://academic.oup.com/jrsssb/advance-article-pdf/doi/10.1093/jrsssb/qkag145/73748102/qkag145.pdf",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W4415344746": {
    "id": "oa:W4415344746",
@@ -148046,7 +148053,8 @@
    "doi": "10.1093/jrsssc/qlag059",
    "pdf": "https://arxiv.org/pdf/2507.03584",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7223123480": {
    "id": "oa:W7223123480",
@@ -148061,9 +148069,10 @@
    "abstract": "Abstract In recent years, it has been claimed that new political parties are shut out of the UK House of Commons because they are rarely elected. At the same time, general political understanding seems to be that the House of Commons is currently further away from a pure two-party distribution of seats than at any time in the past century, perhaps longer. Although this might seem like a paradox it is possible for both of these things to have credence. We present an analysis that shows that the number of new political parties elected to the House of Commons has been slowly declining over the last century. We illustrate this both by regression and Good-Turing analyses. We also analyse the lifetime and persistence of political parties as well as present metrics that indicate the recent increased political diversity and identify the nadir of diversity in the mid-1960s and early 1970s.",
    "url": "https://doi.org/10.1093/jrsssa/qnag124",
    "doi": "10.1093/jrsssa/qnag124",
-   "pdf": "https://doi.org/10.1093/jrsssa/qnag124",
+   "pdf": "https://academic.oup.com/jrsssa/advance-article-pdf/doi/10.1093/jrsssa/qnag124/73748134/qnag124.pdf",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W4407309615": {
    "id": "oa:W4407309615",
@@ -148085,8 +148094,10 @@
    "abstract": "Monitoring the incidence of new infections during a pandemic is critical for an effective public health response. General population prevalence surveys for SARS-CoV-2 can provide high-quality data to estimate incidence. However, estimation relies on understanding the distribution of the duration that infections remain detectable. This study addresses this need using data from the Coronavirus Infection Survey (CIS), a long-term, longitudinal, general population survey conducted in the United Kingdom. Analyzing these data presents unique challenges, such as double interval censoring, undetected infections, and false negatives. We propose a Bayesian nonparametric survival analysis approach, estimating a discrete-time distribution of durations and integrating prior information derived from a complementary study. Our methodology is validated through a simulation study, including its resilience to model misspecification, and then applied to the CIS dataset. This results in the first estimate of the full duration distribution in a general population, as well as methodology that could be transferred to new contexts.",
    "url": "https://doi.org/10.1093/biomtc/ujag162",
    "doi": "10.1093/biomtc/ujag162",
-   "pdf": "https://doi.org/10.1093/biomtc/ujag162",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "pdf": "https://academic.oup.com/biometrics/article-pdf/82/4/ujag162/73750758/ujag162.pdf",
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7213919039": {
    "id": "oa:W7213919039",
@@ -148103,7 +148114,9 @@
    "url": "https://doi.org/10.1093/jjfinec/nbag031",
    "doi": "10.1093/jjfinec/nbag031",
    "pdf": "https://doi.org/10.2139/ssrn.7483059",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4414754653": {
    "id": "oa:W4414754653",
@@ -148120,7 +148133,9 @@
    "url": "https://doi.org/10.1007/s10614-026-11490-w",
    "doi": "10.1007/s10614-026-11490-w",
    "pdf": "https://www.researchsquare.com/article/rs-8861014/latest.pdf",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7234739890": {
    "id": "oa:W7234739890",
@@ -148135,8 +148150,10 @@
    "abstract": "This research explores the economic potential of integrating machine learning with technical analysis by analyzing major cryptocurrencies—Bitcoin, Ethereum, Litecoin, and Ripple -using long-term historical data from 2018 to 2024. While earlier studies have predominantly focused on short-term forecasts utilizing standard technical indicators, the broader performance of machine learning-assisted technical strategies across varying timeframes and market conditions remains underexplored. To bridge this research gap, XGBoost classification models are employed with a notably large feature set of 771 technical indicators, a scope rarely seen in prior literature. These models are used to evaluate predictive accuracy over forecast horizons ranging from 5 to 120 trading days. The most consistent and accurate predictions are observed for selected cryptocurrencies, especially over the 120-day period. Unexpectedly, the highest annualized returns emerge from shorter forecast horizons, such as 5 days. Elevated market volatility further enhances both predictive accuracy and trading profitability. This divergence likely stems from the models being tuned for classification accuracy rather than return optimization. Additionally, the study finds that despite strong predictive performance, technical analysis may not be universally applicable or effective across all cryptocurrencies.",
    "url": "https://doi.org/10.1007/s10614-026-11467-9",
    "doi": "10.1007/s10614-026-11467-9",
-   "pdf": "https://doi.org/10.1007/s10614-026-11467-9",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s10614-026-11467-9.pdf",
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7234795255": {
    "id": "oa:W7234795255",
@@ -148159,7 +148176,8 @@
    "doi": "10.1007/s10994-026-07203-x",
    "pdf": "",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7234886767": {
    "id": "oa:W7234886767",
@@ -148176,7 +148194,9 @@
    "url": "https://doi.org/10.1007/s13347-026-01238-7",
    "doi": "10.1007/s13347-026-01238-7",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01238-7.pdf",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7234948490": {
    "id": "oa:W7234948490",
@@ -148191,8 +148211,10 @@
    "abstract": "Abstract Can technologies continue to improve indefinitely, or is there an upper limit beyond which further improvement is no longer possible? The Limit of Progress Hypothesis holds that such a limit exists. This paper presents an argument for this hypothesis grounded in Peter Gärdenfors’s theory of conceptual spaces: progress requires change, but if a technology changes too much, it will eventually fall under a different concept. Furthermore, if an old technology is replaced by a fundamentally different one, described by different concepts, the new technology will be incomparable to the original one. Technological improvement, therefore, cannot continue indefinitely. There is a limit beyond which further change ceases to constitute an improvement of the original technology, since the new technology will be incomparable, not better, than the original.",
    "url": "https://doi.org/10.1007/s13347-026-01237-8",
    "doi": "10.1007/s13347-026-01237-8",
-   "pdf": "https://doi.org/10.1007/s13347-026-01237-8",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01237-8.pdf",
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235097690": {
    "id": "oa:W7235097690",
@@ -148209,7 +148231,9 @@
    "url": "https://doi.org/10.1177/20539517261506931",
    "doi": "10.1177/20539517261506931",
    "pdf": "https://doi.org/10.1177/20539517261506931",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235164465": {
    "id": "oa:W7235164465",
@@ -148227,7 +148251,8 @@
    "doi": "10.1007/s10614-026-11479-5",
    "pdf": "",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7235394704": {
    "id": "oa:W7235394704",
@@ -148244,7 +148269,8 @@
    "doi": "10.1007/s13347-026-01247-6",
    "pdf": "",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7235454079": {
    "id": "oa:W7235454079",
@@ -148262,7 +148288,8 @@
    "doi": "10.1007/s10614-026-11489-3",
    "pdf": "",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7235490342": {
    "id": "oa:W7235490342",
@@ -148279,7 +148306,9 @@
    "url": "https://doi.org/10.1145/3861022",
    "doi": "10.1145/3861022",
    "pdf": "",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235686439": {
    "id": "oa:W7235686439",
@@ -148295,7 +148324,9 @@
    "url": "https://doi.org/10.1007/s13347-026-01245-8",
    "doi": "10.1007/s13347-026-01245-8",
    "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01245-8.pdf",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235700581": {
    "id": "oa:W7235700581",
@@ -148315,8 +148346,10 @@
    "abstract": "The rapid development of Large Language Models (LLMs) and generative AI (GAI) is fundamentally reshaping online information retrieval and processing, offering great potential but at the same time raising serious concerns about content authenticity and reliability. This paper introduces a novel quantitative approach to analyze the complex information dynamics emerging from the increased use of GAI tools. These dynamics remain largely unexplored and poorly understood despite their significant impact on the digital ecosystem. We propose a stochastic model to characterize how information is generated, indexed, and disseminated in response to new topics. This scenario particularly challenges current LLMs, which often rely on real-time Retrieval-Augmented Generation (RAG) techniques to overcome static knowledge limitations. Our findings suggest that the rapid adoption of GAI, coupled with growing user reliance, could potentially outpace human verification, increasing the risk of inaccurate information spreading across digital resources. In particular, we observed that uncritical reliance on GAI-generated content may lead to a measurable decline in content quality, stressing the pivotal role of user behavior in preserving the integrity of online information. Ensuring responsible and discerning use of generative tools is essential to maintaining a trustworthy digital knowledge ecosystem. An in-depth analysis of Stack Exchange data shows that high-quality answers often require substantial time and collective human effort to develop. This underscores the considerable potential risks associated with generating persuasive text for new questions and highlights the critical need for the responsible development and deployment of future GAI tools.",
    "url": "https://doi.org/10.1145/3862761",
    "doi": "10.1145/3862761",
-   "pdf": "",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "pdf": "https://dl.acm.org/doi/pdf/10.1145/3862761?download=true",
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7216043592": {
    "id": "oa:W7216043592",
@@ -148338,7 +148371,9 @@
    "url": "https://doi.org/10.1145/3842754",
    "doi": "10.1145/3842754",
    "pdf": "https://iris.unito.it/bitstream/2318/2157050/1/251219___TIST26_SI_Storytelling__POLI_hosting_%20%281%29.pdf",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7234221250": {
    "id": "oa:W7234221250",
@@ -148358,7 +148393,9 @@
    "url": "https://doi.org/10.1109/tpami.2026.3754040",
    "doi": "10.1109/tpami.2026.3754040",
    "pdf": "https://doi.org/10.1109/tpami.2026.3754040",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7234754276": {
    "id": "oa:W7234754276",
@@ -148381,7 +148418,9 @@
    "url": "https://doi.org/10.1145/3856814",
    "doi": "10.1145/3856814",
    "pdf": "",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235639675": {
    "id": "oa:W7235639675",
@@ -148401,7 +148440,9 @@
    "url": "https://doi.org/10.1145/3859250",
    "doi": "10.1145/3859250",
    "pdf": "",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235185172": {
    "id": "oa:W7235185172",
@@ -148418,12 +148459,13 @@
    ],
    "journal": "Patterns",
    "date": "2026-11-01",
-   "abstract": "",
+   "abstract": "Predicting single-cell perturbation responses across datasets is challenging due to differences in experimental platforms, biological contexts, and perturbation coverage. We developed CellPert, a graph-structured variational framework that integrates gene-gene interaction priors into a graph neural network-based autoencoder to learn biologically informed cellular representations. By modeling perturbation effects as transferable latent-space shifts, CellPert enables zero-shot prediction in unseen datasets without paired perturbation data in the target dataset. Benchmarked across LINCS L1000 and Mini Tahoe100M against eight methods, CellPert improved expression reconstruction, correlation with observed responses, differential gene recovery, and cross-platform consistency. In aspirin-treated cancer cells, CellPert recapitulated transcriptional and pathway changes, tumor-associated cell states, and regulatory programs involving microRNAs (miRNAs), RNA-binding proteins, transcription factors, and cell-cell communication. Its latent representations also captured drug-class relationships and prioritized cancer-associated regulatory genes. Together, CellPert provides an interpretable, biologically grounded approach for transferable single-cell perturbation prediction across heterogeneous datasets and experimental platforms.",
    "url": "https://doi.org/10.1016/j.patter.2026.101726",
    "doi": "10.1016/j.patter.2026.101726",
-   "pdf": "https://doi.org/10.1016/j.patter.2026.101726",
+   "pdf": "https://www.cell.com/patterns/pdf/S2666-3899(26)00235-7.pdf",
    "first_seen": "2026-11-19T12:44:00+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7234726535": {
    "id": "oa:W7234726535",
@@ -148441,8 +148483,10 @@
    "abstract": "As public administrations embed artificial intelligence (AI) in mandatory services such as income taxation, discretion shifts from case-level judgment to system-level design choices. Privacy then concerns not only which data are held but how citizens are judged, as algorithms infer sensitive attributes and categorize individuals. Because citizens can neither opt out of these services nor audit the underlying logic, privacy frameworks built on voluntary use and personal control are inadequate to explain how citizens’ concerns arise or how regulation addresses them. This study draws on a dyadic model in which legitimacy requires shared expectations, perceived conformity to them, and assent. Two AI misuse concerns, reduced judgment and algorithm bias, are conceptualized as perceived violations of the procedural justice expectations: correctability and bias suppression. The resulting model treats perceived nonconformity as an antecedent of assent and regulation as a factor shaping these concerns. It is estimated using partial least squares structural equation modeling on a scenario-based online survey of 312 employed German residents who evaluated AI-based risk classification of tax returns. Perceived effectiveness of the EU’s General Data Protection Regulation is positively associated with trust in the tax administration but not directly with either concern. Instead, trust fully mediates its associations with the two concerns. Both concerns, in turn, are associated with a less favorable attitude toward the AI procedure. Where citizens cannot exit, regulatory assurance thus appears to work through institutional trust, so administrations should look beyond compliance and embed visible procedural safeguards that build this trust.",
    "url": "https://doi.org/10.1016/j.giq.2026.102192",
    "doi": "10.1016/j.giq.2026.102192",
-   "pdf": "https://doi.org/10.1016/j.giq.2026.102192",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0740624X26000894/pdf",
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7234761101": {
    "id": "oa:W7234761101",
@@ -148461,7 +148505,9 @@
    "url": "https://doi.org/10.1108/dprg-01-2026-0045",
    "doi": "10.1108/dprg-01-2026-0045",
    "pdf": "",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235240280": {
    "id": "oa:W7235240280",
@@ -148479,7 +148525,773 @@
    "url": "https://doi.org/10.1108/dprg-05-2026-0328",
    "doi": "10.1108/dprg-05-2026-0328",
    "pdf": "",
-   "first_seen": "2026-11-19T12:44:00+09:00"
+   "first_seen": "2026-11-19T12:44:00+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
+  },
+  "oa:W7235955137": {
+   "id": "oa:W7235955137",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The sociotechnical design of smart city projects: A configurational approach for service innovation",
+   "authors": [
+    "Emanuele Gabriel Margherita",
+    "Giovanni Esposito",
+    "Stefania Denise Escobar",
+    "Nathalie Crutzen"
+   ],
+   "journal": "International Review of Administrative Sciences",
+   "date": "2026-11-18",
+   "abstract": "This study advances the smart city literature by developing a sociotechnical design perspective on how projects are associated with intended service innovation outcomes. Prior research has examined social aspects—such as inter-organizational arrangements and human resource capabilities—and technological solutions, including digital technologies and artificial intelligence, largely in isolation, with limited attention to how their alignment shapes intended service innovation outcomes. Using an original dataset of 88 smart city projects developed by Belgian municipalities, we apply fuzzy-set Qualitative Comparative Analysis to identify distinct sociotechnical configurations. The results reveal three pathways: (a) artificial intelligence-driven innovation via public–private partnerships, relying on external expertise; (b) co-development of digital technologies through public–private partnerships and human resource training, reflecting a capability-building logic; and (c) implementation of digital technologies through public tendering and training, representing an internally conceived but externally executed approach.",
+   "url": "https://doi.org/10.1177/00208523261506513",
+   "doi": "10.1177/00208523261506513",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7236020369": {
+   "id": "oa:W7236020369",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Aim High: The Impacts of Marijuana Legalization on Air Force Recruitment, Drug Use, and Disciplinary Actions",
+   "authors": [
+    "Zachary S. Fone",
+    "Aaron Albert",
+    "Anne Portlock"
+   ],
+   "journal": "Journal of Policy Analysis and Management",
+   "date": "2026-11-18",
+   "abstract": "ABSTRACT This study examines the labor market impacts of marijuana legalization in a unique setting: a large employer, the Department of the Air Force (DAF), with strict drug use policy for its employees (military service members). US military recruiting has grown more difficult, partly due to declining eligibility among young adults, with drug use cited as a factor. The spread of recreational marijuana laws (RMLs) may affect recruitment, drug use, and discipline among service members. Using a difference‐in‐differences approach, we find that RMLs do not impede recruit quality, although there is some evidence of fewer Black people recruited in RML states. Among serving military members, positive marijuana tests increase for some groups (particularly White enlisted members), but overall illicit drug use shows little evidence of rising, as part of the increase reflects substitution across substances. We find no strong evidence of changes in overall discipline but do find increases in grade reductions (a form of discipline), possibly reflecting differential disciplinary treatment of marijuana relative to other substances or differential behavioral responses to its use.",
+   "url": "https://doi.org/10.1002/pam.70140",
+   "doi": "10.1002/pam.70140",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7236055910": {
+   "id": "oa:W7236055910",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
+   "authors": [
+    "precious unegbu",
+    "Claire Dupont"
+   ],
+   "journal": "Public Management Review",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/14719037.2026.2764194",
+   "doi": "10.1080/14719037.2026.2764194",
+   "pdf": "https://doi.org/10.1080/14719037.2026.2764194",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236094663": {
+   "id": "oa:W7236094663",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Towards Actual Plurality and Epistemic Diversity in Public Administration: Two Centuries of Islamic PA in Anglophone Scholarship, and the Way Forward",
+   "authors": [
+    "Salah Chafik",
+    "Wolfgang Drechsler"
+   ],
+   "journal": "Public Administration and Development",
+   "date": "2026-11-18",
+   "abstract": "ABSTRACT This paper traces the development of anglophone scholarship over the last two centuries on Islamic Public Administration (PA), one of the Big Three non‐Western traditions alongside Confucian and Buddhist PA, as a relational review meant to invite (re)consideration, rather than claiming exhaustiveness or finality. Overall, what is striking is firstly the paucity of scholarship as such, and thereafter, the kind of scholarship that takes Islamic PA, an important feature of life for a quarter of humankind, seriously on its own terms. Current debates are described, analysed, and contextualized, with a particular focus on the pitfalls both of the ‘decolonial bandwagon’ and too‐simplistic de‐westernisation. A way forward that serves the broader field of PA and furthers epistemic diversity is then outlined. The paper itself is part of that scholarly enterprise, as is this special issue of Public Administration and Development .",
+   "url": "https://doi.org/10.1002/pad.70140",
+   "doi": "10.1002/pad.70140",
+   "pdf": "https://doi.org/10.1002/pad.70140",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7236112292": {
+   "id": "oa:W7236112292",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "From Polls to Persistence: Examining Coordinated Political Discourse Outside the Philippine Election Period on Facebook",
+   "authors": [
+    "Magello Rainer B. Fenis",
+    "Mariam Jayne M. Agonos",
+    "Petronilo D. Figueroa"
+   ],
+   "journal": "Asian Politics & Policy",
+   "date": "2026-11-18",
+   "abstract": "ABSTRACT Influence operations (IOs) on Facebook have shaped the Philippine political landscape since the 2016 elections, intensifying not only partisan divisions but also online political discourses. Building on literature on IOs in Philippine elections, we ask: How do patterns of coordinated behavior on Facebook persist during the non‐election period in the Philippines? Drawing on affordance theory through a socio‐cultural assemblage framework, we examine how coordinated political communication operates between partisan mobilization and IOs. We conceptualize coordinated behavior as a socio‐cultural assemblage in which actors mobilize platform affordances, crafted narratives, and political habits to manufacture polarization and maintain socio‐political practices. Through social network analysis of Facebook posts from June 2022 to May 2024 and qualitative content analysis of cross‐posted content, we explore how coordinated actors exploit Facebook's affordances for electoral influence and personality‐driven politics beyond election periods. The study contributes to understanding how coordinated messages sustain personality‐driven political divisions in the Philippines.",
+   "url": "https://doi.org/10.1111/aspp.70113",
+   "doi": "10.1111/aspp.70113",
+   "pdf": "https://doi.org/10.1111/aspp.70113",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7236173122": {
+   "id": "oa:W7236173122",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
+   "authors": [
+    "Martina Pisarra",
+    "Marta Ingaggiati",
+    "Giovanni Barbato",
+    "Adina Iulia Dudau"
+   ],
+   "journal": "Public Management Review",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/14719037.2026.2765743",
+   "doi": "10.1080/14719037.2026.2765743",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236191668": {
+   "id": "oa:W7236191668",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+   "authors": [
+    "Guang Yang"
+   ],
+   "journal": "Public Management Review",
+   "date": "2026-11-18",
+   "abstract": "Governments worldwide, in pursuing good governance, have increasingly routinized public service satisfaction surveys to advance accountability, responsiveness, and integrated performance. However, when these instruments are institutionalized as performance devices and embedded in hierarchical systems, they may paradoxically generate dissatisfaction among street-level bureaucrats and citizens alike in practice. Employing the Gioia methodology for systematic inductive analysis across five cases in China, this study identifies five aggregate dimensions explaining this contradiction: Ambiguity and Clarity in Policy Potential, Misalignment of Policy Capacity, Policy Compliance Decoupling, Co-production Fatigue, and Feedback Spillover Effect. The primary theoretical contribution is the ‘Dialectic of Policy Implementation Framework’, which integrates four interactive domains and synthesizes temporal and spatial dimensions to elucidate policy implementation processes. Conceptualizing the multidimensional, recursive dynamics of the paradoxical consequences in evaluation systems, the framework advances public administration theory while also proposing a governance pathway optimized through a feedback loop of learning, adaptation, and evaluation.",
+   "url": "https://doi.org/10.1080/14719037.2026.2765325",
+   "doi": "10.1080/14719037.2026.2765325",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7236276640": {
+   "id": "oa:W7236276640",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
+   "authors": [
+    "Morten Skov Madsen",
+    "Ole Helby Petersen"
+   ],
+   "journal": "Public Management Review",
+   "date": "2026-11-18",
+   "abstract": "Governments build contract management capacity to improve their contracting practice and performance. Because this may have implications for vendors, assessing governments’ contract management capacity not only from a government but also a vendor perspective can promote understanding of this important organizational capacity and help identify capacity gaps. However, such accounts are rare. Drawing on theories of formal and relational contracting, this article examines which contract management skills public managers need to improve, according to public managers and vendor managers. Survey data from Denmark (n = 364, including public contract managers and vendor managers) reveal significant disagreement: public managers prioritize formal contract governance skills, whereas vendors prioritize relational contract governance skills, with the exception that both parties prioritize contract design. The article shows how governments and vendors value government investments in formal and relational contract management capacity differently and illustrate the utility of analysing this capacity from both perspectives.",
+   "url": "https://doi.org/10.1080/14719037.2026.2758287",
+   "doi": "10.1080/14719037.2026.2758287",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7236070254": {
+   "id": "oa:W7236070254",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Government trust, perceived service performance, and citizens’ functional responsibility attribution: evidence from Tianjin, China",
+   "authors": [
+    "Xiangyu Zuo",
+    "吴晓林",
+    "Yanwei Li"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-11-17",
+   "abstract": "Citizens’ judgements about who should be responsible for public service provision constitute an important yet underexplored issue in public governance. Existing studies on responsibility attribution have mainly examined causal responsibility for policy failures. This study shifts attention to functional responsibility attribution, defined as citizens’ judgements about the appropriate allocation of responsibility between government and individuals in service provision. Drawing on survey data from 1,082 residents in Tianjin, China, it investigates how perceived service performance and government trust relate to citizens’ expectations about the allocation of responsibility between government and individuals across eight public service domains. Higher perceived service performance is significantly associated with weaker government-centred responsibility attribution across all eight domains. Government trust exhibits a less consistent pattern, with significant negative associations remaining robust across adjusted specifications only in disability care and emergency services. These findings suggest that favourable evaluations of government do not necessarily translate into greater expectations of state responsibility. They also offer a reciprocal-responsibility perspective rooted in China’s tradition of family-state integration, providing new insights into the dilemma of performance-based legitimacy.",
+   "url": "https://doi.org/10.1080/17516234.2026.2764336",
+   "doi": "10.1080/17516234.2026.2764336",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236184175": {
+   "id": "oa:W7236184175",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "When do narratives of foreign residents’ participation shape citizens’ willingness to coproduce?",
+   "authors": [
+    "Juan Du",
+    "Rongbin Han",
+    "Dongshu Liu",
+    "Li Hu Shao"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-11-17",
+   "abstract": "As policy narratives make foreign residents visible as contributors to public services, questions arise about how such narratives shape Chinese citizens’ willingness to coproduce. China provides a useful setting for examining this question, as foreign residents’ participation in local public affairs has been repeatedly reported in Chinese media despite the country’s limited history of immigration. A contextual analysis of 4,845 Bilibili comments shows that commenters clearly perceive and notice foreigners’ participation, but leave the question of how they themselves would be affected regarding their willingness to coproduce. To examine this question, we use a randomized survey experiment comparing narratives of foreign residents’ participation in emergency volunteering, routine volunteering, and local consultation with general information about foreign residents. The emergency volunteering narrative produces positive estimates across several routine and emergency service outcomes, whereas the routine volunteering narrative produces smaller and less consistent estimates. The consultative participation narrative yields a positive but statistically imprecise estimate for willingness to attend or observe local consultative meetings. These findings provide insights into how narratives of foreign residents’ public contributions may shape citizen engagement in diverse societies.",
+   "url": "https://doi.org/10.1080/17516234.2026.2765337",
+   "doi": "10.1080/17516234.2026.2765337",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236471875": {
+   "id": "oa:W7236471875",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Dibao participation, educational subsidy receipt, and cognitive abilities of adolescents: evidence from panel data in China",
+   "authors": [
+    "Yingqi Chen",
+    "Qin Gao"
+   ],
+   "journal": "Journal of Asian Public Policy",
+   "date": "2026-11-17",
+   "abstract": "Adolescents in disadvantaged families tend to lag behind in cognitive abilities, which could further trap them in poverty. This study examines the associations of Dibao participation and educational subsidy receipt with cognitive abilities of adolescents in China. Using three-wave panel data from the China Education Panel Survey (CEPS), we estimate models with individual and year fixed effects. Educational subsidy receipt is positively associated with cognitive abilities among adolescents whose households do not receive Dibao, whereas Dibao participation is not significantly associated with cognitive abilities among those not receiving educational subsidy. Pairwise comparisons show higher predicted cognitive outcomes for co-receipt than for Dibao only or neither programme, but no statistically detectable advantage over educational subsidy only. The interaction coefficient is statistically insignificant. Supplementary exploratory analyses suggest school social experience as a potential pathway warranting further investigation. Subgroup analyses identify positive conditional subsidy associations among male and rural adolescents and those residing in central and western China. These findings contribute to research on welfare participation and adolescent development and inform social policy and social work practice.",
+   "url": "https://doi.org/10.1080/17516234.2026.2764335",
+   "doi": "10.1080/17516234.2026.2764335",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7235939150": {
+   "id": "oa:W7235939150",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "The Unsituated Interlocutor: Artificial Intelligence and Evaluative Dialogue in Impact Investing",
+   "authors": [
+    "Maoz Brown"
+   ],
+   "journal": "American Journal of Evaluation",
+   "date": "2026-11-18",
+   "abstract": "This article examines how evaluative dialogue changes when an evaluation professional's interlocutor is a large language model (LLM) rather than a human colleague. Drawing on interviews, focus groups, and structured reflections from 13 impact investing evaluation practitioners, the study identifies three properties that human interlocutors bring to evaluative dialogue—personal commitments and experience, shared organizational knowledge, and accountability to colleagues—and traces what happens when each is missing. Each absence proved both productive and limiting: LLMs broadened the options considered, exposed uncodified conventions, and reduced the social cost of candor. Yet they could be steered toward nearly any conclusion, could not read unwritten organizational norms, and, with nothing at stake, offered agreement and pushback that carried little weight. Prompting and document uploads compensated only partially. The findings position LLMs as preparatory interlocutors rather than substitutes for collegial exchange and clarify what evaluative dialogue requires of its participants.",
+   "url": "https://doi.org/10.1177/10982140261507034",
+   "doi": "10.1177/10982140261507034",
+   "pdf": "https://doi.org/10.1177/10982140261507034",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236041776": {
+   "id": "oa:W7236041776",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Off the Record? Effects of Interview Audio Recordings on Interviewer Behavior",
+   "authors": [
+    "Lukas Olbrich",
+    "Jonas Beste",
+    "Joseph W. Sakshaug",
+    "Silvia Schwanhäuser"
+   ],
+   "journal": "Sociological Methods & Research",
+   "date": "2026-11-18",
+   "abstract": "Survey interviewers are usually instructed to follow standardized interviewing procedures when conducting interviews. The introduction of computer-assisted interviewing facilitated the collection of interview audio recordings to assess if interviewers indeed follow these standardized procedures. However, in most cases, audio recordings require respondent consent, and thus interviewers know whether an interview is recorded or not. In this paper, we analyze the extent to which interviewers change their behavior when interviews are recorded. Using automatically collected timestamp data and both cross-sectional and longitudinal analysis approaches to account for selection effects, we find that interviewers substantially change their behavior when recorded. Our results show that audio recordings lead to substantially fewer very short and very long questionnaire module durations and increase the average time spent on questionnaire modules, which is in line with a deterrence effect. Concerning substantive outcomes, we find larger interviewer effects for estimates derived from non-recorded than for recorded interviews.",
+   "url": "https://doi.org/10.1177/00491241261500734",
+   "doi": "10.1177/00491241261500734",
+   "pdf": "https://doi.org/10.1177/00491241261500734",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236329888": {
+   "id": "oa:W7236329888",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "When Firms Go Influencer: Engagement in the Influencer Economy and Crash Risk",
+   "authors": [
+    "Jiayi Zhang",
+    "Fuhua Liu",
+    "Zhuo Wang"
+   ],
+   "journal": "Evaluation Review",
+   "date": "2026-11-18",
+   "abstract": "As social media ecosystems evolve and digital communication channels become increasingly influential, firms are incorporating the influencer economy into their marketing strategies and operational decisions. Despite the growing prevalence of firms’ participation in the influencer economy, its implications for capital market outcomes, particularly stock price crash risk, remain largely unexplored. This study uses a panel of Chinese A-share listed firms from 2016 to 2024 to construct a firm-level measure of influencer-economy engagement based on textual information extracted from annual reports and investigates its association with crash risk. The results demonstrate that firms with greater engagement in the influencer economy are less likely to experience stock-price crashes. Further analyses indicate that this relationship operates through enhanced external monitoring, stronger reputational capital, and improved value creation capacity, all of which contribute to a transparent information environment and stable market expectations. Moreover, the mitigating effect is particularly evident among highly profitable firms, firms in eastern China, and firms operating in high-technology industries. These findings extend the existing research on the digital economy and capital markets by identifying the risk implications of firm engagement in the influencer economy. Furthermore, the results provide insights for regulators and investors regarding the role of digital communication strategies in shaping market outcomes.",
+   "url": "https://doi.org/10.1177/0193841x261510215",
+   "doi": "10.1177/0193841x261510215",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W4403099542": {
+   "id": "oa:W4403099542",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "How to conduct an integrative mixed methods meta-analysis: A tutorial for the systematic review of quantitative and qualitative evidence.",
+   "authors": [
+    "Heidi M. Levitt"
+   ],
+   "journal": "Psychological Methods",
+   "date": "2026-10-01",
+   "abstract": "This article is a guide on how to conduct mixed methods meta-analyses (sometimes called mixed methods systematic reviews, integrative meta-analyses, or integrative meta-syntheses), using an integrative approach. These aggregative methods allow researchers to synthesize qualitative and quantitative findings from a research literature in order to benefit from the strengths of both forms of analysis. The article articulates distinctions in how qualitative and quantitative methodologies work with variation to develop a coherent theoretical basis for their integration. In advancing this methodological approach to integrative mixed methods meta-analysis (IMMMA), I provide rationales for procedural decisions that support methodological integrity and address prior misconceptions that may explain why these methods have not been as commonly used as might be expected. Features of questions and subject matters that lead them to be amenable to this research approach are considered. The steps to conducting an IMMMA then are described, with illustrative examples, and in a manner open to the use of a range of qualitative and quantitative meta-analytic approaches. These steps include the development of research aims, the selection of primary research articles, the generation of units for analysis, and the development of themes and findings. The tutorial provides guidance on how to develop IMMMA findings that have methodological integrity and are based upon the appreciation of the distinctive approaches to modeling variation in quantitative and qualitative methodologies. The article concludes with guidance for report writing and developing principles for practice. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+   "url": "https://doi.org/10.1037/met0000675",
+   "doi": "10.1037/met0000675",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7235849819": {
+   "id": "oa:W7235849819",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Bayesian generalized fused multi-kernel machine variable selection regression in bio-photonics to study the ordered dosage levels using brain cancer cells",
+   "authors": [
+    "Phil Geun Jin",
+    "Mengkun Chen",
+    "Inyoung Kim",
+    "Wonil Nam",
+    "Wei Zhou"
+   ],
+   "journal": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+   "date": "2026-11-18",
+   "abstract": "Abstract Identifying important variables associated with continuous, binary, or ordered categorical disease-related responses is a key challenge in omics, biosensing, proteomics, and biomedical engineering. Although numerous variable selection methods have been developed for parametric and nonparametric models, many do not adequately account for correlations among predictors. Our motivating data arise from surface-enhanced Raman spectroscopy (SERS), used to investigate ordered drug dosage levels in brain cancer cells. SERS measures Raman signal intensities across multiple wavenumbers and spatial locations within each cell, producing spectral profiles that serve as molecular fingerprints. Identifying informative wavenumbers that distinguish drug dosage levels is particularly challenging due to the correlated structure of these measurements. To address this challenge, we propose a Bayesian variable selection method based on a generalized fused multi-kernel machine regression framework. The proposed approach accommodates continuous, binary, and ordered categorical responses and incorporates variable selection within a Bayesian hierarchical model for nonparametric regression. This framework enables the simultaneous identification of informative predictors while accounting for their correlation structure. We demonstrate the proposed method using SERS molecular profiling data to investigate drug dose–response relationships in brain cancer cells.",
+   "url": "https://doi.org/10.1093/jrsssc/qlag062",
+   "doi": "10.1093/jrsssc/qlag062",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W4399486627": {
+   "id": "oa:W4399486627",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Reproduction of the price dynamics during interventions in the foreign exchange market based on an extended dealer model",
+   "authors": [
+    "Rintaro Arita",
+    "Hideki Takayasu",
+    "Misako Takayasu"
+   ],
+   "journal": "Journal of Computational Social Science",
+   "date": "2026-11-18",
+   "abstract": "Although the dealer model developed in the field of econophysics has been able to reproduce the characteristics of financial market fluctuations in calm times, the dealer model needs to be extended to reproduce abnormal price fluctuations during government intervention in the foreign exchange market. In this study, we first analysed real foreign exchange market data during the Bank of Japan’s interventions in 2011 and 2022, and report that the intervention strategies were very different in each case. Next, we introduced the concept of volume into this model and further modified and formulated the effects of stop-loss and take-profit, as well as modified the intervention dealer’s strategy to reproduce the market price fluctuations during these interventions. In order to assimilate the abnormal markets, we applied a trend decomposition technique to divide the price movements into upward and downward trends, assuming that the parameters of the dealer model were the same in each trend. The best parameters were searched for, so that the differences between the simulated price changes and the real ones became the smallest. This allowed us to estimate how the intervening dealer would have behaved in each intervention and how the other dealers in the market would have reacted.",
+   "url": "https://doi.org/10.1007/s42001-026-00503-1",
+   "doi": "10.1007/s42001-026-00503-1",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s42001-026-00503-1.pdf",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7171681671": {
+   "id": "oa:W7171681671",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The captured oracle: authorship and agency in the ethics of answer-engine optimization",
+   "authors": [
+    "Luke F. Walton"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01532-2",
+   "doi": "10.1007/s43681-026-01532-2",
+   "pdf": "https://doi.org/10.2139/ssrn.6936679",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7221786470": {
+   "id": "oa:W7221786470",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Neither human nor machine alone: why the next step in AI needs an ethics core with the last word, and a receipt that proves it holds",
+   "authors": [
+    "Bruce Klassen"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "Who is accountable for what an AI system does, and how can that accountability be shown rather than asserted? Human sign-off and the autonomous agent both place the last word in a single party. Following a design science approach, we built and used a third arrangement, the verification interface: human, machine and an explicit ethics core form one construct, the core has the last word over both, and every output carries a tamper-evident receipt showing what was checked. The interface has been in daily use since February 2026 and had issued 12,398 receipts by 10 October 2026. In a sealed blind test on 1798 AI answers checked against company records, its verdicts matched the answer key in 97.1% of cases; a human check of 50 answers on which two AI auditors disagreed confirmed the answer key in 44. A check took a median of 1.9 s. We derive seven design requirements, report which the interface meets, and connect the approach to EU2122, a public content profile for receipts published as an IETF Internet-Draft. The economic hypothesis, that verification per output removes the review bottleneck of AI adoption and raises speed, quality and operating margin together, is stated but not tested. The interface assumes neither that AI is conscious nor that it has moral standing. All evidence comes from one system and is reported by its developer; it shows feasibility and measured accuracy in one domain, not effectiveness across organisations.",
+   "url": "https://doi.org/10.1007/s43681-026-01530-4",
+   "doi": "10.1007/s43681-026-01530-4",
+   "pdf": "https://doi.org/10.1007/s43681-026-01530-4",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7235873832": {
+   "id": "oa:W7235873832",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Values as dynamic priors: neurobiological constraints on formal models of value alignment",
+   "authors": [
+    "Joydeep Bhattacharya",
+    "Mark d’Inverno",
+    "Nardine Osman"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "Abstract Formal models of human values have brought much-needed rigor to AI alignment research by making value relations explicit and evaluable by machine. Yet the assumptions that make such models computationally tractable may limit their ability to capture how values are represented, regulated, and expressed in human cognition. Drawing on evidence from neuroscience and the predictive processing framework, we examine three assumptions common to many formal value models. First, value importance is typically treated as fixed within a given context, whereas neurobiological evidence suggests it is dynamically shaped by arousal, uncertainty, and learning. Second, hierarchical value taxonomies assume that values can be fully represented through grounding components, yet some higher-level values, including dignity, integrity, and authenticity, appear difficult to evaluate through weighted aggregation alone. Third, formal models typically restrict value influence to the evaluation of actions, whereas neurobiological evidence suggests that values also influence attention, perception, and the interpretation of situations before explicit evaluation begins. We argue that these observations do not undermine formal value modeling but rather identify its limits and opportunities for extension. Specifically, we propose representing uncertainty about value importance, and its change over time, through distributional estimates, distinguishing compositional from non-compositional values, extending value influence to the construction of situation representations, and incorporating bottom-up learning into value taxonomy development. More broadly, we argue that engagement with neuroscience can help distinguish productive simplifications from potentially limiting assumptions, providing a more empirically grounded basis for the development of value-aligned AI systems.",
+   "url": "https://doi.org/10.1007/s43681-026-01528-y",
+   "doi": "10.1007/s43681-026-01528-y",
+   "pdf": "https://doi.org/10.1007/s43681-026-01528-y",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7235889804": {
+   "id": "oa:W7235889804",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "When AI-assisted criticism scales, peer review needs an obligation threshold",
+   "authors": [
+    "Yiteng Sun",
+    "Fan Li",
+    "Ching-Hung Lee",
+    "Chun-Hsien Chen"
+   ],
+   "journal": "Nature Machine Intelligence",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s42256-026-01349-y",
+   "doi": "10.1038/s42256-026-01349-y",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236029551": {
+   "id": "oa:W7236029551",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Hybrid MCDM and Explainable Clustering for Sustainability Performance Segmentation of MSMEs",
+   "authors": [
+    "Saifur Rohman Cholil",
+    "Aria Hendrawan",
+    "Sekar Cinta Amaria"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11487-5",
+   "doi": "10.1007/s10614-026-11487-5",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236053685": {
+   "id": "oa:W7236053685",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The brain workout protocol: a theoretical framework for human cognitive formation in the age of artificial intelligence",
+   "authors": [
+    "Blaine Harris"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01502-8",
+   "doi": "10.1007/s43681-026-01502-8",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236097425": {
+   "id": "oa:W7236097425",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Bifurcation and Quantitative Analysis of Business and Economics Through Mathematical Modeling",
+   "authors": [
+    "Khurram Faiz",
+    "Abdul Ghaffar",
+    "Shoaib Hasan",
+    "Haider Ali",
+    "Muhammad Hassan Shahzad Shabir"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11495-5",
+   "doi": "10.1007/s10614-026-11495-5",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236136311": {
+   "id": "oa:W7236136311",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Exemplarism for the AI age",
+   "authors": [
+    "Alexander Martin Mussgnug"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01456-x",
+   "doi": "10.1007/s43681-026-01456-x",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236182513": {
+   "id": "oa:W7236182513",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Beyond the loop: presence, epistemic locus, and the limits of Human-in-Control paradigms in AI-mediated cognition",
+   "authors": [
+    "Claudio Lucchiari",
+    "Enrico Frumento",
+    "Raffaella Folgieri"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01541-1",
+   "doi": "10.1007/s43681-026-01541-1",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236200275": {
+   "id": "oa:W7236200275",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Epistemic Exhaustion: Denial of Service Against Democratic Deliberation",
+   "authors": [
+    "Marcel Cotta"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-11-18",
+   "abstract": "Abstract Debates about AI-driven persuasion concentrate on content: falsehoods believed, opinions shifted, voters manipulated. This paper argues that a more consequential threat operates on the conditions under which a claim is taken up for evaluation at all. Generative AI enables protocol mimicry : the industrial-scale production of artifacts that satisfy the formal admission criteria of epistemic exchange (register, structure, citation, provenance markers) while decoupled from the epistemic labour those criteria evolved to indicate. Extending Floridi’s dyadic account of hypersuasion into a parameterised systemic model ( n persuasion events per evaluative period, verification time τ , bounded evaluative capacity C ) and drawing on a structural homology with denial-of-service attacks, the paper traces the degradation of democratic deliberation from engagement through overload to epistemic exhaustion : a stable behavioural equilibrium in which citizens retain the capacity to distinguish true from false but rationally abandon the effort to exercise it. Democracy is distinctively vulnerable at the level of legitimacy. A server that refused all formally valid connections would cease to provide its service; a democracy that systematically foreclosed plausible contestation would abandon a constitutive source of its legitimacy. Countermeasures sort by the layer on which they intervene. Where fact-checking, labelling, and media literacy add evaluative demands without producing compensating closure, they can accelerate the condition they treat, and the content-neutral proxy defence available to servers has no coherent democratic analogue. The question for democratic theory is whether a system whose legitimacy derives from epistemic engagement can survive conditions that render such engagement irrational.",
+   "url": "https://doi.org/10.1007/s13347-026-01232-z",
+   "doi": "10.1007/s13347-026-01232-z",
+   "pdf": "https://doi.org/10.1007/s13347-026-01232-z",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236248078": {
+   "id": "oa:W7236248078",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Learning, simulation, and reasoning for decision making in complex dynamical systems",
+   "authors": [
+    "Alexander Rodríguez"
+   ],
+   "journal": "AI Magazine",
+   "date": "2026-11-18",
+   "abstract": "Abstract Many complex systems of scientific and societal importance, including epidemics, energy grids, transportation networks, and supply chains, are governed by nonlinear dynamics, are only partially observed through noisy and heterogeneous data, and are continuously reshaped by interventions. These properties make decision making fundamentally challenging, particularly when the mechanisms driving system behavior are only partially understood. While modern machine learning has achieved remarkable predictive performance, real‐world applications require AI systems that combine forecasting with uncertainty quantification, counterfactual reasoning, intervention analysis, and mechanism‐aware reasoning. This article synthesizes my line of work on learning, simulation, and reasoning in complex dynamical systems. Using epidemic prediction and decision making as a running example, I describe recent advances that illustrate the growing integration of data‐driven learning, scientific simulation, and mechanistic reasoning, and discuss how these complementary paradigms can support forecasting, intervention analysis, and high‐stakes decision making.",
+   "url": "https://doi.org/10.1002/aaai.70125",
+   "doi": "10.1002/aaai.70125",
+   "pdf": "https://doi.org/10.1002/aaai.70125",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236272488": {
+   "id": "oa:W7236272488",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Optimizing Financial Campaigns with Uplift Modeling: An Empirical Study in Bank Marketing",
+   "authors": [
+    "Mert Güneş",
+    "Necati Aras",
+    "Mahmut Ekşioğlu"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11466-w",
+   "doi": "10.1007/s10614-026-11466-w",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7236272657": {
+   "id": "oa:W7236272657",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "The scientist’s AI-pprentice: how open science shapes biosecurity risks by generating capabilities of AI tools in life science research",
+   "authors": [
+    "Elisabeth M. Rothweiler",
+    "Mehrunisha Suleman",
+    "Jonathan Krause"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "Abstract Artificial intelligence (AI) is becoming increasingly incorporated in the life sciences. Until recently, the need for data governance was masked by the limits of our human ability to aggregate, synthesise, and draw inferences from data. AI enhances not only speed of research and data processing, but also dual-use risks from training AI models with open access data. Concerns about AI-enabled chemical and biological weapons development become louder while governments, institutions and model developers scramble to mitigate and contain those risks. Data remains a crucial ingredient for AI model advancement, consequentially the lack of data governance of AI in life sciences leaves us collectively and personally vulnerable. Traditional data governance controls storage, transfer and access to datasets, but AI-enabled life science research raises a different issue: which novel capabilities emerge when models aggregate and orchestrate openly available data and tools, arising from individually benign contributions and not covered by current governance. Thus, we highlight questions and ethical considerations on which precautions are required when risks arise through data aggregation and re-use, how responsibility can be distributed, whether governance should focus on data or novel capabilities and if openness should cease to be default. Data governance works upstream, before data is introduced to an AI model. It follows that more life science dual-use data of concern should be held in Trusted Research Environments rather than released openly, and that dual-use data assessments become routine, implemented through research funders as chokepoints, to bridge the legislative gap until international dual-use standards are established.",
+   "url": "https://doi.org/10.1007/s43681-026-01518-0",
+   "doi": "10.1007/s43681-026-01518-0",
+   "pdf": "https://doi.org/10.1007/s43681-026-01518-0",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236378041": {
+   "id": "oa:W7236378041",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Ethical and practical challenges of artificial intelligence for sleep and mental health in disability care: a narrative review",
+   "authors": [
+    "John Adewole Alara",
+    "Oluwaseun Ruth Alara"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "Abstract Artificial intelligence (AI) is increasingly being explored to support sleep and mental health care, yet its role in disability care remains insufficiently synthesised. This narrative review examines the ethical and practical challenges associated with AI applications for sleep and mental health in disability care, with attention to both people with disability and disability support workers. Current applications include wearable and sensor-based sleep monitoring, mood tracking systems, conversational agents, predictive models, and workforce-facing decision-support tools. These technologies may improve early detection, continuous monitoring, personalised support, and care coordination. However, the literature identifies substantial barriers to safe and equitable implementation. Practical challenges include poor accessibility, limited inclusive usability, workflow disruption, variable digital literacy, weak external validation, and concerns about reliability across diverse disability groups. Ethical concerns include privacy and data governance, meaningful informed consent, algorithmic bias, lack of transparency, intrusive surveillance, and the risk of dehumanising care. The evidence base is also limited by overreliance on general mental health AI literature, minimal focus on disability support workers, a lack of longitudinal and implementation research, and insufficient co-design with people with disability. Overall, AI may offer meaningful benefits in disability care, but responsible implementation requires disability-specific evidence, inclusive design, strong governance, human oversight, and sustained commitment to person-centred and rights-based care.",
+   "url": "https://doi.org/10.1007/s43681-026-01520-6",
+   "doi": "10.1007/s43681-026-01520-6",
+   "pdf": "https://doi.org/10.1007/s43681-026-01520-6",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236440774": {
+   "id": "oa:W7236440774",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Hidden hands on the wheel: located ethical agency as a bipositional evaluation instrument for deployed AI agents",
+   "authors": [
+    "Abhinav Saxena"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-18",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01485-6",
+   "doi": "10.1007/s43681-026-01485-6",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7234851368": {
+   "id": "oa:W7234851368",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "A Neuro-symbolic Framework under Statistical Relational Learning",
+   "authors": [
+    "Dongran Yu",
+    "Xueyan Liu",
+    "Shirui Pan",
+    "Anchen Li",
+    "Bo Xiong Yang"
+   ],
+   "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+   "date": "2026-11-17",
+   "abstract": "Neuro-symbolic systems aim to combine neural learning with symbolic reasoning for building interpretable and generalizable intelligent systems. While recent studies have explored different strategies for neuro-symbolic integration, existing approaches remain limited by (i) the absence of unified learning mechanisms between continuous neural representations and discrete symbolic concepts, (ii) weak interaction between neural prediction and symbolic reasoning, and (iii) restricted reuse of learned concepts for unseen reasoning scenarios. To address these issues, we propose NSF-SRL, a general neuro-symbolic framework based on statistical relational learning. NSF-SRL jointly models neural predictions, latent predicates and first-order logic rules within a unified probabilistic framework. For concept learning, NSF-SRL introduces a neuralized variational inference mechanism that learns predicate-level representations from neural representations and enables efficient neuro-symbolic interaction through variational expectation-maximization optimization. For concept manipulation, NSF-SRL allows learned concepts to be reused and composed with logic rules for interpretable explanation and compositional reasoning. Extensive experiments on digit image addition, zero-shot image classification and visual relationship detection, together with comprehensive analyses, demonstrate the effectiveness, generalization and scalability of NSF-SRL.",
+   "url": "https://doi.org/10.1109/tpami.2026.3755075",
+   "doi": "10.1109/tpami.2026.3755075",
+   "pdf": "https://doi.org/10.1109/tpami.2026.3755075",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7235238862": {
+   "id": "oa:W7235238862",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Model-Free Predefined-Time Pose Synchronized Tracking Control for Robotic Manipulators Using Fuzzy Adaptive Zeroing Neurodynamics",
+   "authors": [
+    "Hainan Yang",
+    "Tao Zhao"
+   ],
+   "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+   "date": "2026-11-17",
+   "abstract": "Existing kinematic tracking control methods for redundant robotic manipulators often rely on exponential convergence and pay insufficient attention to orientation tracking. In addition, practical constraints make it difficult to obtain an accurate kinematic model of the robotic manipulator. To address these limitations, this article proposes a model-free predefined-time pose-synchronized tracking control scheme that achieves time-synchronized convergence of position and orientation tracking errors within a predefined time. To handle kinematic uncertainties, an online Jacobian estimation scheme is developed by exploiting both position and orientation information. Furthermore, a predefined-time synchronized fuzzy adaptive zeroing neurodynamics (PTSFAZNs) model is constructed to provide real-time adaptability and guarantee convergence of the regulation errors within a predefined time. Based on this model, position and orientation errors are incorporated into the state vector, and the pose-tracking control task is formulated as a quadratic programming (QP) problem to enforce synchronized convergence. Simulation and experimental results demonstrate that the proposed scheme achieves accurate pose tracking and time-synchronized convergence without requiring exact kinematic model information.",
+   "url": "https://doi.org/10.1109/tnnls.2026.3750877",
+   "doi": "10.1109/tnnls.2026.3750877",
+   "pdf": "https://doi.org/10.1109/tnnls.2026.3750877",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7136215349": {
+   "id": "oa:W7136215349",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Serialisability in Formal Argumentation",
+   "authors": [
+    "Lars Bengel",
+    "Matthias Thimm"
+   ],
+   "journal": "Artificial Intelligence",
+   "date": "2026-11-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.artint.2026.104659",
+   "doi": "10.1016/j.artint.2026.104659",
+   "pdf": "https://doi.org/10.1016/j.artint.2026.104659",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7235877210": {
+   "id": "oa:W7235877210",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Fair Lotteries for Collective Choice",
+   "authors": [
+    "Haris Aziz",
+    "Xinhang Lu",
+    "Mashbat Suzuki",
+    "Jeremy Vollen",
+    "Toby Walsh"
+   ],
+   "journal": "Artificial Intelligence",
+   "date": "2026-11-01",
+   "abstract": "",
+   "url": "https://doi.org/10.1016/j.artint.2026.104661",
+   "doi": "10.1016/j.artint.2026.104661",
+   "pdf": "https://doi.org/10.1016/j.artint.2026.104661",
+   "first_seen": "2026-11-20T12:37:30+09:00",
+   "abs_tries": 1
+  },
+  "oa:W4412991710": {
+   "id": "oa:W4412991710",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Inherent Bias in Electronic Health Records: A Scoping Review of Sources of Bias",
+   "authors": [
+    "Oriel Perets",
+    "Emanuela Stagno",
+    "Eyal Ben Yehuda",
+    "Megan C. McNichol",
+    "Leo Anthony Celi",
+    "Nadav Rappoport",
+    "Matilda Dorotić"
+   ],
+   "journal": "ACM Transactions on Intelligent Systems and Technology",
+   "date": "2026-09-28",
+   "abstract": "Objectives Biases inherent in Electronic Health Records (EHRs), which are often used as a data source to train medical AI models, may significantly exacerbate health inequities and challenge the adoption of ethical and responsible AI in healthcare. Biases arise from multiple sources, some of which are not as documented in the literature (e.g., bias in medical devices measurement). Biases are encoded in how the data has been collected and labeled, by implicit and unconscious biases of clinicians, or by the tools used for data processing. These biases and their encoding in healthcare records can potentially undermine the reliability of such data and bias clinical judgments and medical outcomes. Moreover, when healthcare records are used to build data-driven solutions, the biases can be further exacerbated, resulting in systems that can perpetuate biases and induce healthcare disparities. This literature scoping review aims to categorize the main sources of biases inherent in EHRs. Methods We queried PubMed and Web of Science on 19 January 2023, for peer-reviewed sources in English, published between 2016 and 2023, using the PRISMA approach to stepwise scoping of the literature. To select the papers that empirically analyze bias in EHR, from the initial yield of 430 papers, 27 duplicates were removed, and 403 studies were screened for eligibility. 196 articles were removed after the title and abstract screening, and 96 articles were excluded after the full-text review resulting in a final selection of 116 articles. Results Existing studies often focus on individual biases in EHR data, but a comprehensive review categorizing these biases is largely absent. To address this gap, we propose a systematic taxonomy to classify and better understand the multiplicity of biases in EHR data. Our framework identifies six primary sources: (a) bias from past clinical trials ; (b) data-related biases , such as missing or incomplete information; human-related biases , including (c) implicit clinician bias, (d) referral and admission bias, and (e) diagnosis or risk disparities bias; and (f) biases in devices and algorithms. This taxonomy, illustrated in Table 1 , provides a valuable tool for systematically evaluating and addressing these issues. Conclusions Machine learning and data-driven solutions can potentially transform healthcare delivery, but not without limitations. The core inputs in the systems (data and human factors) currently contain several sources of bias that are poorly documented and analyzed for remedies. The current evidence heavily focuses on data-related biases, while other sources are less often analyzed or anecdotal. However, these different sources of bias can compound each other, leading to a cumulative effect. Therefore, to understand the issues holistically we need to explore these diverse sources of bias. While racial biases in EHR have been often documented, other sources of biases have been less frequently investigated and documented (e.g., gender-related biases, sexual orientation discrimination, socially induced biases, and implicit, often unconscious, human-related cognitive biases). Moreover, some existing studies lack concrete evidence of the effects of the bias, but rather illustrate the different prevalence of disease across groups, which does not per se prove the effect of the bias. Our review shows that data-, human- and machine biases are prevalent in healthcare and can significantly affect treatment decisions and outcomes and amplify healthcare disparities. Understanding how diverse biases affect AI systems and recommendations is critical. We recommend that researchers and medical personnel develop safeguards and adopt data-driven solutions with a “bias-in-mind” approach. More empirical evidence is needed to tease out the effects of different sources of bias on health outcomes.",
+   "url": "https://doi.org/10.1145/3757924",
+   "doi": "10.1145/3757924",
+   "pdf": "https://dl.acm.org/doi/pdf/10.1145/3757924",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236074704": {
+   "id": "oa:W7236074704",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Digitally Enabled Work Arrangements and Systems, Working Conditions, and Civil Servants’ Subjective Well-Being: Evidence from Korea, 2019–2024",
+   "authors": [
+    "Young‐Jae Kim"
+   ],
+   "journal": "Information Polity",
+   "date": "2026-11-18",
+   "abstract": "Public-sector digitalization changes where civil servants work, how they communicate, and how they authorize administrative tasks. This exploratory study examines the reported frequencies of work from home, Smart Work Center use, video meetings, and mobile electronic approval in relation to evaluative subjective well-being alongside measured working conditions. Using six waves of Korea's Public Service Life Survey (2019–2024; N = 31,272), it estimates weighted repeated cross-sectional models with year and government-tier fixed effects. The four use-frequency measures were jointly associated with subjective well-being, but only video-meeting frequency showed a small positive conditional association after full adjustment; estimates for the others were uncertain or model-dependent. Job autonomy, resource adequacy, and role stressors had larger standardized coefficient magnitudes in the fitted model, subject to differences in measurement precision, response format, and shared response characteristics. Interaction tests detected no period differences. Government-tier interactions were jointly significant, although individual tests did not identify a source. The findings support assessing each arrangement or system alongside employees’ reported working conditions.",
+   "url": "https://doi.org/10.1177/15701255261506243",
+   "doi": "10.1177/15701255261506243",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236390331": {
+   "id": "oa:W7236390331",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Governing public safety broadband: A comparative analysis of public sector strategies in Europe and the United States",
+   "authors": [
+    "Tapio Savunen",
+    "Juuso Töyli",
+    "Petri Mähönen"
+   ],
+   "journal": "Telecommunications Policy",
+   "date": "2026-11-18",
+   "abstract": "The transition to public safety mobile broadband networks requires substantial public investment and involves significant operational risks. This paper examines public sector strategies for delivering these critical services in cooperation with the private sector. An inductive case study method and a market-based strategy framework were used to compare selected national public safety broadband projects in Europe and the US, where mobile operators' 4G and 5G networks are shared with public safety users. This analysis identifies significant differences between European and US strategies, which appear to be largely shaped by differences in governance structures and other market characteristics. Public safety governance is relatively centralised in the European countries examined, whereas governance in the US involves a large number of independent agencies with autonomy over communications solutions. The analysis further revealed differences in service deployment approaches between Europe and the US. The findings suggest that the incremental approach used in the US is more effective in managing project risks and, based on discounted cash flow analysis, may also be more cost-effective for the public sector under the model's assumptions. These results can serve as guidance for public authorities designing public safety communications strategies and procurements, as well as offering insights for EU policymakers in the ongoing revision of public procurement rules. This work enhances the current literature by introducing a market-oriented public sector strategy perspective, developing and applying a market-based strategy framework for comparative analysis of European and US strategies, and linking strategic choices to deployment approaches and public expenditure.",
+   "url": "https://doi.org/10.1016/j.telpol.2026.103341",
+   "doi": "10.1016/j.telpol.2026.103341",
+   "pdf": "https://doi.org/10.1016/j.telpol.2026.103341",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236459392": {
+   "id": "oa:W7236459392",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Into the Echoverse: the role of social media use in eschewing science and scientists",
+   "authors": [
+    "Ian Hawkins",
+    "Cameron D. Mackey",
+    "Sedona Chinn",
+    "Scott W. Campbell"
+   ],
+   "journal": "Information Communication & Society",
+   "date": "2026-11-17",
+   "abstract": "Recent events highlight conflicts between populist attitudes and the broader scientific community. In the United States, the alt-right is a small but vocal group with populist leanings who use social media to express their beliefs. Previous work has not established whether non-mainstream social media usage increases science skepticism or if instead institutional skepticism drives usage of online platforms. To explore this question, we apply the recently advanced Identity Driven Information Ecosystem approach as a theoretical framework and employ a three-wave longitudinal design to examine the connection between mainstream and non-mainstream social media usage at time 1, science skepticism at time 2, and support for punitive actions against scientists at time 3. Results show that among alt-right identifying individuals, using non-mainstream social media, but not mainstream social media, predicted more science skepticism, which in turn predicted support for punitive actions toward scientists. We discuss these results in the context of ‘alternative’ attitudes toward science becoming more mainstream.",
+   "url": "https://doi.org/10.1080/1369118x.2026.2763553",
+   "doi": "10.1080/1369118x.2026.2763553",
+   "pdf": "",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7235849921": {
+   "id": "oa:W7235849921",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Metaverse as a sociotechnical imaginary: A participatory approach to regulating virtual worlds",
+   "authors": [
+    "Saif Shahin",
+    "Sagnik Dutta",
+    "Nathalie Schabio"
+   ],
+   "journal": "Internet Policy Review",
+   "date": "2026-09-24",
+   "abstract": "India, projected as one of the biggest markets for metaverse and virtual worlds, is yet to adopt a concrete strategy for regulating such technologies. This research advocates a participatory approach to policymaking and outlines what such an approach might look like, based on an empirical study of YouTube videos and comments as well as official reports and press releases about the metaverse. The analysis suggests that digital users in India are mostly sceptical towards the metaverse and concerned about how technology companies and their products are taking away human agency and autonomy. But such concerns are only an afterthought in the state’s techno-utopian vision. We compare this vision with Europe’s outlook towards virtual worlds, as India has previously drawn inspiration from Europe to formulate digital policies. Finally, we discuss how India can move towards a virtual worlds policy that is cognisant of public imaginaries of the technology – and how user aspirations and anxieties can be translated into specific policy action by looking at European protocols that address similar concerns. This includes paying greater attention to the specific harms that metaverse and virtual worlds can exacerbate, such as intimate scanning and protection of biometric data, while also involving digital rights groups and the public at large in policymaking.",
+   "url": "https://doi.org/10.14763/2026.3.2122",
+   "doi": "10.14763/2026.3.2122",
+   "pdf": "https://doi.org/10.14763/2026.3.2122",
+   "first_seen": "2026-11-20T12:37:30+09:00"
+  },
+  "oa:W7236489155": {
+   "id": "oa:W7236489155",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Who is writing history? Content moderation and historical narratives in the virtual worlds",
+   "authors": [
+    "Nil Bosch Navarro",
+    "Anna Capellà i Ricart",
+    "Andres Chomczyk Penedo"
+   ],
+   "journal": "Internet Policy Review",
+   "date": "2026-09-24",
+   "abstract": "Extended reality (XR) technologies can facilitate virtual access to cultural heritage, including historical sites and digital artifacts, within persistent, interactive virtual environments, relying on user participation to nourish the database utilised by the system. This can imply a shift in the construction of historical narratives’ methodology. These virtual worlds, such as the metaverse, rely on content for their composition, triggering the question of how its moderation should be handled, particularly when it is provided by the very users who engage in these digital realms. As such, in this paper we study the transition of historical narratives from a controlled environment to virtual worlds and the legal implications of the inclusion of non-expert people and private actors through content moderation mechanisms in the development of historical narratives through a cross-disciplinary approach between historical and legal analysis. The paper highlights existing tensions and points towards both future areas where further research is needed but also to possible solutions to these issues.",
+   "url": "https://doi.org/10.14763/2026.3.2121",
+   "doi": "10.14763/2026.3.2121",
+   "pdf": "https://doi.org/10.14763/2026.3.2121",
+   "first_seen": "2026-11-20T12:37:30+09:00"
   }
  }
 }
