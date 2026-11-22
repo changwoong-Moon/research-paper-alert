@@ -70806,7 +70806,7 @@
    "title": "Promoting environmental quality in ASEAN-5: the influence of technological innovation, internet penetration, and financial development",
    "authors": [
     "Thanh Phuc Nguyen",
-    "Trang Thi-Thuy Duong"
+    "Trinh Duong"
    ],
    "journal": "Quality & Quantity",
    "date": "2026-08-26",
@@ -87474,7 +87474,7 @@
    "abstract": "Word embeddings are a powerful tool for measuring cultural meaning using large text corpora. In sociology, applications commonly estimate the meanings of concepts by projecting keywords onto axes constructed from pairs of opposing anchor keywords. At present, there are no established metrics for assessing axis reliability from embedding data. We investigate three potentially relevant forms of reliability: parallelism between offsets, synonymy between same-endpoint anchors, and antonymy between opposed anchors. Using an original N = 1 , 750 survey of respondents’ ratings of several hundred terms along 36 semantic dimensions plus existing ratings for 3 more, we find that parallelism robustly outperforms the other metrics in predicting the accuracy of 39,000 axes that operationalize these dimensions. Our decomposition of the parallelism–accuracy relationship between and within latent dimensions and anchor sets further shows that, while reliability is robustly related to axis accuracy at all levels, it provides a relatively weak guide for selecting specific keywords. Instead, the primary utility of parallelism may lie at higher levels of methodological decision-making: strongly identifying the most empirically tractable semantic dimension and, secondarily, suggesting the best embedding model for an anchor set.",
    "url": "https://doi.org/10.1177/00491241261467930",
    "doi": "10.1177/00491241261467930",
-   "pdf": "https://doi.org/10.31235/osf.io/576h3_v2",
+   "pdf": "https://osf.io/576h3_v2/download",
    "first_seen": "2026-09-20T09:13:08+09:00",
    "abstract_ko": "단어 임베딩은 큰 텍스트 말뭉치를 사용하여 문화적 의미를 측정하는 강력한 도구입니다. 사회학에서 애플리케이션은 일반적으로 반대되는 앵커 키워드 쌍으로 구성된 축에 키워드를 투영하여 개념의 의미를 추정합니다. 현재 내장 데이터에서 축 신뢰성을 평가하기 위한 확립된 측정항목은 없습니다. 우리는 잠재적으로 관련된 세 가지 형태의 신뢰성, 즉 오프셋 간의 병렬성, 동일한 끝점 앵커 간의 동의어, 반대 앵커 간의 반의어를 조사합니다. 36개의 의미 차원에 따른 수백 개의 용어에 대한 응답자의 평가에 대한 원래 N = 1, 750 설문조사와 3개 이상의 기존 평가를 사용하여 병렬성이 이러한 차원을 운용하는 39,000개 축의 정확도를 예측하는 데 있어 다른 측정항목보다 훨씬 뛰어난 성능을 보인다는 사실을 발견했습니다. 잠재 차원과 앵커 세트 간의 병렬성-정확도 관계에 대한 분해는 신뢰성이 모든 수준에서 축 정확도와 강력하게 관련되어 있지만 특정 키워드를 선택하는 데 상대적으로 약한 가이드를 제공한다는 것을 추가로 보여줍니다. 대신, 병렬성의 주요 유용성은 더 높은 수준의 방법론적 의사 결정에 있을 수 있습니다. 즉, 가장 경험적으로 다루기 쉬운 의미 차원을 ​​강력하게 식별하고, 두 번째로 앵커 세트에 대한 최상의 임베딩 모델을 제안합니다.",
    "abs_tries": 0,
@@ -107427,7 +107427,7 @@
     "José M. Pavía"
    ],
    "journal": "Digital Government Research and Practice",
-   "date": "2026-10-05",
+   "date": "2026-11-20",
    "abstract": "The digital transformation of the public sector has made data visualizations a key interface between analytics and decision-making. Measurement of data visualization literacy (DVL) in public administrations remains limited, and timed performance is treated as a direct proxy for competence. Such scores, however, combine two different things: whether an answer is produced in time and whether it is correct. This study addresses both gaps by examining Mini-VLAT structure and timed-score interpretation in 1,306 public employees. DVL was measured with the Mini-VLAT, a twelve-item graphical interpretation test administered under its standard 25-second-per-item limit. The analysis combines confirmatory factor analysis (CFA), testing whether the twelve items measure a single ability, with a two-part model separating response emission from accuracy and testing individual, organizational, and item correlates. Results support an essentially unidimensional DVL structure. However, response participation and interpretive accuracy show distinct correlates across the workforce: age is negatively associated with both, education mainly with accuracy, and administrative rank with both. Stacked compositional items are associated with lower performance at both stages, consistent with higher processing demands. Timed performance should not be read as a direct measure of competence. These distinctions inform training design and low–cognitive-load visualization environments for data-driven decision-making in government.",
    "url": "https://doi.org/10.1145/3856826",
    "doi": "10.1145/3856826",
@@ -129267,13 +129267,13 @@
    "id": "oa:W7224904779",
    "topic": "public-admin",
    "origin": "OpenAlex",
-   "title": "Every Mile Counts: Geographical Distance as Administrative Burden in Intellectual Property Services",
+   "title": "Every mile counts: geographical distance as administrative burden in intellectual property services",
    "authors": [
     "Shenghua Lu"
    ],
    "journal": "Journal of Public Administration Research and Theory",
    "date": "2026-10-29",
-   "abstract": "While existing research has examined procedural and informational sources of administrative burden, this paper examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China's decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on trademark filings. We find that establishing local acceptance windows increased trademark applications by approximately 4.4 percent, or roughly 209,000 additional filings in 2019 alone. Moreover, the reform generated compound distributional outcomes: small and medium-sized enterprises responded more strongly than larger firms, and the new applicants drawn into the trademark system were concentrated in cities with thinner infrastructure. Mechanism analysis confirms that this increase is primarily driven by distance reduction rather than improvements in administrative efficiency or reductions in corruption. The findings provide large-scale causal evidence on the behavioral consequences of redistributing administrative service delivery across space, demonstrating that physical accessibility remains crucial for equitable service uptake even amid the digital transformation of administrative services.",
+   "abstract": "While existing research has examined procedural and informational sources of administrative burden, this article examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China’s decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on trademark filings. We find that establishing local acceptance windows increased trademark applications by approximately 4.4 percent, or roughly 209,000 additional filings in 2019 alone. Moreover, the reform generated compound distributional outcomes: small and medium-sized enterprises responded more strongly than larger firms, and the new applicants drawn into the trademark system were concentrated in cities with thinner infrastructure. Mechanism analysis confirms that this increase is primarily driven by distance reduction rather than improvements in administrative efficiency or reductions in corruption. The findings provide large-scale causal evidence on the behavioral consequences of redistributing administrative service delivery across space, demonstrating that physical accessibility remains crucial for equitable service uptake even amid the digital transformation of administrative services.",
    "url": "https://doi.org/10.1093/jopart/muag038",
    "doi": "10.1093/jopart/muag038",
    "pdf": "",
@@ -132646,14 +132646,14 @@
    "id": "oa:W7225253768",
    "topic": "public-admin",
    "origin": "OpenAlex",
-   "title": "Toward an “Identity Turn” in Public Service Motivation Theory: A Problematizing Review and Research Agenda",
+   "title": "Toward an “identity turn” in public service motivation theory: a problematizing review and research agenda",
    "authors": [
     "Lorenza Micacchi",
     "Adrian Ritz"
    ],
    "journal": "Journal of Public Administration Research and Theory",
    "date": "2026-11-03",
-   "abstract": "Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts–such as motivation, altruism, and identity–in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theoretical framework that reconceptualizes PSM as a social identity. In doing so, we outline a research agenda that (i) revises PSM’s core conceptual features and develops a new measurement approach informed by identity theory; (ii) introduces new ways of understanding PSM's functioning through identity work theory; and (iii) situates PSM theory within the broader debate on the “identity turn” in motivation research, highlighting its potential contribution to this multidisciplinary discourse.",
+   "abstract": "Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts—such as motivation, altruism, and identity—in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theoretical framework that reconceptualizes PSM as a social identity. In doing so, we outline a research agenda that (1) revises PSM’s core conceptual features and develops a new measurement approach informed by identity theory; (2) introduces new ways of understanding PSM’s functioning through identity work theory; and (3) situates PSM theory within the broader debate on the “identity turn” in motivation research, highlighting its potential contribution to this multidisciplinary discourse.",
    "url": "https://doi.org/10.1093/jopart/muag037",
    "doi": "10.1093/jopart/muag037",
    "pdf": "https://academic.oup.com/jpart/advance-article-pdf/doi/10.1093/jopart/muag037/73007054/muag037.pdf",
@@ -136952,7 +136952,7 @@
    "abstract": "This paper explores the development of an ethical guardrail framework for AI systems, emphasizing the importance of customizable guardrails that align with diverse user values and underlying ethics. We address the challenges of AI ethics by proposing a structure that integrates rules, policies, and AI assistants to ensure responsible AI behavior, while comparing the proposed framework to the existing state-of-the-art guardrails. By focusing on practical mechanisms for implementing ethical standards, we aim to enhance transparency, user autonomy, and continuous improvement in AI systems. Our approach accommodates ethical pluralism, offering a flexible and adaptable solution for the evolving landscape of AI governance. The paper concludes with strategies for resolving conflicts between ethical directives, underscoring the present and future need for robust, nuanced and context-aware AI systems.",
    "url": "https://doi.org/10.1007/s43681-026-01492-7",
    "doi": "10.1007/s43681-026-01492-7",
-   "pdf": "https://doi.org/10.32388/6oe6ni",
+   "pdf": "https://www.qeios.com/read/6OE6NI/pdf",
    "first_seen": "2026-11-13T11:44:52+09:00",
    "abstract_ko": "이 문서에서는 AI 시스템을 위한 윤리적 가드레일 프레임워크 개발을 탐구하고, 다양한 사용자 가치와 기본 윤리에 부합하는 맞춤형 가드레일의 중요성을 강조합니다. 우리는 규칙, 정책 ​​및 AI 보조자를 통합하여 책임 있는 AI 행동을 보장하는 구조를 제안하는 동시에 제안된 프레임워크를 기존 최첨단 가드레일과 비교함으로써 AI 윤리의 과제를 해결합니다. 우리는 윤리 표준을 구현하기 위한 실질적인 메커니즘에 중점을 두어 AI 시스템의 투명성, 사용자 자율성 및 지속적인 개선을 목표로 합니다. 우리의 접근 방식은 윤리적 다원주의를 수용하여 진화하는 AI 거버넌스 환경에 유연하고 적응 가능한 솔루션을 제공합니다. 이 논문은 강력하고 미묘하며 상황을 인식하는 AI 시스템에 대한 현재와 미래의 필요성을 강조하면서 윤리적 지침 간의 충돌을 해결하기 위한 전략으로 마무리됩니다.",
    "abs_tries": 0,
@@ -137925,7 +137925,7 @@
    "abstract": "Clinical application of high-resolution diffusion MRI is hindered by hardware limitations and prohibitive scan times, motivating computational super-resolution. This study investigates the efficacy of a feature-based loss function in preserving diffusion signal consistency in deep learning super-resolution. Using 7T data from the human connectome project to generate pairs of low- and high-resolution diffusion-weighted images (DWIs), we trained UNets for 2D super-resolution. Ablation and isolation studies evaluated different VGG16 layers for feature-based losses against an image-based L 1 baseline. Deeper layers and combinations thereof resulted in grid-like artifacts in super-resolution DWIs, which persisted in diffusion parameters like quantitative and fractional anisotropy. No such artifacts were visible when using the shallowest layer. Downstream analysis for this layer showed great consistency with the ground truth, even for 9-fold super-resolution. Image dynamic range and used VGG16 layer depths modulated artifact appearance and severity, mandating careful selection of contributing layers for application in and beyond diffusion MRI.",
    "url": "https://doi.org/10.1016/j.patter.2026.101718",
    "doi": "10.1016/j.patter.2026.101718",
-   "pdf": "https://doi.org/10.1016/j.patter.2026.101718",
+   "pdf": "https://www.cell.com/patterns/pdf/S2666-3899(26)00227-8.pdf",
    "first_seen": "2026-11-14T11:34:25+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -147310,7 +147310,7 @@
    "abstract": "This article advances understanding of how policy monopolies sustain policy stasis in morality policy, where scholarship has explained policy change more fully than its absence. It develops the concept of a moral policy monopoly to examine how interlocking mechanisms can sustain policy stasis in contexts of high religiosity. Using abductive, mechanistic and analyticist process tracing, and drawing on documents and interviews, the study examines three decades of legislative inertia on same-sex unions in Peru, where 17 Bills were submitted to Congress between 1993 and 2024 and none advanced to plenary approval. The analysis identifies five interlocking mechanisms through which ultraconservative religious actors sustain stasis under conditions of high religiosity, substantial church capacity and a religiously embedded party system. Forging alliances, building moralised policy images and capturing politics operate continuously, while joint opposition campaigns and competing Bills operate episodically in response to triggering events. Each mechanism presupposes or reinforces the others, so stasis emerges from interlocking and deliberate activity rather than dispersed opposition. By showing how these mechanisms work together to prevent policy change, the article demonstrates how policy monopolies can actively sustain stasis in morality policy. These mechanisms also reveal religiosity not as a background condition but as a resource that actors convert into political capacity.",
    "url": "https://doi.org/10.1332/03055736y2026d000000110",
    "doi": "10.1332/03055736y2026d000000110",
-   "pdf": "",
+   "pdf": "https://bristoluniversitypressdigital.com/previewpdf/view/journals/pp/aop/article-10.1332-03055736Y2026D000000110/article-10.1332-03055736Y2026D000000110.xml",
    "first_seen": "2026-11-18T12:45:41+09:00",
    "abs_tries": 0,
    "ko_tries": 0
@@ -148880,7 +148880,7 @@
    "doi": "10.1007/s43681-026-01532-2",
    "pdf": "https://doi.org/10.2139/ssrn.6936679",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7221786470": {
@@ -148939,7 +148939,7 @@
    "doi": "10.1038/s42256-026-01349-y",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7236029551": {
@@ -148959,7 +148959,7 @@
    "doi": "10.1007/s10614-026-11487-5",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7236053685": {
@@ -148977,7 +148977,7 @@
    "doi": "10.1007/s43681-026-01502-8",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7236097425": {
@@ -148999,7 +148999,7 @@
    "doi": "10.1007/s10614-026-11495-5",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7236136311": {
@@ -149017,7 +149017,7 @@
    "doi": "10.1007/s43681-026-01456-x",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7236182513": {
@@ -149037,7 +149037,7 @@
    "doi": "10.1007/s43681-026-01541-1",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7236200275": {
@@ -149093,7 +149093,7 @@
    "doi": "10.1007/s10614-026-11466-w",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7236272657": {
@@ -149150,7 +149150,7 @@
    "doi": "10.1007/s43681-026-01485-6",
    "pdf": "",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7234851368": {
@@ -149210,7 +149210,7 @@
    "doi": "10.1016/j.artint.2026.104659",
    "pdf": "https://doi.org/10.1016/j.artint.2026.104659",
    "first_seen": "2026-11-20T12:37:30+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7235877210": {
@@ -149374,7 +149374,8 @@
    "doi": "10.1080/1523908x.2026.2765303",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7236595889": {
    "id": "oa:W7236595889",
@@ -149389,12 +149390,13 @@
    ],
    "journal": "Public Performance & Management Review",
    "date": "2026-11-19",
-   "abstract": "",
+   "abstract": "This study investigates why cross-border public service arrangements, necessitated by functional interdependence, paradoxically evolve into exclusive systems characterized by high costs and low accountability. While prevailing literature often attributes network failure to active elite capture, this study examines the Macao-Zhuhai funeral service network to investigate structural governance dilemmas within the unique “One Country, Two Systems” framework. Anchored primarily in public accountability literature, we argue that in “low politics” domains lacking external meta-governance, cross-border networks are highly susceptible to the hollowing out of public responsibility. Through process-tracing of judicial and archival data, this study identifies a structural pathology we term the “Passive Accountability Trap”. This trap is triggered when authorities across jurisdictions strictly adhere to territorial jurisdictional boundaries yet lack the shared motivation and joint capacity to establish horizontal, transboundary oversight, thereby inadvertently creating a cross-border regulatory vacuum. In this vacuum, market actors act as network gatekeepers engaging in regulatory arbitrage, transforming administrative delegation into a “delegated monopoly”. This research contributes to the literature by revealing how accountability deficits are structurally produced in asymmetric cross-border contexts and highlights the critical role of shared motivation and joint capacity in preventing the privatization of public authority.",
    "url": "https://doi.org/10.1080/15309576.2026.2751448",
    "doi": "10.1080/15309576.2026.2751448",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7236689039": {
    "id": "oa:W7236689039",
@@ -149409,9 +149411,10 @@
    "abstract": "Digital government communication increasingly reaches audiences beyond its intended public‐information functions, yet its consequences for financial markets remain unclear. Using Chinese A‐share initial public offerings matched with local officialsʼ short‐video activity from 2018 to 2024, we examine whether visible government communication is associated with initial public offering pricing. We find that official short‐video activity is associated with greater underpricing, with the association concentrated in first‐day market valuation rather than offer‐stage valuation. Further evidence points to a sentiment channel operating through public comments and to substantial heterogeneity across information‐ and entertainment‐oriented content. The results are robust to alternative regulatory periods, propensity score matching, and relaxed sample restrictions. These findings show that digital government communication can generate unintended spillovers into capital‐market pricing and highlight the importance of communication design in digital governance.",
    "url": "https://doi.org/10.1002/app5.70111",
    "doi": "10.1002/app5.70111",
-   "pdf": "https://doi.org/10.1002/app5.70111",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/app5.70111",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7236697341": {
    "id": "oa:W7236697341",
@@ -149429,9 +149432,10 @@
    "abstract": "Public financial management systems increase visibility, yet captured governance can maintain compliance while redirecting budgeting, accounting, and procurement routines. We conceptualize these systems as diagnostic infrastructures that can conditionally expose such distortions. Anchored in Italian municipal dissolutions for mafia-type infiltration, theory-informed analysis of 50 dissolution reports identifies four core configurations and three cross-cutting dimensions. Across 7,802 municipalities (2016–2024), combined accounting and procurement indicators outperform single-source benchmarks and retain discrimination among Southern and fiscally distressed municipalities. We specify when such systems retain diagnostic capacity under staged compliance, informing data infrastructure design and existing scrutiny procedures, not municipal screening.",
    "url": "https://doi.org/10.1080/14719037.2026.2765333",
    "doi": "10.1080/14719037.2026.2765333",
-   "pdf": "https://doi.org/10.1080/14719037.2026.2765333",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14719037.2026.2765333?needAccess=true",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7236761788": {
    "id": "oa:W7236761788",
@@ -149446,12 +149450,13 @@
    ],
    "journal": "Journal of European Public Policy",
    "date": "2026-11-19",
-   "abstract": "",
+   "abstract": "As radical-right parties gain ground across Europe, mainstream parties are considered crucial actors in determining whether they acquire political legitimacy and access to power. Previous literature has shown that when political elites signal a willingness to cooperate with the radical right, the radical right is normalised in the eyes of voters. Importantly, recent research has argued that once such normalisation takes place, the radical right cannot be ostracised again, resulting in radical-right normalisation being considered a ‘one-way street’. This study counters this narrative solely derived from online survey experiments. It offers rare real-world evidence from Belgium's 2024 federal elections, where the leader of the largest mainstream right party unexpectedly ruled out a coalition with the radical-right party after years of normalisation. By leveraging this unexpected event, we demonstrate that the exclusionary elite cue resulted in citizens once again viewing the radical right as less democratically legitimate while also reducing the likelihood of voting for that party. These findings suggest that normalisation of the radical right is not a one-way street as previously thought: forceful elite rejection can reshape legitimacy perceptions and electoral behaviour, thereby re-ostracising the radical right, with implications for ongoing debates on political legitimacy and democratic norms.",
    "url": "https://doi.org/10.1080/13501763.2026.2756951",
    "doi": "10.1080/13501763.2026.2756951",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7236775605": {
    "id": "oa:W7236775605",
@@ -149464,12 +149469,13 @@
    ],
    "journal": "International Public Management Journal",
    "date": "2026-11-19",
-   "abstract": "",
+   "abstract": "Demographic representation in public organizations shapes how the interests of diverse citizens are seen and heard. Previous studies show how a more representative bureaucracy encourages underrepresented groups to feel a greater affinity with the public organizations that serve them, for example, by increasing their trust in and engagement with those organizations. STEM (science, technology, engineering, and mathematics) education is an important context to examine, as most teachers are male, leaving female students with fewer role models of their own gender for this increasingly important field of knowledge. This lack of female role models, moreover, is especially critical at young ages, when students often decide whether to pursue STEM professions. Through in-depth interviews with STEM students from five Israeli universities, we explore how the active representation of female high school teachers encouraged their female students to develop a sense of self-efficacy and to succeed in STEM. Furthermore, we also demonstrate how these teachers’ past representation actions shaped their female students’ professional futures. Our research highlights the importance of early gender representation in shaping educational and professional opportunities.",
    "url": "https://doi.org/10.1080/10967494.2026.2758171",
    "doi": "10.1080/10967494.2026.2758171",
-   "pdf": "https://doi.org/10.1080/10967494.2026.2758171",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10967494.2026.2758171?needAccess=true",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7236799129": {
    "id": "oa:W7236799129",
@@ -149484,9 +149490,10 @@
    "abstract": "Administrative burden scholarship has identified psychological costs alongside learning and compliance costs, yet the category remains homogeneous, grouping stigma, diminished autonomy, and stress, without a shared organizing principle. This article advances a mechanism-level account centered on recognition, drawing on a qualitative case study of claiming disability benefits in Israel, based on in-depth interviews with 33 individuals (16 young adults with diagnosed mental health conditions and 17 social and outreach workers). We argue that recognition, and its denial, are part of the mechanism through which psychological costs are produced, and that whether an encounter carries a message about a person's standing sorts the category into three analytically distinct types. Affective costs are emotional responses to procedural load and involve no recognition; primary symbolic costs are emotional responses to status positioning; and secondary symbolic costs arise when procedural load itself carries a message about standing. The latter two, in which recognition is at stake, are traced through Honneth's three spheres of rights, solidarity, and care, each producing its own configuration of costs. The types differ in their causes and remedies, with affective costs calling for efficiency reforms and symbolic costs for recognition-oriented ones. Social workers emerge as allies who counter misrecognition, and drawing on these findings we propose bureaucratic recognition, the building of voice, certainty, and validation into procedural design, as a remedy for status-related costs. Finally, misrecognition both constitutes symbolic costs and compounds others, positioning status, alongside distribution, as a critical axis of administrative burden.",
    "url": "https://doi.org/10.1093/jopart/muag033",
    "doi": "10.1093/jopart/muag033",
-   "pdf": "https://doi.org/10.1093/jopart/muag033",
+   "pdf": "https://academic.oup.com/jpart/advance-article-pdf/doi/10.1093/jopart/muag033/73854105/muag033.pdf",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7138847124": {
    "id": "oa:W7138847124",
@@ -149503,7 +149510,8 @@
    "doi": "10.1215/03616878-12513788",
    "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513788/2396650/12513788.pdf",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7138889492": {
    "id": "oa:W7138889492",
@@ -149520,7 +149528,8 @@
    "doi": "10.1215/03616878-12516545",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7138908829": {
    "id": "oa:W7138908829",
@@ -149537,7 +149546,8 @@
    "doi": "10.1215/03616878-12513844",
    "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513844/2396644/12513844.pdf",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "ko_tries": 1
+   "ko_tries": 1,
+   "abs_tries": 0
   },
   "oa:W7138959007": {
    "id": "oa:W7138959007",
@@ -149558,7 +149568,9 @@
    "url": "https://doi.org/10.1215/03616878-12513804",
    "doi": "10.1215/03616878-12513804",
    "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513804/2396653/12513804.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7138967033": {
    "id": "oa:W7138967033",
@@ -149575,7 +149587,9 @@
    "url": "https://doi.org/10.1215/03616878-12513812",
    "doi": "10.1215/03616878-12513812",
    "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513812/2396638/12513812.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7139007071": {
    "id": "oa:W7139007071",
@@ -149591,7 +149605,9 @@
    "url": "https://doi.org/10.1215/03616878-12513836",
    "doi": "10.1215/03616878-12513836",
    "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513836/2396636/12513836.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7139048575": {
    "id": "oa:W7139048575",
@@ -149609,7 +149625,9 @@
    "url": "https://doi.org/10.1215/03616878-12513796",
    "doi": "10.1215/03616878-12513796",
    "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513796/2396648/12513796.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7139089699": {
    "id": "oa:W7139089699",
@@ -149626,7 +149644,9 @@
    "url": "https://doi.org/10.1215/03616878-12513828",
    "doi": "10.1215/03616878-12513828",
    "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513828/2396640/12513828.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221474245": {
    "id": "oa:W7221474245",
@@ -149638,12 +149658,13 @@
    ],
    "journal": "Structural Equation Modeling A Multidisciplinary Journal",
    "date": "2026-11-19",
-   "abstract": "",
+   "abstract": "Intensive longitudinal designs space observations unequally. Fixed schedules leave overnight gaps, signal-contingent protocols randomize prompt times, and measurement-burst designs separate dense bursts by weeks, yet standard discrete-time vector autoregressive analyses treat all intervals as equal. This article derives what such analyses estimate under design-generated interval mixtures. The probability limit implies design-specific attenuation of cross-lagged effects, and occasion-level measurement error combined with contemporaneous correlation produces spurious cross-lagged effects even under stationarity. Unmodeled slow change inflates false-positive rates further, to .31 in single series and .94 under two-stage pooling with burst sampling. A two-timescale continuous-time state-space model, separating fast latent dynamics, a correlated slow trend, and occasion noise, maintained nominal Type I error and drift coverage across equidistant, diurnal, random, and burst schemes in 32,000 simulated series. Reanalysis of a 239-day experience sampling study shows model choice reversing substantive conclusions. All code and results are openly available.",
    "url": "https://doi.org/10.1080/10705511.2026.2749517",
    "doi": "10.1080/10705511.2026.2749517",
-   "pdf": "https://doi.org/10.1080/10705511.2026.2749517",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2749517?needAccess=true",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7236561392": {
    "id": "oa:W7236561392",
@@ -149658,12 +149679,13 @@
    ],
    "journal": "Structural Equation Modeling A Multidisciplinary Journal",
    "date": "2026-11-19",
-   "abstract": "",
+   "abstract": "Growth mixture models (GMMs) with distal outcomes identify groups following different trajectories and examine group differences in subsequent outcomes. Although time coding is often treated as a matter of parameter interpretation, it may also affect model estimation, class recovery, and distal-outcome inference. We examined this sensitivity through two empirical illustrations and simulation studies varying time coding, data conditions, and population trajectory patterns. Alternative codings sometimes selected different numbers of classes. Even with the number of classes fixed, fitted models differed in convergence and attained log-likelihood solutions, accompanied by differences in class recovery and distal-outcome estimates. These discrepancies were most pronounced when the population contained more classes. Moreover, the relative performance of each coding varied across trajectory patterns, with no coding performing consistently best. Researchers should therefore select a primary coding based on substantive interpretation and examine sensitivity across alternative codings, particularly when many classes are considered, or estimation is unstable.",
    "url": "https://doi.org/10.1080/10705511.2026.2744205",
    "doi": "10.1080/10705511.2026.2744205",
-   "pdf": "https://doi.org/10.1080/10705511.2026.2744205",
+   "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2744205?needAccess=true",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7236773052": {
    "id": "oa:W7236773052",
@@ -149682,7 +149704,9 @@
    "url": "https://doi.org/10.1177/0282423x261505762",
    "doi": "10.1177/0282423x261505762",
    "pdf": "https://doi.org/10.1177/0282423x261505762",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236779307": {
    "id": "oa:W7236779307",
@@ -149698,7 +149722,9 @@
    "url": "https://doi.org/10.1177/0282423x261505750",
    "doi": "10.1177/0282423x261505750",
    "pdf": "https://doi.org/10.1177/0282423x261505750",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7233609707": {
    "id": "oa:W7233609707",
@@ -149718,7 +149744,9 @@
    "url": "https://doi.org/10.1093/jssam/smag037",
    "doi": "10.1093/jssam/smag037",
    "pdf": "https://doi.org/10.1093/jssam/smag037",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7224082932": {
    "id": "oa:W7224082932",
@@ -149736,7 +149764,9 @@
    "url": "https://doi.org/10.1093/jssam/smaf054",
    "doi": "10.1093/jssam/smaf054",
    "pdf": "https://doi.org/10.1093/jssam/smaf054",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7221132298": {
    "id": "oa:W7221132298",
@@ -149755,7 +149785,9 @@
    "url": "https://doi.org/10.1093/jssam/smag021",
    "doi": "10.1093/jssam/smag021",
    "pdf": "https://doi.org/10.1093/jssam/smag021",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4386498224": {
    "id": "oa:W4386498224",
@@ -149774,7 +149806,9 @@
    "url": "https://doi.org/10.1037/met0000606",
    "doi": "10.1037/met0000606",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4391655104": {
    "id": "oa:W4391655104",
@@ -149791,7 +149825,9 @@
    "url": "https://doi.org/10.1037/met0000644",
    "doi": "10.1037/met0000644",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4392298124": {
    "id": "oa:W4392298124",
@@ -149810,7 +149846,9 @@
    "url": "https://doi.org/10.1037/met0000636",
    "doi": "10.1037/met0000636",
    "pdf": "https://doi.org/10.1037/met0000636",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4392817884": {
    "id": "oa:W4392817884",
@@ -149828,7 +149866,9 @@
    "url": "https://doi.org/10.1037/met0000649",
    "doi": "10.1037/met0000649",
    "pdf": "https://osf.io/jn69p/download",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4393949222": {
    "id": "oa:W4393949222",
@@ -149845,7 +149885,9 @@
    "url": "https://doi.org/10.1037/met0000655",
    "doi": "10.1037/met0000655",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4393949516": {
    "id": "oa:W4393949516",
@@ -149862,7 +149904,9 @@
    "url": "https://doi.org/10.1037/met0000654",
    "doi": "10.1037/met0000654",
    "pdf": "https://www.biorxiv.org/content/biorxiv/early/2022/11/01/2022.10.28.514329.full.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4393949658": {
    "id": "oa:W4393949658",
@@ -149884,7 +149928,9 @@
    "url": "https://doi.org/10.1037/met0000652",
    "doi": "10.1037/met0000652",
    "pdf": "https://doi.org/10.1037/met0000652",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4394726981": {
    "id": "oa:W4394726981",
@@ -149904,7 +149950,9 @@
    "url": "https://doi.org/10.1037/met0000638",
    "doi": "10.1037/met0000638",
    "pdf": "https://osf.io/ugs2r/download",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4394999917": {
    "id": "oa:W4394999917",
@@ -149921,7 +149969,9 @@
    "url": "https://doi.org/10.1037/met0000650",
    "doi": "10.1037/met0000650",
    "pdf": "https://doi.org/10.1037/met0000650",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4396673092": {
    "id": "oa:W4396673092",
@@ -149940,7 +149990,9 @@
    "url": "https://doi.org/10.1037/met0000645",
    "doi": "10.1037/met0000645",
    "pdf": "https://arxiv.org/pdf/2301.11873",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4396677692": {
    "id": "oa:W4396677692",
@@ -149957,7 +150009,9 @@
    "url": "https://doi.org/10.1037/met0000658",
    "doi": "10.1037/met0000658",
    "pdf": "https://doi.org/10.1037/met0000658",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4403185304": {
    "id": "oa:W4403185304",
@@ -149982,7 +150036,9 @@
    "url": "https://doi.org/10.1037/met0000640",
    "doi": "10.1037/met0000640",
    "pdf": "https://doi.org/10.1037/met0000640",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4403887648": {
    "id": "oa:W4403887648",
@@ -150002,7 +150058,9 @@
    "url": "https://doi.org/10.1037/met0000829",
    "doi": "10.1037/met0000829",
    "pdf": "https://doi.org/10.31219/osf.io/yc3p7_v3",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4412470629": {
    "id": "oa:W4412470629",
@@ -150019,7 +150077,9 @@
    "url": "https://doi.org/10.1037/met0000830",
    "doi": "10.1037/met0000830",
    "pdf": "https://osf.io/prm3t_v1/download",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7138896812": {
    "id": "oa:W7138896812",
@@ -150036,7 +150096,9 @@
    "url": "https://doi.org/10.1037/met0000831",
    "doi": "10.1037/met0000831",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7143299264": {
    "id": "oa:W7143299264",
@@ -150056,7 +150118,9 @@
    "url": "https://doi.org/10.1037/met0000827",
    "doi": "10.1037/met0000827",
    "pdf": "https://osf.io/9r5ku",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7148381603": {
    "id": "oa:W7148381603",
@@ -150073,7 +150137,9 @@
    "url": "https://doi.org/10.1037/met0000828",
    "doi": "10.1037/met0000828",
    "pdf": "https://osf.io/qpj35/download",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7151066312": {
    "id": "oa:W7151066312",
@@ -150095,7 +150161,9 @@
    "url": "https://doi.org/10.1037/met0000820",
    "doi": "10.1037/met0000820",
    "pdf": "https://doi.org/10.1037/met0000820",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7152738411": {
    "id": "oa:W7152738411",
@@ -150116,7 +150184,9 @@
    "url": "https://doi.org/10.1037/met0000815",
    "doi": "10.1037/met0000815",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7154598118": {
    "id": "oa:W7154598118",
@@ -150134,7 +150204,9 @@
    "url": "https://doi.org/10.1037/met0000837",
    "doi": "10.1037/met0000837",
    "pdf": "https://psycnet.apa.org/fulltext/2027-56803-001.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7159603715": {
    "id": "oa:W7159603715",
@@ -150153,7 +150225,9 @@
    "url": "https://doi.org/10.1037/met0000832",
    "doi": "10.1037/met0000832",
    "pdf": "https://doi.org/10.1037/met0000832",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7223201381": {
    "id": "oa:W7223201381",
@@ -150189,7 +150263,9 @@
    "url": "https://doi.org/10.1093/jssam/smag024",
    "doi": "10.1093/jssam/smag024",
    "pdf": "https://discovery.ucl.ac.uk/id/eprint/10233445/1/Brown_jssammanuscript%20revised.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7214467058": {
    "id": "oa:W7214467058",
@@ -150207,7 +150283,9 @@
    "url": "https://doi.org/10.1093/jssam/smag012",
    "doi": "10.1093/jssam/smag012",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7212118568": {
    "id": "oa:W7212118568",
@@ -150224,7 +150302,9 @@
    "url": "https://doi.org/10.1093/jssam/smag011",
    "doi": "10.1093/jssam/smag011",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7212127180": {
    "id": "oa:W7212127180",
@@ -150243,7 +150323,9 @@
    "url": "https://doi.org/10.1093/jssam/smag015",
    "doi": "10.1093/jssam/smag015",
    "pdf": "https://academic.oup.com/jssam/advance-article-pdf/doi/10.1093/jssam/smag015/71013226/smag015.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7212145088": {
    "id": "oa:W7212145088",
@@ -150261,7 +150343,9 @@
    "url": "https://doi.org/10.1093/jssam/smaf065",
    "doi": "10.1093/jssam/smaf065",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7212148556": {
    "id": "oa:W7212148556",
@@ -150283,7 +150367,9 @@
    "url": "https://doi.org/10.1093/jssam/smag017",
    "doi": "10.1093/jssam/smag017",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7212168412": {
    "id": "oa:W7212168412",
@@ -150302,7 +150388,9 @@
    "url": "https://doi.org/10.1093/jssam/smaf059",
    "doi": "10.1093/jssam/smaf059",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7207671377": {
    "id": "oa:W7207671377",
@@ -150318,7 +150406,9 @@
    "url": "https://doi.org/10.1093/jssam/smag009",
    "doi": "10.1093/jssam/smag009",
    "pdf": "https://doi.org/10.1093/jssam/smag009",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7206187833": {
    "id": "oa:W7206187833",
@@ -150337,7 +150427,9 @@
    "url": "https://doi.org/10.1093/jssam/smaf060",
    "doi": "10.1093/jssam/smaf060",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7206197616": {
    "id": "oa:W7206197616",
@@ -150356,7 +150448,9 @@
    "url": "https://doi.org/10.1093/jssam/smag002",
    "doi": "10.1093/jssam/smag002",
    "pdf": "https://doi.org/10.1093/jssam/smag002",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7165168045": {
    "id": "oa:W7165168045",
@@ -150374,7 +150468,9 @@
    "url": "https://doi.org/10.1093/poq/nfag037",
    "doi": "10.1093/poq/nfag037",
    "pdf": "https://doi.org/10.1093/poq/nfag037",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7206155685": {
    "id": "oa:W7206155685",
@@ -150392,7 +150488,9 @@
    "url": "https://doi.org/10.1093/jssam/smaf049",
    "doi": "10.1093/jssam/smaf049",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7206213364": {
    "id": "oa:W7206213364",
@@ -150413,7 +150511,9 @@
    "url": "https://doi.org/10.1093/jssam/smag008",
    "doi": "10.1093/jssam/smag008",
    "pdf": "https://doi.org/10.1093/jssam/smag008",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7211971938": {
    "id": "oa:W7211971938",
@@ -150432,7 +150532,8 @@
    "doi": "10.1093/poq/nfag062",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7204707178": {
    "id": "oa:W7204707178",
@@ -150453,7 +150554,9 @@
    "url": "https://doi.org/10.1093/jssam/smaf063",
    "doi": "10.1093/jssam/smaf063",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7204728392": {
    "id": "oa:W7204728392",
@@ -150472,7 +150575,9 @@
    "url": "https://doi.org/10.1093/jssam/smag023",
    "doi": "10.1093/jssam/smag023",
    "pdf": "https://doi.org/10.1093/jssam/smag023",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4398796381": {
    "id": "oa:W4398796381",
@@ -150492,7 +150597,9 @@
    "url": "https://doi.org/10.1080/01621459.2026.2750529",
    "doi": "10.1080/01621459.2026.2750529",
    "pdf": "https://arxiv.org/pdf/2405.14018",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4417515013": {
    "id": "oa:W4417515013",
@@ -150515,7 +150622,9 @@
    "url": "https://doi.org/10.1080/10618600.2026.2762063",
    "doi": "10.1080/10618600.2026.2762063",
    "pdf": "https://arxiv.org/pdf/2505.06896",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236666637": {
    "id": "oa:W7236666637",
@@ -150533,7 +150642,8 @@
    "doi": "10.1007/s11222-026-11041-1",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7236753988": {
    "id": "oa:W7236753988",
@@ -150551,7 +150661,9 @@
    "url": "https://doi.org/10.1093/jrsssa/qnag125",
    "doi": "10.1093/jrsssa/qnag125",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236823383": {
    "id": "oa:W7236823383",
@@ -150570,7 +150682,8 @@
    "doi": "10.1007/s11222-026-11040-2",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W2977030126": {
    "id": "oa:W2977030126",
@@ -150586,7 +150699,9 @@
    "url": "https://doi.org/10.1162/rest_a_01502",
    "doi": "10.1162/rest_a_01502",
    "pdf": "https://www.econstor.eu/bitstream/10419/210748/1/1676280138.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399301357": {
    "id": "oa:W4399301357",
@@ -150603,7 +150718,9 @@
    "url": "https://doi.org/10.1162/rest_a_01471",
    "doi": "10.1162/rest_a_01471",
    "pdf": "https://doi.org/10.2139/ssrn.4012786",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399765177": {
    "id": "oa:W4399765177",
@@ -150621,7 +150738,9 @@
    "url": "https://doi.org/10.1162/rest_a_01463",
    "doi": "10.1162/rest_a_01463",
    "pdf": "https://lirias.kuleuven.be/retrieve/03e54399-c271-45a2-85b7-b96019a3cfed",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872765": {
    "id": "oa:W4401872765",
@@ -150637,7 +150756,9 @@
    "url": "https://doi.org/10.1162/rest_a_01478",
    "doi": "10.1162/rest_a_01478",
    "pdf": "https://doi.org/10.2139/ssrn.4728035",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872925": {
    "id": "oa:W4401872925",
@@ -150654,7 +150775,9 @@
    "url": "https://doi.org/10.1162/rest_a_01486",
    "doi": "10.1162/rest_a_01486",
    "pdf": "https://arxiv.org/pdf/2306.07018",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402824011": {
    "id": "oa:W4402824011",
@@ -150672,7 +150795,9 @@
    "url": "https://doi.org/10.1162/rest_a_01501",
    "doi": "10.1162/rest_a_01501",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402824065": {
    "id": "oa:W4402824065",
@@ -150690,7 +150815,9 @@
    "url": "https://doi.org/10.1162/rest_a_01506",
    "doi": "10.1162/rest_a_01506",
    "pdf": "https://www.econstor.eu/bitstream/10419/272862/1/1837174628.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402837358": {
    "id": "oa:W4402837358",
@@ -150708,7 +150835,9 @@
    "url": "https://doi.org/10.1162/rest_a_01510",
    "doi": "10.1162/rest_a_01510",
    "pdf": "https://doi.org/10.1162/rest_a_01510",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402837364": {
    "id": "oa:W4402837364",
@@ -150725,7 +150854,9 @@
    "url": "https://doi.org/10.1162/rest_a_01509",
    "doi": "10.1162/rest_a_01509",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402837702": {
    "id": "oa:W4402837702",
@@ -150742,7 +150873,9 @@
    "url": "https://doi.org/10.1162/rest_a_01514",
    "doi": "10.1162/rest_a_01514",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402839389": {
    "id": "oa:W4402839389",
@@ -150760,7 +150893,9 @@
    "url": "https://doi.org/10.1162/rest_a_01507",
    "doi": "10.1162/rest_a_01507",
    "pdf": "https://arxiv.org/pdf/2201.11304",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402839517": {
    "id": "oa:W4402839517",
@@ -150777,7 +150912,9 @@
    "url": "https://doi.org/10.1162/rest_a_01508",
    "doi": "10.1162/rest_a_01508",
    "pdf": "https://doi.org/10.2139/ssrn.3201689",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402839635": {
    "id": "oa:W4402839635",
@@ -150796,7 +150933,9 @@
    "url": "https://doi.org/10.1162/rest_a_01503",
    "doi": "10.1162/rest_a_01503",
    "pdf": "https://doi.org/10.2139/ssrn.4184318",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404056304": {
    "id": "oa:W4404056304",
@@ -150814,7 +150953,9 @@
    "url": "https://doi.org/10.1162/rest_a_01525",
    "doi": "10.1162/rest_a_01525",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404671983": {
    "id": "oa:W4404671983",
@@ -150830,7 +150971,9 @@
    "url": "https://doi.org/10.1162/rest_a_01538",
    "doi": "10.1162/rest_a_01538",
    "pdf": "https://doi.org/10.2139/ssrn.4806765",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404672374": {
    "id": "oa:W4404672374",
@@ -150852,7 +150995,9 @@
    "url": "https://doi.org/10.1162/rest_a_01533",
    "doi": "10.1162/rest_a_01533",
    "pdf": "http://eprints.lse.ac.uk/126209/1/20240630_Manuscript_Revised_v3_CKRE.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404691068": {
    "id": "oa:W4404691068",
@@ -150870,7 +151015,9 @@
    "url": "https://doi.org/10.1162/rest_a_01545",
    "doi": "10.1162/rest_a_01545",
    "pdf": "https://doi.org/10.2139/ssrn.4491235",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4415674898": {
    "id": "oa:W4415674898",
@@ -150887,7 +151034,9 @@
    "url": "https://doi.org/10.1162/rest.a.1616",
    "doi": "10.1162/rest.a.1616",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4417289886": {
    "id": "oa:W4417289886",
@@ -150906,7 +151055,9 @@
    "url": "https://doi.org/10.1093/biomtc/ujag193",
    "doi": "10.1093/biomtc/ujag193",
    "pdf": "https://arxiv.org/pdf/2512.09262",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7131824058": {
    "id": "oa:W7131824058",
@@ -150923,7 +151074,9 @@
    "url": "https://doi.org/10.1093/biomtc/ujag173",
    "doi": "10.1093/biomtc/ujag173",
    "pdf": "https://doi.org/10.64898/2026.02.25.707521",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4387161269": {
    "id": "oa:W4387161269",
@@ -150942,7 +151095,9 @@
    "url": "https://doi.org/10.1093/biomet/asag039",
    "doi": "10.1093/biomet/asag039",
    "pdf": "https://doi.org/10.1093/biomet/asag039",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399110543": {
    "id": "oa:W4399110543",
@@ -150958,7 +151113,9 @@
    "url": "https://doi.org/10.1093/jjfinec/nbag020",
    "doi": "10.1093/jjfinec/nbag020",
    "pdf": "https://doi.org/10.2139/ssrn.4846040",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7213581398": {
    "id": "oa:W7213581398",
@@ -150976,7 +151133,9 @@
    "url": "https://doi.org/10.1093/jjfinec/nbag021",
    "doi": "10.1093/jjfinec/nbag021",
    "pdf": "https://arxiv.org/pdf/2412.09517",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7214369880": {
    "id": "oa:W7214369880",
@@ -150995,7 +151154,9 @@
    "url": "https://doi.org/10.1093/jjfinec/nbag023",
    "doi": "10.1093/jjfinec/nbag023",
    "pdf": "https://doi.org/10.1093/jjfinec/nbag023",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7219112465": {
    "id": "oa:W7219112465",
@@ -151018,7 +151179,9 @@
    "url": "https://doi.org/10.1093/jjfinec/nbag018",
    "doi": "10.1093/jjfinec/nbag018",
    "pdf": "https://doi.org/10.1093/jjfinec/nbag018",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7233876466": {
    "id": "oa:W7233876466",
@@ -151036,7 +151199,9 @@
    "url": "https://doi.org/10.1093/jjfinec/nbag022",
    "doi": "10.1093/jjfinec/nbag022",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W1879262525": {
    "id": "oa:W1879262525",
@@ -151049,12 +151214,14 @@
     "Bárbara Petrongolo"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "Using microdata for the UK and Germany, we provide novel evidence on the cyclical properties of reservation wages and estimate that wages and reservation wages are characterized by moderate and very similar degrees of cyclicality. Several job search models that quantitatively match the cyclicality of wages tend to overpredict the cyclicality in reservation wages. We show that this puzzle can be addressed when reservation wages display backward-looking reference dependence. Model calibrations that allow for reference dependence match the empirically observed cyclicality of wages and reservation wages for plausible value of all other model parameters.",
    "url": "https://doi.org/10.1162/rest_a_01523",
    "doi": "10.1162/rest_a_01523",
    "pdf": "https://ora.ox.ac.uk/objects/uuid:f4860bbc-3371-4b03-b0eb-f46ae9d38dfd/files/r02870z03z",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399765195": {
    "id": "oa:W4399765195",
@@ -151066,12 +151233,14 @@
     "Yotam Shem-Tov"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "Researchers using instrumental variables to investigate ordered treatments often recode treatment into an indicator for any exposure. We investigate this estimand under the assumption that the instruments shift compliers from no treatment to some but not from some treatment to more. We show that when extensive margin compliers only (EMCO) exist, this estimand captures a weighted average of treatment effects that can be partially unbundled into each complier group’s potential outcome means. We also establish an equivalence between EMCO and a two-factor selection model and apply our results to study treatment heterogeneity in the Oregon Health Insurance Experiment.",
    "url": "https://doi.org/10.1162/rest_a_01462",
    "doi": "10.1162/rest_a_01462",
    "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712300/pdf/nihms-2066937.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872685": {
    "id": "oa:W4401872685",
@@ -151082,12 +151251,14 @@
     "Cameron A. Shelton"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "Applying a media market boundary approach to individual survey data, I show that political advertising on television increases the probability that viewers who identify with a party will espouse its positions, prefer its candidates, and turn out to vote. This is true no matter which party sponsored the ad, suggesting that an ad consolidates and motivates the sponsor’s partisans while simultaneously engendering a countervailing consolidation and mobilization among supporters of the other party. My results are consistent with agents who judge a source’s quality by their priors and highlight the importance of targeting supporters.",
    "url": "https://doi.org/10.1162/rest_a_01491",
    "doi": "10.1162/rest_a_01491",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872750": {
    "id": "oa:W4401872750",
@@ -151100,12 +151271,14 @@
     "Hailun Wei"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
-   "abstract": "We investigate the fake divorce activities associated with the home-buying restriction policy in China. We find that the policy increased divorce rate (marriage restoration rate) in the treated cities by 0.436 (0.195) permillage point relative to the control cities. This explains a 19.9% increase in the overall national divorce rate, of which at least 45% can be interpreted as fake divorces. Moreover, we find that the main responders to this policy are people who are older, childless, less educated, and wealthier. Finally, we show that the fraudulent behavior has significant implications for market efficiency, intra- and interhousehold wealth inequality, and other consequences.",
+   "date": "2026-11-01",
+   "abstract": "We investigate the fake divorce activities associated with the home-buying restriction policy in China. We find that the policy increased divorce rate (marriage restoration rate) in the treated cities by 0.436 (0.195) permillage points relative to the control cities. This explains a 19.9% increase in the overall national divorce rate, of which at least 45% can be interpreted as fake divorces. Moreover, we find that the main responders to this policy are people who are older, childless, less educated, and wealthier. Finally, we show that the fraudulent behavior has significant implications for market efficiency, intra- and interhousehold wealth inequality, and other consequences.",
    "url": "https://doi.org/10.1162/rest_a_01480",
    "doi": "10.1162/rest_a_01480",
    "pdf": "https://doi.org/10.2139/ssrn.4637419",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872786": {
    "id": "oa:W4401872786",
@@ -151118,12 +151291,14 @@
     "Ahmed Sadek Yousuf"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
-   "abstract": "We augment Henderson et al. (2012)’s two-signal model of true GDP growth with a third signal to overcome its underidentification problem. The additional moment conditions from the third signal help fully identify all model parameters without ad-hoc calibrations of the GDP’s signal-to-noise ratio. We characterize the necessary properties of the third signal. Using the model, we recover the optimal weight of official GDP in the composite true GDP growth estimates, which varies with the quality of the national statistics. The model improves on existing methodologies that use signals to measure true income.",
+   "date": "2026-11-01",
+   "abstract": "We augment Henderson et al.'s (2012) two-signal model of true GDP growth with a third signal to overcome its underidentification problem. The additional moment conditions from the third signal help fully identify all model parameters without ad-hoc calibrations of the GDP’s signal-to-noise ratio. We characterize the necessary properties of the third signal. Using the model, we recover the optimal weight of official GDP in the composite true GDP growth estimates, which varies with the quality of the national statistics. The model improves on existing methodologies that use signals to measure true income.",
    "url": "https://doi.org/10.1162/rest_a_01489",
    "doi": "10.1162/rest_a_01489",
    "pdf": "https://doi.org/10.2139/ssrn.4526305",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872810": {
    "id": "oa:W4401872810",
@@ -151136,12 +151311,14 @@
     "Pulak Ghosh"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
-   "abstract": "Using a staggered installation of sanitary pad vending machines across schools in the Indian state of Kerala, we study the impacts of free monthly access to sanitary pads on girls’ educational outcomes. We find that the number of dropouts among female students in the 7th grade decrease by 24 percentage points and the attendance rate increases by 23 percentage points after the treatment. Our results are mainly driven by girls in backward-caste, rural schools, and public schools, supporting the idea that free distribution of sanitary pads alleviates cost of obtaining sanitary pads.",
+   "date": "2026-11-01",
+   "abstract": "Using a staggered installation of sanitary pad vending machines across schools in the Indian state of Kerala, we study the impacts of free monthly access to sanitary pads on girls’ educational outcomes. We find that the number of dropouts among female students in the 7th grade decreases by 24 percentage points and the attendance rate increases by 23 percentage points after the treatment. Our results are mainly driven by girls in backward-caste, rural schools, and public schools, supporting the idea that free distribution of sanitary pads alleviates cost of obtaining sanitary pads.",
    "url": "https://doi.org/10.1162/rest_a_01479",
    "doi": "10.1162/rest_a_01479",
    "pdf": "https://doi.org/10.2139/ssrn.4189740",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872872": {
    "id": "oa:W4401872872",
@@ -151152,12 +151329,14 @@
     "Matthew Read"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "I estimate impulse responses to a 100 basis point U.S. monetary policy shock using set-identified structural vector autoregressions. Identified sets for these responses may be unbounded when the identifying restrictions admit zero impact response of the federal funds rate following a standard-deviation shock. Such a zero response is always admissible when there are fewer sign and zero restrictions than endogenous variables. This is the case under existing restrictions on the systematic component of monetary policy, which consequently yield uninformative identified sets. Additional sign and narrative restrictions yield informative identified sets and imply smaller output responses than some previous estimates.",
    "url": "https://doi.org/10.1162/rest_a_01492",
    "doi": "10.1162/rest_a_01492",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872880": {
    "id": "oa:W4401872880",
@@ -151171,29 +151350,33 @@
     "E. Anna Weber"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "We present new findings about the relationship between marriage and socioeconomic background in the United States in the late 19th and early 20th centuries. Imputing the socioeconomic status of family of origin from first names, we document a socioeconomic gradient for women in the probability of marriage and the socioeconomic status of husbands, which widens over this period. Regional divergence in occupational structure explains half of the divergence in the probability of marriage, and most of the increase in marital sorting. Urbanization and the associated improvement in women’s labor market opportunities drive most of these differences.",
    "url": "https://doi.org/10.1162/rest_a_01481",
    "doi": "10.1162/rest_a_01481",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872881": {
    "id": "oa:W4401872881",
    "topic": "econ-stats",
    "origin": "OpenAlex",
-   "title": "First Sale Doctrine and Public Library Provision of Print and Electronic Books",
+   "title": "The First Sale Doctrine and Public Library Provision of Print and Electronic Books",
    "authors": [
     "Imke Reimers",
     "Joel Waldfogel"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "Libraries deliver the majority of U.S. book consumption, and library costs are kept low by the first sale doctrine’s guarantee that libraries can lend print books without additional compensation to publishers. However, publishers’ decisions to restrict electronic book (ebook) access may threaten libraries. We measure impacts of holdings on circulation, and library holdings choices suggest that library managers value instances of ebook circulation more than print. We use a structural model of patron demand and library holdings to show that more restrictive print book terms would have ten times the negative patron welfare impact of an equivalent restriction on ebooks.",
    "url": "https://doi.org/10.1162/rest_a_01488",
    "doi": "10.1162/rest_a_01488",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402824061": {
    "id": "oa:W4402824061",
@@ -151206,12 +151389,14 @@
     "Evan Penniman Starr"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "Do firms value court enforceability of their workers’ noncompete agreements (NCAs)? We leverage a 2020 Washington law that made NCAs unenforceable for workers earning less than $100k per year. If firms value the ability to enforce NCAs in court, then they should give just-below threshold workers raises to reach the threshold, resulting in excess mass just above the threshold. Using administrative data, we find no evidence of bunching, even where efficiency arguments are most plausible. A survey of Washington employment attorneys suggests little bunching because firms rarely need to enforce NCAs and because firms can use other, less restrictive alternatives.",
    "url": "https://doi.org/10.1162/rest_a_01505",
    "doi": "10.1162/rest_a_01505",
    "pdf": "https://doi.org/10.2139/ssrn.4364674",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402837264": {
    "id": "oa:W4402837264",
@@ -151224,12 +151409,14 @@
     "Isabelle Sin"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "How does persecution affect who migrates? We analyze migrants’ self-selection out of the USSR and its satellite states before and after the collapse of Communism using census microdata. We find that migrants arriving before and around the time of the collapse (who were more likely to have moved because of persecution) were more educated and obtained better labor market outcomes than those arriving later. This change is not fully explained by the removal of Communist-era emigration restrictions. Instead, we show both theoretically and empirically that this pattern is consistent with more positive self-selection of migrants who are motivated by persecution.",
    "url": "https://doi.org/10.1162/rest_a_01512",
    "doi": "10.1162/rest_a_01512",
    "pdf": "https://doi.org/10.2139/ssrn.4153097",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4402839873": {
    "id": "oa:W4402839873",
@@ -151241,12 +151428,14 @@
     "Ana Costa-Ramón"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "We provide novel evidence on the causal impact of a child’s health shock on parents’ labor market outcomes. Using high-quality Finnish and Norwegian administrative data, we construct counterfactuals for treated households with families who experience the same shock in later years. We find a sharp break in mothers’ earnings trajectories after the event, while we do not find significant effects for fathers. Our findings do not align with the hypothesis of household specialization explaining these adjustments. Instead, the evidence suggests that these changes are driven by increased caregiving demands, with mothers bearing the primary burden. We also document a substantial impact on parents’ mental well-being.",
    "url": "https://doi.org/10.1162/rest_a_01499",
    "doi": "10.1162/rest_a_01499",
    "pdf": "https://www.zora.uzh.ch/handle/20.500.14742/223546",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4403726611": {
    "id": "oa:W4403726611",
@@ -151258,12 +151447,14 @@
     "Noud P.A. van Giersbergen"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "We derive a new powerful, simple test for mediation. Testing for mediation is empirically important and the no-mediation hypothesis H0:θ1θ2=0 poses a theoretical problem, nonregular at the origin, where standard tests have extremely low rejection probabilities. We prove that a similar test only exists if 1/α∈N. It is unique, but with unfortunate properties. An innovative varying-g method is introduced to derive a nearly similar test, gopt, with power close to the envelope without these undesirable properties, and a second, less similar test, g1.2, with more empirical appeal. Results are illustrated in an educational setting.",
    "url": "https://doi.org/10.1162/rest_a_01465",
    "doi": "10.1162/rest_a_01465",
    "pdf": "https://arxiv.org/pdf/2012.11342",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404056052": {
    "id": "oa:W4404056052",
@@ -151276,12 +151467,14 @@
     "Etienne Vaccaro-Grange"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "An apparent disconnect has taken place between inflation and economic activity in the pre-COVID U.S. economy, causing some to believe that the Phillips curve has flattened. We argue that this view may be premature. Using New Keynesian theory and estimated SVAR models, we decompose fluctuations in U.S. macro data into the components driven by demand and supply disturbances, and confront the inflation disconnect with some simple arithmetics. This exercise confirms a relatively stable Phillips curve slope while the demand curve has flattened substantially. Our results are consistent with a shift towards firmer monetary policy commitment to inflation stability.",
    "url": "https://doi.org/10.1162/rest_a_01524",
    "doi": "10.1162/rest_a_01524",
    "pdf": "https://hdl.handle.net/11250/3050868",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404056313": {
    "id": "oa:W4404056313",
@@ -151295,12 +151488,14 @@
     "Victoria M. Udalova"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "We use linked survey and administrative data to document differences across multiple socio-economic and demographic groups in the extent of adverse economic and health impacts of the first two years of the COVID-19 pandemic in the United States. Across a wide set of characteristics-including race/ethnicity, education, industry, and occupation-the impacts of the pandemic on all-cause mortality and on employment were disproportionately concentrated in the same groups in the population. As the pandemic progressed, disparities in the pandemic's mortality impacts narrowed substantially between Black and White Americans and between Hispanic and White Americans, but persisted along the educational divide. For economic damages, only Hispanic-White disparities narrowed; Black-White and educational disparities persisted for the first two years of the pandemic. We also document greater mortality impacts for lower income individuals, with this negative income-excess mortality gradient becoming steeper in the pandemic's second year. Together our findings-using a consistent set of methods and measures on nationally representative data with a wide set of measures of socio-economic status-paint a detailed picture of the heterogeneous impacts of the first two years of the COVID-19 pandemic on health and economic well-being.",
    "url": "https://doi.org/10.1162/rest_a_01518",
    "doi": "10.1162/rest_a_01518",
    "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13227505/",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4408349256": {
    "id": "oa:W4408349256",
@@ -151312,12 +151507,14 @@
     "Justin Sydnor"
    ],
    "journal": "The Review of Economics and Statistics",
-   "date": "2026-09-02",
+   "date": "2026-11-01",
    "abstract": "Individuals frequently make insurance choices that appear suboptimal, possibly reflecting difficulty mapping insurance contracts to their distribution of financial consequences. We develop and experimentally test a decision aid that provides this mapping in two experiments mirroring typical health insurance decisions. Compared to standard feature-based information, our distribution-based tool substantially reduces dominance violations and changes choice patterns across a range of menus. Under feature-based displays, choices can be most easily rationalized by models of heuristic choices, such as minimizing premium or deductible. With the decision aid, significantly more people have choice patterns that are better explained by expected utility theory.",
    "url": "https://doi.org/10.1162/rest_a_01572",
    "doi": "10.1162/rest_a_01572",
    "pdf": "https://doi.org/10.2139/ssrn.3718915",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W3175221418": {
    "id": "oa:W3175221418",
@@ -151334,7 +151531,9 @@
    "url": "https://doi.org/10.1162/rest_a_01498",
    "doi": "10.1162/rest_a_01498",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W3184369363": {
    "id": "oa:W3184369363",
@@ -151354,7 +151553,9 @@
    "url": "https://doi.org/10.1162/rest_a_01487",
    "doi": "10.1162/rest_a_01487",
    "pdf": "https://researchonline.lse.ac.uk/id/eprint/122568/1/LBKTdraft_95.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4390631957": {
    "id": "oa:W4390631957",
@@ -151372,7 +151573,9 @@
    "url": "https://doi.org/10.1162/rest_a_01511",
    "doi": "10.1162/rest_a_01511",
    "pdf": "https://cnrs.hal.science/hal-04362830/document",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4392927889": {
    "id": "oa:W4392927889",
@@ -151388,7 +151591,9 @@
    "url": "https://doi.org/10.1162/rest_a_01437",
    "doi": "10.1162/rest_a_01437",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4392927924": {
    "id": "oa:W4392927924",
@@ -151405,7 +151610,9 @@
    "url": "https://doi.org/10.1162/rest_a_01443",
    "doi": "10.1162/rest_a_01443",
    "pdf": "https://www.zora.uzh.ch/handle/20.500.14742/223019",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4396673596": {
    "id": "oa:W4396673596",
@@ -151423,7 +151630,9 @@
    "url": "https://doi.org/10.1162/rest_a_01457",
    "doi": "10.1162/rest_a_01457",
    "pdf": "http://dx.doi.org/10.2139/ssrn.4533253",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399765011": {
    "id": "oa:W4399765011",
@@ -151440,7 +151649,9 @@
    "url": "https://doi.org/10.1162/rest_a_01464",
    "doi": "10.1162/rest_a_01464",
    "pdf": "https://arxiv.org/pdf/2202.07150",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399765123": {
    "id": "oa:W4399765123",
@@ -151458,7 +151669,9 @@
    "url": "https://doi.org/10.1162/rest_a_01467",
    "doi": "10.1162/rest_a_01467",
    "pdf": "https://doi.org/10.5281/zenodo.24382145",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399765146": {
    "id": "oa:W4399765146",
@@ -151475,7 +151688,9 @@
    "url": "https://doi.org/10.1162/rest_a_01469",
    "doi": "10.1162/rest_a_01469",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399765155": {
    "id": "oa:W4399765155",
@@ -151491,7 +151706,9 @@
    "url": "https://doi.org/10.1162/rest_a_01470",
    "doi": "10.1162/rest_a_01470",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4399765169": {
    "id": "oa:W4399765169",
@@ -151509,8 +151726,10 @@
    "abstract": "We document the individual willingness to act against climate change and study the role of social norms in a large sample of U.S. adults. Individual beliefs about social norms positively predict pro-climate donations, comparable in strength to universal moral values and economic preferences. However, we document systematic misperceptions of social norms. Respondents vastly underestimate the prevalence of climate-friendly behaviors and norms. Correcting these misperceptions in an experiment causally raises individual willingness to act against climate change and individual support for climate policies. The effects are strongest for individuals who are skeptical about the existence and threat of global warming.",
    "url": "https://doi.org/10.1162/rest_a_01468",
    "doi": "10.1162/rest_a_01468",
-   "pdf": "https://doi.org/10.1162/rest_a_01468",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://direct.mit.edu/rest/article-pdf/doi/10.1162/rest_a_01468/2383833/rest_a_01468.pdf",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872776": {
    "id": "oa:W4401872776",
@@ -151529,7 +151748,9 @@
    "url": "https://doi.org/10.1162/rest_a_01482",
    "doi": "10.1162/rest_a_01482",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4401872936": {
    "id": "oa:W4401872936",
@@ -151547,7 +151768,9 @@
    "url": "https://doi.org/10.1162/rest_a_01490",
    "doi": "10.1162/rest_a_01490",
    "pdf": "https://www.econstor.eu/bitstream/10419/297414/1/swp2023-29.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404056053": {
    "id": "oa:W4404056053",
@@ -151564,7 +151787,9 @@
    "url": "https://doi.org/10.1162/rest_a_01520",
    "doi": "10.1162/rest_a_01520",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404077033": {
    "id": "oa:W4404077033",
@@ -151582,7 +151807,9 @@
    "url": "https://doi.org/10.1162/rest_a_01527",
    "doi": "10.1162/rest_a_01527",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4412444362": {
    "id": "oa:W4412444362",
@@ -151599,7 +151826,9 @@
    "url": "https://doi.org/10.1162/rest.a.271",
    "doi": "10.1162/rest.a.271",
    "pdf": "https://kclpure.kcl.ac.uk/portal/files/364469013/migrec_restat_final_061725.pdf",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7128642486": {
    "id": "oa:W7128642486",
@@ -151617,8 +151846,10 @@
    "abstract": "Generative AI (GenAI) tools are increasingly used for legal tasks, including legal research, drafting documents, and even for legal decision-making. As for other sectors, the use of GenAI in the legal domain comes with various risks and benefits that need to be properly managed to ensure implementation in a way that serves public values and protects human rights. While the EU mandates risk assessment and audits before market introduction for some use cases (e.g., administration of justice), other use cases do not fall under the AI Act’s high-risk classifications (e.g., legal consultation). Further, current risk management practices prioritise expert judgement on risk factor identification and prioritisation without a corresponding legal requirement to consult with affected communities. Seeing the societal importance of the legal sector and the potentially transformative impact of GenAI, the acceptability and legitimacy of GenAI solutions also depend on a better understanding of the risks and benefits citizens associate with the use of GenAI and under which conditions citizens find the use of GenAI in the legal domain acceptable. As a response, this paper presents data from a representative sample of German citizens ( n = 488) outlining citizens’ perspectives on the use of GenAI for two legal tasks: legal consultation and legal mediation. Concretely, we (i) systematically map risks and benefit factors for both legal tasks, (ii) describe predictors that influence risk acceptance of the use of GenAI for those tasks, and (iii) highlight emerging trade-off themes that citizens engage in when weighing up risk acceptability.",
    "url": "https://doi.org/10.1017/dap.2026.10108",
    "doi": "10.1017/dap.2026.10108",
-   "pdf": "https://doi.org/10.1017/dap.2026.10108",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/72EAEF0FC398EEC7C078E907C5257196/S2632324926101084a.pdf/div-class-title-trade-offs-in-deploying-legal-ai-insights-from-a-public-opinion-study-to-guide-ai-risk-management-div.pdf",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7164302415": {
    "id": "oa:W7164302415",
@@ -151637,8 +151868,10 @@
    "abstract": "We describe Chronos LTV, a system to measure the long-term impact of delays and other service defects on key business metrics. We use Markov decision processes to model customer interactions over time, and formalize our target estimand as the marginal policy effect with respect to moving the average delay rate. Given this setup, we show that we can identify long-term effects under a sequential unconfoundedness assumption where delays are as good as random given observed order characteristics; and can estimate these effects using a simple covariate-balancing algorithm.",
    "url": "https://doi.org/10.1162/99608f92.a1da0521",
    "doi": "10.1162/99608f92.a1da0521",
-   "pdf": "https://doi.org/10.1162/99608f92.a1da0521",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://hdsr.mitpress.mit.edu/pub/xa7s8y7q/download/pdf",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7171960887": {
    "id": "oa:W7171960887",
@@ -151658,7 +151891,9 @@
    "url": "https://doi.org/10.1007/s10994-026-07065-3",
    "doi": "10.1007/s10994-026-07065-3",
    "pdf": "https://doi.org/10.1007/s10994-026-07065-3",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236582514": {
    "id": "oa:W7236582514",
@@ -151674,7 +151909,9 @@
    "url": "https://doi.org/10.1177/01622439261502838",
    "doi": "10.1177/01622439261502838",
    "pdf": "https://doi.org/10.1177/01622439261502838",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236587707": {
    "id": "oa:W7236587707",
@@ -151689,8 +151926,10 @@
    "abstract": "This article examines how digital political communication, information pollution, and institutional change interact in processes of democratic erosion and polarization. Drawing on the case of Indonesia since 2014, it analyzes two interconnected dynamics: the weakening of institutions central to transparency, accountability, and access to information, and the increasing pollution of the digital information environment through coordinated influence operations and manipulated online content. The study further highlights the growing role of generative artificial intelligence in political communication, including the AI-supported image rebranding of candidates during the 2024 presidential election campaign, which raised concerns regarding electoral integrity and democratic discourse. Based on over 30 expert interviews, this article contributes to theory building by connecting debates in public administration and governance research on information integrity, transparency, and accountability with political science research on disinformation, polarization, and democratic change. It further argues that digitally mediated depolarization strategies may also serve to normalize elite collusion and reshape polarization dynamics in ways that affect social cohesion and democratic quality.",
    "url": "https://doi.org/10.1017/dap.2026.10090",
    "doi": "10.1017/dap.2026.10090",
-   "pdf": "https://doi.org/10.1017/dap.2026.10090",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FCCEB7023A0B7DE9007B38EA41A370C9/S263232492610090Xa.pdf/div-class-title-information-integrity-and-digital-information-pollution-in-indonesia-implications-for-democratic-governance-and-polarization-div.pdf",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236645752": {
    "id": "oa:W7236645752",
@@ -151710,7 +151949,8 @@
    "doi": "10.1007/s10614-026-11492-8",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7236646783": {
    "id": "oa:W7236646783",
@@ -151728,7 +151968,8 @@
    "doi": "10.1007/s43681-026-01548-8",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7236651762": {
    "id": "oa:W7236651762",
@@ -151744,8 +151985,10 @@
    "abstract": "Agentic AI systems now act, rather than merely advise, within social and institutional settings. The persistent gap lies less in principles than in deciding which obligations a deployment should attract as the relationships around it change. Risk-based regulation classifies by declared intended purpose and does not register the dependence that forms around a system once it is in use. We propose the Onto-Relational-Sophic (ORS) framework, whose core contribution is to treat that dependence, rated as social embedding, as a trigger for reclassification. A system-in-deployment is rated on autonomy, social embedding, and moral relevance; each rating triggers a module of obligations on providers, deployers, and institutions; nine explicit rules govern assignment, conflicts, and reclassification, including the rating of multi-agent ensembles as wholes and the prospective rating of systems designed to induce dependence; and categories serve as summary labels. Two supporting pillars, grounded in Cyberism, structure the framework: a Cyber-Physical-Social-Thinking ontology that organises the evidence for each rating, and Cybersophy, an axiology that applies a reversibility priority when principles conflict. Three scenarios and a structured comparison with existing EU law show where ORS converges with current obligations and where it adds to them, most clearly when people come to depend on one certified system in different ways. No legal personality is conferred on any system. The rating scales and rules are proposed rather than validated: the social-embedding instrument has not been tested for inter-rater reliability, and the worked classifications rest on the authors’ own ratings. A reliability study should precede regulatory use.",
    "url": "https://doi.org/10.1007/s43681-026-01546-w",
    "doi": "10.1007/s43681-026-01546-w",
-   "pdf": "https://doi.org/10.1007/s43681-026-01546-w",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01546-w.pdf",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236666473": {
    "id": "oa:W7236666473",
@@ -151764,7 +152007,8 @@
    "doi": "10.1007/s10614-026-11476-8",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7236718192": {
    "id": "oa:W7236718192",
@@ -151785,8 +152029,10 @@
    "abstract": "Audio recordings in psychiatric practice offer valuable opportunities for objective mental health assessment and treatment monitoring. However, the sensitive nature of psychiatric audio data poses significant privacy challenges, and existing de-identification methods struggle to balance clinical utility with privacy protection. This study develops a multi-layer de-identification framework and evaluates its operational feasibility through a proof-of-concept simulation. By integrating insights from privacy engineering, digital psychiatry, and healthcare policy, we synthesized a novel three-layer framework: (1) voice transformation for biometric de-identification, (2) semantic protection for linguistic privacy, and (3) metadata sanitization to remove auxiliary identifiers. We mapped current methods to psychiatric-specific risks and performed comparative risk-utility analyses. We identified key privacy risks in psychiatric audio, including direct voice identification, behavioral inference, temporal pattern analysis, environmental leakage, and metadata-based re-identification. Our multi-layer framework addresses these risks more comprehensively than single-technique approaches. We also formulated privacy-utility optimization principles and implementation protocols adaptable to diverse clinical and regulatory contexts. This study introduces a framework for psychiatric audio de-identification. By unifying fragmented methods into a coherent, clinically informed structure, it offers actionable guidance for institutions and developers aiming to integrate audio tools while ensuring privacy. The framework lays a conceptual foundation for future empirical validation and technology development. To address the need for empirical operationalization, we further conducted a proof-of-concept simulation using public speech audio, synthetic psychiatric interview-like transcripts, and synthetic clinical workflow metadata. The simulation demonstrates that the three-layer framework can reduce speaker-linkage, semantic-identifier, and metadata-linkage risks while preserving key acoustic, semantic, and longitudinal utility indicators.",
    "url": "https://doi.org/10.1017/dap.2026.10106",
    "doi": "10.1017/dap.2026.10106",
-   "pdf": "https://doi.org/10.1017/dap.2026.10106",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E7A42A75A52E0F017C5BDCE2C1A76ED0/S2632324926101060a.pdf/div-class-title-a-multi-layer-de-identification-framework-for-psychiatric-audio-recordings-balancing-clinical-utility-and-privacy-protection-div.pdf",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236722968": {
    "id": "oa:W7236722968",
@@ -151803,7 +152049,8 @@
    "doi": "10.1007/s00146-026-03353-7",
    "pdf": "",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W7236774280": {
    "id": "oa:W7236774280",
@@ -151815,12 +152062,13 @@
    ],
    "journal": "Harvard Data Science Review",
    "date": "2026-11-19",
-   "abstract": "",
+   "abstract": "Policy decisions often rely on validated datasets that arrive months or years after they are most useful, often after the decision window has closed. Using an established data science framework, we examine where delays accumulate and where large language models (LLMs) can reduce analyst labor, most notably in data discovery, data wrangling, and parts of fitness-for-use assessment, while keeping governance and ethics human-led. Reduced labor is not the same as a shorter release interval, and we keep the two apart throughout. Two applied case studies ground the discussion. The first uses LLM agents to read thousands of public U.S. defense budget documents, identify programs that are likely intelligence-related, and produce a structured spending estimate from a corpus whose manual classification the underlying report describes as laborious and error-prone. The second uses LLM agents to map the global supply chains behind specific technologies from government statistics and published sources. For each framework stage, we describe the LLM-assisted workflow, the reductions in labor hours and in elapsed time reported in comparable settings (distinct quantities that do not move together and are better read as upper bounds than as causal estimates), the quality checks they enable, and the points where automation should remain limited. We then map the framework onto the Bureau of Justice Statistics corrections series and find the available compression bounded. For an established administrative series, the stages LLMs plausibly reach account for roughly half a month to a month and a half of a downstream interval of five to seventeen months, summed from the agency's published stage durations. That interval is dominated by stages these methods do not touch. The larger gains belong to new products and repurposed holdings, where discovery and fitness-for-use are live work rather than work already done in prior cycles.",
    "url": "https://doi.org/10.1162/99608f92.0a503188",
    "doi": "10.1162/99608f92.0a503188",
-   "pdf": "https://doi.org/10.1162/99608f92.0a503188",
+   "pdf": "https://hdsr.mitpress.mit.edu/pub/6zos537e/download/pdf",
    "first_seen": "2026-11-21T12:19:48+09:00",
-   "abs_tries": 1
+   "abs_tries": 1,
+   "ko_tries": 0
   },
   "oa:W7236825325": {
    "id": "oa:W7236825325",
@@ -151835,8 +152083,10 @@
    "abstract": "Persistent gender gaps in access to formal credit coexist with evidence that women borrowers exhibit repayment performance comparable to, and often stronger than, men’s. For prudential authorities, this raises a practical question: how can sex-disaggregated supervisory data inform the review of calibration assumptions without introducing borrower-level differentiation or compromising financial stability? This article provides a translational account of how routinely collected supervisory administrative data supported a narrowly scoped adjustment within a standardised provisioning framework. Its analytical claim is that a pooled provisioning parameter, ordinarily treated as a fixed technical input, can itself become an object of risk-based supervisory judgement. Drawing on regulatory texts, supervisory publications, and portfolio-level delinquency indicators, the article adjudicates this reading against two rivals—an inclusion-driven intervention and a targeted distributional policy—through documentary process tracing. The measure examined is a regulatory amendment of 23 July 2021, introducing a parameter-level adjustment to loan loss provisioning for eligible new non-revolving consumer loans to women borrowers without overdue payments, while leaving risk classification rules and the broader methodology unchanged. Post-reform monitoring records a differential stable in direction and magnitude, though the pre-reform and stress-period record is documentary: a transparency exercise conducted for this article establishes that the disaggregation was collected but not published, a distinction with implications for how evidentiary gaps in administrative data are diagnosed. The article contributes a procedural account of how disaggregated supervisory data can inform incremental adjustments within existing prudential mandates, and qualifies the reversibility claim in light of the political economy of regulatory withdrawal.",
    "url": "https://doi.org/10.1017/dap.2026.10107",
    "doi": "10.1017/dap.2026.10107",
-   "pdf": "https://doi.org/10.1017/dap.2026.10107",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/31674FE83ACA269FD7ADB5CC12062BF6/S2632324926101072a.pdf/div-class-title-from-supervisory-monitoring-to-prudential-calibration-translating-sex-disaggregated-administrative-data-into-standardised-provisioning-parameters-div.pdf",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236856065": {
    "id": "oa:W7236856065",
@@ -151853,8 +152103,10 @@
    "abstract": "We consider the problem of quantitatively assessing the conflict between knowledge bases in knowledge merging scenarios. Using the notion of Craig interpolation we define a series of disagreement measures and analyse their compliance with properties proposed in previous work by Potyka. We then focus on a study of computational complexity of various problems that occur when measuring disagreement. In particular, we shed some new lights on the complexity of dealing with interpolants in propositional logic, such as deciding whether a given formula is an interpolant and whether it is a (semantically) strongest or weakest interpolant. We also consider functional problems (determining strongest/weakest interpolants) and counting problems.",
    "url": "https://doi.org/10.1613/jair.1.22972",
    "doi": "10.1613/jair.1.22972",
-   "pdf": "https://doi.org/10.1613/jair.1.22972",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "pdf": "https://www.jair.org/index.php/jair/article/download/22972/27387",
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7225799491": {
    "id": "oa:W7225799491",
@@ -151878,7 +152130,9 @@
    "url": "https://doi.org/10.1109/tpami.2026.3755119",
    "doi": "10.1109/tpami.2026.3755119",
    "pdf": "https://arxiv.org/pdf/2611.14491",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235850611": {
    "id": "oa:W7235850611",
@@ -151899,7 +152153,9 @@
    "url": "https://doi.org/10.1109/tpami.2026.3754462",
    "doi": "10.1109/tpami.2026.3754462",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7235869223": {
    "id": "oa:W7235869223",
@@ -151918,7 +152174,9 @@
    "url": "https://doi.org/10.1109/tnnls.2026.3748824",
    "doi": "10.1109/tnnls.2026.3748824",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236006533": {
    "id": "oa:W7236006533",
@@ -151940,7 +152198,9 @@
    "url": "https://doi.org/10.1109/tpami.2026.3754492",
    "doi": "10.1109/tpami.2026.3754492",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236497067": {
    "id": "oa:W7236497067",
@@ -151963,7 +152223,9 @@
    "url": "https://doi.org/10.1109/tpami.2026.3754812",
    "doi": "10.1109/tpami.2026.3754812",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7127939532": {
    "id": "oa:W7127939532",
@@ -151984,11 +152246,13 @@
    ],
    "journal": "Patterns",
    "date": "2026-11-01",
-   "abstract": "Large language models (LLMs) have achieved remarkable capabilities, yet methods to verify which model components are truly necessary for language function remain limited. Current interpretability approaches rely on internal metrics and lack external validation. Here we present the Brain-LLM Unified Model (BLUM), a framework that leverages lesion-symptom mapping, the gold standard for establishing causal brain-behavior relationships for over a century, as an external reference structure for evaluating LLM perturbation effects. Using data from individuals with chronic post-stroke aphasia (N = 410), we trained symptom-to-lesion models that predict brain damage location from behavioral error profiles, applied systematic perturbations to transformer layers, administered identical clinical assessments to perturbed LLMs and human patients, and projected LLM error profiles into human lesion space. LLM error profiles were sufficiently similar to human error profiles that predicted lesions corresponded to actual lesions in error-matched humans above chance in 67% of picture naming conditions (p < 10^{-23}) and 68.3% of sentence completion conditions (p < 10^{-61}), with semantic-dominant errors mapping onto ventral-stream lesion patterns and phonemic-dominant errors onto dorsal-stream patterns. These findings open a new methodological avenue for LLM interpretability in which clinical neuroscience provides external validation, establishing human lesion-symptom mapping as a reference framework for evaluating artificial language systems and motivating direct investigation of whether behavioral alignment reflects shared computational principles.",
+   "abstract": "Methods for deciding which components of a large language model (LLM) are necessary for language rely on measurements internal to the model, with no independent standard for what language processing actually requires. We present the Brain-LLM Unified Model (BLUM), which supplies that standard using human lesion-symptom mapping, the strongest causal evidence available about which neural tissue language depends on. Using the speech errors of individuals with chronic post-stroke aphasia, we trained models that predict where brain damage lies, perturbed transformer layers, administered the same clinical tests to perturbed LLMs and to patients, and projected the resulting error profiles into lesion space. Predicted lesions matched those of error-matched patients above chance in 67% of picture-naming and 68.3% of sentence-completion conditions. After a lesion pattern common to the cohort is removed, condition-specific correspondence averages r=0.32 and 0.30, with semantic errors mapping onto ventral-stream and phonemic errors onto dorsal-stream damage.",
    "url": "https://doi.org/10.1016/j.patter.2026.101720",
    "doi": "10.1016/j.patter.2026.101720",
    "pdf": "https://doi.org/10.1016/j.patter.2026.101720",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7143288749": {
    "id": "oa:W7143288749",
@@ -152009,7 +152273,9 @@
    "url": "https://doi.org/10.1145/3803798",
    "doi": "10.1145/3803798",
    "pdf": "https://doi.org/10.1145/3803798",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4405638131": {
    "id": "oa:W4405638131",
@@ -152029,7 +152295,9 @@
    "url": "https://doi.org/10.1145/3709145",
    "doi": "10.1145/3709145",
    "pdf": "https://doi.org/10.25405/ncl.34519968",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4407682179": {
    "id": "oa:W4407682179",
@@ -152047,7 +152315,9 @@
    "url": "https://doi.org/10.1145/3718093",
    "doi": "10.1145/3718093",
    "pdf": "https://doi.org/10.1145/3718093",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4410343639": {
    "id": "oa:W4410343639",
@@ -152065,7 +152335,9 @@
    "url": "https://doi.org/10.1145/3735647",
    "doi": "10.1145/3735647",
    "pdf": "https://doi.org/10.1145/3735647",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4410837890": {
    "id": "oa:W4410837890",
@@ -152085,7 +152357,9 @@
    "url": "https://doi.org/10.1145/3737650",
    "doi": "10.1145/3737650",
    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3737650",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4411490993": {
    "id": "oa:W4411490993",
@@ -152104,7 +152378,9 @@
    "url": "https://doi.org/10.1145/3744655",
    "doi": "10.1145/3744655",
    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3744655",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4414203821": {
    "id": "oa:W4414203821",
@@ -152122,7 +152398,9 @@
    "url": "https://doi.org/10.1145/3748514",
    "doi": "10.1145/3748514",
    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3748514",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4415622526": {
    "id": "oa:W4415622526",
@@ -152147,7 +152425,9 @@
    "url": "https://doi.org/10.1145/3773897",
    "doi": "10.1145/3773897",
    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3773897",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4416758523": {
    "id": "oa:W4416758523",
@@ -152170,7 +152450,9 @@
    "url": "https://doi.org/10.1145/3770065",
    "doi": "10.1145/3770065",
    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3770065",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4404021255": {
    "id": "oa:W4404021255",
@@ -152194,7 +152476,9 @@
    "url": "https://doi.org/10.1145/3702647",
    "doi": "10.1145/3702647",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4405734324": {
    "id": "oa:W4405734324",
@@ -152212,7 +152496,9 @@
    "url": "https://doi.org/10.1145/3709007",
    "doi": "10.1145/3709007",
    "pdf": "https://doi.org/10.1145/3709007",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4406760780": {
    "id": "oa:W4406760780",
@@ -152233,7 +152519,9 @@
    "url": "https://doi.org/10.1145/3714429",
    "doi": "10.1145/3714429",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4407839089": {
    "id": "oa:W4407839089",
@@ -152251,7 +152539,9 @@
    "url": "https://doi.org/10.1145/3719206",
    "doi": "10.1145/3719206",
    "pdf": "https://doi.org/10.1145/3719206",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4408869297": {
    "id": "oa:W4408869297",
@@ -152270,7 +152560,9 @@
    "url": "https://doi.org/10.1145/3725852",
    "doi": "10.1145/3725852",
    "pdf": "https://doi.org/10.1145/3725852",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4410344873": {
    "id": "oa:W4410344873",
@@ -152293,7 +152585,9 @@
    "url": "https://doi.org/10.1145/3735645",
    "doi": "10.1145/3735645",
    "pdf": "",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4412827322": {
    "id": "oa:W4412827322",
@@ -152315,7 +152609,9 @@
    "url": "https://doi.org/10.1145/3757923",
    "doi": "10.1145/3757923",
    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3757923",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7140294934": {
    "id": "oa:W7140294934",
@@ -152335,7 +152631,9 @@
    "url": "https://doi.org/10.1145/3797906",
    "doi": "10.1145/3797906",
    "pdf": "https://doi.org/10.1145/3797906",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236705024": {
    "id": "oa:W7236705024",
@@ -152351,7 +152649,800 @@
    "url": "https://doi.org/10.1145/3849877",
    "doi": "10.1145/3849877",
    "pdf": "https://doi.org/10.1145/3849877",
-   "first_seen": "2026-11-21T12:19:48+09:00"
+   "first_seen": "2026-11-21T12:19:48+09:00",
+   "abs_tries": 0,
+   "ko_tries": 0
+  },
+  "oa:W7237034724": {
+   "id": "oa:W7237034724",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Urban Politics of Homelessness Management: Municipal Decision-Making and Spatial Displacement",
+   "authors": [
+    "Mingqiu Jiang",
+    "Janson Peter",
+    "Yunpeng Fu"
+   ],
+   "journal": "The American Review of Public Administration",
+   "date": "2026-11-20",
+   "abstract": "Although increasing acknowledgment of homelessness as a housing issue, the spatial government of the un-housed people is highly political. This study uses a spatial political approach to assess how the practice of municipal decision-making generates geographically varied rates of homeless displacement in three large cities in the U.S. (Los Angeles, Portland, and San Francisco) between 2016 and 2023. We combine GIS-based encampment clearance data, council voting data, and political features of the neighborhood and apply the difference-in-differences estimation by taking advantage of three exogenous shocks: the 2018 Martin v. Boise judicial decision, mayoral changes, and COVID-19 emergency orders. The spatial lag and spatial error models reproduce the effects of diffusion across jurisdictions and neighborhoods. The findings indicate that conservative-leaning council districts expanded clearance work by 34% after Martin, whereas progressive districts cut by 18%. Mayoral changes created dramatic changes in displacement patterns, with new administrations showing 41% greater clearance rates during the first year. Spatial analysis reveals that there are substantial spillover impacts whereby aggressive enforcement in one neighborhood leads to a 23% encampment formation in nearby areas. These results indicate that the displacement of homelessness is not a technical management problem but rather a systematically distributed consequence of purposeful political decisions that have extensive consequences regarding the way cities can manage underprivileged groups in society.",
+   "url": "https://doi.org/10.1177/02750740261506495",
+   "doi": "10.1177/02750740261506495",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237070700": {
+   "id": "oa:W7237070700",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Rethinking priority-setting: why alignment behind country-led processes matters now more than ever",
+   "authors": [
+    "Altea Sitruk",
+    "Filip Meheus",
+    "Vittal Mogasale",
+    "Andrew Mirelman",
+    "Karin Stenberg",
+    "Edith Patouillard",
+    "Raymond Hutubessy",
+    "Kalipso Chalkidou",
+    "Anna Vassall"
+   ],
+   "journal": "Health Economics Policy and Law",
+   "date": "2026-11-20",
+   "abstract": "The financing of health systems in low-and middle-income countries is being challenged by difficult macro-fiscal conditions and a sharp decline in development assistance, while demands on health systems increase. Achieving sustainable universal health coverage requires institutionalising country-led, evidence-informed priority-setting processes (EIPS), and adopting a unified framework for benefits design. Such an approach can support alignment across funding, reduce fragmentation and improve allocative efficiency. Health systems strengthening investments must also be prioritised in line with nationally determined priorities. The institutionalisation of EIPS and health technology assessment requires dedicated resources to address current barriers. Scaling up regional and global collaborations is a key strategy to address fundamental challenges and gaps in the global evidence base for EIPS. Furthermore, new technologies including artificial intelligence present opportunities to facilitate evidence generation, sharing and use, but they must be used responsibly. Recent WHO restructuring provides an opportunity to strengthen WHO's role in standardisation of both evidence and data and in making the case for the use of EIPS and benefits frameworks.",
+   "url": "https://doi.org/10.1017/s1744133126100693",
+   "doi": "10.1017/s1744133126100693",
+   "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/03F1E11F712F071AE1634ACD0BD9A709/S1744133126100693a.pdf/div-class-title-rethinking-priority-setting-why-alignment-behind-country-led-processes-matters-now-more-than-ever-div.pdf",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237187073": {
+   "id": "oa:W7237187073",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Public support for AI environmental policies in Japan and South Korea-Inputs for adaptive governance",
+   "authors": [
+    "조윤빈",
+    "Shotaro Kinoshita",
+    "Shuo Wang",
+    "Yuko Ikkatai",
+    "H. Yokoyama"
+   ],
+   "journal": "Science and Public Policy",
+   "date": "2026-11-20",
+   "abstract": "Artificial intelligence (AI) can contribute to environmental sustainability while causing environmental problems. From the perspective of adaptive governance, we ask what the governments of Japan and South Korea would have to learn from their publics at the initial stage of adaptation. Using a 2024 survey of 700 citizens in each country, we find public support for a firm-targeted subsidy and a tax, with the tax receiving more support in both countries. Support was associated with concern about climate change and AI, and with anticipated environmental effectiveness. Trust in government was associated with subsidy support in Japan; no other trust association survived sensitivity analysis. Anticipated negative economic impact was associated with stronger tax support, though on a different time horizon in each country. We argue that support reaches further toward coercive instruments than innovation-first governance assumes, and that learning from it would require institutionalized citizen inputs and information on policy effects.",
+   "url": "https://doi.org/10.1093/scipol/scag097",
+   "doi": "10.1093/scipol/scag097",
+   "pdf": "https://doi.org/10.1093/scipol/scag097",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237206792": {
+   "id": "oa:W7237206792",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Citizens’ Preferences for Comparative Performance Information to Hold Government to Account",
+   "authors": [
+    "Oliver James",
+    "Amandine Lerusse",
+    "Jamie Mccauley"
+   ],
+   "journal": "Public Performance & Management Review",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/15309576.2026.2764991",
+   "doi": "10.1080/15309576.2026.2764991",
+   "pdf": "https://doi.org/10.1080/15309576.2026.2764991",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7237059643": {
+   "id": "oa:W7237059643",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Formal, informal and combined dispute-resolution pathways: institutional trust and self-reported justice attainment in Nepal",
+   "authors": [
+    "Pawan Singh"
+   ],
+   "journal": "International Review of Public Administration",
+   "date": "2026-11-19",
+   "abstract": "In Nepal, formal and informal dispute-resolution mechanisms coexist. Using nationally representative data from A Survey of the Nepali People 2020, this study examines the relationship between institutional pathways, institutional trust and self-reported justice attainment among 250 respondents who approached at least one institution. Survey-weighted logistic regression shows that informal-only users had higher odds of reporting justice than formal-only users (OR = 2.88, 95% CI: 1.28–6.47). Combined-pathway users also reported higher odds (OR = 2.03, 95% CI: 1.03–3.98), but did not differ significantly from informal-only users (OR = 0.70, p = 0.44). Exploratory findings suggest that this advantage is concentrated among institutionalized community mechanisms, particularly those interacting with ward offices and police. Institutional trust was positively associated with justice attainment (OR = 3.07), although reverse causality cannot be excluded. These findings are associational and highlight the importance of community-based mechanisms in Nepal’s hybrid justice system.",
+   "url": "https://doi.org/10.1080/12294659.2026.2765952",
+   "doi": "10.1080/12294659.2026.2765952",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7236996122": {
+   "id": "oa:W7236996122",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Do Organizational Researchers Report Their Priors? Reporting Guidelines for Bayesian Methods",
+   "authors": [
+    "Lau Holgersen"
+   ],
+   "journal": "Organizational Research Methods",
+   "date": "2026-11-20",
+   "abstract": "Bayesian methods are increasingly used in management and organizational research, yet the prior distributions on which they depend are often poorly reported. A systematic review of 89 empirical Bayesian studies across 15 leading journals (2001–2025) finds that more than a third do not disclose specific prior distributions and only half of those that mention priors justify their specific choices. In response, we offer seven reporting guidelines for authors, reviewers, and editors that span the specification, justification, and evaluation of priors, organized as a guide from considering Bayesian methods through to reporting priors. Each is grounded in a gap this review documents or in an established methodological practice. As Bayesian adoption broadens in this field, these checkpoints offer a minimum standard for ensuring that prior assumptions remain visible and evaluable.",
+   "url": "https://doi.org/10.1177/10944281261491765",
+   "doi": "10.1177/10944281261491765",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237012982": {
+   "id": "oa:W7237012982",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "Urban Climate Resilience and Corporate Investment Efficiency: Evidence From Waterlogging Governance Capacity",
+   "authors": [
+    "Zhangyixin Du"
+   ],
+   "journal": "Evaluation Review",
+   "date": "2026-11-20",
+   "abstract": "In this study, we investigate how urban climate resilience affects corporate investment efficiency. By using urban drainage pipeline density as a proxy for waterlogging governance capacity (WPG), we report that stronger urban WPG capacity significantly mitigates corporate investment inefficiency. The main empirical findings remain robust across a series of robustness tests. The results of the mechanism analysis suggest that urban WPG capacity enhances investment efficiency mainly by reducing physical impairment of fixed assets and easing external financing constraints. Additionally, heterogeneity analysis results reveal that this improvement effect is more pronounced in firms with higher proportions of fixed assets, higher inventory turnover ratios and fewer nonlocal subsidiaries. This study offers empirical support for the role of urban governance in mitigating climate shocks and enhancing the efficiency of corporate capital allocation.",
+   "url": "https://doi.org/10.1177/0193841x261509249",
+   "doi": "10.1177/0193841x261509249",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237261011": {
+   "id": "oa:W7237261011",
+   "topic": "methodology",
+   "origin": "OpenAlex",
+   "title": "The Advanced Mixed Methods Research Notation System (MMR-NS): A Framework for Transparent Reporting of Mixed Methods Research Incorporating Big Data and Machine Learning",
+   "authors": [
+    "Roslyn Cameron",
+    "Heinz Herrmann"
+   ],
+   "journal": "Journal of Mixed Methods Research",
+   "date": "2026-11-20",
+   "abstract": "The increasing use of big data in research presents several challenges to mixed methods researchers including ramifications for rigor and integrity, given the risks to validity directly related to overfitting, underfitting, and Black Box implications. The methodological contribution of the paper is threefold. Firstly, it offers conceptual clarity through a big data technology ecosystem framework. Secondly, through the presentation of the advanced mixed methods notation system (MMR-NS) which incorporates notations for big data and machine learning and aids in greater transparency in reporting. Lastly, applying the MMR-NS makes methodological decisions that carry validity risks when using big data in mixed methods research visible for scrutiny by readers, reviewers, and examiners, including the points at which an instrument or analytical step remains opaque.",
+   "url": "https://doi.org/10.1177/15586898261506807",
+   "doi": "10.1177/15586898261506807",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W3095138361": {
+   "id": "oa:W3095138361",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Deep Learning for Individual Heterogeneity*",
+   "authors": [
+    "Max H. Farrell",
+    "Tengyuan Liang",
+    "Sanjog Misra"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "This paper integrates deep neural networks (DNNs) into structural models to increase flexibility and capture rich heterogeneity while preserving interpretability. Economic (or scientific or domain-restricted) structure and machine learning are complements in empirical modeling, not substitutes: DNNs provide the capacity to learn complex, nonlinear heterogeneity, while the structure ensures the estimates remain interpretable and suitable for decision-making and policy analysis. We start with a standard parametric structural model and then enrich its parameters into fully flexible functions, which are estimated using a DNN with the model structure built in. We illustrate our framework with an application to demand estimation in consumer choice. We show that by enriching a demand model we can capture rich heterogeneity exploit it to create personalized pricing. Optimization is not possible without structure, but cannot be heterogeneous without machine learning. The same lessons apply to precision dosing, adaptive treatment, educational testing, and other targeting settings. We provide theoretical justification for our proposed methodology: nonasymptotic bounds and a novel and general influence function for feasible inference via double machine learning, so that the latter can be easily applied in numerous new contexts. These results may be of interest in other contexts as they generalize prior work.",
+   "url": "https://doi.org/10.1080/01621459.2026.2763634",
+   "doi": "10.1080/01621459.2026.2763634",
+   "pdf": "https://doi.org/10.1080/01621459.2026.2763634",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4387322635": {
+   "id": "oa:W4387322635",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Neyman-Pearson and equal opportunity: when economic efficiency meets societal fairness in classification",
+   "authors": [
+    "Jianqing Fan",
+    "Xin Tong",
+    "Yanhui Wu",
+    "Lucy Xia",
+    "Shunan Yao"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "Organizations often rely on statistical algorithms to make socially and economically impactful decisions. We must address the fairness issues in these important automated decisions. On the other hand, economic efficiency remains instrumental in organizations' survival and success. Therefore, a proper dual focus on fairness and efficiency is essential in promoting fairness in real-world data science solutions. Among the first efforts towards this dual focus, we incorporate the equal opportunity (EO) constraint into the Neyman-Pearson (NP) classification paradigm. Under this new NP-EO framework, we (a) derive the oracle classifier, (b) propose finite-sample based classifiers that satisfy population-level fairness and efficiency constraints with high probability, and (c) demonstrate statistical and social effectiveness of our algorithms on simulated and real datasets.",
+   "url": "https://doi.org/10.1080/01621459.2026.2763830",
+   "doi": "10.1080/01621459.2026.2763830",
+   "pdf": "https://arxiv.org/pdf/2310.01009",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4393929746": {
+   "id": "oa:W4393929746",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Nonparametric efficient causal estimation of the intervention-specific expected number of recurrent events with continuous-time targeted maximum likelihood and highly adaptive lasso estimation",
+   "authors": [
+    "Helene C. W. Rytgaard",
+    "Mark J. van der Laan"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "Longitudinal settings involving outcome, competing risks and censoring events occurring and recurring in continuous time are common in medical research, but are often analyzed with methods that do not allow for taking post-baseline information into account. In this work, we define statistical and causal target parameters via the g-computation formula by carrying out interventions directly on the product integral representing the observed data distribution in a continuous-time counting process model framework. In recurrent events settings our target parameter identifies the expected number of recurrent events also in settings where the censoring mechanism or post-baseline treatment decisions depend on past information of post-baseline covariates such as the recurrent event process. We propose a flexible estimation procedure based on targeted maximum likelihood estimation coupled with highly adaptive lasso estimation to provide a novel approach for double robust and nonparametric inference for the considered target parameter. We illustrate the methods in a simulation study.",
+   "url": "https://doi.org/10.1080/01621459.2026.2758421",
+   "doi": "10.1080/01621459.2026.2758421",
+   "pdf": "https://arxiv.org/pdf/2404.01736",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4399317869": {
+   "id": "oa:W4399317869",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Bayesian Deep Generative Models for Multiplex Networks with Multiscale Overlapping Clusters",
+   "authors": [
+    "Yuren Zhou",
+    "Yuqi Gu",
+    "David B. Dunson"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "Our interest is in multiplex network data with multiple network samples observed across the same set of nodes. Examples originate from a variety of fields, including brain connectivity, international trade networks, and social networks, among others. Our goal is to infer a hierarchical structure of the nodes at a population level, while performing multi-resolution clustering of the individual replicates. To accomplish this, we propose a Bayesian hierarchical model, provide theoretical support in terms of identifiability and posterior consistency, and design efficient methods for posterior computation. We provide novel technical tools for proving model identifiability, which are of independent interest. Our proposed methodology is demonstrated through numerical simulation and an application to brain connectome data.",
+   "url": "https://doi.org/10.1080/01621459.2026.2762546",
+   "doi": "10.1080/01621459.2026.2762546",
+   "pdf": "https://arxiv.org/pdf/2405.20936",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4404351353": {
+   "id": "oa:W4404351353",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "A robust regression approach to synthetic control with interference",
+   "authors": [
+    "Peiyu He",
+    "Jianping Li",
+    "Xu Shi",
+    "Miao Wang"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "Synthetic control methods are widely used for policy evaluation, but most existing approaches rule out interference among units, compromising validity when such effects are present. We develop a framework that accommodates contaminated donor pools and unknown interference patterns through two stages: factor-model adjustment for unobserved confounding, followed by robust regression in which direct and interference effects appear as a sparse outlier component. We study two asymptotic regimes. When the number of units is fixed and at least half are unaffected by interference, high-breakdown robust regression yields consistent identification of valid controls and asymptotically normal inference. When the number of units diverges, we allow for sparse large and dense weak interference, with robust M-estimation remaining valid even when the post-intervention period is short. Unlike existing approaches requiring prespecification of valid controls or parametric modeling of interference, our framework relies only on coarse sparsity information and enables formal inference on both direct and interference effects. We assess the proposed methods through simulations and two empirical applications. An analysis of the US embassy relocation to Jerusalem reveals significant interference effects on conflict outcomes in Jordan, and an analysis of Beijing's air pollution policy uncovers spatial interference patterns consistent with prevailing wind directions.",
+   "url": "https://doi.org/10.1080/01621459.2026.2761034",
+   "doi": "10.1080/01621459.2026.2761034",
+   "pdf": "https://arxiv.org/pdf/2411.01249",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4404407312": {
+   "id": "oa:W4404407312",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Optimal individualized treatment regimes for survival data with competing risks",
+   "authors": [
+    "Christina W. Zhou",
+    "Nikki L. B. Freeman",
+    "Katharine L. McGinigle",
+    "Michael R. Kosorok"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "Precision medicine leverages patient heterogeneity to estimate individualized treatment regimens, formalized, data-driven approaches designed to match patients with optimal treatments. In the presence of competing events, where multiple causes of failure can occur and one cause precludes others, it is crucial to assess the risk of the specific outcome of interest, such as one type of failure over another. This helps clinicians tailor interventions based on the factors driving that particular cause, leading to more precise treatment strategies. Currently, no precision medicine methods simultaneously account for both survival and competing risk endpoints. To address this gap, we develop a nonparametric individualized treatment regime estimator. Our two-phase method accounts for both overall survival from all events as well as the cumulative incidence of a main event of interest. Additionally, we introduce a multi-utility value function that incorporates both outcomes. We develop random survival and random cumulative incidence forests to construct individual survival and cumulative incidence curves. Simulation studies demonstrated that our proposed method performs well, which we applied to a cohort of peripheral artery disease patients at high risk for limb loss and mortality.",
+   "url": "https://doi.org/10.1080/01621459.2026.2764375",
+   "doi": "10.1080/01621459.2026.2764375",
+   "pdf": "https://arxiv.org/pdf/2411.08315",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4407424095": {
+   "id": "oa:W4407424095",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "CLaRe: A General Evaluation Framework for Selecting Compact Near-lossless Latent Representations of High-Dimensional Object Data",
+   "authors": [
+    "Emma Zohner",
+    "Edward Gunning",
+    "Giles Hooker",
+    "Jeffrey S. Morris"
+   ],
+   "journal": "Journal of Computational and Graphical Statistics",
+   "date": "2026-11-20",
+   "abstract": "Latent feature representation methods play an important role in dimension reduction and statistical modeling of high-dimensional complex data objects. However, existing approaches to evaluate these methods have two main drawbacks: they often rely on aggregate measures of information loss, such as average or total loss, which can mask variation across observations, and they typically do so using training rather than generalization error. CLaRe (Compact near-lossless Latent Representations) addresses these issues by estimating the distribution of individual generalization errors via cross-validation and controlling the worst-case error, or a tail quantile of the error distribution. CLaRe can assess any latent feature representation method with an encoder-decoder structure, including classical statistical methods and modern machine learning approaches. The framework is implemented in GLaRe Citation1 (Graphical Analysis of Latent Representations), an open-source R package. We demonstrate CLaRe in three case studies using high-dimensional datasets from diverse application areas, selecting among principal components, wavelets, and autoencoder representations for each dataset. The results show that the optimal representation depends on dataset characteristics, highlighting the need for a flexible evaluation framework. A simulation study in distributional data analysis additionally shows that, compared with conventional approaches based on total in-sample variance explained, selecting a representation using CLaRe can preserve individual-level characteristics that are important for valid downstream statistical modeling. R code scripts and data to reproduce the analysis are available at GitHub Citation2 .",
+   "url": "https://doi.org/10.1080/10618600.2026.2754090",
+   "doi": "10.1080/10618600.2026.2754090",
+   "pdf": "https://arxiv.org/pdf/2502.07084",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4415030343": {
+   "id": "oa:W4415030343",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Online Learning of Functional Principal Component Analysis for Multidimensional Functional Data",
+   "authors": [
+    "Muye Nanshan",
+    "Nan Zhang",
+    "Jiguo Cao"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "Multidimensional functional data streams arise in diverse scientific fields, yet their analysis poses significant challenges. We propose a novel online framework for functional principal component analysis that enables efficient and scalable modeling of such data. Our method represents functional principal components using tensor product splines, enforcing smoothness and orthonormality through a penalized framework on a Stiefel manifold. We develop an efficient Riemannian stochastic gradient descent algorithm and a Riemannian adaptive gradient (AdaGrad) variant, both utilizing iterative averaging techniques to stabilize the estimation and accelerate convergence. Additionally, a dynamic tuning strategy for smoothing parameter selection is developed based on a rolling averaged block validation score that adapts to the streaming nature of the data. Furthermore, we derive the asymptotic normality of the estimators and construct pointwise confidence intervals to quantify the uncertainty of the estimated functional principal components. Extensive simulations and real-world applications demonstrate the flexibility and effectiveness of this framework for analyzing multidimensional functional data.",
+   "url": "https://doi.org/10.1080/01621459.2026.2760593",
+   "doi": "10.1080/01621459.2026.2760593",
+   "pdf": "https://arxiv.org/pdf/2505.02131",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4415065370": {
+   "id": "oa:W4415065370",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Robust Causal Inference for EHR-based Studies of Point Exposures with Missingness in Eligibility Criteria",
+   "authors": [
+    "Luke Benz",
+    "Rajarshi Mukherjee",
+    "Rui Wang",
+    "David E Arterburn",
+    "Heidi J. Fischer",
+    "Catherine Lee",
+    "Susan M. Shortreed",
+    "Sebastien Haneuse",
+    "Alexander W. Levis"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "Missingness in variables that define study eligibility criteria is a seldom addressed challenge in electronic health record (EHR)-based settings. Patients with incomplete eligibility information are typically excluded from analysis without consideration of the (implicit) assumptions being made, leaving study conclusions subject to potential selection bias. In an effort to ascertain eligibility for more patients, researchers may look back further in time prior to study baseline, inappropriately including individuals who, unbeknownst to the researcher, would fail to meet eligibility at baseline. To the best of our knowledge, however, little work has been done to mitigate these concerns. We propose a robust and efficient estimator of the causal average treatment effect on the treated, defined in the study-eligible population, where eligibility-defining covariates are missing at random. The approach facilitates flexible machine-learning strategies for component nuisance functions while maintaining valid asymptotic inference. This method is applied to EHR data from Kaiser Permanente on 14,809 patients undergoing bariatric surgery, comparing two surgical interventions for long-term weight and glycemic outcomes among severely obese patients with type II diabetes mellitus. Our results confirm a weight-loss advantage for Roux-en-Y gastric bypass over sleeve gastrectomy, but are less suggestive of a diabetes remission advantage than complete-case analyses indicate.",
+   "url": "https://doi.org/10.1080/01621459.2026.2760596",
+   "doi": "10.1080/01621459.2026.2760596",
+   "pdf": "https://arxiv.org/pdf/2504.16230",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4417247961": {
+   "id": "oa:W4417247961",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Network cross-validation and model selection via subsampling",
+   "authors": [
+    "Sayan Chakrabarty",
+    "Srijan Sengupta",
+    "Yuguo Chen"
+   ],
+   "journal": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+   "date": "2026-11-20",
+   "abstract": "Complex and larger networks are becoming increasingly prevalent in scientific applications in various domains. Although a number of models and methods exist for such networks, cross-validation on networks remains challenging due to the unique structure of network data. In this paper, we propose a general cross-validation procedure called NETCROP (NETwork CRoss-validation using Overlapping Partitions—R Package). The key idea is to divide the original network into multiple subnetworks with a shared overlap part, producing training sets consisting of the subnetworks and a test set with the node pairs between the subnetworks. This train-test split provides the basis for a network cross-validation procedure that can be applied on a wide range of model selection and parameter tuning problems for networks. The method is computationally efficient for large networks as it uses smaller subnetworks for the training step. We provide methodological details and theoretical guarantees for several model selection and parameter tuning tasks using NETCROP. Numerical results demonstrate that NETCROP performs accurate cross-validation on a diverse set of network model selection and parameter tuning problems. The results also indicate that NETCROP is computationally much faster while being often more accurate than the existing methods for network cross-validation.",
+   "url": "https://doi.org/10.1093/jrsssb/qkag142",
+   "doi": "10.1093/jrsssb/qkag142",
+   "pdf": "https://arxiv.org/pdf/2504.06903",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237039492": {
+   "id": "oa:W7237039492",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Simultaneous Confidence Bands for Time-Varying Hazard Ratios with Interval-Censored Data",
+   "authors": [
+    "Mingya Long",
+    "D. Y. Lin",
+    "Donglin Zeng"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01621459.2026.2763643",
+   "doi": "10.1080/01621459.2026.2763643",
+   "pdf": "https://doi.org/10.1080/01621459.2026.2763643",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7237135896": {
+   "id": "oa:W7237135896",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Interactively Exploring High-Dimensional Data and Models in R.",
+   "authors": [
+    "Kris Sankaran"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01621459.2026.2762129",
+   "doi": "10.1080/01621459.2026.2762129",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7237239449": {
+   "id": "oa:W7237239449",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "High-Dimensional Probability: An Introduction with Applications in Data Science, 2nd ed.",
+   "authors": [
+    "Chihoon Lee"
+   ],
+   "journal": "Journal of the American Statistical Association",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01621459.2026.2762132",
+   "doi": "10.1080/01621459.2026.2762132",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W4402955015": {
+   "id": "oa:W4402955015",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Multivariate Inference of Network Moments by Subsampling",
+   "authors": [
+    "Mingyu Qi",
+    "Chen-Wei Hua",
+    "Tianxi Li",
+    "Wen Jia Zhou"
+   ],
+   "journal": "Biometrika",
+   "date": "2026-11-19",
+   "abstract": "Network moments–rescaled counts of motifs such as stars and triangles–are fundamental summaries of network structure, widely used in goodness-of-fit testing, model selection, and network comparison. While the univariate distribution of a single network moment can be approximated by subsampling, the consistency of subsampling for their joint distribution has remained unestablished. In this paper, we prove that node subsampling provides an asymptotically accurate approximation of the joint distribution of multiple network moments under a general sparse graphon model. The theoretical analysis requires a careful characterization of the dependence structure among network moments and the corresponding multivariate asymptotic convergence, going substantially beyond existing univariate results. Building on this foundation, we address a practically important open problem: comparing unmatchable networks with unequal edge densities. We propose a novel subsampling-based procedure that combines sparsification with a sample-splitting strategy. This yields the first subsampling-based inferential procedure valid for this setting, to our knowledge. We demonstrate the utility of multivariate subsampling inference through simulation studies and a real data application comparing coexpression networks of core and non-core genes in a study of parallel adaptation in Trinidadian guppies. The application illustrates how joint and conditional moment distributions can provide additional information about structural differences beyond marginal comparisons.",
+   "url": "https://doi.org/10.1093/biomet/asag077",
+   "doi": "10.1093/biomet/asag077",
+   "pdf": "https://arxiv.org/pdf/2409.01599",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7224112598": {
+   "id": "oa:W7224112598",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "Testing strong exogeneity in proxy SVARs with internal synthetic proxies",
+   "authors": [
+    "Sascha Alexander Keweloh",
+    "Shu Wang"
+   ],
+   "journal": "Journal of Econometrics",
+   "date": "2026-11-01",
+   "abstract": "Proxy SVARs often rely on a single credible proxy, leaving proxy exogeneity untestable. Narrative arguments used to justify proxy validity imply a stronger form of exogeneity. We formalize the strong exogeneity assumption and propose a corresponding test based on internal synthetic proxies. The approach uses the external proxy to locate the target-shock direction in the reduced-form innovations and synthesize the candidate shock into an additional internal synthetic proxies, which allows to test the joint exogeneity of the original and internal synthetic proxy. We derive the large-sample theory for the ISP test and show that the identification strength is governed by a direct measure of the target shock's non-Gaussianity. We study weak identification under asymptotic Gaussianity and develop an identification-robust version of the test. Monte Carlo experiments demonstrate the favorable power of the test when the proxy has a low signal-to-noise ratio. Applications to monetary policy and oil supply news shocks find no evidence against the exogeneity of the benchmark proxies.",
+   "url": "https://doi.org/10.1016/j.jeconom.2026.106354",
+   "doi": "10.1016/j.jeconom.2026.106354",
+   "pdf": "https://doi.org/10.1016/j.jeconom.2026.106354",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W4416026401": {
+   "id": "oa:W4416026401",
+   "topic": "econ-stats",
+   "origin": "OpenAlex",
+   "title": "A unified approach to generalized entropy calibration with missing data",
+   "authors": [
+    "Yonghyun Kwon",
+    "Jae Kwang Kim",
+    "Yumou Qiu"
+   ],
+   "journal": "Biometrics",
+   "date": "2026-10-07",
+   "abstract": "We propose a unified framework for constructing calibration weights under missing at random by maximizing a generalized entropy function subject to carefully chosen calibration constraints. The key idea is to embed three components into calibration constraints: (i) an outcome regression (OR) calibration constraint, (ii) a debiasing constraint tied to inverse-probability weighting, and (iii) a Neyman-orthogonality constraint with respect to the estimated response propensity (RP) model. This yields a single set of doubly robust weights whose limiting influence function is invariant to whether the OR model or the RP model is correctly specified, enabling doubly robust inference without requiring model selection or variance switching. We further show that, when the OR model is correct, a suitable choice of entropy weights minimizes the asymptotic variance within a broad class of generalized entropies. Simulation studies and an empirical application based on the National Health and Nutrition Examination Survey demonstrate improved stability and efficiency relative to augmented inverse probability weighting, empirical likelihood, exponential tilting, and other calibration methods, especially under model misspecification.",
+   "url": "https://doi.org/10.1093/biomtc/ujag192",
+   "doi": "10.1093/biomtc/ujag192",
+   "pdf": "https://arxiv.org/pdf/2511.04496",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237197139": {
+   "id": "oa:W7237197139",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Average-Oriented Opinion Dynamics with Heterogeneous Strategic Control",
+   "authors": [
+    "Liu Yanshan",
+    "Vladimir V. Mazalov",
+    "Hongwei Gao"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-11-21",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11496-4",
+   "doi": "10.1007/s10614-026-11496-4",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7108213389": {
+   "id": "oa:W7108213389",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From first principles to multi-scale decomposition: mutual information as a segregation index",
+   "authors": [
+    "Rohit Sahasrabuddhe",
+    "Renaud Lambiotte"
+   ],
+   "journal": "EPJ Data Science",
+   "date": "2026-11-20",
+   "abstract": "Segregation operates across demographic and spatial scales and requires careful and principled measurement. In this work, we derive mutual information from well-known general approaches to constructing segregation indices and interpret the mathematical properties that are unique to it. The properties relate mainly to its behaviour when demographic identities and spatial units are coarse-grained. Mutual information decomposes into the contributions of regions and supergroups, which reveals insights that would be inaccessible otherwise. We demonstrate this with an exploratory case study of residential ethnic segregation in England and Wales. Overall, we help researchers identify when mutual information is the only suitable segregation index and provide open source software to support multi-scale analysis.",
+   "url": "https://doi.org/10.1140/epjds/s13688-026-00716-4",
+   "doi": "10.1140/epjds/s13688-026-00716-4",
+   "pdf": "https://doi.org/10.1140/epjds/s13688-026-00716-4",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7128365373": {
+   "id": "oa:W7128365373",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Enabling lab autonomy with reward functions and executable workflows",
+   "authors": [
+    "Sergei V. Kalinin",
+    "Boris N. Slautin",
+    "Yu Liu",
+    "Elham Foadian",
+    "Gerd J. Duscher",
+    "Mahshid Ahmadi",
+    "Timur Bazhirov"
+   ],
+   "journal": "Nature Machine Intelligence",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s42256-026-01339-0",
+   "doi": "10.1038/s42256-026-01339-0",
+   "pdf": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.10002018/v1",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7237041771": {
+   "id": "oa:W7237041771",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Beneficence as an objective for AI agents: an empirical study of ethical discourse on Moltbook",
+   "authors": [
+    "Marianne Najm"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01517-1",
+   "doi": "10.1007/s43681-026-01517-1",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7237078034": {
+   "id": "oa:W7237078034",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From law to practice: model-level operationalization of technical governance requirements for high-risk AI in healthcare",
+   "authors": [
+    "Emilio Dolgener Cantú",
+    "David Mack",
+    "Katharina Weitz",
+    "Eva Weicken",
+    "Jackie Ma"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-20",
+   "abstract": "The European Union published the Artificial Intelligence Act (AI Act) in a strategic effort to align the development and application of Artificial Intelligence (AI) in the common market. This act, one of the first laws of its kind, strengthened the development of trustworthy and human-centered AI through new regulations, prescribing requirements that providers of AI systems must conform to. The Act prescribes model-level technical requirements for high-risk AI systems, such as in terms of accuracy, robustness and fairness, which are to be addressed and reported in the form of conformity assessments. We identify, however, a significant gap between the high-level legal descriptions provided in the law and the low-level requirements needed for the implementation of automated assessment tools for algorithmic auditing. This gap is a major obstacle in the operationalization of AI Act compliance. The difficulties are aggravated due the lack of harmonized AI standards and the existing heterogeneity of AI models, datasets, and tasks. To address this gap, we present an open-source proof-of-concept assessment tool to operationalize the technical requirements of the AI Act according to the current regulatory landscape. With this tool, we demonstrate a bottom-up interpretation of the technical requirements of the AI Act for an automated evaluation of accuracy, robustness, and fairness. We apply our work to two neural network-based healthcare applications and discuss the requirements for further integration to initial conformity assessment and to extended application to post-market monitoring and other algorithmic auditing frameworks. With further work, the base structure presented here can be applied for integration beyond healthcare to other AI high-risk application domains.",
+   "url": "https://doi.org/10.1007/s43681-026-01516-2",
+   "doi": "10.1007/s43681-026-01516-2",
+   "pdf": "https://doi.org/10.1007/s43681-026-01516-2",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237136864": {
+   "id": "oa:W7237136864",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Rethinking the AI Pharmakon - What Modern Medicine Has to Say to a Philosophical Figure",
+   "authors": [
+    "Wilhelm Haverkamp",
+    "Philipp Lacour",
+    "Ursula Plöckinger"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-11-20",
+   "abstract": "Readers of the philosophical literature on artificial intelligence (AI) will encounter an unexpected word, one that medicine has carried for two and a half millennia: pharmakon . Revitalised by Derrida and elaborated by Bernard Stiegler into a general theory of technology, the figure has lately been carried over to generative AI to capture the simultaneous enhancement and diminishment of cognition this technology produces in its users. The present paper argues that when philosophy borrows this word it should borrow it in full, in the sense it has acquired since Plato. The phármakon of contemporary clinical medicine is a relational object whose therapeutic or toxic character emerges in a specified encounter between substance, subject, and context. Stiegler’s pharmacology is itself relational, locating ambivalence in the process of transindividuation; but it does not provide an operational vocabulary for specifying how effects vary systematically between individual subjects. Clinical pharmacology provides such a vocabulary. Its accumulated learning — pharmacokinetic variability, pharmacogenetic polymorphism, idiosyncratic susceptibility, drug–drug interaction, therapeutic window, tolerance, withdrawal, and expectancy effects — has cognitive analogues in human interaction with large language models (LLMs) that have not yet been developed into a coherent pharmacological vocabulary and that early empirical research is beginning to measure. The paper proposes a reframing from the generic to the respondent pharmakon , not as a refutation of Stiegler’s pharmacology but as its specification at a level where clinical, pedagogical, and policy decisions can be made.",
+   "url": "https://doi.org/10.1007/s13347-026-01240-z",
+   "doi": "10.1007/s13347-026-01240-z",
+   "pdf": "https://doi.org/10.1007/s13347-026-01240-z",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237147149": {
+   "id": "oa:W7237147149",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Misconceptions of artificial intelligence: the modern seer as a synthesis of human knowledge without consciousness, emotion, or moral sill",
+   "authors": [
+    "Sarfaraz Niazi",
+    "Mikołaj Stańczak"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-20",
+   "abstract": "Artificial intelligence is often depicted in public discourse as either a compliant statistical instrument or an emerging entity endowed with knowledge, creativity, feelings, and intentions that may soon rival human capabilities. Both portrayals are fundamentally flawed, as they rely solely on observable performance and infer internal experiences from social appearances. This Viewpoint advocates for a more rigorous model: conceptualizing artificial intelligence as a modern seer, an intricate system that compresses, retrieves, and recombines recorded human knowledge at scales unattainable by any individual. The Viewpoint develops the seer from a metaphor into an analytical framework. The seer is a consulted but uncertified epistemic authority: its capabilities generate interaction cues, the cues invite inferences of understanding, emotion, intention, and authority, and governance must act on these cues and on the calibration of trust rather than on claims about a machine mind. This model clarifies both the practical utility of these systems and the misguided authority often attributed to them. It demonstrates that synthesis can generate novel insights without consciousness, that affective language can provide reassurance without genuine concern, and that value-sensitive recommendations can be produced without moral agency. These distinctions do not render the technology inherently safe, as systems lacking experience can still amplify errors, entrench biases, concentrate power, and undertake consequential actions. The field of drug development exemplifies these limitations: a model may integrate evidence throughout the pharmaceutical process; nevertheless, biological validation and accountable judgment remain essential. This discussion is no longer solely philosophical; regulatory bodies such as the United States Food and Drug Administration, the European Medicines Agency, the International Committee of Medical Journal Editors, and prominent scientific publishers have each adopted frameworks to evaluate context, risk, credibility, and transparency, none of which directly address machine consciousness. Institutions have already moved beyond metaphor-based policymaking. This Viewpoint encourages scientists and scholars to do the same. It identifies ten misconceptions, eight category errors and two factual errors, traces each to the interaction cue that produces it, and states what the framework adds to existing debates on anthropomorphism, stochastic parrots, responsibility gaps, and context-based governance. Addressing these misconceptions will change how AI systems are tested, trusted, and governed.",
+   "url": "https://doi.org/10.1007/s43681-026-01527-z",
+   "doi": "10.1007/s43681-026-01527-z",
+   "pdf": "https://doi.org/10.1007/s43681-026-01527-z",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237157049": {
+   "id": "oa:W7237157049",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Conscious machines revisited: embodiment, sentience, and the neuroethical imperative",
+   "authors": [
+    "James J. Giordano",
+    "Elise Annett"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01533-1",
+   "doi": "10.1007/s43681-026-01533-1",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7237204800": {
+   "id": "oa:W7237204800",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Conditional Flow Matching for Macroeconomic Dynamics: A Schrödinger Bridge Approach to Modeling Cross-Country GDP and Inflation",
+   "authors": [
+    "Alessandro Spelta",
+    "Paolo Pagnottoni",
+    "Nicoló Pecora"
+   ],
+   "journal": "Computational Economics",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s10614-026-11480-y",
+   "doi": "10.1007/s10614-026-11480-y",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7237229177": {
+   "id": "oa:W7237229177",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Embodied Access and the Formation of Clinical Attention",
+   "authors": [
+    "Philipp Kellmeyer"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-11-20",
+   "abstract": "Michelle Charette’s account of presence as embodied access provides a valuable framework for examining how clinical virtual reality structures opportunities for perception, action, and interaction. This commentary draws on cognitive science, psychology, and neurology, focusing on the hypothesis that repeated virtual encounters may influence clinical attention and conduct. Three proposed experiments would distinguish the effects of visual realism and tactile contact, examine responses to contingent patient behavior, and assess transfer to standardized patient encounters outside virtual reality. Qualitative descriptions would complement behavioral measures to characterize how trainees experience these environments. Considering trainees’ sensory capacities and patients’ communication needs extends the framework to accessible training and responsive care. The commentary proposes evaluating simulations through the clinical orientations they enable learners to practice and potentially carry into patient care.",
+   "url": "https://doi.org/10.1007/s13347-026-01244-9",
+   "doi": "10.1007/s13347-026-01244-9",
+   "pdf": "https://doi.org/10.1007/s13347-026-01244-9",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237250387": {
+   "id": "oa:W7237250387",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Historical higher-order collaboration topology and inventor-level patent outcomes",
+   "authors": [
+    "Jianming Guo",
+    "Alex J. Yang",
+    "Yuehua Zhao",
+    "Hao Wang",
+    "Sanhong Deng"
+   ],
+   "journal": "EPJ Data Science",
+   "date": "2026-11-20",
+   "abstract": "Collaborators appearing together on an inventor’s current patents may have very different histories of joint patenting. Using 774,371 inventor–year observations from 82,926 inventors in USPTO utility patent data, we construct event-based simplicial complexes of prior patenting among each inventor’s current collaborators. The zeroth Betti number ( $\\beta _{0}$ β 0 ) counts connected components that are also observable in pairwise graphs, whereas the first Betti number ( $\\beta _{1}$ β 1 ) identifies unfilled cycles that depend on joint-event information. We examine these complementary descriptors in relation to inventor-level patent outcomes, with Inventors’ Disruptive Citations (IDC) as the principal citation outcome. After adjustment for collaborator-set size and other covariates, $\\beta _{0}$ β 0 exhibits a fitted inverted-U-shaped association with IDC: expected IDC increases over most observed component counts but at a diminishing rate, while the fitted decline lies in a sparsely populated upper tail. The presence of unfilled cycles is associated with modestly higher cumulative IDC ( $\\mathrm{IRR} = 1.077$ IRR = 1.077 ), although this positive association does not persist after accounting for contemporaneous patenting volume. Similar fitted $\\beta _{0}$ β 0 patterns appear for consolidating citations, the inventor–year Total CD index, productivity and claim count. $\\beta _{1}$ β 1 is positively associated with the latter three outcomes, but its association with consolidating citations is uncertain. The $\\beta _{0}$ β 0 –IDC association varies across 13 application periods and Main CPC sections A–H. The findings describe outcome-dependent associations of historical collaboration connectivity and event-dependent topology, with limited incremental fit for cumulative IDC.",
+   "url": "https://doi.org/10.1140/epjds/s13688-026-00718-2",
+   "doi": "10.1140/epjds/s13688-026-00718-2",
+   "pdf": "https://doi.org/10.1140/epjds/s13688-026-00718-2",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237271028": {
+   "id": "oa:W7237271028",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From principles to systems: reframing AI ethics as a dynamic governance architecture",
+   "authors": [
+    "Connor Nitchals"
+   ],
+   "journal": "AI and Ethics",
+   "date": "2026-11-20",
+   "abstract": "",
+   "url": "https://doi.org/10.1007/s43681-026-01509-1",
+   "doi": "10.1007/s43681-026-01509-1",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7214138898": {
+   "id": "oa:W7214138898",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From AGI to AI Welfare: Computational Functionalism and Its Consequences",
+   "authors": [
+    "Marianna Bergamaschi Ganapini"
+   ],
+   "journal": "AI Magazine",
+   "date": "2026-11-19",
+   "abstract": "Claims that artificial intelligence has reached or is approaching artificial general intelligence (AGI) are increasingly widespread in both industry and academia. These claims typically rest on either behavioral benchmark tests or mechanistic interpretability findings. The engine driving this AGI optimism (and the fears that surround this milestone) rests on a view of the mind with origins in a philosophical, cognitive theory called functionalism: the view that cognitive and conscious properties depend on functional organization rather than on physical substrates. This article briefly traces the origins of this idea and examines some recent developments in this tradition that focus on AI welfare and even on possible AI rights. The conclusion of the paper is an invitation to consider the extraordinary consequences of extending welfare and even moral worth to non‐biological, non‐living systems. These consequences arguably demand a higher standard of epistemic justification in putting forward claims about AI consciousness and AGI than the current discourse, both in industry and in academia, has met.",
+   "url": "https://doi.org/10.1002/aaai.70115",
+   "doi": "10.1002/aaai.70115",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70115",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7236567986": {
+   "id": "oa:W7236567986",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "UATP: An Unsupervised Adaptive Transferable Predictor for Cross-Task and Cross-Space Neural Architecture Search",
+   "authors": [
+    "Yifan Wang",
+    "Boyu Hou",
+    "Xuefeng Chen",
+    "Jing Tang",
+    "Jie Li",
+    "Liang Feng",
+    "Kay Chen Tan"
+   ],
+   "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+   "date": "2026-11-19",
+   "abstract": "Performance prediction is a critical issue in neural architecture search (NAS), enabling efficient evaluation of candidate architectures without full training. Conventional predictors typically require large numbers of labeled architectures from the target domain, resulting in high computational costs. Knowledge transfer has thus been explored to alleviate this burden, but existing methods primarily focus on either cross-task transfer or cross-space transfer, while neglecting scenarios involving simultaneous variation in both. To address this limitation, in this article, we propose an Unsupervised Adaptive Transferable Predictor (UATP), a label-free approach applicable across diverse tasks and search spaces. UATP integrates a dual-branch encoder with a contrastive objective (CO) to jointly capture the topological and semantic characteristics of architectures, incorporates a domain-adversarial module to mitigate cross-domain discrepancies, and adopts a ranking-aware predictor to achieve accurate performance estimation in unlabeled target domains. Experiments on well-known spaces, i.e., NAS-Bench-101, NAS-Bench-201, and DARTS, across multiple vision benchmark tasks demonstrate that the proposed UATP consistently achieves superior Kendall's Tau (KTau) correlations over existing state-of-the-art predictors under unsupervised settings, highlighting its strong generalization across heterogeneous tasks and search spaces and establishing a scalable, annotation-free solution for neural architecture evaluation.",
+   "url": "https://doi.org/10.1109/tnnls.2026.3750191",
+   "doi": "10.1109/tnnls.2026.3750191",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237041295": {
+   "id": "oa:W7237041295",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "From system 1 and system 2 to fast and slow AI: Reflections on human and machine intelligence inspired by Daniel Kahneman",
+   "authors": [
+    "Francesca Rossi"
+   ],
+   "journal": "AI Magazine",
+   "date": "2026-11-19",
+   "abstract": "I first had the privilege of spending time with Daniel Kahneman at the 2017 Asilomar AI conference organized by the Future of Life Institute (Future of Life Institute, 2017b).We immediately liked each other and spent a great deal of time discussing AI and human intelligence.The location itself was deeply symbolic.Asilomar had previously hosted the historic 1975 conference at which genomic researchers gathered to discuss the risks of recombinant DNA technologies and agreed on limits and safeguards for experimentation (Berg et al., 1975).In 2017, AI researchers, entrepreneurs, philosophers, and policymakers met there to debate the future of AI and its implications for human-This is an open access article under the terms of the Creative",
+   "url": "https://doi.org/10.1002/aaai.70103",
+   "doi": "10.1002/aaai.70103",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70103",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237202153": {
+   "id": "oa:W7237202153",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Before McCulloch and Pitts: Artificial neural networks in the 1930s",
+   "authors": [
+    "Bart de Boer"
+   ],
+   "journal": "AI Magazine",
+   "date": "2026-11-19",
+   "abstract": "This paper presents the very earliest history of artificial neural network research. In textbooks about (deep) artificial neural networks, the 1943 paper by McCulloch and Pitts is generally taken to be the starting point of artificial neural network research. Here it is shown that their paper stems from a line of research into artificial neural models that started as early as 1928, and in which Nicolas Rashevsky was a central figure. These models were electric/electronic or mathematical in nature and already had many of the properties of modern neural networks (for example, activation functions and summation of activation) but also had some notable differences (for example, most of them worked in continuous time and did not make use of weight updates). This paper shows how this earlier work led to the ideas presented by McCulloch and Pitts in 1943 and argues that, contrary to what is generally stated in current artificial neural network literature, McCulloch and Pitts' paper did not spell the beginning of neural network research, but perhaps rather spelled the end of the 1930's wave of neural network research.",
+   "url": "https://doi.org/10.1002/aaai.70126",
+   "doi": "10.1002/aaai.70126",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70126",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237272846": {
+   "id": "oa:W7237272846",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Securitising digital sovereignty in Vietnam: adaptive governance in an era of techno-geopolitical competition",
+   "authors": [
+    "Linh Khuong Manh Do"
+   ],
+   "journal": "Digital Policy Regulation and Governance",
+   "date": "2026-11-24",
+   "abstract": "Purpose This paper aims to examine how Vietnam securitises digital sovereignty in the context of intensifying techno-geopolitical competition in Southeast Asia and what explains its divergence from Singapore and Indonesia. Design/methodology/approach Drawing on Copenhagen School securitisation theory, the study uses a qualitative comparative design in which Vietnam is the focal case and Singapore and Indonesia are structured comparators. Legislative documents, national strategies and secondary literature were selected using explicit criteria and coded in two deductive rounds for four digital-sovereignty dimensions and six securitisation elements. Findings Vietnam pursues pragmatic securitisation, termed digital adaptive hedging, a path between Singapore’s institutionalist rule-setting and Indonesia’s defensive localisation. Core data is localised, while non-sensitive data flows across borders; infrastructure supply is diversified through multi-vendor deployment; external commitments balance the US-led Indo-Pacific Economic Framework against China-anchored regional comprehensive economic partnership (RCEP); and foreign direct investment (FDI) conditionality is channelled towards semiconductor capability-building. Research limitations/implications The study relies on publicly accessible documents and interpretive coding; findings are configurative rather than causally identified. Future research should incorporate elite interviews and process tracing. Practical implications Policymakers in comparable transitional economies may draw on the Vietnamese model to reconcile openness to FDI with the build-up of domestic digital capability, provided enabling conditions are present (central state capacity, manufacturing integration, geopolitical salience and policy continuity); otherwise, transferability is likely to be limited. Originality/value The paper challenges binary open-versus-closed framings, proposes a spectrum model of institutional, defensive and pragmatic securitisation and introduces digital adaptive hedging, a meso-level strategy distinct from strategic hedging, strategic autonomy, multi-alignment and developmental catch-up in level of analysis, mechanism and scope conditions.",
+   "url": "https://doi.org/10.1108/dprg-06-2026-0353",
+   "doi": "10.1108/dprg-06-2026-0353",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237071035": {
+   "id": "oa:W7237071035",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "From abandonment to digital re-engagement: how state e-health platforms mobilise diaspora physicians",
+   "authors": [
+    "Mohamed Mousa"
+   ],
+   "journal": "Transforming Government People Process and Policy",
+   "date": "2026-11-23",
+   "abstract": "Purpose Drawing on the governing through abandonment perspective, this study aims to examine how e-health platforms enable the re-engagement of Egyptian diasporic physicians with a state healthcare system that previously failed to retain them. Design/methodology/approach The study is based on semi-structured interviews with 20 Egyptian diasporic physicians working and residing in three countries. The Gioia methodology was used to analyse physicians’ motivations for digital re-engagement. Findings The findings show that diasporic physicians’ engagement with e-health platforms is shaped by patriotic motives (avoiding national coercion and giving back home), occupational motives (visibility via e-health, e-health on the go and staying technologically up to date) and intrinsic motives (healing as faith and keeping a foot at home). Originality/value This paper contributes to information systems, public administration and management scholarship by theorising how state-led e-health platforms function as socio-technical systems that mobilise diasporic professional labour through the integration of digital infrastructures, institutional governance and user behaviour.",
+   "url": "https://doi.org/10.1108/tg-05-2026-0267",
+   "doi": "10.1108/tg-05-2026-0267",
+   "pdf": "",
+   "first_seen": "2026-11-22T11:27:27+09:00"
+  },
+  "oa:W7237213124": {
+   "id": "oa:W7237213124",
+   "topic": "e-gov",
+   "origin": "OpenAlex",
+   "title": "Detecting digital dependence: Inferring government use of hyperscale cloud from internet infrastructure data",
+   "authors": [
+    "Jaakko Kilpi",
+    "otto kässi",
+    "Godofredo Ramizo",
+    "Vili Lehdonvirta"
+   ],
+   "journal": "Government Information Quarterly",
+   "date": "2026-11-20",
+   "abstract": "Understanding where government digital services are hosted is critical for assessing technological dependence and countries' progress toward digital sovereignty, yet hosting arrangements are rarely disclosed and difficult to observe from the outside. We ask whether the hosting providers of government digital services can be inferred from publicly observable Internet data. To this end, we develop and publish a unique ground truth dataset of the verified hosting arrangements of 269 public sector digital services, primarily obtained through Freedom of Information (FOI) requests in three countries. The data reveal that 77% of sampled UK digital public services are hosted on US hyperscalers, compared to 64% in Finland and 33% in the Philippines. Using these verified labels, we evaluate whether supervised machine-learning models can infer a service's hosting provider type from its NS, MX, ASN, and TLS records. Even with a limited training set, the best model distinguishes US hyperscaler from non-hyperscaler hosting with 83% accuracy and 0.83 macro-F1, a 13-percentage-point improvement over the single-feature heuristic inference used in prior large-scale studies. By demonstrating the feasibility of empirically estimating hosting dependencies from public data, the study opens a pathway toward systematic cross-national and longitudinal assessment of the extent of government dependence on foreign hosting infrastructures.",
+   "url": "https://doi.org/10.1016/j.giq.2026.102194",
+   "doi": "10.1016/j.giq.2026.102194",
+   "pdf": "https://doi.org/10.1016/j.giq.2026.102194",
+   "first_seen": "2026-11-22T11:27:27+09:00"
   }
  }
 }
