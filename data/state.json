@@ -98948,7 +98948,7 @@
    "abstract": "Eta‐squared ( η 2 ) is the most widely reported proportion‐of‐variance effect size in ANOVA, yet its estimators are biased and non‐normality is rarely studied. We prove that, for balanced one‐way fixed effects ANOVA, no function of the usual F ‐statistic—the class containing the estimators in routine use—is exactly unbiased for fixed effects η 2 , though the non‐centrality and Cohen's f 2 admit exact unbiased estimation; this clarifies why popular ‘unbiased’ estimators are only approximate. We derive the leading‐order, kurtosis‐induced bias of the non‐centrality‐based estimator and propose a kurtosis‐robust correction that uses an L‐moment kurtosis estimate to remove this drift. Across Monte Carlo conditions and an out‐of‐sample heavy‐tailed family, it attains the lowest root mean square error among those studied and markedly reduces kurtosis‐induced bias drift.",
    "url": "https://doi.org/10.1111/bmsp.70075",
    "doi": "10.1111/bmsp.70075",
-   "pdf": "https://doi.org/10.17605/osf.io/r8fkv",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bmsp.70075",
    "first_seen": "2026-10-02T10:44:47+09:00",
    "abstract_ko": "초록 에타 제곱( θ 2 )은 분산 분석에서 가장 널리 보고된 분산 비율 효과 크기이지만, 추정자는 편향되어 있고 비정규성은 거의 연구되지 않습니다. 우리는 균형된 일원 고정 효과 ANOVA의 경우, 비중심성과 Cohen의 f 2가 정확한 편향되지 않은 추정을 허용하더라도 일반적인 F -통계(일상적으로 사용되는 추정값을 포함하는 클래스)의 어떤 함수도 고정 효과 eta 2 에 대해 정확하게 편향되지 않음을 증명합니다. 이는 인기 있는 '편향되지 않은' 추정치가 단지 근사치인 이유를 명확히 합니다. 우리는 비중심성 기반 추정기의 선행차 첨도 유발 편향을 도출하고 이러한 드리프트를 제거하기 위해 L-모멘트 첨도 추정치를 사용하는 첨도에 강한 수정을 제안합니다. 몬테카를로 조건과 표본 외 두꺼운 꼬리 계열 전체에서 연구된 조건 중 가장 낮은 평균 제곱근 오차를 달성하고 첨도에 의해 유발된 편향 드리프트를 현저히 줄입니다.",
    "abs_tries": 0,
@@ -108958,7 +108958,7 @@
    "abstract": "Advancements in Generative Artificial Intelligence (AI), particularly in the creation of ‘digital replicas’, have resulted in a significant increase in personal, ethical and legal concerns, leading to challenges in regulation and in public receptivity. This paper, arising from an interdisciplinary team, is the first to explore the legal challenges posed by digital replicas set within the broad context of sociological and linguistic perspectives. Owing to the prevalence of AI digital voice replicas in the creative industries, we use qualitative focus group data to focus on the legal implications and potential impact of AI digital voice replicas within this domain. To do this, we draw on the views of researchers, creatives and IP practitioners. Our focus group findings illustrated a range of responses to AI and voice cloning including skepticism, uncertainty, and a sense of inevitability. We find that the loss of what many refer to as the ‘authentic voice’ through cloning evokes an emotional response. The voice means a lot to people. As AI evolves, we posit that authenticity as a concept itself may need reconceptualising. Against this backdrop, we highlight the urgent need to address the legal vulnerability of the “un-fixed” voice, (a voice not permanently captured in traditional recordings), and the inadequacy of current United Kingdom (UK) Intellectual Property (IP) frameworks to protect it, we find that those lacking such status remain largely unprotected, highlighting a significant regulatory lacuna. This shortfall calls for a more robust protection of a ‘personality right’ in UK law.",
    "url": "https://doi.org/10.1007/s43681-026-01323-9",
    "doi": "10.1007/s43681-026-01323-9",
-   "pdf": "https://doi.org/10.31235/osf.io/a2usw_v1",
+   "pdf": "https://eprints.whiterose.ac.uk/id/eprint/244399/1/How_close_is_too_close_-_Public_attitudes_towards_digital_replicas_and_protection_of_the_unfixed_voice_2025.pdf",
    "first_seen": "2026-10-09T11:22:24+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -124816,7 +124816,7 @@
    "abstract": "Digital sovereignty is a political buzzword. However, there are diverging views on how to define and measure it. Throughout this study we propose the creation of a quantitative framework to measure digital sovereignty capabilities on a country's performance in three key areas: technology, government, and users. Through our analysis covering 123 countries, we have shown the different paths towards achieving sovereignty that are imprinted into how the countries contribute to the digital economy and reflect the asymmetries existing in the global value chains. The US and China both show a strong technological leadership, especially regarding emerging technologies, while the EU maintains a balance between innovation and regulations that the new strategies and MFF must address in order to become a relevant global player. • Digital sovereignty relies on balancing technology with the capacity of governments and users to control and utilize it. • The US and China have a higher technological sovereignty while the EU has prioritized a regulatory and user empowerment approach. • The EU exhibits has higher institutional capacity (74.93) yet lacks corresponding indigenous technological capabilities (42.22 vs. 71.18 in US)",
    "url": "https://doi.org/10.1016/j.telpol.2026.103334",
    "doi": "10.1016/j.telpol.2026.103334",
-   "pdf": "https://doi.org/10.1016/j.telpol.2026.103334",
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0308596126001849/pdf",
    "first_seen": "2026-10-25T09:26:01+09:00",
    "abs_tries": 0,
    "ko_tries": 0,
@@ -132715,7 +132715,7 @@
     "Jay G. Rueckl",
     "Laura M. Steacy",
     "Noam Siegelman",
-    "Ashley Edwards",
+    "Ashley A. Edwards",
     "Yaacov Petscher",
     "Nicole Patton Terry",
     "Matthew James Cooper Borkenhagen",
@@ -141348,7 +141348,7 @@
     "Saining Zhang",
     "Linqi Xiao",
     "Zhiguo Cao",
-    "Wei Li (7081)",
+    "Wei Li",
     "Hao Zhao",
     "Ziwei Liu"
    ],
@@ -142816,7 +142816,7 @@
    "title": "Quickest Causal Change Point Detection by Adaptive Intervention",
    "authors": [
     "Haijie Xu",
-    "Chen Zhang",
+    "Bo Zhang",
     "Jie Guo",
     "Chen Zhang"
    ],
@@ -151143,7 +151143,7 @@
    "title": "Topological data analysis of spatial protein expression in multiplexed spatial proteomics studies",
    "authors": [
     "Sarah Samorodnitsky",
-    "Michael C. Wu"
+    "M C Wu"
    ],
    "journal": "Biometrics",
    "date": "2026-10-07",
@@ -153155,7 +153155,7 @@
    "doi": "10.1080/01621459.2026.2762129",
    "pdf": "",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2
+   "abs_tries": 3
   },
   "oa:W7237239449": {
    "id": "oa:W7237239449",
@@ -153172,7 +153172,7 @@
    "doi": "10.1080/01621459.2026.2762132",
    "pdf": "",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2
+   "abs_tries": 3
   },
   "oa:W4402955015": {
    "id": "oa:W4402955015",
@@ -153254,7 +153254,7 @@
    "doi": "10.1007/s10614-026-11496-4",
    "pdf": "",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7108213389": {
@@ -153298,7 +153298,7 @@
    "doi": "10.1038/s42256-026-01339-0",
    "pdf": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.10002018/v1",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7237041771": {
@@ -153316,7 +153316,7 @@
    "doi": "10.1007/s43681-026-01517-1",
    "pdf": "",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7237078034": {
@@ -153369,7 +153369,7 @@
    "origin": "OpenAlex",
    "title": "Misconceptions of artificial intelligence: the modern seer as a synthesis of human knowledge without consciousness, emotion, or moral sill",
    "authors": [
-    "Sarfaraz Niazi",
+    "Sarfaraz K. Niazi",
     "Mikołaj Stańczak"
    ],
    "journal": "AI and Ethics",
@@ -153399,7 +153399,7 @@
    "doi": "10.1007/s43681-026-01533-1",
    "pdf": "",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7237204800": {
@@ -153419,7 +153419,7 @@
    "doi": "10.1007/s10614-026-11480-y",
    "pdf": "",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2,
+   "abs_tries": 3,
    "ko_tries": 0
   },
   "oa:W7237229177": {
@@ -153479,7 +153479,7 @@
    "doi": "10.1007/s43681-026-01509-1",
    "pdf": "",
    "first_seen": "2026-11-22T11:27:27+09:00",
-   "abs_tries": 2
+   "abs_tries": 3
   },
   "oa:W7214138898": {
    "id": "oa:W7214138898",
@@ -153639,7 +153639,9 @@
    "doi": "10.1111/spol.70132",
    "pdf": "https://osf.io/vy4bm",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "공공 자원이 제한될 때 미국인들은 사회 복지 혜택을 위해 어떤 유형의 이민자를 우선시합니까? 우리는 연령, 성별 및 본국 상황이 미국인들이 현금 지원을 위한 임시 보호 지위(TPS) 수혜자 중에서 우선 순위를 정하는 방식을 결정한다는 이론을 세웠습니다. 가상의 TPS 수혜자를 대상으로 한 공동 실험을 통해 우리는 응답자가 사회 복지 혜택에 대해 남성 및 성인 신청자보다 여성과 아동을 우선시할 가능성이 더 높다는 사실을 발견했습니다. 또한 상대적으로 고소득 국가나 전쟁 위기에 직면한 국가의 지원자보다 저소득 국가와 군사 침략에 직면한 국가의 사회 복지 지원자를 선택할 가능성이 더 높습니다. 이러한 우선순위 패턴은 일부 속성별 차이가 나타나기는 하지만 당파 집단 간에 대체로 유사합니다. 민주당은 여러 가지 취약성과 관련된 단서에 대해 좀 더 강하게 차별화하는 반면, 부유한 국가 출신 지원자의 선택 가능성이 낮은 것은 민주당보다 공화당에서 더 작습니다. 이 연구는 미국인들이 현금 지원 우선순위를 정할 때 이미 TPS를 보유하고 있는 이민자 신청자를 어떻게 구별하는지 보여줌으로써 복지 자격 및 이민에 대한 연구에 기여합니다."
+   "abstract_ko": "공공 자원이 제한될 때 미국인들은 사회 복지 혜택을 위해 어떤 유형의 이민자를 우선시합니까? 우리는 연령, 성별 및 본국 상황이 미국인들이 현금 지원을 위한 임시 보호 지위(TPS) 수혜자 중에서 우선 순위를 정하는 방식을 결정한다는 이론을 세웠습니다. 가상의 TPS 수혜자를 대상으로 한 공동 실험을 통해 우리는 응답자가 사회 복지 혜택에 대해 남성 및 성인 신청자보다 여성과 아동을 우선시할 가능성이 더 높다는 사실을 발견했습니다. 또한 상대적으로 고소득 국가나 전쟁 위기에 직면한 국가의 지원자보다 저소득 국가와 군사 침략에 직면한 국가의 사회 복지 지원자를 선택할 가능성이 더 높습니다. 이러한 우선순위 패턴은 일부 속성별 차이가 나타나기는 하지만 당파 집단 간에 대체로 유사합니다. 민주당은 여러 가지 취약성과 관련된 단서에 대해 좀 더 강하게 차별화하는 반면, 부유한 국가 출신 지원자의 선택 가능성이 낮은 것은 민주당보다 공화당에서 더 작습니다. 이 연구는 미국인들이 현금 지원 우선순위를 정할 때 이미 TPS를 보유하고 있는 이민자 신청자를 어떻게 구별하는지 보여줌으로써 복지 자격 및 이민에 대한 연구에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237337689": {
    "id": "oa:W7237337689",
@@ -153656,7 +153658,9 @@
    "doi": "10.1111/aspp.70111",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aspp.70111",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "2012년 이후 중·일 안보 경쟁이 지속적으로 치열해졌음에도 불구하고 무력충돌의 문턱을 넘지 못한 이유는 무엇인가? 강대국 경쟁에서 경쟁과 협력이 공존한다는 것은 잘 확립되어 있습니다. 구체적으로 설명되지 않은 채 남아 있는 것은 특정 쌍성 내에서 이러한 공존을 유지하는 메커니즘, 범위 조건 및 누적 방향 특성입니다. 이 글에서는 “관리된 전략적 경쟁”을 통합 메커니즘으로 명시합니다. 미일 동맹 억지력, 경제적 상호의존성, 위기 관리라는 세 가지 상호 작용 요소에 의해 제약을 받으면서 경쟁이 심화되고 모두 공존할 때만 작동합니다. 3단계(2012~2016년, 2017~2020년, 2021~2025년)에 걸친 프로세스 추적을 통해 이는 임계값 이하의 해양 강제가 점진적으로 정상화되는 \"관리된 불안정성\"을 생성한다는 것을 보여줍니다. 기술 안보 경쟁은 내부로부터의 억제 구조를 재형성하는 반면, 국내 정치는 확대의 시기와 강도를 조절합니다. 관리된 경쟁은 제도적 분열과 회색지대 지역화를 통해 ASEAN의 전략적 자율성을 구조적으로 제한합니다. 세 가지 궤적은 안정성 관리, 회색지대 경쟁 심화, 대만에 의한 확대입니다."
+   "abstract_ko": "2012년 이후 중·일 안보 경쟁이 지속적으로 치열해졌음에도 불구하고 무력충돌의 문턱을 넘지 못한 이유는 무엇인가? 강대국 경쟁에서 경쟁과 협력이 공존한다는 것은 잘 확립되어 있습니다. 구체적으로 설명되지 않은 채 남아 있는 것은 특정 쌍성 내에서 이러한 공존을 유지하는 메커니즘, 범위 조건 및 누적 방향 특성입니다. 이 글에서는 “관리된 전략적 경쟁”을 통합 메커니즘으로 명시합니다. 미일 동맹 억지력, 경제적 상호의존성, 위기 관리라는 세 가지 상호 작용 요소에 의해 제약을 받으면서 경쟁이 심화되고 모두 공존할 때만 작동합니다. 3단계(2012~2016년, 2017~2020년, 2021~2025년)에 걸친 프로세스 추적을 통해 이는 임계값 이하의 해양 강제가 점진적으로 정상화되는 \"관리된 불안정성\"을 생성한다는 것을 보여줍니다. 기술 안보 경쟁은 내부로부터의 억제 구조를 재형성하는 반면, 국내 정치는 확대의 시기와 강도를 조절합니다. 관리된 경쟁은 제도적 분열과 회색지대 지역화를 통해 ASEAN의 전략적 자율성을 구조적으로 제한합니다. 세 가지 궤적은 안정성 관리, 회색지대 경쟁 심화, 대만에 의한 확대입니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237343131": {
    "id": "oa:W7237343131",
@@ -153673,7 +153677,9 @@
    "doi": "10.1111/aspp.70115",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aspp.70115",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "팩트체크는 가짜뉴스에 대한 가장 일반적인 대응 중 하나이다. 권위주의 국가, 특히 동남아시아에서는 국가가 통제하는 사실 확인 프로그램이 흔하지만, 가짜 뉴스를 통제하려는 노력이 정보 무결성에 대한 진정한 우려에서 비롯된 것인지, 아니면 정보 흐름을 통제하고 반대 의견을 억압하려는 시도에서 비롯된 것인지는 여전히 불분명합니다. 이러한 조직의 역할을 조사하기 위해 이 문서에서는 콘텐츠 분석을 사용하여 코로나19 기간 동안 국가가 통제하는 AFNC(Anti‐Fake News Center)와 독립적인 AFP Fact Check(태국)에서 생성된 보고서의 패턴을 비교합니다. 또한 AFNC의 운영을 조사하기 위해 반구조화된 인터뷰와 문서 분석이 사용됩니다. 이 글은 AFNC가 허위 사실을 진정으로 검증하기보다는 억압적 기능을 수행하고 있다고 주장한다. 이는 정보 억제와 국가 서술을 촉진하는 동시에 정권 비판가에 대한 감시를 가능하게 합니다. 이는 권위주의 정권이 가짜 뉴스에 맞서는 모습으로 반대 의견을 어떻게 억압하는지 보여줌으로써 디지털 억압에 대한 더 광범위한 연구에 기여합니다."
+   "abstract_ko": "팩트체크는 가짜뉴스에 대한 가장 일반적인 대응 중 하나이다. 권위주의 국가, 특히 동남아시아에서는 국가가 통제하는 사실 확인 프로그램이 흔하지만, 가짜 뉴스를 통제하려는 노력이 정보 무결성에 대한 진정한 우려에서 비롯된 것인지, 아니면 정보 흐름을 통제하고 반대 의견을 억압하려는 시도에서 비롯된 것인지는 여전히 불분명합니다. 이러한 조직의 역할을 조사하기 위해 이 문서에서는 콘텐츠 분석을 사용하여 코로나19 기간 동안 국가가 통제하는 AFNC(Anti‐Fake News Center)와 독립적인 AFP Fact Check(태국)에서 생성된 보고서의 패턴을 비교합니다. 또한 AFNC의 운영을 조사하기 위해 반구조화된 인터뷰와 문서 분석이 사용됩니다. 이 글은 AFNC가 허위 사실을 진정으로 검증하기보다는 억압적 기능을 수행하고 있다고 주장한다. 이는 정보 억제와 국가 서술을 촉진하는 동시에 정권 비판가에 대한 감시를 가능하게 합니다. 이는 권위주의 정권이 가짜 뉴스에 맞서는 모습으로 반대 의견을 어떻게 억압하는지 보여줌으로써 디지털 억압에 대한 더 광범위한 연구에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237348995": {
    "id": "oa:W7237348995",
@@ -153690,7 +153696,9 @@
    "doi": "10.1111/aspp.70114",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aspp.70114",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "이 기사에서는 비공식 Facebook 그룹의 참여도가 높은 게시물을 중심으로 2023년 총선 기간 동안 태국 온라인 정보 생태계의 초당파 콘텐츠를 조사합니다. 본 연구는 정치 팬덤을 분석 프레임워크로 사용하여 양극화된 환경에서 온라인 정치 팬 커뮤니티의 구성원이 어떻게 초당파적이고 오해의 소지가 있는 정보를 적극적으로 공동 생산하고 전파할 수 있는지 보여줍니다. Facebook 그룹 게시물 분석에서는 (1) 자칭 정치 팬 커뮤니티, (2) 그룹 내 우상화 및 외부 그룹 비방, (3) 출처를 알 수 없는 콘텐츠의 유포 등 세 가지 주요 특징을 식별합니다. 익명 출처의 확인되지 않은 콘텐츠에 대한 그룹 회원의 높은 참여도는 Facebook 그룹이 풀뿌리 사용자가 중요한 정치적 순간에 잘못된 정보를 퍼뜨리고 운영에 영향을 미칠 수 있는 위험을 강조합니다. 태국의 정보 환경 내에서 이러한 문제를 맥락화함으로써 이 연구는 정치적 팬덤과 플랫폼 알고리즘이 어떻게 교차하여 참여적인 허위 정보 캠페인을 촉진하고 양극화를 강화하는지에 대한 토론에 기여합니다."
+   "abstract_ko": "이 기사에서는 비공식 Facebook 그룹의 참여도가 높은 게시물을 중심으로 2023년 총선 기간 동안 태국 온라인 정보 생태계의 초당파 콘텐츠를 조사합니다. 본 연구는 정치 팬덤을 분석 프레임워크로 사용하여 양극화된 환경에서 온라인 정치 팬 커뮤니티의 구성원이 어떻게 초당파적이고 오해의 소지가 있는 정보를 적극적으로 공동 생산하고 전파할 수 있는지 보여줍니다. Facebook 그룹 게시물 분석에서는 (1) 자칭 정치 팬 커뮤니티, (2) 그룹 내 우상화 및 외부 그룹 비방, (3) 출처를 알 수 없는 콘텐츠의 유포 등 세 가지 주요 특징을 식별합니다. 익명 출처의 확인되지 않은 콘텐츠에 대한 그룹 회원의 높은 참여도는 Facebook 그룹이 풀뿌리 사용자가 중요한 정치적 순간에 잘못된 정보를 퍼뜨리고 운영에 영향을 미칠 수 있는 위험을 강조합니다. 태국의 정보 환경 내에서 이러한 문제를 맥락화함으로써 이 연구는 정치적 팬덤과 플랫폼 알고리즘이 어떻게 교차하여 참여적인 허위 정보 캠페인을 촉진하고 양극화를 강화하는지에 대한 토론에 기여합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237350672": {
    "id": "oa:W7237350672",
@@ -153710,7 +153718,9 @@
    "doi": "10.1111/aspp.70118",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aspp.70118",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "러시아-우크라이나 전쟁을 둘러싼 친러시아 이야기는 인도네시아에서 주목할만한 견인력을 얻었지만, 인도네시아는 전쟁에 직접 참여하지 않았습니다. 본 연구는 인도네시아 유튜브 댓글 내러티브의 현지화를 조사한다. 이는 세 가지 질문을 던집니다. 인도네시아어와 러시아어 댓글에서 어떤 지배적인 내러티브가 나타나는지, 이러한 내러티브가 알려진 러시아 영향력 작동 기술과 어떻게 일치하는지, 특정 내러티브가 인도네시아에서 반향을 일으키는 이유입니다. 이 연구는 2024년 1월부터 2025년 7월 사이에 수집된 11,783개의 댓글에 대한 의미 네트워크 분석과 질적 내러티브 분석을 사용하여 토론이 러시아, 미국, 우크라이나를 가장 중심 행위자로 하는 국가 중심적이라는 사실을 발견했습니다. 네 가지 지배적인 주제가 등장합니다: 서방 헤게모니에 대한 도전자로서의 러시아, 서방에 반대하는 국가에 대한 지지, 팔레스타인에 대한 지지, 네덜란드에 대한 부정적인 견해. 러시아어로 된 논평에는 러시아의 힘에 대한 설명이 추가되고 러시아 탱크에 대한 부정적인 묘사가 연출되었다는 주장이 추가되었습니다."
+   "abstract_ko": "러시아-우크라이나 전쟁을 둘러싼 친러시아 이야기는 인도네시아에서 주목할만한 견인력을 얻었지만, 인도네시아는 전쟁에 직접 참여하지 않았습니다. 본 연구는 인도네시아 유튜브 댓글 내러티브의 현지화를 조사한다. 이는 세 가지 질문을 던집니다. 인도네시아어와 러시아어 댓글에서 어떤 지배적인 내러티브가 나타나는지, 이러한 내러티브가 알려진 러시아 영향력 작동 기술과 어떻게 일치하는지, 특정 내러티브가 인도네시아에서 반향을 일으키는 이유입니다. 이 연구는 2024년 1월부터 2025년 7월 사이에 수집된 11,783개의 댓글에 대한 의미 네트워크 분석과 질적 내러티브 분석을 사용하여 토론이 러시아, 미국, 우크라이나를 가장 중심 행위자로 하는 국가 중심적이라는 사실을 발견했습니다. 네 가지 지배적인 주제가 등장합니다: 서방 헤게모니에 대한 도전자로서의 러시아, 서방에 반대하는 국가에 대한 지지, 팔레스타인에 대한 지지, 네덜란드에 대한 부정적인 견해. 러시아어로 된 논평에는 러시아의 힘에 대한 설명이 추가되고 러시아 탱크에 대한 부정적인 묘사가 연출되었다는 주장이 추가되었습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237352036": {
    "id": "oa:W7237352036",
@@ -153727,7 +153737,9 @@
    "doi": "10.1111/aspp.70117",
    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aspp.70117",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "본 논문은 필리핀에서 중국의 해외 영향력 활동이 기존 국내 영향력 인프라와 어떻게 상호 작용하는지 조사합니다. 이는 허위 정보를 보다 광범위한 영향력 행사 내에서 하나의 전술로 구별하고 두테르테 시대의 많은 관행이 이미 국내 IO를 구성했다고 주장합니다. 서필리핀해와 보고된 InfinitUs \"키보드 워리어\" 작전을 둘러싼 온라인 담론에 초점을 맞춘 이 논문은 중국의 영향력이 확립된 중개자, 미디어 네트워크, 온라인 작업자 및 친숙한 정치적 내러티브를 통해 어떻게 작용할 수 있는지 보여줍니다. 이는 인프라 재사용 및 내러티브 현지화를 주요 메커니즘으로 식별하고 문서화된 연결, 내러티브 증폭 및 내러티브 정렬을 영향 네트워크의 국내외 상호 작용 지표로 구별합니다. 대리 행위자를 통한 정보 세탁은 중국의 이익에 유리한 이야기가 어떻게 현지 네트워크를 통해 유통되고 국내 정치 담론에 포함될 수 있는지 더 자세히 설명합니다. 전반적으로 이 논문은 필리핀의 초기 국내 정치 캠페인을 통해 개발된 역량과 내러티브를 기반으로 외국의 영향력이 어떻게 구축될 수 있는지를 다루고 있습니다."
+   "abstract_ko": "본 논문은 필리핀에서 중국의 해외 영향력 활동이 기존 국내 영향력 인프라와 어떻게 상호 작용하는지 조사합니다. 이는 허위 정보를 보다 광범위한 영향력 행사 내에서 하나의 전술로 구별하고 두테르테 시대의 많은 관행이 이미 국내 IO를 구성했다고 주장합니다. 서필리핀해와 보고된 InfinitUs \"키보드 워리어\" 작전을 둘러싼 온라인 담론에 초점을 맞춘 이 논문은 중국의 영향력이 확립된 중개자, 미디어 네트워크, 온라인 작업자 및 친숙한 정치적 내러티브를 통해 어떻게 작용할 수 있는지 보여줍니다. 이는 인프라 재사용 및 내러티브 현지화를 주요 메커니즘으로 식별하고 문서화된 연결, 내러티브 증폭 및 내러티브 정렬을 영향 네트워크의 국내외 상호 작용 지표로 구별합니다. 대리 행위자를 통한 정보 세탁은 중국의 이익에 유리한 이야기가 어떻게 현지 네트워크를 통해 유통되고 국내 정치 담론에 포함될 수 있는지 더 자세히 설명합니다. 전반적으로 이 논문은 필리핀의 초기 국내 정치 캠페인을 통해 개발된 역량과 내러티브를 기반으로 외국의 영향력이 어떻게 구축될 수 있는지를 다루고 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237332307": {
    "id": "oa:W7237332307",
@@ -153747,7 +153759,9 @@
    "doi": "10.1093/poq/nfag073",
    "pdf": "",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "여러 분야의 학자들은 종종 \"복제 위기\"라고 불리는 복제 가능성과 관련된 문제를 문서화했습니다. 다양한 설명이 존재하지만 일부에서는 온라인 비확률 표본에 대한 의존도가 높아지면서 복제 실패가 발생한다고 주장합니다. 동시에, 부주의하거나, 중복되거나, 사기성인 응답자가 추정치를 편향시키고 효과 크기를 감소시킬 수 있기 때문에 이러한 표본의 품질에 대한 우려가 높아졌습니다. 이 연구 노트에서는 세 개의 별도 온라인 비확률 패널(N = 6,000)에서 수집한 데이터를 사용하여 세 가지 잘 알려진 설문조사 실험을 재현합니다. 우리는 일련의 주의 및 사기 검사를 통과하고 중복 응답자를 제거한 하위 집합과 \"기성품\" 샘플을 비교합니다. 세 가지 실험 모두 전체 샘플에 걸쳐 방향과 중요성 측면에서 복제되지만 세 가지 경우 중 두 가지 경우에는 품질이 낮은 응답이 제거된 후에만 효과 크기가 복제됩니다."
+   "abstract_ko": "여러 분야의 학자들은 종종 \"복제 위기\"라고 불리는 복제 가능성과 관련된 문제를 문서화했습니다. 다양한 설명이 존재하지만 일부에서는 온라인 비확률 표본에 대한 의존도가 높아지면서 복제 실패가 발생한다고 주장합니다. 동시에, 부주의하거나, 중복되거나, 사기성인 응답자가 추정치를 편향시키고 효과 크기를 감소시킬 수 있기 때문에 이러한 표본의 품질에 대한 우려가 높아졌습니다. 이 연구 노트에서는 세 개의 별도 온라인 비확률 패널(N = 6,000)에서 수집한 데이터를 사용하여 세 가지 잘 알려진 설문조사 실험을 재현합니다. 우리는 일련의 주의 및 사기 검사를 통과하고 중복 응답자를 제거한 하위 집합과 \"기성품\" 샘플을 비교합니다. 세 가지 실험 모두 전체 샘플에 걸쳐 방향과 중요성 측면에서 복제되지만 세 가지 경우 중 두 가지 경우에는 품질이 낮은 응답이 제거된 후에만 효과 크기가 복제됩니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237353814": {
    "id": "oa:W7237353814",
@@ -153765,7 +153779,9 @@
    "doi": "10.1093/poq/nfag074",
    "pdf": "",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "연방 기관은 현대 미국 정치의 중심 행위자가 되어 명확한 이념적 이해 관계가 있는 주요 정책 영역을 감독했습니다. 학자들은 오랫동안 이념을 관료적 평판의 중요한 차원으로 간주해 왔지만, 기존 조치는 주로 정치 엘리트에 대한 설문조사나 직원의 캠페인 기부금과 같은 지표에 의존해 대중의 인식을 탐구하지 않았습니다. 2022년 협동조합 선거 연구에 대한 팀 모듈의 데이터를 사용하여 우리는 12개 연방 기관의 이념적 성향에 대한 대중의 인식에 대한 설명적 증거를 제공합니다. 우리는 대중이 기관 전반에 걸쳐 의미 있는 이념적 차이를 인식하고 있음을 보여줍니다. 일부 기관은 상대적으로 더 진보적인 기관(EPA), 일부는 보다 보수적인 기관(DOD), 다른 기관은 이념적으로 온건한 기관(USPS)으로 인식됩니다. 또한 이데올로기에 대한 대중의 인식은 전문가 평가, 기관 직원 또는 고급 컴퓨터 접근 방식에서 파생된 측정값과 밀접하게 일치합니다. 또한 공화당(민주당) 기관을 상대적으로 더 진보적(보수적)으로 평가하는 등 당파성과도 관련이 있습니다. 이러한 연구 결과는 이데올로기를 부분적으로 가변적일지라도 광범위하게 인식할 수 있는 정부 기관의 특징으로 확립하고 시민들이 미국 관료제를 평가하고 상호 작용하는 방식을 형성할 수 있는 잠재력을 갖고 있습니다."
+   "abstract_ko": "연방 기관은 현대 미국 정치의 중심 행위자가 되어 명확한 이념적 이해 관계가 있는 주요 정책 영역을 감독했습니다. 학자들은 오랫동안 이념을 관료적 평판의 중요한 차원으로 간주해 왔지만, 기존 조치는 주로 정치 엘리트에 대한 설문조사나 직원의 캠페인 기부금과 같은 지표에 의존해 대중의 인식을 탐구하지 않았습니다. 2022년 협동조합 선거 연구에 대한 팀 모듈의 데이터를 사용하여 우리는 12개 연방 기관의 이념적 성향에 대한 대중의 인식에 대한 설명적 증거를 제공합니다. 우리는 대중이 기관 전반에 걸쳐 의미 있는 이념적 차이를 인식하고 있음을 보여줍니다. 일부 기관은 상대적으로 더 진보적인 기관(EPA), 일부는 보다 보수적인 기관(DOD), 다른 기관은 이념적으로 온건한 기관(USPS)으로 인식됩니다. 또한 이데올로기에 대한 대중의 인식은 전문가 평가, 기관 직원 또는 고급 컴퓨터 접근 방식에서 파생된 측정값과 밀접하게 일치합니다. 또한 공화당(민주당) 기관을 상대적으로 더 진보적(보수적)으로 평가하는 등 당파성과도 관련이 있습니다. 이러한 연구 결과는 이데올로기를 부분적으로 가변적일지라도 광범위하게 인식할 수 있는 정부 기관의 특징으로 확립하고 시민들이 미국 관료제를 평가하고 상호 작용하는 방식을 형성할 수 있는 잠재력을 갖고 있습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W4413154917": {
    "id": "oa:W4413154917",
@@ -153791,7 +153807,9 @@
    "doi": "10.1177/25152459261487966",
    "pdf": "https://doi.org/10.1177/25152459261487966",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "예비 연구는 본격적인 연구에 앞서 수행되는 예비 조사입니다. 파일럿 테스트는 연구 과정에서 일반적이고 가치 있는 부분이지만, 파일럿 연구는 심리학 문헌에 체계적으로 보고되거나 인정되지 않습니다. 이 글에서 우리는 예비 연구 단계를 정기적으로 인정하기 위한 규범을 확립하면 심리학 연구의 여러 측면을 개선할 수 있다고 주장합니다. 특히, 파일럿 연구 정보 보고는 연구자가 연구 과정에 대한 보다 완전한 기록을 제공하고, 결과의 일반화 가능성에 영향을 미칠 수 있는 연구 설계의 선택 편향을 밝히고, 다른 연구자의 연구를 보다 정확하게 평가하고, 다른 연구자의 성공과 실패로부터 배우고, 윤리적 책임을 지키고, 파일럿의 방법론적 관행을 개선하는 데 도움이 될 수 있습니다. 우리는 파일럿 보고가 표준 관행이 되도록 돕기 위한 단기 변화에 대한 세 가지 구체적인 제안으로 결론을 내립니다. 과학계와 기관은 간단한 파일럿 보고 템플릿을 개발해야 하고, 저널은 저자에게 명확한 파일럿 보고 지침을 제공해야 하며, 저자는 파일럿 연구가 실행된 시기를 인정하고 관련 자료와 데이터를 공유해야 합니다. 현재 보고 표준은 결론적이고 세련된 연구 내러티브를 선호하지만, 그러한 내러티브는 공유되어야 하는 복잡한 과학적 프로세스의 최종 산물입니다. 진정으로 투명한 과학은 과학 기사 초안의 결론을 뒷받침하는 조종과 같은 프로세스를 조명해야 합니다."
+   "abstract_ko": "예비 연구는 본격적인 연구에 앞서 수행되는 예비 조사입니다. 파일럿 테스트는 연구 과정에서 일반적이고 가치 있는 부분이지만, 파일럿 연구는 심리학 문헌에 체계적으로 보고되거나 인정되지 않습니다. 이 글에서 우리는 예비 연구 단계를 정기적으로 인정하기 위한 규범을 확립하면 심리학 연구의 여러 측면을 개선할 수 있다고 주장합니다. 특히, 파일럿 연구 정보 보고는 연구자가 연구 과정에 대한 보다 완전한 기록을 제공하고, 결과의 일반화 가능성에 영향을 미칠 수 있는 연구 설계의 선택 편향을 밝히고, 다른 연구자의 연구를 보다 정확하게 평가하고, 다른 연구자의 성공과 실패로부터 배우고, 윤리적 책임을 지키고, 파일럿의 방법론적 관행을 개선하는 데 도움이 될 수 있습니다. 우리는 파일럿 보고가 표준 관행이 되도록 돕기 위한 단기 변화에 대한 세 가지 구체적인 제안으로 결론을 내립니다. 과학계와 기관은 간단한 파일럿 보고 템플릿을 개발해야 하고, 저널은 저자에게 명확한 파일럿 보고 지침을 제공해야 하며, 저자는 파일럿 연구가 실행된 시기를 인정하고 관련 자료와 데이터를 공유해야 합니다. 현재 보고 표준은 결론적이고 세련된 연구 내러티브를 선호하지만, 그러한 내러티브는 공유되어야 하는 복잡한 과학적 프로세스의 최종 산물입니다. 진정으로 투명한 과학은 과학 기사 초안의 결론을 뒷받침하는 조종과 같은 프로세스를 조명해야 합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237342799": {
    "id": "oa:W7237342799",
@@ -153808,7 +153826,9 @@
    "doi": "10.1177/20539517261497971",
    "pdf": "https://doi.org/10.1177/20539517261497971",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "현대 임상 연구에서 Real-World Data(RWD)는 정책 입안자, 환자 그룹 및 제약 회사가 원하는 리소스를 나타냅니다. RWD 개념의 핵심은 이러한 데이터가 연구 프로토콜에 의해 의무화되지 않고 일상적으로 수집되는 데이터라는 생각입니다. 규제 문헌의 문서 분석 결과를 바탕으로 저는 일상적인 의료 내에서 임상 연구를 찾는 RWD 연구의 인식론적 모델을 연구합니다. 비판적 학문에서 영감을 받아 저는 RWD 연구를 RWD의 '실제 세계'가 임상 연구에 맞게 큐레이팅되는 또 다른 대상으로 삼는 구성으로 접근합니다. 현실 세계를 먼저 큐레이팅한다는 것은 현실 세계를 일상적인 의료 서비스로 정의하고, 그러한 서비스를 받는 모든 환자를 식별하고 디지털 흔적을 실험체로 남기는 것을 의미합니다. 둘째, 실제 세계를 큐레이팅하려면 신뢰성과 품질을 평가하여 실험에 포함된 데이터 포인트를 형성해야 합니다. 이러한 큐레이션 관행은 공백을 남깁니다. RWD 연구에서는 치료에 접근할 수 없거나 특정 유형의 치료에 접근할 수 없는 사람들을 대표하지 않는 반면, 서술 및 '주관적' 설명에 의존하는 인체를 아는 특정 방법은 RWD 연구에서 알려져 있지 않습니다."
+   "abstract_ko": "현대 임상 연구에서 Real-World Data(RWD)는 정책 입안자, 환자 그룹 및 제약 회사가 원하는 리소스를 나타냅니다. RWD 개념의 핵심은 이러한 데이터가 연구 프로토콜에 의해 의무화되지 않고 일상적으로 수집되는 데이터라는 생각입니다. 규제 문헌의 문서 분석 결과를 바탕으로 저는 일상적인 의료 내에서 임상 연구를 찾는 RWD 연구의 인식론적 모델을 연구합니다. 비판적 학문에서 영감을 받아 저는 RWD 연구를 RWD의 '실제 세계'가 임상 연구에 맞게 큐레이팅되는 또 다른 대상으로 삼는 구성으로 접근합니다. 현실 세계를 먼저 큐레이팅한다는 것은 현실 세계를 일상적인 의료 서비스로 정의하고, 그러한 서비스를 받는 모든 환자를 식별하고 디지털 흔적을 실험체로 남기는 것을 의미합니다. 둘째, 실제 세계를 큐레이팅하려면 신뢰성과 품질을 평가하여 실험에 포함된 데이터 포인트를 형성해야 합니다. 이러한 큐레이션 관행은 공백을 남깁니다. RWD 연구에서는 치료에 접근할 수 없거나 특정 유형의 치료에 접근할 수 없는 사람들을 대표하지 않는 반면, 서술 및 '주관적' 설명에 의존하는 인체를 아는 특정 방법은 RWD 연구에서 알려져 있지 않습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237351627": {
    "id": "oa:W7237351627",
@@ -153832,7 +153852,9 @@
    "doi": "10.1145/3864050",
    "pdf": "",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "인지 진단(CD)은 학생의 표현, 연습 및 지식 개념을 학습하여 학생들의 진화하는 인지 상태를 모델링하는 것을 목표로 합니다. 그래프 기반 CD 모델(Graph-CDM)은 상호 작용 그래프 내에서 고차 관계를 캡처하여 표현 학습을 향상시킵니다. 그러나 기존 Graph-CDM은 동적 그래프 시나리오의 데이터 분포 변화와 계단식 효과로 인해 발생하는 문제로 인해 실제 적용 가능성이 제한되는 문제로 어려움을 겪고 있습니다. 이러한 한계를 해결하기 위해 우리는 동적 Graph-CDM을 위한 지속적인 학습 프레임워크인 GRACE(Continual Learning for Incremental Cognitive Diagnosis)를 제안합니다. GRACE는 노드 임베딩을 스테이지 고유 및 스테이지 간 일반 구성 요소로 분리하여 업데이트를 지역화하고 그래프 계단식 효과를 억제합니다. 분포 변화를 해결하기 위해 노드, 구조 및 시간 수준 프롬프트를 주입하는 다단계 그래프 프롬프트 메커니즘을 통합하여 단계 전반에 걸쳐 지식 보존을 고려하면서 적응을 안내합니다. 세 가지 실제 데이터세트에 대한 광범위한 실험을 통해 다양한 Graph-CDM에 걸쳐 기존의 전체 학습 및 미세 조정 기준에 비해 GRACE의 우수한 성능, 견고성 및 적응성이 입증되었습니다."
+   "abstract_ko": "인지 진단(CD)은 학생의 표현, 연습 및 지식 개념을 학습하여 학생들의 진화하는 인지 상태를 모델링하는 것을 목표로 합니다. 그래프 기반 CD 모델(Graph-CDM)은 상호 작용 그래프 내에서 고차 관계를 캡처하여 표현 학습을 향상시킵니다. 그러나 기존 Graph-CDM은 동적 그래프 시나리오의 데이터 분포 변화와 계단식 효과로 인해 발생하는 문제로 인해 실제 적용 가능성이 제한되는 문제로 어려움을 겪고 있습니다. 이러한 한계를 해결하기 위해 우리는 동적 Graph-CDM을 위한 지속적인 학습 프레임워크인 GRACE(Continual Learning for Incremental Cognitive Diagnosis)를 제안합니다. GRACE는 노드 임베딩을 스테이지 고유 및 스테이지 간 일반 구성 요소로 분리하여 업데이트를 지역화하고 그래프 계단식 효과를 억제합니다. 분포 변화를 해결하기 위해 노드, 구조 및 시간 수준 프롬프트를 주입하는 다단계 그래프 프롬프트 메커니즘을 통합하여 단계 전반에 걸쳐 지식 보존을 고려하면서 적응을 안내합니다. 세 가지 실제 데이터세트에 대한 광범위한 실험을 통해 다양한 Graph-CDM에 걸쳐 기존의 전체 학습 및 미세 조정 기준에 비해 GRACE의 우수한 성능, 견고성 및 적응성이 입증되었습니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237366522": {
    "id": "oa:W7237366522",
@@ -153851,7 +153873,8 @@
    "doi": "10.1007/s10614-026-11505-6",
    "pdf": "",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abs_tries": 1
+   "abs_tries": 2,
+   "ko_tries": 0
   },
   "oa:W4416947260": {
    "id": "oa:W4416947260",
@@ -153870,7 +153893,9 @@
    "doi": "10.1109/tnnls.2026.3744783",
    "pdf": "https://doi.org/10.1109/tnnls.2026.3744783",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "다중 클래스 신경망 분류에서 표준 Softmax-argmax 결정은 조정 가능한 결정 임계값을 노출하지 않습니다. 이는 원래 이진 분류용으로 설계된 점수 기반 손실(SOL)의 직접적인 확장을 제한합니다. 이 기사에서는 훈련 중 선택된 성능 점수의 직접 최적화와 심플렉스에 대한 임계값 기반 결정 규칙을 결합하는 손실 제품군인 MultiSOL(멀티클래스 점수 지향 손실)을 소개합니다. Softmax 출력은 단순 좌표로 해석됩니다. 클래스 영역은 다차원 임계값에 의해 결정됩니다. 임계값은 심플렉스의 무작위 벡터로 모델링됩니다. 실제로 예상되는 혼동 행렬 항목은 Dirichlet 임계값 분포의 Monte Carlo 샘플링에 이어 기울기 기반 최적화에 적합한 미분 가능한 근사법을 통해 추정됩니다. 이 방법은 5개의 무작위 시드에 대한 반복 실행을 사용하여 MNIST, FashionMNIST, 8개의 MedMNIST 데이터 세트 및 CIFAR10에서 평가됩니다. 실험은 Dirichlet 사전 선택이 높은 점수 임계값의 유도 분포에 영향을 미치고 점수별 변형이 목표 측정항목을 향상시킬 수 있음을 보여줍니다. 하지만 불균형이 심한 설정에서는 바람직하지 않은 정밀도-재현율 상충 관계가 발생할 수 있습니다. ResNet-32를 사용하는 CIFAR10에서 제안된 손실은 표준 편차 0.0046의 평균 테스트 정확도 0.8181에 도달합니다. 이는 라벨 분포 인식 마진 손실의 경우 표준 편차 0.0049의 0.8141, 표준 편차 0.0034f의 경우 0.8044입니다."
+   "abstract_ko": "다중 클래스 신경망 분류에서 표준 Softmax-argmax 결정은 조정 가능한 결정 임계값을 노출하지 않습니다. 이는 원래 이진 분류용으로 설계된 점수 기반 손실(SOL)의 직접적인 확장을 제한합니다. 이 기사에서는 훈련 중 선택된 성능 점수의 직접 최적화와 심플렉스에 대한 임계값 기반 결정 규칙을 결합하는 손실 제품군인 MultiSOL(멀티클래스 점수 지향 손실)을 소개합니다. Softmax 출력은 단순 좌표로 해석됩니다. 클래스 영역은 다차원 임계값에 의해 결정됩니다. 임계값은 심플렉스의 무작위 벡터로 모델링됩니다. 실제로 예상되는 혼동 행렬 항목은 Dirichlet 임계값 분포의 Monte Carlo 샘플링에 이어 기울기 기반 최적화에 적합한 미분 가능한 근사법을 통해 추정됩니다. 이 방법은 5개의 무작위 시드에 대한 반복 실행을 사용하여 MNIST, FashionMNIST, 8개의 MedMNIST 데이터 세트 및 CIFAR10에서 평가됩니다. 실험은 Dirichlet 사전 선택이 높은 점수 임계값의 유도 분포에 영향을 미치고 점수별 변형이 목표 측정항목을 향상시킬 수 있음을 보여줍니다. 하지만 불균형이 심한 설정에서는 바람직하지 않은 정밀도-재현율 상충 관계가 발생할 수 있습니다. ResNet-32를 사용하는 CIFAR10에서 제안된 손실은 표준 편차 0.0046의 평균 테스트 정확도 0.8181에 도달합니다. 이는 라벨 분포 인식 마진 손실의 경우 표준 편차 0.0049의 0.8141, 표준 편차 0.0034f의 경우 0.8044입니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7236998284": {
    "id": "oa:W7236998284",
@@ -153890,7 +153915,9 @@
    "doi": "10.1109/tnnls.2026.3751564",
    "pdf": "",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "의사결정자의 목표를 직접 관찰할 수 없고 의사결정자의 행동이 차선책이거나 동적으로 변화할 수 있는 경우, 특히 여러 상위 수준 하위 작업이 있는 부분적으로 관찰 가능한 환경에서 순차적 행동에서 잠재 의도를 추론하는 것은 어렵습니다. 궤적 예측 및 감독된 의도 인식과 같은 기존 접근 방식은 도메인에 따라 달라지는 경우가 많으며 선호도, 우선순위 및 불규칙한 결정 패턴을 명시적으로 포착하지 못할 수 있습니다. 이 기사에서는 부분적으로 관찰 가능한 마르코프 의사 결정 프로세스(POMDP) ​​내에서 제한된 합리적 의사 결정자를 위한 계층적 행동 모델을 기반으로 하는 확률적 의도 추론 프레임워크를 제시합니다. 이 모델은 낮은 수준의 합리성, 높은 수준의 하위 작업 선택 및 작업 실행의 지속성을 특성화하기 위해 세 가지 해석 가능한 매개변수를 사용하여 작업 및 하위 작업 수준 모두에서 의사 결정을 포착합니다. 우리는 명시된 모델 가정 하에서 정확한 시끄러운 관찰로부터 사후 의도에 대한 베이지안 재귀를 도출합니다. MC(Monte Carlo) 예측 사전은 온라인 하위 작업 수준 예측을 지원합니다. 분석 결과는 다양한 합리성 설정에서 모델 성능을 특성화하는 반면, 2D 및 3D 환경의 광범위한 시뮬레이션은 대표적인 확률 및 시퀀스 모델 기준선에 비해 향상된 정확성, 적응성 및 견고성을 보여줍니다. 우리는 LLM(대형 언어 모델)에 의해 생성된 이질적인 최적이 아닌 궤적에 대한 견고성을 추가로 평가합니다."
+   "abstract_ko": "의사결정자의 목표를 직접 관찰할 수 없고 의사결정자의 행동이 차선책이거나 동적으로 변화할 수 있는 경우, 특히 여러 상위 수준 하위 작업이 있는 부분적으로 관찰 가능한 환경에서 순차적 행동에서 잠재 의도를 추론하는 것은 어렵습니다. 궤적 예측 및 감독된 의도 인식과 같은 기존 접근 방식은 도메인에 따라 달라지는 경우가 많으며 선호도, 우선순위 및 불규칙한 결정 패턴을 명시적으로 포착하지 못할 수 있습니다. 이 기사에서는 부분적으로 관찰 가능한 마르코프 의사 결정 프로세스(POMDP) ​​내에서 제한된 합리적 의사 결정자를 위한 계층적 행동 모델을 기반으로 하는 확률적 의도 추론 프레임워크를 제시합니다. 이 모델은 낮은 수준의 합리성, 높은 수준의 하위 작업 선택 및 작업 실행의 지속성을 특성화하기 위해 세 가지 해석 가능한 매개변수를 사용하여 작업 및 하위 작업 수준 모두에서 의사 결정을 포착합니다. 우리는 명시된 모델 가정 하에서 정확한 시끄러운 관찰로부터 사후 의도에 대한 베이지안 재귀를 도출합니다. MC(Monte Carlo) 예측 사전은 온라인 하위 작업 수준 예측을 지원합니다. 분석 결과는 다양한 합리성 설정에서 모델 성능을 특성화하는 반면, 2D 및 3D 환경의 광범위한 시뮬레이션은 대표적인 확률 및 시퀀스 모델 기준선에 비해 향상된 정확성, 적응성 및 견고성을 보여줍니다. 우리는 LLM(대형 언어 모델)에 의해 생성된 이질적인 최적이 아닌 궤적에 대한 견고성을 추가로 평가합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237006750": {
    "id": "oa:W7237006750",
@@ -153913,7 +153940,9 @@
    "doi": "10.1109/tnnls.2026.3750413",
    "pdf": "",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "보행자 밀도는 궤적 예측에 중요한 영향을 미칩니다. 저밀도 시나리오에서는 이웃 개인의 지역적 영향이 지배적인 반면, 고밀도 시나리오에서는 군중의 집단적 영향이 우세합니다. 지역 및 글로벌 영향의 상대적 강도는 밀도에 따라 크게 다르므로 정확한 궤적 예측에 어려움을 겪습니다. 기존 방법은 이러한 밀도 차이를 무시하여 예측 정확도가 감소하는 반면, 보행자 움직임의 복잡한 시공간 역학은 문제를 더욱 악화시킵니다. 이 문제를 해결하기 위해 우리는 다양한 밀도의 시나리오에 대한 일관성 인식 보행자 궤적 예측(CA-PTP) 프레임워크를 제안합니다. 첫째, 밀도 의존적 ​​움직임 패턴을 포착하기 위해 일관성 기반 군중 이동 모델(CCMM)이 구성되어 보행자 궤적에 대한 로컬 및 전역 일관성의 영향을 효과적으로 나타냅니다. 둘째, 일관성 인식 시공간적 특징 학습 방법(Consformer)이 도입되어 그래프 주의와 변환기 아키텍처를 결합하여 임의의 밀도 하에서 공간적 상호 작용과 시간적 종속성을 모델링합니다. 마지막으로, 보다 포괄적인 정보를 사용하여 미래 궤도 예측을 생성하기 위해 통합 예측 모델 내에서 개별, 로컬 및 전역 일관성을 통합하는 다중 입도 일관성 기반 궤도 예측 방법(MGC-TPM)이 설계되었습니다. 여러 군중 이동 데이터 세트에 대한 실험은"
+   "abstract_ko": "보행자 밀도는 궤적 예측에 중요한 영향을 미칩니다. 저밀도 시나리오에서는 이웃 개인의 지역적 영향이 지배적인 반면, 고밀도 시나리오에서는 군중의 집단적 영향이 우세합니다. 지역 및 글로벌 영향의 상대적 강도는 밀도에 따라 크게 다르므로 정확한 궤적 예측에 어려움을 겪습니다. 기존 방법은 이러한 밀도 차이를 무시하여 예측 정확도가 감소하는 반면, 보행자 움직임의 복잡한 시공간 역학은 문제를 더욱 악화시킵니다. 이 문제를 해결하기 위해 우리는 다양한 밀도의 시나리오에 대한 일관성 인식 보행자 궤적 예측(CA-PTP) 프레임워크를 제안합니다. 첫째, 밀도 의존적 ​​움직임 패턴을 포착하기 위해 일관성 기반 군중 이동 모델(CCMM)이 구성되어 보행자 궤적에 대한 로컬 및 전역 일관성의 영향을 효과적으로 나타냅니다. 둘째, 일관성 인식 시공간적 특징 학습 방법(Consformer)이 도입되어 그래프 주의와 변환기 아키텍처를 결합하여 임의의 밀도 하에서 공간적 상호 작용과 시간적 종속성을 모델링합니다. 마지막으로, 보다 포괄적인 정보를 사용하여 미래 궤도 예측을 생성하기 위해 통합 예측 모델 내에서 개별, 로컬 및 전역 일관성을 통합하는 다중 입도 일관성 기반 궤도 예측 방법(MGC-TPM)이 설계되었습니다. 여러 군중 이동 데이터 세트에 대한 실험은",
+   "abs_tries": 0,
+   "ko_tries": 0
   },
   "oa:W7237231247": {
    "id": "oa:W7237231247",
@@ -153932,7 +153961,185 @@
    "doi": "10.1109/tpami.2026.3755542",
    "pdf": "",
    "first_seen": "2026-11-23T11:56:41+09:00",
-   "abstract_ko": "절차 학습은 순서가 지정된 단계 목록이 제공된 교육 비디오의 주요 단계를 공동으로 인식하고 현지화하는 것을 목표로 합니다. 목표는 각 단계의 정확한 시간 범위를 예측하는 것입니다. 기존 방법은 일반적으로 이를 서열 간 정렬 작업으로 처리합니다. 그러나 제공된 단계 목록에는 더 깊은 작업 수준 지식이 부족하기 때문에 이러한 모델은 종종 두 가지 문제로 어려움을 겪는다는 것을 관찰했습니다. (1) 모델이 주석이 달린 단일 패턴에 과적합되어 동일 작업의 다양하지만 의미상 유효한 경로를 캡처하지 못하는 교차 경로 작업 일반화가 누락되었습니다. (2) 제공된 단계 목록에 구체적인 타이밍과 출현 이전이 없으면 개별 비디오를 예측할 때 경계 드리프트 및 단계 오류가 발생하는 불충분한 시간-시각적 접지. 이러한 과제를 해결하기 위해 우리는 작업 수준 사전 작업을 정렬 프로세스에 통합하는 통합 프레임워크인 작업 인식 변환기(TAT)를 제안합니다. TAT는 두 가지 보완적인 구성 요소로 구성됩니다. (i) 작업 인식 구조적 메모리 구성은 여러 실행 경로의 의미론적, 시간적, 시각적 지식을 구조화된 메모리로 집계합니다. 메모리가 감독에 충실하게 유지되도록 하기 위해 의미론적 일관성과 시간적 순서를 공동으로 인코딩하는 메모리 제약 손실을 도입합니다. (ii) 검색 증강 비디오 단계 정렬(Retrieval-Augmented Video-Step Alignment)은 메모리에서 지식이 풍부한 경로를 검색하여 상황별 지침 역할을 하며 세분화된 사전 변수를 프레임 간 정렬에 주입합니다."
+   "abstract_ko": "절차 학습은 순서가 지정된 단계 목록이 제공된 교육 비디오의 주요 단계를 공동으로 인식하고 현지화하는 것을 목표로 합니다. 목표는 각 단계의 정확한 시간 범위를 예측하는 것입니다. 기존 방법은 일반적으로 이를 서열 간 정렬 작업으로 처리합니다. 그러나 제공된 단계 목록에는 더 깊은 작업 수준 지식이 부족하기 때문에 이러한 모델은 종종 두 가지 문제로 어려움을 겪는다는 것을 관찰했습니다. (1) 모델이 주석이 달린 단일 패턴에 과적합되어 동일 작업의 다양하지만 의미상 유효한 경로를 캡처하지 못하는 교차 경로 작업 일반화가 누락되었습니다. (2) 제공된 단계 목록에 구체적인 타이밍과 출현 이전이 없으면 개별 비디오를 예측할 때 경계 드리프트 및 단계 오류가 발생하는 불충분한 시간-시각적 접지. 이러한 과제를 해결하기 위해 우리는 작업 수준 사전 작업을 정렬 프로세스에 통합하는 통합 프레임워크인 작업 인식 변환기(TAT)를 제안합니다. TAT는 두 가지 보완적인 구성 요소로 구성됩니다. (i) 작업 인식 구조적 메모리 구성은 여러 실행 경로의 의미론적, 시간적, 시각적 지식을 구조화된 메모리로 집계합니다. 메모리가 감독에 충실하게 유지되도록 하기 위해 의미론적 일관성과 시간적 순서를 공동으로 인코딩하는 메모리 제약 손실을 도입합니다. (ii) 검색 증강 비디오 단계 정렬(Retrieval-Augmented Video-Step Alignment)은 메모리에서 지식이 풍부한 경로를 검색하여 상황별 지침 역할을 하며 세분화된 사전 변수를 프레임 간 정렬에 주입합니다.",
+   "abs_tries": 0,
+   "ko_tries": 0
+  },
+  "oa:W4416287274": {
+   "id": "oa:W4416287274",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+   "authors": [
+    "John A. Dove",
+    "Noah J. Trudeau"
+   ],
+   "journal": "Public Administration Review",
+   "date": "2026-11-22",
+   "abstract": "Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the federal government of between 63 and 84 basis points depending on specification. Implications are discussed.",
+   "url": "https://doi.org/10.1111/puar.70236",
+   "doi": "10.1111/puar.70236",
+   "pdf": "https://doi.org/10.2139/ssrn.5740504",
+   "first_seen": "2026-11-24T15:12:45+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7221770159": {
+   "id": "oa:W7221770159",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Born to Govern or to Extract? Party Types Across Administrative Levels in Colombia",
+   "authors": [
+    "Juan Sebastián Lara‐Rodríguez"
+   ],
+   "journal": "Regulation & Governance",
+   "date": "2026-11-22",
+   "abstract": "Research on parties and corruption classifies them by ideology, while subnational studies set the party aside for the candidate. Indeed, organizational origin remains untested as a structured typology. I classify parties as traditional, personalistic, ethnic, rebel‐origin, or neo‐Pentecostal across three governmental levels. Operationalizing Attorney General prosecutorial records for 2011–2020, I build a composite corruption indicator for 1122 Colombian municipalities and estimate fixed effects, spatial, and regression discontinuity models. Rebel‐origin parties and citizen‐signature movements are associated with lower corruption, while traditional and personalistic types are indistinguishable. The ethnic category turns negative once parties whose origin and trajectory diverged are excluded, and tests of contested assignments strengthen the results. Voter turnout is positively associated with municipal corruption, a result that omitted variables do not account for. At the presidential level, however, party type loses significance. How a party was built, rather than its label, is therefore decisive for understanding municipal corruption.",
+   "url": "https://doi.org/10.1111/rego.70229",
+   "doi": "10.1111/rego.70229",
+   "pdf": "https://doi.org/10.31235/osf.io/6xsk9_v1",
+   "first_seen": "2026-11-24T15:12:45+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237794494": {
+   "id": "oa:W7237794494",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "First‐Time Fathers’ Parental Leave Take‐Up: New Causal Evidence on the Interplay Between Policy, Workplace and Household",
+   "authors": [
+    "Merve Uzunalioğlu",
+    "Marie Valentová",
+    "Margaret O’Brien"
+   ],
+   "journal": "Social Policy and Administration",
+   "date": "2026-11-22",
+   "abstract": "Father‐focused parental leave reforms have expanded across Europe, yet fathers' take‐up remains uneven. This article evaluates Luxembourg's 2016 parental leave reform, which broadened eligibility, introduced earnings‐related compensation (with a ceiling) and expanded flexible leave modalities. Using population‐wide social security records and propensity score matching to compare first‐time fathers with births immediately before vis‐à‐vis after the reform, we estimate the reform's effect on fathers' leave take‐up. We find a substantial increase in take‐up (around 18–21 percentage points, depending on the matching specification). Effects are heterogeneous: the largest increases occur among mid‐income fathers (third wage quintile), fathers in small workplaces and fathers partnered with higher‐earning mothers; by contrast, gains are smaller where fathers hold stronger time‐ and earnings‐dominance within the couple. The findings indicate that financial incentives matter, but they operate through and are constrained by, workplace structures and intra‐household resource composition. Policy designs relying on compensation and flexibility may therefore require complementary measures, particularly for small employers and households facing strong gendered opportunity costs, to translate formal entitlements into behavioural change.",
+   "url": "https://doi.org/10.1111/spol.70136",
+   "doi": "10.1111/spol.70136",
+   "pdf": "https://doi.org/10.1111/spol.70136",
+   "first_seen": "2026-11-24T15:12:45+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237894863": {
+   "id": "oa:W7237894863",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "To ban or not to ban: who supports banning anti-democratic parties in Portugal?",
+   "authors": [
+    "Patrick S. Sawyer"
+   ],
+   "journal": "Policy Studies",
+   "date": "2026-11-22",
+   "abstract": "",
+   "url": "https://doi.org/10.1080/01442872.2026.2763142",
+   "doi": "10.1080/01442872.2026.2763142",
+   "pdf": "",
+   "first_seen": "2026-11-24T15:12:45+09:00",
+   "abs_tries": 1
+  },
+  "oa:W7110150982": {
+   "id": "oa:W7110150982",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Crowded and Concentrated? A Density Paradox in Nonprofit Markets",
+   "authors": [
+    "Jeremy P. Thornton",
+    "Jesse D. Lecy"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-11-21",
+   "abstract": "Organizational counts are often used to characterize nonprofit competition, but they do not reveal how revenue is distributed across funding streams. Using 4.7 million organization-years of IRS Form 990 filings from 2012 to 2021, we examine concentration within revenue streams and revenue–share concordance across 77,489 local market-years. Organizational density is negatively associated with concentration, yet even populous nonprofit markets distribute revenue unevenly. Human Services markets contain a median of 45 organizations, while their median private-contribution concentration is equivalent to approximately seven equal-sized recipients. Government grants and program service revenue are generally more concentrated than private contributions, and leadership carries across streams only modestly. In the main models, private-contribution concentration is positively associated with subsequent net organizational growth, whereas grant and service-revenue concentration are negatively associated; estimates vary across specifications. These findings distinguish organizational counts from resource distribution within and across revenue streams.",
+   "url": "https://doi.org/10.1177/08997640261501043",
+   "doi": "10.1177/08997640261501043",
+   "pdf": "https://doi.org/10.2139/ssrn.5861482",
+   "first_seen": "2026-11-24T15:12:45+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237652782": {
+   "id": "oa:W7237652782",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "Perceived Urgency as the Gateway to Volunteerism: Integrating Sensemaking With the Theory of Planned Behavior",
+   "authors": [
+    "Ayberk Soner Kalaycı"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-11-21",
+   "abstract": "Research on volunteering follows two broad approaches. Antecedent-based approaches, such as the theory of planned behavior, explain who is predisposed to help through priors such as attitudes, norms, and perceived behavioral control. Antecedent-based research seldom examines the interpretive mechanism through which priors become action, a gap that matters most in disasters, where help must be given immediately. Meanwhile, sensemaking approaches focus on how people interpret ambiguois situations and decide what they call for. This article aligns the two in a mediation design treating volunteering intentions as both dispositionally grounded and interpretively activated, with perceived urgency as a parsimonious token of interpretation. Structural equation models of survey data on a prospective Istanbul earthquake ( N = 331) show that interpretation carries the effects of attitudes and norms and partly those of perceived behavioral control, improving on an antecedent-only baseline. The study adds an interpretive layer to volunteerability, extends recruitability, and recasts organizations as sense-givers.",
+   "url": "https://doi.org/10.1177/08997640261504815",
+   "doi": "10.1177/08997640261504815",
+   "pdf": "https://doi.org/10.1177/08997640261504815",
+   "first_seen": "2026-11-24T15:12:45+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7238304667": {
+   "id": "oa:W7238304667",
+   "topic": "public-admin",
+   "origin": "OpenAlex",
+   "title": "The Art of Alignment: A Sensemaking Perspective on Elite Philanthropy in Higher Education Fundraising",
+   "authors": [
+    "Alanoud Naif Alenizi",
+    "Charles Edward Harvey",
+    "Mairi Maclean",
+    "Sara Zaeemdar"
+   ],
+   "journal": "Nonprofit and Voluntary Sector Quarterly",
+   "date": "2026-11-21",
+   "abstract": "This paper examines how fundraisers at higher education institutions construct and sustain alignment between elite donors’ expectations and institutional priorities. Drawing on qualitative interviews with fundraising professionals across 16 leading U.S. universities, we conceptualize alignment as a recursive temporal sensemaking process through which fundraisers manage equivocality and develop shared understandings over time. The analysis identifies three interrelated forms of sensemaking. Retrospective sensemaking involves interpreting donors’ biographies, identities, and relationship histories. Circumspective sensemaking focuses on real-time interactions in which fundraisers and donors explore priorities and negotiate philanthropic possibilities. Prospective sensemaking concerns sustaining alignment through stewardship and engagement as institutional priorities and donor aspirations evolve. Together, these processes show how alignment is continually constructed, maintained, revised, and renewed rather than achieved as a discrete agreement. The study reframes major-gift fundraising as an interpretive process through which fundraisers and donors negotiate shared understandings, offering a process-based account of donor influence and fundraising practice.",
+   "url": "https://doi.org/10.1177/08997640261504806",
+   "doi": "10.1177/08997640261504806",
+   "pdf": "https://doi.org/10.1177/08997640261504806",
+   "first_seen": "2026-11-24T15:12:45+09:00",
+   "ko_tries": 1
+  },
+  "oa:W7237589641": {
+   "id": "oa:W7237589641",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Robots: Passing by in Public Spaces",
+   "authors": [
+    "Lena Fiedler",
+    "Sabine Ammon"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-11-23",
+   "abstract": "Robots are increasingly found in public spaces such as sidewalks, parks, and transportation hubs. Delivery robots cross urban streets to transport food and goods; maintenance robots clean public parks; and service robots provide information at museums, train stations and airports. In principle, public spaces are open and accessible to all and are characterized by diverse and plural encounters. As such, robots operating in these environments encounter a wide range of individuals of different ages, physical and mental abilities, and backgrounds. Unlike many forms of social human-robot interaction which presuppose familiarity, shared interests, or repeated engagement, interactions between robots and humans in public spaces are typically brief and incidental and occur without any shared purpose. Despite the growing presence of robots in public environments, existing research lacks a comprehensive conceptualization of human-robot interaction in public spaces and an ethical evaluation of such interaction. This paper makes three main contributions to address this research gap: First, it establishes a framework of “ passing by” human-robot interaction in public spaces, identifying it as a paradigmatic and undertheorized form of encounter between robots and people incidentally co-present with the robot. Second, it argues that passing by interaction can harm passersby when the robot’s behavior is not sufficiently legible to them. Hence, taking the principle of non-maleficence as an ethical baseline, the paper argues that robots operating in public spaces should be designed such that their behavior is intuitively understandable to a sufficient degree. As one possible means of achieving such intuitive understandability, the paper suggests that robots adhere to social rules that humans typically follow when navigating public spaces. However, conforming to these norms also carries the ethical risk of reproducing and reinforcing discriminatory practices, thereby undermining the diversity and openness that are constitutive of public spaces. Third, the paper examines this tension and translates its normative argument into three design ideals intended to guide the ethically responsible design of robots in public spaces.",
+   "url": "https://doi.org/10.1007/s13347-026-01243-w",
+   "doi": "10.1007/s13347-026-01243-w",
+   "pdf": "https://doi.org/10.1007/s13347-026-01243-w",
+   "first_seen": "2026-11-24T15:12:45+09:00"
+  },
+  "oa:W7238060352": {
+   "id": "oa:W7238060352",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "AI and Overdetermination: The Real Source of Responsibility Gaps",
+   "authors": [
+    "Meradjuddin Khan Oidermaa",
+    "Isaac Taylor"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-11-23",
+   "abstract": "As AI systems become increasingly embedded in medicine, policing, warfare, and other high-stakes domains, their harmful outputs raise a pressing question: who, if anyone, is morally responsible? A common worry is that AI can generate responsibility gaps: cases in which morally significant harms occur, human agents acted suboptimally, and yet no individual seems to satisfy the conditions for accountability. Such gaps are troubling because they threaten practices of blame, compensation, deterrence, and moral repair. But when and why do responsibility gaps arise? Existing discussions often locate the source of the gap in either the opacity of AI systems or the involvement of many human contributors. This paper argues that both diagnoses miss the mark. The real source of AI responsibility gaps, we argue, is overdetermination. In many AI contexts, harmful outcomes may occur regardless of what any particular individual does, because other agents, firms, institutions, or systems would have produced materially similar outcomes. This structure undermines the control condition on moral responsibility. The diagnosis matters for our evaluations of remedies: transparency-based solutions target the wrong sort of problem, and individual gatekeeper models may simply reproduce the same overdetermination structure at a higher level. Collective-level solutions, by contrast, are at least structurally suited to closing the gap.",
+   "url": "https://doi.org/10.1007/s13347-026-01239-6",
+   "doi": "10.1007/s13347-026-01239-6",
+   "pdf": "https://doi.org/10.1007/s13347-026-01239-6",
+   "first_seen": "2026-11-24T15:12:45+09:00"
+  },
+  "oa:W7238445013": {
+   "id": "oa:W7238445013",
+   "topic": "ai-ml",
+   "origin": "OpenAlex",
+   "title": "Utopia of Ideas - A Nozickian Utopian Defense of the Right to Moderate Digital Content",
+   "authors": [
+    "Bartek Chomanski"
+   ],
+   "journal": "Philosophy & Technology",
+   "date": "2026-11-23",
+   "abstract": "In this paper I present two presumptive considerations in favor of extensive content moderation rights for digital platforms. I first develop a defense of this system as implementing a close realization of Robert Nozick’s conception of a utopian society. I argue that granting digital platforms such rights approximates Nozick’s picture of utopia on normatively relevant metrics. Second, I present a presumptive, partly Nozickian, humility-based case against the regulation of content moderation. Surprisingly, the Nozickian framework will turn out to be in principle compatible with some powerful regulatory tools, and thus does not entail a thoroughgoing cyberlibertarianism without additional assumptions, which I briefly discuss in closing.",
+   "url": "https://doi.org/10.1007/s13347-026-01246-7",
+   "doi": "10.1007/s13347-026-01246-7",
+   "pdf": "https://doi.org/10.1007/s13347-026-01246-7",
+   "first_seen": "2026-11-24T15:12:45+09:00"
   }
  }
 }

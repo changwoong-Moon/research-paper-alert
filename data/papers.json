@@ -1,15 +1,141 @@
 {
- "generated_at": "2026-11-23T11:56:41+09:00",
- "generated_at_display": "2026-11-23 11:56 KST",
+ "generated_at": "2026-11-24T15:12:45+09:00",
+ "generated_at_display": "2026-11-24 15:12 KST",
  "dashboard": "https://changwoong-moon.github.io/research-paper-alert/",
  "kci_status": "정상 — PC 수집 267건 (2026-11-19 18:00)",
  "topics": [
   {
    "key": "public-admin",
    "name": "행정학 연구동향",
-   "count": 1314,
-   "new_count": 37,
+   "count": 1319,
+   "new_count": 18,
    "papers": [
+    {
+     "id": "oa:W4416287274",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+     "authors": [
+      "John A. Dove",
+      "Noah J. Trudeau"
+     ],
+     "journal": "Public Administration Review",
+     "date": "2026-11-22",
+     "abstract": "Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the federal government of between 63 and 84 basis points depending on specification. Implications are discussed.",
+     "url": "https://doi.org/10.1111/puar.70236",
+     "doi": "10.1111/puar.70236",
+     "pdf": "https://doi.org/10.2139/ssrn.5740504",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7221770159",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Born to Govern or to Extract? Party Types Across Administrative Levels in Colombia",
+     "authors": [
+      "Juan Sebastián Lara‐Rodríguez"
+     ],
+     "journal": "Regulation & Governance",
+     "date": "2026-11-22",
+     "abstract": "Research on parties and corruption classifies them by ideology, while subnational studies set the party aside for the candidate. Indeed, organizational origin remains untested as a structured typology. I classify parties as traditional, personalistic, ethnic, rebel‐origin, or neo‐Pentecostal across three governmental levels. Operationalizing Attorney General prosecutorial records for 2011–2020, I build a composite corruption indicator for 1122 Colombian municipalities and estimate fixed effects, spatial, and regression discontinuity models. Rebel‐origin parties and citizen‐signature movements are associated with lower corruption, while traditional and personalistic types are indistinguishable. The ethnic category turns negative once parties whose origin and trajectory diverged are excluded, and tests of contested assignments strengthen the results. Voter turnout is positively associated with municipal corruption, a result that omitted variables do not account for. At the presidential level, however, party type loses significance. How a party was built, rather than its label, is therefore decisive for understanding municipal corruption.",
+     "url": "https://doi.org/10.1111/rego.70229",
+     "doi": "10.1111/rego.70229",
+     "pdf": "https://doi.org/10.31235/osf.io/6xsk9_v1",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7237794494",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "First‐Time Fathers’ Parental Leave Take‐Up: New Causal Evidence on the Interplay Between Policy, Workplace and Household",
+     "authors": [
+      "Merve Uzunalioğlu",
+      "Marie Valentová",
+      "Margaret O’Brien"
+     ],
+     "journal": "Social Policy and Administration",
+     "date": "2026-11-22",
+     "abstract": "Father‐focused parental leave reforms have expanded across Europe, yet fathers' take‐up remains uneven. This article evaluates Luxembourg's 2016 parental leave reform, which broadened eligibility, introduced earnings‐related compensation (with a ceiling) and expanded flexible leave modalities. Using population‐wide social security records and propensity score matching to compare first‐time fathers with births immediately before vis‐à‐vis after the reform, we estimate the reform's effect on fathers' leave take‐up. We find a substantial increase in take‐up (around 18–21 percentage points, depending on the matching specification). Effects are heterogeneous: the largest increases occur among mid‐income fathers (third wage quintile), fathers in small workplaces and fathers partnered with higher‐earning mothers; by contrast, gains are smaller where fathers hold stronger time‐ and earnings‐dominance within the couple. The findings indicate that financial incentives matter, but they operate through and are constrained by, workplace structures and intra‐household resource composition. Policy designs relying on compensation and flexibility may therefore require complementary measures, particularly for small employers and households facing strong gendered opportunity costs, to translate formal entitlements into behavioural change.",
+     "url": "https://doi.org/10.1111/spol.70136",
+     "doi": "10.1111/spol.70136",
+     "pdf": "https://doi.org/10.1111/spol.70136",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7237894863",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "To ban or not to ban: who supports banning anti-democratic parties in Portugal?",
+     "authors": [
+      "Patrick S. Sawyer"
+     ],
+     "journal": "Policy Studies",
+     "date": "2026-11-22",
+     "abstract": "",
+     "url": "https://doi.org/10.1080/01442872.2026.2763142",
+     "doi": "10.1080/01442872.2026.2763142",
+     "pdf": "",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7110150982",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Crowded and Concentrated? A Density Paradox in Nonprofit Markets",
+     "authors": [
+      "Jeremy P. Thornton",
+      "Jesse D. Lecy"
+     ],
+     "journal": "Nonprofit and Voluntary Sector Quarterly",
+     "date": "2026-11-21",
+     "abstract": "Organizational counts are often used to characterize nonprofit competition, but they do not reveal how revenue is distributed across funding streams. Using 4.7 million organization-years of IRS Form 990 filings from 2012 to 2021, we examine concentration within revenue streams and revenue–share concordance across 77,489 local market-years. Organizational density is negatively associated with concentration, yet even populous nonprofit markets distribute revenue unevenly. Human Services markets contain a median of 45 organizations, while their median private-contribution concentration is equivalent to approximately seven equal-sized recipients. Government grants and program service revenue are generally more concentrated than private contributions, and leadership carries across streams only modestly. In the main models, private-contribution concentration is positively associated with subsequent net organizational growth, whereas grant and service-revenue concentration are negatively associated; estimates vary across specifications. These findings distinguish organizational counts from resource distribution within and across revenue streams.",
+     "url": "https://doi.org/10.1177/08997640261501043",
+     "doi": "10.1177/08997640261501043",
+     "pdf": "https://doi.org/10.2139/ssrn.5861482",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7237652782",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "Perceived Urgency as the Gateway to Volunteerism: Integrating Sensemaking With the Theory of Planned Behavior",
+     "authors": [
+      "Ayberk Soner Kalaycı"
+     ],
+     "journal": "Nonprofit and Voluntary Sector Quarterly",
+     "date": "2026-11-21",
+     "abstract": "Research on volunteering follows two broad approaches. Antecedent-based approaches, such as the theory of planned behavior, explain who is predisposed to help through priors such as attitudes, norms, and perceived behavioral control. Antecedent-based research seldom examines the interpretive mechanism through which priors become action, a gap that matters most in disasters, where help must be given immediately. Meanwhile, sensemaking approaches focus on how people interpret ambiguois situations and decide what they call for. This article aligns the two in a mediation design treating volunteering intentions as both dispositionally grounded and interpretively activated, with perceived urgency as a parsimonious token of interpretation. Structural equation models of survey data on a prospective Istanbul earthquake ( N = 331) show that interpretation carries the effects of attitudes and norms and partly those of perceived behavioral control, improving on an antecedent-only baseline. The study adds an interpretive layer to volunteerability, extends recruitability, and recasts organizations as sense-givers.",
+     "url": "https://doi.org/10.1177/08997640261504815",
+     "doi": "10.1177/08997640261504815",
+     "pdf": "https://doi.org/10.1177/08997640261504815",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7238304667",
+     "topic": "public-admin",
+     "origin": "OpenAlex",
+     "title": "The Art of Alignment: A Sensemaking Perspective on Elite Philanthropy in Higher Education Fundraising",
+     "authors": [
+      "Alanoud Naif Alenizi",
+      "Charles Edward Harvey",
+      "Mairi Maclean",
+      "Sara Zaeemdar"
+     ],
+     "journal": "Nonprofit and Voluntary Sector Quarterly",
+     "date": "2026-11-21",
+     "abstract": "This paper examines how fundraisers at higher education institutions construct and sustain alignment between elite donors’ expectations and institutional priorities. Drawing on qualitative interviews with fundraising professionals across 16 leading U.S. universities, we conceptualize alignment as a recursive temporal sensemaking process through which fundraisers manage equivocality and develop shared understandings over time. The analysis identifies three interrelated forms of sensemaking. Retrospective sensemaking involves interpreting donors’ biographies, identities, and relationship histories. Circumspective sensemaking focuses on real-time interactions in which fundraisers and donors explore priorities and negotiate philanthropic possibilities. Prospective sensemaking concerns sustaining alignment through stewardship and engagement as institutional priorities and donor aspirations evolve. Together, these processes show how alignment is continually constructed, maintained, revised, and renewed rather than achieved as a discrete agreement. The study reframes major-gift fundraising as an interpretive process through which fundraisers and donors negotiate shared understandings, offering a process-based account of donor influence and fundraising practice.",
+     "url": "https://doi.org/10.1177/08997640261504806",
+     "doi": "10.1177/08997640261504806",
+     "pdf": "https://doi.org/10.1177/08997640261504806",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7225479498",
      "topic": "public-admin",
@@ -245,7 +371,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "브라질 판타날의 심각한 산불 시즌에는 예방, 대응 및 복원에 대한 지속적인 문제가 노출되어 있는 반면, 연방 당국이 정기적인 보고를 통해 산불 거버넌스를 이해하기 쉽게 만드는 방법에 대해서는 알려진 바가 거의 없습니다. 이 연구는 질적 종단적 다큐멘터리 디자인과 귀추적 추론을 바탕으로 이론적 정보를 바탕으로 한 성찰 주제 분석을 사용하여 2015년부터 2024년까지 브라질의 3개 연방 환경 당국이 발행한 30개의 관리 보고서를 분석합니다. 분류, 할당, 영토화, 정당화라는 네 가지 기록 메커니즘이 개발되었습니다. 그들은 보고가 어떻게 산불을 측정하고 실행 가능하게 만들고, 차별화된 제도적 레퍼토리를 통해 권위를 표현하고, 개입 도구와 규모를 통해 판타날을 지정하고, 제도적 노력, 실행 제약, 생태적 피해 및 책임에 대한 불균등한 가시성을 조직화했는지 보여줍니다. 그 기간 동안 기후, 영토 및 비상 상황 공식이 문서 기록에 입력되면서 확립된 보고 관행이 지속되었습니다. 이 연구는 문제 정의, 제도적 차별화, 영토 우선순위 및 공공 계정이 시간이 지남에 따라 구성되는 환경 거버넌스의 다큐멘터리적 차원을 지정합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236595889",
@@ -266,7 +392,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "본 연구는 기능적 상호의존성에 의해 요구되는 국경 간 공공 서비스 협약이 역설적으로 높은 비용과 낮은 책임성을 특징으로 하는 배타적 시스템으로 발전하는 이유를 조사합니다. 일반적인 문헌에서는 종종 네트워크 실패가 적극적인 엘리트 포획 때문이라고 생각하지만, 본 연구에서는 마카오-주하이 장례 서비스 네트워크를 조사하여 독특한 \"일국 두 시스템\" 프레임워크 내의 구조적 거버넌스 딜레마를 조사합니다. 주로 공공 책임 문헌에 기반을 둔 우리는 외부 메타 거버넌스가 부족한 \"낮은 정치\" 영역에서 국경을 넘는 네트워크가 공공 책임의 공동화에 매우 취약하다고 주장합니다. 사법 및 보관 데이터의 프로세스 추적을 통해 이 연구는 우리가 \"수동적 책임 함정\"이라고 부르는 구조적 병리를 식별합니다. 이러한 함정은 여러 관할권의 당국이 영토적 관할권 경계를 엄격히 준수하지만 수평적, 국경을 넘는 감독을 확립하기 위한 공유 동기와 공동 역량이 부족하여 의도치 않게 국경을 넘는 규제 공백이 발생할 때 촉발됩니다. 이러한 공백 상태에서 시장 행위자는 규제 차익거래에 참여하는 네트워크 문지기 역할을 하여 행정 위임을 \"위임된 독점\"으로 전환합니다. 이 연구는 비대칭적 국경 상황에서 책임성 결손이 어떻게 구조적으로 생성되는지를 밝혀 문헌에 기여하고 예방에 있어 공유된 동기와 공동 역량의 중요한 역할을 강조합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236689039",
@@ -284,7 +410,7 @@
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/app5.70111",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "디지털 정부 커뮤니케이션은 의도된 공공 정보 기능을 넘어 점점 더 많은 청중에게 도달하고 있지만 금융 시장에 미치는 영향은 여전히 ​​불분명합니다. 2018년부터 2024년까지 현지 공무원의 짧은 비디오 활동과 일치하는 중국 A주 기업공개를 사용하여 가시적인 정부 커뮤니케이션이 기업공개 가격과 연관되어 있는지 조사합니다. 우리는 공식 단편 비디오 활동이 더 큰 저평가와 연관되어 있으며, 협회가 제공 단계 평가보다는 첫날 시장 평가에 집중한다는 사실을 발견했습니다. 추가 증거는 공개 논평을 통해 운영되는 정서 채널과 정보 및 엔터테인먼트 중심 콘텐츠 전반에 걸쳐 상당한 이질성을 지적합니다. 결과는 대체 규제 기간, 성향 점수 매칭 및 완화된 표본 제한에 대해 강력합니다. 이러한 연구 결과는 디지털 정부 커뮤니케이션이 자본 시장 가격 책정에 의도하지 않은 파급효과를 일으킬 수 있음을 보여주고 디지털 거버넌스에서 커뮤니케이션 설계의 중요성을 강조합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236697341",
@@ -305,7 +431,7 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14719037.2026.2765333?needAccess=true",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "공공 재무 관리 시스템은 가시성을 높이지만 캡처된 거버넌스는 예산 편성, 회계 및 조달 루틴을 리디렉션하는 동시에 규정 준수를 유지할 수 있습니다. 우리는 이러한 시스템을 그러한 왜곡을 조건부로 노출할 수 있는 진단 인프라로 개념화합니다. 마피아 유형 침투에 대한 이탈리아 지방자치단체 해산에 기반을 둔 50개 해산 보고서에 대한 이론 기반 분석을 통해 4가지 핵심 구성과 3가지 교차 차원이 식별됩니다. 7,802개 지방자치단체(2016~2024)에서 결합된 회계 및 조달 지표는 단일 소스 벤치마크를 능가하며 남부 및 재정적으로 어려움을 겪는 지방자치단체 간의 차별을 유지합니다. 우리는 이러한 시스템이 단계적 규정 준수에 따라 진단 역량을 유지하는 시기를 지정하여 지방자치단체 심사가 아닌 데이터 인프라 설계 및 기존 조사 절차를 알려줍니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236761788",
@@ -326,7 +452,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "급진우파 정당이 유럽 전역에서 기반을 확보함에 따라 주류 정당은 정치적 정당성과 권력 접근권 획득 여부를 결정하는 데 중요한 행위자로 간주됩니다. 이전 문헌에서는 정치 엘리트가 급진우파와 협력하겠다는 의사를 표시하면 유권자의 눈에는 급진우파가 정상화되는 것으로 나타났습니다. 중요한 것은, 최근 연구에서는 이러한 정상화가 이루어지면 급진우파는 다시 배척될 수 없어 급진우파 정상화가 '일방통행'으로 간주된다는 주장이 나왔습니다. 본 연구는 온라인 설문 조사 실험에서만 파생된 이러한 이야기에 반대합니다. 이는 최대 규모의 주류 우파 정당의 지도자가 수년간의 정상화 끝에 급진우파 정당과의 연합을 예기치 않게 배제한 2024년 벨기에 연방 선거에서 보기 드문 실제 증거를 제공합니다. 이 예상치 못한 사건을 활용함으로써 우리는 배타적인 엘리트 단서로 인해 시민들이 다시 한 번 급진적 우파를 민주적으로 덜 정당한 것으로 간주하는 동시에 해당 정당에 투표할 가능성도 감소했음을 보여줍니다. 이러한 연구 결과는 급진우파의 정상화가 이전에 생각했던 것처럼 일방적인 길이 아니라는 점을 시사합니다. 엘리트의 강력한 거부는 정당성 인식과 선거 행동을 재구성하여 급진우파를 다시 배척할 수 있으며, 이는 정치적 정당성과 민주적 규범에 대한 지속적인 논쟁에 영향을 미칩니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236775605",
@@ -345,7 +471,7 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10967494.2026.2758171?needAccess=true",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "공공 기관의 인구통계학적 대표성은 다양한 시민의 관심사를 보고 듣는 방식을 결정합니다. 이전 연구에서는 보다 대표성이 높은 관료제가 어떻게 소수 대표 집단이 자신에게 서비스를 제공하는 공공 조직에 대한 신뢰와 참여를 높여 해당 공공 조직에 더 큰 친밀감을 느끼도록 장려하는지 보여줍니다. STEM(과학, 기술, 공학, 수학) 교육은 조사해야 할 중요한 맥락입니다. 대부분의 교사가 남성이고, 점점 더 중요해지는 이 지식 분야에 대해 여학생의 성별 역할 모델이 적기 때문입니다. 더욱이 이러한 여성 역할 모델의 부족은 학생들이 종종 STEM 직업을 추구할지 여부를 결정하는 어린 나이에 특히 중요합니다. 이스라엘 5개 대학의 STEM 학생들과의 심층 인터뷰를 통해 우리는 여고생 교사들의 적극적인 대표가 어떻게 여학생들이 자기효능감을 개발하고 STEM에서 성공하도록 격려했는지 살펴봅니다. 또한 우리는 이러한 교사의 과거 대표 행동이 여학생의 직업적 미래를 어떻게 형성했는지 보여줍니다. 우리의 연구는 교육 및 직업적 기회를 형성하는 데 있어 초기 성별 표현의 중요성을 강조합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236799129",
@@ -363,7 +489,7 @@
      "pdf": "https://academic.oup.com/jpart/advance-article-pdf/doi/10.1093/jopart/muag033/73854105/muag033.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "행정 부담 장학금은 학습 및 준수 비용과 함께 심리적 비용을 확인했지만 공유된 조직 원칙 없이 범주는 낙인, 자율성 감소 및 스트레스를 그룹화하여 동질적인 상태로 유지됩니다. 이 기사는 33명(정신 건강 질환 진단을 받은 청년 16명, 사회 복지사 17명)과의 심층 인터뷰를 바탕으로 이스라엘의 장애 혜택 청구에 대한 질적 사례 연구를 바탕으로 인식을 중심으로 메커니즘 수준의 설명을 진행합니다. 우리는 인정과 그에 대한 거부가 심리적 비용이 발생하는 메커니즘의 일부이며, 만남이 개인의 입장에 대한 메시지를 전달하는지 여부에 따라 범주가 분석적으로 구별되는 세 가지 유형으로 분류된다고 주장합니다. 정서적 비용은 절차적 부하에 대한 감정적 반응이며 인식을 포함하지 않습니다. 주요 상징 비용은 지위 위치 결정에 대한 감정적 반응입니다. 그리고 절차적 부하 자체가 입장에 대한 메시지를 전달할 때 이차적 상징 비용이 발생합니다. 인정이 문제가 되는 후자의 두 가지 영역은 호네트의 권리, 연대, 돌봄이라는 세 가지 영역을 통해 추적되며, 각각 고유한 비용 구성을 생성합니다. 유형에 따라 원인과 해결 방법이 다르며, 효율성 개선을 요구하는 정서적 비용과 인정 지향적 비용을 요구하는 상징적 비용이 있습니다. 사회복지사는 잘못된 인식에 맞서는 동맹자로 등장하고 이러한 결과를 바탕으로 우리는 관료적 인식을 제안합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235955137",
@@ -383,7 +509,7 @@
      "doi": "10.1177/00208523261506513",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236020369",
@@ -402,7 +528,7 @@
      "doi": "10.1002/pam.70140",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236055910",
@@ -420,7 +546,7 @@
      "doi": "10.1080/14719037.2026.2764194",
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14719037.2026.2764194?needAccess=true",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236094663",
@@ -438,7 +564,7 @@
      "doi": "10.1002/pad.70140",
      "pdf": "https://doi.org/10.1002/pad.70140",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236112292",
@@ -457,7 +583,7 @@
      "doi": "10.1111/aspp.70113",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aspp.70113",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236173122",
@@ -477,7 +603,7 @@
      "doi": "10.1080/14719037.2026.2765743",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236191668",
@@ -494,7 +620,7 @@
      "doi": "10.1080/14719037.2026.2765325",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236276640",
@@ -512,7 +638,7 @@
      "doi": "10.1080/14719037.2026.2758287",
      "pdf": "https://www.ika.dk/fileadmin/Bruger_filer/2._DOKUMENTER/6._Om_os/Vedt%C3%A6gter_betalingsbetingelser_forretningsorden/IKA_vedt%C3%A6gter.pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236070254",
@@ -531,7 +657,7 @@
      "doi": "10.1080/17516234.2026.2764336",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236184175",
@@ -551,7 +677,7 @@
      "doi": "10.1080/17516234.2026.2765337",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236471875",
@@ -569,7 +695,7 @@
      "doi": "10.1080/17516234.2026.2764335",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235541322",
@@ -9342,7 +9468,7 @@
      "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513788/2396650/12513788.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "맥락: 인종 불평등은 여전히 ​​미국 건강 및 건강 관리의 중심적이고 확고한 특성이며, 인종 담론은 건강 정치와 정책을 강력하게 형성합니다. 그럼에도 불구하고, 인종과 건강에 대한 논의는 역사적 시기와 정당에 따라 다르지만 보건 정책 결정의 핵심 현장인 대통령직에서 거의 이루어지지 않습니다. 본 연구는 프랭클린 D. 루즈벨트부터 조 바이든에 이르기까지 지난 90년간 대통령 건강 연설에서 인종 담론의 확산과 성격을 조사하고, 특히 민권 시대 이후 인종 담론이 상승했는지 하락했는지에 대한 논쟁을 다룹니다. 방법: 저자는 Roosevelt부터 Biden까지 1,359건의 대통령 건강 연설에 대해 정량적 내용 분석과 정성적 분석을 수행했습니다. 조사 결과: 인종에 대한 관심은 공화당원보다 민주당원 사이에서 더 높았습니다. 민권 시대와 코로나19 대유행 기간 동안 급격하게 상승했지만, 대부분의 대통령이 민권 시대의 동당 벤치마킹인 존슨과 닉슨보다 인종과 건강에 대해 덜 논의하면서 그 사이에 하락했습니다. 질적 분석에 따르면 양당의 대통령은 주로 긍정적인(때때로 가부장주의적인) 인종 담론에 참여했지만, 백인 반발을 줄이기 위해 이를 보편주의적이거나 기술적인 언어와 결합하는 경우가 많았습니다. 결론: 이 연구는 정책 결정에서 인종 담론의 중요성, 성격 및 원인에 대한 논쟁을 다루며 대통령이 인종적 특수성과 보편주의의 균형을 어떻게 유지하는지 보여줍니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7138889492",
@@ -9359,7 +9485,7 @@
      "doi": "10.1215/03616878-12516545",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7138908829",
@@ -9376,7 +9502,7 @@
      "doi": "10.1215/03616878-12513844",
      "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513844/2396644/12513844.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7138959007",
@@ -9399,7 +9525,7 @@
      "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513804/2396653/12513804.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "맥락: 미국 연방 시스템에서 주정부는 현재 진행 중인 과다복용 위기를 해결하기 위해 지난 30년 동안 다양한 오피오이드 관련 정책을 채택해 왔습니다. 이러한 변화를 주도하는 기본 요인은 아직 불분명합니다. 주정부가 보다 포괄적인 정책을 채택하도록 영향을 미치는 요소와 유해성 감소 또는 오피오이드 사용 장애 치료의 우선 순위를 이해하는 것은 공중 보건 전략 및 정책 수립에 중요한 영향을 미칩니다. 방법: 이 연구는 유해성 감소와 치료라는 두 가지 측면에서 오피오이드 관련 정책의 포괄성을 측정하기 위해 수십 개의 정책 지표를 사용하여 주 수준 지수를 개발합니다. 다양한 정치적, 역학적, 사회 경제적 요인의 영향을 평가하기 위해 기능 순위 분석 및 다단계 혼합 효과 회귀가 사용됩니다. 조사 결과: 저자들은 보수적인 시민 이데올로기의 감소, 약물 과다 복용 위기의 심각성 증가, 국가의 경제적 자원 증가가 보다 포괄적인 정책 채택에 영향을 미치는 가장 일관된 요인임을 발견했습니다. 이러한 요소는 국가 대응의 전반적인 견고성과 특정 정책 차원에 대한 강조를 형성했습니다. 결론: 이 연구는 주 차원의 오피오이드 정책 포괄성 변화의 주요 동인을 강조하고, 정치적, 상황적 요인이 공중 보건 정책 결정에 어떻게 영향을 미치는지에 대한 보다 명확한 그림을 제공합니다. 이러한 통찰력은 주 차원의 건강 정책 채택에 대한 향후 연구를 안내할 수 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7138967033",
@@ -9418,7 +9544,7 @@
      "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513812/2396638/12513812.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "맥락: 미국에서는 혁신 장려와 저렴한 의약품 제공 간의 균형이 정부 규제에 의해 관리됩니다. 신약은 경쟁적인 진입과 낮은 가격으로 이어지는 수익성 있는 독점 기간을 제공받습니다. 저분자 의약품의 경우 이제 제네릭 경쟁이 일반적인 반면, 대부분의 생물학적 제제의 경우 바이오시밀러는 사용할 수 없으며 경쟁을 관리하는 규정은 비교적 새로운 것입니다. 방법: 저자는 2015~25년 동안 경쟁 진입을 경험한 15개 생물의약품과 141개 소분자의 명목 특허 기간(오리지널자/브랜드 진입과 최신 특허 만료일 사이의 시간)과 유효 시장 수명(오리지널자/브랜드 진입과 바이오시밀러/제네릭 진입 사이의 시간)을 비교했습니다. 또한 소송 결과가 이러한 결과에 어떤 영향을 미치는지 조사했습니다. 조사 결과: 훨씬 더 긴 명목 특허 기간에도 불구하고 생물의약품의 유효 시장 수명은 최근 몇 년간 소분자 의약품과 유사했습니다. 바이오시밀러는 특허 소송이 진행되는 동안 출시될 가능성이 더 높았고, 제네릭은 합의 후에 출시될 가능성이 더 높았습니다. 결론: 바이오시밀러는 여전히 상대적으로 드물지만, 특허 소송 구조로 인해 저분자 의약품에 비해 생물학적 제제의 경쟁 진입이 둔화되는 것으로 보이지는 않습니다. 바이오시밀러 경쟁은 생물학적 제제의 수명 주기가 발전하고 규제가 강화됨에 따라 더욱 일반화될 수 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7139007071",
@@ -9436,7 +9562,7 @@
      "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513836/2396636/12513836.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "주정부가 의료 비용 증가를 억제하려고 노력함에 따라 의료 비용 벤치마크 프로그램이 등장했습니다. 주정부는 Medicaid, 직원 건강 혜택 프로그램을 통한 의료비 지출 증가, 민간 부문 고용주의 혜택 비용 부담 증가로 인해 부정적인 영향을 받고 있습니다. 2013년 매사추세츠를 시작으로 8개 주에서는 행정 조치나 입법을 통해 벤치마크를 확립했습니다. 이러한 프로그램은 비용 성장 벤치마크를 설정하고 데이터를 수집하여 주 전체 성과부터 개별 서비스 제공자 및 보험사에 이르기까지 다양한 수준의 벤치마크와 지출 추세를 비교합니다. 많은 주에서는 공급자 및 보험사의 성과에 대한 공개 보고부터 목표 이상의 지속적인 성장에 대한 제재 부과에 이르기까지 벤치마크 준수를 촉진하기 위해 점진적인 전략을 사용합니다. 이러한 계획의 효과는 아직 명확하지 않습니다. 부분적으로는 대부분의 프로그램이 상대적으로 새롭고 초기 추세가 전염병으로 인해 모호해졌기 때문입니다. 비용 압박 증가, 투명성에 대한 광범위한 지원, 단계적 시행 접근 방식 등 여러 요인을 통해 벤치마크 프로그램이 궁극적으로 의미 있고 지속 가능한 영향을 달성할 수 있음을 시사합니다. 그러나 확고한 이해 관계, 프로그램 인프라에 대한 지속적인 투자의 필요성, 의료 비용 억제의 본질적인 복잡성으로 인해 심각한 문제가 발생합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7139048575",
@@ -9456,7 +9582,7 @@
      "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513796/2396648/12513796.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "맥락: 학자들은 노동시장, 주택, 사회부조 정책 등 보건의료 외 정책이 건강에 영향을 미친다는 사실을 오랫동안 보여왔습니다. HiAP(Health in All Policies)는 건강을 이러한 부문에 통합하는 공동 정책 접근 방식입니다. HiAP 도입에 관한 대부분의 연구는 몇 가지 잘 알려진 사례에 초점을 맞춰 정책 학습과 정치적 역학의 중요성을 강조합니다. 이 기사에서는 핀란드 및 영국과 함께 네덜란드를 분석하여 다음과 같은 질문을 함으로써 이 지식을 업데이트합니다. 네덜란드에서 HiAP 채택을 어떻게 이해할 수 있습니까? 방법: 저자들은 1차 및 2차 소스를 사용하여 네덜란드 사례를 연구하고 2차 소스의 기존 분석을 기반으로 핀란드 및 영국의 섀도우 케이스와 비교했습니다. 조사 결과: 정책 학습은 필요하지만 HiAP 채택에는 충분하지 않습니다. 네덜란드에서는 입양이 당파적이지는 않았지만 여전히 정치적이었습니다. 네덜란드에서 HiAP 채택을 주도한 주요 요인은 건강 불평등의 정치적 중요성이었습니다. 이 요소는 눈에 덜 띄기는 하지만 그림자 사건에서도 결정적인 역할을 했습니다. 결론: 네덜란드 사례는 HiAP가 입법 정치 외부의 연합 전략의 산물일 수 있으며 해당 연합의 문제 공식화에 대응할 수 있음을 보여줍니다. 정책 학습과 정치적 중요성은 모두 중요하지만 HiAP 채택 여부를 가장 잘 설명하는 것은 상호 작용입니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7139089699",
@@ -9475,7 +9601,7 @@
      "pdf": "https://read.dukeupress.edu/jhppl/article-pdf/doi/10.1215/03616878-12513828/2396640/12513828.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "2025년 7월 One Big Beautiful Bill Act의 제정으로 엄격한 Medicaid 근로 요건이 도입되어 수백만 명의 저소득층 미국인에 대한 상당한 보장 손실이 예상됩니다. 이 에세이는 주정부가 이러한 등록 감소를 완화할 수 있는지 여부를 결정하는 행정적, 정치적 역학을 조사합니다. 의회 예산국(Congressional Budget Office)은 적격성 조항, 특히 Affordable Care Act의 확장 인구에 대한 업무 의무가 예상되는 연방 절감액의 대부분을 차지할 것으로 추정합니다. 우리는 일방적(자동) 결정 확대, 근로 기록에 대한 조회 기간 제한, \"의학적으로 취약한\" 면제를 적극적으로 문서화하는 등 주정부가 감소를 막기 위해 사용할 수 있는 5가지 주요 대처 전략을 식별합니다. 시행은 민주당이 주도하는 주에서는 보장을 유지하기 위해 인수 관행을 우선시하는 반면, 공화당 관할권에서는 적격성 검토 및 월 보험료 감소를 악화시키는 정책을 채택할 수 있는 당파적 연방주의 패턴을 따를 것으로 예상됩니다. 궁극적으로, 연방 규정 준수, 시스템 개발을 위한 재정 지원, 제한적 면제 승인에 대한 Trump 행정부의 접근 방식은 Medicaid 안전망에 대한 법의 장기적인 영향을 형성하는 데 중추적인 역할을 할 것입니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7224273358",
@@ -25280,51 +25406,14 @@
      "first_seen": "2026-08-09T01:35:52+09:00",
      "abstract_ko": "Abstract 행정 부담 장학금은 일반적으로 초기 시민-국가 상호 작용 중에 공공 혜택에 대한 접근에 영향을 미치는 규칙 및 규정을 조사합니다. 학자들은 관료적 재량에 따라 정책이 시행되는 동안 변경되기 때문에 개인의 부담이 \"숨겨진 정치\"로 기능한다는 데 동의합니다. 규정 준수를 유지하는 제3자 서비스 제공업체에 시행되는 관료적 행동이나 숨겨진 정치에 대해서는 알려진 바가 적습니다. 이 기사에서는 규제 기관이 동료의 행동을 모방하는지 이해하기 위해 낙태 제공자에게 부과되는 비준수 부담을 조사하여 이 문제를 해결합니다. 낙태 제공자 감독에 대한 플로리다 보건 관리청(FAHCA)의 제도적 이론적 틀과 행정 기록을 사용하여 우리는 1540년 관측을 사용하여 규제 현장에서 동형 또는 제재 활동의 발산을 예측하는 방향성 일주기 사건 기록 모델을 구축합니다. 우리는 규제 현장 사무소가 동료의 이전 제재 행동 및 감독 작업량을 기반으로 다른 사람의 행동을 에뮬레이션한다는 사실을 발견했습니다. 또한 우리는 규제 기관이 해당 관할권의 규제 조건에 따라 다른 기관과 다르다는 사실을 발견했습니다.",
      "is_new": false
-    },
-    {
-     "id": "oa:W7171306269",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "What Shapes Subnational Policy Implementation in the Global South? A 17‐year Study of Implementing India's Forest Rights Act",
-     "authors": [
-      "Santosh Gedam"
-     ],
-     "journal": "Public Administration and Development",
-     "date": "2026-07-26",
-     "abstract": "ABSTRACT Over the past two decades, global debates among policymakers and conservationist organizations have recognized the existence of Indigenous and local communities' rights to their customary forests. However, emerging forest tenure reforms have been severely criticized by scholars and practitioners for their slow implementation. Moreover, the literature resolving this puzzle and identifying how rights have been recognized is sparse. Responding to this neglect, I study India's federally enacted Forest Rights Act. Using public documents and informal interviews, I analyze subnational action prescriptions to recognize community forest resource rights in India's Maharashtra state for 17 years. Contributing to practice, I show that subnational action prescriptions setting claim recognition targets, providing supporting human resources, and directing field‐level mission‐mode approaches are associated with better titling of customary forests. Contributing to debates on implementation theories, the study finds the key role of bottom‐up theory, arguing that the exercise of subnational discretion aimed at resolving communicated field‐level problems is likely to lead to better implementation.",
-     "url": "https://doi.org/10.1002/pad.70108",
-     "doi": "10.1002/pad.70108",
-     "pdf": "",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "개요 지난 20년 동안 정책 입안자와 환경 보호 단체 사이의 세계적인 논쟁은 원주민과 지역 공동체의 관습적 산림에 대한 권리의 존재를 인정해 왔습니다. 그러나 새로운 산림 소유권 개혁은 느린 실행으로 인해 학자와 실무자들로부터 심한 비판을 받아 왔습니다. 더욱이 이 수수께끼를 풀고 권리가 어떻게 인정되었는지 확인하는 문헌은 드물다. 이러한 방치에 대응하여 저는 인도가 연방에서 제정한 산림권리법을 연구합니다. 공개 문서와 비공식 인터뷰를 통해 저는 17년 동안 인도 마하라슈트라 주에서 지역사회 산림자원 권리를 인정하기 위한 지방정부 조치 규정을 분석했습니다. 실천에 기여하면서, 나는 주장 인식 목표 설정, 인적 자원 지원 제공, 현장 수준 임무 모드 접근 방식 지시 등 하위 국가 조치 처방이 관습림의 더 나은 소유권 지정과 연관되어 있음을 보여줍니다. 구현 이론에 대한 논쟁에 기여하면서, 이 연구는 전달된 현장 수준 문제를 해결하기 위한 하위 국가 재량권 행사가 더 나은 구현으로 이어질 가능성이 있다고 주장하면서 상향식 이론의 핵심 역할을 찾습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7171327272",
-     "topic": "public-admin",
-     "origin": "OpenAlex",
-     "title": "Confidently Wrong: Benefit Overuse Beliefs and Deservingness Among Adolescents",
-     "authors": [
-      "Jakub Sowula",
-      "Tijs Laenen"
-     ],
-     "journal": "Social Policy and Administration",
-     "date": "2026-07-26",
-     "abstract": "ABSTRACT Previous research shows that adults overestimate benefit overuse and that such misperceptions are associated with lower perceived deservingness, a crucial dimension through which welfare attitudes relate to broader welfare state legitimacy. Yet, the origins and malleability of benefit overuse beliefs remain poorly understood. This study addresses this gap by using original survey data from 1527 Swiss secondary school students (ages 13–18) and a follow‐up survey experiment pilot ( N = 130). We first demonstrate that adolescents severely overestimate unemployment benefit overuse: more than 60% believe that overuse is at least ten times higher than the most recent government‐issued rate of approximately 1% in Switzerland. Moreover, over one‐third are misinformed, holding incorrect beliefs with confidence. Notably, male and right‐leaning students are more likely to be misinformed than female and centre/left‐leaning students, but for different reasons: male students tend to be confident whether right or wrong, while right‐leaning students are more confident mainly when wrong, suggesting early traces of motivated reasoning. Crucially, it is the misinformed, not the uninformed, who perceive the unemployed as less deserving. However, the results of the experimental pilot study show that false beliefs are malleable. Providing students with proportional information about benefit overuse substantially improves accuracy and reduces the share of misinformed participants. Moreover, changes in overuse beliefs partly show in the higher perceived deservingness of the unemployed. Overall, the findings demonstrate that welfare misconceptions are widespread but not fixed among adolescents, suggesting that the impressionable years are an important window for investigating the informational foundations of welfare attitudes.",
-     "url": "https://doi.org/10.1111/spol.70096",
-     "doi": "10.1111/spol.70096",
-     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.70096",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "개요 이전 연구에 따르면 성인은 혜택 남용을 과대평가하고 그러한 오해는 복지 태도가 더 넓은 복지 국가 정당성과 관련되는 중요한 차원인 낮은 인식의 가치와 연관되어 있음을 보여줍니다. 그러나 혜택 남용 신념의 기원과 가단성은 여전히 ​​잘 이해되지 않고 있습니다. 이 연구는 1527명의 스위스 중등학교 학생(13~18세)의 원래 설문조사 데이터와 후속 설문조사 실험 파일럿(N = 130)을 사용하여 이러한 격차를 해결합니다. 우리는 먼저 청소년들이 실업 수당 남용을 심각하게 과대평가한다는 것을 보여줍니다. 60% 이상이 남용이 스위스에서 가장 최근 정부가 발행한 비율인 약 1%보다 최소 10배 이상 높다고 믿습니다. 게다가 3분의 1 이상은 잘못된 정보를 갖고 있으며 자신있게 잘못된 믿음을 갖고 있습니다. 특히, 남학생과 우익 성향의 학생들은 여학생과 중도/좌익 성향의 학생들보다 잘못된 정보를 받을 가능성이 더 높지만, 이유는 다릅니다. 남학생들은 옳고 그름에 대해 자신감을 갖는 경향이 있는 반면, 우익 성향의 학생들은 주로 틀렸을 때 더 자신감을 갖고 동기 부여된 추론의 초기 흔적을 암시합니다. 결정적으로, 실업자를 덜 자격이 있다고 생각하는 사람은 정보가 없는 사람이 아니라 잘못된 정보를 가진 사람입니다. 그러나 실험적 파일럿 연구의 결과는 잘못된 믿음이 변경될 수 있음을 보여줍니다. 학생들에게 혜택 남용에 대한 비례적인 정보를 제공하면 정확성이 크게 향상되고 잘못된 정보를 얻은 참가자의 비율이 줄어듭니다. 게다가",
-     "is_new": false
     }
    ]
   },
   {
    "key": "methodology",
    "name": "사회과학방법론",
-   "count": 603,
-   "new_count": 55,
+   "count": 601,
+   "new_count": 6,
    "papers": [
     {
      "id": "oa:W7237332307",
@@ -25437,7 +25526,7 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2749517?needAccess=true",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "집중적인 종단적 설계는 관찰 공간을 불평등하게 만듭니다. 고정 일정은 밤새 공백을 남기고, 신호 조건부 프로토콜은 프롬프트 시간을 무작위로 지정하며, 측정 버스트 설계는 밀집된 버스트를 주 단위로 분리하지만 표준 이산 시간 벡터 자동 회귀 분석은 모든 간격을 동일하게 처리합니다. 이 기사에서는 설계 생성 구간 혼합 하에서 그러한 분석이 추정하는 내용을 도출합니다. 확률 한계는 교차 시차 효과의 설계별 감쇠를 의미하며, 동시 상관 관계와 결합된 경우 수준 측정 오류는 정상성에서도 허위 교차 시차 효과를 생성합니다. 모델링되지 않은 느린 변화는 단일 계열에서는 .31, 버스트 샘플링을 사용하는 2단계 풀링에서는 .94로 위양성 비율을 더욱 증가시킵니다. 빠른 잠재 역학, 상관된 느린 추세 및 사건 잡음을 분리하는 2시간 척도 연속시간 상태 공간 모델은 32,000개의 시뮬레이션된 계열에서 등거리, 일주, 무작위 및 버스트 방식에 걸쳐 공칭 유형 I 오류 및 드리프트 적용 범위를 유지했습니다. 239일간의 경험 샘플링 연구를 재분석한 결과 모델 선택이 실질적인 결론을 뒤집는 것으로 나타났습니다. 모든 코드와 결과는 공개적으로 이용 가능합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236561392",
@@ -25458,7 +25547,7 @@
      "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2026.2744205?needAccess=true",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "원위 결과가 있는 성장 혼합 모델(GMM)은 다양한 궤적을 따르는 그룹을 식별하고 후속 결과에서 그룹 차이를 조사합니다. 시간 코딩은 종종 매개변수 해석의 문제로 처리되지만 모델 추정, 클래스 복구 및 최종 결과 추론에도 영향을 미칠 수 있습니다. 우리는 시간 코딩, 데이터 조건 및 인구 궤적 패턴을 변화시키는 두 가지 경험적 일러스트레이션과 시뮬레이션 연구를 통해 이러한 민감도를 조사했습니다. 대체 코딩에서는 때때로 다른 수의 클래스를 선택했습니다. 클래스 수가 고정된 경우에도 적합 모델은 클래스 복구 및 원위 결과 추정의 차이와 함께 수렴 및 로그 우도 솔루션 달성이 달랐습니다. 이러한 불일치는 모집단에 더 많은 클래스가 포함되었을 때 가장 두드러졌습니다. 더욱이, 각 코딩의 상대적 성능은 궤적 패턴에 따라 다양했으며 일관되게 가장 잘 수행되는 코딩은 없었습니다. 따라서 연구자는 실질적인 해석을 기반으로 기본 코딩을 선택하고 특히 많은 클래스가 고려되거나 추정이 불안정한 경우 대체 코딩에 대한 민감도를 조사해야 합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236773052",
@@ -25479,7 +25568,7 @@
      "pdf": "https://doi.org/10.1177/0282423x261505762",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "많은 국가에서 노동력 조사의 응답률이 시간이 지남에 따라 감소하여 수집된 데이터의 품질에 위험을 초래했습니다. 따라서 노동력 데이터 품질을 평가하려면 참여 추세와 응답자 구성에 대한 포괄적인 분석이 중요합니다. 이 기사에서는 개인을 대상으로 분기별로 실시하는 전화 설문조사인 IS-LFS(아이슬란드 노동력 조사)에서 21년(2003~2023) 동안의 단면적 응답률과 무응답 편향 추세를 분석합니다. 구체적으로 우리는 무응답을 (1) 알려진 전화번호가 없는 필드 없는 비접촉, (2) 알려진 전화번호가 있는 필드 있는 비접촉, (3) 거부의 세 부분으로 분해하고 응답률 및 무응답 편향 추세에 대한 상대적 기여도를 평가합니다. 우리의 결과에 따르면 응답률은 2003년 81.5%에서 2023년 49.7%로 연평균 1.5%포인트 감소한 반면, 평균 절대 상대 무응답 편향(비가중치)은 같은 기간 동안 두 배 이상 증가한 것으로 나타났습니다. 이러한 경향은 특히 2013년 이후 거부보다는 주로 비접촉(현장 및 비접촉)에 의해 주도되었습니다. 최근 몇 년간 이민 배경이 무응답을 예측하는 가장 강력한 요인이었고 연령과 교육이 그 뒤를 이었습니다. 노동력에 속하지 않는 개인은 고용된 사람에 비해 지속적으로 참여할 가능성이 적습니다. IS-LFS는 고용인구 비율을 평균 5.6%포인트 과대평가했다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236779307",
@@ -25497,7 +25586,7 @@
      "pdf": "https://doi.org/10.1177/0282423x261505750",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "대부분의 국가 통계청에서는 기본 집계 수준에서 소비자 물가 지수(CPI)를 측정하기 위해 Jevons 지수를 사용합니다. 공리적인 관점에서도 가장 적절한 비가중 가격지수로 간주됩니다. YBMD 지수는 Jevons 지수에 비해 몇 가지 매력적인 특성을 가지고 있습니다. 이 노트는 YBMD 지수의 인수분해를 활용함으로써 두 지수가 기준 기간과 현재 기간 사이의 상대적 가격 집중도에 따라 다르다는 것을 보여줍니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235939150",
@@ -25514,7 +25603,7 @@
      "doi": "10.1177/10982140261507034",
      "pdf": "https://doi.org/10.1177/10982140261507034",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236041776",
@@ -25534,7 +25623,7 @@
      "doi": "10.1177/00491241261500734",
      "pdf": "https://doi.org/10.1177/00491241261500734",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236329888",
@@ -25553,7 +25642,7 @@
      "doi": "10.1177/0193841x261510215",
      "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/0193841X261510215?download=true",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225010061",
@@ -25705,7 +25794,7 @@
      "pdf": "https://doi.org/10.1093/jssam/smag037",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "실시간 화상 인터뷰(VI) 도입은 코로나19 팬데믹이 시작될 때까지 제한되었습니다. 그 이후로 주로 VI 구현과 응답률, 표현, 측정 오류 등 데이터 품질에 대한 영향에 초점을 맞춘 방법론적 연구를 통해 활용도가 높아졌습니다. 그러나 이러한 새로운 모드 내에서 측량 데이터 수집 프로세스를 설명하는 파라데이터의 수집 및 사용은 지금까지 거의 주목을 받지 못했습니다. 이 연구는 사전 데이터 수집, 모집, 비디오 플랫폼, 인터뷰 프로세스 및 인터뷰 후 파라데이터를 포함하여 모든 설문조사 단계의 파라데이터를 포함하는 TSE(Total Survey Error) 프레임워크와 일치하는 VI 파라데이터의 새로운 유형을 개발하고 제시함으로써 이러한 격차를 해결합니다. 이 기사는 VI 파라데이터 수집 및 적용에 대한 모범 사례를 제시하며 VI 프로세스와 관련된 파라데이터를 체계적으로 논의한 최초의 기사입니다. 제시된 증거는 VI 파라데이터를 수집한 설문조사에 대한 범위 검토 및 비판적 평가를 기반으로 합니다. 범위 지정 검토를 통해 VI 파라데이터 수집이 지금까지 상대적으로 좁은 범위로 제한되어 있었고 전략적으로 계획되지 않았으며 결과 파라데이터가 일반적으로 충분히 활용되지 않았음이 분명합니다. 우리의 포괄적인 검토 및 종합은 다양한 조사 단계의 VI 파라데이터가 다양한 방식으로 조사 데이터를 평가하는 데 효과적으로 적용될 수 있는 잠재력을 가지고 있음을 보여줍니다. 새로운 예에 대한 토론과 결합",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225991607",
@@ -26330,7 +26419,7 @@
       "Jay G. Rueckl",
       "Laura M. Steacy",
       "Noam Siegelman",
-      "Ashley Edwards",
+      "Ashley A. Edwards",
       "Yaacov Petscher",
       "Nicole Patton Terry",
       "Matthew James Cooper Borkenhagen",
@@ -27002,7 +27091,7 @@
      "pdf": "https://doi.org/10.1093/jssam/smaf054",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "중저소득 국가(LMIC)의 설문조사에서 얻은 소비 및 지출(CE) 데이터는 사회적 불평등을 이해하고, 정책을 수립하고, 목표 혜택을 구현하는 데 매우 중요합니다. 그러나 이러한 데이터의 측정 오류를 조사한 연구는 거의 없습니다. 이 논문에서는 측정 오류의 잠재적 원인 중 하나인 응답자의 성별을 조사합니다. LMIC의 성 역할, 태도, 경험, 정체성의 급격한 차이로 인해 남성과 여성 응답자의 반응이 달라질 수 있다는 점을 고려하면 이는 중요합니다. 우리는 최근 인도의 46,000가구 이상을 대상으로 한 대규모 조사에서 수집된 34개 항목의 CE 값을 분석합니다. 이 가구 중 37%는 여성이었습니다. 우리는 남성과 여성 응답자의 데이터가 측정 동등성을 가지고 있는지 조사하기 위해 다중 그룹 확인 요인 분석을 사용합니다. 그런 다음 0 팽창 감마 모델을 사용하여 응답자의 성별이 0 값의 보급 및 0이 아닌 값의 크기와 연관되어 있는지 조사하고 성향 가중치를 사용하여 가능한 선택 편향을 조정합니다. 결과에 따르면 대부분의 CE 범주는 성별 효과를 나타내지만 효과 크기는 일반적으로 적당하지 않습니다. 효과 크기는 CE 범주에 따라 다르며 일반적으로 여성 응답자는 남성 응답자에 비해 0이 더 많고 0이 아닌 응답 값이 더 낮습니다. 하지만 항목별로 보면 연간 교육비나 30일 의료비 등은 남성에 비해 여성이 평균적으로 더 큰 것으로 나타났다. 우리",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7212108225",
@@ -28749,7 +28838,7 @@
      "pdf": "https://doi.org/10.1093/jssam/smag021",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "공간 샘플링 설계는 모집단 매개변수를 정확하게 추정하기 위해 연구 영역에서 반응 변수가 측정되는 위치를 결정합니다. 공간적으로 균형 잡힌 설계는 긍정적인 공간 연관성이 존재할 때 일반적으로 사용되는 추정기에 대한 정확한 결과를 산출합니다. 이중 균형 설계에는 공간 변수에 대한 공간 균형과 보조 변수에 대한 균형이라는 두 가지 균형 속성이 있습니다. 이중 균형 설계는 응답이 공간적으로 상관된 오류 항을 갖는 보조 변수의 선형 함수인 경우 효율적인 경향이 있습니다. 이 기사에서는 공간 및 보조 변수에 걸쳐 있는 공간에서 공간 균형이 동시에 달성되는 새로운 샘플링 목표를 제시합니다. 수치 결과는 우리의 이중 공간 균형 방법이 선형 및 비선형 초인구 모델 모두에 작동하여 공간 균형, 균형 또는 이중 균형 설계에 대한 매력적인 대안이 된다는 것을 보여줍니다. 우리는 단일 및 다중 응답 총계를 추정하기 위한 동일 확률과 동일 확률이 아닌 예제 애플리케이션을 제공합니다. 설계 기반 분산 추정기도 제공됩니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7221348381",
@@ -29174,7 +29263,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": ", lavaan 및 R의 관련 패키지(PsycInfo Database Record (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4391655104",
@@ -29193,7 +29282,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "관찰된 점수(예: 합산 점수 및 추정 요인 점수)는 기본 구성을 반영하는 것으로 가정되며 심리학에서 많은 용도로 사용됩니다. 구문은 LV 측정 모델(예: 공통 요인 모델)의 매니페스트 변수와의 관계에 의해 수학적으로 정의되는 잠재 변수(LV)로 조작되는 경우가 많습니다. 우리는 (a) 잠재 점수를 추정하고 사람을 분류하고 (b) LV 간의 구조적 관계를 복구할 목적으로 여러 유형의 관찰된 점수의 성능을 조사합니다. 실무를 더 잘 반영하기 위해 평가에서는 다양한 불확실성 원인(예: 샘플링 오류 및 모델 오류)을 고려합니다. 우리는 공통 요인 모델에 적용된 고전적 테스트 이론을 기반으로 관찰된 점수의 심리학적 특성을 검토하고, 해당 성능을 조사하는 시뮬레이션 연구에 대해 보고하고, 다양한 신뢰도, 표본 크기 및 모델 오류 조건에서 다양한 점수가 어떻게 수행되는지 설명하는 두 가지 실증적 예를 제공합니다. 우리는 관찰된 점수 사용에 대한 일반적인 권장 사항으로 결론을 내리고 향후 연구 방향에 대해 논의합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4392298124",
@@ -29214,7 +29303,7 @@
      "pdf": "https://doi.org/10.1037/met0000636",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "생태학적 순간 평가(EMA)에는 응답자의 현재 행동과 경험에 대한 반복적인 실시간 샘플링이 포함됩니다. 집중적인 반복 평가는 응답자의 부담을 증가시켜 EMA를 응답자의 비준수 및/또는 부주의하고 노력이 부족한 응답에 취약하게 만듭니다(C/IER). 우리는 (a) EMA 데이터의 C/IER 오염 정도를 측정하고 (b) 연구 전반에 걸쳐 C/IER의 궤적을 연구하기 위한 도구를 연구자에게 제공하는 혼합 모델링 접근 방식을 개발했습니다. 주의 깊은 행동과 C/IER 행동을 분리하기 위해 이 접근 방식은 전자적으로 관리되는 EMA에 일상적으로 기록되는 화면 시간의 부차적 정보를 활용하고 응답자의 행동에 대한 이론적 고려 사항을 세심하고 부주의한 화면 시간과 C/IER 궤적의 기능적 형태에 대한 구성 요소 모델로 변환합니다. 우리는 구성 요소 모델의 합리적인 선택을 통해 (a) C/IER로 인한 짧은 화면 시간과 동일한 측정에 대한 반복 노출로 인한 친숙성 효과를 분리할 수 있고, (b) 하루 내 효과와 하루 간 효과를 구별하여 C/IER 궤적을 세밀하게 이해하는 데 도움이 되며, (c) 주의력의 개인 간 차이를 조사할 수 있음을 보여줍니다. 이 접근 방식은 세심한 C/IER 화면 시간 분포가 충분한 분리를 나타내고 오염되지 않은 데이터 시나리오에서도 유효한 결론을 도출할 때 우수한 매개변수 복구를 보여줍니다. 접근 방식은 EMA 데이터에 설명되어 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4392817884",
@@ -29234,7 +29323,7 @@
      "pdf": "https://osf.io/jn69p/download",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "다양한 테스트 도구를 사용하여 개인차를 연구합니다. 테스트의 메타 분석은 특정 집단의 개인차가 테스트 클래스의 도움으로 감지될 수 있는지 여부를 이해하는 데 유용합니다. 이분법적 항목을 갖춘 테스트 장비의 정량적 메타분석적 평가 방법을 소개합니다. 이 방법은 베타 이항 분포 시험 점수를 가정하는데, 이는 많은 환경에서 타당하다고 입증된 가정입니다. 이러한 가정을 통해 이 방법에는 유사한 목적으로 신뢰도 추정을 사용하는 방법과 달리 표본 평균과 합계 점수의 표준 편차(또는 이에 상응하는 정답률 점수의 평균 및 표준 편차)만 필요합니다. 각 샘플에 대해 두 가지 매개변수가 추정됩니다. 평균 난이도와 개인차를 감지하는 테스트의 능력으로 해석될 수 있는 과분산 매개변수입니다. 제안된 이변량 메타 분석 접근법(무작위 또는 고정 효과)은 두 매개변수를 동시에 풀링하고 메타 회귀를 수행할 수 있습니다. 이변량 풀링은 평균 난이도 매개변수와 과분산 매개변수의 샘플 간 상관관계를 생성합니다. 부산물로서, 다른 추정치를 사용할 수 없을 때 불충분한 신뢰도에 대한 상관 계수를 약화시키는 데 사용할 수 있는 신뢰도 추정치를 얻습니다. 작업된 예제는 방법을 설명하고 R 코드가 제공됩니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4393949222",
@@ -29253,7 +29342,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "측정 불변성은 배경 변수에 대한 잠재 변수의 회귀를 뒷받침하는 가정입니다. 잠재 변수의 측정 모델 매개변수가 배경 변수 수준 전체에서 동일해야 합니다. 이 가정에 대한 항목별 위반은 차등 항목 기능이라고 하며 이론적으로 타당하고 의미 있는 결과를 보장하기 위해 이상적으로 실질적으로 설명할 수 있습니다. 과거 연구에서는 항목별 또는 개인별 공변량 측면에서 차등 항목 기능 효과를 설명하기 위한 통계적 접근 방식을 개발하는 데 중점을 두었습니다. 본 연구에서는 항목 응답 시간의 차이를 사용하여 차등적인 항목 기능을 통계적으로 설명할 수 있는지 테스트하는 데 사용할 수 있는 모델링 접근 방식을 제안합니다. 이를 위해 우리는 잠재 반응 프로세스 요인을 조작화하고 이 요인에 대한 항목별 그룹 차이가 항목 점수에서 관찰된 차이를 설명할 수 있는지 테스트합니다. 시뮬레이션 연구를 통해 모델의 속성을 조사하고 모델을 실제 데이터 세트에 적용합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4393949516",
@@ -29272,7 +29361,7 @@
      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2022/11/01/2022.10.28.514329.full.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "인간의 의사 결정 행동에는 자신감이라는 느낌으로 알려진 확실성에 대한 단계별 인식이 수반됩니다. 지금까지 결정과 자신감의 행동적, 계산적 해리에 상당한 관심이 집중되어 왔으며, 이로 인해 결정 정확도(메타인지 효율성)에 비해 신뢰 등급의 효율성을 정량화할 수 있는 측정 프레임워크에 대한 긴급한 필요성이 제기되었습니다. 이러한 프레임워크에 대한 고유한 추가 기능으로 일반화된 가우스 분포(GGSDT)를 활용하는 새로운 신호 감지 이론 패러다임을 개발했습니다. 이 프레임워크는 형상 및 척도 매개변수를 통해 관찰자의 메타인지 효율성과 내부 표준편차 비율을 각각 평가합니다. 형상 매개변수는 내부 분포의 첨도를 정량화하며, 무작위 추측(메타인지 감률)으로 인해 붕괴되는 가우스 이상 관찰자의 신뢰도 비율과 관련하여 실질적으로 이해될 수 있습니다. 이러한 해석은 의사결정 정확성이나 운영 특성 비대칭의 오염 효과와 관계없이 대부분 유지됩니다. 따라서 GGSDT는 지금까지 탐구되지 않은 연구 프로토콜(예: 예/아니오 대 강제 선택 메타인지 효율성의 직접 비교)을 가능하게 하며, 다양한 행동 과학 분야에서 응용 프로그램을 찾을 것으로 예상됩니다. 이 문서에서는 R 패키지(ggsdt)와 함께 GGSDT 분석에 대한 자세한 연습을 제공합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4393949658",
@@ -29296,7 +29385,7 @@
      "pdf": "https://doi.org/10.1037/met0000652",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "= 4,245명, 14~25세; 온라인 설문조사 패널에서 모집된 시스젠더 95%, 이성애자 70%, 유색인종 청소년 53%)는 2021년 청소년의 성적 지향 유동성(SO*FLY) 종단 연구에 대한 1차 조사를 완료했습니다. 현재 SOGIE, 과거 성적 유동성 및 사회인구학적 특성에 대한 누락 여부가 평가되었습니다. 전체적으로 참가자의 95.7%는 누락된 질문이 없었고, 3.8%는 1개의 질문이 누락되었으며, 0.5%는 2개 이상의 질문이 누락되었습니다. 과거의 성적 유동성과 지정된 성별이 가장 일반적으로 누락되었습니다. SOGIE 질문을 건너뛴 참가자와 나머지 표본 사이의 사회인구학적 차이는 미미했습니다. 조사된 항목의 누락률은 사회인구통계학적 특성 전반에 걸쳐 낮고 유사했으며, 이는 거의 모든 청소년이 SOGIE에 관한 설문조사 질문에 응답할 의향이 있음을 시사합니다. SOGIE 및 성적 유동성 항목은 모든 청소년의 건강을 개선하기 위한 임상 치료, 정책 결정, 개입 및 자원 개발에 대한 정보를 제공하기 위해 청소년에 대한 설문 조사 및 임상 평가에 포함되어야 합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4394726981",
@@ -29318,7 +29407,7 @@
      "pdf": "https://osf.io/ugs2r/download",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "이질성의 존재를 확인하기 위해 관용적 네트워크 구조를 비교하는 것은 많은 적용 설정에서 어려운 노력입니다. 이전에 연구자들은 개인차를 조사하기 위해 관용적 네트워크를 관찰하고, 관용적 네트워크 간의 상관관계를 계산했으며, 데이터의 다단계 구조(예: GIMME 및 mlVAR)를 활용하는 기술을 사용했습니다. 그러나 이러한 방법은 관용적 네트워크 구조의 동일성을 직접 테스트하는 것을 허용하지 않습니다. 본 논문에서는 INIT(Individual Network Invariance Test)를 제안한다. INIT는 구조 방정식 모델링(SEM)의 일반적인 모델 비교 사례를 고유 네트워크 구조로 확장하여 고유 네트워크 구조 간의 (비)동등성을 테스트합니다. 시뮬레이션 연구에서 우리는 χ2 차이 테스트와 AIC 및 BIC와 같은 모델 선택 기준의 거부율을 검사하여 포화 및 정리된 관용적 네트워크 구조 모두에서 INIT의 성능을 평가했습니다. 결과에 따르면 개인당 100개 이상의 데이터 포인트를 사용할 수 있을 때 INIT가 적절하게 수행되는 것으로 나타났습니다. 포화된 네트워크에 INIT를 적용할 때 AIC는 모델 선택 기준으로 가장 좋은 성능을 보였고, BIC는 정리된 네트워크에 INIT를 적용할 때 더 좋은 결과를 보였습니다. 경험적 예에서 우리는 INIT가 연구자들에게 관용적 네트워크 구조와 관용적 네트워크 문자열 내에서 (비)동등성을 테스트하는 수단을 어떻게 제공하는지 설명하면서 이 새로운 기술의 가능성을 강조합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4394999917",
@@ -29337,7 +29426,7 @@
      "pdf": "https://doi.org/10.1037/met0000650",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "Dishop(기록 2022-78260-001 참조)은 합의 출현 모델(CEM)을 출현에 대한 향후 연구에 유용한 도구로 식별하지만 긍정적인 자기 회귀 효과를 갖는 자기 회귀 모델은 연구자들이 배제해야 할 중요한 대체 데이터 생성 메커니즘이라고 주장합니다. 여기에서 우리는 대체 데이터 생성 메커니즘이 전부는 아니더라도 대부분의 비실험적 설계에 가능성이 있다는 점을 인정하고 CEM이 잘못된 결과를 제공할 수 있는 사례를 식별하려는 Dishop의 시도에 감사드립니다. 그러나 일련의 독립적인 시뮬레이션에서는 세 가지 주요 분석 중 두 가지를 재현할 수 없었으며 세 번째 분석 결과는 이전 결론을 뒷받침하지 못했습니다. 불일치는 Dishop의 시뮬레이션 코드와 기사에 설명된 모델을 시뮬레이션하지도 않고 주목할만한 긍정적인 자기회귀 효과도 포함하지 않는 일관되지 않은 모델 사양에서 비롯된 것으로 보입니다. 우리는 연구자들이 대체 데이터 생성 메커니즘의 가능성을 평가하기 위해 적용할 수 있는 네 가지 주요 기준(이론, 매개변수 복구, 실제 데이터에 대한 적합성 및 맥락)을 제안함으로써 더 넓은 문헌에 기여합니다. 자기회귀 효과 및 출현 데이터에 적용하면 이러한 기준은 (a) 심리학 이론은 일반적으로 행동에 대한 긍정적인 자기회귀 효과 대신 부정적인 것을 제안하고, (b) 시뮬레이션된 데이터에서 실제 자기회귀 매개변수를 복구하는 것이 어렵고, (c) 실제 데이터가 여러 차이에 걸쳐 설정된다는 것을 보여줍니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4396673092",
@@ -29358,7 +29447,7 @@
      "pdf": "https://arxiv.org/pdf/2301.11873",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "베이지안 모델 비교(BMC)는 경쟁 계산 모델의 상대적 장점을 평가하고 모델 선택 결정에 불확실성을 전파하는 원칙적인 접근 방식을 제공합니다. 그러나 BMC는 고차원 중첩 매개변수 구조로 인해 인기 있는 계층적 모델 클래스에 적용하기 어려운 경우가 많습니다. 이러한 다루기 힘든 문제를 해결하기 위해 우리는 확률 프로그램으로 인스턴스화할 수 있는 모든 계층적 모델 세트에서 BMC를 수행하기 위한 딥 러닝 방법을 제안합니다. 우리의 방법은 상각 추론을 가능하게 하기 때문에 실제 데이터 적용에 앞서 사후 모델 확률을 효율적으로 재추정하고 빠른 성능 검증을 가능하게 합니다. 일련의 광범위한 검증 연구에서 우리는 최첨단 브리지 샘플링 방법에 대해 우리 방법의 성능을 벤치마킹하고 모든 BMC 설정에서 우수한 상각 추론을 보여줍니다. 그런 다음 부분적으로 암시적인 가능성으로 인해 이전에 BMC에서 다루기 힘든 것으로 간주되었던 4가지 계층적 증거 축적 모델을 비교하여 방법을 보여줍니다. 또한 전이 학습을 활용하여 훈련 효율성을 향상시키는 방법을 보여줍니다. 우리는 모든 분석을 위한 재현 가능한 코드와 우리 방법의 오픈 소스 구현을 제공합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4396677692",
@@ -29377,7 +29466,7 @@
      "pdf": "https://doi.org/10.1037/met0000658",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "여러 연구 또는 표본의 데이터를 통합 분석하기 위한 실용적인 방법에 대한 관심이 높아졌으며 요인 점수를 사용하여 구성을 표현하는 것이 모든 개별 항목을 포함하는 잠재 변수 모델에 대한 대중적이고 실용적인 대안이 되었습니다. 연구자들은 통합 데이터 분석을 위해 동일한 구성을 나타내는 점수가 표본 전체에서 유사한 측정 항목에 있어야 한다는 것을 알고 있지만, 방법론적 문헌은 요인 점수가 그러한 요구 사항을 충족하는지 여부가 불분명합니다. 이 노트에서 우리는 연구자가 잠재 요인을 표본 전체의 동일한 측정 항목으로 성공적으로 보정하더라도 요인 점수(잠재 요인에 대한 추정치이지만 요인 자체는 아님)가 측정 불변이 아닐 수 있음을 보여줍니다. 특히, 우리는 대중적인 회귀 방법을 기반으로 계산된 요인 점수가 일반적으로 측정 불변이 아니라는 것을 증명합니다. 놀랍게도 이러한 점수는 항목이 변하지 않는 경우에도 변하지 않을 수 있습니다. 우리는 또한 우리의 결론이 개별 항목에 대한 항목 응답 모델의 유사한 수축 점수, 즉 예상되는 사후 점수와 최대 사후 점수로 일반화됨을 보여줍니다. 연구자는 비불변성을 설명하는 측정 모델에서 점수를 얻은 경우에도 교차 표본 분석에 요인 점수를 직접 사용할 때 주의해야 합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4403185304",
@@ -29404,7 +29493,7 @@
      "pdf": "https://doi.org/10.1037/met0000640",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "행동 연구에서 결과의 이질성은 오랫동안 다양한 이론적 모델의 타당성에 대한 도전으로 인식되어 왔습니다. 그러나 최근 연구자들은 이질성을 인정할 뿐만 아니라 특히 응용 연구에서 적극적으로 다루어야 할 문제로 인식하기 시작했습니다. 그러나 심각한 문제는 이질적인 결과가 예상되는 경우 고전적인 심리학적 방법이 실용적인 권장 사항을 만드는 데 적합하지 않다는 것입니다. 이 기사에서 우리는 이질성을 위해서는 기본 및 응용 행동 방법, 그리고 다양한 유형의 행동 전문 지식 간의 분리가 필요하다고 주장합니다. 우리는 행동 전문 지식을 평가하기 위한 새로운 프레임워크를 제안하고 다양한 기계 학습 방법을 통해 선택적 전문 지식을 쉽게 자동화할 수 있음을 제안합니다. 우리는 배터리 전기 자동차에 대한 선호도에 대한 실증적 연구를 통해 우리 프레임워크의 가치를 설명합니다. 우리의 결과는 기본 다중암적 산적 알고리즘이 최상의 개입을 선택하는 데 있어서 인간의 전문 지식보다 훨씬 더 뛰어난 성능을 발휘한다는 것을 시사합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4403887648",
@@ -29426,7 +29515,7 @@
      "pdf": "https://doi.org/10.31219/osf.io/yc3p7_v3",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "최근 몇 년 동안 형식적 모델링을 통해 심리학 이론화를 발전시키려는 요구가 커지고 있습니다. 우리는 확률 네트워크 모델(PNM)을 사용하여 심리학 이론을 개발하는 방법론을 소개함으로써 이에 답합니다. 통계 역학에서 시작된 PNM은 상호 작용하는 요소의 네트워크를 설명하며 이미 태도, 감정 및 의사 결정 연구에서 탁월한 이론을 형성했습니다. 우리는 PNM을 개발, 분석 및 검증하는 방법에 대한 체계적인 가이드를 제시합니다. 우리 프레임워크의 핵심은 연구자가 특정 상황에서 시작하고, 확장하고, 적응할 수 있는 9가지 기본 모델을 검토하는 것입니다. 이러한 각 모델에 대해 기존 응용 프로그램에 대해 논의하고 새로 개발된 두 가지 도구인 시뮬레이션용 NetLogo 모델과 평균 필드 역학 시각화용 R 패키지를 사용하여 이를 분석합니다. 사례 연구로서 우리는 프레임워크의 가정과 한계를 논의하기 전에 이론 개발에 PNM을 적용하는 방법을 보여줍니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4412470629",
@@ -29445,7 +29534,7 @@
      "pdf": "https://osf.io/prm3t_v1/download",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "시계열(또는 집중적인 종단적) 데이터는 이제 심리학에서 널리 사용되고 있습니다. 이러한 데이터를 통해 연구자들은 전례 없는 수준의 세분성으로 인간 기능의 역학을 연구할 수 있습니다. 이러한 역학을 포착하려면 적절한 통계 모델이 필요합니다. 이러한 데이터에 대한 강력한 모델 클래스 중 하나는 숨겨진 마르코프 모델(HMM)입니다. 이 모델은 시간이 지남에 따라 각각 다른 확률 분포와 연관된 여러 잠재 상태 사이를 전환하는 프로세스를 포착합니다. 벡터 자기회귀 모델과 같은 현재 널리 사용되는 선형 모델과 달리 HMM은 더 복잡한 동작을 포착할 수 있습니다. 이는 여러 평형 상태(예: 양극성 장애에서 볼 수 있는 조증 및 우울 상태)를 특성화하고 시스템이 이들 사이에서 어떻게 전환되는지 정량화할 수 있습니다. HMM은 또한 고도로 치우친 분포 또는 다중 모드 분포와 같은 일반적인 경험적 데이터 패턴에 적합할 수 있습니다. 개인 내 역학 모델링의 효율성에도 불구하고 HMM은 널리 사용되지 않습니다. 우리는 세 가지 이유를 봅니다: (1) 연구자들 사이의 제한된 친숙함, (2) 다단계 HMM을 위한 소프트웨어의 최근 가용성, (3) HMM 추정, 분석 및 보고의 상대적 복잡성. 여기에서는 R 패키지 mHMMbayes를 사용하여 심리적 시계열 데이터를 분석하는 각 단계를 독자에게 안내하는 완전히 재현 가능한 튜토리얼을 포함하여 심리학에서 시계열 데이터를 작업하는 연구자에게 HMM에 대한 부드러운 소개를 제공하여 이러한 문제를 해결합니다. 우리는 당신을 바랍니다",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7138896812",
@@ -29464,7 +29553,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "모든 그럴듯한 교란 소스를 포함하는 DAG는 응용 연구에 적합합니다. 제안된 반복 그리기 절차는 신뢰할 수 있는 인과관계 DAG를 구축하려는 목표와 직접적으로 일치합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7143299264",
@@ -29486,7 +29575,7 @@
      "pdf": "https://osf.io/9r5ku",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "이중요인 예측 모델은 계층 구조의 일반 요인과 그룹 요인의 타당성을 동시에 조사하는 매력적인 방법이었습니다. 품목 분할은 이중 요인 맥락에서 자주 적용되었지만 이중 요인 모델의 이러한 모든 적용은 하나의 항목이 하나의 요인에만 로드되는 단순 요인 구조를 위해 개발된 분할 전략을 기반으로 했습니다. 이중 요소 모델의 이중 로딩 구조를 고려할 수 있고 사용자가 항목 분할 후에도 이중 요소 구조를 유지할 수 있도록 하는 소포를 생성하는 방법에 대해서는 아직 탐구되지 않은 상태입니다. 더욱이, 품목 분할 자체가 이중요인 예측 모델의 맥락에서 유익한지 해로운지 여부가 불분명합니다. 본 연구에서는 이중 요소 모델을 위한 8가지 구획 전략을 제안하고 (a) 품목 수준 모델링보다 구획 성능이 더 좋은지 여부와 (b) 8가지 품목 구획 전략이 이중 요소 예측 모델의 통계적 성능에 미치는 영향을 조사합니다. 구획이 일반적으로 비바이팩터 모델의 통계적 성능을 향상시킨다는 것을 보여주는 이전 연구와는 달리, 현재 시뮬레이션과 경험적 예는 (a) 품목 수준 모델이 전체적으로 구획 전략을 능가하는 경향이 있고 (b) 서로 다른 구획 전략이 실질적으로 다른 통계 성능을 나타냄을 명확하게 보여줍니다. 8가지 구획전략 중 각각의 요소부하 차이를 최대화하는 3가지 구획전략",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7148381603",
@@ -29505,7 +29594,7 @@
      "pdf": "https://osf.io/qpj35/download",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "단면 네트워크 분석에서 누락된 값을 처리하는 방법은 주로 정규화 기술과 함께 연구되어 왔습니다. 그러나 노드별 다중 회귀에 기반한 BIC를 통한 이웃 선택과 같은 비정규화된 대안은 심리적 네트워크에 대한 실행 가능한 대안으로 나타났습니다. 또한 모델 선택의 지역화된 접근 방식은 누락된 값이 포함된 데이터 세트에 특히 적합한 이웃 선택을 렌더링합니다. 본 연구에서는 누락된 값을 처리하기 위해 직접 및 2단계 EM 절차와 함께 다중 대치, 즉 누적 및 그룹화된 MI를 기반으로 하는 두 가지 접근 방식을 제시합니다. 또한 로그 우도 및 BIC 계산에 사용되는 표본 크기 계산에 대한 다양한 접근 방식이 논의되고 평가됩니다. 누락된 데이터 처리 접근 방식의 성능과 표본 크기를 결정하는 방법을 조사하기 위해 네트워크 크기, 관찰 수 및 누락 수준의 변화를 포괄하는 시뮬레이션 연구가 수행됩니다. 평가 기준에는 부분 상관관계의 편향과 추정된 노드 강도뿐만 아니라 에지 세트의 복구도 포함됩니다. 연구 결과에 따르면 2단계 EM 접근 방식은 관찰 수가 매우 많을 때 누락을 적절하게 처리할 수 있는 가장 빠른 방법입니다. 노드 수에 대한 관측 수의 비율이 낮고 누락률이 높을수록 누적 MI가 선호되는 옵션으로 나타납니다. 표본 크기 계산과 관련하여, 특히 다음과 같은 경우",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7151066312",
@@ -29529,7 +29618,7 @@
      "pdf": "https://doi.org/10.1037/met0000820",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "), 단순 계산보다 더 정확하고 해석 가능한 추정치를 산출합니다. 이 프레임워크는 의미론적 풍부함을 통계적 추론의 문제로 재구성하여 언어, 인구 및 실험적 맥락에 걸쳐 개념적 데이터를 비교하기 위한 원칙적인 기초를 제공합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7152738411",
@@ -29552,7 +29641,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "순환 현상은 특히 집중적인 종단적 데이터에서 흔히 관찰됩니다. 코사인 함수를 사용하여 순환 패턴을 분석하는 기존 접근 방식은 다중 솔루션 문제로 인해 어려움을 겪는 경우가 많습니다. 이 문제를 해결하기 위해 연구자들은 코사인 함수를 사인과 코사인 항의 조합으로 재구성했습니다. 이 재공식화는 계산을 단순화하고 다중 솔루션 문제를 해결하지만 매개변수 해석을 복잡하게 만들고 개별 예측변수가 순환 패턴의 특징에 어떻게 영향을 미치는지 평가하기 어렵게 만듭니다. 이러한 격차를 해소하기 위해 우리는 순환 패턴 특징을 직접 모델링하는 동시에 개별 예측 변수 효과를 평가할 수 있는 2단계 하이브리드 베이지안 접근 방식을 제안합니다. 시뮬레이션 연구를 통해 우리는 제안된 방법이 무시할 수 있는 편향과 허용 가능한 적용 범위를 제공한다는 것을 입증합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7154598118",
@@ -29572,7 +29661,7 @@
      "pdf": "https://psycnet.apa.org/fulltext/2027-56803-001.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "최소 절대 축소 및 선택 연산자(올가미) 및 베이지안 변수 선택과 같은 최신 정규화 및 변수 선택 방법은 심리학 연구자가 과적합 위험을 줄이고 향후 샘플의 예측을 개선하며 모델 해석 가능성을 높이는 데 중요한 도구입니다. 누락된 데이터는 심리학적 데이터에서 흔히 발생하지만 누락된 데이터를 해결하기 위한 원칙적인 방법과 이러한 현대적인 변수 선택 방법을 결합하는 것은 간단하지 않습니다. 이 과제는 Gunn et al.의 최근 기사에 잘 설명되어 있습니다. (2023)은 누락된 데이터를 해결하기 위해 올가미와 다중 대체를 결합하는 세 가지 접근 방식을 비교합니다. 조사된 각 접근 방식은 선택된 예측변수 측면에서 현저하게 다른 결과를 가져옵니다. 그들의 연구 결과는 변수 선택을 위한 올가미의 한계를 강조합니다. 이 기사에서는 다중 귀속 데이터를 사용하여 베이지안 변수 선택 방법인 SSVS(확률적 검색 변수 선택)를 구현하는 방법을 보여줍니다. SSVS는 변수 선택을 위한 원칙적이고 일관된 방법이며 예제 데이터 세트 및 시뮬레이션 연구에서 올가미에 비해 장점을 보여줍니다. 기존 소프트웨어를 사용하여 SSVS에 대한 ITS 전략을 적용하는 것은 간단합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7159603715",
@@ -29593,7 +29682,7 @@
      "pdf": "https://doi.org/10.1037/met0000832",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "² = .80), 이는 심리학 연구에서 거의 충족되지 않는 수치입니다. 둘째, 각 ML 모델은 특정 조건에서 다른 모델보다 성능이 뛰어났지만 차선의 데이터 특성에 대해 일관되게 우수하거나 완전히 견고한 모델은 없었습니다. 우리는 데이터 품질이 근본적으로 예측 성능을 제한한다는 점을 강조하고 심리학 연구에서 유연한 ML 모델과 더 단순한(정규화된 선형) 기준선 간의 비교 해석에 대해 논의합니다. (PsycInfo 데이터베이스 레코드 (c) 2026 APA, 모든 권리 보유).",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7223201381",
@@ -29611,7 +29700,7 @@
      "pdf": "https://doi.org/10.1177/25152459261504332",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "Min et al. (2026)은 심리학 분야의 지도형 기계 학습(ML) 연구의 투명성과 신뢰도를 향상하기 위한 시의적절한 체크리스트를 제공합니다. 나는 이 목표를 강력히 지지하며 회고적 보고에 대한 그들의 초점이 가치 있고 기사의 적절한 범위라는 것을 인식합니다. 그러나 나는 정보 유출과 절차적 과적합이라는 두 가지 관련 문제가 프레임워크에서 더 강조되어야 한다고 제안합니다. 둘 다 명백히 투명한 보고에도 불구하고 모델 성능에 대한 낙관적인 추정치를 생성할 수 있습니다. 나는 체크리스트에 대해 두 가지 확장을 제안합니다. 즉, 정보 유출을 감사할 수 있도록 하는 보고 요구 사항과 사전 등록을 통한 주요 분석 결정의 예상 사양입니다. 나는 이러한 추가 사항이 독자와 검토자의 심리학 분야 지도 ML 분석의 신뢰성을 평가하는 능력을 더욱 강화할 것이라고 주장합니다. 더욱이, 이러한 문제를 충분히 강조하지 않는 포괄적인 지침은 유효한 모델 평가에 대한 위협이 배제되었다는 부당한 확신을 갖게 하여 정보 유출이나 절차적 과적합이 감지되지 않은 상태로 유지될 수 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4403099542",
@@ -29628,7 +29717,7 @@
      "doi": "10.1037/met0000675",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7221815831",
@@ -30350,7 +30439,7 @@
      "abstract": "Eta‐squared ( η 2 ) is the most widely reported proportion‐of‐variance effect size in ANOVA, yet its estimators are biased and non‐normality is rarely studied. We prove that, for balanced one‐way fixed effects ANOVA, no function of the usual F ‐statistic—the class containing the estimators in routine use—is exactly unbiased for fixed effects η 2 , though the non‐centrality and Cohen's f 2 admit exact unbiased estimation; this clarifies why popular ‘unbiased’ estimators are only approximate. We derive the leading‐order, kurtosis‐induced bias of the non‐centrality‐based estimator and propose a kurtosis‐robust correction that uses an L‐moment kurtosis estimate to remove this drift. Across Monte Carlo conditions and an out‐of‐sample heavy‐tailed family, it attains the lowest root mean square error among those studied and markedly reduces kurtosis‐induced bias drift.",
      "url": "https://doi.org/10.1111/bmsp.70075",
      "doi": "10.1111/bmsp.70075",
-     "pdf": "https://doi.org/10.17605/osf.io/r8fkv",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bmsp.70075",
      "first_seen": "2026-10-02T10:44:47+09:00",
      "abstract_ko": "초록 에타 제곱( θ 2 )은 분산 분석에서 가장 널리 보고된 분산 비율 효과 크기이지만, 추정자는 편향되어 있고 비정규성은 거의 연구되지 않습니다. 우리는 균형된 일원 고정 효과 ANOVA의 경우, 비중심성과 Cohen의 f 2가 정확한 편향되지 않은 추정을 허용하더라도 일반적인 F -통계(일상적으로 사용되는 추정값을 포함하는 클래스)의 어떤 함수도 고정 효과 eta 2 에 대해 정확하게 편향되지 않음을 증명합니다. 이는 인기 있는 '편향되지 않은' 추정치가 단지 근사치인 이유를 명확히 합니다. 우리는 비중심성 기반 추정기의 선행차 첨도 유발 편향을 도출하고 이러한 드리프트를 제거하기 위해 L-모멘트 첨도 추정치를 사용하는 첨도에 강한 수정을 제안합니다. 몬테카를로 조건과 표본 외 두꺼운 꼬리 계열 전체에서 연구된 조건 중 가장 낮은 평균 제곱근 오차를 달성하고 첨도에 의해 유발된 편향 드리프트를 현저히 줄입니다.",
      "is_new": false
@@ -30417,7 +30506,7 @@
      "pdf": "https://discovery.ucl.ac.uk/id/eprint/10233445/1/Brown_jssammanuscript%20revised.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "응답률이 감소하고 설문조사 비용이 증가하는 가운데 신뢰할 수 있고 비용 효율적인 데이터 수집 방법을 식별하는 것이 중요합니다. 코로나19 팬데믹 기간 동안 주요 사회 조사에서는 직접 데이터 수집 대신 비디오 인터뷰를 채택하기 시작했습니다. 그러나 측정 품질에 미치는 영향은 아직 충분히 연구되지 않았습니다. 본 연구는 비확률 편의 표본에서 20~40세 응답자 1,692명을 세 가지 모드 중 하나에 무작위로 할당한 첫 번째 대규모 실험의 데이터를 사용하여 비디오, 웹 및 직접 설문 조사 모드 간의 모드 효과를 비교함으로써 이러한 명백한 격차를 해결합니다. 우리는 두 가지 주요 측정 품질 지표인 항목 무응답과 응답 분포에 중점을 둡니다. 우리의 결과에 따르면 비디오 인터뷰는 대면 인터뷰보다 항목 무응답 수준이 약간 낮았지만 이러한 차이는 거의 무시할 수 있었습니다. 면접관이 관리하는 모드 간에 설문조사 질문에 대한 응답의 측정 차이는 미미한 반면, 비디오 응답과 웹 응답 간의 차이는 특히 정신 건강 및 재정적 어려움과 같은 민감한 항목에서 더욱 분명했습니다. 우리의 연구 결과에 따르면 비디오 인터뷰는 직접 설문 조사와 유사하지만 인터뷰어의 존재와 관련된 일반적인 사회적 바람직성 편견으로 인해 어려움을 겪을 수도 있습니다. 전반적으로 이러한 결과는 유망하며 비디오 인터뷰가 전통적인 대면 설문조사에 대한 귀중한 보완 또는 대안이 될 수 있음을 시사합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7215034923",
@@ -30824,7 +30913,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "면접관은 면접 상호 작용 중 행동이 데이터 품질과 응답자의 부담에 영향을 미칠 수 있기 때문에 면접 결과에 중요한 역할을 합니다. 면접관 행동에 대한 기존 모델은 면접관이 스크립트 프로토콜에서 벗어나는 다양한 이유를 가정하지만 이러한 모델에는 면접관의 의사 결정을 주도하는 정보라는 퍼즐의 필수 요소가 부족합니다. 본 논문에서는 인터뷰 과정에서 면접관이 획득한 정보의 모델을 제안합니다. 이는 물리적 인터뷰 환경과 응답자의 문앞 행동(면접관 관찰이라고도 함)에 대한 면접관의 초기 인상과 설문조사 질문에 대한 응답을 묻고 기록함으로써 얻은 응답자에 대한 면접관의 지식에 중점을 둡니다. 이 모델을 평가하기 위해 우리는 컴퓨터 오디오 녹음 인터뷰(CARI) 녹음, 인터뷰어 관찰, 가구 인터뷰 중에 수집된 설문조사 응답을 포함하여 2014년 소득 및 프로그램 참여 조사(SIPP) 패널의 1차 조사에서 얻은 여러 데이터 및 파라데이터 소스를 사용했습니다. 이전 연구와 마찬가지로 질문 특성은 면접관 행동 모델에서 가장 강력한 예측 변수였습니다. 그러나 우리는 면접관 관찰 및 설문 조사 응답 데이터를 포함하여 면접 중에 얻은 정보를 면접관이 사용하여 질문에 대한 편차를 알리는 제한적인 증거를 찾았습니다. 향후 연구 및 면접관 교육에 미치는 영향은 매우 큽니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7214502273",
@@ -32022,7 +32111,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "자체 관리 설문조사로의 전환에는 응답률을 극대화하기 위해 여러 요청에 걸쳐 전체적인 디자인을 적용할 수 있는 기회가 포함됩니다. 요청 순서를 개선하는 방법 중에는 설문 조사를 요청하는 사람, 요청 시기, 사용되는 모드 및 기타 설계 기능을 다양하게 하는 것이 있습니다. 본 연구에서는 응답 개선을 위한 전략으로 설문 조사 요청에 조직 리더를 포함시키는 방법을 모색했습니다. 서로 다른 시간과 방식에 따라 리더십과 관리자 역할을 수행하는 행위자들로부터 일련의 서로 다른 메시지를 사용하는 4가지 연구가 수행되었습니다. 조직 리더의 메시지를 중간에 삽입해도 모든 메시지가 설문조사 관리자로부터 전달되었을 때와 비교하여 응답률이 크게 향상되지 않았습니다. 그러나 설문조사 관리자가 보낸 이메일 리더 메시지에 URL이 포함되고 마지막 두 개의 알림에 메일이 사용되었을 때 응답률이 증가하고 더 많은 응답이 더 빨리 들어왔습니다. 결과는 설문 조사 연구원이 대상 인구를 위한 전체적인 커뮤니케이션 전략을 개발하는 데 더 많은 관심을 기울여야 함을 시사합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7212127180",
@@ -32043,7 +32132,7 @@
      "pdf": "https://academic.oup.com/jssam/advance-article-pdf/doi/10.1093/jssam/smag015/71013226/smag015.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "패널 회원을 대상으로 한 연례 설문조사에서는 일부 정보를 (신뢰할 수 있게) 수집할 수 없습니다. 문자 메시지(SMS)는 패널의 대규모 대표 하위 집합이 이러한 방식의 설문조사에 동의하는 경우 시간에 민감한 응답을 수집하는 데 매우 적합합니다. 우리는 다음을 조사합니다: (1) 문자 메시지 질문에 동의하는 응답자의 비율은 얼마나 됩니까? 이는 샘플 코호트, 모드 및 이전에 동의를 요청했는지 여부에 따라 어떻게 달라지나요? (2) 설문지 내 동의 질문 배치의 효과는 무엇입니까? (3) 이후 웨이브에서 비동의자에게 다시 질문함으로써 해당 샘플의 편향이 감소됩니까? (4) 문자 메시지 질문에 대한 동의를 구함으로써 인터넷이 아닌 사용자에게 어떤 적용 범위가 제공됩니까? 우리는 사회 이해 혁신 패널: 영국 가구 종단 연구의 두 가지 물결(IP13 및 IP15) 내 실험 데이터를 사용합니다. 대부분의 응답자는 처음 질문을 받았을 때 문자 메시지로 질문을 받는 데 동의했습니다(IP13의 경우 69%, IP15의 경우 74%). IP13에서 동의를 거부한 사람들 중 2년 후 다시 요청했을 때 55%가 동의했습니다. 대면 응답자는 웹 응답자보다 동의할 가능성이 더 높았습니다. 일찍 질문했을 때보다 설문지 후반부에 실험적으로 질문했을 때 동의한 응답자가 약간 더 많았습니다(2.4% 포인트, 즉 1.5% 포인트). 동의를 다시 요청하면 동의하지 않은 사람의 비율이 줄어들었을 뿐만 아니라 다양한 사회 인구통계학적 특성에 걸쳐 측정된 비동의 편견도 감소했습니다. 일부 패널 회원은",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7212145088",
@@ -32063,7 +32152,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "조사 비용 및 오류 예측의 불확실성을 고려하는 위험을 고려한 중지 규칙을 도입합니다. 이 규칙은 몇 가지 주요 통계와 예산이 부족한 반복 설문조사에 특히 유용합니다. 새로운 설계 기능을 추가하지 않고도 주요 통계의 품질에 대한 부정적인 영향을 최소화하는 것을 목표로 사례의 하위 집합을 조기에 중지하여 비용 제약 조건을 충족하는 데 도움이 됩니다. 데이터 수집 프로세스에서 사례 하위 집합을 중지하는 결정 규칙을 구현하려면 설문 조사 관리자는 중지할 사례 집합은 물론 중지할 시기도 선택해야 합니다. 중지 규칙을 조기에 구현하면 비용 절감을 극대화하는 데 도움이 될 수 있으며, 나중에 더 많은 데이터가 수집됨에 따라 불확실성이 줄어들면서 결정을 내릴 수 있습니다. 예측에 의존하는 중지 규칙을 구현하기 위한 \"최적\" 시점을 동적으로 식별하는 것은 데이터 수집 중에 향후 결과를 알 수 없기 때문에 어려울 수 있습니다. 우리는 건강 및 퇴직 연구의 데이터를 사용하여 시기가 위험을 고려한 중지 규칙의 성과에 어떤 영향을 미치는지 분석합니다. 몬테카를로 방법은 결정을 중단할 때의 불확실성을 정량화하는 데 사용됩니다. 우리의 연구는 8~10번의 통화 시도 후 중지 규칙을 구현하면 동일한 수준의 데이터 품질을 유지하면서 인터뷰당 통화 시도 횟수가 가장 적은 여러 시나리오를 보여줍니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7212148556",
@@ -32087,7 +32176,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "2020년 미국 대선 전 여론조사는 40년 만에 전국 여론조사에서 가장 높은 오차를 기록했고 도널드 트럼프의 지지도를 상당히 과소평가했다. AAPOR 태스크포스는 여론조사 오류 중 적어도 일부는 차별적인 당파적 무응답으로 인해 발생했을 가능성이 있지만 이러한 역학은 응답자와 무응답자를 비교하지 않고는 평가할 수 없다고 제안했습니다. 선거, 여론 조사, 사회 조사에 사용되는 많은 일반적인 샘플링 방법에는 모든 샘플 단위에 대한 정당 식별에 대한 신뢰할 수 있는 데이터가 포함되어 있지 않으므로 당파적 무응답 편견을 측정하고 완화하기가 어렵습니다. 등록 기반 표본을 사용한 설문조사는 유권자 데이터베이스를 활용하여 당파적 무응답을 설명하고 자체 보고된 투표율을 검증했으며, 이는 이러한 행정 데이터가 주소 기반 표본에 의존하는 일반 인구 조사에도 효과적일 수 있음을 시사합니다. 이 기사에서는 온라인 및 우편으로 실시된 미국 성인을 대상으로 한 전국 주소 기반 설문조사에서 유권자 및 소비자 데이터베이스를 소규모 상황별 데이터와 함께 사용하여 차별적인 당파적 무응답을 측정하고 수정하는 방법을 평가합니다. 유권자 및 소비자 데이터베이스와 선거구 수준의 선거 결과와 일치하는 기존 설문조사 패널을 사용하여 당파적 성향을 예측하는 모델이 개발되었습니다. 설문조사를 위해 샘플링된 주소 중 86%가 유권자 또는 소비자 데이터베이스와 일치했으며 응답자 중 65%가 자신이 선호하는 정당과 일치하는 당파성을 예측했습니다. su에 예측된 당파성 포함",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7212168412",
@@ -32108,7 +32197,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "웹 조사는 응답자의 사고 과정을 이해하고 설문조사 질문을 개선하기 위해 웹 설문조사 환경에서 실시되는 인지 인터뷰를 적용한 것입니다. 질적 데이터를 분석 가능한 형식으로 변환하기 위한 필수 단계인 응답 코딩이 필요한 개방형 질문을 사용하는 경우가 많습니다. 이는 노동 집약적이고 어려우며, 자체 평가 건강(SRH)과 같은 주관적이고 평가적인 평가를 조사하는 경우 더욱 그렇습니다. 대규모 언어 모델(LLM)의 최근 발전은 이 단계의 자동화를 위한 유망한 방법을 제공합니다. 그러나 언어적 뉘앙스로 인해 코딩이 더욱 복잡해지는 다국어 및 다문화 상황에서는 그 효과가 아직 충분히 검증되지 않았습니다. 이 연구에서는 5개 국가(미국, 멕시코, 독일, 영국, 스페인)와 4개 언어(영어, 스페인어, 독일어, 한국어)로 실시된 설문 조사에서 SRH 질문에 대한 웹 조사에 대한 공개 텍스트 응답의 LLM 자동 코딩을 조사했습니다. 우리는 SRH 속성(예: 건강 행동, 질병) 및 코딩된 속성의 톤(예: 건강과 관련하여 호의적, 비호의적 또는 중립)에 대한 자동 코드를 인간 코드와 비교하여 5가지 주요 오픈 소스 LLM의 성능을 평가했습니다. 또한 5개 LLM의 성능을 기존 기계 학습 모델(MLM)과 비교했습니다. 가장 성과가 좋은 LLM은 속성 분류에서 micro-F1 점수 0.76, 톤 분류에서 0.77을 기록했습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204901598",
@@ -32652,7 +32741,7 @@
      "pdf": "https://doi.org/10.1093/jssam/smag009",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "대학 브랜드는 대학 후원을 알리는 것이 응답률을 향상시킨다는 가정에 기초하여 대학이 후원하거나 관리하는 설문조사의 우편 모집 자료에 사용되는 봉투에 종종 포함됩니다. 이 가정은 주소 기반 표본(ABS)과 주소 첨부 무작위 숫자 다이얼(RDD) 표본이 모두 포함된 주 전체 혼합 모드 설문 조사에 대한 모집 자료를 보내는 데 사용되는 봉투의 반송 주소 위에 대학 이름과 로고가 포함되어 있는지 여부를 무작위로 추출하여 실험적으로 테스트되었습니다. 두 표본 모두 모집 봉투에 대학 소속이 포함되었을 때 주 전체 응답률이 1.4(ABS) 및 1.7(RDD) 백분율로 약간 낮았습니다. 표본 전반에 걸쳐 일관되게 대학 브랜드 사용은 대학과 지리적으로 연결되지 않은 카운티의 응답률에 상당히 부정적인 영향을 미쳤습니다. 그러나 대학에 가까울수록 결과는 엇갈리는데, 대학 브랜딩은 ABS 표본의 경우 대학 본국에 대한 참여를 7.9% 포인트만큼 크게 향상시켰고, 두 표본 모두의 경우 주변 카운티와 RDD 표본의 경우 대학 본국에서 미미한 영향을 미쳤습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4392136634",
@@ -32761,7 +32850,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "생태학적 순간 평가(EMA)는 빈번한 평가를 통해 순간적인 경험을 포착하기 위한 집중적인 종단적 데이터 수집 방법입니다. 모바일 기술의 출현으로 EMA의 애플리케이션은 다양한 분야로 확장되었습니다. 인기가 높아지고 있음에도 불구하고 특히 응답 품질과 관련된 방법론적 문제는 아직 연구되지 않았습니다. 이 연구는 5번의 일일 평가를 통해 21일간의 EMA 연구에서 시간이 지남에 따라 응답 품질이 어떻게 변화하는지 체계적으로 평가합니다. 모바일 애플리케이션을 통해 설문조사를 완료한 대학생 100명의 데이터를 분석했습니다. 응답 품질은 속도 증가, 그리드의 미분화, 지난 한 시간 동안 특정 활동의 지속 시간을 묻는 질문에 대한 극단적인 반올림(예: 0 또는 60 보고) 및 앵커링(예: 이전 평가에서와 같은 질문에 대한 동일한 답변 제공)을 포함한 다양한 만족스러운 행동을 사용하여 측정되었습니다. 연구 결과에 따르면 3주 동안 속도가 크게 증가했으며, 이는 응답 품질이 저하될 수 있음을 시사합니다. 2주차와 3주차에 극단적인 반올림 및 고정 응답도 증가했습니다. 그리드의 미분화는 주로 몇 주 동안 동일하게 유지되었습니다. 이는 이 연구의 그리드에 평가할 몇 가지 간단한 항목만 포함되어 있기 때문일 수 있습니다. 연구 결과는 또한 몇 주 동안 만족스러운 행동에 관해 참가자들 사이에 차이가 있음을 보여주었습니다. 그러나 그러한 변화는 참가자들의 d에 의해 설명될 수 없었다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7206197616",
@@ -32782,7 +32871,7 @@
      "pdf": "https://doi.org/10.1093/jssam/smag002",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "이 문서는 온라인 비즈니스 설문조사가 끝날 무렵 두 번째, 마지막 순간 알림의 응답 향상 효과에 대한 증거를 제공합니다. 현장 기간 종료 이틀 전에 독일 온라인 비즈니스 설문조사의 예비 응답자에게 알림을 보내는 것은 다시 알림을 받지 않은 예비 응답자에 비해 참여 가능성이 8.9% 포인트 증가했습니다. 특정 웨이브에서 알림을 받은 기업의 참여율이 후속 웨이브에서도 더 높기 때문에 이 효과는 어느 정도 지속됩니다. 기업에 상기시키는 것은 무응답 편향이나 데이터 품질에 영향을 미치지 않습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7206158869",
@@ -32862,7 +32951,7 @@
      "pdf": "https://doi.org/10.1093/poq/nfag037",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "여론 조사에서는 대중 이데올로기적 양극화를 집중적으로 조사했으며 종종 이를 주요 민주주의 이상을 위협하는 결과와 연결시켰습니다. 이론과 경험적 증거 모두 이것이 여러 징후로 구성되어 있음을 시사하지만 그 관계는 대체로 불분명합니다. 한편, 이전 연구에서는 거시 구조적 요인이 질량 양극화를 어떻게 형성하는지 이해하는 데 필수적인 상황 간 비교를 거의 수행하지 않았습니다. 이러한 제한은 부분적으로 다양한 맥락에서 일관된 측정을 방해하는 방법론적 문제에서 발생합니다. 이러한 격차를 메우기 위해 본 연구에서는 대중 이데올로기 양극화의 세 가지 핵심 표현인 불일치, 상징-작전적 이념 정렬, 운영 내 이념 정렬을 비교하기 위한 신념 네트워크 접근 방식을 도입합니다. World Values ​​Survey 및 European Values ​​Study(2017-2023)에서 78개 사회의 데이터를 사용하여 상황별 가정에 의존하지 않고 이념적 정렬을 포착하는 향상된 네트워크 기반 측정 방법을 사용합니다. 놀랍게도, 우리의 연구 결과는 이러한 현상들 사이에 상당한 국가 간 차이와 대조되는 상관 관계를 보여 주며, 이는 대중 이데올로기적 양극화가 단일하지도 않고 보편적이지도 않음을 나타냅니다. 우리는 또한 네트워크 접근 방식을 적용하여 중요한 거시 구조 요소인 현대화가 어떻게 이념적 양극화를 형성하는지 조사하여 불일치는 낮지만 이념적 정렬은 더 높다는 것을 보여줍니다. 스케일을 제공함으로써",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7206155685",
@@ -32882,7 +32971,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "보존 효과 평가 프로젝트(CEAP)는 미국 농무부(USDA) 보존 프로그램의 환경 영향을 평가합니다. 이 프로젝트는 임의로 지정된 지역의 총 방목지 면적 추정치를 개발하는 것을 목표로 하며, 이는 기존 설계 기반 추정기에 비해 카운티 수준의 정확도도 향상되었습니다. 이를 달성하기 위해 우리는 NRI(National Resources Inventory) 조사 데이터와 위성에서 추출한 CDL(Cropland Data Layer) 데이터의 정보를 통합하는 새로운 모델 기반 추정기를 개발했습니다. NRI 샘플 근처의 CDL 픽셀 정보를 캡처하기 위해 정사각형 타일의 미세한 격자가 설계되었습니다. Lasso, 융합된 Lasso 및 K-평균 클러스터링은 방목지 면적 추정을 위한 최적의 모델을 식별하기 위한 기능 엔지니어링 및 변수 선택에 사용되었습니다. 경험적 결과는 새로운 모델 기반 추정기가 기존 설계 기반 추정기에 대한 안정적이고 효과적인 대안을 제공한다는 것을 나타냅니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7206213364",
@@ -32905,7 +32994,7 @@
      "pdf": "https://doi.org/10.1093/jssam/smag008",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "응답자 중심 샘플링(RDS)은 유망한 네트워크 샘플링 전략으로 나타났습니다. 그러나 일부 응용 프로그램에서는 실패하는 것으로 나타났습니다. 따라서 기존 패널 연구를 기반으로 RDS 절차를 기반으로 하는 것은 실패의 위험을 포함할 수 있으며 심지어 규정을 준수하지 않는 종자를 소외시킬 수도 있습니다. 따라서 본 연구에서는 RDS를 사용하여 소셜 네트워크 회원을 모집하려는 일반 인구 패널 참가자의 가상적인 의지를 조사합니다. 연구에 따르면, 연구를 위해 선정된 패널 설문조사의 온라인 참가자 중 거의 절반이 모집할 의향이 있는 것으로 나타났습니다. 꺼리는 이유에는 다른 사람을 초대하는 데 대한 불편함과 그들이 이미 충분히 기여하고 있다는 믿음이 포함됩니다. 비례 승률 순서형 로지스틱 회귀 분석을 통해 의지에 대해 예상되는 대부분의 예측 변수가 아무런 영향을 미치지 않는 것으로 나타났습니다. 그러나 젊은 연령층, 이민 배경, 정치적으로 극단적인 의견을 가진 응답자들 사이에서 채용 의향이 증가한 것으로 나타났습니다. 연구 결과는 온라인 설문조사에서 RDS의 상당한 잠재력을 시사하지만 실제 채용 행동을 평가하고 RDS 전략을 개선하기 위한 추가 실증적 연구가 필요하다는 점을 강조합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7211971938",
@@ -32924,7 +33013,7 @@
      "doi": "10.1093/poq/nfag062",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7220715248",
@@ -33206,7 +33295,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "설문조사 응답률이 감소함에 따라 연구자들은 참가자 모집을 위한 효과적인 전략을 모색해 왔습니다. 본 연구에서는 전국 패널 연구인 2022년 건강 및 퇴직 연구(HRS)에서 모집의 가구 심사 단계를 고려했습니다. 이 연구에서는 다양한 접촉 프로토콜과 초대장 봉투 유형이 완료 결과 및 접촉 시도에 미치는 영향을 조사하며, 특히 인종/민족 및 HRS 코호트 간의 효과 변화에 초점을 맞췄습니다. 총 16,452개의 표본 가구를 무작위로 두 그룹으로 나누었습니다. 하나는 샘플링된 개인을 초대하여 온라인 설문지를 작성하고 비응답자에 대해서는 결국 FTF(대면) 후속 조치를 취하는 웹 필드 프로토콜을 받았고, 다른 하나는 현장 전용(FTF) 프로토콜을 받았습니다. 이전 그룹 내에서 두 개의 무작위 하위 그룹이 생성되었습니다. 한 그룹은 초대장과 선불 $2 지폐 현금 인센티브가 포함된 표준 HRS 우편 봉투를 받았습니다. 다른 한 사람은 인센티브를 보여주는 창이 있는 눈에 보이는 현금 봉투를 받았습니다. 로지스틱 회귀 모델을 사용하여 스크리닝 프로토콜 및 봉투 유형별로 완료 결과를 분석했습니다. 인종/민족 및 HRS 코호트 간의 이러한 효과의 차이를 탐색하기 위해 상호작용 용어가 이후에 포함되었습니다. 선형 회귀 및 포아송 모델을 사용하여 완료된 사례에 필요한 접촉 시도 횟수에 대한 예측 변수를 평가했습니다. 연구 결과에 따르면 웹 필드 프로토콜은 완료율을 향상시켰습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204728392",
@@ -33227,7 +33316,7 @@
      "pdf": "https://doi.org/10.1093/jssam/smag023",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "스마트폰은 일상생활에서 중심적인 역할을 하며 설문조사 데이터 수집에 상당한 잠재력을 제공합니다. 그러나 앱 호환성을 결정하는 스마트폰 운영 체제(OS)와 버전에 따라 유용성이 제한될 수 있습니다. 이 기사에서는 데이터 수집 도구에 대한 장치 호환성을 평가할 때 중요한 요소인 스마트폰 OS 버전을 정확하게 확인하는 방법을 조사합니다. 우리는 세 가지 접근 방식을 비교합니다. (1) 웹 응답자의 수동적 파라데이터(사용자 에이전트 문자열, UAS) 수집, (2) 온라인 데이터베이스의 OS 버전 정보와 일치하는 자체 보고된 스마트폰 제조업체 및 모델, (3) 단계별 지침에 따라 응답자가 OS 버전을 직접 자체 보고하는 것입니다. 영국 가구의 확률 표본인 영국 가구 종단 연구 코로나19 웹 설문조사의 데이터를 사용하여 각 방법의 완전성과 정확성을 평가합니다. 우리의 연구 결과에 따르면 파라데이터는 어떤 면에서는 자가 보고에 기반한 방법보다 열등했습니다. 첫째, UAS 데이터는 약 50%의 응답자에게 유효한 스마트폰 OS 버전 데이터만 제공했습니다. 나머지 50%는 웹 설문조사를 완료하기 위해 스마트폰을 사용하지 않았습니다(방법 (2)와 (3)을 기반으로 한 유효 사례의 90% 및 71%와 비교). 둘째, 스마트폰을 사용하여 설문조사를 완료한 응답자의 하위 집합은 전체 응답자를 대표하지 않은 반면, 자체 보고 방식으로 OS 버전 데이터를 얻은 응답자는 대체로 응답자를 대표했습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7204798858",
@@ -37405,46 +37494,6 @@
      "first_seen": "2026-08-09T01:35:52+09:00",
      "abstract_ko": "종단 설계는 시간이 지남에 따라 발생하는 인과 효과를 평가하는 데 널리 사용됩니다. 그러나 치료 교란 요인 인과 피드백은 시간에 따른 교란 요인을 조정하는 것을 복잡하게 만듭니다. 인과 추론 문헌에서 확립된 솔루션은 매개변수 g-공식입니다. 이 튜토리얼에서는 간소화된 변형인 반복 조건부 기대(ICE)를 소개합니다. ICE를 사용하는 매개변수 g-공식에는 연속 시점의 평균 결과에 대한 일련의 회귀 모델만 필요합니다. 따라서 이는 심리학 연구에서 자주 접하게 되는 반복적으로 측정된 결과에 이상적으로 적합합니다. 기존의 몬테카를로 파라메트릭 g-공식과 달리 ICE는 시간에 따라 변하는 혼란변수와 결과의 공동 분포에서 무작위 추출을 모델링하거나 시뮬레이션할 필요가 없습니다. 이로 인해 ICE는 모델의 잘못된 사양 편향에 덜 민감하고 연속 및 비연속(예: 이진 또는 범주형) 시간에 따라 변하는 혼란 요인을 보다 다양하게 처리할 수 있습니다. 올바르게 지정된 치료 모델을 사용하는 이중 강력한 ICE 버전은 잘못 지정된 결과 모델로 인한 편향을 추가로 방지할 수 있습니다. 광범위한 응용 연구 대상이 ICE를 사용하여 매개변수 g-공식에 액세스할 수 있도록 하기 위해 R에서 인기 있고 사용자 친화적이며 무료인 통계 모델링 소프트웨어인 lavaan을 사용하여 구현을 제공합니다. 시간이 지남에 따라 우울증에 대한 사회적 배제의 인과 효과에 대한 실행 예는 인과 가정을 인식하고 인과 효과 추정치를 해석하는 데 도움이 됩니다.",
      "is_new": false
-    },
-    {
-     "id": "oa:W7171370870",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "Nestimate : An R Package for dynamic, probabilistic, and high order network analysis",
-     "authors": [
-      "Mohammed Saqr",
-      "Sonsoles López‐Pernas",
-      "Kamila Misiejuk"
-     ],
-     "journal": "Applied Psychological Measurement",
-     "date": "2026-07-26",
-     "abstract": "Networks are often estimated from data such as psychometric scales, event data, and ecological momentary assessment data. We introduce the Nestimate R package, which offers a unified interface for estimating networks through a standardized workflow. First, Nestimate estimates psychological network models using correlation, partial-correlation, regularized (graphical lasso), Ising, and mixed graphical networks from both frequency and event data. Second, Nestimate introduces multi-cluster networks, which aggregate psychometric networks using, for example, factor loadings, principal components, or network connectivity. Third, higher-order network models represent dynamics whose probability depends on more than the immediately preceding state and offer a rich interface for measuring and evaluating higher-order behaviors such as critical thinking. Fourth, Nestimate provides functions for estimating dynamic networks, including transition, co-occurrence, and mixed networks, for capturing behavioral dynamics from event data. Every estimated network can be subjected to a unified validation pipeline, including non-parametric bootstrapping, permutation testing, split-half reliability, and case-dropping centrality stability analyses.",
-     "url": "https://doi.org/10.1177/01466216261472019",
-     "doi": "10.1177/01466216261472019",
-     "pdf": "https://doi.org/10.1177/01466216261472019",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "네트워크는 종종 심리 측정 척도, 이벤트 데이터, 생태학적 순간 평가 데이터와 같은 데이터로부터 추정됩니다. 표준화된 작업 흐름을 통해 네트워크를 추정하기 위한 통합 인터페이스를 제공하는 Nesttimate R 패키지를 소개합니다. 첫째, Nestimate는 빈도 및 이벤트 데이터 모두에서 상관 관계, 부분 상관, 정규화(그래픽 올가미), Ising 및 혼합 그래픽 네트워크를 사용하여 심리 네트워크 모델을 추정합니다. 둘째, Nestimate는 요인 로딩, 주요 구성 요소 또는 네트워크 연결 등을 사용하여 심리 측정 네트워크를 집계하는 다중 클러스터 네트워크를 도입합니다. 셋째, 고차 네트워크 모델은 확률이 직전 상태보다 더 많은 것에 의존하는 역학을 나타내며 비판적 사고와 같은 고차 행동을 측정하고 평가하기 위한 풍부한 인터페이스를 제공합니다. 넷째, Nestimate는 이벤트 데이터로부터 행동 역학을 포착하기 위해 전환, 동시 발생, 혼합 네트워크를 포함한 동적 네트워크를 추정하는 기능을 제공합니다. 모든 추정 네트워크는 비모수적 부트스트래핑, 순열 테스트, 분할 절반 신뢰성 및 사례 삭제 중심성 안정성 분석을 포함한 통합 검증 파이프라인의 적용을 받을 수 있습니다.",
-     "is_new": false
-    },
-    {
-     "id": "oa:W7171451112",
-     "topic": "methodology",
-     "origin": "OpenAlex",
-     "title": "The Cost of Being a Stepchild: Evidence From Vietnam",
-     "authors": [
-      "Trung Xuan Hoang",
-      "Anh Dieu Nguyen Le",
-      "Cuong Viet Nguyen"
-     ],
-     "journal": "Evaluation Review",
-     "date": "2026-07-26",
-     "abstract": "This study examines the association between family structure and children's health and educational outcomes in Vietnam. We find that children living with a single parent, either due to divorce or widowhood, tend to experience lower levels of health and education compared to those in nuclear families. In stepfamilies, we distinguish stepchildren from children who are the joint biological offspring of both parents. Overall, there are no significant differences in health and education between the joint children of both parents in blended families and children in nuclear families. However, for small children we find a large difference in health between stepchildren and the biological children of both parents. Specifically, being a stepchild is associated with a 4.4% reduction in height and a 13.9% reduction in weight for children aged 0-6. Among children aged 11 and above, stepchild status is associated with a significantly lower likelihood of school enrollment and completion of lower-secondary education.",
-     "url": "https://doi.org/10.1177/0193841x261471944",
-     "doi": "10.1177/0193841x261471944",
-     "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/0193841X261471944?download=true",
-     "first_seen": "2026-08-10T09:49:36+09:00",
-     "abstract_ko": "본 연구는 베트남의 가족구조와 아동의 건강 및 교육 성과 사이의 연관성을 조사합니다. 우리는 이혼이나 사별 등으로 편부모와 함께 사는 아이들이 핵가족에 비해 낮은 수준의 건강과 교육을 경험하는 경향이 있다는 것을 발견했습니다. 의붓가족에서 우리는 양 부모의 공동 생물학적 자손인 자녀와 의붓자식을 구별합니다. 전반적으로, 혼합 가족의 양 부모의 공동 자녀와 핵가족의 자녀 사이에는 건강과 교육에 큰 차이가 없습니다. 그러나 어린 자녀의 경우 의붓자식과 양쪽 부모의 생물학적 자녀 사이의 건강에 큰 차이가 있음을 알 수 있습니다. 구체적으로, 의붓자식은 0~6세 아동의 키가 4.4% 감소하고 체중이 13.9% 감소하는 것과 관련이 있습니다. 11세 이상 자녀의 경우 의붓자식 상태는 학교 등록 및 중등교육 이수 가능성이 상당히 낮은 것과 관련이 있습니다.",
-     "is_new": false
     }
    ]
   },
@@ -37452,7 +37501,7 @@
    "key": "econ-stats",
    "name": "계량경제·통계",
    "count": 720,
-   "new_count": 80,
+   "new_count": 16,
    "papers": [
     {
      "id": "oa:W3095138361",
@@ -37759,7 +37808,7 @@
      "pdf": "https://arxiv.org/pdf/2405.14018",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "본 논문에서는 통계적 보장을 갖춘 간단하면서도 효과적인 연속 표 형식 데이터 워터마킹 메커니즘을 소개합니다. 우리는 제안된 워터마크가 데이터 충실도를 충실히 유지하면서 효과적으로 검출될 수 있음을 이론적으로 보여줍니다. 워터마킹 메커니즘의 일반적인 아이디어는 단순한 데이터 비닝을 기반으로 한 전략적 임베딩을 통해 워터마킹을 달성하는 것입니다. 구체적으로, 기능의 값 범위를 세밀하게 분할된 간격으로 나누고 선택한 \"녹색 목록\" 간격에 워터마크를 삽입합니다. 워터마크를 탐지하기 위해 우리는 최소한의 가정으로 원칙에 입각한 통계적 가설 테스트 프레임워크를 개발합니다. 이는 기본 데이터 분포가 연속적인 밀도 함수를 갖는 한 유효하게 유지됩니다. 또한 다양한 공격에 대해 제안된 워터마킹 메커니즘의 견고성을 입증합니다. 워터마킹 효율성은 엄격한 이론적 분석과 경험적 검증을 통해 입증되었으며, 연속 표 기능을 통해 합성 및 실제 데이터세트의 보안을 강화하는 데 있어 워터마킹의 유용성을 강조합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4417515013",
@@ -37784,7 +37833,7 @@
      "pdf": "https://arxiv.org/pdf/2505.06896",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "R은 과학 및 통계 컴퓨팅에 널리 사용되며 R의 패키지 생태계는 재현 가능한 광범위한 분석을 지원합니다. 이 문서에서는 작업 기반 병렬 실행을 위해 COMPS 런타임에 대한 R 바인딩인 RCOMPS를 소개합니다. 사용자는 표준 R 코드를 작성하고 선택한 기능을 작업으로 표시합니다. 그런 다음 런타임은 종속성을 추적하고, 작업을 예약하고, 데이터를 이동하고, 사용 가능한 리소스 전체에서 실행합니다. RCOMPS는 명시적인 작업 종속성을 활용하는 워크플로를 지원하여 기존 R 병렬 프레임워크를 보완하기 위한 것입니다. 우리는 KAUST의 Shaheen III 및 BSC의 MareNostrum 5에서 세 가지 대표적인 알고리즘, k-최근접 이웃 분류, k-평균 클러스터링 및 예측을 통한 선형 회귀를 사용하여 이를 평가합니다. 실험에서는 단일 노드 비교 및 ​​분산 메모리 실행에서 실행 시간 확장 및 워크플로 절충을 조사합니다. 전반적으로 RCOMPS는 확장 가능한 통계 워크플로우를 위해 R 병렬 생태계에 COMPS의 작업 기반 실행을 추가합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236666637",
@@ -37802,7 +37851,7 @@
      "doi": "10.1007/s11222-026-11041-1",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236753988",
@@ -37822,7 +37871,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "본 논문은 대부분의 국가에서 관리되는 공개적으로 이용 가능한 적시 통합 통계를 활용하여 비공식(종속) 고용의 확산을 제한하기 위한 비모수적 측정 프레임워크를 개발합니다. 이 방법은 공식 통계의 집계 데이터와 공공 사용 사회 보장 기록을 비교하여 비공식 근로자 비율의 한계를 도출하기 위해 부분 식별 기술을 사용합니다. 최소한의 가정하에 이탈리아 데이터에 적용하면 이 접근법은 좁은 범위의 신뢰할 수 있는 추정치를 산출합니다. 비공식 고용은 2020년까지 10~12%로 안정적으로 유지되었지만 팬데믹 이후 기간에는 8~10%로 감소했습니다. 공식 추산에 따르면 비공식 고용은 남부 지역에서 더 널리 퍼져 있지만 감소 추세를 보이고 있습니다. 특히, 최근 방법론 개정 이전에는 공식적인 추정치가 여러 경우에 실제 비율을 과장했을 수 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236823383",
@@ -37841,7 +37890,7 @@
      "doi": "10.1007/s11222-026-11040-2",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7213454827",
@@ -37903,7 +37952,7 @@
      "doi": "10.1093/jrsssc/qlag062",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235069550",
@@ -39285,7 +39334,7 @@
      "doi": "10.1162/rest_a_01523",
      "pdf": "https://ora.ox.ac.uk/objects/uuid:f4860bbc-3371-4b03-b0eb-f46ae9d38dfd/files/r02870z03z",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399765195",
@@ -39303,7 +39352,7 @@
      "doi": "10.1162/rest_a_01462",
      "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712300/pdf/nihms-2066937.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872685",
@@ -39320,7 +39369,7 @@
      "doi": "10.1162/rest_a_01491",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872750",
@@ -39339,7 +39388,7 @@
      "doi": "10.1162/rest_a_01480",
      "pdf": "https://doi.org/10.2139/ssrn.4637419",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872786",
@@ -39358,7 +39407,7 @@
      "doi": "10.1162/rest_a_01489",
      "pdf": "https://doi.org/10.2139/ssrn.4526305",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872810",
@@ -39377,7 +39426,7 @@
      "doi": "10.1162/rest_a_01479",
      "pdf": "https://doi.org/10.2139/ssrn.4189740",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872872",
@@ -39394,7 +39443,7 @@
      "doi": "10.1162/rest_a_01492",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872880",
@@ -39414,7 +39463,7 @@
      "doi": "10.1162/rest_a_01481",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872881",
@@ -39432,7 +39481,7 @@
      "doi": "10.1162/rest_a_01488",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402824061",
@@ -39451,7 +39500,7 @@
      "doi": "10.1162/rest_a_01505",
      "pdf": "https://doi.org/10.2139/ssrn.4364674",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402837264",
@@ -39470,7 +39519,7 @@
      "doi": "10.1162/rest_a_01512",
      "pdf": "https://doi.org/10.2139/ssrn.4153097",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402839873",
@@ -39488,7 +39537,7 @@
      "doi": "10.1162/rest_a_01499",
      "pdf": "https://www.zora.uzh.ch/handle/20.500.14742/223546",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4403726611",
@@ -39506,7 +39555,7 @@
      "doi": "10.1162/rest_a_01465",
      "pdf": "https://arxiv.org/pdf/2012.11342",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404056052",
@@ -39525,7 +39574,7 @@
      "doi": "10.1162/rest_a_01524",
      "pdf": "https://hdl.handle.net/11250/3050868",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404056313",
@@ -39545,7 +39594,7 @@
      "doi": "10.1162/rest_a_01518",
      "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13227505/",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4408349256",
@@ -39563,7 +39612,7 @@
      "doi": "10.1162/rest_a_01572",
      "pdf": "https://doi.org/10.2139/ssrn.3718915",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4392539648",
@@ -41976,7 +42025,7 @@
      "pdf": "https://www.econstor.eu/bitstream/10419/210748/1/1676280138.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "경제학자들은 고정 가격 계약의 사용으로 인해 기업 간 관계가 충격에 대한 가격의 반응성을 낮출 수 있다고 오랫동안 의심해 왔습니다. 거래 수준의 미국 수입 데이터를 사용하여 환율 충격의 전달이 실제로 관계가 오래됨에 따라 증가한다는 것을 보여줍니다. 관계의 수명주기에 대한 새롭고 정형화된 사실을 기반으로 나는 구매자-판매자 쌍이 제한된 약속 하에서 생산 비용을 낮추기 위해 관계 자본을 축적하는 관계 역학 모델을 개발합니다. 구조적으로 추정된 모델은 경기 침체기에 해당하는 경제 관계 생성 속도의 변화를 통해 경기 대응적 인상과 경기 대응적 충격 통과를 생성합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399301357",
@@ -41995,7 +42044,7 @@
      "pdf": "https://doi.org/10.2139/ssrn.4012786",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "경쟁은 노력과 성과를 향상시키기 위해 널리 사용됩니다. 그러나 교육과 같은 많은 영역에서는 성과가 개인의 노력뿐만 아니라 동료 간의 협력 노력에도 달려 있기 때문에 경쟁이 역효과를 낳을 수 있습니다. 대학 행정 데이터를 활용하여 경쟁이 동료 효과와 동료 상호 작용을 어떻게 변화시키는지 조사합니다. 무작위로 배정된 룸메이트를 활용하여 우리는 먼저 우수한 룸메이트가 우수한 학생들의 학업 성취도에 해로운 영향을 미친다는 것을 입증했습니다. 더 중요한 것은 그러한 부정적인 동료 효과가 기숙사 내 경쟁 강도의 다양한 차원에 따라 크게 증가한다는 것입니다. 후속 조사 결과에 따르면 경쟁은 상호 지원을 방해하고 룸메이트 간의 비우호적 행동을 조장하는 것으로 나타났습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399765177",
@@ -42015,7 +42064,7 @@
      "pdf": "https://lirias.kuleuven.be/retrieve/03e54399-c271-45a2-85b7-b96019a3cfed",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "우리는 BLP의 제품 차별화에 대한 종합적인 이산 선택 모델을 확장하여 가격 기능 형태에서 더 많은 유연성을 창출합니다. 우리는 일반적인 단위 수요 가정을 완화하고 수요 곡률에 유연성을 부여하는 Box-Cox 사양을 적용합니다. 이 모델은 계산적으로 다루기 쉬운 상태를 유지하면서 혼합 로짓 및 혼합 CES 모델을 위한 통합 프레임워크를 제공합니다. 우리는 바로 먹을 수 있는 시리얼 시장에 대한 예시적인 적용을 제공합니다. 이는 가격탄력성과 제품당 평균가격의 단면적 관계가 기술탄력성 패턴과 더 일치하고, 제품쌍간 대체가 어느 정도 영향을 받을 수 있음을 보여준다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872765",
@@ -42033,7 +42082,7 @@
      "pdf": "https://doi.org/10.2139/ssrn.4728035",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "본 논문에서는 다품종 수출업체에 대한 무작위 제품 크기 분포의 귀무가설을 특성화하기 위한 통계 모델을 제안합니다. 이는 경험적 사실과 모델 예측을 테스트하는 벤치마크 역할을 합니다. 우리는 다중 제품 수출업체를 특징짓고 핵심 역량, 범위와 규모의 동인인 생산성, 범위의 경제 등과 같은 이론에 동기를 부여하는 어떤 양식화된 사실이 허위이고 유익한지 묻습니다. 벤치마크 모델은 또한 이러한 이론의 타당성을 테스트하기 위한 대안적인 순간을 제공합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872925",
@@ -42052,7 +42101,7 @@
      "pdf": "https://arxiv.org/pdf/2306.07018",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "전체 치료의 효과는 정책 평가의 주요 관심 매개변수인 반면, 종종 치료 하위 집합의 효과가 추정됩니다. 우리는 개인을 치료의 하위 집합(부분 준수자)으로 유도할 수 있는 도구 변수를 사용하여 전체 치료(LAFTE)를 받는 지역 평균 치료 효과를 부분적으로 식별합니다. 우리는 부분 컴파일러가 표준 제외 제한을 위반하고, 부분 컴파일러가 없을 때 필요한 조건을 테스트할 수 있으며, 부분 식별이 이중 배제 제한에 따라 유지된다는 것을 보여줍니다. 우리는 4개의 애플리케이션에서 부분 컴파일러를 식별하고 그 중 3개에서 LAFTE에 대한 정보 범위를 추정합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402824011",
@@ -42072,7 +42121,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "우리는 인도 농촌 지역의 농업 기술에 대한 정보에 접근하는 농민의 능력에 언어 장벽이 미치는 영향을 연구합니다. 우리는 인도 각 주의 공식 언어로 농업 조언을 제공하는 정부 후원 콜센터(기산 콜센터)를 소개합니다. 식별을 위해 우리는 주 경계를 넘어 지리적으로 인접한 지역을 비교하고 농부와 콜센터 고문이 사용하는 언어의 차이를 활용합니다. 우리는 언어 장벽으로 인해 수확량이 많은 다양한 종자와 같은 현대 농업 기술의 채택이 제한되고 작물 수확량에 부정적인 영향을 미친다는 사실을 문서화했습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402824065",
@@ -42092,7 +42141,7 @@
      "pdf": "https://www.econstor.eu/bitstream/10419/272862/1/1837174628.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "경제 변수의 빈도가 낮은 움직임은 정책 분석 및 의사 결정에서 중요한 역할을 합니다. 우리는 신중한 사전 선택에 따라 안내되고 희박성을 특징으로 하는 느리게 움직이는 추세 프로세스에 대한 강력한 추정 접근 방식을 개발합니다. 우리는 추정 절차의 구조를 알려주는 장기적인 조사 기대치로부터 새로운 양식화된 사실을 제시합니다. 스파이크 앤 슬랩 사전을 사용하여 제안된 베이지안 추정기의 일반 버전은 순환 역학을 명시적으로 설명합니다. 우리는 관련 벤치마크에 대한 시뮬레이션에서 좋은 성능을 보여주고 미국 생산량과 연평균 기온에 대한 추세 성장에 대한 실증적 추정치를 보고합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402837358",
@@ -42112,7 +42161,7 @@
      "pdf": "https://doi.org/10.1162/rest_a_01510",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "우리는 다양한 컨트롤을 사용하여 지역 투영을 추정하기 위해 무작위 부분공간 방법을 적용하는 방법을 보여줍니다. 무작위 부분공간 방법은 기계 학습 문헌에 뿌리를 두고 있으며 이러한 컨트롤의 하위 집합의 다양한 조합에 대해 추정된 회귀를 평균화하여 구현됩니다. 우리는 세 가지 주요 결과를 문서화합니다. (i) 우리의 접근 방식은 다양한 거시 경제 설정 및 식별 체계를 대표하는 몬테 카를로 실험 전반에 걸쳐 임펄스 응답 기능을 성공적으로 복구할 수 있습니다. (ii) 우리의 결과는 기본 대규모 데이터세트가 FRED-MD와 같은 일반적인 거시경제 데이터세트와 유사한 요인 구조를 갖는 경우 무작위 부분공간 방법이 다른 차원 축소 방법보다 더 정확하다는 것을 시사합니다. (iii) 우리의 접근 방식은 널리 연구된 두 가지 경험적 응용 프로그램에 적용될 때 벤치마크 방법과 관련하여 추정된 임펄스 응답 함수의 차이로 이어집니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402837364",
@@ -42131,7 +42180,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "우리는 역동적인 콘테스트에서 자체 조직된 팀을 연구합니다. Kaggle의 데이터를 사용하여 팀이 솔로 플레이어보다 뛰어난 성과를 거두지만 팀을 구성하는 플레이어는 거의 없다는 사실을 문서화했습니다. 모든 새로운 팀은 플레이어 구성을 변경하여 생산성이 떨어지는 솔로 플레이어가 제출하는 것을 방해합니다. 우리는 팀 구성 및 제출 비용을 포함하여 동적 콘테스트 모델의 구조적 매개변수를 추정합니다. 우리는 제출에 대한 인센티브와 마찬가지로 팀 수에 따라 팀 형성 인센티브가 감소한다는 것을 발견했습니다. 우리는 팀워크로 인해 발생하는 생산성 저하의 균형을 실증적으로 평가하고, 팀워크 촉진 및 공개 경쟁 개최를 포함하여 콘테스트 설계에 대한 시사점을 논의합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402837702",
@@ -42150,7 +42199,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "McDonald's 레스토랑의 표준화된 작업 프로토콜과 기술 덕분에 McDonald's Basic Crew의 시간당 임금은 거의 동일한 기술 입력 및 쾌락적 작업 조건 하에서 임금 비교를 가능하게 합니다. McWages는 초급 직업의 인건비를 포착하는 반면, Big Macs(BMPH) 지수는 임금의 해당 구매력을 측정합니다. 우리는 2016년부터 2023년까지 대부분의 미국 카운티를 포괄하는 데이터를 사용하여 표준화된 일자리에서 크고 증가하는 지리적 임금 차이를 기록합니다. 코로나19 팬데믹 이전에는 최저임금이 일정하게 유지되는 BMPH 성장은 없었지만, 최저임금의 중요성이 줄어든 팬데믹 임금 인상은 이들 분야에서 더 컸다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402839389",
@@ -42170,7 +42219,7 @@
      "pdf": "https://arxiv.org/pdf/2201.11304",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "우리는 양방향 클러스터 패널에 대한 개선된 표준 오류와 점근 이론을 제안합니다. 우리의 이론은 기존 양방향 방법에서는 제외되는 공통 시간 효과의 임의적인 직렬 의존성을 허용합니다. 우리의 점근적 분포 이론은 이러한 수준의 상호의존성을 허용하는 최초의 이론입니다. 약한 조건에서 우리는 OLS가 점근적으로 정규이고 제안된 분산 추정량이 일관되며 t-비율이 점근적으로 표준 정규임을 입증합니다. 결과는 양방향 고정 효과 모델로 확장됩니다. 우리는 양방향 고정 효과가 포함되더라도 양방향 군집화가 여전히 필요하다고 주장합니다. 시뮬레이션과 실증적인 설명이 제공됩니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402839517",
@@ -42189,7 +42238,7 @@
      "pdf": "https://doi.org/10.2139/ssrn.3201689",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "우리는 평판과 신뢰를 구별하는 대출 신뢰 이론을 개발합니다. 은행은 비은행보다 더 신뢰할 수 있는 대출 기관으로 부상합니다. 우리는 신뢰가 성과와 대출 기관의 자금 조달 비용 및 가용성 사이의 연결을 끊지만 신뢰는 상실될 수 있으며 회복하기 어렵다는 것을 보여줍니다. 은행은 비은행보다 신뢰 침식에서 더 잘 살아남습니다. 은행의 신뢰우위는 보장예금으로 인한 낮은 자금조달비용과 자금비용우위의 효과를 보완하는 내생적 신념수정채널에서 발생한다. 그 결과는 예금보험 범위에 대한 새로운 정책 관련성을 갖고 있습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4402839635",
@@ -42210,7 +42259,7 @@
      "pdf": "https://doi.org/10.2139/ssrn.4184318",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "대학 전공으로의 노동 시장 복귀를 조사하는 문헌이 늘어나고 있는 것은 기술에 대한 대규모 복귀에 의해 동기가 부여됩니다. 이전 연구는 수익 성장과 변동성보다는 평균 효과에 초점을 맞췄습니다. 텍사스의 행정 데이터를 사용하여 우리는 평균 차이가 대학 전공 수익의 중요한 특징을 가리고 있음을 발견했습니다. 첫째, 이익 증가율은 분야별로 다릅니다. 둘째, 근로자들 사이에 상당한 효과 이질성이 존재합니다. 셋째, 주요 선택은 시간이 지남에 따라 근로자의 소득 변동에 영향을 미칩니다. 우리는 결과를 사용하여 라이프사이클 효용 모델을 시뮬레이션하고 경력 중년 효용과 분야 전반의 평균 소득 수익률을 비교하는 동시에 위험 선호도의 중요한 역할을 강조합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404056304",
@@ -42230,7 +42279,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "부채가 많은 개인은 법원에서 부채 구제를 받을 수 있습니다. 우리는 전국 등록 데이터와 연결된 법원 기록의 데이터를 사용하여 덴마크 부채 탕감 프로그램에 대한 포괄적인 평가를 제공합니다. 이벤트 연구 방법과 신청자를 다양한 승인 비율로 법원 관리인에게 준 무작위 할당을 사용하여 우리는 부채 탕감이 근로 소득, 고용, 자산, 부동산, 담보 부채, 주택 소유 및 법원 판결 후 25년 이상 지속되는 부의 큰 증가로 이어진다는 것을 보여줍니다. 근로자의 고용 순 전환은 근로 소득 증가의 3분의 2를 차지합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404671983",
@@ -42248,7 +42297,7 @@
      "pdf": "https://doi.org/10.2139/ssrn.4806765",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "1990년대 TIS(진실형 선고)법에 따라 많은 미국 범죄자에 대한 가석방이 폐지되었습니다. 저는 애리조나의 TIS 도입을 활용하여 투옥 전, 투옥 중, 투옥 후에 범죄자에게 미치는 영향을 조사합니다. TIS 위반자에게는 상당히 짧은 형량이 주어졌기 때문에 의도된 처벌 증가가 거의 사라졌습니다. 이러한 범죄자들은 ​​투옥된 동안 재활 노력을 줄였으며, 규칙 위반은 22% 증가하고 교육 등록은 24% 감소했습니다. 마지막으로, TIS 범죄자들은 ​​새로운 유죄판결을 받기 위해 다시 감옥에 갈 가능성이 23% 더 높아졌습니다. 나는 이러한 효과가 TIS가 가석방 인센티브를 제거함으로써 발생했다고 주장하는데, 이는 복역 시간이 크게 변하지 않았다는 점을 감안할 때입니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404672374",
@@ -42271,7 +42320,7 @@
      "doi": "10.1162/rest_a_01533",
      "pdf": "http://eprints.lse.ac.uk/126209/1/20240630_Manuscript_Revised_v3_CKRE.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404691068",
@@ -42290,7 +42339,7 @@
      "doi": "10.1162/rest_a_01545",
      "pdf": "https://doi.org/10.2139/ssrn.4491235",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4415674898",
@@ -42309,7 +42358,7 @@
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "본 논문은 추출세가 장기적인 경제 발전에 미치는 영향을 연구하기 위해 프랑스의 역사적 소금세 시스템을 활용합니다. 소금세율은 상당한 공간적 변동을 보였으며, 이는 소금 가격의 불연속적인 상승으로 이어졌습니다. 공간 회귀-불연속 설계를 채택하여 원래의 과거 데이터를 사용하여 세금의 인과 효과를 추정합니다. 우리는 1400년에서 1900년 사이에 조세 경계선 근처에 거주하는 거의 7천만 명의 개인에 대해 지역화된 개인 수준 정보를 추출합니다. 낮은 세율로 부담을 받는 지역이 더 높은 경제 발전을 나타냄에 따라 이러한 외생적 세율 차이는 큰 영향을 미쳤습니다. 이러한 효과는 세금 도입 이후에 나타났으며 폐지 후에도 현재까지 지속되었습니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7224059780",
@@ -42677,7 +42726,7 @@
      "pdf": "https://arxiv.org/pdf/2512.09262",
      "first_seen": "2026-11-21T12:19:48+09:00",
      "abstract_ko": "백신이 다양한 병원체 유전자형에 대해 어떻게 작용하는지 이해하는 것은 특히 HIV와 같이 유전적으로 매우 다양한 병원체에 대한 효과적인 예방 전략을 개발하는 데 중요합니다. 체 분석은 백신이 특정 유전자형에 의한 감염을 선택적으로 예방하는 동시에 면역 반응을 회피하는 다른 유전자형의 돌파구를 허용하는지 여부를 결정하는 데 사용되는 통계적 프레임워크입니다. 전통적으로 이러한 분석은 병원체를 획득한 개인별로 사용 ​​가능한 단일 순서로 수행되었습니다. 그러나 현대의 염기서열 분석 기술은 개인당 최대 수백 개의 병원체 서열을 포착하여 개인 내 바이러스 다양성의 상세한 특성 분석을 제공할 수 있습니다. 이 연구에서는 개인 내 바이러스 다양성을 설명하기 위해 체 분석을 확장하는 방법론을 소개합니다. 우리의 접근 방식은 최소한 작은 역치의 백신 불일치 돌연변이가 있는 바이러스 집단에 대한 백신 효능을 추정합니다. 사람마다 서로 다른 시퀀스 수로 인한 정보의 차등 해상도를 설명하기 위해 우리는 모델링된 실패 원인과 함께 경쟁 위험 Cox 회귀를 사용하고 분류 모델에 대한 경험적 베이즈 접근 방식을 제안합니다. 시뮬레이션 연구에 따르면 우리의 접근 방식은 편향을 줄이고 명목 신뢰 구간 적용 범위를 제공하며 기존 방법에 비해 통계적 검정력을 향상시키는 것으로 나타났습니다. 우리는 HIV-1 감염 예방에 있어서 이종 백신 요법의 효능을 평가한 HVTN 705 Imbokodo 시험에 우리의 방법을 적용합니다.",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7131824058",
@@ -42686,7 +42735,7 @@
      "title": "Topological data analysis of spatial protein expression in multiplexed spatial proteomics studies",
      "authors": [
       "Sarah Samorodnitsky",
-      "Michael C. Wu"
+      "M C Wu"
      ],
      "journal": "Biometrics",
      "date": "2026-10-07",
@@ -42695,7 +42744,7 @@
      "doi": "10.1093/biomtc/ujag173",
      "pdf": "https://doi.org/10.64898/2026.02.25.707521",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4407309615",
@@ -45467,7 +45516,7 @@
      "doi": "10.1093/biomet/asag039",
      "pdf": "https://doi.org/10.1093/biomet/asag039",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399110543",
@@ -45484,7 +45533,7 @@
      "doi": "10.1093/jjfinec/nbag020",
      "pdf": "https://doi.org/10.2139/ssrn.4846040",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7213581398",
@@ -45503,7 +45552,7 @@
      "doi": "10.1093/jjfinec/nbag021",
      "pdf": "https://arxiv.org/pdf/2412.09517",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7214369880",
@@ -45523,7 +45572,7 @@
      "doi": "10.1093/jjfinec/nbag023",
      "pdf": "https://doi.org/10.1093/jjfinec/nbag023",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7219112465",
@@ -45547,7 +45596,7 @@
      "doi": "10.1093/jjfinec/nbag018",
      "pdf": "https://doi.org/10.1093/jjfinec/nbag018",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7233876466",
@@ -45566,7 +45615,7 @@
      "doi": "10.1093/jjfinec/nbag022",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7213919039",
@@ -47351,7 +47400,7 @@
      "doi": "10.1162/rest_a_01498",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W3184369363",
@@ -47372,7 +47421,7 @@
      "doi": "10.1162/rest_a_01487",
      "pdf": "https://researchonline.lse.ac.uk/id/eprint/122568/1/LBKTdraft_95.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4390631957",
@@ -47391,7 +47440,7 @@
      "doi": "10.1162/rest_a_01511",
      "pdf": "https://cnrs.hal.science/hal-04362830/document",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4392927889",
@@ -47408,7 +47457,7 @@
      "doi": "10.1162/rest_a_01437",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4392927924",
@@ -47426,7 +47475,7 @@
      "doi": "10.1162/rest_a_01443",
      "pdf": "https://www.zora.uzh.ch/handle/20.500.14742/223019",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4396673596",
@@ -47445,7 +47494,7 @@
      "doi": "10.1162/rest_a_01457",
      "pdf": "http://dx.doi.org/10.2139/ssrn.4533253",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399765011",
@@ -47463,7 +47512,7 @@
      "doi": "10.1162/rest_a_01464",
      "pdf": "https://arxiv.org/pdf/2202.07150",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399765123",
@@ -47482,7 +47531,7 @@
      "doi": "10.1162/rest_a_01467",
      "pdf": "https://doi.org/10.5281/zenodo.24382145",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399765146",
@@ -47500,7 +47549,7 @@
      "doi": "10.1162/rest_a_01469",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399765155",
@@ -47517,7 +47566,7 @@
      "doi": "10.1162/rest_a_01470",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399765169",
@@ -47537,7 +47586,7 @@
      "doi": "10.1162/rest_a_01468",
      "pdf": "https://direct.mit.edu/rest/article-pdf/doi/10.1162/rest_a_01468/2383833/rest_a_01468.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872776",
@@ -47557,7 +47606,7 @@
      "doi": "10.1162/rest_a_01482",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4401872936",
@@ -47576,7 +47625,7 @@
      "doi": "10.1162/rest_a_01490",
      "pdf": "https://www.econstor.eu/bitstream/10419/297414/1/swp2023-29.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404056053",
@@ -47594,7 +47643,7 @@
      "doi": "10.1162/rest_a_01520",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4404077033",
@@ -47613,7 +47662,7 @@
      "doi": "10.1162/rest_a_01527",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4412444362",
@@ -47631,7 +47680,7 @@
      "doi": "10.1162/rest.a.271",
      "pdf": "https://kclpure.kcl.ac.uk/portal/files/364469013/migrec_restat_final_061725.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7220706399",
@@ -51812,9 +51861,62 @@
   {
    "key": "ai-ml",
    "name": "AI·머신러닝",
-   "count": 1785,
-   "new_count": 81,
+   "count": 1787,
+   "new_count": 26,
    "papers": [
+    {
+     "id": "oa:W7237589641",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Robots: Passing by in Public Spaces",
+     "authors": [
+      "Lena Fiedler",
+      "Sabine Ammon"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-11-23",
+     "abstract": "Robots are increasingly found in public spaces such as sidewalks, parks, and transportation hubs. Delivery robots cross urban streets to transport food and goods; maintenance robots clean public parks; and service robots provide information at museums, train stations and airports. In principle, public spaces are open and accessible to all and are characterized by diverse and plural encounters. As such, robots operating in these environments encounter a wide range of individuals of different ages, physical and mental abilities, and backgrounds. Unlike many forms of social human-robot interaction which presuppose familiarity, shared interests, or repeated engagement, interactions between robots and humans in public spaces are typically brief and incidental and occur without any shared purpose. Despite the growing presence of robots in public environments, existing research lacks a comprehensive conceptualization of human-robot interaction in public spaces and an ethical evaluation of such interaction. This paper makes three main contributions to address this research gap: First, it establishes a framework of “ passing by” human-robot interaction in public spaces, identifying it as a paradigmatic and undertheorized form of encounter between robots and people incidentally co-present with the robot. Second, it argues that passing by interaction can harm passersby when the robot’s behavior is not sufficiently legible to them. Hence, taking the principle of non-maleficence as an ethical baseline, the paper argues that robots operating in public spaces should be designed such that their behavior is intuitively understandable to a sufficient degree. As one possible means of achieving such intuitive understandability, the paper suggests that robots adhere to social rules that humans typically follow when navigating public spaces. However, conforming to these norms also carries the ethical risk of reproducing and reinforcing discriminatory practices, thereby undermining the diversity and openness that are constitutive of public spaces. Third, the paper examines this tension and translates its normative argument into three design ideals intended to guide the ethically responsible design of robots in public spaces.",
+     "url": "https://doi.org/10.1007/s13347-026-01243-w",
+     "doi": "10.1007/s13347-026-01243-w",
+     "pdf": "https://doi.org/10.1007/s13347-026-01243-w",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7238060352",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "AI and Overdetermination: The Real Source of Responsibility Gaps",
+     "authors": [
+      "Meradjuddin Khan Oidermaa",
+      "Isaac Taylor"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-11-23",
+     "abstract": "As AI systems become increasingly embedded in medicine, policing, warfare, and other high-stakes domains, their harmful outputs raise a pressing question: who, if anyone, is morally responsible? A common worry is that AI can generate responsibility gaps: cases in which morally significant harms occur, human agents acted suboptimally, and yet no individual seems to satisfy the conditions for accountability. Such gaps are troubling because they threaten practices of blame, compensation, deterrence, and moral repair. But when and why do responsibility gaps arise? Existing discussions often locate the source of the gap in either the opacity of AI systems or the involvement of many human contributors. This paper argues that both diagnoses miss the mark. The real source of AI responsibility gaps, we argue, is overdetermination. In many AI contexts, harmful outcomes may occur regardless of what any particular individual does, because other agents, firms, institutions, or systems would have produced materially similar outcomes. This structure undermines the control condition on moral responsibility. The diagnosis matters for our evaluations of remedies: transparency-based solutions target the wrong sort of problem, and individual gatekeeper models may simply reproduce the same overdetermination structure at a higher level. Collective-level solutions, by contrast, are at least structurally suited to closing the gap.",
+     "url": "https://doi.org/10.1007/s13347-026-01239-6",
+     "doi": "10.1007/s13347-026-01239-6",
+     "pdf": "https://doi.org/10.1007/s13347-026-01239-6",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
+    {
+     "id": "oa:W7238445013",
+     "topic": "ai-ml",
+     "origin": "OpenAlex",
+     "title": "Utopia of Ideas - A Nozickian Utopian Defense of the Right to Moderate Digital Content",
+     "authors": [
+      "Bartek Chomanski"
+     ],
+     "journal": "Philosophy & Technology",
+     "date": "2026-11-23",
+     "abstract": "In this paper I present two presumptive considerations in favor of extensive content moderation rights for digital platforms. I first develop a defense of this system as implementing a close realization of Robert Nozick’s conception of a utopian society. I argue that granting digital platforms such rights approximates Nozick’s picture of utopia on normatively relevant metrics. Second, I present a presumptive, partly Nozickian, humility-based case against the regulation of content moderation. Surprisingly, the Nozickian framework will turn out to be in principle compatible with some powerful regulatory tools, and thus does not entail a thoroughgoing cyberlibertarianism without additional assumptions, which I briefly discuss in closing.",
+     "url": "https://doi.org/10.1007/s13347-026-01246-7",
+     "doi": "10.1007/s13347-026-01246-7",
+     "pdf": "https://doi.org/10.1007/s13347-026-01246-7",
+     "first_seen": "2026-11-24T15:12:45+09:00",
+     "is_new": true
+    },
     {
      "id": "oa:W7237342799",
      "topic": "ai-ml",
@@ -52088,7 +52190,7 @@
      "origin": "OpenAlex",
      "title": "Misconceptions of artificial intelligence: the modern seer as a synthesis of human knowledge without consciousness, emotion, or moral sill",
      "authors": [
-      "Sarfaraz Niazi",
+      "Sarfaraz K. Niazi",
       "Mikołaj Stańczak"
      ],
      "journal": "AI and Ethics",
@@ -52291,7 +52393,7 @@
      "doi": "10.1017/dap.2026.10108",
      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/72EAEF0FC398EEC7C078E907C5257196/S2632324926101084a.pdf/div-class-title-trade-offs-in-deploying-legal-ai-insights-from-a-public-opinion-study-to-guide-ai-risk-management-div.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7164302415",
@@ -52312,7 +52414,7 @@
      "doi": "10.1162/99608f92.a1da0521",
      "pdf": "https://hdsr.mitpress.mit.edu/pub/xa7s8y7q/download/pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7171960887",
@@ -52333,7 +52435,7 @@
      "doi": "10.1007/s10994-026-07065-3",
      "pdf": "https://doi.org/10.1007/s10994-026-07065-3",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236582514",
@@ -52350,7 +52452,7 @@
      "doi": "10.1177/01622439261502838",
      "pdf": "https://doi.org/10.1177/01622439261502838",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236587707",
@@ -52367,7 +52469,7 @@
      "doi": "10.1017/dap.2026.10090",
      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FCCEB7023A0B7DE9007B38EA41A370C9/S263232492610090Xa.pdf/div-class-title-information-integrity-and-digital-information-pollution-in-indonesia-implications-for-democratic-governance-and-polarization-div.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236645752",
@@ -52387,7 +52489,7 @@
      "doi": "10.1007/s10614-026-11492-8",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236646783",
@@ -52405,7 +52507,7 @@
      "doi": "10.1007/s43681-026-01548-8",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236651762",
@@ -52423,7 +52525,7 @@
      "doi": "10.1007/s43681-026-01546-w",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01546-w.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236666473",
@@ -52442,7 +52544,7 @@
      "doi": "10.1007/s10614-026-11476-8",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236718192",
@@ -52465,7 +52567,7 @@
      "doi": "10.1017/dap.2026.10106",
      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E7A42A75A52E0F017C5BDCE2C1A76ED0/S2632324926101060a.pdf/div-class-title-a-multi-layer-de-identification-framework-for-psychiatric-audio-recordings-balancing-clinical-utility-and-privacy-protection-div.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236722968",
@@ -52482,7 +52584,7 @@
      "doi": "10.1007/s00146-026-03353-7",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236774280",
@@ -52499,7 +52601,7 @@
      "doi": "10.1162/99608f92.0a503188",
      "pdf": "https://hdsr.mitpress.mit.edu/pub/6zos537e/download/pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236825325",
@@ -52516,7 +52618,7 @@
      "doi": "10.1017/dap.2026.10107",
      "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/31674FE83ACA269FD7ADB5CC12062BF6/S2632324926101072a.pdf/div-class-title-from-supervisory-monitoring-to-prudential-calibration-translating-sex-disaggregated-administrative-data-into-standardised-provisioning-parameters-div.pdf",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236856065",
@@ -52535,7 +52637,7 @@
      "doi": "10.1613/jair.1.22972",
      "pdf": "https://www.jair.org/index.php/jair/article/download/22972/27387",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7225799491",
@@ -52560,7 +52662,7 @@
      "doi": "10.1109/tpami.2026.3755119",
      "pdf": "https://arxiv.org/pdf/2611.14491",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235850611",
@@ -52582,7 +52684,7 @@
      "doi": "10.1109/tpami.2026.3754462",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235869223",
@@ -52602,7 +52704,7 @@
      "doi": "10.1109/tnnls.2026.3748824",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236006533",
@@ -52625,7 +52727,7 @@
      "doi": "10.1109/tpami.2026.3754492",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236497067",
@@ -52649,7 +52751,7 @@
      "doi": "10.1109/tpami.2026.3754812",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4399486627",
@@ -52668,7 +52770,7 @@
      "doi": "10.1007/s42001-026-00503-1",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s42001-026-00503-1.pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7171681671",
@@ -52685,7 +52787,7 @@
      "doi": "10.1007/s43681-026-01532-2",
      "pdf": "https://doi.org/10.2139/ssrn.6936679",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7221786470",
@@ -52702,7 +52804,7 @@
      "doi": "10.1007/s43681-026-01530-4",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01530-4.pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235873832",
@@ -52721,7 +52823,7 @@
      "doi": "10.1007/s43681-026-01528-y",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01528-y.pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235889804",
@@ -52741,7 +52843,7 @@
      "doi": "10.1038/s42256-026-01349-y",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236029551",
@@ -52760,7 +52862,7 @@
      "doi": "10.1007/s10614-026-11487-5",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236053685",
@@ -52777,7 +52879,7 @@
      "doi": "10.1007/s43681-026-01502-8",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236097425",
@@ -52798,7 +52900,7 @@
      "doi": "10.1007/s10614-026-11495-5",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236136311",
@@ -52815,7 +52917,7 @@
      "doi": "10.1007/s43681-026-01456-x",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236182513",
@@ -52834,7 +52936,7 @@
      "doi": "10.1007/s43681-026-01541-1",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236200275",
@@ -52851,7 +52953,7 @@
      "doi": "10.1007/s13347-026-01232-z",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s13347-026-01232-z.pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236248078",
@@ -52868,7 +52970,7 @@
      "doi": "10.1002/aaai.70125",
      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70125",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236272488",
@@ -52887,7 +52989,7 @@
      "doi": "10.1007/s10614-026-11466-w",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236272657",
@@ -52906,7 +53008,7 @@
      "doi": "10.1007/s43681-026-01518-0",
      "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01518-0.pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236378041",
@@ -52924,7 +53026,7 @@
      "doi": "10.1007/s43681-026-01520-6",
      "pdf": "https://doi.org/10.1007/s43681-026-01520-6",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236440774",
@@ -52941,7 +53043,7 @@
      "doi": "10.1007/s43681-026-01485-6",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7234851368",
@@ -52962,7 +53064,7 @@
      "doi": "10.1109/tpami.2026.3755075",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235238862",
@@ -52980,7 +53082,7 @@
      "doi": "10.1109/tnnls.2026.3750877",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4414754653",
@@ -56847,7 +56949,7 @@
      "doi": "10.1016/j.patter.2026.101720",
      "pdf": "https://doi.org/10.1016/j.patter.2026.101720",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7136215349",
@@ -56865,7 +56967,7 @@
      "doi": "10.1016/j.artint.2026.104659",
      "pdf": "https://doi.org/10.1016/j.artint.2026.104659",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235877210",
@@ -56886,7 +56988,7 @@
      "doi": "10.1016/j.artint.2026.104661",
      "pdf": "https://doi.org/10.1016/j.artint.2026.104661",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235185172",
@@ -57768,7 +57870,7 @@
      "doi": "10.1145/3803798",
      "pdf": "https://doi.org/10.1145/3803798",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4380558715",
@@ -58798,7 +58900,7 @@
       "Saining Zhang",
       "Linqi Xiao",
       "Zhiguo Cao",
-      "Wei Li (7081)",
+      "Wei Li",
       "Hao Zhao",
       "Ziwei Liu"
      ],
@@ -63429,7 +63531,7 @@
      "abstract": "Advancements in Generative Artificial Intelligence (AI), particularly in the creation of ‘digital replicas’, have resulted in a significant increase in personal, ethical and legal concerns, leading to challenges in regulation and in public receptivity. This paper, arising from an interdisciplinary team, is the first to explore the legal challenges posed by digital replicas set within the broad context of sociological and linguistic perspectives. Owing to the prevalence of AI digital voice replicas in the creative industries, we use qualitative focus group data to focus on the legal implications and potential impact of AI digital voice replicas within this domain. To do this, we draw on the views of researchers, creatives and IP practitioners. Our focus group findings illustrated a range of responses to AI and voice cloning including skepticism, uncertainty, and a sense of inevitability. We find that the loss of what many refer to as the ‘authentic voice’ through cloning evokes an emotional response. The voice means a lot to people. As AI evolves, we posit that authenticity as a concept itself may need reconceptualising. Against this backdrop, we highlight the urgent need to address the legal vulnerability of the “un-fixed” voice, (a voice not permanently captured in traditional recordings), and the inadequacy of current United Kingdom (UK) Intellectual Property (IP) frameworks to protect it, we find that those lacking such status remain largely unprotected, highlighting a significant regulatory lacuna. This shortfall calls for a more robust protection of a ‘personality right’ in UK law.",
      "url": "https://doi.org/10.1007/s43681-026-01323-9",
      "doi": "10.1007/s43681-026-01323-9",
-     "pdf": "https://doi.org/10.31235/osf.io/a2usw_v1",
+     "pdf": "https://eprints.whiterose.ac.uk/id/eprint/244399/1/How_close_is_too_close_-_Public_attitudes_towards_digital_replicas_and_protection_of_the_unfixed_voice_2025.pdf",
      "first_seen": "2026-10-09T11:22:24+09:00",
      "abstract_ko": "생성적 인공 지능(AI), 특히 '디지털 복제본' 생성 분야의 발전으로 인해 개인적, 윤리적, 법적 문제가 크게 증가하여 규제 및 대중의 수용성 문제가 발생했습니다. 학제간 팀이 참여한 이 논문은 광범위한 사회학적, 언어적 관점 내에서 디지털 복제가 제기하는 법적 문제를 탐구한 최초의 논문입니다. 창조 산업에서 AI 디지털 음성 복제가 널리 보급됨에 따라 우리는 질적 포커스 그룹 데이터를 사용하여 이 영역 내에서 AI 디지털 음성 복제의 법적 의미와 잠재적 영향에 중점을 둡니다. 이를 위해 우리는 연구자, 창작자, IP 실무자의 견해를 활용합니다. 우리의 포커스 그룹 조사 결과는 회의론, 불확실성, 불가피성에 대한 감각을 포함하여 AI 및 음성 복제에 대한 다양한 반응을 보여주었습니다. 우리는 복제를 통해 많은 사람들이 '진정한 목소리'라고 부르는 것의 상실이 감정적 반응을 불러일으킨다는 것을 발견했습니다. 목소리는 사람들에게 많은 의미를 갖습니다. AI가 발전함에 따라 우리는 개념 자체로서의 진정성을 재개념화해야 할 수도 있다고 가정합니다. 이러한 배경에서 우리는 \"고정되지 않은\" 음성(기존 녹음에 영구적으로 포착되지 않는 음성)의 법적 취약성을 시급히 해결해야 할 필요성과 이를 보호하기 위한 현재 영국 지적 재산권(IP) 프레임워크의 부적절함을 강조합니다.",
      "is_new": false
@@ -64428,7 +64530,7 @@
      "title": "Quickest Causal Change Point Detection by Adaptive Intervention",
      "authors": [
       "Haijie Xu",
-      "Chen Zhang",
+      "Bo Zhang",
       "Jie Guo",
       "Chen Zhang"
      ],
@@ -66102,7 +66204,7 @@
      "doi": "10.1145/3709145",
      "pdf": "https://doi.org/10.25405/ncl.34519968",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4407682179",
@@ -66121,7 +66223,7 @@
      "doi": "10.1145/3718093",
      "pdf": "https://doi.org/10.1145/3718093",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4410343639",
@@ -66140,7 +66242,7 @@
      "doi": "10.1145/3735647",
      "pdf": "https://doi.org/10.1145/3735647",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4410837890",
@@ -66161,7 +66263,7 @@
      "doi": "10.1145/3737650",
      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3737650",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4411490993",
@@ -66181,7 +66283,7 @@
      "doi": "10.1145/3744655",
      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3744655",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4414203821",
@@ -66200,7 +66302,7 @@
      "doi": "10.1145/3748514",
      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3748514",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4415622526",
@@ -66226,7 +66328,7 @@
      "doi": "10.1145/3773897",
      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3773897",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4416758523",
@@ -66250,7 +66352,7 @@
      "doi": "10.1145/3770065",
      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3770065",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4412991710",
@@ -66273,7 +66375,7 @@
      "doi": "10.1145/3757924",
      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3757924",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7117983105",
@@ -79043,7 +79145,7 @@
      "doi": "10.1145/3702647",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4405734324",
@@ -79062,7 +79164,7 @@
      "doi": "10.1145/3709007",
      "pdf": "https://doi.org/10.1145/3709007",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4406760780",
@@ -79084,7 +79186,7 @@
      "doi": "10.1145/3714429",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4407839089",
@@ -79103,7 +79205,7 @@
      "doi": "10.1145/3719206",
      "pdf": "https://doi.org/10.1145/3719206",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4408869297",
@@ -79123,7 +79225,7 @@
      "doi": "10.1145/3725852",
      "pdf": "https://doi.org/10.1145/3725852",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4410344873",
@@ -79147,7 +79249,7 @@
      "doi": "10.1145/3735645",
      "pdf": "",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W4412827322",
@@ -79170,7 +79272,7 @@
      "doi": "10.1145/3757923",
      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3757923",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7140294934",
@@ -79191,7 +79293,7 @@
      "doi": "10.1145/3797906",
      "pdf": "https://doi.org/10.1145/3797906",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7119825123",
@@ -87719,25 +87821,6 @@
      "pdf": "",
      "first_seen": "2026-08-20T07:46:21+09:00",
      "is_new": false
-    },
-    {
-     "id": "oa:W7171291676",
-     "topic": "ai-ml",
-     "origin": "OpenAlex",
-     "title": "Social representations of GenAI and paradoxical tensions in its adoption in higher education",
-     "authors": [
-      "Audris Umel",
-      "Christoph Lattemann"
-     ],
-     "journal": "AI & Society",
-     "date": "2026-07-26",
-     "abstract": "Abstract In just a few years, generative artificial intelligence (GenAI or GAI) has distinctly impacted numerous facets of human activity, particularly in how information is processed and transformed into knowledge. As centers for knowledge (co)creation and appropriation, universities face the opportunity and challenge of navigating a de facto integration of this promising yet disruptive technology. This study examines how instructors and students form their common-sense understanding of GenAI and endorse actions that resolve the paradoxical tensions associated with GenAI. Utilising an integrated social representational and paradoxical lens, 12 semi-structured interviews were conducted with instructors and students, and the data were analysed using reflexive thematic analysis. Instructors and students share social representations of GenAI as an innovative yet demanding tool, a revolutionary progress, and a normative challenge. Nevertheless, instructors and students locate themselves differently within diverse paradoxical dimensions (e.g., openness vs vigilance) of these shared representations. These paradoxes further shape not only their identities as agentic and reflective tech adopters but also their expectations and recommendations for balancing managed and organic GenAI adoption. With aid from these findings, higher education institutions can establish sound and balanced GenAI-induced organisational and digital transformation processes and practices by mindfully fostering ambidextrous behaviours and strategies. These can then enrich existing expertise and perspectives among diverse university stakeholders and support renegotiation of boundaries between contradictory demands.",
-     "url": "https://doi.org/10.1007/s00146-026-03178-4",
-     "doi": "10.1007/s00146-026-03178-4",
-     "pdf": "https://link.springer.com/content/pdf/10.1007/s00146-026-03178-4.pdf",
-     "first_seen": "2026-08-20T07:46:21+09:00",
-     "abstract_ko": "Abstract 불과 몇 년 만에 생성 인공 지능(GenAI 또는 GAI)은 인간 활동의 다양한 측면, 특히 정보가 처리되고 지식으로 변환되는 방식에 뚜렷한 영향을 미쳤습니다. 지식 (공)창출 및 전유의 중심지로서 대학은 유망하면서도 파괴적인 기술의 사실상 통합을 탐색할 수 있는 기회와 도전에 직면해 있습니다. 본 연구에서는 강사와 학생이 어떻게 GenAI에 대한 상식적인 이해를 형성하고 GenAI와 관련된 역설적 긴장을 해결하는 행동을 지지하는지 조사합니다. 통합된 사회적 표상 및 역설적 렌즈를 활용하여 강사 및 학생을 대상으로 12번의 반구조화된 인터뷰를 실시하고 반사적 주제 분석을 사용하여 데이터를 분석했습니다. 강사와 학생은 혁신적이면서도 까다로운 도구, 혁명적인 진보, 규범적인 도전으로서 GenAI의 사회적 표현을 공유합니다. 그럼에도 불구하고 강사와 학생은 이러한 공유 표현의 다양한 역설적 차원(예: 개방성 대 경계성) 내에서 서로 다르게 위치합니다. 이러한 역설은 행위적이고 반성적인 기술 채택자로서의 정체성뿐만 아니라 관리형 및 유기적 GenAI 채택의 균형을 맞추기 위한 기대와 권장 사항도 형성합니다. 이러한 연구 결과의 도움을 받아 고등 교육 기관은 GenAI가 주도하는 조직 및 디지털 변혁 프로세스와 관행을 신중하게 육성함으로써 건전하고 균형 잡힌 조직을 구축할 수 있습니다.",
-     "is_new": false
     }
    ]
   },
@@ -87745,7 +87828,7 @@
    "key": "e-gov",
    "name": "전자정부·디지털행정",
    "count": 437,
-   "new_count": 9,
+   "new_count": 3,
    "papers": [
     {
      "id": "oa:W7237272846",
@@ -87839,7 +87922,7 @@
      "doi": "10.1145/3849877",
      "pdf": "https://doi.org/10.1145/3849877",
      "first_seen": "2026-11-21T12:19:48+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7234761101",
@@ -87931,7 +88014,7 @@
      "doi": "10.1177/15701255261506243",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236390331",
@@ -87950,7 +88033,7 @@
      "doi": "10.1016/j.telpol.2026.103341",
      "pdf": "https://www.sciencedirect.com/science/article/pii/S0308596126001916/pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7235240280",
@@ -87989,7 +88072,7 @@
      "doi": "10.1080/1369118x.2026.2763553",
      "pdf": "",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7234726535",
@@ -89392,7 +89475,7 @@
      "abstract": "Digital sovereignty is a political buzzword. However, there are diverging views on how to define and measure it. Throughout this study we propose the creation of a quantitative framework to measure digital sovereignty capabilities on a country's performance in three key areas: technology, government, and users. Through our analysis covering 123 countries, we have shown the different paths towards achieving sovereignty that are imprinted into how the countries contribute to the digital economy and reflect the asymmetries existing in the global value chains. The US and China both show a strong technological leadership, especially regarding emerging technologies, while the EU maintains a balance between innovation and regulations that the new strategies and MFF must address in order to become a relevant global player. • Digital sovereignty relies on balancing technology with the capacity of governments and users to control and utilize it. • The US and China have a higher technological sovereignty while the EU has prioritized a regulatory and user empowerment approach. • The EU exhibits has higher institutional capacity (74.93) yet lacks corresponding indigenous technological capabilities (42.22 vs. 71.18 in US)",
      "url": "https://doi.org/10.1016/j.telpol.2026.103334",
      "doi": "10.1016/j.telpol.2026.103334",
-     "pdf": "https://doi.org/10.1016/j.telpol.2026.103334",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0308596126001849/pdf",
      "first_seen": "2026-10-25T09:26:01+09:00",
      "abstract_ko": "디지털 주권은 정치적 전문용어입니다. 그러나 이를 정의하고 측정하는 방법에 대해서는 다양한 견해가 있습니다. 이 연구 전반에 걸쳐 우리는 기술, 정부, 사용자라는 세 가지 주요 영역에서 국가의 성과에 대한 디지털 주권 역량을 측정하기 위한 정량적 프레임워크의 생성을 제안합니다. 123개 국가를 대상으로 한 분석을 통해 우리는 국가가 디지털 경제에 기여하고 글로벌 가치 사슬에 존재하는 비대칭성을 반영하는 방식에 각인된 주권 달성을 향한 다양한 경로를 보여주었습니다. 미국과 중국은 특히 신흥 기술과 관련하여 강력한 기술 리더십을 보여주는 반면, EU는 관련 글로벌 플레이어가 되기 위해 새로운 전략과 MFF가 해결해야 하는 혁신과 규제 사이의 균형을 유지합니다. • 디지털 주권은 기술을 통제하고 활용하는 정부 및 사용자의 역량과 균형을 맞추는 데 달려 있습니다. • 미국과 중국은 더 높은 기술 주권을 갖고 있는 반면 EU는 규제 및 사용자 권한 부여 접근 방식을 우선시했습니다. • EU 전시회는 제도적 역량이 더 높지만(74.93) 이에 상응하는 고유 기술 역량이 부족합니다(42.22 대 미국 71.18).",
      "is_new": false
@@ -91311,7 +91394,7 @@
      "doi": "10.14763/2026.3.2122",
      "pdf": "https://doi.org/10.14763/2026.3.2122",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7236489155",
@@ -91330,7 +91413,7 @@
      "doi": "10.14763/2026.3.2121",
      "pdf": "https://policyreview.info/pdf/policyreview-2026-3-2121.pdf",
      "first_seen": "2026-11-20T12:37:30+09:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "id": "oa:W7203845468",
